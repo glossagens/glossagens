@@ -52,6 +52,8 @@ content/
 │       ├── _index.md                 ← Hauptkommentar (Branch Bundle, nicht index.md!)
 │       ├── rechtsprechung.md         ← Rechtsprechungsübersicht
 │       └── strafzumessung.md        ← optional, nur Straftatbestände (Skill `strafzumessungskommentar`)
+├── themen/{slug}/_index.md           ← Querschnittsthemen (siehe „Themen")
+├── sachgebiete/                      ← Seiten aus Content-Adapter, keine Markdown-Dateien
 ├── einreichung/_index.md             ← Einreichungsformular
 └── ueber/_index.md                   ← Projektbeschreibung
 
@@ -361,6 +363,55 @@ Tabellen (Prüfschemas, Kasuistikübersichten, Schwellenwert-Gegenüberstellunge
 
 - **Niemals** ` ```markdown ` und ` ``` ` um Tabellen setzen!
 - Hugo rendert mit Backticks umschlossene Tabellen als rohen `<pre><code>`-Quelltext mit horizontalem Scrollbalken statt als formatierte HTML-Tabelle (`<table>`).
+
+## Themen (`content/themen/`)
+
+Neben dem Kommentar zu einzelnen Bestimmungen: **übergeordnete Konzepte, Querschnittsthemen und
+Rechtsfragen**, deren Antwort sich aus mehreren Normen ergibt (Methodenpluralismus,
+Verfassungsgerichtsbarkeit, Ablauf des Asylverfahrens, Folgen einer ungerechtfertigten Kündigung,
+kantonale Schulsysteme). Abgrenzung: Was sich vollständig an **einem** Artikel festmachen lässt,
+gehört in den Kommentar. Ein Thema verdichtet und verweist auf die Kommentare, es wiederholt sie nicht.
+
+Anlage: `hugo new themen/{slug}/_index.md` (Archetyp `archetypes/themen.md`). Der Slug ist die
+**stabile** URL — bger-update verlinkt darauf. Umbenennen nur mit `aliases`.
+
+Frontmatter: Pflichtfelder wie beim Kommentarartikel (`title`, `date`, `lastmod`, `description`,
+`tags`, `agent_verified`, `revisions` — Revisions-Vermerk und `mcp_verified` gelten unverändert),
+dazu:
+
+| Feld | Bedeutung |
+|------|-----------|
+| `typ` | `grundlage` · `institution` · `verfahren` · `rechtsfolgen` · `kantonsvergleich` (`data/themen/typen.yaml`) |
+| `kurz` | Das Wichtigste in Kürze, 2–3 Sätze. Steht oben auf der Seite und im Index für bger-update |
+| `sachgebiete` | Schlüssel aus `data/sachgebiete/`, mehrere zulässig, **Untergebiet vor Sachgebiet** |
+| `normen` | `- { gesetz: or, art: art-336c }` — dreistellig wie das Artikelverzeichnis; ein noch nicht kommentierter Artikel ist zulässig und erscheint als Lücke mit «Anregung einreichen» |
+| `stichworte` | optional; für Themen ohne passendes BGer-Sachgebiet (Methodik), über die bger-update sie findet |
+
+Regeln:
+- Jede `##`/`###`-Überschrift trägt einen **festen Anker**: `## Fristlose Entlassung {#fristlose-entlassung}`.
+  Nur diese Anker kommen in den Index; der Build warnt bei Überschriften ohne Anker.
+- Ein Thema, das mehr als ein Hauptgebiet berührt, gilt automatisch als **Querschnittsthema**.
+- Quellen wie beim Kommentar: Normtext nur über Fedlex bzw. `{{< wortlaut gesetz="…" art="…" >}}`,
+  Entscheide über entscheidsuche verlinken, nichts aus dem Gedächtnis zitieren.
+- Bei Kantonsvergleichen je Kanton Quelle und Stand; ohne verifizierte Quelle «nicht erhoben».
+- Fehlender/unbekannter `typ`, fehlendes `kurz`, fehlende oder unbekannte `sachgebiete`, unbekanntes
+  Gesetz oder falsch geschriebenes `art` in `normen`, fehlende `revisions`: **Build bricht ab**
+  (`layouts/_partials/sachgebiete/pruefen.html`).
+
+Darstellung (`layouts/themen/list.html`, Daten aus `layouts/_partials/themen/index.html`):
+- `/themen/` gliedert nach Hauptgebiet und Sachgebiet; ein Thema steht unter jedem seiner
+  Sachgebiete («auch unter …»).
+- Die Themenseite zeigt Typ, Sachgebiet-Badges, «Das Wichtigste in Kürze», den Text,
+  «Betroffene Bestimmungen» (aus `normen`) und «Verwandte Themen» (gemeinsame Norm oder Sachgebiet).
+- Kommentarartikel, die ein Thema in `normen` führt, zeigen unter dem Titel «In Themen behandelt».
+- Sachgebiet-Seiten listen die Themen vor den Artikeln.
+
+**Index für bger-update**: `/themen/index.json` (`layouts/themen/list.json.json`) mit
+`gesetze` (Kürzel, SR), `normen` (`"or/art-336c"` → Kommentar-URL, Themen), `sachgebiete`
+(Schlüssel genau wie getaggt → Themen, Kommentare) und `themen` (Titel, URL, `kurz`, Typ,
+Sachgebiete, Normen, Stichworte, Abschnittsanker, `verifiziert`). `verifiziert` ist
+`agent_verified` **und** `mcp_verified` der jüngsten Revision — nur solche Themen sind als
+Verweisziel gedacht.
 
 ## Suche
 

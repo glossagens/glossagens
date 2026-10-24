@@ -1,0 +1,67 @@
+{{- /*
+  Index der Themen (content/themen/{slug}/_index.md), einmal pro Build (partialCached).
+
+  Rückgabe:
+    themen          Liste { page, slug, sachgebiete, hauptgebiete, querschnitt,
+                    normen, verifiziert }, nach Titel sortiert
+                    normen: Liste { key "or/art-336c", gesetz, art, label
+                    "Art. 336c OR", kommentar (Seite oder nil) }
+    nachNorm        Map "or/art-336c" → Liste von Themenseiten
+    nachSachgebiet  Map Sachgebiet (ohne Untergebiet) → Liste { page, key }
+
+  querschnitt: das Thema berührt mehr als ein Hauptgebiet.
+  verifiziert: agent_verified und jüngste Revision mit mcp_verified — nur
+  solche Themen bietet der Index für bger-update als Verweisziel an.
+*/ -}}
+
+{{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
+{{- $themen := slice -}}
+{{- $nachNorm := dict -}}
+{{- $nachSachgebiet := dict -}}
+
+{{- with site.GetPage "/themen" -}}
+  {{- range sort .Sections "Title" -}}
+    {{- $p := . -}}
+    {{- $slug := path.Base .Path -}}
+
+    {{- $hgs := slice -}}
+    {{- range $tag := .Params.sachgebiete -}}
+      {{- with index $katalog.eintraege $tag -}}
+        {{- $hgs = $hgs | append .hauptgebiet -}}
+        {{- $liste := (index $nachSachgebiet .sachgebiet) | default slice -}}
+        {{- $nachSachgebiet = merge $nachSachgebiet (dict .sachgebiet ($liste | append (dict "page" $p "key" $tag))) -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $normen := slice -}}
+    {{- range .Params.normen -}}
+      {{- $key := printf "%s/%s" .gesetz .art -}}
+      {{- $g := site.GetPage (printf "/kommentar/%s" .gesetz) -}}
+      {{- $rest := strings.TrimPrefix "art-" .art -}}
+      {{- $nr := printf "%s%s" (strings.TrimLeft "0" (index (append (slice) (findRE "^[0-9]+" $rest 1)) 0 | default "0")) (replaceRE "^[0-9]+" "" $rest) -}}
+      {{- $kuerzel := "" -}}
+      {{- with $g -}}{{- $kuerzel = .Params.kuerzel -}}{{- with .Params.kanton -}}{{- $kuerzel = printf "%s %s" $kuerzel . -}}{{- end -}}{{- end -}}
+      {{- $normen = $normen | append (dict
+        "key" $key "gesetz" .gesetz "art" .art
+        "label" (printf "Art. %s %s" $nr $kuerzel)
+        "kommentar" (site.GetPage (printf "/kommentar/%s/%s" .gesetz .art))
+      ) -}}
+      {{- $liste := (index $nachNorm $key) | default slice -}}
+      {{- $nachNorm = merge $nachNorm (dict $key ($liste | append $p)) -}}
+    {{- end -}}
+
+    {{- $verifiziert := false -}}
+    {{- with .Params.revisions -}}
+      {{- $verifiziert = and ($p.Params.agent_verified | default false) ((index . 0).mcp_verified | default false) -}}
+    {{- end -}}
+
+    {{- $themen = $themen | append (dict
+      "page" $p "slug" $slug
+      "sachgebiete" (.Params.sachgebiete | default slice)
+      "hauptgebiete" (uniq $hgs) "querschnitt" (gt (len (uniq $hgs)) 1)
+      "normen" $normen "verifiziert" $verifiziert
+    ) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return dict "themen" $themen "nachNorm" $nachNorm "nachSachgebiet" $nachSachgebiet -}}

@@ -1,0 +1,107 @@
+{{- /*
+  /themen/index.json — maschinenlesbarer Index für bger-update.
+
+  bger-update ordnet jedes Urteil einem Sachgebiet und Untergebieten zu
+  (dieselben Schlüssel wie data/sachgebiete/) und sucht hier nach Material:
+    sachgebiete  Schlüssel (genau wie getaggt) → Themen und Kommentare;
+                 die Hierarchie (Untergebiet ⊂ Sachgebiet) löst der Leser auf
+    normen       "or/art-336c" → Kommentar-URL und Themen; der Schlüssel ist
+                 Gesetzesverzeichnis + Artikelverzeichnis, "gesetze" bildet
+                 Kürzel und SR-Nummer darauf ab
+    themen       Slug → Titel, URL, Kurztext, Typ, Sachgebiete, Normen,
+                 Stichworte, Abschnittsanker, verifiziert
+  Nur Themen mit verifiziert: true sind als Verweisziel gedacht.
+  Abschnittsanker stammen aus festen {#id} der Überschriften.
+
+  Nur für /themen/ erzeugt (outputs im Frontmatter von content/themen/_index.md).
+*/ -}}
+{{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
+{{- $themenIdx := partialCached "themen/index.html" . -}}
+{{- $sgIndex := partialCached "sachgebiete/index.html" . -}}
+
+{{- /* Gesetze und Kommentare */ -}}
+{{- $gesetze := dict -}}
+{{- $normen := dict -}}
+{{- with site.GetPage "/kommentar" -}}
+  {{- range .Sections -}}
+    {{- $g := path.Base .Path -}}
+    {{- $gesetze = merge $gesetze (dict $g (dict
+      "kuerzel" .Params.kuerzel "name" .Params.gesetz_name
+      "sr" (.Params.sr | default "") "srl" (.Params.srl | default "")
+      "kanton" (.Params.kanton | default "") "url" .Permalink
+    )) -}}
+    {{- range where .Sections "Kind" "section" -}}
+      {{- $normen = merge $normen (dict (printf "%s/%s" $g (path.Base .Path)) (dict
+        "titel" .Title "kommentar" .Permalink "themen" slice
+      )) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Themen */ -}}
+{{- $themen := dict -}}
+{{- $sachgebiete := dict -}}
+{{- range $themenIdx.themen -}}
+  {{- $t := . -}}
+  {{- $p := .page -}}
+
+  {{- /* Nur feste Anker: automatisch erzeugte IDs ändern sich mit dem Wortlaut. */ -}}
+  {{- $fest := slice -}}
+  {{- range findRE `\{#[a-z0-9-]+\}` $p.RawContent -}}{{- $fest = $fest | append (strings.Trim . "{#}") -}}{{- end -}}
+  {{- $abschnitte := slice -}}
+  {{- range partial "themen/abschnitte.html" $p.Fragments.Headings -}}
+    {{- if in $fest .id -}}
+      {{- $abschnitte = $abschnitte | append (merge . (dict "url" (printf "%s#%s" $p.Permalink .id))) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $nkeys := slice -}}
+  {{- range .normen -}}
+    {{- $nkeys = $nkeys | append .key -}}
+    {{- $alt := (index $normen .key) | default (dict "titel" .label "kommentar" nil "themen" slice) -}}
+    {{- $normen = merge $normen (dict .key (merge $alt (dict "themen" ($alt.themen | append $t.slug)))) -}}
+  {{- end -}}
+
+  {{- $themen = merge $themen (dict .slug (dict
+    "titel" $p.Title "url" $p.Permalink "typ" $p.Params.typ
+    "kurz" ($p.Params.kurz | markdownify | plainify)
+    "sachgebiete" .sachgebiete "querschnitt" .querschnitt
+    "normen" $nkeys "stichworte" ($p.Params.stichworte | default slice)
+    "abschnitte" $abschnitte "verifiziert" .verifiziert
+    "lastmod" ($p.Lastmod.Format "2006-01-02")
+  )) -}}
+
+  {{- range .sachgebiete -}}
+    {{- $alt := (index $sachgebiete .) | default (dict "themen" slice "kommentare" slice) -}}
+    {{- $sachgebiete = merge $sachgebiete (dict . (merge $alt (dict "themen" ($alt.themen | append $t.slug)))) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Kommentare je Schlüssel, genau wie in data/sachgebiete/zuordnung.yaml getaggt */ -}}
+{{- range $sg, $liste := $sgIndex -}}
+  {{- range sort $liste "sort" -}}
+    {{- $nk := printf "%s/%s" .gesetz (path.Base .page.Path) -}}
+    {{- $alt := (index $sachgebiete .key) | default (dict "themen" slice "kommentare" slice) -}}
+    {{- $sachgebiete = merge $sachgebiete (dict .key (merge $alt (dict "kommentare" ($alt.kommentare | append $nk)))) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Bezeichnung und URL je Schlüssel */ -}}
+{{- range $k, $v := $sachgebiete -}}
+  {{- $sachgebiete = merge $sachgebiete (dict $k (merge $v (dict
+    "label" (index $katalog.eintraege $k).label
+    "quelle" (index $katalog.eintraege $k).quelle
+    "url" (absURL (partial "sachgebiete/link.html" $k))
+  ))) -}}
+{{- end -}}
+
+{{- dict
+  "version" 1
+  "stand" (now.Format "2006-01-02")
+  "sachgebiete_stand_bger" hugo.Data.sachgebiete.bger.stand
+  "gesetze" $gesetze
+  "themen" $themen
+  "sachgebiete" $sachgebiete
+  "normen" $normen
+  | jsonify (dict "indent" " ")
+-}}

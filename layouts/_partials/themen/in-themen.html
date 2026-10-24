@@ -1,0 +1,17 @@
+{{- /*
+  Kommentar-Artikelseite: «In Themen behandelt» — Themen, die diesen Artikel
+  in ihrem Frontmatter `normen` führen. Gibt nichts aus, wenn es keine gibt.
+
+  Kontext: die Artikelseite (art-{nr}/_index.md).
+*/ -}}
+{{- $themen := partialCached "themen/index.html" . -}}
+{{- $key := printf "%s/%s" (path.Base .Parent.Path) (path.Base .Path) -}}
+{{- with index $themen.nachNorm $key -}}
+  <p class="th-rueckverweis not-prose">
+    <span class="th-kurz-titel">In Themen behandelt</span>
+    {{- range $i, $t := uniq . -}}
+      {{- if $i }}<span class="th-trenner"> · </span>{{ end -}}
+      <a href="{{ $t.RelPermalink }}">{{ $t.Title }}</a>
+    {{- end -}}
+  </p>
+{{- end -}}

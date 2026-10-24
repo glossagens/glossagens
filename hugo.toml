@@ -102,28 +102,32 @@ ignoreLogs = ['warning-goldmark-raw-html']
     pageRef = "/kommentar"
     weight = 1
   [[menu.main]]
+    name = "Themen"
+    pageRef = "/themen"
+    weight = 2
+  [[menu.main]]
     name = "Sachgebiete"
     pageRef = "/sachgebiete"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Über"
     pageRef = "/ueber"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Einreichung"
     pageRef = "/einreichung"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "Für Agenten"
     pageRef = "/fuer-agenten"
-    weight = 5
+    weight = 6
   # Rendert das Suchfeld in der Navigationsleiste. Ohne diesen Eintrag zeigt
   # Hextra auf dem Desktop gar keine Suche an — sie steckte bis dahin nur in
   # der mobilen Seitenleiste (`hx:md:hidden`).
   [[menu.main]]
     identifier = "search"
     name = "Suche"
-    weight = 6
+    weight = 7
     [menu.main.params]
       type = "search"
 
@@ -131,7 +135,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/glossagens/glossagens"
-    weight = 7
+    weight = 8
     [menu.main.params]
       type = "icon"
       icon = "github"

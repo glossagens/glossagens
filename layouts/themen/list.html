@@ -1,0 +1,124 @@
+{{- /*
+  Themen: /themen/ (Übersicht) und /themen/{slug}/ (Themenseite).
+
+  Übersicht: nach Hauptgebiet (Grundlagen zuerst) und Sachgebiet, ein Thema
+  erscheint unter jedem seiner Sachgebiete. Themenseite: Typ, Sachgebiete,
+  «Das Wichtigste in Kürze» (Frontmatter `kurz`), Text, betroffene
+  Bestimmungen mit Verweis auf die Kommentare, verwandte Themen.
+  Daten: layouts/_partials/themen/index.html.
+*/ -}}
+{{ define "main" }}
+  {{- $logical := strings.TrimPrefix "/" (strings.TrimSuffix "/" .Path) -}}
+  {{- $depth := len (split $logical "/") -}}
+  {{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
+  {{- $themen := partialCached "themen/index.html" . -}}
+  {{- $typen := dict -}}
+  {{- range hugo.Data.themen.typen.typen -}}{{- $typen = merge $typen (dict .key .name) -}}{{- end -}}
+
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    {{ partial "sidebar.html" (dict "context" .) }}
+    {{ partial "toc.html" . }}
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main id="content" class="hx:w-full hx:min-w-0 hextra-max-content-width hx:px-6 hx:pt-4 hx:md:px-12">
+        {{ partial "breadcrumb.html" (dict "page" . "enable" (gt $depth 1)) }}
+        <div class="content">
+          <h1>{{ .Title }}</h1>
+
+          {{- if eq $depth 1 }}
+            {{/* ============ /themen/ — Übersicht ============ */}}
+            {{ .Content }}
+            {{- if not $themen.themen }}
+              <p><em>Noch keine Themen veröffentlicht.</em></p>
+            {{- else }}
+              <div class="th-uebersicht not-prose">
+                {{- range $hg := $katalog.hauptgebiete -}}
+                  {{- $sgs := slice -}}
+                  {{- range where $katalog.reihenfolge "hauptgebiet" $hg.key -}}
+                    {{- if index $themen.nachSachgebiet .key -}}{{- $sgs = $sgs | append . -}}{{- end -}}
+                  {{- end -}}
+                  {{- with $sgs -}}
+                    <h2 class="sg-gruppe">{{ $hg.name }}</h2>
+                    {{- range $sg := . -}}
+                      <h3 class="th-sachgebiet"><a href="{{ partial "sachgebiete/link.html" $sg.key }}">{{ replaceRE ` \(.*\)$` "" $sg.name }}</a></h3>
+                      <ul class="th-liste">
+                        {{- $gezeigt := slice -}}
+                        {{- range index $themen.nachSachgebiet $sg.key -}}
+                          {{- if in $gezeigt .page.RelPermalink -}}{{- continue -}}{{- end -}}
+                          {{- $gezeigt = $gezeigt | append .page.RelPermalink -}}
+                          {{- $t := index (where $themen.themen "page" .page) 0 -}}
+                          {{ partial "themen/zeile.html" (dict "t" $t "typen" $typen "katalog" $katalog "ausser" $sg.key) }}
+                        {{- end -}}
+                      </ul>
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              </div>
+            {{- end }}
+
+          {{- else }}
+            {{/* ============ /themen/{slug}/ — Themenseite ============ */}}
+            {{- $t := index (where $themen.themen "page" .) 0 -}}
+            <p class="th-meta">
+              {{ index $typen .Params.typ }}
+              {{- if $t.querschnitt }} · <span class="th-querschnitt">Querschnittsthema</span>{{ end }}
+            </p>
+            {{ partial "sachgebiete/badges.html" (.Params.sachgebiete | default slice) }}
+
+            <aside class="th-kurz">
+              <p class="th-kurz-titel">Das Wichtigste in Kürze</p>
+              {{ .Params.kurz | markdownify }}
+            </aside>
+
+            {{ .Content }}
+
+            {{- with $t.normen }}
+              <h2 id="betroffene-bestimmungen">Betroffene Bestimmungen</h2>
+              <section class="th-normen not-prose">
+                <ul>
+                  {{- range . -}}
+                    <li>
+                      {{- with .kommentar -}}
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                      {{- else -}}
+                        <span class="th-luecke">{{ .label }}</span>
+                        <span class="th-luecke-hinweis">noch nicht kommentiert ·
+                          <a href="https://github.com/glossagens/glossagens/issues/new?template=anregung.yml&amp;title={{ .label | urlquery }}">Anregung einreichen</a></span>
+                      {{- end -}}
+                    </li>
+                  {{- end -}}
+                </ul>
+              </section>
+            {{- end }}
+
+            {{- /* Verwandt: gemeinsame Norm oder gemeinsames Sachgebiet. */ -}}
+            {{- $eigene := slice -}}{{- range $t.normen -}}{{- $eigene = $eigene | append .key -}}{{- end -}}
+            {{- $eigeneSg := slice -}}
+            {{- range $t.sachgebiete -}}{{- $eigeneSg = $eigeneSg | append (index $katalog.eintraege .).sachgebiet -}}{{- end -}}
+            {{- $verwandt := slice -}}
+            {{- range $themen.themen -}}
+              {{- if eq .page $ -}}{{- continue -}}{{- end -}}
+              {{- $andereNormen := slice -}}{{- range .normen -}}{{- $andereNormen = $andereNormen | append .key -}}{{- end -}}
+              {{- $andereSg := slice -}}{{- range .sachgebiete -}}{{- $andereSg = $andereSg | append (index $katalog.eintraege .).sachgebiet -}}{{- end -}}
+              {{- if or (intersect $eigene $andereNormen) (intersect $eigeneSg $andereSg) -}}
+                {{- $verwandt = $verwandt | append . -}}
+              {{- end -}}
+            {{- end -}}
+            {{- with $verwandt }}
+              <h2 id="verwandte-themen">Verwandte Themen</h2>
+              <section class="th-verwandt not-prose">
+                <ul class="th-liste">
+                  {{- range . -}}
+                    {{ partial "themen/zeile.html" (dict "t" . "typen" $typen "katalog" $katalog "ausser" "") }}
+                  {{- end -}}
+                </ul>
+              </section>
+            {{- end }}
+          {{- end }}
+        </div>
+        <div class="hx:mt-16"></div>
+        {{ partial "components/last-updated.html" . }}
+        {{ partial "components/comments.html" . }}
+      </main>
+    </article>
+  </div>
+{{ end }}

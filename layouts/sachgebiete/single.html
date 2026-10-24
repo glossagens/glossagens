@@ -31,6 +31,23 @@
             {{- end }}
           </p>
 
+          {{- /* Themen dieses Sachgebiets (auch über ein Untergebiet getaggt). */ -}}
+          {{- $themen := partialCached "themen/index.html" . -}}
+          {{- with index $themen.nachSachgebiet $key }}
+            {{- $typen := dict -}}
+            {{- range hugo.Data.themen.typen.typen -}}{{- $typen = merge $typen (dict .key .name) -}}{{- end -}}
+            <h2 id="themen">Themen</h2>
+            <ul class="th-liste not-prose">
+              {{- $gezeigt := slice -}}
+              {{- range . -}}
+                {{- if in $gezeigt .page.RelPermalink -}}{{- continue -}}{{- end -}}
+                {{- $gezeigt = $gezeigt | append .page.RelPermalink -}}
+                {{ partial "themen/zeile.html" (dict "t" (index (where $themen.themen "page" .page) 0) "typen" $typen "katalog" $katalog "ausser" $key) }}
+              {{- end -}}
+            </ul>
+            {{- if $eintraege }}<h2 id="kommentare">Kommentierte Artikel</h2>{{ end -}}
+          {{- end }}
+
           {{- if not $eintraege }}
             <p><em>Diesem Sachgebiet sind noch keine Kommentare zugeordnet.</em></p>
           {{- else -}}

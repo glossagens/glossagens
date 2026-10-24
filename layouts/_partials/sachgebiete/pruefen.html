@@ -59,3 +59,48 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+
+{{- /* Themen (content/themen/{slug}/_index.md): Pflichtfelder, Schlüssel und
+       Normverweise. Ein Thema ohne gültiges Sachgebiet fiele aus Übersicht,
+       Sachgebiet-Seiten und dem Index für bger-update. Eine Norm darf auf
+       einen noch nicht kommentierten Artikel zeigen (er erscheint dann als
+       Lücke), aber nicht auf ein unbekanntes Gesetz. */ -}}
+{{- $typen := slice -}}
+{{- range hugo.Data.themen.typen.typen -}}{{- $typen = $typen | append .key -}}{{- end -}}
+{{- with site.GetPage "/themen" -}}
+  {{- range .Sections -}}
+    {{- $ort := printf "themen/%s" (path.Base .Path) -}}
+    {{- if not (in $typen .Params.typ) -}}
+      {{- errorf "%s: `typ` fehlt oder ist unbekannt (%v) — zulässig: %s" $ort .Params.typ (delimit $typen ", ") -}}
+    {{- end -}}
+    {{- if not .Params.kurz -}}
+      {{- errorf "%s: `kurz` fehlt (Das Wichtigste in Kürze, 2–3 Sätze)" $ort -}}
+    {{- end -}}
+    {{- if not .Params.sachgebiete -}}
+      {{- errorf "%s: `sachgebiete` fehlt" $ort -}}
+    {{- end -}}
+    {{- range .Params.sachgebiete -}}
+      {{- if not (isset $katalog.eintraege .) -}}
+        {{- errorf "%s: unbekanntes Sachgebiet %q (data/sachgebiete/bger.yaml, eigene.yaml)" $ort . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- range .Params.normen -}}
+      {{- if not (site.GetPage (printf "/kommentar/%s" .gesetz)) -}}
+        {{- errorf "%s: Norm %v — Gesetz %q gibt es unter content/kommentar/ nicht" $ort . .gesetz -}}
+      {{- end -}}
+      {{- if not (findRE `^art-[0-9]{3}[a-z]*$` (string .art)) -}}
+        {{- errorf "%s: Norm %v — `art` dreistellig wie der Verzeichnisname (art-007, art-336c)" $ort . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if not .Params.revisions -}}
+      {{- errorf "%s: `revisions` fehlt" $ort -}}
+    {{- end -}}
+    {{- /* Abschnittsanker sind Verweisziele für bger-update und müssen
+           Umformulierungen überstehen: jede ##/###-Überschrift trägt {#id}. */ -}}
+    {{- range findRE `(?m)^#{2,3} [^\n]*$` .RawContent -}}
+      {{- if not (findRE `\{#[a-z0-9-]+\}\s*$` .) -}}
+        {{- warnf "%s: Überschrift ohne festen Anker {#id}: %s" $ort . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

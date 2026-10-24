@@ -1,0 +1,19 @@
+{{- /*
+  Überschriften (## und ###) eines Themas in Dokumentreihenfolge, rekursiv
+  über .Fragments.Headings.
+
+  Aufruf: partial "themen/abschnitte.html" $page.Fragments.Headings
+  Rückgabe: Liste { id, titel }. Gefiltert auf feste Anker ({#id}) macht das
+  der Aufrufer — Fragments kennt den Unterschied zu automatisch erzeugten
+  IDs nicht.
+*/ -}}
+{{- $out := slice -}}
+{{- range . -}}
+  {{- if and .ID (in (slice 2 3) .Level) -}}
+    {{- $out = $out | append (dict "id" .ID "titel" (.Title | plainify)) -}}
+  {{- end -}}
+  {{- with .Headings -}}
+    {{- range partial "themen/abschnitte.html" . -}}{{- $out = $out | append . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

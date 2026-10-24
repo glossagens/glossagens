@@ -7,6 +7,7 @@
 {{ define "main" }}
   {{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
   {{- $index := partialCached "sachgebiete/index.html" . -}}
+  {{- $themen := partialCached "themen/index.html" . -}}
 
   <div class='hx:mx-auto hx:flex hextra-max-page-width'>
     {{ partial "sidebar.html" (dict "context" .) }}
@@ -22,18 +23,20 @@
             {{- range $hg := $katalog.hauptgebiete -}}
               {{- $zeilen := slice -}}
               {{- range where $katalog.reihenfolge "hauptgebiet" $hg.key -}}
-                {{- if index $index .key -}}{{- $zeilen = $zeilen | append .key -}}{{- end -}}
+                {{- if or (index $index .key) (index $themen.nachSachgebiet .key) -}}{{- $zeilen = $zeilen | append .key -}}{{- end -}}
               {{- end -}}
               {{- if $zeilen -}}
                 <h2 class="sg-gruppe">{{ $hg.name }}</h2>
                 <ul class="sg-hliste">
                   {{- range $sg := where $katalog.reihenfolge "hauptgebiet" $hg.key -}}
-                    {{- with index $index $sg.key -}}
-                      {{- $e := . -}}
+                    {{- if or (index $index $sg.key) (index $themen.nachSachgebiet $sg.key) -}}
+                      {{- $e := (index $index $sg.key) | default slice -}}
+                      {{- $th := slice -}}{{- range index $themen.nachSachgebiet $sg.key -}}{{- $th = $th | append .page.RelPermalink -}}{{- end -}}
                       {{- $alle := slice -}}{{- range $e -}}{{- $alle = $alle | append .page.RelPermalink -}}{{- end -}}
                       <li class="sg-zeile">
                         <a class="sg-link" href="{{ partial "sachgebiete/link.html" $sg.key }}">
                           <span class="sg-name">{{ $sg.name }}</span>
+                          {{- with uniq $th }}<span class="sg-themen">{{ len . }} {{ cond (eq (len .) 1) "Thema" "Themen" }}</span>{{ end }}
                           <span class="sg-anzahl">{{ len (uniq $alle) }}</span>
                         </a>
                         {{- $unter := slice -}}

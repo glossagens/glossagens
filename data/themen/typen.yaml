@@ -1,0 +1,19 @@
+# Seitentypen der Themen (Frontmatter `typ` in content/themen/{slug}/_index.md).
+# Der Typ legt fest, was eine Themenseite enthält; die Vorgaben je Typ stehen
+# in CLAUDE.md („Themen") und im Archetyp archetypes/themen.md.
+typen:
+  - key: grundlage
+    name: "Grundbegriff"
+    inhalt: "Begriff, Herleitung, Rechtsprechungslinie, Kritik"
+  - key: institution
+    name: "Institution"
+    inhalt: "Aufbau, Zuständigkeiten, Grenzen, Vergleich"
+  - key: verfahren
+    name: "Verfahrensablauf"
+    inhalt: "Ablauf Schritt für Schritt mit Fristen und Rechtsmitteln"
+  - key: rechtsfolgen
+    name: "Rechtsfolgen"
+    inhalt: "Voraussetzungen → Folgen → Durchsetzung entlang der beteiligten Normen"
+  - key: kantonsvergleich
+    name: "Kantonsvergleich"
+    inhalt: "Tabelle über die Kantone, je mit Quelle und Stand"

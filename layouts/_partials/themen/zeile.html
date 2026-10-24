@@ -1,0 +1,22 @@
+{{- /*
+  Ein Thema als Listenzeile: Titel, Typ, Querschnitt, «auch unter …», Kurztext.
+
+  Kontext: dict "t" (Eintrag aus themen/index.html) "typen" (Map key → Name)
+  "katalog" (sachgebiete/katalog.html) "ausser" (Sachgebiet, unter dem die
+  Zeile gerade steht — wird bei «auch unter» weggelassen; "" für keines).
+*/ -}}
+{{- $t := .t -}}
+{{- $katalog := .katalog -}}
+{{- $auch := slice -}}
+{{- range $t.sachgebiete -}}
+  {{- $sg := (index $katalog.eintraege .).sachgebiet -}}
+  {{- if ne $sg $.ausser -}}
+    {{- $auch = $auch | append (replaceRE ` \(.*\)$` "" (index $katalog.eintraege $sg).name) -}}
+  {{- end -}}
+{{- end -}}
+<li class="th-zeile">
+  <a class="th-titel" href="{{ $t.page.RelPermalink }}">{{ $t.page.Title }}</a>
+  <span class="th-typ">{{ index .typen $t.page.Params.typ }}{{ if $t.querschnitt }} · Querschnitt{{ end }}</span>
+  {{- with $t.page.Params.kurz }}<p class="th-kurztext">{{ . | markdownify | plainify | truncate 220 }}</p>{{ end -}}
+  {{- with uniq $auch }}<p class="th-auch">auch unter: {{ delimit . ", " }}</p>{{ end -}}
+</li>
