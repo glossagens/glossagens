@@ -45,8 +45,8 @@ anderen Gerichts aus dem Annex.
 
 | Nr. | Thema | Typ | Priorität | Status |
 |---|---|---|---|---|
-| 1 | Bettelverbote und umwandelbare Bussen | `grundlage` | hoch | offen |
-| 2 | Haftgründe und Ersatzmassnahmen im Strafverfahren | `verfahren` | hoch | offen |
+| 1 | Bettelverbote und umwandelbare Bussen | `grundlage` | hoch | in Arbeit — Hermes Agent, glm-5.2, 24.10.2026 |
+| 2 | Haftgründe und Ersatzmassnahmen im Strafverfahren | `verfahren` | hoch | in Arbeit — Antigravity, Gemini 3.8 Flash, 24.10.2026 |
 | 3 | Altersfeststellung und Datenberichtigung im ZEMIS/SYMIC | `verfahren` | hoch | offen |
 | 4 | Fernhaltung straffälliger Ausländerinnen und Ausländer | `rechtsfolgen` | hoch | offen |
 | 5 | Replikrecht und Akteneinsicht | `grundlage` | hoch | offen |
@@ -72,7 +72,7 @@ Thema berührt mehr als ein Hauptgebiet; **mittel** = klarer Querschnitt mit akt
 
 ## 1. Bettelverbote und umwandelbare Bussen {#bettelverbote}
 
-- **Status**: offen
+- **Status**: in Arbeit — Hermes Agent, glm-5.2, 24.10.2026
 - **Slug**: `bettelverbote-und-umwandelbare-bussen`
 - **Typ**: `grundlage` (alternativ als zweiter Schritt ein `kantonsvergleich` der kantonalen Bettelverbote)
 - **Sachgebiete**: `grundrechte`, `strafrecht.strafzumessung`, `strafprozess.strafbefehl`
@@ -92,7 +92,7 @@ Thema berührt mehr als ein Hauptgebiet; **mittel** = klarer Querschnitt mit akt
 
 ## 2. Haftgründe und Ersatzmassnahmen im Strafverfahren {#haftgruende}
 
-- **Status**: offen
+- **Status**: in Arbeit — Antigravity, Gemini 3.8 Flash, 24.10.2026
 - **Slug**: `haftgruende-und-ersatzmassnahmen`
 - **Typ**: `verfahren` (Anordnung → Haftprüfung → Haftentlassung, je mit Haftgrund und Ersatzmassnahme)
 - **Sachgebiete**: `strafprozess.haft`, `strafprozess.verteidigung`, `grundrechte`
