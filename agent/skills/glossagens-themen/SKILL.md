@@ -177,9 +177,14 @@ Hinweis, dass die Angabe der Zitierung im Entscheid folgt. Lieber keine Literatu
   Wiederholungen ohne Link mit Erwägung (`BGE 150 V 454 E. 7.2.3`).
 - **Zahlen und Verbreitungsangaben** («178 Leitentscheide») nur mit Quelle und Stichtag.
 - **Wertungen** klar als Einordnung formulieren und, wo möglich, an Aussagen des Gerichts binden.
-- **Normen zitieren, nicht verlinken**: «Art. 337c Abs. 3 OR». Zitate in dieser Form verlinkt
-  das Layout automatisch auf den Kommentar, sobald es einen gibt (`normlinks.html`). Handlinks
-  auf `/kommentar/…` nur für Formulierungen wie «Kommentar zu Art. 336 OR».
+- **Normen selbst verlinken, auf die passende Stelle**: Besteht ein Kommentar, das Zitat auf die
+  Überschrift setzen, die die Frage behandelt —
+  `[Art. 337c Abs. 3 OR](/kommentar/or/art-337c/#d-entschädigung-nach-abs-3-die-pönale-bis-zu-6-monatslöhnen)`. Anker sind die von Hugo
+  erzeugten Überschrift-IDs (Umlaute bleiben); `pruefen.py` prüft Ziel und Anker gegen `public/`,
+  vorher also `hugo` bauen. Ohne passende Stelle ohne Anker verlinken.
+- **Auffangnetz**: Nicht verlinkte Zitate der Form «Art. 337c Abs. 3 OR» verlinkt das Layout
+  automatisch auf den Kommentaranfang, sobald es einen gibt (`normlinks.html`). Normen deshalb
+  immer so zitieren, auch wenn (noch) kein Kommentar besteht.
 - **Feste Anker** an jeder `##`/`###`-Überschrift: `## Fristlose Entlassung {#fristlose-entlassung}`.
 - Tabellen als reines Markdown, nie in Code-Fences.
 

@@ -11,7 +11,10 @@ Prüft:
      Auslassungen […] teilen das Zitat in Stücke, die einzeln gesucht werden.
      Verglichen wird nach Vereinheitlichung von Leerraum und Strichen (– — -);
      Seitenmarken im Volltext («BGE 121 III 219 S. 226») werden entfernt.
-  3. Jede ##/###-Überschrift trägt einen festen Anker {#id}.
+  3. Jeder Link auf einen Kommentar (/kommentar/…) führt auf eine bestehende Seite,
+     und ein Anker (#überschrift-id) kommt dort vor. Geprüft wird gegen den
+     gebauten Stand in public/ — vorher `hugo` bauen.
+  4. Jede ##/###-Überschrift trägt einen festen Anker {#id}.
 
 Die Volltexte werden einmal geladen und im temporären Verzeichnis zwischengespeichert
 (glossagens-entscheide/). Exit 1, sobald etwas fehlt. Nur Standardbibliothek.
@@ -25,11 +28,14 @@ import html
 import re
 import sys
 import tempfile
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
 CACHE = Path(tempfile.gettempdir()) / "glossagens-entscheide"
 LINK = re.compile(r"\((https://entscheidsuche\.ch/docs/[^)\s#]+)(?:#([^)\s]+))?\)")
+INTERN = re.compile(r"\]\((/kommentar/[^)\s#]+?)/?(?:#([^)\s]+))?\)")
+PUBLIC = Path(__file__).resolve().parents[3] / "public"
 SEITE = re.compile(r"BGE \d+ [IVab]+ \d+ S\. \d+")
 
 
@@ -96,6 +102,19 @@ def main():
         else:
             fehler += 1
             print(f"  XX  nicht wörtlich in den verlinkten Entscheiden: «{z[:100]}»")
+
+    print("\n== Kommentarlinks")
+    for pfad_url, anker in sorted(set(INTERN.findall(body))):
+        ziel = PUBLIC / pfad_url.strip("/") / "index.html"
+        anker = urllib.parse.unquote(anker)
+        if not ziel.exists():
+            fehler += 1
+            print(f"  XX  Seite fehlt in public/ (gebaut?): {pfad_url}/")
+        elif anker and f'id="{anker}"' not in ziel.read_text(encoding="utf-8"):
+            fehler += 1
+            print(f"  XX  ANKER FEHLT: {pfad_url}/#{anker}")
+        else:
+            print(f"  ok  {pfad_url}/{('#' + anker) if anker else ''}")
 
     print("\n== Überschriften")
     for h in re.findall(r"(?m)^#{2,3} [^\n]*$", body):

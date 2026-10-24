@@ -296,6 +296,8 @@ git diff --stat data/wortlaut/                                   # was hat sich 
   Erlasses. Ein weiterer LexWork-Kanton braucht nur einen Eintrag in der Tabelle; Kantone mit
   anderer Plattform werden mit Fehler abgewiesen, bis eine Quelle implementiert ist.
 - **Bezugsnorm** mitzitieren: `{{< wortlaut gesetz="stgb" art="art-015" >}}` (Daten vorher holen).
+  Besteht zur zitierten Norm ein Kommentar, zeigt der Kasten unten automatisch einen blau
+  hinterlegten Link «Zur Kommentierung» (nicht im eigenen Bundle des Artikels).
 - **Fehlende Daten-Datei** bricht den Build ab (`errorf`) — gewollt, sonst ginge ein leerer
   Abschnitt live. Bei externen PRs fängt das der Build-Check in `executor.py` ab; im
   Issue-Kanal setzt der Executor Shortcode und Daten selbst ein (`_wortlaut_einsetzen`).
@@ -405,13 +407,18 @@ Darstellung (`layouts/themen/list.html`, Daten aus `layouts/_partials/themen/ind
 - Die Themenseite zeigt Typ, Sachgebiet-Badges, «Das Wichtigste in Kürze», den Text,
   «Betroffene Bestimmungen» (aus `normen`) und «Verwandte Themen» (gemeinsame Norm oder Sachgebiet).
 - Kommentarartikel, die ein Thema in `normen` führt, zeigen unter dem Titel «In Themen behandelt».
-- **Artikelzitate im Text werden automatisch verlinkt** (`layouts/_partials/normlinks.html`), sofern
-  ein Kommentar besteht: «Art. 336c OR», «Art. 5 Ziff. 1 lit. f EMRK», Aufzählungen wie
-  «Art. 337, 337c OR» (dann jede Nummer einzeln). Erkannt wird das Kürzel aus dem Frontmatter
-  `kuerzel` der Gesetzesseite; Überschriften, bestehende Links, Wortlaut-Kästen und Code bleiben
-  unberührt. Im Markdown deshalb **keine** Links auf Kommentare von Hand setzen, sondern
-  die Norm normal zitieren (Kürzel nach der Nummer, nicht «Artikel 336»). Neue Kommentare
-  werden beim nächsten Build automatisch verlinkt.
+- **Links auf Kommentare setzt der Agent selbst**, wo ein Kommentar besteht, und zwar auf die
+  passende Stelle: `[Art. 336c Abs. 2 OR](/kommentar/or/art-336c/#rechtsfolgen-einer-kündigung-zur-unzeit-abs-2-und-3)`.
+  Anker sind die Überschrift-IDs der Kommentarseite (von Hugo aus der Überschrift erzeugt, Umlaute
+  bleiben); nur einen Anker setzen, der im gebauten HTML vorkommt — `pruefen.py` prüft Ziel und
+  Anker gegen `public/` (vorher `hugo` bauen). Ohne passende Stelle auf den Artikel ohne Anker.
+- **Auffangnetz**: Was nicht von Hand verlinkt ist, verlinkt `layouts/_partials/normlinks.html`
+  automatisch auf den Kommentaranfang, sofern einer besteht: «Art. 336c OR», «Art. 5 Ziff. 1 lit. f
+  EMRK», Aufzählungen wie «Art. 337, 337c OR» (dann jede Nummer einzeln). Erkannt wird das Kürzel
+  aus dem Frontmatter `kuerzel` der Gesetzesseite; Überschriften, bestehende Links,
+  Wortlaut-Kästen und Code bleiben unberührt. Norm deshalb immer in dieser Form zitieren (Kürzel
+  nach der Nummer, nicht «Artikel 336») — dann greift das Auffangnetz auch für Kommentare, die
+  erst später entstehen.
 - Sachgebiet-Seiten listen die Themen vor den Artikeln.
 - `/themen/` zeigt wie `/kommentar/` «Kürzlich geändert» und «Neueste Themen»
   (`layouts/_partials/aktivitaet.html`, Parameter `bereich`): ab 1280px in der

@@ -508,9 +508,41 @@ input[type="search"] {
 }
 .wortlaut figcaption a { color: var(--wl-muted) !important; text-decoration: underline; }
 
+/* Fusszeile «Zur Kommentierung»: über die volle Kastenbreite, bläulich hinterlegt */
+.wortlaut {
+  --wl-kom-bg:   #eef3fa;
+  --wl-kom-rule: #d3deec;
+  --wl-kom-ink:  #1f4e8c;
+}
+.dark .wortlaut {
+  --wl-kom-bg:   #1b2531;
+  --wl-kom-rule: #2d3b4c;
+  --wl-kom-ink:  #9fc1ea;
+}
+.wortlaut a.wortlaut-kommentar {
+  display: block;
+  margin: 0.9em -1.4em -0.9em;
+  padding: 0.6em 1.4em;
+  background: var(--wl-kom-bg);
+  border-top: 1px solid var(--wl-kom-rule);
+  color: var(--wl-kom-ink) !important;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.wortlaut-kommentar span {
+  margin-right: 0.4em;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.wortlaut-kommentar::after { content: " →"; }
+.wortlaut a.wortlaut-kommentar:hover { text-decoration: underline; }
+
 @media (max-width: 640px) {
   .wortlaut { padding: 0.9em 1em 0.8em; }
   .wortlaut dl { margin-left: 0.4em; }
+  .wortlaut a.wortlaut-kommentar { margin: 0.8em -1em -0.8em; padding: 0.6em 1em; }
 }
 
 /* =====================================================================

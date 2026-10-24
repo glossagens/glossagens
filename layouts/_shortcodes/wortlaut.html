@@ -37,4 +37,13 @@
     {{ $sammlung }} · Stand am {{ $stand | time.Format ":date_long" }} ·
     <a href="{{ $link }}" target="_blank" rel="noopener">{{ $quelle }}</a>
   </figcaption>
+  {{- /* Fusszeile mit Link auf die Kommentierung, sofern es sie gibt —
+         nicht im eigenen Bundle (Kommentar, Rechtsprechung), dort ist man schon. */}}
+  {{- with site.GetPage (printf "/kommentar/%s/%s" $gesetz $art) }}
+    {{- if not (or (eq . $.Page) (eq . $.Page.Parent)) }}
+  <a class="wortlaut-kommentar" href="{{ .RelPermalink }}">
+    <span>Zur Kommentierung</span> {{ .Title }}
+  </a>
+    {{- end }}
+  {{- end }}
 </figure>
