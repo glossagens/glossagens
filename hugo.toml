@@ -75,7 +75,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
   # als eine JSON-Datei erzeugt und erst beim ersten Fokus auf ein Suchfeld
   # nachgeladen — er kostet also nichts beim Seitenaufruf.
   #
-  # `index = "content"` nimmt den vollen Artikeltext auf: 14 MB roh, rund 4 MB
+  # `index = "content"` nimmt den vollen Artikeltext auf: 26 MB roh, rund 7,4 MB
   # über die Leitung (GitHub Pages liefert gzip). Das ist der Preis dafür, dass
   # eine BGE-Nummer oder ein Begriff auch dann gefunden wird, wenn er erst in
   # N 27 vorkommt — bei einem Kommentar ist genau das der Zweck der Suche.

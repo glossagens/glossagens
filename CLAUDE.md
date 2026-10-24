@@ -461,14 +461,22 @@ kommt ein weiteres Feld auf eine Seite, muss das andere per CSS weichen (so
 gelöst in `suche.html` für `/kommentar/`).
 
 Der Volltextindex umfasst den ganzen Artikeltext
-(`params.search.flexsearch.index = "content"`): 17,8 MB, rund 4,6 MB über die
-Leitung. Gemessene Alternativen stehen als Kommentar in `hugo.toml`.
+(`params.search.flexsearch.index = "content"`): 26 MB, rund 7,4 MB über die
+Leitung (Oktober 2026). Gemessene Alternativen stehen als Kommentar in `hugo.toml`.
+
+**Indexaufbau in Scheiben** (`assets/js/flexsearch.js`, Kopie der Theme-Datei,
+geändert nur in `preloadIndex`): Das Theme baut den Index in einer einzigen
+Schleife auf dem Main Thread — bei 1745 Seiten gut 8 s Stillstand auch auf
+einem schnellen Rechner, kein Link klickbar. Die Kopie gibt nach je ~12 ms
+Arbeit den Main Thread frei und meldet den Fortschritt in `window.glSuchindex`
+(`fertig`, `gesamt`, `bereit`); die Ladezeile zeigt ihn als Balken. Beim
+Anheben des Submoduls die Kopie gegen die neue Theme-Fassung abgleichen.
 
 **Ladezustand und Vorabladen** (`assets/js/core/suche-ladezustand.js`): Hextra
 legt `window.pageIndex` an, *bevor* es die Daten holt — jede Suche in der
 Zwischenzeit läuft gegen einen leeren Index und meldet fälschlich „Keine
 Ergebnisse gefunden". Das Skript ersetzt diese Meldung durch eine Zeile mit
-Spinner (auch in `.hextra-search-status` für Screenreader) und stösst die Suche
+Spinner und Fortschrittsbalken (Text auch in `.hextra-search-status` für Screenreader) und stösst die Suche
 des Themes per erneutem `keyup` an, sobald der Index steht; die Liste füllt sich
 also ohne weiteren Tastendruck. Nach drei Minuten wechselt der Text auf „konnte
 nicht geladen werden", der Poller läuft aber weiter.
@@ -478,7 +486,7 @@ Den Aufbau startet das Theme in seinem `focus`-Handler. Ein synthetisches
 der Download schon, wenn der Zeiger das Feld erreicht (`pointerenter`,
 `touchstart`), und auf `/kommentar/` in der Leerlaufzeit nach `load` (dort ist
 die Suche der Zweck der Seite; bei `saveData` oder 2G/3G unterbleibt es).
-Bewusst **nicht** auf jeder Seite auf Vorrat: 4,6 MB plus mehrere Sekunden
+Bewusst **nicht** auf jeder Seite auf Vorrat: 7,4 MB plus mehrere Sekunden
 Indexaufbau träfen sonst auch jeden, der nie sucht.
 
 Wer in diesen Skripten die Trefferliste anfasst, nimmt die **sichtbare**

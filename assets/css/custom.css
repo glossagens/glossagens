@@ -394,6 +394,31 @@ input[type="search"] {
   animation: gl-suche-dreht .7s linear infinite;
 }
 @keyframes gl-suche-dreht { to { transform: rotate(360deg); } }
+/* Fortschrittsbalken unter dem Text: unbestimmt während des Downloads,
+   danach nach Anteil der aufgebauten Seiten (suche-ladezustand.js). */
+.hextra-search-wrapper .gl-suche-laden { flex-wrap: wrap; }
+.hextra-search-wrapper .gl-suche-balken {
+  flex-basis: 100%;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--gg-rule);
+  overflow: hidden;
+}
+.hextra-search-wrapper .gl-suche-balken > span {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: var(--gg-accent);
+  transition: width .2s ease-out;
+}
+.hextra-search-wrapper .gl-suche-balken-offen > span {
+  width: 30%;
+  animation: gl-suche-wandert 1.2s ease-in-out infinite;
+}
+@keyframes gl-suche-wandert {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(340%); }
+}
 /* Ohne Bewegung: pulsierender Punkt statt Rad. */
 @media (prefers-reduced-motion: reduce) {
   .hextra-search-wrapper .gl-suche-spinner {
@@ -401,6 +426,8 @@ input[type="search"] {
     animation: gl-suche-pulst 1.4s ease-in-out infinite;
   }
   @keyframes gl-suche-pulst { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
+  .hextra-search-wrapper .gl-suche-balken-offen > span { animation: none; width: 100%; opacity: .4; }
+  .hextra-search-wrapper .gl-suche-balken > span { transition: none; }
 }
 
 /* =====================================================================

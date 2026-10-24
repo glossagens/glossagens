@@ -5,7 +5,7 @@
  *
  * Das Problem: Hextras `flexsearch.js` legt `window.pageIndex` **vor** dem
  * `fetch` an und befüllt es erst, wenn `de.search-data.json` vollständig da ist
- * (17,8 MB roh, 4,6 MB über die Leitung, danach einige Sekunden Parse- und
+ * (26 MB roh, 7,4 MB über die Leitung, danach rund 8 s Parse- und
  * Indexaufbau auf dem Main Thread). Jede Suche in dieser Zeit läuft gegen einen
  * leeren Index und landet in `displayResults([])` — die Suche behauptet also
  * „Keine Ergebnisse gefunden", während sie in Wahrheit noch lädt. Wer „Notwehr"
@@ -19,7 +19,7 @@
  *    beginnt der Download bereits, wenn der Zeiger das Feld erreicht
  *    (`pointerenter`), und auf `/kommentar/`, wo das Feld die Seite trägt,
  *    schon in der Leerlaufzeit nach `load`.
- *    Nicht auf jeder Seite in der Leerlaufzeit: 4,6 MB plus mehrere Sekunden
+ *    Nicht auf jeder Seite in der Leerlaufzeit: 7,4 MB plus mehrere Sekunden
  *    Indexaufbau träfen auch jeden, der nie sucht — auf dem Telefon ist das
  *    spürbar. Der Zeiger-/Fokusauslöser kostet dagegen nichts und kommt in der
  *    Praxis einige hundert Millisekunden vor dem ersten Tastendruck.
@@ -72,7 +72,19 @@
   /** 'aus' = noch nicht angestossen, 'laedt' = im Aufbau, 'bereit' = benutzbar. */
   function zustand() {
     if (!window.pageIndex) return 'aus';
+    /* Seit der Aufbau in Scheiben läuft (`assets/js/flexsearch.js`), trägt
+       der Index schon Dokumente, bevor er fertig ist — massgebend ist dann
+       das Fertig-Signal. `bestueckt` bleibt für die unveränderte
+       Theme-Fassung. */
+    const f = window.glSuchindex;
+    if (f) return f.bereit ? 'bereit' : 'laedt';
     return bestueckt(window.pageIndex) ? 'bereit' : 'laedt';
+  }
+
+  /** Anteil des aufgebauten Index, 0–1; `null`, solange der Download läuft. */
+  function anteil() {
+    const f = window.glSuchindex;
+    return f && f.gesamt ? f.fertig / f.gesamt : null;
   }
 
   /* ----------------------------------------------------------------- Vorladen */
@@ -154,6 +166,15 @@
         : 'Volltextindex wird geladen — die Trefferliste erscheint, sobald er da ist.');
     zeile.appendChild(text);
 
+    if (!gescheitert) {
+      const balken = document.createElement('span');
+      balken.className = 'gl-suche-balken';
+      balken.setAttribute('aria-hidden', 'true');
+      balken.appendChild(document.createElement('span'));
+      zeile.appendChild(balken);
+      balkenSetzen(zeile);
+    }
+
     /* Die Ladezeile trägt kein `data-index`: Pfeiltasten und Enter des Themes
        lesen nur solche Knoten und greifen daher weiter auf den Sprungeintrag
        bzw. auf gar nichts — nicht auf diesen Hinweis. */
@@ -163,6 +184,18 @@
 
     liste.classList.remove('hx:hidden');
     statusSetzen(liste.closest('.hextra-search-wrapper'), text.textContent);
+  }
+
+  /**
+   * Füllt den Balken: unbestimmt (wandernder Streifen), solange die Datei
+   * unterwegs ist, danach nach Anteil der aufgebauten Seiten.
+   */
+  function balkenSetzen(zeile) {
+    const balken = zeile && zeile.querySelector('.gl-suche-balken');
+    if (!balken) return;
+    const a = anteil();
+    balken.classList.toggle('gl-suche-balken-offen', a === null);
+    balken.firstChild.style.width = a === null ? '' : Math.round(a * 100) + '%';
   }
 
   /* -------------------------------------------------------------- Nachziehen */
@@ -183,6 +216,7 @@
       const liste = aktiveListe(feld);
 
       if (zustand() !== 'bereit') {
+        if (liste) balkenSetzen(liste.querySelector('[data-gl-laden]'));
         /* Lange unterwegs: Meldung wechseln, Poller weiterlaufen lassen — ein
            nachträglich eintreffender Index soll die Liste noch füllen. */
         if (alter > GEDULD_MS && !gemeldet && liste && feld.value) {
