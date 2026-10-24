@@ -159,6 +159,11 @@ or:
     - { von: 394, bis: 418, sachgebiete: [schuldrecht.werk_auftrag] }
     - { von: 530, bis: 964, sachgebiete: [schuldrecht.gesellschaft] }
 
+pbg-lu:
+  standard: [raumplanung]
+  bereiche:
+    - { von: 184, bis: 215, sachgebiete: [raumplanung.baubewilligung] }
+
 rpg:
   standard: [raumplanung]
   bereiche:

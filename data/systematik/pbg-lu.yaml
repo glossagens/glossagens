@@ -1,0 +1,25 @@
+gruppen:
+  - name: "Allgemeines"
+    von: 1
+    bis: 1
+  - name: "Planungsvorschriften"
+    von: 2
+    bis: 105
+  - name: "Baurechtliche Grundordnung"
+    von: 106
+    bis: 153
+  - name: "Erschliessung"
+    von: 154
+    bis: 170
+  - name: "Enteignung und Ausgleich"
+    von: 171
+    bis: 183
+  - name: "Baubewilligung und Baukontrolle"
+    von: 184
+    bis: 205
+  - name: "Rechtsschutz"
+    von: 206
+    bis: 211
+  - name: "Vollzug, Straf- und Schlussbestimmungen"
+    von: 212
+    bis: 226
