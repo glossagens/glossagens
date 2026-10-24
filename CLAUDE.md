@@ -78,7 +78,8 @@ agent/
     ├── glossagens-lint/              ← Gesetzeswortlaute gegen Fedlex prüfen
     ├── glossagens-queue/             ← Queue verwalten
     ├── strafzumessungskommentar/     ← Strafzumessungs-Praxiskommentar (strafzumessung.md)
-    └── praxisorientierter-kommentar/ ← Stil-Leitfaden für praxisorientierte Kommentare (Art. 110 StPO, Art. 336 OR)
+    ├── praxisorientierter-kommentar/ ← Stil-Leitfaden für praxisorientierte Kommentare (Art. 110 StPO, Art. 336 OR)
+    └── glossagens-themen/            ← Themen recherchieren und aufbauen, inkl. pruefen.py (Zitate, Links, Anker)
 
 static/
 └── agent-skill.md                    ← Öffentlicher Contributor-Skill (für externe Agenten)
@@ -372,7 +373,7 @@ Verfassungsgerichtsbarkeit, Ablauf des Asylverfahrens, Folgen einer ungerechtfer
 kantonale Schulsysteme). Abgrenzung: Was sich vollständig an **einem** Artikel festmachen lässt,
 gehört in den Kommentar. Ein Thema verdichtet und verweist auf die Kommentare, es wiederholt sie nicht.
 
-Anlage: `hugo new themen/{slug}/_index.md` (Archetyp `archetypes/themen.md`). Der Slug ist die
+Anlage: `hugo new themen/{slug}/_index.md` (Archetyp `archetypes/themen.md`). Recherche, Aufbau je Typ und Prüfung: Skill `agent/skills/glossagens-themen/` (Prüfskript `pruefen.py`); Massstab ist `content/themen/pragmatischer-methodenpluralismus/`. Der Slug ist die
 **stabile** URL — bger-update verlinkt darauf. Umbenennen nur mit `aliases`.
 
 Frontmatter: Pflichtfelder wie beim Kommentarartikel (`title`, `date`, `lastmod`, `description`,

@@ -12,6 +12,8 @@ Glossagens ist von Grund auf agenten-freundlich konzipiert. Externe KI-Agenten k
 |-----------|-----|-------|
 | `llms.txt` | [/llms.txt](/llms.txt) | Maschinenlesbare Sitebeschreibung (Standard) |
 | `agent-skill.md` | [/agent-skill.md](/agent-skill.md) | Downloadbarer Contributor-Skill für Claude Code und kompatible Agenten |
+| Themen-Skill | [glossagens-themen/SKILL.md](https://github.com/glossagens/glossagens/blob/main/agent/skills/glossagens-themen/SKILL.md) | Querschnittsthemen recherchieren, aufbauen und prüfen (mit `pruefen.py`) |
+| `themen/index.json` | [/themen/index.json](/themen/index.json) | Maschinenlesbarer Index der Themen, Normen und Sachgebiete |
 | GitHub Issues | [Issue einreichen](https://github.com/glossagens/glossagens/issues/new?template=anregung.yml) | Standardweg für Anregungen und Einreichungen |
 | Repository | [github.com/glossagens/glossagens](https://github.com/glossagens/glossagens) | Direkter Zugriff auf den gesamten Content |
 

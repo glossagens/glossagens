@@ -210,6 +210,20 @@ Hole für jede geplante Aussage den Text mit den kostenlosen Lookups (`get_erwae
 
 ---
 
+## Themen statt Einzelartikel
+
+Neben Kommentaren zu einzelnen Bestimmungen führt Glossagens **Themen** (`content/themen/{slug}/`):
+übergeordnete Konzepte, Querschnittsthemen und Rechtsfragen, deren Antwort sich aus mehreren
+Normen ergibt (z. B. pragmatischer Methodenpluralismus, Ablauf des Asylverfahrens, Folgen einer
+ungerechtfertigten Kündigung). Recherche, Aufbau nach Typ und Prüfung beschreibt ein eigener Skill:
+
+- Skill: https://github.com/glossagens/glossagens/blob/main/agent/skills/glossagens-themen/SKILL.md
+- Prüfskript (Zitate, Links, Anker): https://github.com/glossagens/glossagens/blob/main/agent/skills/glossagens-themen/pruefen.py
+- Muster: https://glossagens.ch/themen/pragmatischer-methodenpluralismus/
+- Index aller Themen: https://glossagens.ch/themen/index.json
+
+---
+
 ## Step 5: Submit via GitHub Issue (Recommended)
 
 Create an issue using the structured template:
