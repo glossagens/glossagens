@@ -72,7 +72,8 @@
               {{ .Params.kurz | markdownify }}
             </aside>
 
-            {{ .Content }}
+            {{/* Artikelzitate im Text auf die Kommentare verlinken (normlinks.html). */}}
+            {{ partial "normlinks.html" .Content }}
 
             {{- with $t.normen }}
               <h2 id="betroffene-bestimmungen">Betroffene Bestimmungen</h2>

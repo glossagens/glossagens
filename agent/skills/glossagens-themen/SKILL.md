@@ -177,6 +177,9 @@ Hinweis, dass die Angabe der Zitierung im Entscheid folgt. Lieber keine Literatu
   Wiederholungen ohne Link mit Erwägung (`BGE 150 V 454 E. 7.2.3`).
 - **Zahlen und Verbreitungsangaben** («178 Leitentscheide») nur mit Quelle und Stichtag.
 - **Wertungen** klar als Einordnung formulieren und, wo möglich, an Aussagen des Gerichts binden.
+- **Normen zitieren, nicht verlinken**: «Art. 337c Abs. 3 OR». Zitate in dieser Form verlinkt
+  das Layout automatisch auf den Kommentar, sobald es einen gibt (`normlinks.html`). Handlinks
+  auf `/kommentar/…` nur für Formulierungen wie «Kommentar zu Art. 336 OR».
 - **Feste Anker** an jeder `##`/`###`-Überschrift: `## Fristlose Entlassung {#fristlose-entlassung}`.
 - Tabellen als reines Markdown, nie in Code-Fences.
 

@@ -1,0 +1,39 @@
+{{- /*
+  Nachschlagetabelle für die automatische Verlinkung von Artikelzitaten
+  (normlinks.html), einmal pro Build (partialCached).
+
+  Rückgabe: Map "or|336c" → { u: RelPermalink, t: Titel }
+  Schlüssel wie im Sprungindex (assets/json/artikel-index.json): Kürzel klein
+  und ohne Sonderzeichen ("SchKG" → "schkg"), Artikelnummer = Verzeichnisname
+  ohne führende Nullen ("art-030" → "30", "art-024bis" → "24bis").
+  Kantonale Erlasse zusätzlich unter Kürzel + Kanton ("vrglu|15").
+  Liegt ein Artikel doppelt im Repo (art-30 und art-030), gewinnt der zuletzt
+  geänderte — der Sprungindex warnt darüber bereits.
+*/ -}}
+{{- $idx := dict -}}
+{{- $mods := dict -}}
+{{- with site.GetPage "/kommentar" -}}
+  {{- range .Sections -}}
+    {{- $law := . -}}
+    {{- with $law.Params.kuerzel -}}
+      {{- $key := replaceRE "[^a-z0-9äöü]" "" (lower .) -}}
+      {{- $keys := slice $key -}}
+      {{- with $law.Params.kanton -}}{{- $keys = $keys | append (printf "%s%s" $key (lower .)) -}}{{- end -}}
+      {{- range $law.Sections -}}
+        {{- $slug := path.Base .Path -}}
+        {{- if hasPrefix $slug "art-" -}}
+          {{- $nr := replaceRE "^0+([0-9].*)$" "$1" (strings.TrimPrefix "art-" $slug) -}}
+          {{- $p := . -}}
+          {{- range $k := $keys -}}
+            {{- $s := printf "%s|%s" $k $nr -}}
+            {{- if or (not (isset $idx $s)) (gt $p.Lastmod.Unix (index $mods $s)) -}}
+              {{- $idx = merge $idx (dict $s (dict "u" $p.RelPermalink "t" $p.Title)) -}}
+              {{- $mods = merge $mods (dict $s $p.Lastmod.Unix) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $idx -}}

@@ -405,6 +405,13 @@ Darstellung (`layouts/themen/list.html`, Daten aus `layouts/_partials/themen/ind
 - Die Themenseite zeigt Typ, Sachgebiet-Badges, «Das Wichtigste in Kürze», den Text,
   «Betroffene Bestimmungen» (aus `normen`) und «Verwandte Themen» (gemeinsame Norm oder Sachgebiet).
 - Kommentarartikel, die ein Thema in `normen` führt, zeigen unter dem Titel «In Themen behandelt».
+- **Artikelzitate im Text werden automatisch verlinkt** (`layouts/_partials/normlinks.html`), sofern
+  ein Kommentar besteht: «Art. 336c OR», «Art. 5 Ziff. 1 lit. f EMRK», Aufzählungen wie
+  «Art. 337, 337c OR» (dann jede Nummer einzeln). Erkannt wird das Kürzel aus dem Frontmatter
+  `kuerzel` der Gesetzesseite; Überschriften, bestehende Links, Wortlaut-Kästen und Code bleiben
+  unberührt. Im Markdown deshalb **keine** Links auf Kommentare von Hand setzen, sondern
+  die Norm normal zitieren (Kürzel nach der Nummer, nicht «Artikel 336»). Neue Kommentare
+  werden beim nächsten Build automatisch verlinkt.
 - Sachgebiet-Seiten listen die Themen vor den Artikeln.
 - `/themen/` zeigt wie `/kommentar/` «Kürzlich geändert» und «Neueste Themen»
   (`layouts/_partials/aktivitaet.html`, Parameter `bereich`): ab 1280px in der

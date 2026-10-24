@@ -1,0 +1,81 @@
+{{- /*
+  Verlinkt Artikelzitate im gerenderten HTML auf den Glossagens-Kommentar,
+  sofern es ihn gibt. Die Markdown-Quelle bleibt unverändert.
+
+  Aufruf: {{ partial "normlinks.html" .Content }}  → HTML
+
+  Erkannt wird «Art.» + Nummer (+ Abs./lit./Bst./Ziff./Satz) + Gesetzeskürzel:
+    Art. 336c OR · Art. 1 Abs. 2 ZGB · Art. 5 Ziff. 1 lit. f EMRK · Art. 24bis RPG
+  und Aufzählungen mit demselben Kürzel:
+    Art. 336a und 337c Abs. 3 OR · Art. 337, 337c OR · Art. 336 ff. OR
+  Ein einzelnes Zitat wird als Ganzes verlinkt, in einer Aufzählung jede Nummer
+  für sich; das Kürzel bleibt dann unverlinkt. Nummern ohne Kommentar und
+  unbekannte Kürzel (aBV, GlG, BPG …) bleiben Text.
+
+  Nicht angefasst wird, was schon Link ist oder keiner sein soll: <a>, <h1>–<h6>,
+  <figure> (Gesetzeswortlaut), <pre>, <code> sowie alle Tags samt Attributen.
+  Dazu wird das HTML an diesen Stellen in Stücke geschnitten (Trennzeichen \x00);
+  nur Stücke, die nicht mit «<» beginnen, sind Fliesstext.
+
+  Ersetzt wird über Platzhalter, längste Zitate zuerst — sonst träfe die
+  Ersetzung von «Art. 5 BV» auch den Anfang von «Art. 5 BVG».
+*/ -}}
+{{- $idx := partialCached "normlinks/index.html" "normlinks" -}}
+{{- $html := string . -}}
+
+{{- $geschuetzt := `(?s)(<a\b.*?</a>|<h[1-6]\b.*?</h[1-6]>|<figure\b.*?</figure>|<pre\b.*?</pre>|<code\b.*?</code>|<[^>]+>)` -}}
+{{- $teil := `\d+[a-z]*(?: ff?\.)?(?: (?:Abs\.|lit\.|Bst\.|Ziff\.|Satz) (?:[0-9]+[a-z]*|[a-z]+))*` -}}
+{{- $zitat := printf `Art\. %s(?:(?:, | und | bzw\. | oder |–)%s)* [A-ZÄÖÜ][A-Za-zÄÖÜäöü]*(?: [A-Z]{2}\b)?` $teil $teil -}}
+
+{{- $out := "" -}}
+{{- range split (replaceRE $geschuetzt "\x00$1\x00" $html) "\x00" -}}
+  {{- $stueck := . -}}
+  {{- if or (hasPrefix $stueck "<") (not (strings.Contains $stueck "Art. ")) -}}
+    {{- $out = printf "%s%s" $out $stueck -}}
+    {{- continue -}}
+  {{- end -}}
+
+  {{- /* Treffer mit Ersetzung bestimmen. */ -}}
+  {{- $treffer := slice -}}
+  {{- range uniq (findRE $zitat $stueck) -}}
+    {{- $z := . -}}
+    {{- $wort := index (findRE ` [A-ZÄÖÜ][A-Za-zÄÖÜäöü]*(?: [A-Z]{2})?$` $z 1) 0 -}}
+    {{- $key := replaceRE "[^a-z0-9äöü]" "" (lower $wort) -}}
+    {{- /* Nur Nummern direkt nach «Art. » oder einem Aufzählungstrenner sind
+           Artikel; Absatz- und Litera-Nummern werden ausgefiltert. */ -}}
+    {{- $artikel := findRE `(?:^Art\. |, | und | bzw\. | oder |–)\d+[a-z]*` (strings.TrimSuffix $wort $z) -}}
+    {{- $ersatz := "" -}}
+    {{- if eq (len $artikel) 1 -}}
+      {{- $nr := lower (replaceRE `^\D*` "" (index $artikel 0)) -}}
+      {{- with index $idx (printf "%s|%s" $key $nr) -}}
+        {{- $ersatz = printf `<a class="normlink" href="%s" title="Kommentar: %s">%s</a>` .u (.t | htmlEscape) $z -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $neu := $z -}}
+      {{- $gefunden := false -}}
+      {{- range $a := $artikel -}}
+        {{- $nr := replaceRE `^\D*` "" $a -}}
+        {{- with index $idx (printf "%s|%s" $key (lower $nr)) -}}
+          {{- $vor := strings.TrimSuffix $nr $a -}}
+          {{- $neu = replace $neu $a (printf `%s<a class="normlink" href="%s" title="Kommentar: %s">%s</a>` $vor .u (.t | htmlEscape) $nr) 1 -}}
+          {{- $gefunden = true -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if $gefunden -}}{{- $ersatz = $neu -}}{{- end -}}
+    {{- end -}}
+    {{- with $ersatz -}}
+      {{- $treffer = $treffer | append (dict "z" $z "e" . "l" (len $z)) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Längste zuerst durch Platzhalter ersetzen, dann einsetzen. */ -}}
+  {{- $text := $stueck -}}
+  {{- range $i, $t := sort $treffer "l" "desc" -}}
+    {{- $text = replace $text $t.z (printf "\x01%d\x01" $i) -}}
+  {{- end -}}
+  {{- range $i, $t := sort $treffer "l" "desc" -}}
+    {{- $text = replace $text (printf "\x01%d\x01" $i) $t.e -}}
+  {{- end -}}
+  {{- $out = printf "%s%s" $out $text -}}
+{{- end -}}
+{{- return (safeHTML $out) -}}
