@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 18 ZGB"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-20
+lastmod: 2026-10-24
 description: "Übersicht der Entscheide zu Art. 18 ZGB — Urteilsunfähigkeit und Handlungsfähigkeit."
-tags: ["Rechtsprechung", "ZGB", "Urteilsfähigkeit", "Nichtigkeit", "Beweislast"]
-agent_verified: false
+tags: ["Rechtsprechung", "ZGB", "Urteilsfähigkeit", "Nichtigkeit", "Beweislast", "Gesellschaftsrecht"]
+agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von AG Handelsgericht HSU.2026.22 vom 13.10.2026 zur Nichtigkeit von GV-Beschlüssen bei relativer Urteilsunfähigkeit des Nutzniessers von Aktien."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -83,6 +88,12 @@ revisions:
 - **Kernaussage**: Die Urteilsfähigkeit zur Erhebung einer Beschwerde gegen die Errichtung einer Vertretungsbeistandschaft wird auch dann vermutet, wenn die Beschwerde handschriftlich durch die Mutter verfasst und von der betroffenen Person bloss unterzeichnet wurde.
 - **Einschlägig für**: Art. 18 ZGB, Art. 450 ZGB (Prozessfähigkeit im Erwachsenenschutzverfahren)
 
+### [AG Handelsgericht HSU.2026.22 vom 13. Oktober 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_009_HSU-2026-22_2026-10-13.pdf)
+- **Kanton**: Aargau (Handelsgericht des Kantons Aargau, 2. Kammer)
+- **Thema**: Relative Urteilsunfähigkeit bei der Stimmrechtsausübung an einer Generalversammlung / Nichtigkeit nach Art. 706b OR
+- **Kernaussage**: Die relative Urteilsunfähigkeit eines an leichter bis mittelschwerer Demenz leidenden Nutzniessers von Aktien schliesst dessen Stimmrechtsausübung für weitreichende Beschlüsse (VR-Abwahl) aus. Das Stimmrecht fällt nach vertraglicher Vereinbarung an die Eigentümerin zurück; Beschlüsse unter Mitwirkung des urteilsunfähigen Nutzniessers sind nach Art. 706b OR absolut nichtig, was eine vorsorgliche Handelsregistersperre rechtfertigt.
+- **Einschlägig für**: Art. 18 ZGB, Art. 16 ZGB, Art. 706b OR, Art. 261 ZPO (Gesellschaftsrechtliche Nichtigkeit)
+
 ---
 
-*Letzte Aktualisierung: 2026-08-20*
+*Letzte Aktualisierung: 2026-10-24*

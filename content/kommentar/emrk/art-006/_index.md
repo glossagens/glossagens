@@ -2,11 +2,16 @@
 title: "Art. 6 — Recht auf ein faires Verfahren"
 weight: 6
 date: 2026-05-10
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit, begründetes Urteil, Dolmetscherbeistand"
+lastmod: 2026-10-24
+description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit, begründetes Urteil, Dolmetscherbeistand, Replikrecht vor Bundesgericht"
 tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Replikrecht", "begründetes Urteil", "Dolmetscherbeistand"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von EGMR B.K. gegen Schweiz (Nr. 24268/21 und 55351/21 vom 22.10.2026): Bekräftigung der Replikrecht- und Waffengleichheitsrechtsprechung bei von Amtes wegen eingeholten Auskünften und im vereinfachten bundesgerichtlichen Verfahren (Art. 108 BGG)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -132,7 +137,7 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren, da d
 
 **20** **Gesamtfairness** Der Grundsatz des fairen Verfahrens («fair trial») ist der Leitgedanke von Art. 6 EMRK. Er durchzieht die gesamte Bestimmung und konkretisiert sich in den Einzelgarantien der Abs. 1–3 (EGMR, Rowe und Davis v. Vereinigtes Königreich, Nr. 28901/95). Die Gesamtbetrachtung aller Verfahrensumstände ist massgeblich: Ein einzelner Verfahrensmangel kann im Licht des Gesamtverfahrens als unbedeutend erscheinen, wenn das Verfahren insgesamt noch als fair qualifiziert werden kann.
 
-**21** **Replikrecht** Das Recht, sich zu den Eingaben der Verfahrensbeteiligten zu äussern (Replikrecht), ist ein zentraler Teilaspekt des fairen Verfahrens und des rechtlichen Gehörs (BGE 137 I 195, E. 2.3.1). Es setzt die Zustellung der fraglichen Eingaben voraus. Eine Heilung des Gehörsverlusts durch blosse Akteneinsichtsmöglichkeit genügt nicht (BGE 137 I 195, E. 2.6). Die Fallreihe Nideröst-Huber, F.R., Ziegler, Kessler und Ressegatti vor dem EGMR hat die Schweizer Rechtsordnung nachhaltig verändert und zur Einführung des Replikrechts im BGG (Art. 57 Abs. 1 BGG) geführt.
+**21** **Replikrecht** Das Recht, sich zu den Eingaben der Verfahrensbeteiligten zu äussern (Replikrecht), ist ein zentraler Teilaspekt des fairen Verfahrens und des rechtlichen Gehörs (BGE 137 I 195, E. 2.3.1). Es setzt die Zustellung der fraglichen Eingaben voraus. Eine Heilung des Gehörsverlusts durch blosse Akteneinsichtsmöglichkeit genügt nicht (BGE 137 I 195, E. 2.6). Die Fallreihe Nideröst-Huber, F.R., Ziegler, Kessler und Ressegatti vor dem EGMR hat die Schweizer Rechtsordnung nachhaltig verändert und zur Einführung des Replikrechts im BGG (Art. 57 Abs. 1 BGG) geführt. Mit **EGMR B.K. gegen Schweiz vom 22. Oktober 2026** ([Nr. 24268/21 und 55351/21](https://mcp.opencaselaw.ch/entscheid/hudoc_ch_24268_21_55351_21)) bekräftigte der EGMR, dass die Pflicht zur Wahrung des Replikrechts auch für vom Gericht von Amtes wegen eingeholte Auskünfte gilt und uneingeschränkt auch im vereinfachten bundesgerichtlichen Nichteintretensverfahren nach Art. 108 BGG zu beachten ist.
 
 **22** **Waffengleichheit** Der Grundsatz der Waffengleichheit («equality of arms») verlangt, dass jede Partei eine angemessene Möglichkeit haben muss, ihren Standpunkt darzulegen und zu den Vorbringen der Gegenpartei Stellung zu nehmen, und zwar unter Bedingungen, die sie nicht gegenüber der Gegenpartei benachteiligen (EGMR, F.R. v. Schweiz, Nr. 37292/97, § 33; EGMR, Rivera Vazquez und Calleja Delsordo v. Schweiz, Nr. 65048/13). Die Verweigerung der rechtlichen Vertretung ohne vorherige Information und ohne Fristsetzung zur Behebung des Mangels verstösst gegen Art. 6 Abs. 1 EMRK (EGMR, Rivera Vazquez, § 55 ff.).
 

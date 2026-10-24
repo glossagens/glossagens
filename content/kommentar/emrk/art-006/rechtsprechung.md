@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 6 EMRK"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-08-16
-description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, begründetes Urteil, Waffengleichheit, Dolmetscherbeistand"
+lastmod: 2026-10-24
+description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, begründetes Urteil, Waffengleichheit, Dolmetscherbeistand, Replikrecht vor Bundesgericht"
 tags: ["Rechtsprechung", "EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "begründetes Urteil", "Dolmetscherbeistand"]
-agent_verified: false
+agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von EGMR B.K. gegen Schweiz (Nr. 24268/21 und 55351/21 vom 22.10.2026): Verletzung von Art. 6 Abs. 1 EMRK durch Versagung des Replikrechts bei von Amtes wegen eingeholten Informationen im vereinfachten BGG-Verfahren (Art. 108 BGG)."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -215,6 +220,14 @@ revisions:
 ---
 
 ### Faires Verfahren, Waffengleichheit und Replikrecht
+
+### B.K. gegen Schweiz, Nr. 24268/21 und 55351/21 (vom 22.10.2026)
+
+- **Thema**: Waffengleichheit und Replikrecht bei von Amtes wegen eingeholten Auskünften im vereinfachten Verfahren vor dem Schweizer Bundesgericht (Art. 108 BGG)
+- **Kernaussage**: Das Bundesgericht hatte im Verfahren 1B_492/2020 eigeninitiativ Auskünfte der Vollzugsbehörde über angebliche Zellbeschädigungen eingeholt und darauf gestützt die Beschwerde als rechtsmissbräuchlich abgetan, ohne dem Beschwerdeführer zuvor Gelegenheit zur Stellungnahme zu geben. Der EGMR bejahte einstimmig eine Verletzung von Art. 6 Abs. 1 EMRK: Der Grundsatz der Waffengleichheit und das Recht auf ein kontradiktorisches Verfahren gelten auch im vereinfachten Verfahren nach Art. 108 BGG. Werden Auskünfte von Amtes wegen beschafft, müssen sie den Parteien zur Stellungnahme unterbreitet werden.
+- **Einschlägig für**: Replikrecht, Waffengleichheit, Art. 6 Abs. 1 EMRK, Art. 108 BGG, vereinfachtes Verfahren, Revisionsgrund Art. 122 BGG
+
+---
 
 ### F.R. v. Schweiz, Nr. 37292/97
 

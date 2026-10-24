@@ -2,11 +2,16 @@
 title: "Art. 18 ZGB — Fehlende Urteilsfähigkeit"
 weight: 18
 date: 2026-05-23
-lastmod: 2026-10-15
+lastmod: 2026-10-24
 description: "Kommentar zu Art. 18 ZGB — Rechtsfolgen fehlender Urteilsfähigkeit, Nichtigkeit von Rechtshandlungen, Beweislastverteilung und gesetzliche Ausnahmen."
-tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit", "Beweislast", "Erwachsenenschutz"]
+tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit", "Beweislast", "Erwachsenenschutz", "Gesellschaftsrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Ergänzung der Nichtigkeit auf gesellschaftsrechtliche Generalversammlungsbeschlüsse bei Stimmrechtsausübung durch Urteilsunfähige gemäss AG Handelsgericht HSU.2026.22 vom 13.10.2026 (Art. 706b OR); Verlinkung auf neu erstellten Kommentar zu Art. 16 ZGB."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -44,7 +49,7 @@ Urteilsfähigkeit ist ein **relativer Begriff**: Sie ist nicht abstrakt festzust
 #### 1. Grundsatz der Nichtigkeit
 Wer nicht urteilsfähig ist, vermag nach Art. 18 ZGB unter Vorbehalt der gesetzlichen Ausnahmen durch seine Handlungen keine rechtliche Wirkung herbeizuführen; von einem Urteilsunfähigen vorgenommene Rechtsgeschäfte sind nichtig ([BGE 89 II 387, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_89_II_387#e-1)).
 
-Die Nichtigkeit tritt von Gesetzes wegen ein und ist von allen Gerichten und Behörden von Amtes wegen zu beachten. Sie wirkt ex tunc (von Anfang an) und absolut gegenüber jedermann.
+Die Nichtigkeit tritt von Gesetzes wegen ein und ist von allen Gerichten und Behörden von Amtes wegen zu beachten. Sie wirkt ex tunc (von Anfang an) und absolut gegenüber jedermann. Dies erfasst nicht nur schuldrechtliche Verträge, sondern auch gesellschaftsrechtliche Mitgliedschaftshandlungen: Wird ein Stimmrecht an einer Generalversammlung durch einen urteilsunfähigen Nutzniesser ausgeübt, sind die gefassten Beschlüsse nach Art. 706b OR nichtig und rechtfertigen eine vorsorgliche Handelsregistersperre ([AG Handelsgericht HSU.2026.22 vom 13. Oktober 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_009_HSU-2026-22_2026-10-13.pdf)).
 
 #### 2. Ausschluss des Gutglaubensschutzes
 Wer einen von einem Handlungsunfähigen errichteten Pfandtitel von diesem selber erwirbt, muss sich auch im Falle seiner Gutgläubigkeit die Einrede gefallen lassen, das Erwerbsgeschäft sei wegen der Handlungsunfähigkeit des Schuldners ungültig und vermöge ihm deshalb die im Titel verbrieften Rechte nicht zu verschaffen ([BGE 89 II 387, E. 1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_89_II_387#e-1)). Der Schutz der urteilsunfähigen Person geht dem Schutz des guten Glaubens Dritter und dem Verkehrsschutz im schweizerischen Zivilrecht grundsätzlich vor.

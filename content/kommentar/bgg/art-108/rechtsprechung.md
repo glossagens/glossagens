@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 108 BGG"
 weight: 99
 date: 2026-08-02
-lastmod: "2026-08-01"
-description: "Übersicht der Entscheide zu Art. 108 BGG — Vereinfachtes Verfahren des Einzelrichters: Nichteintreten bei offensichtlicher Unzulässigkeit, fehlender Begründung, Querulanz."
-tags: ["Rechtsprechung", "BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch"]
+lastmod: "2026-10-24"
+description: "Übersicht der Entscheide zu Art. 108 BGG — Vereinfachtes Verfahren des Einzelrichters: Nichteintreten bei offensichtlicher Unzulässigkeit, fehlender Begründung, Querulanz sowie Verfahrensgarantien nach EMRK."
+tags: ["Rechtsprechung", "BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch", "Waffengleichheit", "EMRK"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von EGMR B.K. gegen Schweiz (24268/21 und 55351/21 vom 22.10.2026): Verletzung von Art. 6 Abs. 1 EMRK bei Verweigerung des Replikrechts im vereinfachten Verfahren nach Art. 108 BGG."
   - date: 2026-08-02
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -16,7 +21,19 @@ revisions:
 
 Zurück zum Kommentar: [Art. 108 BGG — Einzelrichter (vereinfachtes Verfahren)](./)
 
-## I. Offensichtlich unzulässige Beschwerden (Abs. 1 lit. a)
+## I. Verfahrensgarantien und EMRK (Replikrecht im vereinfachten Verfahren)
+
+### EGMR B.K. gegen Schweiz — Verletzung von Art. 6 Abs. 1 EMRK im vereinfachten BGG-Verfahren
+
+**EGMR, B.K. gegen Schweiz vom 22. Oktober 2026, Nr. 24268/21 und 55351/21**
+
+Das Bundesgericht hatte im Verfahren 1B_492/2020 auf eigeninitiativ beschaffte Auskünfte der Vollzugsbehörde über eine mutwillige Zellbeschädigung durch den Beschwerdeführer abgestellt, ohne ihm Gelegenheit zur Stellungnahme zu geben, und darauf gestützt im vereinfachten Verfahren nach Art. 108 Abs. 1 lit. c BGG die Beschwerde als rechtsmissbräuchlich beurteilt. 
+
+Der EGMR stellte einstimmig eine Verletzung des Grundsatzes der Waffengleichheit und des Rechts auf ein kontradiktorisches Verfahren nach Art. 6 Abs. 1 EMRK fest. Der Grundsatz der Waffengleichheit gilt auch im vereinfachten Verfahren nach Art. 108 BGG. Holt das Bundesgericht von Amtes wegen Auskünfte ein, muss es diese der beschwerdeführenden Person zwingend zur Stellungnahme unterbreiten.
+
+→ [EGMR 24268/21_55351/21](https://mcp.opencaselaw.ch/entscheid/hudoc_ch_24268_21_55351_21)
+
+## II. Offensichtlich unzulässige Beschwerden (Abs. 1 lit. a)
 
 ### BGer 8C_709/2025 — Fristwahrung und Zulässigkeit
 

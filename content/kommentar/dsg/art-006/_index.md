@@ -2,11 +2,16 @@
 title: "Art. 6 DSG — Grundsätze"
 weight: 6
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: 2026-10-24
 description: "Kommentar zu Art. 6 DSG: die materiellen Bearbeitungsgrundsätze (Rechtmässigkeit, Treu und Glauben, Verhältnismässigkeit, Zweckbindung, Aufbewahrungsdauer, Richtigkeit, Einwilligung) für private Verantwortliche und Bundesorgane."
-tags: ["DSG", "Datenschutz", "Bearbeitungsgrundsätze", "Verhältnismässigkeit", "Zweckbindung", "Einwilligung", "Profiling"]
-agent_verified: false
+tags: ["DSG", "Datenschutz", "Bearbeitungsgrundsätze", "Verhältnismässigkeit", "Zweckbindung", "Einwilligung", "Profiling", "Biometrie", "Stimmerkennung"]
+agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BVGer A-4467/2025 vom 13.10.2026 (Stimmerkennung PostFinance): Biometrische Stimmabdrücke als besonders schützenswerte Daten (Art. 5 lit. c Ziff. 4 DSG), zwingendes Erfordernis einer aktiven/ausdrücklichen Einwilligung nach Art. 6 Abs. 7 lit. a DSG (Opt-out unzulässig) und Grenzen der Rechtfertigung nach Art. 31 DSG. Gesetzeswortlaut auf Shortcode wortlaut umgestellt."
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -14,22 +19,9 @@ revisions:
     note: "Neuerstellung anlässlich BVGer A-3891/2025 vom 22. Juni 2026; alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief/get_erwaegung) verifiziert."
 ---
 
-> **Art. 6 DSG — Grundsätze**
->
-> 1 Personendaten müssen rechtmässig bearbeitet werden.
->
-> 2 Die Bearbeitung muss nach Treu und Glauben erfolgen und verhältnismässig sein.
->
-> 3 Personendaten dürfen nur zu einem bestimmten und für die betroffene Person erkennbaren Zweck beschafft werden; sie dürfen nur so bearbeitet werden, dass es mit diesem Zweck vereinbar ist.
->
-> 4 Sie werden vernichtet oder anonymisiert, sobald sie zum Zweck der Bearbeitung nicht mehr erforderlich sind.
->
-> 5 Wer Personendaten bearbeitet, muss sich über deren Richtigkeit vergewissern. Sie oder er muss alle angemessenen Massnahmen treffen, damit die Daten berichtigt, gelöscht oder vernichtet werden, die im Hinblick auf den Zweck ihrer Beschaffung oder Bearbeitung unrichtig oder unvollständig sind. Die Angemessenheit der Massnahmen hängt namentlich ab von der Art und dem Umfang der Bearbeitung sowie vom Risiko, das die Bearbeitung für die Persönlichkeit oder Grundrechte der betroffenen Personen mit sich bringt.
->
-> 6 Ist die Einwilligung der betroffenen Person erforderlich, so ist diese Einwilligung nur gültig, wenn sie für eine oder mehrere bestimmte Bearbeitungen nach angemessener Information freiwillig erteilt wird.
->
-> 7 Die Einwilligung muss ausdrücklich erfolgen für: a. die Bearbeitung von besonders schützenswerten Personendaten; b. ein Profiling mit hohem Risiko durch eine private Person; oder c. ein Profiling durch ein Bundesorgan.
-{: .gesetzeszitat}
+## Gesetzeswortlaut
+
+{{< wortlaut >}}
 
 ## I. Bedeutung und Funktion
 
@@ -67,11 +59,15 @@ Art. 6 DSG enthält die **wesentlichen materiellen Bearbeitungsgrundsätze** des
 
 **10** Wo eine Einwilligung der betroffenen Person erforderlich ist, ist diese nur gültig, wenn sie sich auf **eine oder mehrere bestimmte Bearbeitungen** bezieht und nach angemessener Information **freiwillig** erteilt wird. Eine globale Einwilligung in unbestimmte Bearbeitungen oder Bearbeitungen zu beliebigen Zwecken ist damit **ungültig**. Die Einwilligung bedarf grundsätzlich keiner besonderen Form: Sie kann schriftlich oder mündlich, ausdrücklich oder stillschweigend sowie konkludent erklärt werden — etwa dadurch, dass die betroffene Person Daten freiwillig bekannt gibt ([BVGer A-3891/2025, E. 6.4.1](https://mcp.opencaselaw.ch/entscheid/bvger_A-3891_2025#e-6-4-1)).
 
-**11** **Qualifiziertes Formerfordernis**: Abweichend vom Grundsatz der Formfreiheit muss die Einwilligung nach Abs. 7 **ausdrücklich** erfolgen für die Bearbeitung besonders schützenswerter Personendaten (lit. a — dazu zählen namentlich Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, Art. 5 lit. c Ziff. 5 DSG), für ein Profiling mit hohem Risiko durch eine private Person (lit. b) sowie für jedes Profiling durch ein Bundesorgan (lit. c). Diese verschärften Anforderungen tragen dem Umstand Rechnung, dass es sich bei besonders schützenswerten Personendaten um eine mit Blick auf den Grundrechts- und Persönlichkeitsschutz privilegierte Unterkategorie handelt ([BVGer A-3891/2025, E. 6.4.1](https://mcp.opencaselaw.ch/entscheid/bvger_A-3891_2025#e-6-4-1)).
+**11** **Qualifiziertes Formerfordernis**: Abweichend vom Grundsatz der Formfreiheit muss die Einwilligung nach Abs. 7 **ausdrücklich** erfolgen für die Bearbeitung besonders schützenswerter Personendaten (lit. a — dazu zählen namentlich Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen, Art. 5 lit. c Ziff. 5 DSG, sowie biometrische Daten, die eine Person eindeutig identifizieren, Art. 5 lit. c Ziff. 4 DSG), für ein Profiling mit hohem Risiko durch eine private Person (lit. b) sowie für jedes Profiling durch ein Bundesorgan (lit. c). Diese verschärften Anforderungen tragen dem Umstand Rechnung, dass es sich bei besonders schützenswerten Personendaten um eine mit Blick auf den Grundrechts- und Persönlichkeitsschutz privilegierte Unterkategorie handelt ([BVGer A-3891/2025, E. 6.4.1](https://mcp.opencaselaw.ch/entscheid/bvger_A-3891_2025#e-6-4-1)).
+
+**11a** **Auslegung der «Ausdrücklichkeit» bei biometrischen Daten (Stimmabdrücke)**: Das Bundesverwaltungsgericht hat im Leitentscheid zur Sprachbiometrie der PostFinance AG ([BVGer A-4467/2025 vom 13. Oktober 2026](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4467-2025_2026-10-13.pdf), E. 7 ff.) erstmals geklärt, welche Anforderungen an die «Ausdrücklichkeit» nach Art. 6 Abs. 7 lit. a revDSG zu stellen sind. Stimmabdrücke (Voiceprints), die aus Tonbandaufnahmen zur Authentifizierung generiert werden, stellen biometrische Daten dar und greifen in den Kernbereich des Persönlichkeitsschutzes (Art. 28 ZGB) ein. Das Gericht stellte klar:
+- **Unzulässigkeit von Opt-out-Verfahren**: Das blosse Weitersprechen einer anrufenden Person nach einer automatisierten Tonbandansage («Wenn Sie dies nicht wünschen, teilen Sie es dem Berater mit») stellt keine ausdrückliche Willenserklärung dar, sondern ein bloss passives, konkludentes Verhalten. 
+- **Erfordernis einer aktiven Handlung (Opt-in)**: Die Ausdrücklichkeit erfordert nach Wortlaut, Entstehungsgeschichte (Stärkung des Betroffenenrechts) und Teleologie eine unmissverständliche, durch gesprochene oder geschriebene Worte oder ein klares Zeichen bekundete Erklärung (z.B. ein gesprochenes «Ja» oder das aktive Drücken einer Taste). Das spezialgesetzliche Erfordernis von Art. 6 Abs. 7 DSG geht allfälligen milderen strafrechtlichen Massstäben (z.B. zu Art. 179ter StGB) vor.
 
 > **Annotation**
 >
-> **12** **Rechtfertigung ersetzt Einwilligung nicht automatisch.** Die Einwilligung ist nur einer von mehreren Rechtfertigungsgründen für eine Persönlichkeitsverletzung (Art. 31 Abs. 1 DSG). Fehlt eine gültige — bzw. bei besonders schützenswerten Daten eine ausdrückliche — Einwilligung, bedeutet dies nicht zwingend, dass die Bearbeitung widerrechtlich ist; sie kann weiterhin durch ein überwiegendes privates oder öffentliches Interesse oder eine gesetzliche Grundlage gerechtfertigt sein. Umgekehrt genügt eine erteilte Einwilligung nicht, wenn sie den formellen Anforderungen von Abs. 6 f. nicht entspricht — eine ungültige (weil zu unbestimmte oder nicht ausdrücklich erteilte) Einwilligung vermag eine Persönlichkeitsverletzung nicht zu rechtfertigen, selbst wenn die betroffene Person der Bearbeitung im Ergebnis nicht abgeneigt gewesen wäre.
+> **12** **Rechtfertigung ersetzt Einwilligung nicht automatisch.** Die Einwilligung ist nur einer von mehreren Rechtfertigungsgründen für eine Persönlichkeitsverletzung (Art. 31 Abs. 1 DSG). Fehlt eine gültige — bzw. bei besonders schützenswerten Daten eine ausdrückliche — Einwilligung, bedeutet dies nicht zwingend, dass die Bearbeitung widerrechtlich ist; sie kann prinzipiell weiterhin durch ein überwiegendes privates oder öffentliches Interesse oder eine gesetzliche Grundlage gerechtfertigt sein. Allerdings können blosse betriebliche Rationalisierungs-, Komfort- oder Sicherheitsüberlegungen eines Unternehmens (wie die schnelle telefonische Kundenauthentifizierung) das Fehlen einer ausdrücklichen Einwilligung bei sensiblen biometrischen Daten nicht aufwiegen ([BVGer A-4467/2025 vom 13. Oktober 2026](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4467-2025_2026-10-13.pdf), E. 9). Umgekehrt genügt eine erteilte Einwilligung nicht, wenn sie den formellen Anforderungen von Abs. 6 f. nicht entspricht — eine ungültige (weil zu unbestimmte oder nicht ausdrücklich erteilte) Einwilligung vermag eine Persönlichkeitsverletzung nicht zu rechtfertigen, selbst wenn die betroffene Person der Bearbeitung im Ergebnis nicht abgeneigt gewesen wäre.
 
 ## VIII. Rechtsprechung zur Vorgängerbestimmung (Art. 4 aDSG)
 

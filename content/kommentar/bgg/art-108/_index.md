@@ -2,11 +2,16 @@
 title: "Art. 108 — Einzelrichter oder Einzelrichterin (vereinfachtes Verfahren)"
 weight: 108
 date: 2026-08-02
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 108 BGG (SR 173.110): Vereinfachtes Verfahren des Abteilungspräsidenten/der Abteilungspräsidentin — Nichteintreten auf offensichtlich unzulässige, offensichtlich ungenügend begründete oder querulatorische Beschwerden."
-tags: ["BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch", "Begründungspflicht"]
+lastmod: 2026-10-24
+description: "Kommentar zu Art. 108 BGG (SR 173.110): Vereinfachtes Verfahren des Abteilungspräsidenten/der Abteilungspräsidentin — Nichteintreten auf offensichtlich unzulässige, offensichtlich ungenügend begründete oder querulatorische Beschwerden, Verfahrensgarantien (EGMR B.K. gegen Schweiz)."
+tags: ["BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch", "Begründungspflicht", "Waffengleichheit", "Replikrecht", "EMRK"]
 agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von EGMR B.K. gegen Schweiz (24268/21 und 55351/21 vom 22.10.2026): Geltung der Waffengleichheit und des Replikrechts (Art. 6 Abs. 1 EMRK) auch im vereinfachten Verfahren nach Art. 108 BGG bei von Amtes wegen eingeholten Auskünften."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -53,7 +58,15 @@ Der Präsident/die Präsidentin kann einen anderen Richter oder eine andere Rich
 
 Die Begründung des Entscheids beschränkt sich auf eine **kurze Angabe des Unzulässigkeitsgrundes**. Dies unterscheidet das vereinfachte Verfahren vom ordentlichen Verfahren mit umfassender Sachverhaltsdarstellung und Erwägungen. Die kurze Begründung genügt den Anforderungen an Art. 29 Abs. 2 BV, wenn der Unzulässigkeitsgrund für die beschwerdeführende Person erkennbar ist.
 
-## V. Verhältnis zu Art. 109 BGG
+## V. Verfahrensgarantien und EMRK-Konformität (Waffengleichheit und Replikrecht)
+
+Obwohl Art. 108 BGG als Beschleunigungs- und Entlastungsinstrument konzipiert ist, entbindet das vereinfachte Verfahren das Bundesgericht nicht von den grundlegenden Verfahrensgarantien nach Art. 29 Abs. 2 BV und Art. 6 Abs. 1 EMRK:
+
+* **Geltung des kontradiktorischen Prinzips und Replikrechts**: Der Europäische Gerichtshof für Menschenrechte hat im Urteil **EGMR B.K. gegen Schweiz vom 22. Oktober 2026** ([Nr. 24268/21 und 55351/21](https://mcp.opencaselaw.ch/entscheid/hudoc_ch_24268_21_55351_21)) unmissverständlich klargestellt, dass die verfassungs- und konventionsrechtliche Waffengleichheit («equality of arms») auch im einzelrichterlichen Verfahren nach Art. 108 BGG uneingeschränkt gilt.
+* **Von Amtes wegen eingeholte Auskünfte**: Holt das Bundesgericht zur Prüfung der Rechtsmissbräuchlichkeit (Art. 108 Abs. 1 lit. c BGG) eigeninitiativ Auskünfte oder Akten bei Behörden ein (im Anlassfall Informationen der Justizvollzugsanstalt über eine angebliche mutwillige Zellbeschädigung), darf es diese Tatsachen nicht ohne Gewährung des rechtlichen Gehörs zum Nachteil der beschwerdeführenden Person verwerten. Das Unterlassen der Zustellung zur Stellungnahme verletzt Art. 6 Abs. 1 EMRK und eröffnet nach Art. 122 BGG den Revisionsgrund.
+* **Keine Ausnahme durch Einzelrichterzuständigkeit**: Auch wenn das Verfahren rasch erledigt werden soll und keine formelle Vernehmlassung der Gegenseite stattfindet, darf das Gericht dem Betroffenen keine Tatsachen entgegenhalten, zu denen er sich nicht äussern konnte.
+
+## VI. Verhältnis zu Art. 109 BGG
 
 Art. 109 BGG regelt das vereinfachte Verfahren bei offensichtlich unbegründeten Beschwerden (Sachentscheid im vereinfachten Verfahren). Art. 108 BGG hingegen betrifft das **Nichteintreten** (Verfahrensebene). Die beiden Normen ergänzen sich: Art. 108 = Nichteintreten bei Unzulässigkeit/Querulanz; Art. 109 = Abweisung bei offensichtlicher Unbegründetheit.
 

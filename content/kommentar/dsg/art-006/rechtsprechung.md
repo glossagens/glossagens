@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 6 DSG"
 weight: 99
 date: 2026-08-07
-lastmod: 2026-08-07
-description: "Übersicht der Entscheide zu Art. 6 DSG (Bearbeitungsgrundsätze: Rechtmässigkeit, Verhältnismässigkeit, Zweckbindung, Transparenz, Einwilligung)"
-tags: ["Rechtsprechung", "DSG", "Bearbeitungsgrundsätze", "Verhältnismässigkeit", "Einwilligung"]
-agent_verified: false
+lastmod: 2026-10-24
+description: "Übersicht der Entscheide zu Art. 6 DSG (Bearbeitungsgrundsätze: Rechtmässigkeit, Verhältnismässigkeit, Zweckbindung, Transparenz, Einwilligung, biometrische Stimmabdrücke)"
+tags: ["Rechtsprechung", "DSG", "Bearbeitungsgrundsätze", "Verhältnismässigkeit", "Einwilligung", "Biometrie"]
+agent_verified: true
 revisions:
+  - date: 2026-10-24
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BVGer A-4467/2025 vom 13.10.2026 als Leitentscheid zur ausdrücklichen Einwilligung bei biometrischen Stimmabdrücken (PostFinance, Opt-out unzulässig)."
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
@@ -15,6 +20,10 @@ revisions:
 ---
 
 ## I. Leitentscheide
+
+* **Biometrische Stimmabdrücke als besonders schützenswerte Personendaten; Erfordernis ausdrücklicher Einwilligung (Opt-out ungenügend)**
+  [BVGer A-4467/2025 vom 13. Oktober 2026](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4467-2025_2026-10-13.pdf)
+  Die Erstellung und Bearbeitung biometrischer Stimmabdrücke zur Kundenauthentifizierung im Contact-Center erfordert eine ausdrückliche Einwilligung nach Art. 6 Abs. 7 lit. a revDSG i.V.m. Art. 5 lit. c Ziff. 4 revDSG. Eine Opt-out-Lösung, bei welcher Kundinnen und Kunden nach einer automatischen Tonbandansage bloss «weitersprechen», erfüllt das Erfordernis der Ausdrücklichkeit nicht; vielmehr ist eine aktive und unmissverständliche Zustimmungshandlung (Opt-in) erforderlich (E. 7 f.). Eine Rechtfertigung durch überwiegende private Interessen (Art. 31 Abs. 1 DSG) an einer Prozessbeschleunigung oder Betrugsbekämpfung scheidet bei Fehlen einer ausdrücklichen Einwilligung aus (E. 9).
 
 * **Kumulative Prüfung der Bearbeitungsgrundsätze; Verhältnismässigkeit und Transparenz bei Online-Publikation von Schuldnerdaten**
   [BVGer A-3891/2025 vom 22. Juni 2026](https://mcp.opencaselaw.ch/entscheid/bvger_A-3891_2025)
@@ -26,4 +35,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-07*
+*Letzte Aktualisierung: 2026-10-24*
