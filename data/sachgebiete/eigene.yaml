@@ -1,0 +1,46 @@
+# Eigene Sachgebiete von Glossagens — Ergänzung zu bger.yaml.
+#
+# bger.yaml bildet die Geschäftsverteilung des Bundesgerichts ab und wird aus
+# bger-update übernommen (scripts/sachgebiete.py). Dort fehlen Gebiete, die das
+# Bundesgericht nicht als Sachgebiet führt, weil sie in jedem Rechtsgebiet
+# vorkommen: Methodik, Staatsorganisation, Verfahrensrecht ausserhalb der StPO.
+#
+# Regeln:
+# - Ein Schlüssel hier darf keinen aus bger.yaml wiederholen (Build bricht ab).
+# - bger-update kennt diese Schlüssel nicht. Ein Urteil findet ein Thema, das
+#   nur hier getaggt ist, deshalb nicht über das Sachgebiet, sondern über
+#   Normen oder Stichworte. Wo ein Inhalt auch ein Sachgebiet des
+#   Bundesgerichts berührt, dieses zusätzlich taggen.
+# - Neue Schlüssel sparsam: jedes eigene Gebiet ist eines, das bger-update
+#   nicht zuordnen kann.
+
+hauptgebiete:
+  - { key: "grundlagen", name: "Grundlagen und Methodik" }
+
+sachgebiete:
+  - key: "grundlagen"
+    name: "Grundlagen des Rechts"
+    hauptgebiet: "grundlagen"
+    untergebiete:
+      - { key: "grundlagen.methodik", name: "Auslegung und Methodenlehre" }
+      - { key: "grundlagen.rechtsquellen", name: "Rechtsquellen und Normenhierarchie" }
+      - { key: "grundlagen.intertemporal", name: "Zeitlicher Geltungsbereich und Übergangsrecht" }
+  - key: "staatsorganisation"
+    name: "Staatsorganisation"
+    hauptgebiet: "oeff"
+    untergebiete:
+      - { key: "staatsorganisation.verfassungsgerichtsbarkeit", name: "Verfassungsgerichtsbarkeit" }
+      - { key: "staatsorganisation.foederalismus", name: "Bund, Kantone und Gemeinden" }
+      - { key: "staatsorganisation.behoerden", name: "Bundesbehörden und Gewaltenteilung" }
+  - key: "bundesrechtspflege"
+    name: "Verfahren vor Bundesgericht"
+    hauptgebiet: "oeff"
+  - key: "verwaltungsverfahren"
+    name: "Verwaltungsverfahren und Verwaltungsrechtspflege"
+    hauptgebiet: "oeff"
+  - key: "zivilprozess"
+    name: "Zivilprozessrecht"
+    hauptgebiet: "ziv"
+  - key: "ipr"
+    name: "Internationales Privatrecht"
+    hauptgebiet: "ziv"

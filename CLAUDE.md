@@ -57,7 +57,11 @@ content/
 
 data/
 ├── systematik/{gesetz}.yaml          ← Gliederung der Artikelübersicht
-└── wortlaut/{gesetz}/art-{nr}.json   ← Gesetzeswortlaut aus amtlicher Quelle (scripts/wortlaut.py)
+├── wortlaut/{gesetz}/art-{nr}.json   ← Gesetzeswortlaut aus amtlicher Quelle (scripts/wortlaut.py)
+└── sachgebiete/                      ← Sachgebiete nach BGer-Geschäftsverteilung (siehe „Sachgebiete")
+    ├── bger.yaml                     ← ERZEUGT aus bger-update (scripts/sachgebiete.py)
+    ├── eigene.yaml                   ← eigene Schlüssel von Glossagens (Grundlagen, Staatsorganisation …)
+    └── zuordnung.yaml                ← Einordnung der Kommentare je Gesetz/Bereich/Artikel
 
 agent/
 ├── executor.py                       ← Issue- und PR-Verarbeitungslogik
@@ -144,6 +148,38 @@ Regeln:
 - Eine Oberkategorie ohne eigene Artikel wird trotzdem angezeigt, wenn ihre Untergruppen Artikel tragen.
 - Artikel, die in keine Gruppe fallen, erscheinen unter „Weitere Artikel". Das ist kein Fehler, sondern der Hinweis, dass ein Bereich fehlt — die Liste bleibt in jedem Fall vollständig.
 - Gruppen ohne kommentierte Artikel werden stillschweigend übersprungen; die Datei darf die vollständige Systematik des Erlasses abbilden.
+
+### Sachgebiete (`data/sachgebiete/`)
+
+Zweiter Zugang zum Inhalt neben der SR-Ordnung: Sachgebiete nach der Geschäftsverteilung des
+Bundesgerichts, mit denselben Schlüsseln wie in bger-update (`strafprozess.haft`,
+`schuldrecht.arbeit`, …). bger-update ordnet jedes Urteil so ein und sucht über diese Tags
+nach passenden Kommentaren und Themen. Sie sind Grundlage für die Sachgebiet-Seiten, die
+Querverweise zwischen Themen und Kommentaren und den Index für bger-update.
+
+**Die Übersicht unter `/kommentar/` bleibt in SR-Reihenfolge**, die Artikelfolge bleibt beim
+Verzeichnisnamen — die Sachgebiete ordnen dort nichts um.
+
+- `bger.yaml` wird **nie von Hand** bearbeitet. Ändert bger-update seine Sachgebiete
+  (`update/utils/sachgebiete.py`): `python3 scripts/sachgebiete.py` (Quelle standardmässig
+  `../bger-update`, sonst `--quelle`), Abgleich ohne Schreiben mit `--pruefen`.
+- `eigene.yaml` führt, was das Bundesgericht nicht als Sachgebiet kennt: Hauptgebiet
+  `grundlagen` (Methodik, Rechtsquellen, intertemporales Recht), `staatsorganisation`,
+  `bundesrechtspflege`, `verwaltungsverfahren`, `zivilprozess`, `ipr`. bger-update kennt diese
+  Schlüssel nicht — wo ein Inhalt auch ein BGer-Sachgebiet berührt, dieses zusätzlich taggen.
+- `zuordnung.yaml` ordnet die Kommentare ein: je Gesetz ein `standard`, optional `bereiche`
+  (nach Artikelnummer, `von`/`bis` wie in `data/systematik/`) und `artikel` (nach
+  Verzeichnisname). Artikel vor engstem Bereich vor Standard; die genauere Ebene **ersetzt**
+  die gröbere. Die Zuordnung steht bewusst nicht im Frontmatter: keine Revisionseinträge für
+  eine blosse Einordnung, Gesetzesseiten bleiben unberührt.
+- **So genau wie möglich taggen** — Untergebiet vor Sachgebiet. Ein blosses `schuldrecht`
+  trifft für bger-update jedes OR-Urteil.
+- **Neues Gesetz**: Eintrag in `zuordnung.yaml` anlegen; sonst warnt der Build
+  (`WARN sachgebiete: … hat keinen Eintrag`).
+- Unbekannter Schlüssel, unbekanntes Gesetz, nicht vorhandener Artikel, doppelter Schlüssel
+  zwischen `bger.yaml` und `eigene.yaml`: **Build bricht ab** (`layouts/_partials/sachgebiete/pruefen.html`).
+- Templates: `sachgebiete/katalog.html` (alle Schlüssel mit Bezeichnung, über `partialCached`),
+  `sachgebiete/artikel.html` (Sachgebiete eines Artikels: `dict "gesetz" "or" "slug" "art-336"`).
 
 ### Reihenfolge der Artikel: nicht über `weight`
 

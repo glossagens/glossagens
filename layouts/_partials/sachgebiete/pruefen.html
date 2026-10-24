@@ -1,0 +1,61 @@
+{{- /*
+  Build-Prüfung der Sachgebiete. Gibt nichts aus.
+
+  Bricht ab (errorf), wenn data/sachgebiete/zuordnung.yaml
+    - ein Gesetz nennt, das es unter content/kommentar/ nicht gibt,
+    - einen Artikel nennt, der im Gesetz nicht vorhanden ist,
+    - einen Schlüssel verwendet, der weder in bger.yaml noch in eigene.yaml steht,
+    - einen Bereich mit von > bis oder ein Gesetz ohne `standard` enthält.
+  Sonst ginge ein Tippfehler lautlos durch: der Artikel fiele aus den
+  Sachgebiet-Seiten und aus dem Index für bger-update.
+
+  Warnt (warnf) für Gesetze ohne Eintrag — sie sind keinem Sachgebiet
+  zugeordnet, bis jemand die Zuordnung nachträgt.
+
+  Eingebunden auf /kommentar/ (layouts/kommentar/list.html), das jeder Build
+  rendert.
+*/ -}}
+
+{{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
+{{- $zuordnung := hugo.Data.sachgebiete.zuordnung -}}
+{{- $kommentar := site.GetPage "/kommentar" -}}
+
+{{- $pruefe := slice -}}
+{{- range $gesetz, $z := $zuordnung -}}
+  {{- $sec := site.GetPage (printf "/kommentar/%s" $gesetz) -}}
+  {{- if not $sec -}}
+    {{- errorf "sachgebiete/zuordnung.yaml: Gesetz %q gibt es unter content/kommentar/ nicht" $gesetz -}}
+  {{- end -}}
+  {{- if not $z.standard -}}
+    {{- errorf "sachgebiete/zuordnung.yaml: %s ohne `standard`" $gesetz -}}
+  {{- end -}}
+  {{- range $z.standard -}}{{- $pruefe = $pruefe | append (dict "ort" (printf "%s.standard" $gesetz) "key" .) -}}{{- end -}}
+  {{- range $z.bereiche -}}
+    {{- if gt (int .von) (int .bis) -}}
+      {{- errorf "sachgebiete/zuordnung.yaml: %s Bereich %v–%v (von > bis)" $gesetz .von .bis -}}
+    {{- end -}}
+    {{- $ort := printf "%s.bereiche %v–%v" $gesetz .von .bis -}}
+    {{- range .sachgebiete -}}{{- $pruefe = $pruefe | append (dict "ort" $ort "key" .) -}}{{- end -}}
+  {{- end -}}
+  {{- range $slug, $keys := $z.artikel -}}
+    {{- if not (site.GetPage (printf "/kommentar/%s/%s" $gesetz $slug)) -}}
+      {{- errorf "sachgebiete/zuordnung.yaml: %s.artikel.%s — Artikel nicht vorhanden" $gesetz $slug -}}
+    {{- end -}}
+    {{- range $keys -}}{{- $pruefe = $pruefe | append (dict "ort" (printf "%s.artikel.%s" $gesetz $slug) "key" .) -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range $pruefe -}}
+  {{- if not (isset $katalog.eintraege .key) -}}
+    {{- errorf "sachgebiete/zuordnung.yaml: %s — unbekannter Schlüssel %q (data/sachgebiete/bger.yaml, eigene.yaml)" .ort .key -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with $kommentar -}}
+  {{- range .Sections -}}
+    {{- $gesetz := path.Base .Path -}}
+    {{- if not (isset $zuordnung $gesetz) -}}
+      {{- warnf "sachgebiete: %s hat keinen Eintrag in data/sachgebiete/zuordnung.yaml" $gesetz -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

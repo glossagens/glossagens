@@ -15,6 +15,7 @@
           {{ if eq $depth 1 }}
             {{ partial "kommentar/suche.html" . }}
             {{ partial "kommentar/gesetze-grid.html" . }}
+            {{ partial "sachgebiete/pruefen.html" . }}
             {{/* Dieselbe Liste wie in der TOC-Spalte, hier für Mobil und
                  Tablet; ab 1280px per CSS ausgeblendet, siehe Partial. */}}
             {{ partial "kommentar/aktivitaet.html" (dict "context" . "variant" "inline") }}

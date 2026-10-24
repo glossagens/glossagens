@@ -1,0 +1,52 @@
+{{- /*
+  Katalog aller Sachgebiet-Schlüssel: Bundesgericht (data/sachgebiete/bger.yaml,
+  aus bger-update übernommen) und Glossagens (data/sachgebiete/eigene.yaml).
+
+  Rückgabe:
+    hauptgebiete  Liste { key, name } — Grundlagen zuerst, dann die des BGer
+    eintraege     Map Schlüssel → { name, label, hauptgebiet, sachgebiet, quelle }
+                  für Sachgebiete und Untergebiete ("schuldrecht.arbeit");
+                  label ist "Schuldrecht … › Arbeitsvertrag" bei Untergebieten
+
+  Aufruf über partialCached, der Katalog ist für die ganze Site gleich.
+  Ein doppelter Schlüssel bricht den Build ab: eigene.yaml darf keinen
+  Schlüssel des Bundesgerichts überschreiben.
+*/ -}}
+
+{{- $bger := hugo.Data.sachgebiete.bger -}}
+{{- $eigene := hugo.Data.sachgebiete.eigene -}}
+
+{{- $hauptgebiete := slice -}}
+{{- range $eigene.hauptgebiete -}}{{- $hauptgebiete = $hauptgebiete | append . -}}{{- end -}}
+{{- range $bger.hauptgebiete -}}{{- $hauptgebiete = $hauptgebiete | append . -}}{{- end -}}
+
+{{- $hgKeys := slice -}}
+{{- range $hauptgebiete -}}{{- $hgKeys = $hgKeys | append .key -}}{{- end -}}
+
+{{- $eintraege := dict -}}
+{{- range $quelle := slice "bger" "glossagens" -}}
+  {{- $d := cond (eq $quelle "bger") $bger $eigene -}}
+  {{- range $sg := $d.sachgebiete -}}
+    {{- if not (in $hgKeys $sg.hauptgebiet) -}}
+      {{- errorf "sachgebiete: %q hat unbekanntes Hauptgebiet %q" $sg.key $sg.hauptgebiet -}}
+    {{- end -}}
+    {{- if isset $eintraege $sg.key -}}
+      {{- errorf "sachgebiete: Schlüssel %q doppelt (bger.yaml / eigene.yaml)" $sg.key -}}
+    {{- end -}}
+    {{- $eintraege = merge $eintraege (dict $sg.key (dict
+      "name" $sg.name "label" $sg.name "hauptgebiet" $sg.hauptgebiet
+      "sachgebiet" $sg.key "quelle" $quelle
+    )) -}}
+    {{- range $ug := $sg.untergebiete -}}
+      {{- if isset $eintraege $ug.key -}}
+        {{- errorf "sachgebiete: Schlüssel %q doppelt (bger.yaml / eigene.yaml)" $ug.key -}}
+      {{- end -}}
+      {{- $eintraege = merge $eintraege (dict $ug.key (dict
+        "name" $ug.name "label" (printf "%s › %s" $sg.name $ug.name)
+        "hauptgebiet" $sg.hauptgebiet "sachgebiet" $sg.key "quelle" $quelle
+      )) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return dict "hauptgebiete" $hauptgebiete "eintraege" $eintraege -}}

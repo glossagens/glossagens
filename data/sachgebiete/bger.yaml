@@ -1,0 +1,221 @@
+# ERZEUGT von scripts/sachgebiete.py — nicht von Hand bearbeiten.
+# Quelle: bger-update, update/utils/sachgebiete.py (Geschäftsverteilung des Bundesgerichts).
+# Eigene Schlüssel von Glossagens: data/sachgebiete/eigene.yaml.
+quelle: "bger-update"
+stand: "06.10.2026"
+hauptgebiete:
+  - { key: "straf", name: "Strafrecht" }
+  - { key: "oeff", name: "Öffentliches Recht" }
+  - { key: "ziv", name: "Zivilrecht" }
+  - { key: "soz", name: "Sozialversicherungsrecht" }
+sachgebiete:
+  - key: "strafrecht"
+    name: "Materielles Strafrecht"
+    hauptgebiet: "straf"
+    untergebiete:
+      - { key: "strafrecht.leib_leben", name: "Leib und Leben" }
+      - { key: "strafrecht.vermoegen", name: "Vermögensdelikte" }
+      - { key: "strafrecht.sexual", name: "Sexuelle Integrität" }
+      - { key: "strafrecht.freiheit_ehre", name: "Freiheit und Ehre" }
+      - { key: "strafrecht.svg", name: "Strassenverkehrsdelikte" }
+      - { key: "strafrecht.betmg", name: "Betäubungsmittel" }
+      - { key: "strafrecht.urkunden", name: "Urkundendelikte" }
+      - { key: "strafrecht.staatsgewalt", name: "Delikte gegen die Staatsgewalt" }
+      - { key: "strafrecht.landesverweisung", name: "Landesverweisung" }
+      - { key: "strafrecht.strafzumessung", name: "Strafzumessung und bedingter Vollzug" }
+      - { key: "strafrecht.massnahmen", name: "Therapeutische Massnahmen und Verwahrung" }
+  - key: "strafprozess"
+    name: "Strafprozessrecht"
+    hauptgebiet: "straf"
+    untergebiete:
+      - { key: "strafprozess.erledigung", name: "Nichtanhandnahme und Einstellung" }
+      - { key: "strafprozess.haft", name: "Haft und Ersatzmassnahmen" }
+      - { key: "strafprozess.zwangsmassnahmen", name: "Entsiegelung, Beschlagnahme und Durchsuchung" }
+      - { key: "strafprozess.strafbefehl", name: "Strafbefehl und Ordnungsbusse" }
+      - { key: "strafprozess.verteidigung", name: "Verteidigung und unentgeltliche Rechtspflege" }
+      - { key: "strafprozess.ausstand", name: "Ausstand" }
+      - { key: "strafprozess.ermaechtigung", name: "Ermächtigung zur Strafverfolgung" }
+  - key: "strafvollzug"
+    name: "Straf- und Massnahmenvollzug"
+    hauptgebiet: "straf"
+  - key: "enteignung"
+    name: "Enteignung"
+    hauptgebiet: "oeff"
+  - key: "raumplanung"
+    name: "Raumplanung und Baurecht"
+    hauptgebiet: "oeff"
+    untergebiete:
+      - { key: "raumplanung.baubewilligung", name: "Baubewilligung" }
+      - { key: "raumplanung.nutzungsplanung", name: "Nutzungs- und Sondernutzungsplanung" }
+      - { key: "raumplanung.ausserhalb_bauzone", name: "Bauen ausserhalb der Bauzone" }
+      - { key: "raumplanung.wiederherstellung", name: "Wiederherstellung und Baupolizei" }
+      - { key: "raumplanung.mobilfunk", name: "Mobilfunkanlagen" }
+      - { key: "raumplanung.heimatschutz", name: "Denkmal- und Heimatschutz" }
+  - key: "umwelt"
+    name: "Umwelt-, Gewässer-, Wald-, Natur- und Heimatschutz"
+    hauptgebiet: "oeff"
+  - key: "politische_rechte"
+    name: "Politische Rechte"
+    hauptgebiet: "oeff"
+  - key: "rechtshilfe_straf"
+    name: "Internationale Rechtshilfe in Strafsachen"
+    hauptgebiet: "oeff"
+  - key: "strassenverkehr"
+    name: "Strassenverkehr"
+    hauptgebiet: "oeff"
+  - key: "buergerrecht"
+    name: "Bürgerrecht"
+    hauptgebiet: "oeff"
+  - key: "personalrecht"
+    name: "Personal im öffentlichen Dienst"
+    hauptgebiet: "oeff"
+  - key: "grundrechte"
+    name: "Grundrechte und Verfahrensgarantien"
+    hauptgebiet: "oeff"
+  - key: "auslaenderrecht"
+    name: "Ausländerrecht"
+    hauptgebiet: "oeff"
+    untergebiete:
+      - { key: "auslaenderrecht.bewilligung", name: "Aufenthalts- und Niederlassungsbewilligung" }
+      - { key: "auslaenderrecht.fza", name: "Freizügigkeitsabkommen (EU/EFTA)" }
+      - { key: "auslaenderrecht.familiennachzug", name: "Familiennachzug" }
+      - { key: "auslaenderrecht.zwangsmassnahmen", name: "Ausländerrechtliche Haft und Zwangsmassnahmen" }
+      - { key: "auslaenderrecht.einreise", name: "Einreiseverbot und ZEMIS" }
+      - { key: "auslaenderrecht.asyl", name: "Asyl" }
+  - key: "amtshilfe_steuer"
+    name: "Internationale Amtshilfe in Steuersachen"
+    hauptgebiet: "oeff"
+  - key: "staatshaftung"
+    name: "Staatshaftung"
+    hauptgebiet: "oeff"
+  - key: "bildung"
+    name: "Bildungsrecht"
+    hauptgebiet: "oeff"
+  - key: "gesundheit"
+    name: "Gesundheit und Lebensmittelpolizei"
+    hauptgebiet: "oeff"
+  - key: "beschaffung"
+    name: "Öffentliches Beschaffungswesen"
+    hauptgebiet: "oeff"
+  - key: "verkehr_energie"
+    name: "Verkehr, Energie, Post, Radio und Fernsehen"
+    hauptgebiet: "oeff"
+  - key: "wirtschaftsaufsicht"
+    name: "Aufsicht über Banken, Versicherungen, Börsen, Kartelle und Preise"
+    hauptgebiet: "oeff"
+  - key: "freie_berufe"
+    name: "Freie Berufe"
+    hauptgebiet: "oeff"
+  - key: "landwirtschaft"
+    name: "Landwirtschaft, Jagd, Fischerei und Tierschutz"
+    hauptgebiet: "oeff"
+  - key: "verwaltungsrecht"
+    name: "Übriges Wirtschafts- und Verwaltungsrecht"
+    hauptgebiet: "oeff"
+  - key: "steuern"
+    name: "Steuern und Abgaben"
+    hauptgebiet: "oeff"
+    untergebiete:
+      - { key: "steuern.einkommen_vermoegen", name: "Einkommens-, Vermögens- und Gewinnsteuern" }
+      - { key: "steuern.mwst", name: "Mehrwertsteuer" }
+      - { key: "steuern.vst_stempel", name: "Verrechnungssteuer und Stempelabgaben" }
+      - { key: "steuern.grundstueck", name: "Grundstückgewinn- und Handänderungssteuer" }
+      - { key: "steuern.kausalabgaben", name: "Gebühren und andere Abgaben" }
+      - { key: "steuern.steuerstrafrecht", name: "Steuerhinterziehung und Steuerstrafrecht" }
+  - key: "ahv"
+    name: "Alters- und Hinterlassenenversicherung"
+    hauptgebiet: "soz"
+  - key: "iv"
+    name: "Invalidenversicherung"
+    hauptgebiet: "soz"
+    untergebiete:
+      - { key: "iv.rente", name: "Invalidenrente" }
+      - { key: "iv.revision", name: "Revision und Neuanmeldung" }
+      - { key: "iv.hilflosenentschaedigung", name: "Hilflosenentschädigung und Assistenzbeitrag" }
+      - { key: "iv.eingliederung", name: "Eingliederung und Hilfsmittel" }
+  - key: "eo"
+    name: "Erwerbsersatzordnung (inkl. Mutterschaft)"
+    hauptgebiet: "soz"
+  - key: "kv"
+    name: "Krankenversicherung"
+    hauptgebiet: "soz"
+  - key: "bvg"
+    name: "Berufliche Vorsorge"
+    hauptgebiet: "soz"
+  - key: "uv"
+    name: "Unfallversicherung"
+    hauptgebiet: "soz"
+    untergebiete:
+      - { key: "uv.kausalitaet", name: "Kausalzusammenhang" }
+      - { key: "uv.unfallbegriff", name: "Unfallbegriff und Berufskrankheit" }
+      - { key: "uv.rente_ie", name: "Invalidenrente und Integritätsentschädigung" }
+  - key: "alv"
+    name: "Arbeitslosenversicherung"
+    hauptgebiet: "soz"
+  - key: "el"
+    name: "Ergänzungs- und Überbrückungsleistungen"
+    hauptgebiet: "soz"
+  - key: "familienzulagen"
+    name: "Familienzulagen und kantonale Sozialversicherung"
+    hauptgebiet: "soz"
+  - key: "mv"
+    name: "Militärversicherung"
+    hauptgebiet: "soz"
+  - key: "sozialhilfe"
+    name: "Sozialhilfe und Hilfe in Notlage"
+    hauptgebiet: "soz"
+  - key: "schuldrecht"
+    name: "Schuldrecht (Vertrags-, Gesellschafts- und allgemeines Obligationenrecht)"
+    hauptgebiet: "ziv"
+    untergebiete:
+      - { key: "schuldrecht.miete", name: "Miete und Pacht" }
+      - { key: "schuldrecht.arbeit", name: "Arbeitsvertrag" }
+      - { key: "schuldrecht.werk_auftrag", name: "Werkvertrag und Auftrag" }
+      - { key: "schuldrecht.kauf", name: "Kauf und Tausch" }
+      - { key: "schuldrecht.darlehen", name: "Darlehen" }
+      - { key: "schuldrecht.gesellschaft", name: "Gesellschafts- und Handelsregisterrecht" }
+  - key: "versicherungsvertrag"
+    name: "Versicherungsvertrag"
+    hauptgebiet: "ziv"
+  - key: "haftpflicht"
+    name: "Ausservertragliches Haftpflichtrecht und medizinische Staatshaftung"
+    hauptgebiet: "ziv"
+  - key: "wettbewerb_immaterial"
+    name: "Privates Wettbewerbsrecht und Immaterialgüterrecht"
+    hauptgebiet: "ziv"
+  - key: "schiedsgerichtsbarkeit"
+    name: "Schiedsgerichtsbarkeit"
+    hauptgebiet: "ziv"
+  - key: "rechtsoeffnung"
+    name: "Provisorische und definitive Rechtsöffnung"
+    hauptgebiet: "ziv"
+  - key: "personenrecht"
+    name: "Personenrecht"
+    hauptgebiet: "ziv"
+  - key: "familienrecht"
+    name: "Familienrecht"
+    hauptgebiet: "ziv"
+    untergebiete:
+      - { key: "familienrecht.ehe", name: "Eheschutz und Scheidung" }
+      - { key: "familienrecht.unterhalt", name: "Unterhalt" }
+      - { key: "familienrecht.kinder", name: "Kinderbelange und Kindesschutz" }
+      - { key: "familienrecht.erwachsenenschutz", name: "Erwachsenenschutz und Beistandschaft" }
+      - { key: "familienrecht.fu", name: "Fürsorgerische Unterbringung" }
+  - key: "erbrecht"
+    name: "Erbrecht"
+    hauptgebiet: "ziv"
+  - key: "sachenrecht"
+    name: "Sachenrecht"
+    hauptgebiet: "ziv"
+  - key: "baeuerliches_bodenrecht"
+    name: "Bäuerliches Bodenrecht"
+    hauptgebiet: "ziv"
+  - key: "schkg"
+    name: "Schuldbetreibung und Konkurs"
+    hauptgebiet: "ziv"
+    untergebiete:
+      - { key: "schkg.betreibung", name: "Betreibung, Zahlungsbefehl und Rechtsvorschlag" }
+      - { key: "schkg.pfaendung_verwertung", name: "Pfändung und Verwertung" }
+      - { key: "schkg.konkurs", name: "Konkurs und Nachlassverfahren" }
+      - { key: "schkg.arrest", name: "Arrest" }
+      - { key: "schkg.klagen", name: "Betreibungsrechtliche Klagen" }

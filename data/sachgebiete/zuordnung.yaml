@@ -1,0 +1,269 @@
+# Einordnung der Kommentare in die Sachgebiete.
+#
+# Die Sachgebiete sind ein zweiter Zugang neben der SR-Ordnung: Sie führen auf
+# die Sachgebiet-Seiten, in die Querverweise zwischen Themen und Kommentaren
+# und in den Index für bger-update. Die Übersicht unter /kommentar/ und die
+# Artikelfolge bleiben davon unberührt (SR-Nummer bzw. Verzeichnisname).
+#
+# Die Zuordnung steht bewusst hier und nicht im Frontmatter: Gesetzes- und
+# Artikeldateien bleiben unverändert, eine blosse Einordnung erzeugt keinen
+# Revisionseintrag, und alles ist an einer Stelle überblickbar.
+#
+# Aufbau je Gesetz (Schlüssel = Verzeichnisname unter content/kommentar/):
+#
+#   or:
+#     standard: [schuldrecht]                  # Pflicht: gilt für jeden Artikel
+#     bereiche:                                # optional, nach Artikelnummer
+#       - { von: 319, bis: 362, sachgebiete: [schuldrecht.arbeit] }
+#     artikel:                                 # optional, nach Verzeichnisname
+#       art-336: [schuldrecht.arbeit, personalrecht]
+#
+# Auflösung: Artikeleintrag vor engstem Bereich vor Standard. Die genauere Ebene
+# ersetzt die gröbere, sie ergänzt sie nicht — wer beides will, nennt beides.
+# Die Nummer wird wie in data/systematik/ aus dem Verzeichnisnamen gelesen
+# (art-066a → 66), Bereiche dürfen sich überschneiden.
+#
+# Schlüssel: data/sachgebiete/bger.yaml (Bundesgericht) und eigene.yaml. Ein
+# unbekannter Schlüssel, ein unbekanntes Gesetz oder ein nicht vorhandener
+# Artikel bricht den Build ab. Ein Gesetz ohne Eintrag erzeugt eine Warnung.
+#
+# So genau wie möglich taggen: bger-update sucht über diese Schlüssel nach
+# Material zu einem Urteil. Ein Untergebiet trifft die passenden Urteile, das
+# blosse Sachgebiet trifft alle seines Gebiets.
+
+ahvg:
+  standard: [ahv]
+
+aig:
+  standard: [auslaenderrecht]
+  bereiche:
+    - { von: 10, bis: 41, sachgebiete: [auslaenderrecht.bewilligung] }
+    - { von: 42, bis: 52, sachgebiete: [auslaenderrecht.familiennachzug] }
+    - { von: 61, bis: 64, sachgebiete: [auslaenderrecht.bewilligung] }
+    - { von: 67, bis: 68, sachgebiete: [auslaenderrecht.einreise] }
+    - { von: 73, bis: 82, sachgebiete: [auslaenderrecht.zwangsmassnahmen] }
+    - { von: 115, bis: 122, sachgebiete: [auslaenderrecht, strafrecht] }
+
+arg:
+  standard: [verwaltungsrecht, schuldrecht.arbeit]
+
+asylg:
+  standard: [auslaenderrecht.asyl]
+
+atsg:
+  standard: [ahv, iv, eo, kv, uv, alv, el, mv, familienzulagen]
+
+avig:
+  standard: [alv]
+
+bankg:
+  standard: [wirtschaftsaufsicht]
+
+behi:
+  standard: [grundrechte]
+
+betmg:
+  standard: [strafrecht.betmg]
+
+bewg:
+  standard: [verwaltungsrecht, sachenrecht]
+
+bgbb:
+  standard: [baeuerliches_bodenrecht]
+
+bgfa:
+  standard: [freie_berufe]
+
+bgg:
+  standard: [bundesrechtspflege]
+
+bgoe:
+  standard: [verwaltungsrecht]
+
+boeb:
+  standard: [beschaffung]
+
+bv:
+  standard: [staatsorganisation]
+  bereiche:
+    - { von: 1, bis: 6, sachgebiete: [staatsorganisation, grundlagen.rechtsquellen] }
+    - { von: 7, bis: 36, sachgebiete: [grundrechte] }
+    - { von: 34, bis: 34, sachgebiete: [politische_rechte, grundrechte] }
+    - { von: 37, bis: 38, sachgebiete: [buergerrecht] }
+    - { von: 39, bis: 40, sachgebiete: [politische_rechte] }
+    - { von: 42, bis: 53, sachgebiete: [staatsorganisation.foederalismus] }
+    - { von: 94, bis: 107, sachgebiete: [staatsorganisation, verwaltungsrecht] }
+    - { von: 126, bis: 135, sachgebiete: [staatsorganisation, steuern] }
+    - { von: 136, bis: 142, sachgebiete: [politische_rechte] }
+    - { von: 143, bis: 191, sachgebiete: [staatsorganisation.behoerden] }
+    - { von: 188, bis: 191, sachgebiete: [staatsorganisation.verfassungsgerichtsbarkeit, staatsorganisation.behoerden] }
+
+dbg:
+  standard: [steuern.einkommen_vermoegen]
+  bereiche:
+    - { von: 174, bis: 195, sachgebiete: [steuern.steuerstrafrecht] }
+
+dsg:
+  standard: [personenrecht, grundrechte]
+
+elg:
+  standard: [el]
+
+emrk:
+  standard: [grundrechte]
+
+gschg:
+  standard: [umwelt]
+
+gwg:
+  standard: [wirtschaftsaufsicht]
+
+iprg:
+  standard: [ipr]
+  bereiche:
+    - { von: 176, bis: 194, sachgebiete: [schiedsgerichtsbarkeit, ipr] }
+
+ivg:
+  standard: [iv]
+  bereiche:
+    - { von: 8, bis: 18, sachgebiete: [iv.eingliederung] }
+    - { von: 28, bis: 35, sachgebiete: [iv.rente] }
+    - { von: 42, bis: 42, sachgebiete: [iv.hilflosenentschaedigung] }
+
+jstg:
+  standard: [strafrecht]
+
+kg:
+  standard: [wirtschaftsaufsicht]
+  bereiche:
+    - { von: 12, bis: 17, sachgebiete: [wettbewerb_immaterial] }
+
+kvg:
+  standard: [kv]
+
+mwstg:
+  standard: [steuern.mwst]
+
+ohg:
+  standard: [strafprozess, verwaltungsrecht]
+
+or:
+  standard: [schuldrecht]
+  bereiche:
+    - { von: 41, bis: 61, sachgebiete: [haftpflicht] }
+    - { von: 184, bis: 238, sachgebiete: [schuldrecht.kauf] }
+    - { von: 253, bis: 304, sachgebiete: [schuldrecht.miete] }
+    - { von: 312, bis: 318, sachgebiete: [schuldrecht.darlehen] }
+    - { von: 319, bis: 362, sachgebiete: [schuldrecht.arbeit] }
+    - { von: 363, bis: 379, sachgebiete: [schuldrecht.werk_auftrag] }
+    - { von: 394, bis: 418, sachgebiete: [schuldrecht.werk_auftrag] }
+    - { von: 530, bis: 964, sachgebiete: [schuldrecht.gesellschaft] }
+
+rpg:
+  standard: [raumplanung]
+  bereiche:
+    - { von: 14, bis: 21, sachgebiete: [raumplanung.nutzungsplanung] }
+    - { von: 22, bis: 22, sachgebiete: [raumplanung.baubewilligung] }
+    - { von: 24, bis: 24, sachgebiete: [raumplanung.ausserhalb_bauzone] }
+    - { von: 27, bis: 27, sachgebiete: [raumplanung.nutzungsplanung] }
+
+schkg:
+  standard: [schkg]
+  bereiche:
+    - { von: 38, bis: 88, sachgebiete: [schkg.betreibung] }
+    - { von: 80, bis: 84, sachgebiete: [rechtsoeffnung] }
+    - { von: 89, bis: 158, sachgebiete: [schkg.pfaendung_verwertung] }
+    - { von: 159, bis: 270, sachgebiete: [schkg.konkurs] }
+    - { von: 271, bis: 281, sachgebiete: [schkg.arrest] }
+    - { von: 285, bis: 292, sachgebiete: [schkg.klagen] }
+    - { von: 293, bis: 336, sachgebiete: [schkg.konkurs] }
+
+stg:
+  standard: [steuern.vst_stempel]
+
+stgb:
+  standard: [strafrecht]
+  bereiche:
+    - { von: 34, bis: 55, sachgebiete: [strafrecht.strafzumessung] }
+    - { von: 56, bis: 65, sachgebiete: [strafrecht.massnahmen] }
+    - { von: 74, bis: 92, sachgebiete: [strafvollzug] }
+    - { von: 111, bis: 136, sachgebiete: [strafrecht.leib_leben] }
+    - { von: 137, bis: 172, sachgebiete: [strafrecht.vermoegen] }
+    - { von: 173, bis: 186, sachgebiete: [strafrecht.freiheit_ehre] }
+    - { von: 187, bis: 200, sachgebiete: [strafrecht.sexual] }
+    - { von: 251, bis: 257, sachgebiete: [strafrecht.urkunden] }
+    - { von: 285, bis: 295, sachgebiete: [strafrecht.staatsgewalt] }
+  artikel:
+    art-066a: [strafrecht.landesverweisung, auslaenderrecht]
+    art-066abis: [strafrecht.landesverweisung, auslaenderrecht]
+    art-066d: [strafrecht.landesverweisung, auslaenderrecht]
+
+sthg:
+  standard: [steuern.einkommen_vermoegen]
+  bereiche:
+    - { von: 55, bis: 61, sachgebiete: [steuern.steuerstrafrecht] }
+
+stpo:
+  standard: [strafprozess]
+  bereiche:
+    - { von: 56, bis: 60, sachgebiete: [strafprozess.ausstand] }
+    - { von: 127, bis: 138, sachgebiete: [strafprozess.verteidigung] }
+    - { von: 196, bis: 298, sachgebiete: [strafprozess.zwangsmassnahmen] }
+    - { von: 212, bis: 240, sachgebiete: [strafprozess.haft] }
+    - { von: 310, bis: 310, sachgebiete: [strafprozess.erledigung] }
+    - { von: 319, bis: 323, sachgebiete: [strafprozess.erledigung] }
+    - { von: 352, bis: 357, sachgebiete: [strafprozess.strafbefehl] }
+
+stue:
+  standard: [auslaenderrecht]
+
+svg:
+  standard: [strassenverkehr]
+  bereiche:
+    - { von: 90, bis: 103, sachgebiete: [strafrecht.svg] }
+
+usg:
+  standard: [umwelt]
+
+uvg:
+  standard: [uv]
+  bereiche:
+    - { von: 6, bis: 9, sachgebiete: [uv.unfallbegriff] }
+    - { von: 18, bis: 27, sachgebiete: [uv.rente_ie] }
+  artikel:
+    art-006: [uv.unfallbegriff, uv.kausalitaet]
+
+uwg:
+  standard: [wettbewerb_immaterial]
+
+vg:
+  standard: [staatshaftung]
+
+vrg-lu:
+  standard: [verwaltungsverfahren]
+
+vvg:
+  standard: [versicherungsvertrag]
+
+vwvg:
+  standard: [verwaltungsverfahren]
+
+zgb:
+  standard: [personenrecht]
+  bereiche:
+    - { von: 1, bis: 10, sachgebiete: [grundlagen] }
+    - { von: 90, bis: 251, sachgebiete: [familienrecht.ehe] }
+    - { von: 252, bis: 359, sachgebiete: [familienrecht.kinder] }
+    - { von: 276, bis: 295, sachgebiete: [familienrecht.unterhalt, familienrecht.kinder] }
+    - { von: 360, bis: 456, sachgebiete: [familienrecht.erwachsenenschutz] }
+    - { von: 426, bis: 439, sachgebiete: [familienrecht.fu] }
+    - { von: 457, bis: 640, sachgebiete: [erbrecht] }
+    - { von: 641, bis: 977, sachgebiete: [sachenrecht] }
+  artikel:
+    art-001: [grundlagen.methodik]
+    art-125: [familienrecht.unterhalt, familienrecht.ehe]
+
+zpo:
+  standard: [zivilprozess]
+  bereiche:
+    - { von: 271, bis: 307, sachgebiete: [zivilprozess, familienrecht] }

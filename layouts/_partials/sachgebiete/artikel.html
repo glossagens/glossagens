@@ -1,0 +1,34 @@
+{{- /*
+  Sachgebiete eines Kommentarartikels nach data/sachgebiete/zuordnung.yaml.
+
+  Aufruf: partial "sachgebiete/artikel.html" (dict "gesetz" "or" "slug" "art-336")
+  Rückgabe: Liste von Schlüsseln, leer, wenn das Gesetz keinen Eintrag hat.
+
+  Artikeleintrag vor engstem Bereich vor Standard; die genauere Ebene ersetzt
+  die gröbere. Die Nummer wird gelesen wie in kommentar/articles.html
+  (Regex statt Zeichenvergleich, führende Nullen weg vor dem Cast nach int).
+*/ -}}
+
+{{- $z := index hugo.Data.sachgebiete.zuordnung .gesetz -}}
+{{- $ergebnis := slice -}}
+
+{{- with $z -}}
+  {{- $ergebnis = .standard | default slice -}}
+
+  {{- $rest := strings.TrimPrefix "art-" $.slug -}}
+  {{- $ziffern := index (append (slice) (findRE "^[0-9]+" $rest 1)) 0 | default "0" -}}
+  {{- $nr := int (strings.TrimLeft "0" $ziffern | default "0") -}}
+  {{- $spanne := -1 -}}
+  {{- range .bereiche -}}
+    {{- if and (ge $nr (int .von)) (le $nr (int .bis)) -}}
+      {{- $s := sub (int .bis) (int .von) -}}
+      {{- if or (lt $spanne 0) (lt $s $spanne) -}}
+        {{- $ergebnis = .sachgebiete -}}{{- $spanne = $s -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .artikel -}}{{- with index . $.slug -}}{{- $ergebnis = . -}}{{- end -}}{{- end -}}
+{{- end -}}
+
+{{- return $ergebnis -}}
