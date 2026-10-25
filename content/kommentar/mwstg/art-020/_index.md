@@ -4,6 +4,8 @@ weight: 20
 date: 2026-10-21
 lastmod: "2026-10-21"
 description: "Praxiskommentar zu Art. 20 MWSTG: Zurechnung von Leistungen nach dem objektiven Aussenauftritt, Abgrenzung der direkten Stellvertretung bei Plattformen und Dreiparteienverhältnisse mit ausführlicher Kasuistik."
+aliases:
+  - "/kommentar/mwstg/art-20/"
 tags:
 - MWSTG
 - Zuordnung von Leistungen
