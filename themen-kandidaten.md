@@ -51,7 +51,7 @@ anderen Gerichts aus dem Annex.
 | 4 | Fernhaltung straffälliger Ausländerinnen und Ausländer | `rechtsfolgen` | hoch | offen |
 | 5 | Replikrecht und Akteneinsicht | `grundlage` | hoch | erledigt — content/themen/replikrecht-und-akteneinsicht/ (5fd2a57b) |
 | 6 | Auszonung oder Nichteinzonung | `grundlage` | mittel | offen |
-| 7 | Beweisverwertungsverbote im Strafprozess | `grundlage` | mittel | erledigt — content/themen/beweisverwertungsverbote-im-strafprozess/ |
+| 7 | Beweisverwertungsverbote im Strafprozess | `grundlage` | mittel | erledigt — content/themen/beweisverwertungsverbote-im-strafprozess/ (b7fe1abb) |
 | 8 | Siegelung und Entsiegelung | `verfahren` | mittel | offen |
 | 9 | Informationsaustausch zwischen Kindesschutz und Strafverfolgung | `rechtsfolgen` | mittel | offen |
 | 10 | Erwerbsobliegenheit und hypothetisches Einkommen im Unterhaltsrecht | `rechtsfolgen` | mittel | offen |
@@ -188,7 +188,7 @@ Thema berührt mehr als ein Hauptgebiet; **mittel** = klarer Querschnitt mit akt
 
 ## 7. Beweisverwertungsverbote im Strafprozess {#verwertungsverbote}
 
-- **Status**: erledigt — content/themen/beweisverwertungsverbote-im-strafprozess/
+- **Status**: erledigt — content/themen/beweisverwertungsverbote-im-strafprozess/ (b7fe1abb)
 - **Slug**: `beweisverwertungsverbote-im-strafprozess`
 - **Typ**: `grundlage`
 - **Sachgebiete**: `strafprozess.zwangsmassnahmen`, `strafprozess.erledigung`, `grundrechte`
