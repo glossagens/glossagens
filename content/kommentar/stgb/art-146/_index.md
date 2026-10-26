@@ -2,11 +2,16 @@
 title: "Art. 146 StGB — Betrug"
 weight: 146
 date: 2026-06-07
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung, Betrug durch Unterlassen bei Garantenstellung (Retrozessionen), umfassender Exkurs zur COVID-19-Kreditrechtsprechung, Motivationszusammenhang und Schadenskongruenz sowie taktische Merksätze für die Praxis."
-tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Retrozessionen", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel", "Sanktionsgeschäft", "OFAC"]
+lastmod: 2026-10-26
+description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung, Betrug durch Unterlassen bei Garantenstellung (Retrozessionen), umfassender Exkurs zur COVID-19-Nothilfemassnahmen-Rechtsprechung (Kredite und Kurzarbeitsentschädigung), Motivationszusammenhang und Schadenskongruenz sowie taktische Merksätze für die Praxis."
+tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Kurzarbeitsentschädigung", "Retrozessionen", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel", "Sanktionsgeschäft", "OFAC"]
 agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 6B_403/2025 vom 16.09.2026 (Covid-19-Kurzarbeitsentschädigungsbetrug): Übertragung der Arglist-Dogmatik von BGE 150 IV 169 auf Kurzarbeitsentschädigung nach AVIG/LACI; neuer Unterabschnitt 6 in Abschnitt E mit Sachverhaltsschilderung und Blockzitat aus E. 4.3.5/4.4; Ergänzung Tabelle 1. Entscheid via OCL get_erwaegung verifiziert (E. 4.3.5, 4.4); Link auf bger.ch (entscheidsuche.ch noch nicht indexiert)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -286,6 +291,20 @@ In der gerichtlichen Praxis kristallisierten sich drei typische Täuschungsmuste
 - **Geldwäscherei (Art. 305bis StGB)**: Werden die durch den Kreditbetrug (Verbrechen bei Beträgen über Fr. 300'000.– bzw. bei Gewerbsmässigkeit) deliktisch erlangten Gelder auf Privatkonten transferiert, in bar abgehoben oder über Drittkonten verschleiert, ist der Tatbestand der Geldwäscherei erfüllt ([BGer 6B_148/2026 E. 5](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.09.2026_6B_148/2026); [BGer 6B_762/2024 vom 25. März 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-762-2024_2026-03-25.html)).
 - **Verhältnis zum Nebenstrafrecht (Art. 23 aCovid-19-SBüV / Art. 25 Covid-19-SBüG)**: Die spezialgesetzlichen Übertretungstatbestände sind gegenüber dem StGB subsidiär («sofern nicht das Strafgesetzbuch (...) eine schwerere Strafe vorsieht»). Bei Erfüllung der Betrugsmerkmale geht Art. 146 StGB uneingeschränkt vor.
 
+#### 6. Übertragung auf die Kurzarbeitsentschädigung (AVIG/LACI)
+
+**26a** Die Dogmatik der suspendierten Opfermitverantwortung bei Covid-19-Nothilfemassnahmen beschränkt sich nicht auf die Solidarbürgschaftskredite. Mit **[BGer 6B_403/2025 vom 16. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=16.09.2026_6B_403/2025) E. 4.3.5 und 4.4** überträgt das Bundesgericht die Grundsätze von BGE 150 IV 169 auf die **Kurzarbeitsentschädigung nach dem Arbeitslosenversicherungsgesetz (AVIG; SR 837.0) bzw. dem Arbeitslosenversicherungsvertrag (LACI)**. Die Konstellation ist dogmatisch vergleichbar, weist aber eine systematische Nuance auf: Arbeitslosenkassen unterlagen — anders als die Banken im Covid-19-Kreditverfahren — grundsätzlich einer gesetzlichen Prüfungspflicht (vgl. Art. 39 LACI). Das Bundesgericht löst diese Differenz über die faktische Unzumutbarkeit vertiefter Einzelfallkontrollen in der ausserordentlichen Pandemiesituation.
+
+> **Fall aus der Praxis: Kurzarbeitsentschädigung für fiktive Arbeitnehmende (6B_403/2025)**
+> Der 1976 geborene kosovarische Staatsangehörige A.A.________, Geschäftsführer der C.________ AG, meldete am 25. März 2020 im Namen seiner Gesellschaft Kurzarbeit für drei Personen an — für sich selbst, seine Ehefrau B.A.________ und D.________. Weder die Ehefrau noch D.________ waren tatsächlich Arbeitnehmende der C.________ AG; der Beschwerdeführer wusste um die Unrichtigkeit seiner Angaben. Er vertraute darauf, dass die Arbeitslosenkasse angesichts der pandemiebedingt ausserordentlich grossen Zahl von Gesuchen die Entschädigungen rasch und ohne vertiefte Prüfung ausrichten und die Falschangaben selbst bei genauerer Prüfung nicht erkennen werde. Die Vorinstanz (Kantonsgericht Basel-Landschaft) verurteilte ihn wegen mehrfachen Betrugs; das Bundesgericht wies die Beschwerde vollumfänglich ab.
+> **Arglist und Ausschluss der Opfermitverantwortung**: Das Bundesgericht bejaht Arglist und schliesst eine Opfermitverantwortung der Arbeitslosenkasse aus. Die Ausgleichskasse war bei der Prüfung der Anträge «richtlinienkonform» vorgegangen und hatte «nicht die grundlegendsten Vorsichtsmassnahmen unbeachtet gelassen». Für die Annahme von Arglist bedurfte es unter diesen Umständen weder eines Lügengebäudes noch besonderer Machenschaften:
+
+> «Muss eine Arbeitslosenkasse aufgrund einer ausserordentlichen Lage (wie z.B. der Covid-19-Pandemie) innert kurzer Zeit eine massive Zahl von Gesuchen um Kurzarbeitsentschädigung bearbeiten und kann sie deshalb keine besonderen Einzelfallkontrollen vornehmen, begründet der Umstand, dass sie sich auf die Angaben der Gesuchsteller verlässt, auch dann keine die Arglist ausschliessende Opfermitverantwortung, wenn sie grundsätzlich zu gewissen Kontrollen verpflichtet ist. Wer um diese eingeschränkten Kontrollmöglichkeiten weiss und die ausserordentliche Situation durch falsche Angaben gezielt ausnutzt, handelt arglistig.»
+>
+> ([BGer 6B_403/2025 vom 16. September 2026, E. 4.3.5](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=16.09.2026_6B_403/2025); in übereinstimmender Linie mit [BGer 6B_1006/2024 vom 8. Mai 2025 E. 3.4](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=08.05.2025_6B_1006/2024) zur Kurzarbeit und [BGE 150 IV 169 E. 5.1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-169_2024.html#consideration_5.1.4) zum Covid-19-Kredit).
+
+**Rückbindung an das Merkmal**: Der Entscheid präzisiert die Dogmatik dahingehend, dass die Suspendierung der Opfermitverantwortung auch bei einer Behörde greift, die — wie die Arbeitslosenkasse — rechtlich zu gewissen Kontrollen verpflichtet ist, wenn diese in der Pandemiesituation faktisch nicht zumutbar waren. Entscheidend ist nicht die abstrakte Informationsverfügbarkeit oder Prüfpflicht, sondern die Zumutbarkeit der Überprüfung unter den konkreten ausserordentlichen Umständen. Der Einwand des Täters, die Behörden hätten «Zugriff auf sämtliche Informationen» gehabt, wird damit zurückgewiesen. Damit bestätigt 6B_403/2025 die im Glossagens-Kommentar dargestellte Rechtsprechungslinie, wonach das bewusste Ausnutzen staatlich herbeigeführter Vulnerabilitäten ein arglisttypisches Unrechtselement darstellt (vgl. oben Rn. 8 und [BGE 135 IV 76 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-76_2009.html#consideration_5.2); [BGE 150 IV 169 E. 5.1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-169_2024.html#consideration_5.1.4)), und überträgt sie auf das zweite zentrale pandemiebedingte Selbstdeklarationsverfahren neben den Solidarbürgschaftskrediten.
+
 ---
 
 ### F. Kasuistik- und Kriterientabellen
@@ -302,6 +321,7 @@ In der gerichtlichen Praxis kristallisierten sich drei typische Täuschungsmuste
 | **Unfallmeldung an SUVA** | Täuschende Schilderung des Unfalls zur Erlangung von Taggeldern | SUVA konnte Unfallbericht und Arztberichte leicht anfordern | **Keine Arglist** (Untauglicher Betrugsversuch; SUVA hätte mit Mindestaufwand Mängel erkannt) | [6B_183/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-183-2014_2014-10-28.html) |
 | **Bekanntschafts-Geldgeschenke (Fr. 23'000.–)** | Vorspiegelung von Heiratsabsichten im Erotikmilieu | Hinterfragen von Notlagen / Schenkungscharakter | **Keine Arglist** (Einstellung geschützt; freiwillige Zuwendungen ohne Täuschungsbeweis) | [7B_891/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-891-2024_2024-10-22.html) |
 | **Sanktionsgeschäft mit angeblichem CIA-Agenten (Aktienveräusserung)** | Behauptung, CIA-Undercover-Agent mit Einfluss auf OFAC-Lizenz für Russland-Ölhandel | Hintergrundprüfung (US-Betrugsvorwürfe) leicht über private Agentur aufdeckbar | **Keine Arglist** (erfahrene Rohstoffhändlerin; kurze Geschäftsbeziehung; hohes Volumen; internationale Sanktionen gebieten besondere Vorsicht) | [7B_20/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-20-2025_2026-09-02.html) |
+| **Covid-19-Kurzarbeitsentschädigung (fiktive Arbeitnehmende)** | Anmeldung von Kurzarbeit für Nicht-Arbeitnehmende (Ehefrau, Drittperson) während Pandemie | Arbeitslosenkasse rechtlich prüfpflichtig, aber vertiefte Einzelfallkontrollen in der Massensituation unzumutbar | **Arglist bejaht** (bewusstes Ausnutzen pandemiebedingt eingeschränkter Kontrollen; Opfermitverantwortung ausgeschlossen, da Kasse richtlinienkonform vorging) | [6B_403/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=16.09.2026_6B_403/2025) |
 
 ---
 

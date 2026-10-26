@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 146 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-10-04
-description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, umfassende Judikatur zu Covid-19-Krediten (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Arglistverneinung bei erfahrenen Rohstoffhändlern (BGer 7B_20/2025), Prozessbetrug und Gewerbsmässigkeit."
-tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Covid-19-Kredit", "Sanktionsgeschäft", "Besonderer Teil"]
+lastmod: 2026-10-26
+description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, umfassende Judikatur zu Covid-19-Krediten und Kurzarbeitsentschädigung (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026, BGer 6B_403/2025), Arglistverneinung bei erfahrenen Rohstoffhändlern (BGer 7B_20/2025), Prozessbetrug und Gewerbsmässigkeit."
+tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Covid-19-Kredit", "Kurzarbeitsentschädigung", "Sanktionsgeschäft", "Besonderer Teil"]
 agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    mcp_verified: true
+    note: "Aufnahme von BGer 6B_403/2025 vom 16.09.2026 (Covid-19-Kurzarbeitsentschädigungsbetrug: Arglist bei einfachen Falschangaben in der pandemiebedingten Massensituation; Suspendierung der Opfermitverantwortung auch bei grundsätzlich prüfpflichtiger Arbeitslosenkasse). Erwägungstext via OCL get_erwaegung verifiziert (E. 4.3.5, 4.4); Link auf bger.ch (entscheidsuche.ch noch nicht indexiert)."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -161,6 +166,13 @@ revisions:
 
 ---
 
+### [BGer 6B_403/2025 vom 16. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=16.09.2026_6B_403/2025) E. 4.3.5 und 4.4 — Arglist bei Covid-19-Kurzarbeitsentschädigung und Suspendierung der Opfermitverantwortung trotz Prüfpflicht der Arbeitslosenkasse
+- **Thema**: Übertragung der Arglist-Dogmatik von BGE 150 IV 169 (Covid-19-Kredit) auf die Kurzarbeitsentschädigung nach AVIG/LACI; einfache Falschangaben als arglistig bei pandemiebedingt eingeschränkten Kontrollmöglichkeiten.
+- **Kernaussage**: Muss eine Arbeitslosenkasse aufgrund einer ausserordentlichen Lage (wie der Covid-19-Pandemie) innert kurzer Zeit eine massive Zahl von Gesuchen um Kurzarbeitsentschädigung bearbeiten und kann sie deshalb keine besonderen Einzelfallkontrollen vornehmen, begründet der Umstand, dass sie sich auf die Angaben der Gesuchsteller verlässt, auch dann keine die Arglist ausschliessende Opfermitverantwortung, wenn sie grundsätzlich zu gewissen Kontrollen verpflichtet ist. Wer um diese eingeschränkten Kontrollmöglichkeiten weiss und die ausserordentliche Situation durch falsche Angaben gezielt ausnutzt, handelt arglistig. Im konkreten Fall hatte der Geschäftsführer einer AG Kurzarbeit für sich, seine Ehefrau und eine dritte Person beantragt, obwohl nur er selbst (und dieser nicht in Kurzarbeit) Arbeitnehmer war; das Bundesgericht bestätigte den Schuldspruch wegen mehrfachen Betrugs. Für die Annahme von Arglist bedarf es unter diesen Umständen weder eines Lügengebäudes noch besonderer Machenschaften (E. 4.4). Der Einwand, die Behörden hätten «Zugriff auf sämtliche Informationen» gehabt, wird zurückgewiesen — entscheidend ist die Zumutbarkeit der Überprüfung unter den konkreten ausserordentlichen Umständen.
+- **Einschlägig für**: Art. 146 Abs. 1 StGB — Arglist im pandemiebedingten Selbstdeklarationsverfahren, Opfermitverantwortung bei prüfpflichtigen Behörden, Covid-19-Kurzarbeitsentschädigung.
+
+---
+
 ## III. Weitere Bundesgerichts- und kantonale Entscheide
 
 ### [BGer 6B_85/2026, 6B_96/2026 vom 13. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026) E. 2.1–2.3, 3.2 — Motivationszusammenhang bei Lieferkettenverschleierung
@@ -212,4 +224,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-10-04*
+*Letzte Aktualisierung: 2026-10-26*
