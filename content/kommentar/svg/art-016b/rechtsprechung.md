@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 16b SVG"
 weight: 99
 date: 2026-08-08
-lastmod: 2026-08-08
+lastmod: 2026-10-26
 description: "Übersicht der massgeblichen Entscheide zu Art. 16b SVG (mittelschwere Widerhandlung, gestaffelte Mindestentzugsdauern, Rückfallstaffel, Entzug auf unbestimmte Zeit)"
-tags: ["Rechtsprechung", "SVG", "Führerausweisentzug", "mittelschwere Widerhandlung", "Rückfall"]
+tags: ["Rechtsprechung", "SVG", "Führerausweisentzug", "mittelschwere Widerhandlung", "Rückfall", "BGer 1C_99/2026"]
 agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 1C_99/2026 vom 06.10.2026 (publiziert 26.10.2026): Kollision mit E-Bike / Fahrrad infolge Vortrittsmissachtung begründet stets mindestens erhöhte Gefährdung und ist zwingend eine mittelschwere Widerhandlung (Art. 16b Abs. 1 lit. a SVG); Ausschluss einer leichten Widerhandlung nach Art. 16a SVG."
   - date: 2026-08-08
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -33,6 +38,14 @@ Zurück zum Kommentar: [Art. 16b SVG — Mittelschwere Widerhandlungen](./)
 - **Erwägung**: E. 6.1
 - **Einschlägig für**: Abs. 1 lit. a (Abgrenzung)
 - **Quelle**: [BGE 150 II 505](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_II_505#e-6-1)
+
+### [BGer 1C_99/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_99_2026) (06.10.2026)
+
+- **Thema**: Art. 16a Abs. 1 lit. a, Art. 16b Abs. 1 lit. a, Art. 36 Abs. 2 SVG — Vortrittsmissachtung mit Kollision gegen E-Bike / Fahrrad; Ausschluss der leichten Widerhandlung
+- **Kernaussage**: Kollidiert ein Personenwagen infolge Missachtung des Vortrittsrechts mit einem korrekt auf der Hauptstrasse fahrenden E-Bike oder Fahrrad, liegt wegen der besonderen Verletzlichkeit des Zweiradfahrers stets eine konkrete oder zumindest erhöhte abstrakte Gefährdung vor. Eine bloss geringe Gefahr für die Sicherheit anderer im Sinne einer leichten Widerhandlung (Art. 16a Abs. 1 lit. a SVG) ist ausgeschlossen. Daran ändert weder eine geringe Anfahrgeschwindigkeit (unter 10 km/h) noch ein geringfügiges Ausmass der Verletzungen etwas. Die Widerhandlung ist zwingend als mittelschwer (Art. 16b Abs. 1 lit. a SVG) zu qualifizieren und zieht obligatorisch einen einmonatigen Warnungsentzug nach sich.
+- **Erwägung**: E. 4.1–4.3
+- **Einschlägig für**: Abs. 1 lit. a (Vortrittsmissachtung, Zweiräder, Gefährdungsbegriff)
+- **Quelle**: [BGer 1C_99/2026 vom 6. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_99_2026)
 
 ## II. Geschwindigkeitsüberschreitung als mittelschwere Widerhandlung
 

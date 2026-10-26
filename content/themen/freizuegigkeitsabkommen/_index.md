@@ -16,9 +16,14 @@ normen:
   - { gesetz: bv, art: art-005 }
   - { gesetz: bv, art: art-121a }
   - { gesetz: bv, art: art-190 }
-stichworte: ["Freizügigkeitsabkommen", "FZA", "Personenfreizügigkeit", "Derogation", "Inländervorrang", "Höchstzahlen", "Schubert-Praxis", "Metock", "Zhu und Chen", "Ordre public", "Art. 5 Anhang I FZA", "Arbeitnehmerfreizügigkeit"]
+stichworte: ["Freizügigkeitsabkommen", "FZA", "Personenfreizügigkeit", "Derogation", "Inländervorrang", "Höchstzahlen", "Schubert-Praxis", "Metock", "Zhu und Chen", "Ordre public", "Art. 5 Anhang I FZA", "Arbeitnehmerfreizügigkeit", "BGer 2C_355/2024"]
 agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Grundsatzentscheids BGer 2C_355/2024 vom 19.08.2026 (5er-Besetzung, publiziert 26.10.2026): Arbeitnehmereigenschaft nach Art. 6 Abs. 1 Anhang I FZA und deren Wiedererlangung nach Aussteuerung / Art. 61a Abs. 4 AIG durch Beschäftigung im Rahmen öffentlich finanzierter Arbeitslosenhilfe / Integrationsprogramme."
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -84,11 +89,17 @@ Unselbständig Erwerbstätige geniessen das Recht auf Zugang zum Arbeitsmarkt un
 * **Aufenthalter (Ausweis B EU/EFTA)**: Bei einem Arbeitsvertrag von mindestens einem Jahr oder von unbefristeter Dauer; die Bewilligung ist für fünf Jahre gültig und verlängerbar (Art. 6 Abs. 1 Anhang I FZA).
 * **Arbeitssuchende**: EU/EFTA-Bürger dürfen bis zu sechs Monate zur Stellensuche einreisen (Art. 2 Abs. 1 Anhang I FZA); während dieser Phase besteht kein Anspruch auf Sozialhilfe.
 
-Der Begriff des Arbeitnehmers bestimmt sich autonom nach dem Unionsrecht: Erforderlich ist eine echte und tatsächliche wirtschaftliche Tätigkeit unter Leitung eines anderen gegen Entgelt; völlig untergeordnete oder unwesentliche Tätigkeiten genügen nicht ([BGE 131 II 339 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-131-II-339_2005.html)).
+Der Begriff des Arbeitnehmers bestimmt sich autonom nach dem Unionsrecht: Erforderlich ist eine echte und tatsächliche wirtschaftliche Tätigkeit unter Leitung eines anderen gegen Entgelt; völlig untergeordnete oder unwesentliche Tätigkeiten genügen nicht ([BGE 131 II 339 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-131-II-339_2005.html)). Dabei kommt es weder auf das Beschäftigungspensum, die Lohnhöhe noch darauf an, ob der Lohn aus privaten oder öffentlichen Mitteln finanziert wird ([BGer 2C_355/2024 vom 19. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_355_2024) E. 3.1).
 
-### 3. Fortbestand der Arbeitnehmereigenschaft und Verbleiberecht (Art. 4 FZA, Art. 4 Anhang I FZA) {#verbleiberecht}
+### 3. Fortbestand und Wiedererlangung der Arbeitnehmereigenschaft (Art. 4 FZA, Art. 6 Abs. 6 Anhang I FZA) {#verbleiberecht}
 
-Bei unverschuldeter Arbeitslosigkeit erlischt die Bewilligung nicht automatisch. Nach gefestigter bundesgerichtlicher Rechtsprechung gilt: «dass eine arbeitnehmende Person ihren freizügigkeitsrechtlichen Status als unselbständig erwerbstätige Person verlieren kann, (1) wenn sie freiwillig arbeitslos geworden ist, (2) aufgrund ihres Verhaltens feststeht, dass keinerlei ernsthafte Aussichten (mehr) darauf bestehen, dass sie in absehbarer Zeit eine andere Arbeit finden wird» ([BGE 141 II 1 E. 2.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-1_2015.html#consideration_2.2.1)).
+Bei unverschuldeter Arbeitslosigkeit erlischt die Bewilligung nicht automatisch. Nach gefestigter bundesgerichtlicher Rechtsprechung gilt: «dass eine arbeitnehmende Person ihren freizügigkeitsrechtlichen Status als unselbständig erwerbstätige Person verlieren kann, (1) wenn sie freiwillig arbeitslos geworden ist, (2) aufgrund ihres Verhaltens feststeht, dass keinerlei ernsthafte Aussichten (mehr) darauf bestehen, dass sie in absehbarer Zeit eine andere Arbeit finden wird» ([BGE 141 II 1 E. 2.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-1_2015.html#consideration_2.2.1); [BGE 144 II 121 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-121_2018.html#consideration_3.1)). Diese Grundsätze wurden in Art. 61a Abs. 4 AIG im nationalen Recht verankert, wonach das Aufenthaltsrecht sechs Monate nach Ende der Beschäftigung bzw. nach Erlöschen der Arbeitslosenentschädigung dahinfällt.
+
+**Wiedererlangung durch kantonale Beschäftigungs- und Integrationsprogramme ([BGer 2C_355/2024 vom 19. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_355_2024), Fünferbesetzung):**
+Hat eine freizügigkeitsberechtigte Person ihr Aufenthaltsrecht als Erwerbstätige nach Art. 61a Abs. 4 AIG infolge Langzeitarbeitslosigkeit verloren, kann sie den Status als Arbeitnehmerin gemäss Art. 6 Abs. 1 Anhang I FZA wiedererlangen. In einem wegweisenden Grundsatzentscheid stellte das Bundesgericht klar:
+* Auch eine Beschäftigung im Rahmen von Massnahmen der kantonalen Arbeitslosenhilfe (wie dem Basler *Projekt Stöckli*) kann die Arbeitnehmereigenschaft neu begründen, wenn die Tätigkeit quantitativ und qualitativ einer echten und tatsächlichen wirtschaftlichen Leistung entspricht (E. 4.2).
+* Dass der Arbeitsvertrag formell mit dem kantonalen Amt für Wirtschaft und Arbeit (AWA) statt direkt mit dem Einsatzbetrieb geschlossen wurde und die Entlöhnung vollständig aus dem kantonalen Arbeitslosenfonds stammt, schliesst die Arbeitnehmereigenschaft nicht aus; der Lohn kann auch aus öffentlichen Mitteln stammen (E. 4.3).
+* Ebenso schadet es nicht, dass die Massnahme personenspezifisch ausgestaltet ist und primär bezweckt, der betroffenen Person den Verbleib im Erwerbsleben bis zum Erreichen des Pensionsalters zu ermöglichen (E. 4.3). Massgebend ist allein, dass die ausgeübten Funktionen (z. B. Kommunikationsmitarbeiterin eines Vereins) auf dem regulären Beschäftigungsmarkt üblich sind.
 
 Wanderarbeitnehmer haben überdies ein autonomes **Verbleiberecht** (Art. 4 Abs. 1 FZA i.V.m. Art. 4 Anhang I FZA und VO [EWG] Nr. 1251/70): Wer das Rentenalter erreicht oder dauernd arbeitsunfähig wird, behält das Aufenthaltsrecht dauerhaft. Dies hat wesentliche sozialrechtliche Konsequenzen: «Wer sich auf ein Verbleiberecht berufen kann, behält seine als Arbeitnehmer erworbenen Rechte und hat insbesondere auch Anspruch auf Sozialhilfe» ([BGE 141 II 1 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-1_2015.html#consideration_4.1)). «Der Begriff "dauernde Arbeitsunfähigkeit" bezieht sich nicht nur auf eine Arbeitsunfähigkeit im angestammten Berufsfeld, sondern umfasst auch zumutbare Tätigkeiten in einem anderen Beruf» ([BGE 146 II 89 E. 4.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-146-II-89_2020.html#consideration_4.)).
 

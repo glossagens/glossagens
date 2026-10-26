@@ -2,11 +2,16 @@
 title: "Art. 99 — Neue Tatsachen und Beweismittel"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-10-15
+lastmod: 2026-10-26
 description: "Kommentar zu Art. 99 BGG – Novenrecht vor Bundesgericht, unechte und echte Noven, Kognition des Bundesgerichts"
 tags: ["BGG", "Noven", "Beweismittel", "Kognition", "Beschwerde"]
 agent_verified: false
 revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Korrektur und Nachführung zu echten Noven im Strafrecht anhand von BGer 6B_403/2025 vom 16.09.2026: strikte Unzulässigkeit echter Noven auch im Strafrecht und bei Landesverweisungen (Art. 66a StGB); nachträgliche Tatsachen sind über das Revisionsverfahren (Art. 410 StPO) geltend zu machen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -41,9 +46,9 @@ revisions:
 
 **4** Die Abgrenzung zwischen echten und unechten Noven ist in der Praxis häufig streitig. Typische Konstellationen:
 
-- Ein nach dem angefochtenen Entscheid abgeschlossener Arbeitsvertrag ist eine **echte Nouve** und damit unzulässig (BGer 8C_3/2026 E. 6.2.4.1).
-- Ein im kantonalen Verfahren bereits existierendes, aber aus berechtigtem Grund nicht vorgebrachtes Beweismittel ist eine **unechte Nouve** und kann zulässig sein.
-- Eine nachträgliche Änderung der Rechtsprechung ist keine Nouve im Sinne von Art. 99 BGG, sondern eine Frage der rechtlichen Würdigung.
+- Ein nach dem angefochtenen Entscheid abgeschlossener Arbeitsvertrag ist ein **echtes Novum** und damit unzulässig (BGer 8C_3/2026 E. 6.2.4.1).
+- Ein im kantonalen Verfahren bereits existierendes, aber aus berechtigtem Grund nicht vorgebrachtes Beweismittel ist ein **unechtes Novum** und kann zulässig sein.
+- Eine nachträgliche Änderung der Rechtsprechung ist kein Novum im Sinne von Art. 99 BGG, sondern eine Frage der rechtlichen Würdigung.
 
 ### III. Voraussetzungen der Zulässigkeit (Abs. 1)
 
@@ -63,14 +68,15 @@ revisions:
 
 **7** Im **sozialversicherungsrechtlichen Verfahren** hat das Novenrecht besondere Bedeutung, weil die IV-Stellen im Revisionsverfahren oft neue Tatsachen berücksichtigen, die im Zeitpunkt des angefochtenen Entscheids noch nicht vorlagen. Das Bundesgericht hat wiederholt klargestellt, dass echte Noven — auch wenn sie für den Rentenanspruch relevant sind — im Beschwerdeverfahren nicht berücksichtigt werden können (BGer 8C_3/2026 E. 6.2.4.1).
 
-**8** Im **strafrechtlichen Verfahren** ist das Novenrecht weniger restriktiv: Das Bundesgericht lässt im Strafverfahren grundsätzlich auch Noven zu, die sich nach dem angefochtenen Entscheid ereignet haben, sofern der angefochtene Entscheid dazu Anlass gibt. Dies gilt insbesondere für neue Beweismittel, die die Unschuld des Beschuldigten belegen könnten.
+**8** Im **strafrechtlichen Verfahren** gilt das Verbot echter Noven uneingeschränkt ([BGE 133 IV 342](https://mcp.opencaselaw.ch/entscheid/bge_133_IV_342) E. 2.1). Auch im Straf- und Massnahmenrecht (einschliesslich der Landesverweisung nach Art. 66a StGB) können Tatsachen, die sich erst nach dem vorinstanzlichen Entscheid ereignet haben (z. B. die nachträgliche Schwangerschaft oder Geburt eines gemeinsamen Kindes mit einer Schweizer Bürgerin), vor Bundesgericht nicht berücksichtigt werden ([BGer 6B_403/2025 vom 16. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_403_2025) E. 6.3.2 und 6.4). Solche nachträglichen Sachverhaltsänderungen oder neue Entlastungsbeweise können nicht im Beschwerdeverfahren vorgebracht werden, sondern berechtigen allenfalls zur Einleitung eines Revisionsverfahrens vor den kantonalen Instanzen (Art. 410 StPO).
 
 ### VI. Abgrenzung zu Art. 10 BGG
 
-**9** Art. 10 BGG regelt die **Kognition** des Bundesgerichts (die Prüfungsbefugnis). Während Art. 99 BGG das *was* (welche Tatsachen/Beweismittel) begrenzt, regelt Art. 10 BGG das *wie* (wie umfassend die Prüfung erfolgt). Die beiden Normen sind komplementär: Selbst wenn eine Nouve zulässig ist, prüft das Bundesgericht nur die Rechtsfrage, nicht den gesamten Sachverhalt neu.
+**9** Art. 10 BGG regelt die **Kognition** des Bundesgerichts (die Prüfungsbefugnis). Während Art. 99 BGG das *was* (welche Tatsachen/Beweismittel) begrenzt, regelt Art. 10 BGG das *wie* (wie umfassend die Prüfung erfolgt). Die beiden Normen sind komplementär: Selbst wenn ein Novum zulässig ist, prüft das Bundesgericht nur die Rechtsfrage, nicht den gesamten Sachverhalt neu.
 
 ### VII. Kasuistik
 
+- **[BGer 6B_403/2025 vom 16. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_403_2025), E. 6.3.2 & 6.4**: Echte Noven sind im bundesgerichtlichen Verfahren ausnahmslos unzulässig (Bestätigung von BGE 149 III 465 E. 5.5.1 und BGE 148 V 174 E. 2.2). Auch bei der Prüfung einer obligatorischen Landesverweisung (Art. 66a StGB) kann eine erst nach dem Berufungsurteil eingetretene Schwangerschaft der Partnerin vor Bundesgericht nicht vorgebracht werden; der Rechtsschutz ist auf das kantonale Revisionsverfahren (Art. 410 StPO) verwiesen.
 - **[BGE 149 III 465, E. 5.5.1](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_149_III_465)**: Echte Noven nach dem angefochtenen Urteil sind vor Bundesgericht grundsätzlich unzulässig. Neue Arbeitsverträge nach dem vorinstanzlichen Urteil können nicht berücksichtigt werden.
 - **[BGE 148 I 160, E. 1.7](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=BGE_148_I_160)**: Bestätigung der Grundsätze zu echten und unechten Noven im Verwaltungsrecht.
 - **[BGer 8C_3/2026, E. 6.2.4.1](https://www.bger.ch/ext/eurospider/live/de/php/cla/index.php?lang=de&type=show_document&highlight_reqid=&id=8C_3_2026)**: Im IV-Recht sind echte Noven (neuer Arbeitsvertrag nach dem vorinstanzlichen Urteil) vor Bundesgericht unzulässig. Die Vorinstanz muss jedoch im Revisionsverfahren alle relevanten Tatsachen berücksichtigen, einschliesslich Stellenangebote im angestammten Tätigkeitsgebiet.

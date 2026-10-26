@@ -1,7 +1,7 @@
 ---
 title: "Replikrecht und Akteneinsicht im Verfahren"
 date: 2026-10-24
-lastmod: 2026-10-24
+lastmod: 2026-10-26
 description: "Verfassungs- und konventionsrechtliche Verfahrensgarantien über alle Rechtsgebiete hinweg: unbedingtes Replikrecht, 10-Tage-Regel, Aktenführungspflicht, Amtsgeheimnisschranken, EGMR-Praxis und die Grenzen der Heilung."
 tags: ["Rechtliches Gehör", "Replikrecht", "Akteneinsicht", "Aktenführungspflicht", "Waffengleichheit", "Fair trial", "Verwaltungsverfahren", "Zivilprozess", "Strafprozess", "Bundesgericht"]
 typ: grundlage
@@ -22,6 +22,11 @@ normen:
 stichworte: ["Replikrecht", "unbedingtes Replikrecht", "Akteneinsicht", "Aktenführungspflicht", "Waffengleichheit", "Rechtliches Gehör", "10-Tage-Regel", "Amtsberichte", "Star-Praxis", "Heilung"]
 agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung der aktuellen bundesgerichtlichen Rechtsprechung zur Akteneinsicht im Strafverfahren bei parallelen Zivil- und Verwaltungsverfahren (BGer 7B_742/2026 vom 24.09.2026, BGer 7B_1111/2026 vom 13.10.2026): Fehlender nicht wieder gutzumachender Nachteil nach Art. 93 Abs. 1 lit. a BGG, Schutzregime über Art. 73 Abs. 2, Art. 102 Abs. 1 und Art. 108 StPO sowie Parteistellung öffentlich-rechtlicher Körperschaften sui generis (Art. 104 Abs. 2 StPO)."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -185,6 +190,11 @@ In der ZPO ist der Gehörsanspruch in Art. 53 verankert.
 Im Strafverfahren erfährt das Akteneinsichtsrecht aus verfahrenstaktischen Gründen (Kollusionsgefahr, Wahrheitsfindung) eine spezifische zeitliche Staffelung:
 - Gemäss Art. 101 Abs. 1 StPO und [BGE 137 IV 172](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-172_2011.html#consideration_2.3) E. 2.3 hat die beschuldigte Person vor ihrer ersten polizeilichen Einvernahme grundsätzlich *keinen* Anspruch auf Akteneinsicht. Ihr Rechtsschutz wird durch die Belehrungspflicht (Art. 158 StPO) und das Aussageverweigerungsrecht (*nemo tenetur*) kompensiert.
 - Nach der ersten Einvernahme und der Abnahme der wesentlichen Beweise durch die Staatsanwaltschaft steht den Parteien das volle Einsichtsrecht nach Art. 107 Abs. 1 lit. a StPO zu. Spätestens vor Abschluss der Untersuchung ist im Rahmen der Schlusseinvernahme (Art. 317 StPO) umfassend Akteneinsicht zu gewähren.
+
+Besondere Bedeutung hat das Akteneinsichtsrecht der **Privatklägerschaft** und von Behörden mit Parteistellung *sui generis* (Art. 104 Abs. 2 StPO) bei Strafverfahren mit mehreren Sachverhaltskomplexen oder parallelen Zivil- und Verwaltungsverfahren:
+- **Kein nicht wieder gutzumachender Nachteil (Art. 93 Abs. 1 lit. a BGG)**: Die beschuldigte Person erleidet durch die Gewährung von Akteneinsicht an die Privatklägerschaft in der Regel keinen rechtlichen Nachteil, der sich später durch einen günstigen Endentscheid nicht mehr beheben liesse ([BGer 7B_742/2026 vom 24. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_742_2026) E. 1.2; [BGer 7B_1111/2026 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1111_2026) E. 3.2). Eine Beschwerde an das Bundesgericht gegen kantonale Zwischenentscheide über die Akteneinsicht ist daher regelmässig unzulässig.
+- **Schutzregime gegen Verwertung in Fremdverfahren**: Die Befürchtung der beschuldigten Person, die Gegenpartei könnte die erlangten Strafakten in zivil- oder verwaltungsrechtlichen Parallelprozessen verwerten oder Geschäftsgeheimnisse preisgeben, begründet ebenfalls keinen Nachteil nach Art. 93 Abs. 1 lit. a BGG. Der Gesetzgeber schützt schutzwürdige Geheimhaltungsinteressen spezifisch über das Verwendungs- und Offenbarungsverbot von Art. 73 Abs. 2 StPO, über behördliche Auflagen gemäss Art. 102 Abs. 1 StPO (z. B. Schwärzungen, Verbot der Weitergabe) sowie über Akteneinsichtsbeschränkungen gemäss Art. 108 StPO ([BGer 7B_742/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_742_2026) E. 1.2).
+- **Öffentlich-rechtliche Körperschaften als Partei sui generis**: Behörden, die gemäss Art. 104 Abs. 2 StPO zur Wahrung öffentlicher Interessen ermächtigt sind, Parteirechte auszuüben, haben Anspruch auf Einsicht in jene Aktenbestandteile, die zur Erfüllung ihrer gesetzlichen Aufgaben unerlässlich sind. Dies gilt auch dann, wenn gleichzeitig zivilrechtliche Rückforderungs- oder Haftungsansprüche im Raum stehen ([BGer 7B_1111/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1111_2026) E. 3.2).
 
 ### Verwaltungsverfahren des Bundes und der Kantone (Art. 26–30 VwVG) {#verwaltungsverfahren}
 

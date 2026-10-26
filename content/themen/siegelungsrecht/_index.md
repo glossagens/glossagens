@@ -1,9 +1,9 @@
 ---
 title: "Siegelungsrecht: Schutzgründe, Beschlagnahmeverbote und Verfahren"
 date: 2026-10-24
-lastmod: 2026-10-24
+lastmod: 2026-10-26
 description: "Strafprozessuale Siegelung und Entsiegelung nach Art. 248 und 248a StPO: Beschlagnahme- und Verwertungsverbote nach Art. 264 StPO, Wegfall von Geschäftsgeheimnissen seit der Revision 2024, Verfahrensablauf, gerichtliche Triage und Rechtsmittelweg."
-tags: ["Strafprozess", "Siegelung", "Entsiegelung", "Zwangsmassnahmen", "Beschlagnahmeverbot", "Verwertungsverbot", "Anwaltsgeheimnis", "Berufsgeheimnis", "Privatsphäre", "Zwangsmassnahmengericht"]
+tags: ["Strafprozess", "Siegelung", "Entsiegelung", "Zwangsmassnahmen", "Beschlagnahmeverbot", "Verwertungsverbot", "Anwaltsgeheimnis", "Berufsgeheimnis", "Privatsphäre", "Zwangsmassnahmengericht", "BGer 7B_978/2025"]
 typ: verfahren
 kurz: "Macht eine betroffene Person bei einer Sicherstellung geltend, Aufzeichnungen oder Gegenstände unterlägen einem gesetzlichen Beschlagnahmeverbot nach Art. 264 StPO, sind diese unverzüglich zu siegeln und dürfen von den Strafbehörden weder eingesehen noch verwertet werden. Das Siegelungsbegehren muss innert drei Tagen gestellt werden. Hält die Staatsanwaltschaft am Zugriff fest, hat sie innert 20 Tagen beim Zwangsmassnahmengericht ein Entsiegelungsgesuch einzureichen, das im summarischen Verfahren über die Schutzgründe (Berufsgeheimnisse, Anwaltskorrespondenz, überwiegende Privatgeheimnisse) entscheidet."
 sachgebiete: [strafprozess.zwangsmassnahmen]
@@ -17,6 +17,11 @@ normen:
 stichworte: ["Siegelung", "Entsiegelung", "Siegelungsverfahren", "Entsiegelungsverfahren", "Zwangsmassnahmengericht", "Beschlagnahmeverbot", "Beweisverwertungsverbot", "Anwaltsgeheimnis", "Berufsgeheimnis", "Privatgeheimnis", "Datenspiegelung", "Substanziierungsobliegenheit", "Triage"]
 agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Nachführung mit Leitentscheid BGer 7B_978/2025 vom 13.10.2026: Verbot der Triage-Delegation an die Polizei gemäss Art. 248a Abs. 6 lit. b StPO (Polizei nur für technischen Zugang/Integrität, keine Inhaltsprüfung), Verbot hybrider Entscheide und zwingende zeitliche Begrenzung der Smartphone-Entsiegelung bei mittelschweren Delikten (BGE 151 IV 350)."
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -93,6 +98,7 @@ In der Praxis betrifft dies fast ausnahmslos sichergestellte Smartphones und pri
 1. **Kein absoluter Schutz**: «Dementsprechend ist ohne Weiteres davon auszugehen, dass bei der (vollständigen) Durchsuchung von privat genutzten Smartphones persönliche Aufzeichnungen und Korrespondenz im Sinne von Art. 264 Abs. 1 lit. b StPO tangiert sind» ([BGE 151 IV 344](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.7) E. 2.7). Dies genügt für sich allein jedoch nicht: «Persönliche Aufzeichnungen und Korrespondenz der beschuldigten Person sind wie gesehen gerade nicht absolut geschützt, sondern nur dann, wenn das Interesse am Schutz ihrer Persönlichkeit das Strafverfolgungsinteresse überwiegt» ([BGE 151 IV 344](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-344_2025.html#consideration_2.7) E. 2.7).
 2. **Systemimmanente Sichtung nicht relevanter Daten**: Bei der Prüfung der Geeignetheit ist das Gerät als Gesamtes zu betrachten: «Es liegt in der Natur der Sache, dass bei der Durchsuchung von Aufzeichnungen und Gegenständen auch Inhalte gesichtet werden, die sich in der Folge für die Untersuchung als bedeutungslos erweisen» ([BGE 151 IV 350](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5.3) E. 2.5.3).
 3. **Schwere der Straftat**: «Einerseits kann die Untersuchung Straftaten zum Gegenstand haben, die derart schwer wiegen, dass das öffentliche Interesse an ihrer Aufklärung allfällige Interessen der beschuldigten Person am Schutz ihrer persönlichen Daten grundsätzlich ohne Weiteres überwiegt» ([BGE 151 IV 350](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-350_2025.html#consideration_2.5.4) E. 2.5.4).
+4. **Mittelschwere Kriminalität und zeitliche Eingrenzung**: Geht es um Delikte mittlerer Schwere (z. B. Einbruchdiebstahl in ein Wohnhaus), verlangt das Verhältnismässigkeitsgebot zwingend eine Abwägung des konkreten Erkenntnisgewinns. Da Smartphones höchstpersönliche Datenbestände enthalten, ist eine zeitlich unbeschränkte Entsiegelung bundesrechtswidrig; sie muss auf jene Zeiträume beschränkt werden, die zur Anlasstat in einem greifbaren Konnex stehen ([BGer 7B_978/2025 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_978_2025) E. 4.4.3).
 
 ### Schutz vor Selbstbelastung (Nemo tenetur) {#nemo-tenetur}
 
@@ -205,7 +211,8 @@ Ist die Sache spruchreif, entscheidet das Gericht innert 10 Tagen schriftlich ([
 Bei der Prüfung nimmt das Gericht eine **Triage** vor:
 - «Zwangsmassnahmen setzen überdies voraus, dass ein hinreichender Tatverdacht vorliegt und die streitige Untersuchungshandlung verhältnismässig erscheint» ([BGE 141 IV 77](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html#consideration_4.3) E. 4.3).
 - «Der Entsiegelungsrichter hat (auch bei grossen Datenmengen) jene Gegenstände auszusondern, die […] für die Strafuntersuchung offensichtlich irrelevant erscheinen» ([BGE 141 IV 77](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html#consideration_4.3) E. 4.3).
-- Das Gericht kann zur technischen Ausscheidung sachverständige Personen oder IT-Spezialisten der Polizei beiziehen ([Art. 248a Abs. 6 StPO](/kommentar/stpo/art-248a/)).
+- Das Gericht kann zur technischen Ausscheidung sachverständige Personen oder IT-Spezialisten der Polizei beiziehen ([Art. 248a Abs. 6 StPO](/kommentar/stpo/art-248a/)). Angehörige der Polizei dürfen nach Art. 248a Abs. 6 lit. b StPO jedoch ausschliesslich beigezogen werden, um den technischen Zugang zu erhalten oder die Integrität der Daten zu sichern; sie dürfen den Inhalt der Aufzeichnungen **weder prüfen noch triagieren** ([BGer 7B_978/2025 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_978_2025) E. 3.2.2). Die Delegation der inhaltlichen Aussonderung an die Polizei ist unzulässig.
+- **Verbot hybrider Entscheide**: Das Zwangsmassnahmengericht darf nicht materiell über die Entsiegelung entscheiden und im selben Entscheid erst noch Triage- oder Aussonderungsmodalitäten anordnen. Die Entsiegelung darf erst ausgesprochen werden, wenn das Gericht die geheimnisgeschützten Inhalte vollständig selbst ausgesondert hat ([BGer 7B_978/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_978_2025) E. 2.2; [BGer 7B_245/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-245-2026_2026-06-16.html) E. 4.3).
 - Geschützte Anwaltskorrespondenz wird physisch ausgesondert bzw. digital gelöscht; schützenswerte Daten Dritter (wie Patientenakten) werden anonymisiert, bevor die verbleibenden Daten der Staatsanwaltschaft übergeben werden ([BGE 141 IV 77](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html#consideration_5.5.1) E. 5.5.1).
 
 ### Pflicht zur Prüfung akzessorischer Rügen {#akzessorische-ruegen}

@@ -2,13 +2,26 @@
 title: "Rechtsprechung zu Art. 99 BGG"
 weight: 99
 date: 2026-06-13
-lastmod: 2026-07-17
+lastmod: 2026-10-26
 description: "Übersicht der Entscheide zu Art. 99 BGG – Novenrecht vor Bundesgericht"
 tags: ["Rechtsprechung", "BGG", "Noven", "Beweismittel", "Kognition"]
 agent_verified: false
+revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme von BGer 6B_403/2025 vom 16.09.2026 zu echten Noven im Strafrecht und bei Landesverweisungen (Art. 66a StGB)."
 ---
 
 ## I. Echte und unechte Noven
+
+### [BGer 6B_403/2025 vom 16. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_403_2025), E. 6.3.2 & 6.4
+- **Thema**: Striktes Verbot echter Noven im Strafrecht und bei Landesverweisungen
+- **Kernaussage**: Echte Noven (*faits nouveaux postérieurs au jugement attaqué*) sind vor Bundesgericht ausnahmslos unzulässig (BGE 149 III 465 E. 5.5.1; BGE 148 V 174 E. 2.2). Der angefochtene Entscheid kann begrifflich keinen Anlass zu Tatsachen geben, die sich erst nach seinem Ergehen verwirklicht haben. Auch im Rahmen der Härtefallprüfung bei einer obligatorischen Landesverweisung (Art. 66a Abs. 2 StGB) kann eine erst nach dem zweitinstanzlichen Urteil eingetretene Schwangerschaft der Partnerin nicht berücksichtigt werden. Nachträgliche Tatsachen sind über das kantonale Revisionsverfahren (Art. 410 StPO) geltend zu machen.
+- **Einschlägig für**: Art. 99 Abs. 1 BGG, Art. 66a Abs. 2 StGB, Art. 410 StPO
+
+---
 
 ### BGE 149 III 465, E. 5.5.1
 - **Thema**: Unzulässigkeit echter Noven vor Bundesgericht

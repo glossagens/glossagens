@@ -2,11 +2,16 @@
 title: "Art. 16b SVG — Mittelschwere Widerhandlungen"
 weight: 16.2
 date: 2026-08-08
-lastmod: 2026-08-08
+lastmod: 2026-10-26
 description: "Kommentar zu Art. 16b SVG: Katalog der mittelschweren Widerhandlungen (Gefährdung, Alkohol mit Zusatzverstoss, Fahren ohne Ausweis, Fahrzeugentwendung), gestaffelte Mindestentzugsdauern bei Rückfall, Entzug auf unbestimmte Zeit bei drittem Rückfall."
-tags: ["SVG", "Strassenverkehrsrecht", "Führerausweisentzug", "mittelschwere Widerhandlung", "Warnungsentzug", "Rückfallstaffel"]
+tags: ["SVG", "Strassenverkehrsrecht", "Führerausweisentzug", "mittelschwere Widerhandlung", "Warnungsentzug", "Rückfallstaffel", "BGer 1C_99/2026"]
 agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGer 1C_99/2026 vom 06.10.2026 (publiziert 26.10.2026): Vortrittsmissachtung gegenüber Zweirädern (E-Bike / Fahrrad) mit Kollision begründet stets eine mindestens erhöhte Gefährdung und ist zwingend eine mittelschwere Widerhandlung (Art. 16b Abs. 1 lit. a SVG); Ausschluss einer leichten Widerhandlung nach Art. 16a SVG."
   - date: 2026-08-08
     by: "Hermes Agent"
     model: "glm-5.1"
@@ -56,6 +61,12 @@ Art. 16b SVG definiert die **mittlere Stufe** des dreistufigen Kaskadensystems d
 **2** Die Abgrenzung zur leichten Widerhandlung erfolgt nach dem **kumulativen Modell** ([BGE 135 II 138](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_II_138) E. 2.2): Liegt bei nur einem der beiden Kriterien — Gefährdung oder Verschulden — eine erhöhte Ausprägung vor, während das andere Kriterium nur leicht ausgeprägt ist, gelangt man in den Bereich der mittelschweren Widerhandlung. Eine **geringe Gefahr bei leichtem Verschulden** ist eine leichte Widerhandlung (Art. 16a); eine **mittlere Gefährdung** oder ein **mittleres Verschulden** genügt bereits für Art. 16b.
 
 **3** Typische Konstellationen der mittelschweren Widerhandlung nach lit. a: erhebliche, aber nicht grobe Geschwindigkeitsüberschreitung (ausserorts 26–34 km/h, innerorts 16–24 km/h über der zulässigen Höchstgeschwindigkeit), missachtetes Vortrittsrecht mit konkreter Gefährdung, gefährliches Überholen ohne ernstliche Gefahr, Abstandsunfälle mittlerer Schwere.
+
+**3a — Kollision mit E-Bikes oder Fahrrädern wegen Vortrittsmissachtung:** Eine praxisrelevante Schärfung erfuhr die Abgrenzung in [BGer 1C_99/2026 vom 6. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_99_2026) E. 4.2 f.:
+Kommt es an einer Einmündung oder Verzweigung infolge Missachtung des Vortrittsrechts ([Art. 36 Abs. 2 SVG](https://mcp.opencaselaw.ch/entscheid/bger_1C_99_2026); Art. 31 Abs. 1 SVG) zur Kollision eines Personenwagens mit einem korrekt fahrenden E-Bike oder Fahrrad, scheidet die Annahme einer bloss leichten Widerhandlung ([Art. 16a Abs. 1 lit. a SVG](https://mcp.opencaselaw.ch/entscheid/bger_1C_99_2026)) von vornherein aus.
+* *Gefährdungsgrad:* Wegen der exponierten Stellung und Verletzlichkeit von Zweiradlenkenden schafft die Missachtung des Vortritts durch einen Personenwagen stets die naheliegende Möglichkeit schwerer Verletzungen (konkrete oder zumindest erhöhte abstrakte Gefahr).
+* *Keine Entlastung durch geringe Fahrgeschwindigkeit:* Daran ändert nichts, dass der Personenwagen nach einem kurzen Halt an der Wartelinie nur mit Schritt- bzw. Anfahrgeschwindigkeit (z. B. unter 10 km/h) abbog oder die Kollisionsfolgen vergleichsweise glimpflich blieben (Prellungen, Schürfwunden).
+* *Rechtsfolge:* Die Tat erfüllt zwingend den Auffangtatbestand der mittelschweren Widerhandlung gemäss Art. 16b Abs. 1 lit. a SVG. Eine blosse Verwarnung nach Art. 16a Abs. 3 SVG ist ausgeschlossen; die Administrativbehörde hat zwingend einen mindestens einmonatigen Warnungsentzug anzuordnen (Art. 16b Abs. 2 lit. a SVG).
 
 ### 2. Lit. b — Angetrunkenes Fahren mit Zusatzverstoss
 

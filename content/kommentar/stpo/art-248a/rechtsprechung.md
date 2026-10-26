@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 248a StPO"
 weight: 99
 date: "2024-01-01"
-lastmod: "2026-10-22"
+lastmod: "2026-10-26"
 description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug, Triage-Pflichten)."
-tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "BGer 7B_815/2026"]
+tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "BGer 7B_815/2026", "BGer 7B_978/2025"]
 agent_verified: false
 revisions:
+  - date: "2026-10-26"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Aufnahme des Leitentscheids BGer 7B_978/2025 vom 13.10.2026 (publiziert 26.10.2026): Verbot der Auslagerung der inhaltlichen Triage an die Polizei gemäss Art. 248a Abs. 6 lit. b StPO, Unzulässigkeit hybrider Entsiegelungsentscheide sowie zeitliche Beschränkung der Entsiegelung bei Smartphones bei mittelschwerer Kriminalität (BGE 151 IV 350)."
   - date: "2026-10-22"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -111,11 +116,27 @@ revisions:
 
 ---
 
+### 6. [BGer 7B_978/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_978_2025) vom 13.10.2026 — Verbot der Triage durch die Polizei (Art. 248a Abs. 6 lit. b StPO), Verbot hybrider Entscheide und Smartphone-Entsiegelung bei mittelschweren Delikten
+
+**Datum:** 13. Oktober 2026 | **Signatur:** [BGer 7B_978/2025 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_978_2025)
+
+**Kernsatz:** Nach Art. 248a Abs. 6 lit. b StPO dürfen Angehörige der Polizei ausschliesslich beigezogen werden, um den technischen Zugang zu den gesiegelten Daten zu erhalten oder deren Integrität zu gewährleisten; sie dürfen den Inhalt der Daten nicht prüfen und davon keine Kenntnis erlangen. Die Delegation der materiellen Triage und Aussonderung geheimnisgeschützter Inhalte an die Polizei ist unzulässig. Ein ZMG darf zudem nicht materiell über die Entsiegelung entscheiden und im selben Entscheid erst noch Triagemassnahmen anordnen (Verbot hybrider Entscheide). Bei mittelschweren Delikten (hier: Einbruchdiebstahl) verlangt das Verhältnismässigkeitsgebot eine zeitliche Begrenzung der Smartphone-Entsiegelung.
+
+**Sachverhalt:** In einer Strafuntersuchung wegen Einbruchdiebstahls in ein Einfamilienhaus wurden beim Beschuldigten zwei Mobiltelefone sichergestellt und versiegelt. Das ZMG hiess das Entsiegelungsgesuch mit Ausnahme der Anwaltskorrespondenz gut und beauftragte mit separater Verfügung den Fachbereich Digitale Forensik der Kantonspolizei, die Daten zu entsiegeln, zu sichern und die Anwaltskorrespondenz auszusondern. Das Bundesgericht hiess die Beschwerde gut und wies die Sache zur Neubeurteilung an das ZMG zurück.
+
+**Erwägungen:**
+- **E. 2.2:** Verbot hybrider Entsiegelungsentscheide: Die Entsiegelung darf erst angeordnet werden, nachdem das Gericht geheimnisgeschützte Daten ausgesondert hat; eine Vermischung materieller und prozessleitender Aspekte ist bundesrechtswidrig.
+- **E. 3.2.2:** Schranken von Art. 248a Abs. 6 lit. b StPO: Angehörige der Polizei dürfen den Inhalt nicht prüfen; Aussonderung geheimnisgeschützter Daten ist Gerichtsaufgabe und darf nicht an die Polizei delegiert werden.
+- **E. 3.2.3:** Geltung von Art. 182 ff. StPO: Sachverständige müssen natürliche Personen sein (Art. 183 Abs. 1 StPO), und den Parteien steht ein Gehörsanspruch zur Ernennung zu (Art. 184 Abs. 3 StPO).
+- **E. 4.4:** Dreistufige Verhältnismässigkeitsprüfung nach BGE 151 IV 350 bei mittelschweren Delikten: Notwendigkeit der zeitlichen Eingrenzung der Smartphone-Entsiegelung bei zeitlich begrenzter Straftat.
+
+---
+
 ### II. Weitere Entscheide
 
 ---
 
-### 6. [BGer 7B_1170/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1170-2025_2026-03-03.html) vom 03.03.2026 — ZMG als einzige kantonale Instanz und Vereinbarkeit mit nemo tenetur
+### 7. [BGer 7B_1170/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1170-2025_2026-03-03.html) vom 03.03.2026 — ZMG als einzige kantonale Instanz und Vereinbarkeit mit nemo tenetur
 
 **Datum:** 3. März 2026 | **Signatur:** [BGer 7B_1170/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1170-2025_2026-03-03.html)
 
@@ -129,7 +150,7 @@ revisions:
 
 ---
 
-### 7. [BGer 7B_1154/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1154-2024_2025-10-02.html) vom 02.10.2025 — 10-Tage-Frist, Verwirkung und Nichteintreten bei Rechtsmissbrauch
+### 8. [BGer 7B_1154/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1154-2024_2025-10-02.html) vom 02.10.2025 — 10-Tage-Frist, Verwirkung und Nichteintreten bei Rechtsmissbrauch
 
 **Datum:** 2. Oktober 2025 | **Signatur:** [BGer 7B_1154/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1154-2024_2025-10-02.html)
 
@@ -143,7 +164,7 @@ revisions:
 
 ---
 
-### 8. [BGer 7B_486/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-486-2024_2026-07-09.html) vom 09.07.2026 — Akteneinsicht in sichergestellte Daten zur Substanziierung
+### 9. [BGer 7B_486/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-486-2024_2026-07-09.html) vom 09.07.2026 — Akteneinsicht in sichergestellte Daten zur Substanziierung
 
 **Datum:** 9. Juli 2026 | **Signatur:** [BGer 7B_486/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-486-2024_2026-07-09.html)
 
@@ -156,7 +177,7 @@ revisions:
 
 ---
 
-### 9. [BGer 7B_245/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-245-2026_2026-06-16.html) vom 16.06.2026 — Natürliche Person als Sachverständige; keine Vermengung von Entsiegelung und Triage
+### 10. [BGer 7B_245/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-245-2026_2026-06-16.html) vom 16.06.2026 — Natürliche Person als Sachverständige; keine Vermengung von Entsiegelung und Triage
 
 **Datum:** 16. Juni 2026 | **Signatur:** [BGer 7B_245/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-245-2026_2026-06-16.html)
 
@@ -170,7 +191,7 @@ revisions:
 
 ---
 
-### 10. [BGer 7B_419/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-419-2025_2026-07-08.html) vom 08.07.2026 — Substanziierungspflicht bei Anwaltskorrespondenz
+### 11. [BGer 7B_419/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-419-2025_2026-07-08.html) vom 08.07.2026 — Substanziierungspflicht bei Anwaltskorrespondenz
 
 **Datum:** 8. Juli 2026 | **Signatur:** [BGer 7B_419/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-419-2025_2026-07-08.html)
 
@@ -183,7 +204,7 @@ revisions:
 
 ---
 
-### 11. [BGer 7B_1312/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1312-2025_2026-04-29.html) vom 29.04.2026 — Substanziierungspflicht und nicht wieder gutzumachender Nachteil
+### 12. [BGer 7B_1312/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1312-2025_2026-04-29.html) vom 29.04.2026 — Substanziierungspflicht und nicht wieder gutzumachender Nachteil
 
 **Datum:** 29. April 2026 | **Signatur:** [BGer 7B_1312/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1312-2025_2026-04-29.html)
 
@@ -197,7 +218,7 @@ revisions:
 
 ---
 
-### 12. [BGer 7B_484/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-484-2023_2024-06-03.html) vom 03.06.2024 — Beschleunigungsgebot im Entsiegelungsverfahren
+### 13. [BGer 7B_484/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-484-2023_2024-06-03.html) vom 03.06.2024 — Beschleunigungsgebot im Entsiegelungsverfahren
 
 **Datum:** 3. Juni 2024 | **Signatur:** [BGer 7B_484/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-484-2023_2024-06-03.html)
 
@@ -211,7 +232,7 @@ revisions:
 
 ---
 
-### 13. [BGer 7B_558/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html) vom 20.04.2026 — Wahrung von Berufs- und Patientengeheimnissen Dritter
+### 14. [BGer 7B_558/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html) vom 20.04.2026 — Wahrung von Berufs- und Patientengeheimnissen Dritter
 
 **Datum:** 20. April 2026 | **Signatur:** [BGer 7B_558/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-558-2025_2026-04-20.html)
 
@@ -225,7 +246,7 @@ revisions:
 
 ---
 
-### 14. [BGer 7B_428/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-428-2024_2024-11-06.html) vom 06.11.2024 — Nichteintreten bei unsubstanziierten Rügen vor dem Bundesgericht
+### 15. [BGer 7B_428/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-428-2024_2024-11-06.html) vom 06.11.2024 — Nichteintreten bei unsubstanziierten Rügen vor dem Bundesgericht
 
 **Datum:** 6. November 2024 | **Signatur:** [BGer 7B_428/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-428-2024_2024-11-06.html)
 
@@ -239,7 +260,7 @@ revisions:
 
 ---
 
-### 15. [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html) vom 05.08.2026 (vgl. auch [7B_133/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-133-2026_2026-08-05.html) vom selben Tag) — Form des Entsiegelungsgesuchs der Staatsanwaltschaft (Art. 110 StPO)
+### 16. [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html) vom 05.08.2026 (vgl. auch [7B_133/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-133-2026_2026-08-05.html) vom selben Tag) — Form des Entsiegelungsgesuchs der Staatsanwaltschaft (Art. 110 StPO)
 
 **Datum:** 5. August 2026 | **Signatur:** [BGer 7B_165/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-165-2026_2026-08-05.html)
 
@@ -251,7 +272,7 @@ revisions:
 
 ---
 
-### 16. [BGer 7B_270/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html) und 7B_271/2025 vom 02.09.2026 — Gehörsrechte bei der Datentriage: Dokumentationspflicht, Sachverständigenberichte (Art. 188 StPO) und Triageverhandlung (Art. 248a Abs. 5 StPO)
+### 17. [BGer 7B_270/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html) und 7B_271/2025 vom 02.09.2026 — Gehörsrechte bei der Datentriage: Dokumentationspflicht, Sachverständigenberichte (Art. 188 StPO) und Triageverhandlung (Art. 248a Abs. 5 StPO)
 
 **Datum:** 2. September 2026 | **Signatur:** [BGer 7B_270/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-270-2025_2026-09-02.html)
 
@@ -270,7 +291,7 @@ revisions:
 
 ---
 
-### 17. [BGer 7B_815/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026) vom 07.10.2026 — Substanziierungsobliegenheit beim Anwaltsgeheimnis, Verbot unbegründeter zeitlicher Begrenzungen und Triagepflicht des ZMG
+### 18. [BGer 7B_815/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026) vom 07.10.2026 — Substanziierungsobliegenheit beim Anwaltsgeheimnis, Verbot unbegründeter zeitlicher Begrenzungen und Triagepflicht des ZMG
 
 **Datum:** 7. Oktober 2026 | **Signatur:** [BGer 7B_815/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026) | **Besetzung:** II. strafrechtliche Abteilung (Abrecht, Kölz, Hofmann, Gerichtsschreiberin Liniger)
 
