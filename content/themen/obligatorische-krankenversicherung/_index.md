@@ -22,6 +22,11 @@ revisions:
     by: "Antigravity"
     model: "gemini-3.8-flash"
     mcp_verified: true
+    note: "Erweiterung um die mathematische Beweisführung zur Unrentabilität von Zwischenfranchisen (70%-Grenze gemäss Art. 95 KVV, tabellarischer Gesamtkostenvergleich und Wendepunkt-Analyse)."
+  - date: 2026-10-26
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Umfassende Darstellung des OKP-Systems und laienverständliche Aufbereitung der Kernbegriffe (Franchise, Selbstbehalt, Spitalbeitrag, Kopfprämie, Tiers garant/payant, AVM). Normtexte Art. 117 BV, Art. 3 und 64 KVG per {{< wortlaut >}} (scripts/wortlaut.py). Volltexte der BGEs via entscheidsuche.ch geladen, Erwägungsnummern, Anker und wörtliche Zitate exakt abgeglichen."
 ---
 
@@ -253,6 +258,42 @@ In der Praxis existieren nur zwei sinnvolle Optionen:
 2. **Die Minimalfranchise (CHF 300.-)**:
    * **Für wen?** Personen mit absehbaren regelmässigen Gesundheitskosten (z. B. chronisch Kranke, Personen mit Dauertherapie oder geplanter Operation) von mehr als ca. CHF 2'000.- pro Jahr, sowie Personen, die im Krankheitsfall keine Ersparnisse von CHF 3'200.- aufbringen können.
    * **Vorteil:** Das finanzielle Jahresrisiko ist auf maximal CHF 1'000.- begrenzt.
+
+### 7. Mathematischer Beweis: Warum Zwischenfranchisen unrentabel sind {#mathematischer-beweis-franchisen}
+
+Dass sich für Erwachsene in der Schweiz rein rechnerisch **nur die Mindestfranchise (CHF 300.-) oder die Höchstfranchise (CHF 2'500.-)** lohnen, ist keine blosse Faustregel, sondern eine mathematische Gesetzmässigkeit des KVG-Prämiensystems. Es gibt **keinen einzigen Betrag an jährlichen Gesundheitskosten**, bei dem eine Zwischenfranchise (CHF 500.-, 1'000.-, 1'500.- oder 2'000.-) günstiger abschneidet als *beide* Extreme.
+
+#### Die gesetzliche Ursache: Der 70%-Deckel (Art. 95 KVV)
+Der Bundesrat regelt in Art. 95 KVV, wie viel Prämienrabatt eine Krankenkasse für eine höhere Franchise gewähren darf: Der Rabatt darf **höchstens 70 % des zusätzlich übernommenen finanziellen Risikos** betragen. Für jeden Franken mehr Franchise, den eine versicherte Person selbst riskiert, spart sie maximal 70 Rappen an Prämie.
+
+#### Gesamtkostenvergleich über alle Franchisen
+Die tatsächliche jährliche finanzielle Belastung einer versicherten Person berechnet sich nach der Formel:
+
+$$\text{Nettobelastung} = (\text{Behandlungskosten bis Franchise}) + (10\ \% \text{ Selbstbehalt bis CHF 700.-}) - (\text{Prämienrabatt})$$
+
+Vergleicht man diese Nettobelastung (relativ zur Grundprämie der Basisfranchise 300) über das gesamte Spektrum möglicher Krankheitskosten, zeigt sich das mathematische Dilemma der Zwischenfranchisen:
+
+| Reale Behandlungskosten | F = 300 | F = 500 | F = 1'000 | F = 1'500 | F = 2'000 | F = 2'500 | Rechnerisch beste Option |
+|---|---|---|---|---|---|---|---|
+| **CHF 0.-** (gesund) | CHF 0.- | -CHF 140.- | -CHF 490.- | -CHF 840.- | -CHF 1'190.- | **-CHF 1'540.-** | **F = 2'500** (CHF 1'540.- Ersparnis) |
+| **CHF 500.-** | +CHF 320.- | +CHF 360.- | +CHF 10.- | -CHF 340.- | -CHF 690.- | **-CHF 1'040.-** | **F = 2'500** |
+| **CHF 1'000.-** | +CHF 370.- | +CHF 410.- | +CHF 510.- | +CHF 160.- | -CHF 190.- | **-CHF 540.-** | **F = 2'500** |
+| **CHF 1'500.-** | +CHF 420.- | +CHF 460.- | +CHF 560.- | +CHF 660.- | +CHF 310.- | **-CHF 40.-** | **F = 2'500** |
+| **CHF 1'800.-** | +CHF 450.- | +CHF 490.- | +CHF 590.- | +CHF 690.- | +CHF 610.- | **+CHF 260.-** | **F = 2'500** |
+| **CHF 2'000.-** | +CHF 470.- | +CHF 510.- | +CHF 610.- | +CHF 710.- | +CHF 810.- | **+CHF 460.-** | **F = 2'500** |
+| *Wendepunkt (~ CHF 2'030.-)* | | | | | | | |
+| **CHF 2'500.-** | **+CHF 520.-** | +CHF 560.- | +CHF 660.- | +CHF 760.- | +CHF 860.- | +CHF 960.- | **F = 300** |
+| **CHF 5'000.-** | **+CHF 770.-** | +CHF 810.- | +CHF 910.- | +CHF 1'010.- | +CHF 1'110.- | +CHF 1'210.- | **F = 300** |
+| **CHF 10'000.-** (schwer krank) | **+CHF 1'000.-** | +CHF 1'060.- | +CHF 1'210.- | +CHF 1'360.- | +CHF 1'510.- | +CHF 1'660.- | **F = 300** (CHF 660.- Ersparnis) |
+
+*(Hinweis: Negative Zahlen bedeuten eine Nettoersparnis gegenüber den Kosten bei Franchise 300 ohne Arztbesuch).*
+
+#### Die strukturelle Benachteiligung der Zwischenstufen
+Aus der Tabelle ergibt sich die strukturelle Fehlallokation von Zwischenstufen:
+* **Bei geringen Kosten (unter ca. CHF 2'000.-)**: Hier gewinnt **ausnahmslos Franchise 2'500**. Wer beispielsweise eine Franchise von CHF 1'500.- wählt, verschenkt bei guter Gesundheit Jahr für Jahr bis zu CHF 700.- an möglichem Prämienrabatt.
+* **Bei hohen Kosten (über ca. CHF 2'000.-)**: Hier gewinnt **ausnahmslos Franchise 300**. Wer eine Franchise von CHF 1'500.- wählt und hospitalisiert wird, zahlt unter dem Strich CHF 360.- mehr als mit der Basisfranchise 300.
+
+Zwischenfranchisen bieten keinen echten Mittelweg, sondern vereinen die Nachteile beider Welten: Man erhält nicht den vollen Rabatt, muss im Krankheitsfall aber dennoch erhebliche Mehrkosten selbst tragen. Die Wahl reduziert sich daher auf die Frage: Erwartet man Kosten unter oder über dem Wendepunkt von rund CHF 2'000.-, und verfügt man über die Liquidität, um das maximale Jahresrisiko von CHF 3'200.- bei Franchise 2'500 jederzeit tragen zu können?
 
 ## Alternative Versicherungsmodelle (AVM) {#alternative-versicherungsmodelle}
 
