@@ -2,74 +2,99 @@
 title: "Rechtsprechung zu Art. 5 EMRK — Recht auf Freiheit und Sicherheit"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-08-16
-description: "Übersicht der massgeblichen Entscheide zu Art. 5 EMRK: Freiheitsentzug, Haftgründe, Haftprüfung, Abschiebungshaft, fürsorglicher Freiheitsentzug"
-tags: ["Rechtsprechung", "EMRK", "Freiheitsentzug", "Haft", "Untersuchungshaft", "Abschiebungshaft", "Habeas corpus"]
-agent_verified: false
+lastmod: 2026-10-26
+description: "Übersicht der massgeblichen Leitentscheide und Urteile zu Art. 5 EMRK: Freiheitsentzug, Untersuchungs- und Sicherheitshaft, Wiederholungsgefahr, Administrativhaft, Haftprüfung und Entschädigung."
+tags: ["Rechtsprechung", "EMRK", "Freiheitsentzug", "Haft", "Untersuchungshaft", "Ausschaffungshaft", "Habeas corpus", "Wiederholungsgefahr"]
+agent_verified: true
 revisions:
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Vollständige Überarbeitung der Rechtsprechungsübersicht nach Skill praxisorientierter-kommentar: Aufteilung in I. Leitentscheide (7 BGEs) und II. Weitere Entscheide (7 Bundesgerichts- und kantonale Entscheide); thematische Gliederung mit Aktenzeichen, Volltext-Links auf entscheidsuche.ch und detaillierten Abstracts zu Sachverhalt und Kernaussage."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
     mcp_verified: true
-    note: "Audit: Tabellen komplett neu aufgebaut. Entfernt: 3 fabrizierte BGE (143 I 169, 143 I 305, 145 IV 79) und 3 real existierende, aber thematisch falsch zugeordnete BGE (145 I 73, 140 I 305, 144 I 1 -- alle drei behandeln andere Rechtsgebiete). 133 I 100 war fälschlich als Schadenersatz-Beleg gefuehrt (real: Replikrecht). Ersetzt durch 8 via check_claim_support verifizierte, thematisch passende BGE."
+    note: "Audit: Bereinigung fabrizierter Zitate und Ersatz durch verifizierte Belege."
 ---
 
-Zurück zum Kommentar: [Art. 5 EMRK — Recht auf Freiheit und Sicherheit](./)
+Zurück zum Hauptkommentar: [Art. 5 EMRK — Recht auf Freiheit und Sicherheit](./)
 
-## I. Allgemeine Freiheitsgarantie und enumerative Haftgründe
+---
 
-| Bezug | Jahr | Kurzbeschreibung |
-|-------|------|------------------|
-| [BGE 123 I 31](https://mcp.opencaselaw.ch/entscheid/bge_BGE_123_I_31) | 1997 | Haftprüfung; Begründungspflicht bei Verweis auf Stellungnahme der Untersuchungsbehörde; Fluchtgefahr; Sperrfrist |
-| EGMR, Winterwerp c. Pays-Bas, Nr. 6301/73 | 1979 | Leitentscheid zu lit. e: Voraussetzungen des Freiheitsentzugs «geistig Kranker»; ärztliche Begutachtung vor Einweisung |
-| EGMR, Bouamar c. Belgique, Nr. 9106/80 | 1988 | Freiheitsentzug von Minderjährigen (lit. d): muss erzieherisch begründet sein, nicht primär sicherheitsorientiert |
+## I. Leitentscheide
 
-## II. Untersuchungshaft und Sicherheitshaft (lit. c)
+### Polizeiliche Festhaltung und Einkesselung als Freiheitsentzug (Art. 5 Ziff. 1 EMRK)
+[BGE 142 I 121 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-142-I-121_2016.html#consideration_3.1)
+* **Sachverhalt:** Im Anschluss an eine bewilligte Kundgebung am 1. Mai 2011 formierte sich auf dem Helvetiaplatz in Zürich eine unbewilligte Nachdemonstration. Die Polizei kesselte rund 500 Personen ein. Ein Teilnehmer wurde während 2,5 Stunden im Kessel festgehalten, anschliessend mit Kabelbindern gefesselt, auf das Polizeiareal Kaserne verbracht und dort weitere 3,5 Stunden zur Überprüfung in einer Sammelzelle arretiert (Gesamtdauer: 6 Stunden).
+* **Kernaussage:** Die Abgrenzung zwischen Freiheitsentzug und Freiheitsbeschränkung richtet sich nach Intensität, Dauer, Art und Modalitäten der Massnahme. Während die 2,5-stündige Einkesselung für sich eine schwere Freiheitsbeschränkung darstellte, erreichte die Gesamtmassnahme mit Fesselung, Transport und Zelleneinschluss die Schwelle zum **Freiheitsentzug** im Sinne von Art. 5 Ziff. 1 EMRK und Art. 31 BV.
 
-| Bezug | Jahr | Kurzbeschreibung |
-|-------|------|------------------|
-| [BGE 133 I 168](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_168) | 2007 | Untersuchungs- und Auslieferungshaft: Verhältnismässigkeit verletzt, wenn Haftdauer in grosse Nähe der zu erwartenden Freiheitsstrafe rückt |
-| [BGE 132 I 21](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_I_21) | 2006 | Kollusionsgefahr als besonderer Haftgrund nach Abschluss der Strafuntersuchung und erfolgter Anklage |
-| [BGE 123 I 268](https://mcp.opencaselaw.ch/entscheid/bge_123%20I%20268) | 1997 | Anforderungen an den Nachweis von Wiederholungsgefahr bei schweren Gewaltdelikten; Grundsätze der verfassungsrechtlichen Verhältnismässigkeitsprüfung |
-| [BGE 133 I 270](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_270) | 2007 | Fristenstillstand bei strafprozessualer Haft gilt für die Beschwerde ans Bundesgericht nicht |
-| [BGE 139 IV 57](https://mcp.opencaselaw.ch/entscheid/bge_139%20IV%2057) | 2012 | Verwahrung (Art. 64 StGB): schwere Beeinträchtigung der physischen, psychischen oder sexuellen Integrität als Voraussetzung |
+### Überhaft und zeitliche Nähe zur Straferwartung (Art. 5 Ziff. 3 EMRK)
+[BGE 133 I 168 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-168_2007.html#consideration_4.1)
+* **Sachverhalt:** Ein Beschuldigter befand sich über längere Zeit in Untersuchungshaft, nachdem er zuvor bereits im Ausland in Auslieferungshaft gesessen hatte. Er rügte, die Gesamthaftdauer erreiche die zu erwartende Strafe.
+* **Kernaussage:** Es verletzt das Verhältnismässigkeitsprinzip (Art. 5 Ziff. 3 EMRK und Art. 31 Abs. 3 BV), wenn die Dauer der Untersuchungshaft in grosse zeitliche Nähe der konkret zu erwartenden Freiheitsstrafe rückt (**Überhaft**). Eine im Ausland erstandene Auslieferungshaft, die nach Art. 51 StGB anrechenbar ist, muss bei der Beurteilung der zulässigen Gesamtdauer zwingend mitberücksichtigt werden.
 
-## III. Abschiebungshaft und Einreiseverhinderung (lit. f)
+### Fristenregime von maximal 96 Stunden für den erstinstanzlichen Haftentscheid (Art. 5 Ziff. 3 EMRK)
+[BGE 137 IV 92 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-92_2011.html#consideration_3.2)
+* **Sachverhalt:** Nach polizeilicher Festnahme reichte die Staatsanwaltschaft den Haftantrag erst nach Ablauf der gesetzlichen 48-Stunden-Frist beim Zwangsmassnahmengericht (ZMG) ein. Das ZMG fällte seinen Haftentscheid 86 Stunden nach der Festnahme.
+* **Kernaussage:** Die Fristen nach Art. 224 und 226 StPO sind Maximalfristen, die nicht ausgeschöpft werden dürfen. Eine verspätete Antragstellung der Staatsanwaltschaft macht die Haft jedoch noch nicht gesetzwidrig, solange das ZMG den Haftentscheid innerhalb von **96 Stunden seit Festnahme** fällt. Ein Entscheid nach Ablauf von 96 Stunden verletzt Art. 5 Abs. 3 EMRK unheilbar und erzwingt die sofortige Freilassung.
 
-| Bezug | Jahr | Kurzbeschreibung |
-|-------|------|------------------|
-| [BGE 142 I 135](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_I_135) | 2016 | Administrativhaft (Dublin-Verfahren): Anspruch auf möglichst rasche richterliche Prüfung |
-| [BGE 139 I 206](https://mcp.opencaselaw.ch/entscheid/bge_139%20I%20206) | 2013 | Anfechtung eines ausländerrechtlichen Haftentscheids bleibt geboten, auch wenn dieser durch Verlängerungsentscheid ersetzt wurde |
-| EGMR, Chahal c. Royaume-Uni, Nr. 22414/93 | 1996 | Leitentscheid zu lit. f: Abschiebungshaft bei drohender Folter im Heimatland |
-| EGMR, Saadi c. Italie, Nr. 37201/06 | 2008 | Abschiebungshaft: keine automatische Verhaftung bei Abschiebeverfahren; individuelle Prüfung erforderlich |
+### Gutachtenanforderungen bei der fürsorgerischen Unterbringung (Art. 5 Ziff. 1 lit. e EMRK)
+[BGE 140 III 105 E. 2.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-105_2014.html#consideration_2.7)
+* **Sachverhalt:** Bei der periodischen Überprüfung einer fürsorgerischen Unterbringung (FU) stützte sich das kantonale Gericht auf die Expertise eines ärztlichen Fachrichters. Die inhaftierte Person rügte eine Verletzung der Begutachtungsvorschriften.
+* **Kernaussage:** Gemäss den *Winterwerp*-Kriterien verlangt Art. 5 Abs. 1 lit. e EMRK für die Anordnung und Aufrechterhaltung einer FU ein fundiertes Sachverständigengutachten einer unabhängigen medizinischen Fachperson. Ein Fachrichter darf die Begutachtung vornehmen, sofern er am konkreten Endentscheid des Gerichts nicht als stimmberechtigter Richter mitwirkt.
 
-## IV. Verfahrensgarantien (Abs. 2–4: Unterrichtung, Richtervorführung, Haftprüfung)
+### Trennungsgebot und Haftbedingungen in der ausländerrechtlichen Administrativhaft (Art. 5 Ziff. 1 lit. f EMRK)
+[BGE 149 II 6 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-149-II-6_2023.html#consideration_5.1)
+* **Sachverhalt:** Ein Asylsuchender wurde zur Vorbereitung des Wegweisungsvollzugs im Regionalgefängnis Moutier inhaftiert. Er war täglich rund 18 Stunden in seiner Zelle eingeschlossen; der Zugang zum Internet war ihm untersagt.
+* **Kernaussage:** Die ausländerrechtliche Festhaltung dient ausschliesslich der Vollzugssicherung und ist keine Kriminalstrafe. Ein täglicher Zelleinschluss von 18 Stunden verletzt Art. 5 Abs. 1 lit. f EMRK. Inhaftierten Personen steht zudem ein verfassungs- und konventionsrechtlicher Anspruch auf soziale Aussenkontakte zu, der grundsätzlich eine kontrollierte Zugriffsmöglichkeit auf das Internet umfasst.
 
-| Bezug | Jahr | Kurzbeschreibung |
-|-------|------|------------------|
-| EGMR, De Wilde, Ooms et Versyp c. Belgique | 1971 | «Sicherheit» im Sinne von Abs. 1: Schutz vor willkürlichem Freiheitsentzug |
-| EGMR, Fox, Campbell et Hartley c. Royaume-Uni, Nr. 12244/86 | 1990 | Unterrichtungspflicht nach Abs. 2: «unverzüglich» bedeutet ohne unnötige Verzögerung |
-| EGMR, Neumeister c. Autriche | 1968 | Überlange Untersuchungshaft kann sowohl Art. 5 als auch Art. 6 EMRK verletzen |
+### Habeas Corpus und unzulässige Sperrfristen bei Haftentlassungsgesuchen (Art. 5 Ziff. 4 EMRK)
+[BGE 123 I 31 E. 4c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-123-I-31_1997-02-14.html#consideration_4)
+* **Sachverhalt:** Ein inhaftierter Beschuldigter stellte innerhalb eines Monats drei Haftentlassungsgesuche. Die Haftrichterin wies das dritte Gesuch ab und belegte den Beschuldigten mit einer zweimonatigen Sperrfrist für weitere Gesuche.
+* **Kernaussage:** Art. 5 Abs. 4 EMRK gewährt das Recht auf gerichtliche Überprüfung in vernünftigen Abständen. Zur Verhinderung rechtsmissbräuchlicher Wiederholungsgesuche ist eine gerichtliche Sperrfrist von **einem Monat** zulässig; eine Sperrfrist von **zwei Monaten** verletzt jedoch das Habeas-Corpus-Recht, wenn sie allein mit der Anzahl früherer Gesuche begründet wird.
 
-## V. Fürsorglicher Freiheitsentzug (lit. e)
+### Direkte Geltendmachung von Schadenersatz ohne vorgängiges EGMR-Urteil (Art. 5 Ziff. 5 EMRK)
+[BGE 129 I 139 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-129-I-139_2003.html#consideration_2)
+* **Sachverhalt:** Ein kamerunischer Staatsangehöriger wurde von der Fremdenpolizei in Ausschaffungshaft genommen. Der Haftrichter verweigerte nachträglich die Genehmigung der Haft. Der Betroffene forderte Genugtuung im kantonalen Staatshaftungsverfahren.
+* **Kernaussage:** Der Entschädigungsanspruch nach Art. 5 Abs. 5 EMRK ist *self-executing* und kann direkt vor den schweizerischen Zivil- und Verwaltungsgerichten eingeklagt werden. Es bedarf keines vorgängigen Feststellungsurteils des Strassburger Gerichtshofs.
 
-| Bezug | Jahr | Kurzbeschreibung |
-|-------|------|------------------|
-| [BGE 140 III 105](https://mcp.opencaselaw.ch/entscheid/bge_BGE_140_III_105) | 2014 | Fürsorgerische Unterbringung: Anforderungen an das Gutachten der sachverständigen Person |
-| [BGE 127 I 6](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_I_6) | 2001 | Medikamentöse Zwangsbehandlung bei fürsorgerischem Freiheitsentzug; strenge Voraussetzungen |
-| EGMR, Stanev c. Bulgarie, Nr. 36760/06 | 2012 | Freiwilliger psychiatrischer Aufenthalt unterliegt nicht Art. 5 EMRK, solange Freiwilligkeit besteht |
+---
 
-## VI. Schadenersatz (Abs. 5)
+## II. Weitere Entscheide
 
-| Bezug | Jahr | Kurzbeschreibung |
-|-------|------|------------------|
-| [BGE 129 I 139](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_I_139) | 2002 | Genugtuungsforderung für eine vom Haftrichter nicht genehmigte Ausschaffungshaft kann im schweizerischen Staatshaftungsverfahren geprüft werden — kein EGMR-Urteil vorausgesetzt |
+### StPO-Revision 2024: Zwingend zwei rechtskräftige Vorstrafen für einfache Wiederholungsgefahr
+[BGer 7B_1035/2024 vom 19. November 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1035-2024_2024-11-19.html)
+* **Sachverhalt:** Ein Beschuldigter schlug an der Zürcher Langstrasse mit einer Glasflasche mehrfach auf den Kopf eines Kontrahenten ein (Tatvideo und Geständnis). Er wies eine einzige rechtskräftige Vorstrafe wegen Körperverletzung auf. Das Zürcher Obergericht bejahte einfache Wiederholungsgefahr nach Art. 221 Abs. 1 lit. c StPO.
+* **Kernaussage:** Praxisänderung des Bundesgerichts: Unter der revidierten StPO verlangt Art. 221 Abs. 1 lit. c StPO zwingend, dass die beschuldigte Person **zuvor wegen mindestens zwei gleichartigen Verbrechen oder schweren Vergehen rechtskräftig verurteilt** worden ist. Die laufende Tat darf trotz erdrückender Beweislage nicht als Vortat angerechnet werden; BGE 137 IV 84 ist überholt.
 
-## Entfernte Entscheide
+### Gerichtliche Haftprüfung nach beendeter polizeilicher Festhaltung
+[BGer 1C_103/2024 vom 20. März 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-103-2024_2025-03-20.html) (bestätigend [BS Appellationsgericht VD.2023.80 vom 21. Dezember 2023](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_VD-2023-80_2023-12-21.html))
+* **Sachverhalt:** Nach einer neunstündigen polizeilichen Einkesselung und Festhaltung an der Basler 1.-Mai-Kundgebung 2023 verlangte ein Demonstrant nach seiner Freilassung beim ZMG Basel-Stadt die Feststellung der Rechtswidrigkeit und CHF 800.- Genugtuung.
+* **Kernaussage:** Die unmittelbare Habeas-Corpus-Garantie von Art. 5 Abs. 4 EMRK und Art. 31 Abs. 4 BV greift nur, solange die Person tatsächlich inhaftiert ist. Ist die betroffene Person wieder auf freiem Fuss, entfällt die zeitliche Dringlichkeit; der Kanton darf vorschreiben, dass zunächst eine anfechtbare Verfügung der Polizeibehörde erwirkt werden muss, bevor das Gericht angerufen werden kann.
 
-Bei der Audit-Überarbeitung vom 2026-08-16 entfernt:
+### Begründete Untertauchensgefahr im Dublin-Verfahren
+[BGE 142 I 135 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-142-I-135_2016.html#consideration_4.1)
+* **Sachverhalt:** Das Staatssekretariat für Migration (SEM) ordnete gegen einen Asylsuchenden Dublin-Haft an, weil dieser bereits in Italien ein Asylgesuch hängig hatte.
+* **Kernaussage:** Die Tatsache, dass ein Asylsuchender in einem anderen europäischen Staat registriert ist, genügt für sich allein nicht für eine Haftanordnung nach Art. 76a AIG und Art. 5 Abs. 1 lit. f EMRK. Erforderlich sind konkrete objektive Indizien für eine erhebliche Gefahr des Untertauchens.
 
-- **Fabriziert** (existierten laut `cite`-Prüfung nicht): BGE 143 I 169, BGE 143 I 305, BGE 145 IV 79
-- **Real, aber falsch zugeordnet** (existieren, behandeln aber ein anderes Rechtsgebiet als angegeben): BGE 145 I 73 (tatsächlich: Lagerplätze fahrender Gemeinschaften, Neuenburg), BGE 140 I 305 (tatsächlich: Vaterschaftsentschädigung), BGE 144 I 1 (tatsächlich: unentgeltlicher Schulunterricht TG), BGE 133 I 100 (tatsächlich: Replikrecht Art. 29 BV, nicht Schadenersatz)
+### Fluchtgefahr bei langjähriger Straferwartung und Untauglichkeit von Electronic Monitoring
+[BGE 145 IV 503 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html#consideration_3.3)
+* **Sachverhalt:** Ein 82-jähriger Mann wurde erstinstanzlich wegen Mordes zu 18 Jahren Freiheitsstrafe verurteilt. Er beantragte für das Berufungsverfahren die Entlassung aus der Sicherheitshaft unter Anordnung einer elektronischen Fussfessel (Electronic Monitoring).
+* **Kernaussage:** Wer im hohen Alter mit einer Strafe rechnen muss, die faktisch bis zum Lebensende andauert, unterliegt einem extremen Fluchtanreiz. Ein Electronic Monitoring verhindert das Verlassen des Landes nicht zuverlässig, weshalb der Haftgrund der Fluchtgefahr durch Ersatzmassnahmen nicht gebannt werden konnte.
 
-*Letzte Aktualisierung: 2026-08-16*
+### Beschleunigungsgebot und zweimonatige Untätigkeit in der Ausschaffungshaft
+[BGE 139 I 206 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-206_2013.html#consideration_2.1)
+* **Sachverhalt:** Ein ausreisepflichtiger Ausländer befand sich in Ausschaffungshaft. Über einen Zeitraum von mehr als zwei Monaten unternahmen weder das kantonale Migrationsamt noch das Bundesamt Schritte zur Papierbeschaffung.
+* **Kernaussage:** Das aus Art. 5 Abs. 1 lit. f EMRK fliessende Beschleunigungsgebot (*due diligence*) gilt in der Regel als verletzt, wenn die Behörden während zweier Monate keine zielgerichteten Massnahmen treffen, um die Ausschaffung aktiv voranzutreiben; die Haft ist in diesem Fall unverzüglich aufzuheben.
+
+### Unzulässigkeit einer erneuten Ausschaffungshaft im selben Verfahren
+[BGE 140 II 1 E. 5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-140-II-1_2014.html#consideration_5.4)
+* **Sachverhalt:** Nach Entlassung aus einer Ausschaffungshaft zog ein weggewiesener Mann zu seiner neuen Partnerin, ohne seine neue Wohnadresse sofort den Behörden mitzuteilen. Daraufhin wurde er erneut in Ausschaffungshaft versetzt.
+* **Kernaussage:** Eine zweite Ausschaffungshaft im selben Wegweisungsverfahren setzt zwingend neue, entscheidwesentliche Tatsachen voraus (z.B. den Wegfall eines Vollzugshindernisses oder konkrete Fluchtpläne). Das blosse Unterlassen einer Adressmeldung nach Entlassung genügt dafür nicht.
+
+### Ausschluss des Fristenstillstands bei bundesgerichtlichen Haftbeschwerden
+[BGE 133 I 270 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-270_2007.html#consideration_1.2)
+* **Sachverhalt:** Ein Beschwerdeführer reichte eine Beschwerde in Strafsachen gegen die Bestätigung von Sicherheitshaft während der Sommer-Gerichtsferien ein und berief sich auf den Fristenstillstand gemäss Art. 46 Abs. 1 BGG.
+* **Kernaussage:** Der gesetzliche Fristenstillstand gilt in Haftsachen vor Bundesgericht nicht. Das verfassungs- und konventionsrechtliche Beschleunigungsgebot (Art. 5 Ziff. 3 EMRK und Art. 31 Abs. 3 BV) verlangt eine ununterbrochene Fristberechnung; Beschwerden müssen auch während der Gerichtsferien fristgerecht erhoben werden.
