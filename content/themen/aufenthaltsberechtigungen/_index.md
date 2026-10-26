@@ -1,7 +1,7 @@
 ---
 title: "Aufenthaltsberechtigungen im schweizerischen Ausländerrecht"
 date: 2026-10-24
-lastmod: 2026-10-24
+lastmod: 2026-10-26
 description: "Systematische Darstellung der Aufenthaltsberechtigungen und Bewilligungsarten in der Schweiz: Duales Zulassungssystem (FZA und AIG), ordentliche Bewilligungen (L, B, C, G), Status im Asyl- und Schutzbereich (N, F, S), bewilligungsfreier Aufenthalt sowie Abgrenzung zwischen Ermessens- und Anspruchsbewilligungen."
 tags: ["Ausländerrecht", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Kurzaufenthaltsbewilligung", "Grenzgänger", "Vorläufige Aufnahme", "Status S", "FZA", "AIG", "AsylG"]
 typ: grundlage
@@ -14,13 +14,14 @@ normen:
   - { gesetz: aig, art: art-033 }
   - { gesetz: aig, art: art-034 }
   - { gesetz: aig, art: art-035 }
+  - { gesetz: aig, art: art-061a }
   - { gesetz: aig, art: art-083 }
   - { gesetz: asylg, art: art-042 }
   - { gesetz: asylg, art: art-060 }
   - { gesetz: asylg, art: art-066 }
   - { gesetz: bv, art: art-121 }
   - { gesetz: emrk, art: art-008 }
-stichworte: ["Aufenthaltsberechtigung", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Kurzaufenthaltsbewilligung", "Grenzgängerbewilligung", "Vorläufige Aufnahme", "Status S", "Ausweis B", "Ausweis C", "Ausweis L", "Ausweis G", "Ausweis F", "Ausweis N", "duales Zulassungssystem", "FZA", "Rechtsanspruch"]
+stichworte: ["Aufenthaltsberechtigung", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Kurzaufenthaltsbewilligung", "Grenzgängerbewilligung", "Vorläufige Aufnahme", "Status S", "Ausweis B", "Ausweis C", "Ausweis L", "Ausweis G", "Ausweis F", "Ausweis N", "duales Zulassungssystem", "FZA", "Rechtsanspruch", "Art. 61a AIG", "Erlöschen des Aufenthaltsrechts", "Arbeitslosigkeit"]
 agent_verified: false
 revisions:
   - date: 2026-10-24
@@ -28,6 +29,11 @@ revisions:
     model: "gemini-3.8-flash"
     mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ grundlage). Normtexte Art. 10, 11, 32, 33, 34, 35, 83 AIG sowie Art. 42, 60, 66 AsylG aus Fedlex (scripts/wortlaut.py); Entscheide als Volltext über entscheidsuche.ch geladen, Zitate, Links und Anker mit pruefen.py ohne Befund. agent_verified bewusst false (Maintainer-Review)."
+  - date: 2026-10-26
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung des Erlöschens der Aufenthaltsrechte von EU/EFTA-Staatsangehörigen bei unfreiwilligem Stellenverlust (Art. 61a AIG, BGE 147 II 1, BGE 151 II 277) mit Verlinkung zum Praxiskommentar Art. 61a AIG sowie Praxishinweis zu Nachlauffristen und Sozialhilfeausschluss."
 ---
 
 ## Überblick {#ueberblick}
@@ -100,7 +106,7 @@ Die Kurzaufenthaltsbewilligung nach Art. 32 AIG wird für befristete Aufenthalte
 
 - **Anwendungsbereich**: Befristete Arbeitsverhältnisse (Saisonniers, Projektmitarbeitende, Au-pairs, Praktikantinnen und Praktikanten) oder zeitlich limitierte Weiterbildungen.
 - **Drittstaaten**: Sie ist kontingentiert und an einen bestimmten Aufenthaltszweck sowie gegebenenfalls an einen bestimmten Arbeitgeber gebunden. Eine Verlängerung ist bis zu einer Gesamtdauer von maximal 24 Monaten möglich, sofern der Arbeitgeber derselbe bleibt (Art. 32 Abs. 3 AIG).
-- **EU/EFTA**: EU/EFTA-Bürgerinnen und -Bürger haben bei Vorliegen eines Arbeitsvertrags mit einer Gültigkeitsdauer zwischen drei Monaten und unter einem Jahr einen Rechtsanspruch auf Erteilung einer Kurzaufenthaltsbewilligung L EU/EFTA für die Dauer des Arbeitsvertrags (Art. 6 Abs. 2 Anhang I FZA).
+- **EU/EFTA**: EU/EFTA-Bürgerinnen und -Bürger haben bei Vorliegen eines Arbeitsvertrags mit einer Gültigkeitsdauer zwischen drei Monaten und unter einem Jahr einen Rechtsanspruch auf Erteilung einer Kurzaufenthaltsbewilligung L EU/EFTA für die Dauer des Arbeitsvertrags (Art. 6 Abs. 2 Anhang I FZA). Endet das Arbeitsverhältnis vor Ablauf eines Jahres unfreiwillig, erlischt das Aufenthaltsrecht sechs Monate nach der Beendigung ([Art. 61a Abs. 1 AIG](/kommentar/aig/art-061a/); [BGE 147 II 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-147-II-1_2021.html#consideration_2.4) E. 2.4).
 - **Völkerrechtlicher Anspruch bei Opferschutz**: In besonderen Konstellationen verschafft das Völkerrecht einen Anspruch auf eine L-Bewilligung, so etwa für Opfer von Menschenhandel zur Sicherstellung ihrer Verfügbarkeit in einem Strafverfahren ([BGE 145 I 308](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-145-I-308_2019.html#consideration_3.1) E. 3.1).
 
 ### Aufenthaltsbewilligung (Ausweis B) {#aufenthaltsbewilligung-b}
@@ -109,6 +115,7 @@ Die Aufenthaltsbewilligung nach Art. 33 AIG ist der Standardtitel für längerfr
 
 - **Drittstaaten**: Die Bewilligung wird befristet erteilt, in der Regel für die Dauer eines Jahres (Art. 33 Abs. 3 AIG). Sie ist zweckgebunden (Erwerbstätigkeit, Studium nach Art. 27 AIG, Rentnerinnen und Rentner nach Art. 28 AIG, medizinische Behandlung nach Art. 29 AIG) und unterliegt bei der Ersterteilung den strengen arbeitsmarktlichen Zulassungsvoraussetzungen (Art. 18 ff. AIG) sowie den Bundeskontingenten. Sie kann verlängert werden, wenn die Voraussetzungen weiterhin erfüllt sind und kein Widerrufsgrund (z. B. Straffälligkeit oder mutwillige Sozialhilfeabhängigkeit) vorliegt.
 - **EU/EFTA**: Erwerbstätige aus EU/EFTA-Staaten mit einem Arbeitsvertrag von mindestens einem Jahr oder unbefristeter Dauer haben einen Rechtsanspruch auf die Bewilligung B EU/EFTA mit einer Gültigkeitsdauer von **fünf Jahren** (Art. 6 Abs. 1 Anhang I FZA). Auch Nichterwerbstätige aus der EU/EFTA haben Anspruch auf eine B-Bewilligung, sofern sie über ausreichende finanzielle Mittel und eine umfassende Krankenversicherung verfügen (Art. 24 Anhang I FZA).
+- **Erlöschen bei unfreiwilligem Stellenverlust (Art. 61a AIG)**: Das Aufenthaltsrecht von EU/EFTA-Arbeitnehmern erlischt von Gesetzes wegen, wenn die Person ihre Stelle unfreiwillig verliert und die gesetzlichen Schutzfristen ungenutzt verstreichen ([Art. 61a AIG](/kommentar/aig/art-061a/)): Bei Stellenverlust vor Ablauf der ersten zwölf Monate erlischt das Aufenthaltsrecht sechs Monate nach Beendigung (Art. 61a Abs. 1 AIG; BGE 147 II 1 E. 2.4), bei Stellenverlust nach mehr als zwölf Monaten sechs Monate nach der Beendigung bzw. sechs Monate nach Auslaufen der Taggelder der Arbeitslosenversicherung (Art. 61a Abs. 4 AIG; [BGE 151 II 277](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-277_2025.html#consideration_5.6) E. 5.6). Während der sechsmonatigen Nachlauffrist im ersten Aufenthaltsjahr besteht kein Anspruch auf Sozialhilfe (Art. 61a Abs. 3 AIG).
 
 ### Niederlassungsbewilligung (Ausweis C) {#niederlassungsbewilligung-c}
 
@@ -218,8 +225,8 @@ Aus [Art. 8 EMRK](/kommentar/emrk/art-008/) und Art. 13 Abs. 1 BV (Recht auf Ach
 |---|---|---|---|---|---|
 | **Bewilligungsfrei** | Art. 10 AIG | Touristen, Besucher, Geschäftsreisende | Bis 90 Tage je 180 Tage | Nein | Ja (sofern Einreisevoraussetzungen erfüllt) |
 | **Meldeverfahren** | Art. 11 AIG, FZA, EntsG | EU/EFTA-Dienstleistungserbringer, Kurzzeiterwerb | Bis 90 Tage pro Kalenderjahr | Ja | Ja (nach FZA) |
-| **Ausweis L** (Kurzaufenthalt) | Art. 32 AIG, FZA | Befristete Verträge, Praktika, Au-pairs | Bis zu 1 Jahr (max. 24 Monate verlängerbar) | Ja | Nein bei Drittstaaten; Ja bei EU/EFTA (ab 3 Monaten Vertrag) |
-| **Ausweis B** (Aufenthalt) | Art. 33 AIG, FZA | Längerfristige Erwerbstätigkeit, Studium, Verbleib | 1 Jahr (Drittstaaten) bzw. 5 Jahre (EU/EFTA) | Ja (ausser reine Ausbildungsaufenthalte) | Nein bei Drittstaaten (Ermessen); Ja bei EU/EFTA und Familiennachzug |
+| **Ausweis L** (Kurzaufenthalt) | Art. 32, 61a AIG, FZA | Befristete Verträge, Praktika, Au-pairs | Bis zu 1 Jahr (max. 24 Monate verlängerbar) | Ja | Nein bei Drittstaaten; Ja bei EU/EFTA (ab 3 Monaten Vertrag; erlischt bei Arbeitslosigkeit nach Art. 61a AIG) |
+| **Ausweis B** (Aufenthalt) | Art. 33, 61a AIG, FZA | Längerfristige Erwerbstätigkeit, Studium, Verbleib | 1 Jahr (Drittstaaten) bzw. 5 Jahre (EU/EFTA) | Ja (ausser reine Ausbildungsaufenthalte) | Nein bei Drittstaaten (Ermessen); Ja bei EU/EFTA und Familiennachzug (erlischt bei Arbeitslosigkeit nach Art. 61a AIG) |
 | **Ausweis C** (Niederlassung) | Art. 34 AIG | Langjährig Anwesende (nach 5 oder 10 Jahren) | Unbefristet (Kontrollfrist 5 Jahre) | Ja, uneingeschränkt | Ja (nach Ablauf der Fristen und bei Integration) |
 | **Ausweis G** (Grenzgänger) | Art. 35 AIG, FZA | Erwerbstätige mit Wohnsitz im Ausland | 5 Jahre (EU/EFTA) bzw. 1 Jahr (Drittstaaten) | Ja (am Schweizer Arbeitsort) | Ja bei EU/EFTA; Nein bei Drittstaaten |
 | **Ausweis Ci** | Art. 28 AIG, Gaststaatgesetz | Familien von Diplomaten und Beamten internat. Org. | Für Dauer der Funktion des Hauptinhabers | Ja | Ja (nach VEP) |
@@ -239,6 +246,7 @@ Für die Beratung, Rechtsvertretung und migrationsrechtliche Praxis sind folgend
 3. **Integrationsanforderungen vorausschauend nachweisen**: Für die Erteilung der C-Bewilligung (Art. 34 AIG) sowie zur Abwehr von Rückstufungen (Art. 63 Abs. 2 AIG) verlangt das Gesetz konkrete Sprachnachweise (mindestens fide-Test, telc oder Goethe-Zertifikat auf den Stufen A2/A1 bzw. B1/A2) sowie den Nachweis der wirtschaftlichen Selbstständigkeit (keine Sozialhilfe in den letzten drei Jahren vor Gesuchstellung, keine offenen Betreibungen oder Verlustscheine).
 4. **Vorläufige Aufnahme (F) gezielt regularisieren**: Die vorläufige Aufnahme ist kein eigentlicher Aufenthaltstitel, sondern eine Vollzugsaussetzung ([BGE 137 II 305](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-137-II-305_2011.html#consideration_3.1) E. 3.1). Nach fünf Jahren ununterbrochener Anwesenheit sollte konsequent geprüft werden, ob die Voraussetzungen für ein Härtefallgesuch nach Art. 84 Abs. 5 AIG zur Umwandlung in eine reguläre Aufenthaltsbewilligung B erfüllt sind.
 5. **Erlöschenstatbestände von C-Bewilligungen bei Auslandaufenthalten beachten**: Eine Niederlassungsbewilligung erlischt nach Art. 61 Abs. 2 AIG automatisch bei einem Auslandaufenthalt von mehr als sechs Monaten. Plant eine Person einen längeren Auslandaufenthalt (z. B. für ein Auslandsstudium, einen Militärdienst oder einen beruflichen Auslandseinsatz), muss **vor Ablauf der Sechsmonatsfrist** zwingend ein Gesuch um Aufrechterhaltung der Niederlassungsbewilligung bei der kantonalen Behörde gestellt werden.
+6. **Nachlauffristen und Sozialhilfeausschluss nach Art. 61a AIG überwachen**: Verliert eine Person aus einem EU/EFTA-Staat ihre Erwerbsstelle unfreiwillig, erlischt ihr Aufenthaltsrecht nach [Art. 61a AIG](/kommentar/aig/art-061a/) von Gesetzes wegen. Bei Stellenverlust in den ersten zwölf Monaten läuft das Aufenthaltsrecht nach sechs Monaten ab (Art. 61a Abs. 1 AIG); während dieser Zeit besteht ein strikter Ausschluss von der Sozialhilfe (Art. 61a Abs. 3 AIG). Bei Stellenverlust nach mehr als zwölf Monaten Aufenthalt erlischt das Recht sechs Monate nach Beendigung bzw. sechs Monate nach Auslaufen der Taggelder der Arbeitslosenversicherung (Art. 61a Abs. 4 AIG). Die Fristen müssen penibel überwacht werden, da mit Fristablauf das Aufenthaltsrecht ex lege untergeht.
 
 ---
 
@@ -247,6 +255,8 @@ Für die Beratung, Rechtsvertretung und migrationsrechtliche Praxis sind folgend
 | Entscheid | Gegenstand | Bedeutung für die Aufenthaltsberechtigungen |
 |---|---|---|
 | [BGE 145 II 322](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-145-II-322_2019.html#consideration_2.2) E. 2.2 | Erlöschen der Niederlassungsbewilligung (Art. 61 AIG) | Bestätigt die Rechtsnatur der Niederlassungsbewilligung C als dauerhaftester, günstigster Aufenthaltsstatus mit gefestigtem Aufenthaltsrecht. |
+| [BGE 147 II 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-147-II-1_2021.html#consideration_2.4) E. 2.4 | Erlöschen des EU/EFTA-Aufenthaltsrechts (Art. 61a AIG) | Bestätigt die Vereinbarkeit der Sechsmonatsfrist von Art. 61a Abs. 1 AIG mit dem FZA bei Stellenverlust im ersten Aufenthaltsjahr. |
+| [BGE 151 II 277](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-277_2025.html#consideration_5.6) E. 5.6 | Verlust der Arbeitnehmereigenschaft und Art. 61a AIG | Leitentscheid zum Fortbestand und Erlöschen der Freizügigkeitsrechte bei langwieriger Arbeitsunfähigkeit und IV-Arbeitsvermittlungsmassnahmen. |
 | [BGE 137 II 305](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-137-II-305_2011.html#consideration_3.1) E. 3.1 | Rechtsnatur der vorläufigen Aufnahme (Art. 83 AIG) | Definiert die vorläufige Aufnahme F als Ersatzmassnahme bei undurchführbarem Vollzug und nicht als materielle Aufenthaltsbewilligung. |
 | [BGE 144 I 266](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html#consideration_3.9) E. 3.9 | Recht auf Privatleben (Art. 8 EMRK) | Begründet die 10-Jahres-Regel: Nach zehnjährigem rechtmässigem Aufenthalt bedarf die Nichtverlängerung einer Aufenthaltsbewilligung qualifizierter Gründe. |
 | [BGE 133 I 185](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-185_2007.html#consideration_2.2) E. 2.2 | Fehlender Rechtsanspruch und Rechtsmittelweg | Grundsatzentscheid: Reine Ermessensbewilligungen können mangels Rechtsanspruchs nicht mit Beschwerde in öffentlich-rechtlichen Angelegenheiten angefochten werden. |
