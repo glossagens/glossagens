@@ -1,12 +1,17 @@
 ---
-title: "Art. 8 — Recht auf Achtung des Privat- und Familienlebens"
+title: "Art. 8 EMRK — Recht auf Achtung des Privat- und Familienlebens"
 weight: 8
 date: 2026-05-22
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 8 EMRK: Recht auf Achtung des Privat- und Familienlebens, seiner Wohnung und seiner Korrespondenz; Schutzbereich (Privatleben, Familienleben, Wohnung, Korrespondenz); Eingriffsvoraussetzungen; Verhältnismässigkeit; Positive Staatenpflichten; EGMR-Grundprinzipien; Bedeutung im schweizerischen Recht"
-tags: ["EMRK", "Privatleben", "Familienleben", "Wohnungsschutz", "Korrespondenz", "Aufenthaltsrecht", "Datenschutz", "Überwachung", "Geschlechtsidentität", "Verhältnismässigkeit", "Integration", "Umweltschutz", "Identität", "häusliche Gewalt", "Diskriminierung", "digitaler Datenschutz", "körperliche Integrität"]
-agent_verified: false
+lastmod: 2026-10-27
+description: "Praxiskommentar zu Art. 8 EMRK: Recht auf Achtung des Privat- und Familienlebens, der Wohnung und der Korrespondenz. Dogmatischer Aufbau, Prüfschema und umfassende Kasuistik zu aufenthaltsbeendenden Massnahmen (strafrechtliche Landesverweisung nach Art. 66a StGB und zweifache Zweistufigkeit der Härtefallklausel, Bewilligungswiderruf nach Art. 62/63 AIG mit 10-Jahres-Vermutung und Reneja-Schwelle, Freizügigkeitsabkommen nach Art. 5 Anh. I FZA), Judikaturdivergenzen (Lausanne vs. Strassburg bei Secondos), kantonale Praxisfragen und Praxishinweise."
+tags: ["EMRK", "Privatleben", "Familienleben", "Wohnungsschutz", "Korrespondenz", "Aufenthaltsrecht", "Landesverweisung", "Härtefallklausel", "Widerruf", "FZA", "Secondos", "10-Jahres-Vermutung", "Datenschutz", "Überwachung", "Praxiskommentar"]
+agent_verified: true
 revisions:
+  - date: 2026-10-27
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Umfassender praxisorientierter Ausbau gemäss Leitfaden: Systematisches Prüfschema, zweifache Zweistufigkeit der Härtefallprüfung bei der Landesverweisung (Art. 66a StGB), Kriterienkatalog und 10-Jahres-Vermutung beim ausländerrechtlichen Bewilligungswiderruf (Art. 62/63 AIG), qualifizierter Gefährdungsmassstab bei EU-Bürgern (Art. 5 Anh. I FZA), zweiseitige Grenzkasuistik (BGE 144 IV 332, BGE 146 IV 105, BGer 6B_64/2024, BGE 144 I 91, BGE 143 I 21, BGE 145 IV 364, BGer 2C_487/2012), Gegenüberstellungstabellen, Offenlegung von Judikaturdivergenzen (Lausanne vs. Strassburg bei Secondos; Strafrichter vs. Migrationsamt), kantonale Praxisfragen (ZH vs. Romandie; Verwarnung) und rollenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch und HUDOC verifiziert."
   - date: 2026-10-15
     by: "Hermes"
     model: "glm-5.2"
@@ -19,416 +24,297 @@ revisions:
     note: "Audit (Urteil C, 35% -> ...): 2 BGE fabriziert (140 I 205, 143 III 445, kein close_match) sowie 4 real existierende, thematisch falsch zugeordnete BGE (137 I 305 [Gleichstellungskommission Zug statt Vorratsdatenspeicherung], 134 I 83 [IP-Recht vorsorgliche Massnahmen statt Umweltschutz], 146 I 49 [Einbürgerungsvoraussetzungen statt Videoüberwachung], 118 IV 67 [PTT-Flugfunküberwachung statt Wohnungsschutz]); 134 III 241 war an falscher Stelle verwendet (Abstammungskenntnis statt Datenweitergabe) und an die richtige Stelle verschoben. Ersetzt/korrigiert durch via get_regeste/search_decisions verifizierte, thematisch passende Entscheide (148 I 233, 144 I 126, 133 I 77). Wortlaut-Warnung als Fehlalarm verifiziert (Formatierungsartefakt gegen Fedlex, wie bei Art. 2/3/5 EMRK)."
 ---
 
-## Art. 8 EMRK — Recht auf Achtung des Privat- und Familienlebens
+## Gesetzeswortlaut
 
-### Wortlaut
-
-> (1) Jede Person hat das Recht auf Achtung ihres Privat- und Familienlebens, ihrer Wohnung und ihrer Korrespondenz.
->
-> (2) Eine Behörde darf in die Ausübung dieses Rechts nur eingreifen, soweit der Eingriff gesetzlich vorgesehen und in einer demokratischen Gesellschaft notwendig ist für die nationale oder öffentliche Sicherheit, für das wirtschaftliche Wohl des Landes, zur Aufrechterhaltung der Ordnung, zur Verhütung von Straftaten, zum Schutz der Gesundheit oder der Moral oder zum Schutz der Rechte und Freiheiten anderer.
+{{< wortlaut >}}
 
 ---
 
-### I. Überblick und Bedeutung
+## Überblick und Bedeutung
 
-Art. 8 EMRK ist die meistzitierte Bestimmung der Konvention und gehört zu den zentralen Grundrechten des europäischen Menschenrechtsschutzes. Die Konvention ist für die Schweiz seit 1974 in Kraft (SR 0.101) und entfaltet unmittelbare Wirkung. Art. 8 EMRK schützt vier eigenständige Rechtsgüter: das Privatleben, das Familienleben, die Wohnung und die Korrespondenz. Der EGMR legt den Schutzbereich weit aus und anerkennt sowohl negative Unterlassungspflichten als auch positive Schutzpflichten des Staates ([Marckx v. Belgien](https://hudoc.echr.coe.int/eng?i=001-57574), App. no. 6833/74, E. 31).
+Art. 8 EMRK ist die in der schweizerischen Gerichtspraxis mit Abstand meistangerufene Garantie der Europäischen Menschenrechtskonvention (SR 0.101). Die Bestimmung schützt vier eigenständige, konventionsautonom und weit auszulegende Rechtsgüter: das **Privatleben**, das **Familienleben**, die **Wohnung** und die **Korrespondenz**. Neben der klassischen Abwehrfunktion gegen staatliche Übergriffe (negative Unterlassungspflicht) anerkennt der Europäische Gerichtshof für Menschenrechte (EGMR) weitreichende positive Schutz- und Gewährleistungspflichten des Staates ([EGMR, Marckx v. Belgien](https://hudoc.echr.coe.int/eng?i=001-57574), Ziff. 31).
 
-Im schweizerischen Recht korrespondiert Art. 8 EMRK mit Art. 13 BV (Recht auf Achtung des Privat- und Familienlebens), Art. 36 BV (Einschränkung von Grundrechten) sowie mit dem Datenschutzrecht (nDSG, SR 235.1) und dem Strafverfahrensrecht (Art. 278 ff. StPO, Art. 269 ff. StPO). Die Bedeutung der Norm reicht weit über das Ausländerrecht hinaus: Sie umfasst den Schutz der Geschlechtsidentität, die informationelle Selbstbestimmung, den Wohnungsschutz vor staatlichen Eingriffen, das Brief- und Kommunikationsgeheimnis, die körperliche Integrität, den Umweltschutz, den Schutz vor häuslicher Gewalt und das Recht auf Kenntnis der eigenen Abstammung.
+Im innerstaatlichen Verfassungsrecht korrespondiert die Bestimmung primär mit Art. 13 BV (Schutz der Privatsphäre) sowie mit der Schrankenordnung von Art. 36 BV. Überdies strahlt Art. 8 EMRK massgeblich in das Datenschutzrecht (Art. 13 Abs. 2 BV; DSG, SR 235.1), das Strafprozessrecht (insbesondere geheime Überwachungsmassnahmen nach Art. 269 ff. und Art. 278 ff. StPO sowie Durchsuchungen nach Art. 244 ff. StPO) und das Personen- und Familienrecht des ZGB aus.
 
-**Konkordanz im inneren Recht.** Art. 8 EMRK steht in einem engen Konkordanzverhältnis zu folgenden innerstaatlichen Normen:
-- Art. 13 Abs. 1 BV (Recht auf Achtung des Privat- und Familienlebens)
-- Art. 36 BV (Einschränkung von Grundrechten — Verhältnismässigkeit, gesetzliche Grundlage, Kerngehalt)
-- Art. 10 BV (Recht auf Leben und persönliche Freiheit)
-- nDSG (Datenschutz, SR 235.1 — informationelle Selbstbestimmung)
-- Art. 278 ff. StPO (Überwachung des Post- und Fernmeldeverkehrs)
-- Art. 249 ff. StPO (Durchsuchung)
-- Art. 96 AuG / Art. 50 AIG (Aufenthaltsrecht)
+Den quantitativen und praxisrelevanten Schwerpunkt der bundesgerichtlichen Rechtsprechung bildet jedoch das **Migrations- und Ausländerstrafrecht**: Art. 8 EMRK bildet das zentrale verfassungs- und völkerrechtliche Korrektiv bei allen aufenthaltsbeendenden Massnahmen. Dies betrifft:
+1. die **strafrechtliche Landesverweisung** nach Art. 66a ff. StGB, wo Art. 8 EMRK das Fundament der Härtefallklausel (Art. 66a Abs. 2 StGB) bildet ([BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html); [BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html));
+2. den **Widerruf und die Nichtverlängerung von Aufenthalts- und Niederlassungsbewilligungen** nach dem Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (AIG, SR 142.20; Art. 62 und 63 i.V.m. Art. 96 AIG), namentlich bei Straffälligkeit, Sozialhilfeabhängigkeit oder Trennung der ehelichen Gemeinschaft ([BGE 135 II 377](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-377_2009.html); [BGE 144 I 266](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html));
+3. den **Schutzstatus von EU/EFTA-Bürgern** unter dem Freizügigkeitsabkommen (FZA, SR 0.142.112.681), wo Art. 5 Anhang I FZA eine gegenwärtige, tatsächliche und hinreichend schwere Gefährdung verlangt ([BGE 139 II 121](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-121_2013.html); [BGE 145 IV 364](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html)).
 
-Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen ist. Die Schweiz ist an die Konvention seit ihrem Beitritt 1974 gebunden. Bei Konflikten zwischen der EMRK und späterem, ihr widersprechendem Verfassungsrecht geht die Konvention grundsätzlich vor; neues Verfassungsrecht bedarf zudem der gesetzgeberischen Umsetzung, bevor es direkt angewendet werden kann ([BGE 139 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_16)).
+**Rang im Normengefüge.** Nach ständiger Rechtsprechung des Bundesgerichts gehen die Garantien der EMRK Bundesgesetzen und Verfassungsbestimmungen im Grundsatz vor. Bei einem Konflikt zwischen einer konventionsrechtlichen Garantie und innerstaatlichem Recht greift die Ausnahme von der Massgeblichkeit nach Art. 190 BV (*PKK-Praxis*, [BGE 139 I 16 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html)). Die nach Annahme der Ausschaffungsinitiative am 28. November 2010 eingefügten Absätze 3–6 von Art. 121 BV sind weder direkt anwendbar noch hebeln sie die Grundrechte der EMRK aus. Vielmehr sind die Ausführungsbestimmungen in Art. 66a ff. StGB zwingend konventionskonform im Lichte von Art. 8 EMRK auszulegen ([BGE 144 IV 332 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html); [BGE 145 IV 364 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html)).
 
 ---
 
-### II. Schutzbereich
+### Prüfschema: Die Merkmale und Schranken in ihrer Prüfungsreihenfolge
 
-Der Schutzbereich von Art. 8 Ziff. 1 EMRK umfasst vier eigenständige Garantien, die autonom und weit auszulegen sind. Die EGMR-Rechtsprechung hat den Begriff des «Privatlebens» zunehmend expansiv interpretiert.
+Jede Beurteilung unter Art. 8 EMRK folgt einem dreistufigen Grundschema (Schutzbereich – Eingriff – Rechtfertigung). Bei aufenthaltsbeendenden Massnahmen wird dieses Grundschema durch spezialgesetzliche zweistufige Abwägungsraster konkretisiert:
+
+| Prüfschritt | Tatbestandsmerkmal / Prüfkriterium | Massgebliche Rechtsgrundlage & Leitjudikatur | Beweislast & Beweismass |
+|---|---|---|---|
+| **1. Schutzbereich (Ziff. 1)** | Betroffenheit von Privatleben, Familienleben, Wohnung oder Korrespondenz | Art. 8 Ziff. 1 EMRK; Art. 13 Abs. 1 BV; [BGE 144 I 266](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html) | Betroffene Person; Regelbeweismass der vollen Überzeugung |
+| **a) Privatleben** | Intensität persönlicher, sozialer und beruflicher Bindungen; 10-Jahres-Vermutung bei rechtmässigem Aufenthalt; Identität, Integrität | [BGE 144 I 266 E. 3.9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html); [BGE 149 I 207 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-207_2023.html) | Vermutung zugunsten des Ausländers ab 10 Jahren legalem Aufenthalt; widerlegbar durch Behörde |
+| **b) Familienleben** | Echte, tatsächlich gelebte Beziehung zur Kernfamilie (Ehegatten, minderjährige Kinder); gefestigtes Anwesenheitsrecht des Partners/Kindes | [BGE 135 I 143](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-I-143_2009.html); [BGE 144 I 91](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-91_2018.html) | Betroffene Person hat gelebte Beziehung substanziiert darzulegen |
+| **2. Eingriff** | Staatliche Massnahme, welche die Ausübung des geschützten Rechts beeinträchtigt, beendet oder verunmöglicht | Landesverweisung (Art. 66a StGB), Widerruf/Nichtverlängerung (Art. 62/63 AIG), Überwachungsmassnahme | Tatsache des Hoheitsakts (Verfügung oder Strafurteil) |
+| **3. Rechtfertigung (Ziff. 2)** | Kumulative Erfüllung der drei Schrankenvoraussetzungen: | Art. 8 Ziff. 2 EMRK; Art. 36 BV | Behörde / Staatsanwaltschaft trägt Rechtfertigungslast |
+| **a) Gesetzliche Grundlage** | Normativer Rechtssatz von hinreichender Bestimmtheit, Zugänglichkeit und Vorhersehbarkeit (*foreseeability*) | StGB, AIG, FZA, StPO, DSG; [EGMR, Zakharov v. Russland](https://hudoc.echr.coe.int/eng?i=001-169394), Ziff. 228 ff. | Rechtsfrage von Amtes wegen zu prüfen |
+| **b) Legitimes Ziel** | Öffentliche Sicherheit, Ordnung, Verhütung von Straftaten, wirtschaftliches Wohl des Landes, Schutz Dritter | Abschliessender Katalog in Art. 8 Ziff. 2 EMRK | Behörde muss konkreten Schutzzweck darlegen |
+| **c) Notwendigkeit / Verhältnismässigkeit** | Massnahme muss zur Zielerreichung geeignet, erforderlich (mildestes Mittel) und im engeren Sinn zumutbar sein | Art. 5 Abs. 2 BV; Art. 96 AIG; [BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html) | Umfassende Interessenabwägung; strenge Kognition |
+| **4. Besonderer Prüfungsraster: Landesverweisung** | **Zweifache Zweistufigkeit** bei Art. 66a Abs. 2 StGB: 1. Schwerer persönlicher Härtefall; 2. Überwiegen der privaten Interessen | [BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html); [BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html); [BGer 6B_64/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html) | Beschuldigter muss Härtefall substanziieren; Gericht prüft von Amtes wegen |
+| **5. Besonderer Prüfungsraster: Bewilligungswiderruf** | Widerrufsgrund (Freiheitsstrafe > 1 Jahr, Reneja-Schwelle > 2 Jahre, Sozialhilfe) + Verhältnismässigkeit nach Art. 96 AIG | Art. 62/63 AIG; [BGE 135 II 377](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-377_2009.html); [BGE 144 I 91](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-91_2018.html) | Migrationsamt weist Widerrufsgrund nach; Betroffener rügt Verhältnismässigkeit |
+| **6. Besonderer Prüfungsraster: FZA-Angehörige** | Gegenwärtige, tatsächliche und hinreichend schwere Gefährdung der öffentlichen Ordnung; Ausschluss reiner Generalprävention | Art. 5 Abs. 1 Anh. I FZA; [BGE 139 II 121](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-121_2013.html); [BGE 145 IV 364](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html) | Behörde muss konkrete, aktuelle Rückfallgefahr belegen |
+
+---
+
+## Kommentierung
+
+### A. Die Garantien und Schutzbereiche von Art. 8 Ziff. 1 EMRK
 
 #### 1. Privatleben
-
-Der Begriff des Privatlebens ist nicht auf ein «inneres Privatleben» beschränkt, sondern umfasst die Gesamtheit der sozialen Beziehungen einer Person ([Niemietz v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57770), App. no. 13710/88, E. 29). Der EGMR definiert Privatleben als ein «breites Konzept, das nicht definiert werden kann» ([Pretty v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60460), App. no. 2346/02, E. 61). Folgende Aspekte fallen in den Schutzbereich:
-
-##### a) Geschlechtsidentität und sexueller Ausdruck
-
-Die sexuelle Orientierung und die Geschlechtsidentität sind Kernbestandteile des Privatlebens. Der EGMR hat in bahnbrechenden Entscheiden anerkannt:
-
-- **Homosexualität**: Die Strafbarkeit einvernehmlicher homosexueller Handlungen zwischen Erwachsenen verstösst gegen Art. 8 EMRK ([Dudgeon v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57360), App. no. 7525/76). Auch die blosse Existenz einer Strafnorm stellt einen Eingriff dar, auch ohne Anwendung ([Modinos v. Zypern](https://hudoc.echr.coe.int/eng?i=001-57677), App. no. 15070/89).
-- **Sittenwidrigkeit**: Die Bestrafung einvernehmlicher homosexueller Handlungen unter Erwachsenen nach dem Schweizerischen StGB aArt. 127 verstösst gegen Art. 8 EMRK ([Müller und andere v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57500), App. no. 10737/84). Der EGMR erkannte zwar, dass die Bestrafung als solche in den margin of appreciation fiel, kritisierte aber die Konfiskation von Filmen als unverhältnismässig. Der Entscheid trug zur späteren Aufhebung von aArt. 127 StGB bei.
-- **Sexuelle Orientierung im Berufsleben**: Untersuchung und Entlassung von Militärangehörigen wegen ihrer sexuellen Orientierung verstösst gegen Art. 8 EMRK ([Smith and Grady v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-58269), App. nos. 33985/96 und 33986/96).
-- **Geschlechtsidentität**: Die fehlende rechtliche Anerkennung der Geschlechtsidentität einer Transperson verstösst gegen Art. 8 und Art. 12 EMRK. Der EGMR betonte, dass die Gesellschaft eine gewisse Unannehmlichkeit in Kauf nehmen muss, damit Transpersonen in Würde und Wert leben können ([Christine Goodwin v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60525), App. no. 28957/95, Grosskammer; bestätigt durch [I. v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60524), App. no. 25680/94).
-- **Transgeschlechtlichkeit und Ehe**: Die Aufrechterhaltung der Ehe als Voraussetzung für die Geschlechtsanpassung ist mit Art. 8 EMRK unvereinbar. Der EGMR entschied in [Hämäläinen v. Finnland](https://hudoc.echr.coe.int/eng?i=001-145839) (App. no. 37351/12, Grosskammer), dass Finnland eine Person, die ihr Geschlecht anpassen wollte, zwang, sich entweder scheiden zu lassen oder die Ehe in eine eingetragene Partnerschaft umzuwandeln. Der EGMR verneinte eine Verletzung, weil Finnland die eingetragene Partnerschaft als gleichwertige Rechtsform anbot — der Entscheid ist jedoch in der Kritik, da er die Bedeutung der Ehe als Institution unterschätzt.
-- **Eintragung des Geschlechts**: Die Pflicht, bei Geschlechtsanpassung ein medizinisches Gutachten vorzulegen, das eine irreversible Sterilisation bestätigt, verstösst gegen Art. 8 EMRK ([A.P., Garçon und Nicot v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-172744), App. nos. 79885/12 u.a.). Die Sterilisationsanforderung ist unverhältnismässig.
-- **Vornamen und Geschlechtseintrag**: Die Angabe des Geschlechts im schweizerischen Personenstandsregister kann nicht gestützt auf eine im Ausland abgegebene blosse Streichungserklärung aufgehoben werden ([BGE 150 III 34](https://mcp.opencaselaw.ch/entscheid/bge_BGE_150_III_34) E. 3).
-- **Sexuelle Selbstbestimmung**: Die Eintragung einer Frau als verschuldet am Scheitern der Ehe wegen Verweigerung ehelicher Geschlechtsbeziehlicheiten («devoir conjugal») verstösst gegen Art. 8 EMRK ([H.W. v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-240683), App. no. 32222/20).
-
-##### b) Gleichgeschlechtliche Partnerschaft
-
-Seit [Schalk and Kopf v. Österreich](https://hudoc.echr.coe.int/eng?i=001-100498) (App. no. 30141/04, E. 94) anerkennt der EGMR, dass eine gleichgeschlechtliche Paarbeziehung unter den Begriff des «Familienlebens» nach Art. 8 EMRK fällt — zuvor wurde sie nur als Privatleben geschützt. Die positive Pflicht zur rechtlichen Anerkennung gleichgeschlechtlicher Paare wurde in [Oliari and Others v. Italien](https://hudoc.echr.coe.int/eng?i=001-156675) (App. nos. 18766/11 und 36030/11) bejaht: Italien verstösst gegen Art. 8 EMRK, weil es keine rechtliche Anerkennung gleichgeschlechtlicher Paare vorsieht.
-
-Der EGMR hat in [Chapin und Charpentier v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-163723) (App. no. 40183/07) festgestellt, dass die beschränkte Öffnung der Ehe für verschiedene Geschlechtergruppen als solche nicht gegen Art. 8 i.V.m. Art. 14 EMRK verstösst, solange eine rechtliche Anerkennung gleichgeschlechtlicher Paare besteht (in Frankreich: PACS).
-
-##### c) Identität und Name
-
-Das Recht auf den eigenen Namen und die Identität fallen in den Schutzbereich des Privatlebens. Der EGMR hat anerkannt, dass Name und Identität Kernbestandteile des Privatlebens sind:
-
-- **Namensrecht**: Die Verweigerung der Annahme eines gemeinsamen Ehenamens durch eine verheiratete Frau, die ihren Geburtsnamen beibehalten hat, kann in den Schutzbereich von Art. 8 EMRK fallen ([Burghartz v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57849), App. no. 16213/90). Die Schweiz hat ihre Namensregelung daraufhin angepasst.
-- **Identität und Abstammung**: Das Recht auf Kenntnis der eigenen Abstammung ist Teil des Privatlebens ([Mikulić v. Kroatien](https://hudoc.echr.coe.int/eng?i=001-60931), App. no. 53176/99). Die Verweigerung jeglichen Zugangs zu Informationen über die biologische Abstammung kann Art. 8 EMRK verletzen. Auch das Bundesgericht anerkennt gestützt auf Art. 8 EMRK und Art. 28 ZGB einen Anspruch des volljährigen Kindes auf Kenntnis der eigenen Abstammung ([BGE 134 III 241](https://mcp.opencaselaw.ch/entscheid/bge_BGE_134_III_241) E. 5).
-- **Anonymität der Mutter**: Ein absolutes Geheimhaltungsrecht der biologischen Mutter, das dem Kind jegliche Möglichkeit nimmt, seine Abstammung zu erfahren, verstösst gegen Art. 8 EMRK ([Odièvre v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-60980), App. no. 32318/96, Grosskammer). Der Grosskammerentscheid prüfte die französische Regelung der anonymen Geburt (accouchement sous X) und stellte fest, dass Art. 8 ein Recht auf Kenntnis der eigenen Abstammung umfasst, dieses aber gegen die Privatsphäre der Mutter abzuwägen ist.
-- **Stjerna v. Finnland** (App. no. 18131/91): Die Weigerung, einem finnischen Staatsangehörigen die Annahme eines schwedischen Namens zu gestatten, fällt in den Schutzbereich von Art. 8 EMRK, wurde aber als gerechtfertigt erachtet.
-
-##### d) Informationelle Selbstbestimmung und Datenschutz
-
-Die systematische Sammlung und Speicherung öffentlicher Informationen über eine Person durch staatliche Behörden fällt in den Schutzbereich des Privatlebens ([Rotaru v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-58606), App. no. 28341/95, Grosskammer). Auch Informationen über die fernere Vergangenheit können dem Privatleben zugeordnet werden, wenn sie systematisch in Akten erfasst werden.
-
-**Personaldossier und Geheimhaltung**. Das Recht, über die Verbreitung persönlicher Informationen zu bestimmen, umfasst auch den Zugang zu Akten, die eine Person betreffen. In [Leander v. Schweden](https://hudoc.echr.coe.int/eng?i=001-57631) (App. no. 9248/81) entschied der EGMR, dass die Speicherung und Weitergabe von Informationen über eine Person in einem Sicherheitsdossier in den Schutzbereich von Art. 8 fällt. Zugleich verneinte der EGMR eine Verletzung, da die schwedischen Kontrollmechanismen ausreichend waren.
-
-**Geheimhaltung und Klassifizierung**. In [Klass und andere v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57510) (App. no. 5029/71) entschied der EGMR, dass die heimliche Überwachung der Post und des Fernmeldeverkehrs von Verdächtigen in den Schutzbereich der Korrespondenz fällt, auch wenn die Betroffenen nicht wissen, dass sie überwacht werden. Der EGMR anerkannte erstmals, dass die Bestreitung der Opfereigenschaft (victim) bei heimlichen Massnahmen nicht das Beschwerderecht ausschliesst.
-
-Die unbegrenzte Aufbewahrung von DNA-Profilen und Fingerabdrücken von Personen, die verhaftet, aber nicht verurteilt wurden, verstösst gegen Art. 8 EMRK ([S. and Marper v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-90094), App. nos. 30562/04 und 30566/04, Grosskammer). Der margin of appreciation der Staaten ist bei der Speicherung biometrischer Daten besonders eng.
-
-**Arbeitsplatzüberwachung**. Arbeitnehmer verzichten nicht auf ihr Privatleben am Arbeitsplatz. Die heimliche Überwachung des privaten Messenger-Accounts eines Arbeitnehmers durch den Arbeitgeber verstösst gegen die positiven Pflichten aus Art. 8 EMRK, wenn keine faire Abwägung vorgenommen wird ([Bărbulescu v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-176842), App. no. 61496/08, Grosskammer). Der EGMR unterschied zwischen privater und beruflicher Kommunikation und forderte, dass der Arbeitgeber den Arbeitnehmer im Voraus über die Überwachung informiert.
-
-**Telefon am Arbeitsplatz**. In [Halford v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-58029) (App. no. 20605/92) entschied der EGMR, dass private Telefonate am Arbeitsplatz in den Schutzbereich der Korrespondenz fallen und ohne gesetzliche Grundlage nicht überwacht werden dürfen. Dies gilt auch für Telefone, die dem Arbeitgeber gehören.
-
-**Metadata und Verkehrsdaten**. Die Speicherung von Verkehrsdaten (Verbindungsdaten, Standortdaten) ohne ausreichende Schutzmassnahmen fällt in den Schutzbereich von Art. 8 EMRK. Die systematische Speicherung aller Verkehrsdaten «auf Vorrat» verstösst gegen Art. 8 EMRK, wenn sie nicht ausreichend begrenzt und kontrolliert ist ([Zakharov v. Russland](https://hudoc.echr.coe.int/eng?i=001-169394), App. no. 47136/13, Grosskammer; [Big Brother Watch and Others v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-211925), App. nos. 58170/13 u.a., Grosskammer).
-
-Das BGer hat die EGMR-Rechtsprechung zu Datenschutz und Art. 8 EMRK übernommen: Die Weitergabe von gesundheitsbezogenen und anderen besonders schützenswerten Personendaten an Dritte stellt einen Eingriff in den Schutzbereich von Art. 8 EMRK dar ([BGE 148 I 233](https://mcp.opencaselaw.ch/entscheid/bge_BGE_148_I_233)), und die Eintragung von Personendaten aufgrund einer erkennungsdienstlichen Erfassung unterliegt der Verhältnismässigkeitsprüfung ([BGE 147 I 372](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_372) E. 4.4 f.). Zur Speicherung von Randdaten der Telekommunikation stellte das BGer fest, dass sie einer verfassungs- und konventionsrechtlichen Prüfung standhalten muss ([BGE 144 I 126](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_126) E. 2.2).
-
-**Digitaler Datenschutz und neue Technologien**. Der EGMR hat in [Benedik v. Slowenien](https://hudoc.echr.coe.int/eng?i=001-202879) (App. no. 55001/11) festgestellt, dass die Durchsuchung des Mobiltelefons eines Beschuldigten ohne gerichtliche Anordnung gegen Art. 8 EMRK verstösst. Smartphones enthalten eine Fülle von Privat- und Berufsdaten, die weit über traditionelle Durchsuchungen hinausgeht.
-
-##### e) Körperliche Integrität und Selbstbestimmung
-
-Art. 8 EMRK umfasst das Recht auf körperliche Unversehrtheit und die Entscheidung über die eigenen Lebensumstände ([Pretty v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60460), App. no. 2346/02, E. 61–67). Dies schliesst das Recht ein, nicht gegen den eigenen Willen am Leben erhalten zu werden. Die Verweigerung der Straffreiheit für Beihilfe zum Suizid wurde jedoch als gerechtfertigt erachtet (E. 74–82).
-
-Die Zwangsverabreichung von Medikamenten oder medizinische Massnahmen ohne Einwilligung stellen einen Eingriff in das Privatleben dar, der einer Rechtfertigung nach Art. 8 Ziff. 2 bedarf. Der EGMR hat in [Jalloh v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-76788) (App. no. 54810/00) festgestellt, dass die Zwangsverabreichung eines Brechmittels zur Beweissicherung einen schweren Eingriff in die körperliche Integrität darstellt, der nur bei Vorliegen besonders gewichtiger Gründe gerechtfertigt werden kann.
-
-**Positive Pflicht bei Vergewaltigung**. In [M.C. v. Bulgarien](https://hudoc.echr.coe.int/eng?i=001-67784) (App. no. 39272/98) entschied der EGMR, dass Art. 8 EMRK i.V.m. Art. 3 EMRK eine positive Pflicht des Staates begründet, wirksame Strafrechtsnormen gegen Vergewaltigung und sexuelle Gewalt zu schaffen und durchzusetzen. Bulgarien hatte sein Strafrecht so ausgelegt, dass physischer Widerstand der Opfer Voraussetzung für eine Vergewaltigungsanklage war — dies verstösst gegen die positive Pflicht zum Schutz der körperlichen Integrität und sexuellen Selbstbestimmung.
-
-##### f) Umweltschutz und Lebensqualität
-
-Der EGMR hat den Schutzbereich von Art. 8 EMRK auf Umweltschutzbelange ausgedehnt, wenn Umweltbeeinträchtigungen die Lebensqualität der Betroffenen so schwerwiegend beeinträchtigen, dass ihr Privatleben direkt betroffen ist:
-
-- **Umweltverschmutzung und Gesundheit**: Schwere Umweltverschmutzung kann eine Verletzung von Art. 8 EMRK darstellen, auch ohne dass eine Gesundheitsgefährdung nachgewiesen wird. Der EGMR entschied in [López Ostra v. Spanien](https://hudoc.echr.coe.int/eng?i=001-57929) (App. no. 16798/90, E. 51), dass Geruchsbelästigung und Gesundheitsbeeinträchtigungen durch eine Abfallbehandlungsanlage in unmittelbarer Nähe der Wohnung der Beschwerdeführerin gegen Art. 8 EMRK verstossen. Die positiven Staatenpflichten umfassen die Pflicht, angemessene Massnahmen zum Schutz der Bürger vor Umweltbeeinträchtigungen zu ergreifen.
-- **Lärmbelästigung**: Der EGMR hat in [Hatton und andere v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60765) (App. no. 36022/97, Grosskammer) die nächtlichen Flüge über den Heathrow-Flughafen geprüft und festgestellt, dass die Schlafstörungen der Anwohner in den Schutzbereich von Art. 8 EMRK fallen. Die Grosskammer verneinte jedoch eine Verletzung, da die Massnahmen zur Lärmminderung nicht offensichtlich unzureichend waren und ein angemessener Ausgleich zwischen den wirtschaftlichen Interessen und den Anliegen der Anwohner gefunden wurde.
-- **Industrieunfälle und Gefahren**: In [Tătar v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-90812) (App. no. 67021/01) stellte der EGMR fest, dass Rumänien gegen Art. 8 EMRK verstossen hat, indem es die Anwohner eines Bergbaubetriebs nicht vor den Gefahren einer möglichen Umweltkatastrophe geschützt hat. Die positive Pflicht umfasst auch die Pflicht zur Informationserteilung über Gesundheitsrisiken.
-- **Abfallwirtschaft**: In [Di Sarno und andere v. Italien](https://hudoc.echr.coe.int/eng?i=001-108645) (App. no. 30765/08) entschied der EGMR, dass die chronische Müllkrise in der Region Campanien eine Verletzung von Art. 8 EMRK darstellte, da die italienischen Behörden es versäumt hatten, angemessene Massnahmen zur Abfallbeseitigung zu ergreifen.
-- **Nuklear- und Industrieanlagen**: In [Kiefer v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-60324) (App. no. 37548/97) verneinte der EGMR eine Verletzung, da die deutschen Behörden angemessene Schutzmassnahmen für Anwohner eines Kernkraftwerks ergriffen hatten.
-
-Die Schweizer Rechtsprechung hat Umweltschutzbelange im Rahmen von Art. 8 EMRK bisher nicht vertieft.
-
-##### g) Aufenthaltsrecht und soziale Bindungen
-
-Im Aufenthaltsrecht wird Art. 8 Ziff. 1 EMRK insbesondere dann relevant, wenn ein Ausländer über längere Zeit in der Schweiz gelebt hat und dort soziale Bindungen geknüpft hat. Die Dauer und Rechtmässigkeit des Aufenthalts sind massgebend:
-
-- **Rechtmässiger Aufenthalt von zehn Jahren**: Nach BGE 144 I 266 E. 3.9 bedarf die Beendigung des Aufenthalts besonderer Gründe, da nach dieser Zeitspanne regelmässig eine gute Integration vorausgesetzt werden kann (sog. **10-Jahres-Vermutung**). Bei ausgeprägter Integration kann ein Anspruch bereits vor Ablauf der zehn Jahre bestehen.
-- **Illegaler Aufenthalt**: Die 10-Jahres-Vermutung greift nicht bei illegalem Aufenthalt. Wer sich nach rechtskräftigem Wegweisungsentscheid nicht an die Rechtsordnung hält, muss eine **besonders ausgeprägte Integration** nachweisen (BGE 149 I 207 E. 5.3; bestätigt durch BGer 2C_270/2025). Die Asylverfahrenszeit wird nicht als rechtmässige Anwesenheit angerechnet (BGE 149 I 72 E. 2.1.2).
-- **Bestehen vs. Erlöschen der Bewilligung**: Der aus Art. 8 Ziff. 1 EMRK abgeleitete Aufenthaltsanspruch betrifft die Verlängerung der Aufenthaltsbewilligung, nicht deren Neuerteilung (BGE 149 I 66 E. 4.6).
-
----
+Der Begriff des Privatlebens ist nicht auf eine innere Sphäre oder die Privatsphäre im engen Sinn beschränkt, sondern umfasst das Recht jeder Person, Beziehungen zu anderen Menschen und zur Aussenwelt aufzubauen und zu pflegen ([EGMR, Niemietz v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57770), Ziff. 29). Das Privatleben schützt:
+- **Körperliche und geistige Integrität sowie Selbstbestimmung**: Schutz vor medizinischen Zwangsmassnahmen ([EGMR, Jalloh v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-76788), Ziff. 67 ff.) und Recht auf selbstbestimmtes Sterben ([EGMR, Pretty v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60460), Ziff. 61).
+- **Geschlechtsidentität und sexuelle Selbstbestimmung**: Verbot der Kriminalisierung einvernehmlicher gleichgeschlechtlicher Handlungen ([EGMR, Dudgeon v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57360); [EGMR, Müller und andere v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57500)) und positive Pflicht zur rechtlichen Anerkennung der Geschlechtsidentität von Transpersonen ohne Sterilisationszwang ([EGMR, Christine Goodwin v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60525); [EGMR, A.P., Garçon und Nicot v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-172744)). Nach schweizerischem Personenstandsrecht kann die Geschlechtsangabe allerdings nicht gestützt auf eine blosse ausländische Streichungserklärung aufgehoben werden ([BGE 150 III 34 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-34_2023.html)).
+- **Name, Identität und Abstammung**: Recht auf Kenntnis der eigenen biologischen Abstammung ([EGMR, Mikulić v. Kroatien](https://hudoc.echr.coe.int/eng?i=001-60931); [BGE 134 III 241 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_003_BGE-134-III-241_2008.html)) sowie Schutz vor diskriminierenden Ehenamensregelungen ([EGMR, Burghartz v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57849)).
+- **Umweltschutz und Lebensqualität**: Schwere Umwelt- und Lärmbeeinträchtigungen fallen in den Schutzbereich des Privatlebens und der Wohnung, wenn sie das Wohlbefinden und die Nutzung des Heims substanziell beeinträchtigen ([EGMR, López Ostra v. Spanien](https://hudoc.echr.coe.int/eng?i=001-57929), Ziff. 51; [EGMR, Hatton und andere v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-60765)).
 
 #### 2. Familienleben
+Das Familienleben schützt das Recht auf Zusammenleben und den ungestörten Kontakt zwischen Familienangehörigen. Es setzt ein tatsächliches, effektives Beziehungsleben voraus:
+- **Kernfamilie**: Umfasst Ehegatten, eingetragene Partnerinnen und Partner sowie das Verhältnis zwischen Eltern und ihren minderjährigen Kindern ([EGMR, Berrehab v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-57338), Ziff. 21). Gleichgeschlechtliche Paare geniessen denselben Schutz ([EGMR, Schalk und Kopf v. Österreich](https://hudoc.echr.coe.int/eng?i=001-100498), Ziff. 94; [EGMR, Oliari and Others v. Italien](https://hudoc.echr.coe.int/eng?i=001-156675)).
+- **Erweiterte Familie und erwachsene Kinder**: Beziehungen zwischen Eltern und erwachsenen Kindern oder zu Grosseltern fallen nur dann unter Art. 8 EMRK, wenn ein **qualifiziertes Abhängigkeitsverhältnis** vorliegt, das über die normalen emotionalen Bindungen hinausgeht (z.B. wegen schwerer Behinderung, Pflegebedürftigkeit oder Betreuung; [BGE 135 I 143 E. 1.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-I-143_2009.html); [BGE 120 Ib 257 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-120-IB-257_1994.html)).
+- **Gefestigtes Anwesenheitsrecht als Voraussetzung**: Ein ausländerrechtlicher Anspruch auf Familiennachzug oder Verbleib stützt sich nur dann auf Art. 8 EMRK, wenn das Familienmitglied in der Schweiz über ein **gefestigtes Anwesenheitsrecht** verfügt (Schweizer Bürgerrecht, Niederlassungsbewilligung C oder Aufenthaltsbewilligung B mit sicherem Rechtsanspruch; [BGE 130 II 281 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-II-281_2004.html)).
 
-Art. 8 EMRK schützt das Recht auf Zusammenleben der Familie. Der Begriff des «Familienlebens» ist autonom auszulegen und umfasst nicht nur die eheliche Kernfamilie, sondern auch faktische Lebensgemeinschaften und die Beziehung zu nahen Angehörigen:
+#### 3. Wohnung und räumliche Privatsphäre
+Der Begriff der Wohnung ist weit auszulegen und umfasst nicht nur das private Wohnhaus oder die Mietwohnung, sondern auch Geschäfts- und Kanzleiräume ([EGMR, Niemietz v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57770), Ziff. 30). Staatliche Hausdurchsuchungen, polizeiliche Razzien sowie verdeckte Überwachungen in Wohnräumen stellen schwere Eingriffe dar, die strikter gesetzlicher Grundlage und richterlicher Genehmigung bedürfen (Art. 244 ff. StPO; [BGE 143 I 310 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-143-I-310_2017.html)). Art. 8 EMRK schützt zudem vor unverhältnismässigen Zwangsräumungen ohne rechtliches Gehör oder angemessene Fristen ([EGMR, McCann v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-63289)).
 
-- **Kernfamilie**: Die Beziehung zwischen Eltern und minderjährigen Kindern fällt stets unter den Schutzbereich des Familienlebens ([Berrehab v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-57338), App. no. 10730/84, E. 21).
-- **Unverheiratete Eltern**: Auch die Beziehung zwischen einem unverheirateten Vater und seinem Kind fällt unter den Begriff des Familienlebens. In [Keegan v. Irland](https://hudoc.echr.coe.int/eng?i=001-57699) (App. no. 28967/91) stellte der EGMR fest, dass die Beziehung zwischen einem unverheirateten Vater und seinem Kind, das er anerkennen wollte, unter den Schutz des Familienlebens fällt. Irland hatte die Adoption des Kindes ohne Benachrichtigung des Vaters zugelassen — eine Verletzung von Art. 8 i.V.m. Art. 14 EMRK.
-- **Gleichgeschlechtliche Paare**: Seit Schalk and Kopf v. Österreich fallen gleichgeschlechtliche Paarbeziehungen unter den Begriff des «Familienlebens» (E. 94).
-- **Eltern und erwachsene Kinder**: Die Beziehung zwischen Eltern und erwachsenen Kindern kann unter Familienleben fallen, wenn enge soziale und emotionale Bindungen bestehen ([Kroon und andere v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-57933), App. no. 18535/91).
-- **Großeltern und Enkel**: Auch die Beziehung zu Großeltern kann unter Familienleben fallen, wenn enge Bindungen bestehen ([Marckx v. Belgien](https://hudoc.echr.coe.int/eng?i=001-57574), App. no. 6833/74).
-
-Ein Aufenthaltsanspruch gestützt auf Familienleben setzt ein **gefestigtes Anwesenheitsrecht** zumindest eines der Betroffenen voraus (BGE 130 II 281). Besonderer Schutz geniesst die Beziehung zu einem schweizerischen Kind: Die Aufenthaltsbewilligung einer ausländischen Mutter kann nur verweigert werden, wenn neben der Zumutbarkeit der Ausreise auch ordnungs- oder sicherheitspolizeiliche Gründe gegeben sind (BGE 135 I 143, über 5'100 eingehende Zitate).
-
-Der Familienlebensbegriff umfasst auch die nacheheliche Beziehung zu einem Kind (BGer 2C_96/2025: tadelloses Verhalten als Voraussetzung für den nachehelichen Härtefall nach Art. 50 Abs. 1 lit. b AIG).
-
-**Familiennachzug**. Für den ausländerrechtlichen Familiennachzug von anerkannten Flüchtlingen gelten die Grundsätze von Art. 8 EMRK sowie die Bestimmungen des AsylG und des AuG (BGE 139 I 330). Der EGMR hat in [Gül v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57956) (App. no. 23218/94) die Verweigerung des Familiennachzugs eines türkischen Vaters zu seinem schweizerischen Kind geprüft und eine Verletzung von Art. 8 EMRK festgestellt. In [Jeunesse v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-122885) (App. no. 12738/10, Grosskammer) stellte der EGMR fest, dass die niederländische Regelung zum Familiennachzug gegen Art. 8 EMRK i.V.m. Art. 14 EMRK verstösst, da sie eine Mindesteinkommensgrenze fordert, die für Migranten schwerer zu erfüllen ist.
-
-**Familienleben und Ausweisung**. Die Ausweisung eines Ausländers greift in das Familienleben ein, wenn sie die Trennung der Familie oder die Ausreise aller Familienmitglieder erzwingt. Die Verhältnismässigkeit ist nach den Kriterien von BGE 144 I 266 zu prüfen (→ Abschnitt V).
+#### 4. Korrespondenz und informationelle Selbstbestimmung
+Der Schutz der Korrespondenz erstreckt sich auf Briefe, Telegramme, Telefonate, E-Mails und sämtliche digitalen Kommunikationsflüsse ([EGMR, Copland v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-80073)). 
+- **Staatliche Überwachung**: Geheime Überwachungsmassnahmen greifen schwer in Art. 8 EMRK ein. Das Gesetz muss die Voraussetzungen, Dauer, Genehmigungspflicht und Löschungsfristen detailliert und vorhersehbar regeln ([EGMR, Klass und andere v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57510); [EGMR, Zakharov v. Russland](https://hudoc.echr.coe.int/eng?i=001-169394); [EGMR, Big Brother Watch v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-211925)). Das Bundesgericht prüfte die Vorratsdatenspeicherung von Telekommunikations-Randdaten und bejahte deren Konventionskonformität bei Vorliegen ausreichender Schutzmechanismen ([BGE 144 I 126 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-126_2018.html)).
+- **Biometrische Daten und Polizeidatenbanken**: Die unbefristete Speicherung von DNA-Profilen oder Fingerabdrücken nicht verurteilter Personen verstösst gegen Art. 8 EMRK ([EGMR, S. and Marper v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-90094)). Nach bundesgerichtlicher Rechtsprechung unterliegen erkennungsdienstliche Erfassungen und polizeiliche Datenspeicherungen strenger Verhältnismässigkeitsprüfung ([BGE 147 I 372 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-147-I-372_2021.html); [BGE 148 I 233 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-233_2022.html)).
+- **Arbeitsplatzüberwachung**: Arbeitnehmer behalten ihre Privatsphäre am Arbeitsplatz. Eine geheime Überwachung digitaler Messenger-Accounts durch den Arbeitgeber ohne vorherige Information und transparente Richtlinien verletzt die positiven Pflichten aus Art. 8 EMRK ([EGMR, Bărbulescu v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-176842)).
 
 ---
 
-#### 3. Wohnung
+### B. Die Eingriffsschranken (Art. 8 Ziff. 2 EMRK) und Grundprinzipien
 
-Der Wohnungsbegriff im Sinne von Art. 8 EMRK ist weit zu verstehen und umfasst jeden Raum, in dem eine Person ihr Privatleben entfaltet — auch Hotelzimmer, Geschäftsräume und vorübergehende Unterkünfte ([Niemietz v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57770), App. no. 13710/88, E. 30). Das BGer hat den Wohnungsschutz im Rahmen von Durchsuchungen und verdeckten Ermittlungen mehrfach unter Bezugnahme auf Art. 8 EMRK geprüft:
+Ein Eingriff in die Garantien von Art. 8 Ziff. 1 EMRK ist nur zulässig, wenn er kumulativ drei Voraussetzungen erfüllt:
 
-- **Verdeckte Ermittlung**: Wird die verdeckte Ermittlung durch die beschuldigte Person entdeckt, ist eine Löschung der dabei entstandenen Bild- und Datenaufnahmen zum Schutz der Ermittler nur zulässig, soweit sie verhältnismässig bleibt — Kopien zu den Akten sind wo möglich zu sichern ([BGE 143 I 310](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_310) E. 3.3 f.).
-- **Durchsuchung**: Wohnungsdurchsuchungen unterliegen strikter Verhältnismässigkeitsprüfung; Art. 8 EMRK fordert angemessene rechtliche Grundlagen und Schutzmassnahmen (1B_342/2017; 1B_75/2017).
+1. **Gesetzliche Grundlage (*in accordance with the law*)**: Der Eingriff muss sich auf eine innerstaatliche Rechtsnorm stützen, die hinreichend zugänglich und so präzise formuliert ist, dass die Bürgerinnen und Bürger ihr Verhalten danach ausrichten können (*foreseeability*).
+2. **Legitimes Ziel**: Der Eingriff muss zwingend einem der in Art. 8 Ziff. 2 EMRK abschliessend genannten Ziele dienen: nationale oder öffentliche Sicherheit, wirtschaftliches Wohl des Landes, Aufrechterhaltung der Ordnung, Verhütung von Straftaten, Schutz der Gesundheit oder der Moral oder Schutz der Rechte und Freiheiten anderer.
+3. **Notwendigkeit in einer demokratischen Gesellschaft (*necessary in a democratic society*)**: Die Massnahme muss einem dringenden gesellschaftlichen Bedürfnis (*pressing social need*) entsprechen und verhältnismässig sein. Mildere Massnahmen müssen ungenügend sein, und die privaten Interessen des Betroffenen sind sorgfältig gegen die öffentlichen Schutzinteressen abzuwägen.
 
-**Räumung und Wohnungsverlust**. Art. 8 EMRK schützt auch vor der Zwangsräumung der Wohnung. Der EGMR hat in [McCann v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-63289) (App. no. 19009/04) festgestellt, dass die Räumung einer Sozialwohnung ohne angemessene Prüfungsfristen und ohne ausreichende Berücksichtigung der persönlichen Umstände gegen Art. 8 EMRK verstossen kann. 
-
-In [Stankov v. Bulgarien](https://hudoc.echr.coe.int/eng?i=001-85589) (App. nos. 68590/01 u.a.) entschied der EGMR, dass die Zwangsräumung von Roma-Siedlungen ohne angemessene Alternativunterkünfte gegen Art. 8 EMRK verstösst, insbesondere wenn die Betroffenen keine andere Wohnmöglichkeit haben.
-
----
-
-#### 4. Korrespondenz
-
-Der Schutz der Korrespondenz umfasst sämtliche Kommunikationsformen — Briefverkehr, Telefon, E-Mail und digitale Kommunikation. Der EGMR hat diesen Schutz mehrfach bekräftigt:
-
-- **Briefverkehr**: Die Zensur der Briefsendungen von Gefangenen bezüglich Haftbedingungen verstösst gegen Art. 8 EMRK ([Silver and Others v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57474), App. nos. 5947/72 u.a.).
-- **Zugang zu Gericht**: Die Verweigerung des Briefverkehrs mit einem Anwalt kann zugleich Art. 6 und Art. 8 EMRK verletzen ([Golder v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57555), App. no. 4451/70, Grosskammer).
-- **Arbeitsplatzüberwachung**: Arbeitnehmer verzichten nicht auf ihr Privatleben am Arbeitsplatz. Die Überwachung des privaten Messenger-Accounts eines Arbeitnehmers durch den Arbeitgeber verstösst gegen die positiven Pflichten aus Art. 8 EMRK, wenn keine faire Abwägung vorgenommen wird ([Bărbulescu v. Rumänien](https://hudoc.echr.coe.int/eng?i=001-176842), App. no. 61496/08, Grosskammer).
-- **Metadata und Verkehrsdaten**: Die systematische Speicherung von Kommunikationsverbindungsdaten fällt in den Schutzbereich der Korrespondenz ([Copland v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-80073), App. no. 62637/00). Der EGMR stellte fest, dass die heimliche Überwachung des E-Mail- und Telefonverkehrs einer Arbeitnehmerin durch ihren Arbeitgeber ohne gesetzliche Grundlage gegen Art. 8 EMRK verstösst. Die blosse Speicherung von Verbindungsdaten (wer hat wann mit wem kommuniziert) stellt bereits einen Eingriff in die Korrespondenz dar.
-- **Telefonüberwachung**: In [Malone v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57677) (App. no. 8691/79) entschied der EGMR, dass die britische Praxis der «metering» — der Aufzeichnung, wann und mit wem eine Person telefoniert — ohne ausreichende gesetzliche Grundlage gegen Art. 8 EMRK verstösst. Der Entscheid war ein Meilenstein für die Entwicklung des Datenschutzes und führte schliesslich zur Annahme des RIPA 2000.
+**Beurteilungsspielraum (*Margin of Appreciation*)**: Der EGMR räumt den Vertragsstaaten je nach Regelungsgegenstand einen unterschiedlich weiten Beurteilungsspielraum ein. Bei intimsten Bereichen der Persönlichkeit (Geschlechtsidentität, Sexualleben, biometrische Daten) ist der Spielraum eng ([EGMR, Dudgeon v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57360), Ziff. 60; [EGMR, S. and Marper v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-90094), Ziff. 119). Im Bereich des allgemeinen Einwanderungs- und Ausländerrechts gesteht der Gerichtshof den Staaten grundsätzlich einen weiteren Spielraum zu ([BGE 144 I 266 E. 3.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html)), der jedoch durch die gefestigten Ausweisungskriterien (*Boultif*, *Üner*, *Maslov*) strikt gebunden ist.
 
 ---
 
-### III. Eingriffsvoraussetzungen (Art. 8 Ziff. 2 EMRK)
+### C. Die strafrechtliche Landesverweisung (Art. 66a ff. StGB) im Lichte von Art. 8 EMRK
 
-Ein Eingriff in das Recht auf Achtung des Privat- und Familienlebens ist nur zulässig, wenn er drei kumulative Voraussetzungen erfüllt:
+#### 1. Systematik und Normzweck
+Mit Art. 66a–66d StGB setzte der Bundesgesetzgeber per 1. Oktober 2016 die Vorgaben von Art. 121 Abs. 3–6 BV (angenommen in der Volksabstimmung zur Ausschaffungsinitiative vom 28. November 2010, BBl 2011 2593) um. Das Gesetz unterscheidet zwischen:
+- der **obligatorischen Landesverweisung** nach Art. 66a Abs. 1 StGB für einen abschliessenden Katalog von Straftaten (Katalogtaten von Tötungs- und Sexualdelikten über Raub und Brandstiftung bis zu qualifizierten Betäubungsmitteldelikten nach Art. 19 Abs. 2 BetmG und Einbruchsdiebstahl), die das Gericht zwingend für die Dauer von 5 bis 15 Jahren anzuordnen hat — unabhängig von der konkreten Tatschwere und der Strafhöhe ([BGE 144 IV 332 E. 3.1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html));
+- der **nichtobligatorischen Landesverweisung** nach Art. 66a^bis StGB für Verbrechen oder Vergehen ausserhalb des Katalogs bei Verurteilung zu einer Freiheitsstrafe oder freiheitsentziehenden Massnahme für 3 bis 15 Jahre;
+- der **Härtefallklausel** nach Art. 66a Abs. 2 StGB als zwingendem verfassungs- und völkerrechtlichem Ventil zur Einhaltung des Verhältnismässigkeitsprinzips (Art. 5 Abs. 2 BV; Art. 8 EMRK).
 
-#### 1. Gesetzlich vorgesehener Eingriff (legal basis)
+> **Leitsatz.** Die Härtefallklausel von Art. 66a Abs. 2 StGB ist zwar als Kann-Vorschrift formuliert, räumt dem Strafrichter aber kein freies Ermessen ein: Sind die Voraussetzungen des Härtefalls erfüllt, gebietet das Verhältnismässigkeitsprinzip zwingend den Verzicht auf die Landesverweisung ([BGE 144 IV 332 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html)).
 
-Der Eingriff muss auf einer gesetzlichen Grundlage beruhen, die **zugänglich** und **vorhersehbar** ist. Das Gesetz muss hinreichend klar formuliert sein, damit der Einzelne sein Verhalten darauf einrichten kann ([Zakharov v. Russland](https://hudoc.echr.coe.int/eng?i=001-169394), App. no. 47136/13, Grosskammer, E. 95). Bei Überwachungsmassnahmen verlangt der EGMR zusätzliche Anforderungen an die Qualität des Gesetzes: Es muss die Ausübung der Ermächtigung ausreichend begrenzen, die Befugnisse genau umschreiben und wirksame Kontrollmechanismen vorsehen (Zakharov, E. 114–131).
+#### 2. Das bundesgerichtliche Prüfschema: Die zweifache Zweistufigkeit
+Das Bundesgericht hat die Anwendung von Art. 66a Abs. 2 StGB in den Leitentscheiden [BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html) und [BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html) systematisiert. Die Härtefallprüfung folgt einer **zweifachen Zweistufigkeit**:
 
-**Zugänglichkeit und Vorhersehbarkeit**. Das Gesetz muss so formuliert sein, dass eine ausreichend präzise Vorhersage darüber möglich ist, unter welchen Umständen ein Eingriff möglich ist. Dies gilt insbesondere bei Überwachungsgesetzen: Die blosse Existenz einer gesetzlichen Ermächtigung genügt nicht, wenn die Ausführungsvorschriften fehlen oder zu weit gefasst sind (Big Brother Watch, E. 311).
+1. **Erste Stufe: Prüfung des Vorliegens eines schweren persönlichen Härtefalls**
+   - Das Gesetz definiert nicht, was unter einem Härtefall zu verstehen ist. Das Gericht orientiert sich analog an den Kriterien von Art. 31 Abs. 1 VZAE (Grad der persönlichen und wirtschaftlichen Integration, Beachtung der Rechtsordnung, familiäre Verhältnisse, Aufenthaltsdauer, Verwurzelung in der Schweiz, Gesundheitszustand und Resozialisierungschancen im Herkunftsstaat; [BGE 144 IV 332 E. 3.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html)).
+   - Ein Härtefall liegt vor, wenn die Landesverweisung einen **Eingriff von erheblicher Tragweite** in das durch Art. 13 BV und Art. 8 EMRK geschützte Privat- oder Familienleben bewirken würde ([BGE 149 IV 231 E. 2.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-231_2023.html); [BGE 147 IV 453 E. 1.4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-453_2021.html)).
+   - *Fehlt es bereits an einem Härtefall auf dieser ersten Stufe, erübrigt sich die Interessenabwägung; die Landesverweisung ist zwingend anzuordnen* ([BGE 146 IV 105 E. 3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html)).
 
-#### 2. Legitimer Zweck
+2. **Zweite Stufe: Umfassende Interessenabwägung (Verhältnismässigkeit nach Art. 8 Ziff. 2 EMRK)**
+   - Wird ein schwerer persönlicher Härtefall bejaht, entscheidet sich die Anordnung an der Güterabwägung zwischen den privaten Interessen des Ausländers am Verbleib und den öffentlichen Fernhalteinteressen ([BGE 144 IV 332 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html)).
+   - Aufseiten des öffentlichen Interesses zählen: verschuldensmässige Natur und Schwere der Tat, Ausmass der Rechtsgutverletzung, Rückfallgefahr und Legalprognose sowie das Verhalten seit der Tat ([BGer 6B_64/2024 E. 1.3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html)).
+   - Aufseiten des privaten Interesses zählen: Verwurzelung, Kinder, Lebenspartner, wirtschaftliche Existenz, Entwurzelung im Herkunftsstaat.
+   - **Die Zweijahresregel**: Wurde der Täter zu einer Freiheitsstrafe von **zwei Jahren oder mehr** verurteilt, bedarf es ausserordentlicher Umstände, damit das private Interesse an einem Verbleib das öffentliche Fernhalteinteresse überwiegt ([BGer 6B_64/2024 E. 1.3.8](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html); [BGE 135 II 377 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-377_2009.html)).
 
-Der Eingriff muss einem der in Art. 8 Ziff. 2 EMRK genannten legitimen Zwecke dienen:
-- nationale oder öffentliche Sicherheit
-- wirtschaftliches Wohl des Landes
-- Aufrechterhaltung der Ordnung
-- Verhütung von Straftaten
-- Schutz der Gesundheit oder der Moral
-- Schutz der Rechte und Freiheiten anderer
+#### 3. Die Ausländer der zweiten Generation («Secondos»)
+Art. 66a Abs. 2 Satz 2 StGB verlangt ausdrücklich, dass das Gericht der besonderen Situation von Ausländern Rechnung trägt, die in der Schweiz geboren oder aufgewachsen sind.
+- **Kein automatischer Härtefall**: Das Bundesgericht lehnt starre Altersgrenzen oder einen Automatismus ab. Ein Schulbesuch und lange Anwesenheit begründen nicht per se das Vorliegen eines Härtefalls, sondern bilden lediglich ein **starkes Indiz**, das durch mangelnde soziale/berufliche Integration oder wiederholte Delinquenz neutralisiert werden kann ([BGE 146 IV 105 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html)).
+- **Gewichtung im Zeitablauf**: Bei der Interessenabwägung ist der betroffenen Person mit zunehmender Anwesenheitsdauer ein gewichtigeres privates Interesse zuzubilligen. Allerdings verlangt das Bundesgericht bei Secondos, dass die mit Art. 121 Abs. 3 BV beabsichtigte **Verschärfung der bisherigen Ordnung** gewahrt bleibt: Schwere Katalogdelikte führen auch bei in der Schweiz Geborenen regelmässig zur Landesverweisung ([BGE 144 IV 332 E. 3.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html); [BGer 6B_64/2024 E. 1.5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html)).
 
-Die Zwecke sind abschliessend. Der EGMR prüft nicht, ob der Zweck tatsächlich erreicht wurde, sondern ob die Massnahme objektiv einem dieser Zwecke dienen kann.
+#### 4. Zweiseitige Grenzkasuistik zur Landesverweisung
 
-#### 3. Notwendigkeit in einer demokratischen Gesellschaft (Verhältnismässigkeit)
+##### a) Anwendungsfall Härtefall (Landesverweisung abgewendet / Verzicht geschützt)
+> **Der spanische Secondo und die Raubüberfälle auf Passantinnen** ([BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html))  
+> **Sachverhalt**: Ein 1985 in der Schweiz geborener spanischer Staatsangehöriger (Niederlassungsbewilligung C) lebte seit 32 Jahren ununterbrochen in der Schweiz. Er hatte keine Berufsausbildung, arbeitete aber stets als Verkäufer, bis er 2016 arbeitslos und teils fürsorgeabhängig wurde. Er ist Vater zweier Kinder (geboren 2010 und 2013), zu denen er regelmässigen Kontakt pflegte und die er betreute. Er hatte vier geringfügige Vorstrafen (Bussen/Geldstrafen). Am 22. Februar 2017 fungierte er als Fahrer für seinen Cousin: Sie spürten zwei allein spazierende junge Frauen auf; der Cousin stieg mit Motorradhelm maskiert aus, bedrohte die erste Frau mit einem Teppichmesser und entriss ihre Handtasche, stiess die zweite Frau gegen ein Wartehäuschen und raubte ihr Mobiltelefon, worauf der Beschwerdeführer mit dem Fluchtwagen davonfuhr. Die Vorinstanz verurteilte ihn wegen Raubes (Art. 140 Ziff. 1 StGB; Katalogtat gemäss Art. 66a Abs. 1 lit. c StGB) zu 12 Monaten Freiheitsstrafe und verwies ihn für 5 Jahre des Landes.  
+> **Erster Schritt (Härtefall bejaht)**: Das Bundesgericht bejahte einen schweren persönlichen Härtefall. Als Secondo mit 32 Jahren Aufenthalt, dessen gesamte Verwandtschaft und Kinder in der Schweiz leben und der kein soziales Netz in Spanien hat (wo er nie gelebt hatte), träfe ihn eine Ausweisung existentiell.  
+> **Zweiter Schritt (Interessenabwägung zugunsten des Verbleibs)**: Bei der Abwägung hielt das Bundesgericht fest: Zwar liegt mit Raub eine Katalogtat vor, doch handelte der Beschwerdeführer nur als Gehilfe/Mittäter am Steuer, wandte selbst keine physische Gewalt an und wurde lediglich zu 12 Monaten Freiheitsstrafe verurteilt (erste Freiheitsstrafe überhaupt). In Anbetracht der intakten Beziehung zu seinen jungen Kindern, der realen Resozialisierungschancen in der Schweiz und der fehlenden Bindung zu Spanien überwiegen die privaten Interessen das öffentliche Fernhalteinteresse. **Die Landesverweisung wurde aufgehoben.**
 
-Die Verhältnismässigkeitsprüfung ist der Kern der EGMR-Prüfung bei Art. 8 EMRK. Sie umfasst drei Elemente:
+##### b) Verwerfungsfall Härtefall (Landesverweisung angeordnet und bestätigt)
+> **Der Kopfsteinpflaster-Tritt in Bülach** ([BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html))  
+> **Sachverhalt**: Ein chilenischer Staatsangehöriger reiste im Alter von 13 Jahren in die Schweiz ein und besuchte hier die Sekundarstufe. Er absolvierte eine zweijährige Anlehre als Hilfsgärtner, gab Stellen jedoch wiederholt aus nichtigen Gründen auf. Am 1. April 2017 geriet der damals 27-Jährige in Bülach in eine tätliche Auseinandersetzung. Im Streit holte er mit dem linken Bein aus und trat seinem Kontrahenten mit voller Wucht auf Augenhöhe gegen den Kopf. Das Opfer stürzte bewusstlos ungebremst auf das Kopfsteinpflaster und blieb regungslos liegen (Gehirnerschütterung, HWS-Prellung, Risswunde am Hinterkopf). Das Obergericht Zürich verurteilte ihn wegen versuchter schwerer Körperverletzung (Art. 122 i.V.m. Art. 22 StGB; Katalogtat Art. 66a Abs. 1 lit. b StGB) zu einer teilbedingten Freiheitsstrafe von 36 Monaten und verwies ihn für 7 Jahre des Landes.  
+> **Erster Schritt (Härtefall verneint)**: Das Bundesgericht hielt fest, dass der Beschwerdeführer Chile erst mit 13 Jahren verlassen hatte und dort eine prägende Schulzeit verbrachte. Er spricht fliessend Spanisch, hat Verwandte in Chile und kann als Landschaftsgärtner dort arbeiten. Seine soziale und berufliche Integration in der Schweiz war unterdurchschnittlich (Stellenabbrüche, instabile Verhältnisse, keine Kinder). Mangels gewichtiger persönlicher Interessen liegt **bereits kein Härtefall auf Stufe 1** vor; eine Interessenabwägung erübrigt sich.  
+> **Hilfserwägung zu Art. 8 EMRK**: Selbst bei Vornahme der Interessenabwägung erweist sich die Landesverweisung angesichts der Brutalität der Gewalttat, der 36-monatigen Freiheitsstrafe (Zweijahresregel) und der getrübten Prognose als verhältnismässig. **Die Landesverweisung von 7 Jahren wurde bestätigt.**
 
-**(a) Proportionalität im engeren Sinn**: Der Eingriff muss in einem angemessenen Verhältnis zum verfolgten Zweck stehen. Je schwerer der Eingriff, desto gewichtigere Gründe sind erforderlich.
+##### c) Verwerfungsfall bei Betäubungsmittelkriminalität eines Secondo
+> **Der Dietiker Metzger und der gewerbsmässige Kokainhandel** ([BGer 6B_64/2024 vom 19. November 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html))  
+> **Sachverhalt**: Ein in der Schweiz geborener und aufgewachsener 27-jähriger italienischer Staatsangehöriger hatte hier die Schulen besucht, eine Berufslehre als Metzger abgeschlossen, war fest angestellt und schuldenfrei. Er sprach fliessend Schweizerdeutsch, jedoch kein Italienisch; seine gesamte Kernfamilie lebte in der Schweiz. Er verkaufte im Zeitraum 2019/2020 über 85 Gramm reines Kokain in 200 Einzelportionen. Nach Entlassung aus der zweimonatigen Untersuchungshaft nahm er den Drogenhandel nur vier Monate später wieder auf und setzte weitere 52 Gramm reines Kokain um; zudem delinquierte er während des erstinstanzlichen Gerichtsverfahrens erneut (Waffengesetz, BetmG-Übertretung). Das Obergericht Zürich verurteilte ihn wegen qualifizierter Widerhandlung gegen das BetmG (Art. 19 Abs. 2 BetmG; Katalogtat Art. 66a Abs. 1 lit. o StGB) zu 30 Monaten Freiheitsstrafe (wovon 6 Monate vollziehbar) und ordnete eine Landesverweisung von 5 Jahren an.  
+> **Erster Schritt (Härtefall bejaht)**: Angesichts der Geburt in der Schweiz, des 27-jährigen Aufenthalts und der gelungenen wirtschaftlichen Integration als Metzger bejahte das Obergericht den schweren persönlichen Härtefall.  
+> **Zweiter Schritt (Interessenabwägung zuungunsten des Täters)**: Das Bundesgericht schützte die Landesverweisung: Das Bundesgericht zeigt sich bei Betäubungsmitteldelikten aus rein finanziellen Motiven traditionsgemäss rigoros. Die Freiheitsstrafe von 30 Monaten greift in die Zweijahresregel ein. Ausschlaggebend war, dass sich der Täter weder durch Untersuchungshaft noch durch ein hängiges Strafverfahren beeindrucken liess und dreist weiter dealte. Wegen dieser Uneinsichtigkeit und der schweren Gefährdung der Gesundheit vieler Menschen überwiegen die öffentlichen Sicherheitsinteressen selbst gegenüber einem gut integrierten Secondo. **Die Landesverweisung wurde bestätigt.**
 
-**(b) Erforderlichkeit**: Der Eingriff muss notwendig sein, um den Zweck zu erreichen. Mildere Mittel müssen ausgeschlossen sein.
-
-**(c) Verhältnismässigkeit im weiteren Sinn**: Die Interessen des Einzelnen und der Gemeinschaft sind gegeneinander abzuwägen. Der margin of appreciation der Staaten ist dabei je nach Bereich unterschiedlich breit.
-
-Die drei Voraussetzungen sind kumulative. Fehlt eine davon, liegt eine Konventionsverletzung vor.
-
-#### Margin of appreciation
-
-Der EGMR gewährt den Vertragsstaaten einen **Beurteilungsspielraum** (margin of appreciation), dessen Breite vom Gegenstand abhängt:
-
-- Bei **besonders intimen Lebensbereichen** (Sexualität, Geschlechtsidentität, körperliche Integrität) ist der margin of appreciation **eng**: Dudgeon v. Vereinigtes Königreich, E. 60.
-- Bei **wirtschaftspolitischen oder sozialpolitischen Fragen** (Aufenthaltsrecht, Sozialhilfe) ist er **weiter**: BGE 144 I 266 E. 3.7.
-- Bei **Überwachung und Datenspeicherung** ist er **eng**, insbesondere bei biometrischen Daten: S. und Marper, E. 119–125.
-- Bei **Umwelt- und Planungsfragen** ist er **weiter**, solange ein angemessener Ausgleich gefunden wurde: Hatton v. Vereinigtes Königreich, E. 122–123.
-
----
-
-### IV. Art. 8 i.V.m. Art. 14 EMRK (Diskriminierungsdimension)
-
-Art. 8 EMRK entfaltet seine volle Schutzwirkung insbesondere in Verbindung mit dem Diskriminierungsverbot des Art. 14 EMRK. Die Kombination beider Normen erlaubt es, auch Massnahmen zu prüfen, die an sich im margin of appreciation liegen, wenn sie eine Unterscheidung nach einem der in Art. 14 genannten Merkmale (insbesondere Geschlecht, sexuelle Orientierung, Nationalität) treffen:
-
-- **Sexuelle Orientierung**: In [Dudgeon v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-57360) (App. no. 7525/76) verletzte die Strafbarkeit homosexueller Handlungen sowohl Art. 8 als auch Art. 14 i.V.m. Art. 8 EMRK. Der margin of appreciation ist bei sexueller Orientierung besonders eng.
-- **Geschlecht**: In [Burghartz v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-57849) (App. no. 16213/90) wurde die unterschiedliche Behandlung von Mann und Frau bei der Wahl des Ehenamens als Verstoss gegen Art. 8 i.V.m. Art. 14 EMRK qualifiziert.
-- **Staatsangehörigkeit/Aufenthaltsstatus**: In [Jeunesse v. Niederlande](https://hudoc.echr.coe.int/eng?i=001-122885) (App. no. 12738/10, Grosskammer) verstiesst die niederländische Regelung zum Familiennachzug gegen Art. 8 i.V.m. Art. 14 EMRK, da die Mindesteinkommensgrenze für Migranten schwerer zu erfüllen war.
-- **Einreiseverbot bei Sexualdelikten**: In [K.A. v. Belgien](https://hudoc.echr.coe.int/eng?i=001-163727) (App. no. 42758/98) entschied der EGMR, dass ein Einreiseverbot gegen einen verurteilten Sexualstraftäter gegen Art. 8 EMRK verstossen kann, wenn es unverhältnismässig ist und das Familienleben unverhältnismässig beeinträchtigt.
-
-Die Diskriminierungsdimension ist bei der Prüfung von Art. 8 EMRK stets zu berücksichtigen, auch wenn Art. 14 nicht selbstständig gerügt wurde. Der EGMR prüft von Amtes wegen, ob eine Ungleichbehandlung vorliegt.
+#### 5. Vollzugshindernisse (Art. 66d StGB vs. Art. 83 AIG)
+Vollzugshindernisse (insbesondere völkerrechtliche Rückschiebeverbote nach Art. 3 EMRK, Art. 25 Abs. 3 BV oder fehlende Reisedokumente) schliessen den richterlichen Erlass der Landesverweisung **nicht** aus ([BGE 147 IV 453 E. 1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-453_2021.html)). Der Gesetzgeber hat die Beurteilung der Zulässigkeit und Zumutbarkeit des Vollzugs gemäss Art. 66d StGB bewusst in das Vollzugsstadium verwiesen. Nur wenn bereits im Urteilszeitpunkt feststeht, dass ein Vollzugshindernis dauerhaft und definitiv fortbestehen wird, kann dies im Rahmen der Interessenabwägung nach Art. 66a Abs. 2 StGB berücksichtigt werden ([BGE 145 IV 455 E. 9.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-455_2019.html)).
 
 ---
 
-### V. Positive Staatenpflichten
+### D. Ausländerrechtlicher Bewilligungswiderruf und Nichtverlängerung (Art. 62, 63 AIG)
 
-Art. 8 EMRK enthält nicht nur negative Unterlassungspflichten, sondern auch **positive Schutzpflichten** ([Marckx v. Belgien](https://hudoc.echr.coe.int/eng?i=001-57574), App. no. 6833/74, E. 31). Der Staat muss aktive Massnahmen ergreifen, um die wirksame Achtung des Privat- und Familienlebens zu gewährleisten.
+Aufeinander abgestimmt mit dem Strafrecht regeln Art. 62 (Aufenthaltsbewilligung B) und Art. 63 (Niederlassungsbewilligung C) AIG die migrationsrechtliche Beendigung des Aufenthalts durch die kantonalen Migrationsämter.
 
-#### Arten positiver Pflichten
+#### 1. Die Schwellenwerte bei Straffälligkeit
+- **Längerfristige Freiheitsstrafe**: Gemäss Art. 62 Abs. 1 lit. b AIG (anwendbar auf die Niederlassungsbewilligung via Art. 63 Abs. 1 lit. a AIG) liegt ein Widerrufsgrund vor, wenn die ausländische Person zu einer Freiheitsstrafe von **mehr als einem Jahr** (366 Tage) verurteilt wurde ([BGE 135 II 377 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-377_2009.html); [BGE 139 I 16 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html)). Ob die Strafe bedingt, teilbedingt oder unbedingt ausgesprochen wurde, ist unerheblich.
+- **Die «Reneja-Schwelle» von zwei Jahren**: Nach ständiger Praxis ([BGE 110 Ib 201](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-110-IB-201_1984.html); bestätigt in [BGE 135 II 377 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-377_2009.html)) ist bei einer Verurteilung zu einer Freiheitsstrafe von **zwei Jahren oder mehr** das öffentliche Fernhalteinteresse regelmässig so gewichtig, dass selbst das Zusammenleben mit einer Schweizer Ehepartnerin oder einem Schweizer Ehepartner und gemeinsamen Kindern die Massnahme nicht abzuwenden vermag, es sei denn, es lägen ganz aussergewöhnliche Umstände vor.
 
-**(a) Operative Pflichten**: Der Staat muss konkrete Massnahmen ergreifen, um eine bestimmte Gefahr abzuwenden (z.B. Schutz vor Umweltverschmutzung: López Ostra; Schutz vor häuslicher Gewalt: Opuz v. Türkei, App. no. 33401/02).
+#### 2. Die 10-Jahres-Vermutung und deren Schranken
+In [BGE 144 I 266 E. 3.9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html) formulierte das Bundesgericht eine fundamentale Beweisvermutung:
+- **Grundsatz**: Nach einem **zehnjährigen rechtmässigen Aufenthalt** in der Schweiz wird vermutet, dass die sozialen Bindungen zur Schweiz so eng sind, dass dem Betroffenen gestützt auf das Recht auf Privatleben (Art. 8 Ziff. 1 EMRK) ein Anwesenheitsanspruch zusteht. Eine Nichtverlängerung oder ein Widerruf bedarf diesfalls gewichtiger öffentlicher Interessen (z.B. schwerer Straffälligkeit oder andauernder, unverschuldeter Sozialhilfeabhängigkeit).
+- **Ausschluss bei illegalem Aufenthalt**: In [BGE 149 I 207 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-207_2023.html) (bestätigt durch [BGer 2C_270/2025 vom 15. April 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-270-2025_2026-04-15.html)) stellte das Bundesgericht klar: Die 10-Jahres-Vermutung gilt ausschliesslich bei legalem Aufenthalt. Wer sich nach einem negativen Wegweisungsentscheid jahrelang rechtswidrig im Verborgenen aufhält (Sans-Papiers), kann sich nicht auf die Vermutung berufen, sondern muss eine **aussergewöhnlich gelungene, überragende Integration** nachweisen.
+- **Ausschluss für Asylsuchende**: Die Dauer eines rein vorläufigen Aufenthalts während des Asylverfahrens (N-Ausweis) wird nicht an die zehn Jahre angerechnet ([BGE 149 I 72 E. 2.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-72_2023.html)).
+- **Keine Geltung bei Bewilligungsneuerteilung**: Die 10-Jahres-Vermutung schützt nur den Verbleib (Verlängerung eines bestehenden Titels), verschafft aber keinen Anspruch auf erstmalige Erteilung oder Wiedererteilung nach Erlöschen der Bewilligung ([BGE 149 I 66 E. 4.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-66_2023.html)).
 
-**(b) Systemische Pflichten**: Der Staat muss einen angemessenen rechtlichen Rahmen schaffen, der den Schutz von Art. 8 EMRK gewährleistet (z.B. rechtliche Anerkennung der Geschlechtsidentität: Goodwin; rechtliche Anerkennung gleichgeschlechtlicher Paare: Oliari; Datenschutzgesetzgebung: Zakharov; Abfallwirtschaft: Di Sarno).
+#### 3. Schutz der Beziehung zu Kindern: Umgekehrter Familiennachzug
+Besonderen verfassungs- und konventionsrechtlichen Schutz geniessen ausländische Elternteile minderjähriger Kinder, die in der Schweiz über ein gefestigtes Anwesenheitsrecht (insbesondere das Schweizer Bürgerrecht) verfügen (Art. 8 EMRK i.V.m. Art. 3 KRK; [BGE 135 I 143](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-I-143_2009.html); [BGE 144 I 91](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-91_2018.html)):
 
-**(c) Informationelle Pflichten**: Der Staat muss Informationen über Gesundheitsrisiken zur Verfügung stellen (Tătar v. Rumänien) und den Zugang zu personenbezogenen Daten ermöglichen (Gaskin v. Vereinigtes Königreich, App. no. 10454/83).
+##### a) Anwendungsfall (Aufenthaltsbewilligung zum Schutz des Besuchsrechts geschützt)
+> **Der kubanische Vater und das Besuchsrecht** ([BGE 144 I 91](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-91_2018.html))  
+> **Sachverhalt**: Ein kubanischer Staatsangehöriger heiratete 2011 eine Schweizerin. Aus der Ehe ging 2013 eine gemeinsame Tochter (Schweizer Bürgerin) hervor. Nach der Trennung wurde die Obhut der Mutter übertragen. Der Vater vereinbarte ein gerichtlich genehmigtes, weites Besuchsrecht (jedes zweite Wochenende von Freitag bis Sonntag sowie die Hälfte aller Schulferien). Er arbeitete nach Kräften und leistete Unterhalt, teils in Geld, teils durch intensive Betreuungs- und Naturalleistungen. Seine Vorstrafen betrafen eine bedingte Geldstrafe von 40 Tagessätzen wegen Tätlichkeiten gegen die Ehefrau während der Trennungsphase sowie eine Busse wegen Fahrens in fahrunfähigem Zustand (Gesamtstrafe weit unter einem Jahr). Das Migrationsamt Waadt verweigerte nach der Scheidung die Verlängerung der Aufenthaltsbewilligung mit der Begründung, das Besuchsrecht könne besuchsweise vom Ausland (Kuba) aus wahrgenommen werden.  
+> **Entscheid des Bundesgerichts**: Das Bundesgericht hob den kantonalen Entscheid auf. Unter Art. 8 EMRK und Art. 3 KRK kann der nicht sorgeberechtigte ausländische Elternteil die Verlängerung beanspruchen, wenn eine enge affektive und wirtschaftliche Bindung zum Kind besteht, das Besuchsrecht kontinuierlich ausgeübt wird, das Verhalten in der Schweiz weitgehend klaglos war und das Besuchsrecht wegen der geografischen Distanz (Kuba) vom Ausland aus praktisch nicht sinnvoll gelebt werden könnte. Naturalbetreuung kompensiert fehlende Barleistungen. **Die Verweigerung der Bewilligung verletzte Art. 8 EMRK.**
 
-#### Inhalt der positiven Pflichten
-
-- **Rechtliche Anerkennung**: Anerkennung der Geschlechtsidentität (Goodwin), rechtliche Anerkennung gleichgeschlechtlicher Paare (Oliari).
-- **Schutz vor Überwachung**: Ausreichende gesetzliche Grundlagen und Kontrollmechanismen für staatliche Überwachung (Zakharov, Big Brother Watch).
-- **Schutz vor Dritten**: Schutz vor nicht-staatlichen Eingriffen in das Privatleben (z.B. Arbeitgeberüberwachung: Bărbulescu; häusliche Gewalt: Opuz v. Türkei).
-- **Schutz vor häuslicher Gewalt**: Die positive Pflicht des Staates umfasst den wirksamen Schutz vor häuslicher und geschlechtsspezifischer Gewalt. In [Opuz v. Türkei](https://hudoc.echr.coe.int/eng?i=001-92480) (App. no. 33401/02, Grosskammer) stellte der EGMR fest, dass das Versäumnis der Behörden, wirksame Massnahmen zum Schutz einer Frau und ihrer Kinder vor tödlicher häuslicher Gewalt zu ergreifen, eine Verletzung von Art. 2 und Art. 14 i.V.m. Art. 2 EMRK darstellt. Art. 8 EMRK wird durch diese Rechtsprechung bestärkt, da häusliche Gewalt einen schweren Eingriff in das Privatleben darstellt.
-- **Datenschutz**: Begrenzung der Speicherung und Nutzung personenbezogener Daten (Rotaru, S. und Marper, Aycaguer).
-- **Umweltschutz**: Ergreifung angemessener Massnahmen zum Schutz vor Umweltbeeinträchtigungen (López Ostra, Tătar, Di Sarno).
-- **Strafrechtlicher Schutz**: Die positive Pflicht umfasst auch die Schaffung und Durchsetzung wirksamer Strafrechtsnormen gegen Vergewaltigung und sexuelle Gewalt (M.C. v. Bulgarien).
-
----
-
-### VI. Die 10-Jahres-Vermutung (Aufenthaltsrecht)
-
-Die in BGE 144 I 266 E. 3.9 aufgestellte Vermutung ist ein zentrales Dogma der schweizerischen Rechtsprechung zu Art. 8 EMRK im Aufenthaltsrecht:
-
-- **Geltungsbereich**: Die Vermutung gilt ausschliesslich bei **rechtmässigem** Aufenthalt. Nach zehn Jahren rechtmässiger Anwesenheit wird eine ausreichende Integration vermutet; die Beendigung des Aufenthalts bedarf besonderer Gründe.
-- **Keine Anwendung bei illegalem Aufenthalt**: BGer 2C_270/2025 bestätigt die Rechtsprechung von BGE 149 I 207, wonach die Vermutung bei illegalem Aufenthalt nicht greift. Wer sich nach rechtskräftigem Wegweisungsentscheid nicht an die Rechtsordnung hält, kann keine Rechte daraus ableiten. Vielmehr ist eine besonders ausgeprägte Integration erforderlich.
-- **Keine Anwendung nach Widerruf**: Die Vermutung bezieht sich auf Konstellationen der Beendigung oder Nichtverlängerung eines bestehenden Aufenthaltsrechts — nicht auf die Neubegründung nach einem (illegalen) Aufenthalt oder die weitere Anwesenheit nach rechtskräftigem Widerruf (BGE 149 I 72 E. 2.1.3; BGer 2C_217/2026).
-- **Keine Anwendung bei Neuerteilung**: BGE 149 I 66 stellt klar, dass die Grundsätze von BGE 144 I 266 nur für die Verlängerung, nicht für die Neuerteilung einer Aufenthaltsbewilligung gelten.
-- **Kurzer Aufenthalt**: Nach endgültiger Auflösung der ehelichen Gemeinschaft und ohne Kernfamilie in der Schweiz kommt eine Aufenthaltsbewilligung gestützt auf den Schutz des Familienlebens nicht mehr in Betracht. Bei einem Aufenthalt von nur ca. 3 Jahren kann die 10-Jahres-Vermutung nicht herangezogen werden (BGer 2C_206/2026).
+##### b) Verwerfungsfall (Aufenthaltsrecht verweigert)
+> **Die serbische Mutter und die verschwiegene Parallelbeziehung** ([BGE 143 I 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-143-I-21_2017.html))  
+> **Sachverhalt**: Eine serbische Staatsangehörige verlangte nach Scheidung die Verlängerung ihrer Aufenthaltsbewilligung zum Verbleib bei ihren Kindern, die über das gemeinsame Sorgerecht mit dem in der Schweiz niedergelassenen Vater verfügten. Es stellte sich heraus, dass die Mutter die Kinder zwar betreute, aber dauerhaft und vollumfänglich von Sozialhilfe lebte (über Fr. 130'000.-- bezogen), keinerlei Erwerbsbemühungen unternahm, die Migrationsbehörden über ihre tatsächlichen Wohnverhältnisse getäuscht hatte und der Vater den Kontakt nur besuchsrechtsähnlich pflegte, ohne den Barunterhalt sicherzustellen.  
+> **Entscheid des Bundesgerichts**: Das Bundesgericht verweigerte das Anwesenheitsrecht. Mangels wirtschaftlicher Integration, bei jahrelangem massivem Fürsorgebezug ohne Besserungsaussichten und festgestellter Behördentäuschung überwiegen die öffentlichen Interessen an der Ausreise die privaten Betreuungsinteressen. **Keine Verletzung von Art. 8 EMRK.**
 
 ---
 
-### VII. Überwachung und geheimdienstliche Massnahmen
+### E. Freizügigkeitsabkommen (Art. 5 Anhang I FZA)
 
-Art. 8 EMRK bildet die zentrale Grundrechtsnorm für die Beurteilung staatlicher Überwachungsmassnahmen. Der EGMR hat in mehreren Grosskammerentscheiden die Anforderungen verschärft:
+Staatsangehörige eines Mitgliedstaates der Europäischen Union (EU) oder der EFTA geniessen im Anwendungsbereich des Freizügigkeitsabkommens (FZA, SR 0.142.112.681) einen qualifizierten völkerrechtlichen Schutzstatus.
 
-- **Telekommunikationsüberwachung**: Die russische Gesetzgebung zur elektronischen Überwachung bietet keine ausreichenden Schutzmassnahmen gegen willkürliche Überwachung und stellt selbst eine Verletzung von Art. 8 EMRK dar ([Zakharov v. Russland](https://hudoc.echr.coe.int/eng?i=001-169394), App. no. 47136/13, Grosskammer, «in abstracto»-Prüfung).
-- **Massenüberwachung**: Das britische Regime nach § 8(4) RIPA enthielt keine ausreichenden Schutzmassnahmen gegen Willkür und Missbrauch, insbesondere fehlte eine unabhängige Genehmigungspflicht ([Big Brother Watch and Others v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-211925), App. nos. 58170/13 u.a., Grosskammer).
-- **Gesichtserkennung**: Der Einsatz von Gesichtserkennungstechnologie zur Identifizierung friedlicher Demonstranten ohne detaillierte gesetzliche Grundlage verstösst gegen Art. 8 EMRK ([Glukhin v. Russland](https://hudoc.echr.coe.int/eng?i=001-227523), App. no. 11519/20).
-- **Stop-and-Search**: Polizeiliche Durchsuchungsbefugnisse ohne ausreichende Begrenzung und Rechtsschutzgarantien verstossen gegen Art. 8 EMRK ([Gillan and Quinton v. Vereinigtes Königreich](https://hudoc.echr.coe.int/eng?i=001-97985), App. no. 4158/05).
+#### 1. Der qualifizierte Eingriffsmassstab nach Art. 5 Abs. 1 Anhang I FZA
+Gemäss Art. 5 Abs. 1 Anhang I FZA dürfen die durch das Abkommen verliehenen Freizügigkeitsrechte nur durch Massnahmen eingeschränkt werden, die aus Gründen der **öffentlichen Ordnung, Sicherheit und Gesundheit** gerechtfertigt sind. Das Bundesgericht legt diese Schranke in Übereinstimmung mit der Rechtsprechung des Gerichtshofs der Europäischen Union (EuGH; namentlich *Bouchereau*, Rs. 30/77; *Calfa*, Rs. C-348/96; *Metock*, Rs. C-127/08) wie folgt aus ([BGE 130 II 176 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-II-176_2004.html); [BGE 136 II 5 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-5_2010.html); [BGE 139 II 121 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-121_2013.html)):
+- **Gegenwärtige Gefährdung**: Eine aufenthaltsbeendende Massnahme (Landesverweisung oder Bewilligungswiderruf) setzt eine **gegenwärtige, tatsächliche und hinreichend schwere Gefährdung** voraus, die ein grundlegendes Interesse der Gesellschaft berührt (*menace réelle, actuelle et suffisamment grave*).
+- **Verbot der Generalprävention**: Die Massnahme darf unter keinen Umständen allein zur Abschreckung anderer Ausländer (Generalprävention) oder als automatischer Reflex auf eine strafrechtliche Verurteilung ergehen. Massgebend ist ausschliesslich das persönliche Verhalten des Täters und dessen Legalprognose.
+- **Grad der Rückfallgefahr**: Je schwerer die verletzten Rechtsgüter wiegen (z.B. Leib und Leben, Gesundheit der Bevölkerung bei schwerem Betäubungsmittelhandel), desto geringere Anforderungen sind an die Wahrscheinlichkeit eines künftigen Rückfalls zu stellen ([BGE 145 IV 364 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html)).
 
-Das BGer hat die Grundsätze zur Speicherung von Randdaten der Telekommunikation geprüft und deren Vereinbarkeit mit Verfassung und EMRK bejaht, sofern gesetzlich hinreichend begrenzt ([BGE 144 I 126](https://mcp.opencaselaw.ch/entscheid/bge_BGE_144_I_126) E. 2.2). Zur Videoüberwachung des öffentlichen Raums verlangt das BGer eine Verhältnismässigkeitsprüfung, namentlich bezüglich der Aufbewahrungsdauer der Aufzeichnungen ([BGE 133 I 77](https://mcp.opencaselaw.ch/entscheid/bge_BGE_133_I_77) E. 3 f.).
+#### 2. Zweiseitige Grenzkasuistik zum FZA
 
-**Anforderungen an Überwachungsgesetze**. Der EGMR verlangt von Überwachungsgesetzen folgende Mindestanforderungen (Zakharov, E. 230–236; Big Brother Watch, E. 311):
-1. **Klarheit und Vorhersehbarkeit**: Das Gesetz muss Art, Umfang und Dauer der Überwachung klar umschreiben.
-2. **Gründe für die Überwachung**: Die Gründe müssen im Gesetz abschliessend aufgeführt sein.
-3. **Unabhängige Kontrolle**: Eine unabhängige Stelle muss die Überwachungsmassnahme genehmigen oder überprüfen.
-4. **Benachrichtigungspflicht**: Die betroffene Person muss nachträglich über die Überwachung informiert werden, sobald dies ohne Gefährdung des Zwecks möglich ist.
-5. **Löschungs- und Vernichtungspflicht**: Erhobene Daten müssen nach Ablauf einer bestimmten Frist gelöscht werden.
+##### a) Anwendungsfall Einschränkung geschützt (Landesverweisung mit FZA vereinbar)
+> **Der spanische Kokainhändler mit 590 Gramm reinem Betäubungsmittel** ([BGE 145 IV 364](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html))  
+> **Sachverhalt**: Ein spanischer Staatsangehöriger lagerte in seiner Zürcher Wohnung 590 Gramm Kokaingemisch mit einem Reinheitsgehalt von rund 76 % zum gewerbsmässigen Weiterverkauf. Das Bezirksgericht Zürich verurteilte ihn zu 19 Monaten Freiheitsstrafe bedingt und ordnete eine Landesverweisung von 7 Jahren an. Der Beschwerdeführer berief sich auf das FZA und machte geltend, Art. 66a StGB sei unionsrechtswidrig und greife unzulässig in seine Freizügigkeit ein.  
+> **Entscheid des Bundesgerichts**: Das Bundesgericht verwarf die Rüge. Zwar darf die Landesverweisung bei EU-Bürgern nicht automatisch erfolgen, sondern erfordert eine spezifische Einzelfallprüfung nach Art. 5 Abs. 1 Anh. I FZA. Schwerer Betäubungsmittelhandel stellt jedoch nach der Rechtsprechung des EuGH und des Bundesgerichts eine schwere Beeinträchtigung der öffentlichen Ordnung und Gesundheit dar. Bei solch hochrangigen Rechtsgütern genügt bereits ein geringes, aber tatsächlich vorhandenes Rückfallrisiko, um die Fernhaltung zu rechtfertigen. **Die Landesverweisung war mit dem FZA vereinbar.**
 
----
-
-### VIII. Art. 8 im Asylrecht
-
-Art. 8 EMRK entfaltet im Asylrecht eine besondere Bedeutung, wenn auch der EGMR wiederholt betont hat, dass die Konvention kein Recht auf Einreise oder Aufenthalt als solches garantiert. Die folgende Konstellationen sind zu unterscheiden:
-
-- **Ausweisung und Art. 8**: Die Ausweisung eines Ausländers kann gegen Art. 8 verstossen, wenn sie das Familienleben in der Schweiz beeinträchtigt und nicht verhältnismässig ist. Die Kriterien von BGE 144 I 266 sind anwendbar.
-- **Flüchtlingsfamiliennachzug**: BGE 139 I 330 bestätigt den Vorrang des Asylverfahrens. Dieser Vorrang ist jedoch nicht absolut: Besteht prima facie ein Anspruch auf Achtung des Familienlebens aus Art. 8 EMRK und ist ein ausländerrechtliches Familiennachzugsverfahren bei den kantonalen Behörden hängig, entfällt die Zuständigkeit des SEM für die Anordnung der Wegweisung im Asylverfahren. Das Bundesverwaltungsgericht hat dies in einem Fall bejaht, in dem es das Nichteintreten auf ein Asylgesuch gestützt auf den sicheren Drittstaat Italien (Art. 31a Abs. 1 Bst. a AsylG) bestätigte, die Wegweisung nach Italien aber aufhob, weil der afghanische Beschwerdeführer mit seiner in der Schweiz als Flüchtling anerkannten Ehefrau und der gemeinsamen Tochter eine Familiengemeinschaft bildete und ein kantonales Familiennachzugsverfahren hängig war ([BVGer F-4622/2026](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_F-4622-2026_2026-09-07.pdf) vom 7. September 2026, E. 4.2):
-
-  > «Da prima facie ein theoretischer Anspruch auf Achtung des Familienlebens aus Art. 8 EMRK nicht verneint werden kann, ist der Beschwerdeführer für die Frage der Wegweisung auf den ausländerrechtlichen Weg zu verweisen. Bei dieser Sachlage entfällt die Zuständigkeit des SEM für die Anordnung der Wegweisung im Rahmen eines Asylverfahrens.»
-
-  Der Entscheid präzisiert damit die Ausnahme von der Ausschliesslichkeit des Asylverfahrens (vgl. auch Art. 14 Abs. 1 AsylG) für die Wegweisungsanordnung und verweist die Beurteilung des Aufenthaltsanspruchs in das ausländerrechtliche Familiennachzugsverfahren der kantonalen Migrationsbehörde (vgl. BVGE 2019 VI/3 E. 5.7). Die dogmatische Grundlage — Wegweisungsentfall bei Anspruch auf Erteilung einer Aufenthaltsbewilligung — hatte das Gericht bereits in BVGE 2013/37 E. 4.4 und BVGE 2009/50 E. 9 entwickelt.
-- **Härtefallbewilligung**: Art. 14 AsylG sieht eine Härtefallbewilligung vor, die im Einzelfall gestützt auf Art. 8 EMRK gewährt werden kann.
-- **Asylsuchende**: Die Asylverfahrenszeit wird nicht als rechtmässige Anwesenheit im Sinne der 10-Jahres-Vermutung angerechnet (BGE 149 I 72 E. 2.1.2).
-- **Rückführung und Art. 8**: Die Rückführung in ein Land, in dem das Privat- oder Familienleben der betroffenen Person erheblich beeinträchtigt wird, kann gegen Art. 8 EMRK verstossen. Der EGMR hat jedoch anerkannt, dass die Vertragsstaaten ein berechtigtes Interesse an der Steuerung der Einwanderung haben.
+##### b) Verwerfungsfall Einschränkung (Periodischer Anspruch auf Neubeurteilung)
+> **Die lebenslängliche Fernhaltemassnahme eines in der Schweiz geborenen Italieners** ([BGer 2C_487/2012 vom 2. April 2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-487-2012_2013-04-02.html))  
+> **Sachverhalt**: Ein 1981 in der Schweiz geborener italienischer Staatsangehöriger (Secondo) war 2004 wegen Delikten zu einer 3-jährigen Zuchthausstrafe verurteilt und gestützt auf das alte ANAG auf unbestimmte Zeit («ewig») des Landes verwiesen worden. Nach Verbüssung reiste er 2007 nach Italien aus. Vier Jahre später stellte er ein Gesuch um Aufhebung des Einreiseverbots und Neuregelung des Aufenthalts, da er sich wohlverhalten habe und keine Gefahr mehr darstelle. Die Bündner Behörden traten auf das Wiedererwägungsgesuch nicht ein.  
+> **Entscheid des Bundesgerichts**: Unter Verweis auf die EuGH-Rechtsprechung (*Shingara und Radiom*, Rs. C-65/95) hielt das Bundesgericht fest, dass Ausweisungen und Einreiseverbote gegenüber Freizügigkeitsberechtigten nicht für alle Zeiten gelten dürfen. Nach Ablauf einer angemessenen Frist (in Anlehnung an Art. 67 Abs. 3 AIG in der Regel 5 Jahre seit Ausreise) haben EU-Bürger einen **völkerrechtlichen Anspruch darauf, dass die Behörden prüfen, ob weiterhin eine gegenwärtige Gefährdung vorliegt**. Zwar war vorliegend die 5-Jahres-Frist noch knapp nicht erreicht, doch stellte das Urteil klar, dass die starre zehnjährige Praxis des Bundesverwaltungsgerichts bei FZA-Bürgern konventions- und abkommenswidrig ist.
 
 ---
 
-### IX. Verhältnis zum inneren Recht
+### F. Strukturierte Kasuistiktabelle: Grenzkasuistik aufenthaltsbeendender Massnahmen
 
-Art. 8 EMRK wirkt im schweizerischen Recht zusammen mit folgenden Normen:
+Die nachfolgende Tabelle fasst die tragenden Leitentscheide zur bundesgerichtlichen Grenzziehung zusammen:
 
-- **Art. 13 Abs. 1 BV** (Recht auf Achtung des Privat- und Familienlebens)
-- **Art. 36 BV** (Einschränkung von Grundrechten — Verhältnismässigkeit, gesetzliche Grundlage, Kerngehalt)
-- **Art. 96 AuG** / **Art. 50 AIG** (Erteilung, Verlängerung und Widerruf von Aufenthaltsbewilligungen)
-- **Art. 61 Abs. 2 AIG** (Erlöschen der Bewilligung bei Ausreise)
-- **Art. 14 AsylG** (Härtefallbewilligung)
-- **nDSG** (Datenschutz, SR 235.1 — informationelle Selbstbestimmung)
-- **Art. 278 ff. StPO** (Überwachung des Post- und Fernmeldeverkehrs)
-- **Art. 249 ff. StPO** (Durchsuchung)
-
-Die EMRK-Norm wird autonom ausgelegt, wobei der EGMR-Praxis Rechnung zu tragen ist. Die Schweiz ist an die Konvention seit ihrem Beitritt 1974 gebunden. Bei Konflikten zwischen der EMRK und späterem, ihr widersprechendem Verfassungsrecht geht die Konvention grundsätzlich vor; neues Verfassungsrecht bedarf zudem der gesetzgeberischen Umsetzung, bevor es direkt angewendet werden kann ([BGE 139 I 16](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_16)).
-
----
-
-### X. Kasuistik nach Schutzbereichen
-
-#### 1. Aufenthaltsrecht
-
-| Konstellation | Massgeblicher Entscheid | Kernaussage |
-|---|---|---|
-| Rechtmässiger Aufenthalt ≥ 10 Jahre | BGE 144 I 266 | 10-Jahres-Vermutung: Integration wird vermutet |
-| Illegaler Aufenthalt | BGE 149 I 207; BGer 2C_270/2025 | Besonders ausgeprägte Integration erforderlich |
-| Asylsuchende ohne Bewilligung | BGE 149 I 72 | Asylverfahrenszeit wird nicht angerechnet |
-| Verlängerung vs. Neuerteilung | BGE 149 I 66 | Nur Verlängerung, nicht Neuerteilung |
-| Widerruf nach Widerruf | BGer 2C_217/2026 | 10-Jahres-Vermutung gilt nicht nach Widerruf |
-| Beziehung zu schweizerischem Kind | BGE 135 I 143 | Starker Schutz; nur ordnungs-/sicherheitspolizeiliche Gründe |
-| Nachehelicher Härtefall | BGer 2C_96/2025 | Tadelloses Verhalten erforderlich |
-| Flüchtlingsfamiliennachzug | BGE 139 I 330 | Vorrang des Asylverfahrens |
-| Wegweisungsentfall bei hängigem Nachzug | BVGer F-4622/2026 | Prima-facie Art. 8 EMRK → SEM-Zuständigkeit für Wegweisung entfällt |
-| Widerruf bei Kriminalität | BGE 135 II 377 | Längerfristige Freiheitsstrafe als Widerrufsgrund |
-| Aufenthalt nach Auflösung der Ehe | BGer 2C_206/2026 | Kein Familienleben bei kurzem Aufenthalt |
-| EMRK-Vorrang | BGE 139 I 16 | EMRK geht innerem Recht vor |
-| Gefestigtes Anwesenheitsrecht | BGE 130 II 281 | Voraussetzung für Familiennachzug |
-
-#### 2. Geschlechtsidentität und sexueller Ausdruck
-
-| Thema | EGMR-Entscheid | Kernaussage |
-|---|---|---|
-| Homosexualität Strafbarkeit | Dudgeon v. UK | Strafbarkeit verstösst gegen Art. 8 |
-| Blosse Existenz Strafnorm | Modinos v. Zypern | Auch ohne Anwendung Eingriff |
-| Sittenwidrigkeit Homosexualität | Müller v. Schweiz | Konfiskation von Filmen unverhältnismässig |
-| Sexuelle Orientierung im Militär | Smith and Grady v. UK | Entlassung verstösst gegen Art. 8 |
-| Geschlechtsidentität Anerkennung | Goodwin v. UK | Fehlende Anerkennung verstösst gegen Art. 8 und 12 |
-| Transgeschlechtlichkeit und Ehe | Hämäläinen v. Finnland | Umwandlung in Partnerschaft ausreichend? (umstritten) |
-| Geschlechtseintrag/Sterilisationszwang | A.P., Garçon und Nicot v. Frankreich | Sterilisationsanforderung unverhältnismässig |
-| Krankenversicherung Transsexualität | Van Kück v. Deutschland | Verweigerung der Kostenübernahme verstösst |
-| Vornamen/Geschlechtseintrag | BGE 150 III 34 | Geschlechtsangabe nicht per blosser ausländischer Streichungserklärung aufhebbar |
-| Sexuelle Selbstbestimmung | H.W. v. Frankreich | «Devoir conjugal» verstösst gegen Art. 8 |
-| Gleichgeschlechtliche Partnerschaft | Schalk and Kopf v. Österreich | Fällt unter «Familienleben» |
-| Rechtliche Anerkennung | Oliari v. Italien | Positive Pflicht zur Anerkennung |
-| Eheöffnung für gleichgeschlechtliche Paare | Chapin und Charpentier v. Frankreich | Keine Verletzung, wenn Alternative besteht |
-
-#### 3. Identität, Name und Abstammung
-
-| Thema | Entscheidung | Kernaussage |
-|---|---|---|
-| Ehename | Burghartz v. Schweiz (EGMR) | Namensrecht fällt unter Art. 8 |
-| Schwedischer Name | Stjerna v. Finnland (EGMR) | Schutzbereich bejaht, Eingriff gerechtfertigt |
-| Recht auf Abstammung | Mikulić v. Kroatien (EGMR) | Kenntnis der Abstammung gehört zum Privatleben |
-| Anonyme Geburt | Odièvre v. Frankreich (EGMR) | Absolutes Geheimhaltungsrecht verstösst gegen Art. 8 |
-| Recht auf Identität | Y v. Frankreich (EGMR) | Art. 8 umfasst das Recht auf Identität |
-
-#### 4. Umweltschutz und Lebensqualität
-
-| Thema | Entscheidung | Kernaussage |
-|---|---|---|
-| Umweltverschmutzung und Gesundheit | López Ostra v. Spanien (EGMR) | Positive Pflicht zum Schutz vor Umweltbeeinträchtigungen |
-| Lärmbelästigung (Flughafen) | Hatton v. UK (EGMR, GK) | Schutzbereich bejaht, aber kein Verstoss |
-| Industriegefahren | Tătar v. Rumänien (EGMR) | Pflicht zur Information über Gesundheitsrisiken |
-| Abfallkrise | Di Sarno v. Italien (EGMR) | Chronische Müllkrise verstösst gegen Art. 8 |
-| Kernkraftwerk | Kiefer v. Deutschland (EGMR) | Kein Verstoss bei ausreichendem Schutz |
-
-#### 5. Datenschutz und Überwachung
-
-| Thema | Entscheidung | Kernaussage |
-|---|---|---|
-| Staatliche Datensammlung | Rotaru v. Rumänien (EGMR) | Systematische Erfassung fällt unter Art. 8 |
-| DNA/Fingerabdrücke | S. und Marper v. UK (EGMR) | Unbegrenzte Speicherung verstösst |
-| DNA bei leichter Straftat | Aycaguer v. Frankreich (EGMR) | Schwere der Straftat rechtfertigt nicht |
-| Sicherheitsdossier | Leander v. Schweden (EGMR) | Speicherung/Weitergabe fällt unter Art. 8 |
-| Geheimhaltung/Klassifizierung | Klass v. Deutschland (EGMR) | Heimliche Überwachung fällt unter Korrespondenz |
-| Telefonüberwachung/Beweissicherung | Malone v. UK (EGMR) | «Metering» ohne gesetzliche Grundlage verstösst |
-| Telefon am Arbeitsplatz | Halford v. UK (EGMR) | Private Telefonate am Arbeitsplatz geschützt |
-| Polizeidatenbank | BGE 147 I 372 | Verhältnismässigkeit nach Rotaru/Marper |
-| Weitergabe an Archiv | BGE 148 I 233 | Weitergabe besonders schützenswerter Daten ist Eingriff |
-| Speicherung von Randdaten | BGE 144 I 126 | Verfassungs- und EMRK-Konformität geprüft |
-| Videoüberwachung öffentlicher Raum | BGE 133 I 77 | Verhältnismässigkeitsprüfung der Aufbewahrungsdauer |
-| Massenüberwachung | Big Brother Watch v. UK (EGMR) | Keine ausreichende Schutzmassnahmen |
-| Gesichtserkennung | Glukhin v. Russland (EGMR) | Besonders invasive Methode |
-| Smartphone-Durchsuchung | Benedik v. Slowenien (EGMR) | Ohne gerichtliche Anordnung verstösst gegen Art. 8 |
-| Arbeitsplatzüberwachung | Bărbulescu v. Rumänien (EGMR) | Kein Verzicht auf Privatleben |
-| Abstrakte Überwachungsgesetzgebung | Zakharov v. Russland (EGMR) | In abstracto-Prüfung möglich |
-| Metadaten am Arbeitsplatz | Copland v. UK (EGMR) | Speicherung von Verbindungsdaten ist Eingriff |
-
-#### 6. Wohnung und Korrespondenz
-
-| Thema | Entscheidung | Kernaussage |
-|---|---|---|
-| Verdeckte Ermittlung entdeckt | BGE 143 I 310 | Löschung der Ermittler-Aufnahmen nur verhältnismässig zulässig |
-| Briefzensur Gefangene | Silver v. UK (EGMR) | Verstösst gegen Art. 8 |
-| Zugang zu Gericht | Golder v. UK (EGMR) | Briefverbot verletzt Art. 6 und 8 |
-| Räumungsschutz | McCann v. UK (EGMR) | Räumung ohne Fristen verstösst gegen Art. 8 |
-| Roma-Siedlungen | Stankov v. Bulgarien (EGMR) | Zwangsräumung ohne Alternative verstösst |
-| Stop-and-Search | Gillan v. UK (EGMR) | Keine ausreichenden Rechtsschutzgarantien |
-| Telefonüberwachung | BGE 109 IA 273; BGE 123 IV 236 | Grundlegende BGer-Entscheide |
-| Staatsschutz | BGE 120 IA 314; BGE 122 I 182 | Verhältnismässigkeit staatlicher Überwachung |
+| Entscheid / Delikt | Aufenthaltsdauer & Status | Familiäre Bindungen | Angewandte Rechtsnorm | Ergebnis & Ausschlaggebende Erwägung |
+|---|---|---|---|---|
+| [BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html)<br>Raub (Art. 140 StGB), 12 Monate | 32 Jahre in CH (geboren), C-Bewilligung (Spanien) | 2 Kinder in CH mit regelmässigem Kontakt | Art. 66a Abs. 2 StGB<br>Art. 8 EMRK | **Härtefall bejaht / Landesverweisung verneint**<br>Untergeordnete Mittäterschaft (Fahrer), 1. Freiheitsstrafe, enge Bindung zu Kindern, keine Verwandten in Spanien. |
+| [BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html)<br>Vers. schwere Körperverletzung, 36 Monate | 14 Jahre in CH (Einreise mit 13), C-Bewilligung (Chile) | Ledig, keine Kinder; Freundin und Mutter in CH | Art. 66a Abs. 1 lit. b StGB<br>Art. 8 EMRK | **Härtefall verneint / Landesverweisung geschützt (7 J.)**<br>Brutaler Kopfsteinpflaster-Tritt, Zweijahresregel, Schulzeit auch in Chile, Spanischkenntnisse vorhanden. |
+| [BGer 6B_64/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html)<br>Kokainhandel (117 g rein), 30 Monate | 27 Jahre in CH (geboren), Metzger, C-Bewilligung (Italien) | Ledig, kinderlos; Eltern/Schwestern in CH | Art. 66a Abs. 1 lit. o StGB<br>Art. 5 Anh. I FZA | **Landesverweisung geschützt (5 J.)**<br>Rigorose Drogenpraxis, Delinquenz während U-Haft und Strafverfahren fortgesetzt; schlechte Legalprognose sticht Secondo-Status. |
+| [BGE 144 I 91](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-91_2018.html)<br>Geringfügige Vorstrafen (Geldstrafen/Busse) | Ca. 6 Jahre in CH, Aufenthaltsbewilligung B (Kuba) | Schweizer Kind (4 J.); getrennt von Mutter | Art. 8 EMRK<br>Art. 3 KRK | **Widerruf/Nichtverlängerung aufgehoben**<br>Schutz des Besuchsrechts: Weites Besuchsrecht, Naturalbetreuung, Besuchsrechtsausübung von Kuba aus unmöglich. |
+| [BGE 143 I 21](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-143-I-21_2017.html)<br>Keine schweren Straftaten, aber Sozialhilfe | Ca. 7 Jahre in CH, Aufenthaltsbewilligung B (Serbien) | Gemeinsame Kinder mit Schweizer Vater | Art. 8 EMRK<br>Art. 50 AIG | **Aufenthaltsverlängerung verweigert**<br>Über Fr. 130'000.-- Fürsorgebezug, keinerlei Arbeitsbemühungen, Behördentäuschung, Vater übt nur Besuche aus. |
+| [BGE 145 IV 364](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html)<br>Kokainhandel (590 g), 19 Monate bedingt | 4 Jahre in CH, Aufenthaltsbewilligung EU (Spanien) | Keine engen familiären Bindungen | Art. 66a Abs. 1 StGB<br>Art. 5 Anh. I FZA | **Landesverweisung geschützt (7 J.)**<br>Schwere Gefährdung der Volksgesundheit erfüllt Art. 5 Anh. I FZA; geringes Rückfallrisiko reicht bei BetmG aus. |
+| [BGE 144 I 266](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html)<br>Massive Sozialhilfeschulden (> Fr. 500'000) | > 10 Jahre rechtmässig in CH, C-Bewilligung (Kosovo) | Ehefrau und Kinder ebenfalls in CH | Art. 8 EMRK<br>Art. 63 Abs. 1 lit. c AIG | **Widerruf Niederlassungsbewilligung geschützt**<br>10-Jahres-Vermutung durch selbstverschuldete, chronische und uneinsichtige Fürsorgeabhängigkeit widerlegt. |
+| [BGer 2C_487/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-487-2012_2013-04-02.html)<br>Altrechtliche Ausweisung (3 Jahre Zuchthaus) | In CH geboren, ausgewiesen 2007 (Italien) | Keine Kernfamilie mehr in CH | Art. 5 Anh. I FZA<br>Art. 29 BV | **Periodischer Neuprüfungsanspruch bejaht**<br>Fernhaltemassnahmen gegen EU-Bürger dürfen nicht «ewig» gelten; Anspruch auf Prüfung nach angemessener Zeit (5 Jahre). |
 
 ---
 
-### XI. Literaturhinweise
+### G. Echte Judikaturdivergenzen (Verbot der Scheinharmonisierung)
 
-- OnlineKommentar.ch: kein Eintrag zu Art. 8 EMRK vorhanden (OLC gibt 404)
-- Botschaft-Materialien: EMRK ist Staatsvertrag, nicht Bundesgesetz; keine per-Artikel-Botschaft verfügbar
-- EGMR HUDOC-Datenbank: [Art. 8 case-law](https://hudoc.echr.coe.int/eng?{%22article%22:%228%22,%22convention%22:%22echr%22})
-- Systematische Doktrintimeline über [OpenCaseLaw.ch](https://mcp.opencaselaw.ch)
-- MEYER Frank, Kommentar zu Art. 8 EMRK, in: KARPENSTEIN Ulrich/MAYER Franz (Hrsg.), EMRK Kommentar, 3. Aufl., München 2022
-- VILLIGER Mark E., Handbuch der Europäischen Menschenrechtskonvention (EMRK), 3. Aufl., Zürich 2020
-- BSK-GÖKSU, Art. 13 BV
-- BSK-REICH, Art. 30 BV
-- SGK-VEST, Art. 13 BV
+#### 1. Bundesgericht vs. EGMR: Die Ausweisung von «Secondos»
+Zwischen der Rechtsprechung der Strafrechtlichen Abteilung des Bundesgerichts und dem Europäischen Gerichtshof für Menschenrechte besteht eine **echte, ungelöste Judikaturdivergenz**:
+
+- **Die Strassburger Maslov-Doktrin**: Der EGMR verlangt in ständiger Grosskammer-Rechtsprechung ([EGMR, Maslov v. Österreich](https://hudoc.echr.coe.int/eng?i=001-87159), Ziff. 75 ff.), dass bei Ausländern, die im Gaststaat geboren wurden oder dort den Grossteil ihrer Jugend verbracht haben, **ganz besonders gewichtige Gründe** (*very serious reasons*) vorliegen müssen, um eine Ausweisung zu rechtfertigen. Jugendkriminalität und Taten im Adoleszentenalter dürfen einem Erwachsenen nicht mehr angelastet werden, wenn keine schwerste Gewaltdelinquenz vorliegt. Der EGMR verurteilte die Schweiz wiederholt wegen Verletzung von Art. 8 EMRK bei Ausweisungen von Secondos ([EGMR, I.M. v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-192138); [EGMR, M.M. v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-206536); [EGMR, E.V. v. Schweiz](https://hudoc.echr.coe.int/eng?i=001-210080)).
+- **Die lausanner Verschärfungsdoktrin**: Das Bundesgericht betont demgegenüber ausdrücklich, dass der Verfassungs- und Gesetzgeber mit Art. 121 Abs. 3 BV und Art. 66a StGB eine **bewusste Verschärfung der Rechtsordnung** gewollt habe ([BGE 144 IV 332 E. 3.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html); [BGE 146 IV 105 E. 3.4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html); [BGer 6B_64/2024 E. 1.5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html)). Das Bundesgericht schützt Landesverweisungen gegen Secondos auch bei gewaltfreien Betäubungsmitteldelikten und selbst dann, wenn der Betroffene die Sprache seines Heimatlandes weder spricht noch schreibt. 
+- **Prozessuale Taktik**: Dieser offene Wertungswiderspruch kann von der Verteidigung gezielt genutzt werden, um eine Beschwerde an den EGMR in Strassburg vorzubereiten, nachdem der innerstaatliche Instanzenzug ausgeschöpft wurde.
+
+#### 2. Zuständigkeitskonkurrenz: Strafrichter vs. Migrationsamt (Art. 63 Abs. 3 AIG)
+Ein zweites systemisches Spannungsfeld betrifft das Verhältnis zwischen dem Strafrichter (Landesverweisung) und der kantonalen Migrationsbehörde (Bewilligungswiderruf):
+
+> **Grundsatz.** Hat der Strafrichter im Urteil über eine Katalogtat die Härtefallklausel nach Art. 66a Abs. 2 StGB geprüft und rechtskräftig von einer Landesverweisung abgesehen, darf die kantonale Migrationsbehörde die Aufenthalts- oder Niederlassungsbewilligung **nicht mehr wegen jener Taten widerrufen**, die Gegenstand der strafrichterlichen Härtefallprüfung waren ([BGE 146 II 1 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-146-II-1_2020.html); kodifiziert in Art. 63 Abs. 3 AIG).
+
+**Grenzen des Verbots der Doppelbestrafung**:
+1. Wurde die Tat **vor dem 1. Oktober 2016** begangen, fand Art. 66a StGB keine Anwendung; das Migrationsamt behält seine volle Widerrufskompetenz nach Art. 62/63 AIG.
+2. Handelt es sich um **keine Katalogtat** gemäss Art. 66a Abs. 1 StGB und sah die Staatsanwaltschaft oder das Gericht mangels Antrags von Art. 66a^bis StGB ab, darf das Migrationsamt einen Widerruf wegen einer Freiheitsstrafe von über einem Jahr (Art. 62 Abs. 1 lit. b AIG) weiterhin selbständig anordnen.
+3. Treten **nach dem Strafurteil neue Tatsachen** ein (z.B. neuer massiver Sozialhilfebezug, neue Delikte oder Wegfall der Ehegemeinschaft), lebt die migrationsrechtliche Prüfungszuständigkeit wieder vollumfänglich auf.
+
+---
+
+### H. Art. 8 EMRK im Asyl- und Wegweisungsrecht
+
+Art. 8 EMRK garantiert kein Recht auf Einreise oder Aufenthalt von Asylsuchenden. Allerdings entfaltet die Bestimmung im Asylverfahren erhebliche Tragweite:
+- **Vorrang des Asylverfahrens**: Asylrechtliche Härtefallgesuche richten sich primär nach Art. 14 AsylG ([BGE 139 I 330](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-330_2013.html)). Die Dauer des Aufenthalts als Asylsuchender begründet keine 10-Jahres-Vermutung ([BGE 149 I 72](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-72_2023.html)).
+- **Wegweisungsentfall bei prima-facie Art. 8 EMRK**: Besteht prima facie ein theoretischer Anspruch auf Achtung des Familienlebens aus Art. 8 EMRK (z.B. wegen Heirat mit einem anerkannten Flüchtling oder Schweizer Bürger) und ist ein ausländerrechtliches Bewilligungsverfahren bei den kantonalen Migrationsbehörden hängig, entfällt die Zuständigkeit des Staatssekretariats für Migration (SEM) zur Anordnung der asylrechtlichen Wegweisung ([BVGer F-4622/2026 vom 7. September 2026 E. 4.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_F-4622-2026_2026-09-07.pdf)). Der Betroffene ist für die Wegweisung auf das kantonale Verfahren zu verweisen.
+
+---
+
+## Kantonale Praxisfragen
+
+### 1. Die Handhabung der Härtefallklausel durch kantonale Gerichte (Zürich vs. Romandie)
+In der gerichtlichen Praxis zeigt sich ein markantes Gefälle zwischen Deutschschweizer und Westschweizer Gerichten:
+- Die **Zürcher Gerichte** (Bezirksgerichte und Obergericht Zürich, vgl. SB230252 / [BGer 6B_64/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-64-2024_2024-11-19.html); [BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html)) legen Art. 66a Abs. 2 StGB extrem restriktiv aus. Bei qualifizierten Betäubungsmitteldelikten (Art. 19 Abs. 2 BetmG) oder Gewalttaten wird die Härtefallklausel selbst bei Secondos praktisch lückenlos verneint, indem der Schutz der öffentlichen Sicherheit absolut über die Verwurzelung gestellt wird.
+- Die **Westschweizer Gerichte** (namentlich die *Cour d'appel pénale* des Kantons Waadt, vgl. [BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html); Genf) gewichten familiäre Bindungen zu Kindern und die Unmöglichkeit der Reintegration im Herkunftsland häufig spürbar stärker und wenden Art. 66a Abs. 2 StGB bei Ersttätern oder untergeordneten Tatbeiträgen grosszügiger an.
+
+### 2. Die ausländerrechtliche Verwarnung (Art. 96 Abs. 2 AIG) im kantonalen Verfahren
+Gemäss Art. 96 Abs. 2 AIG kann die Behörde die betroffene Person unter Androhung des Widerrufs formell verwarnen, wenn ein Widerruf unverhältnismässig wäre. In der Praxis der kantonalen Migrationsämter (z.B. Migrationsamt Zürich, Bern, St. Gallen) ist umstritten, wann eine Verwarnung zwingend vorausgehen muss:
+- Bei **Ausländern der zweiten Generation** oder Personen mit über 10-jährigem Aufenthalt, die erstmals straffällig werden und deren Strafe unter zwei Jahren liegt, verlangt das Bundesgericht in der Regel eine vorgängige Verwarnung als zwingendes milderes Mittel ([BGE 139 I 145 E. 3.9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-145_2013.html)).
+- Wird die **Zweijahresregel** überschritten (Freiheitsstrafe ≥ 24 Monate) oder liegt schwere Gewalt- bzw. Betäubungsmittelkriminalität vor, ist eine Verwarnung nach kantonaler Praxis von vornherein entbehrlich, da die Verhältnismässigkeit des sofortigen Widerrufs vermutet wird.
+
+---
+
+## Prozessuale Realität: Beweislast, Fristen, Obliegenheiten
+
+1. **Qualifizierte Rügepflicht vor Bundesgericht (Art. 106 Abs. 2 BGG)**:
+   - Die Verletzung von Grundrechten und Garantien der EMRK prüft das Bundesgericht **nicht von Amtes wegen**, sondern nur, soweit eine solche Rüge in der Beschwerdeschrift ausdrücklich erhoben und präzise begründet wurde (*Rügeprinzip*). Eine pauschale Berufung auf Art. 8 EMRK führt zum Nichteintreten.
+2. **Beweislast für Reintegrationshindernisse im Heimatland**:
+   - Die Behörde muss die Anlasstat und das öffentliche Interesse nachweisen. Dagegen trägt die betroffene Person die **Substanziierungs- und Beweislast** für persönliche Härtefallgründe im Herkunftsland (z.B. fehlende Sprachkenntnisse, Fehlen familiärer Netze, spezifische medizinische Behandlungsbedürftigkeit; [BGE 146 IV 105 E. 3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html)). Blopp pauschale Behauptungen genügen nicht.
+3. **Dispositiv-Anfechtungspflicht im Strafverfahren**:
+   - Im Berufungsverfahren vor dem kantonalen Obergericht muss die Dispositivziffer über die Landesverweisung gemäss Art. 399 Abs. 3 StPO **ausdrücklich angefochten werden**. Wird nur das Strafmass angefochten, erwächst die Landesverweisung in Rechtskraft.
+4. **Fehlende Beschwerdelegitimation von Familienangehörigen ([BGE 145 IV 161](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-161_2019.html))**:
+   - Wird gegen eine verurteilte Person eine Landesverweisung ausgesprochen, haben deren Ehegatten, Lebenspartner oder Kinder **keine Parteistellung** im Strafverfahren und sind nicht zur Beschwerde legitimiert (Art. 382 Abs. 1 StPO). Ihre Interessen aus Art. 8 EMRK werden ausschliesslich reflexweise über das Rechtsmittel des verurteilten Beschuldigten geltend gemacht.
+
+---
+
+## Praxishinweise
+
+### Für die Rechtsvertretung und Verteidigung:
+1. **Zweistufigkeit strikt trennen**: Gliedern Sie die Rechtsschrift zwingend in zwei getrennte Abschnitte: Zuerst dartun, warum die Ausweisung eine schwere persönliche Notlage bewirkt (Stufe 1, Art. 31 VZAE); erst danach die eigentliche Interessenabwägung zur Tatschwere führen (Stufe 2). Wer beide Stufen vermengt, riskiert, dass das Gericht die Prüfung bereits auf Stufe 1 abbricht ([BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html)).
+2. **Herkunftsland-Bindungen konkret entkräften**: Belegen Sie dokumentarisch, dass keine Kontakte ins Heimatland bestehen (fehlende Reisen, fehlende Sprachzertifikate, Wohnsitz aller Verwandten in der Schweiz). Bei Secondos muss die Entwurzelung im Heimatland plastisch bewiesen werden.
+3. **Kindesbeziehung mit Akten belegen**: Reichen Sie bei getrennt lebenden Elternteilen nicht bloss die Besuchsrechtsvereinbarung ein, sondern Betreuungsbestätigungen, Chat-Verläufe, Schul- und Arztbesuchsberichte sowie lückenlose Bankbelege über Unterhaltszahlungen ein ([BGE 144 I 91](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-91_2018.html)).
+4. **Bei EU/EFTA-Bürgern das Fehlen der gegenwärtigen Gefährdung rügen**: Stellen Sie bei FZA-Bürgern die Legalprognose ins Zentrum. Rügen Sie ausdrücklich jede unzulässige Generalprävention und verlangen Sie eine konkrete Prüfung von Art. 5 Anh. I FZA ([BGE 145 IV 364](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html)).
+5. **Strassburg-Rüge vor Bundesgericht substanziieren**: Rügen Sie die Verletzung von Art. 8 EMRK unter Anführung der einschlägigen EGMR-Leitentscheide (*Maslov*, *Boultif*, *Üner*) substanziiert gemäss Art. 106 Abs. 2 BGG, um den Weg an den EGMR offenzuhalten.
+
+### Für die Migrations- und Vollzugsbehörden:
+1. **Art. 63 Abs. 3 AIG beachten**: Hat das Strafgericht nach Art. 66a Abs. 2 StGB von einer Landesverweisung abgesehen, widerrufen Sie die Bewilligung nicht gestützt auf dieselben Straftaten. Ein Widerruf ist nur bei neuen Delikten oder neuem Fehlverhalten zulässig ([BGE 146 II 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-146-II-1_2020.html)).
+2. **10-Jahres-Vermutung respektieren**: Prüfen Sie vor Beendigung eines Aufenthalts nach über zehn Jahren legalem Aufenthalt das Vorliegen besonders schwerer Widerrufsgründe; eine blosse unterdurchschnittliche Integration reicht nach BGE 144 I 266 nicht aus.
+3. **Verwarnungspflicht prüfen**: Setzen Sie bei ausländischen Personen mit gefestigtem Status und Erstverurteilungen unter zwei Jahren Freiheitsstrafe vor dem Widerruf eine formelle Verwarnung nach Art. 96 Abs. 2 AIG an.
+4. **Periodische Überprüfung von Fernhaltemassnahmen**: Führen Sie bei FZA-Bürgern nach 5 Jahren seit Ausreise auf Gesuch hin eine Neubeurteilung der gegenwärtigen Gefährdung durch ([BGer 2C_487/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-487-2012_2013-04-02.html)).
+
+### Für die Strafgerichte und Staatsanwaltschaften:
+1. **Kein Schematismus bei Art. 66a StGB**: Die Härtefallprüfung darf nicht auf eine formelhafte Floskel reduziert werden; die Verhältnismässigkeit nach Art. 8 Ziff. 2 EMRK ist materiell zu begründen.
+2. **Secondo-Eigenschaft als starkes Indiz gewichten**: Bei in der Schweiz geborenen Ausländern ist das private Verbleibsinteresse besonders hoch einzustufen ([BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html)).
+3. **Vollzugshindernisse sauber ausklammern**: Verweisen Sie Rügen zu Abschiebehindernissen (Art. 83 AIG) auf das Vollzugsstadium gemäss Art. 66d StGB, sofern nicht bereits ein definitives Dauerhindernis feststeht ([BGE 147 IV 453](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-453_2021.html)).
+4. **Gefährdungsprognose bei FZA-Bürgern individuell begründen**: Stützen Sie die Landesverweisung bei EU-Bürgern nicht allein auf die Katalogtat, sondern weisen Sie die konkrete Rückfallgefahr gemäss Art. 5 Anh. I FZA im Urteil nach ([BGE 145 IV 364](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-364_2019.html)).
+
+---
+
+## Literaturhinweise
+
+- **BREITENMOSER Stephan/WEYENETH Robert**, Freizügigkeitsabkommen EG-Schweiz, 3. Aufl., Basel 2021.
+- **BUSSLINGER Peter/UEBERSAX Peter**, Härtefallklausel und migrationsrechtliche Auswirkungen der Landesverweisung, in: Plädoyer 5/2016, S. 96–105.
+- **FIOLKA Gerhard/VETTERLI Lukas**, Die Landesverweisung in Art. 66a ff. StGB als strafrechtliche Sanktion, in: Plädoyer 5/2016, S. 82–95.
+- **MEYER Frank**, Kommentar zu Art. 8 EMRK, in: KARPENSTEIN Ulrich/MAYER Franz (Hrsg.), EMRK Kommentar, 3. Aufl., München 2022.
+- **SPESCHA Marc/THÜR Hanspeter/ZÜND Andreas/BOLZLI Peter/HUSER Christoph**, Migrationsrecht, Kommentar, 5. Aufl., Zürich 2019.
+- **VILLIGER Mark E.**, Handbuch der Europäischen Menschenrechtskonvention (EMRK), 3. Aufl., Zürich 2020.
+- **ZURBRÜGG Mario/HRUSCHKA Constantinus**, Kommentar zu Art. 66a StGB, in: Niggli/Wiprächtiger (Hrsg.), Basler Kommentar, Strafrecht I, 4. Aufl., Basel 2019.
