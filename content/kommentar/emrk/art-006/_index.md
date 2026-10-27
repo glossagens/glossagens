@@ -2,11 +2,16 @@
 title: "Art. 6 — Recht auf ein faires Verfahren"
 weight: 6
 date: 2026-05-10
-lastmod: 2026-10-24
-description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit, begründetes Urteil, Dolmetscherbeistand, Replikrecht vor Bundesgericht"
-tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Replikrecht", "begründetes Urteil", "Dolmetscherbeistand"]
+lastmod: 2026-10-27
+description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit, Beweisverwertungsverbote, Replikrecht und kantonale Praxisfragen"
+tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Beweisverwertungsverbote", "Replikrecht", "kantonale Praxisfragen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-27
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Schliessung von Praxis- und Judikaturlücken: Einarbeitung der BGE-Leitentscheide zu Beweisverwertungsverboten (BGE 146 IV 226, 147 IV 9, EGMR Schenk v. Schweiz), Kartellrechtssanktionen (BGE 139 I 72), FINMA-Berufsverboten (BGE 142 II 243), Ausländerrecht/Maaouia-Doktrin (BGE 137 I 128), Strafbefehlsverfahren und Medienöffentlichkeit (BGE 140 IV 82, BGE 152 IV 96), Konfrontationsanspruch (BGE 148 I 295, BGE 131 I 476, BGE 140 IV 172) sowie Aufnahme der kantonalen Praxisfragen (Verwirkung von Ausstandsgründen BGE 140 I 271, Replikrecht und 10-Tage-Wartefrist BGE 138 I 484 / BGer 5D_81/2015, Delegationsbefragungen) und Praxishinweise."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -62,6 +67,8 @@ revisions:
 
 **8a** **Verhältnis zum 7. Zusatzprotokoll** Das 7. Zusatzprotokoll zur EMRK enthält in Art. 2 ein eigenständiges Berufungsrecht in Strafsachen, das über Art. 6 EMRK hinausgeht. Nach der Rechtsprechung des EGMR gewährleistet Art. 6 EMRK zwar ein Recht auf Überprüfung durch ein höheres Gericht, jedoch kein vollständiges Berufungsrecht. Das Berufungsrecht nach Art. 2 1. ZP EMRK VII EMRK verlangt eine umfassende Überprüfung von Tat- und Rechtsfragen. Die Schweiz hat das 7. Zusatzprotokoll 1988 ratifiziert; es ist am 1. November 1989 in Kraft getreten.
 
+**8b** **Schweizerische Auslegungserklärung und das Belilos-Urteil** Bei der Ratifikation der EMRK 1974 formulierte der Bundesrat eine Auslegungserklärung zu Art. 6 Abs. 1 EMRK, wonach die Garantie eines fairen Verfahrens ausschliesslich die letztinstanzliche gerichtliche Kontrolle gewährleisten sollte, ohne eine zwingende richterliche Überprüfung des Sachverhalts vorzuschreiben. Damit sollten kantonale Verfahrensordnungen geschützt werden, die Verwaltungs- und Polizeibehörden die Verhängung von Bussen ohne volle gerichtliche Tatsachenprüfung übertrugen. Der EGMR erklärte diese Auslegungserklärung im wegweisenden Leitentscheid [Belilos v. Schweiz](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_19880429-10328-83_1988-04-29.html) (Nr. 10328/83 vom 29.04.1988) für ungültig: Sie stelle einen materiellen Vorbehalt dar und verletze mangels hinreichender Bestimmtheit und fehlendem Gesetzesverzeichnis Art. 64 (heute Art. 57) EMRK. Zugleich hielt der Gerichtshof fest, dass die Schweiz trotz der Ungültigkeit des Vorbehalts an die Konvention gebunden bleibt. Das Urteil zwang Bund und Kantone zu grundlegenden Justizreformen (Ersetzung kommunaler und kantonaler Bussenkommissionen durch unabhängige richterliche Behörden mit voller Kognition).
+
 ## Abs. 1 — Recht auf ein faires Verfahren vor einem unabhängigen und unparteiischen Gericht
 
 ### Persönlicher Anwendungsbereich
@@ -73,6 +80,10 @@ revisions:
 **10** **Autonome Auslegung** Der Begriff der «zivilrechtlichen Ansprüche und Verpflichtungen» ist autonom auszulegen. Massgeblich ist nicht die Einordnung nach innerstaatlichem Recht, sondern die materiellrechtliche Natur des Rechtsstreits (BGE 130 II 425, E. 2.2). Unabhängig von der Zugehörigkeit zum öffentlichen Recht können auch verwaltungsrechtliche Streitigkeiten darunter fallen, wenn sie unmittelbar den Inhalt zivilrechtlicher Verhältnisse prägen (BGE 130 II 425, E. 2.3).
 
 **10a** **Steuerrechtliche Verfahren** Der EGMR hat in [Ferrazzini v. Italien](https://hudoc.echr.coe.int/eng?i=001-60909) (Nr. 44759/98, Grosskammer) festgestellt, dass Steuerstreitigkeiten grundsätzlich nicht unter den zivilrechtlichen Anwendungsbereich von Art. 6 Abs. 1 EMRK fallen, da die Steuerhoheit eine wesentliche Souznität des Staates darstellt. Ausnahmen gelten, wenn der Steuerstreit zivilrechtliche Ansprüche im Kern betrifft. Im Fall [König v. Deutschland](https://hudoc.echr.coe.int/eng?i=001-57507) (Nr. 6232/73) wurde eine Streitigkeit über die Zulassung als Arzt als zivilrechtlich qualifiziert, da sie den Zugang zu einem Beruf und damit zu einem zivilrechtlichen Rechtsverhältnis betraf.
+
+**10b** **Aufsichtsrechtliche FINMA-Sanktionen (Berufsverbot nach Art. 33 FINMAG)** Nach ständiger Praxis des Bundesgerichts stellen aufsichtsrechtliche Massnahmen der Eidgenössischen Finanzmarktaufsicht — namentlich ein Berufsverbot für eine Dauer von bis zu fünf Jahren (Art. 33 FINMAG), Tätigkeitsverbote (Art. 33a FINMAG) oder die Einziehung nach Art. 35 FINMAG — keine «strafrechtliche Anklage» im Sinne von Art. 6 Abs. 1 EMRK dar ([BGE 142 II 243](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-243_2016.html) E. 3.4; [BGE 140 II 384](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-140-II-384_2014.html) E. 3.2). Das Berufsverbot bezweckt keine strafrechtliche Vergeltung von Schuld, sondern dient als wirtschaftspolizeiliche Präventivmassnahme dem Schutz der Finanzmarktstabilität und der Gläubiger. Es fällt jedoch unter den zivilrechtlichen Zweig von Art. 6 Abs. 1 EMRK, da es unmittelbar in die verfassungsrechtlich geschützte Wirtschaftsfreiheit eingreift. Für die Praxis entscheidend: Das strafprozessuale Selbstbelastungsprivileg (*nemo tenetur*) gilt im aufsichtsrechtlichen Verfahren nicht unmittelbar; Auskünfte, die Beaufsichtigte unter gesetzlicher Mitwirkungspflicht (Art. 29 FINMAG) erteilt haben, dürfen zur Begründung des Berufsverbots herangezogen werden ([BGE 142 II 243](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-243_2016.html) E. 3.4).
+
+**10c** **Ausschluss im Ausländer- und Asylrecht (Maaouia-Doktrin)** Nach der Grundsatzrechtsprechung des EGMR ([Maaouia v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-58832), Nr. 39652/98) und des Bundesgerichts ([BGE 137 I 128](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-128_2011.html) E. 4.4.2) fallen Entscheide über die Einreise, den Aufenthalt, das Asyl und die Wegweisung oder Ausschaffung von Ausländern weder unter die «zivilrechtlichen Ansprüche» noch unter die «strafrechtliche Anklage» nach Art. 6 Abs. 1 EMRK. Es handelt sich um Akte hoheitlicher Ausübung des staatlichen Einwanderungs- und Grenzmonopols. Verfahrensgarantien stützen sich hier primär auf Art. 29 und Art. 29a BV sowie Art. 8 und Art. 13 EMRK. Eine wesentliche Ausnahme bildet jedoch die **strafrechtliche Landesverweisung** nach Art. 66a StGB: Weil sie als Nebenstrafe im Strafurteil durch das Strafgericht ausgesprochen wird, unterliegt sie uneingeschränkt den Garantien von Art. 6 Abs. 1 und 3 EMRK.
 
 **11** **Kasuistik** Der sachliche Anwendungsbereich von Art. 6 Abs. 1 EMRK umfasst namentlich:
 - Streitigkeiten aus dem Arbeitsverhältnis, einschliesslich verwaltungsrechtlich eingekleideter Anordnungen gegenüber dem Arbeitgeber, die materiell zivilrechtliche Verhältnisse prägen ([BGE 130 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_II_425) E. 2.2 f.)
@@ -97,6 +108,8 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren, da d
 - **Cantoni v. Frankreich** (Nr. 17862/91): Die Anwendung von Wettbewerbsrecht auf einen Metzger, der gegen Vorschriften über die Ausübung seines Berufs verstösst, fällt unter den strafrechtlichen Anwendungsbereich, wenn die Sanktionen hinreichend schwer sind.
 - **Deweer v. Belgien** (Nr. 6903/75): Die Schliessung einer Bäckerei als aussergerichtliche Einigung («transaction») fällt unter den strafrechtlichen Anwendungsbereich, wenn die Massnahme tatsächlich eine Strafandrohung darstellt und der Betroffene keine echte Wahl hatte.
 
+**12c** **Kartellsanktionen der WEKO (Art. 49a KG)** Das Bundesgericht qualifiziert direkte verwaltungsrechtliche Sanktionen der Wettbewerbskommission (WEKO) nach Art. 49a KG wegen ihrer präventiv-pönalen Natur und ihrer enormen finanziellen Tragweite (bis zu 10 % des in den letzten drei Geschäftsjahren in der Schweiz erzielten Umsatzes) als strafrechtsähnlich und bejaht die Anwendbarkeit von Art. 6 Abs. 1–3 EMRK ([BGE 139 I 72](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-72_2013.html) E. 2.2.2; [BGE 143 II 297](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-143-II-297_2017.html) E. 8.3). Die Unschuldsvermutung und die strafrechtlichen Verfahrensgarantien gelten somit im Kartellverfahren. Zwar ist die WEKO eine verwaltungsbehördliche Kommission und kein Gericht; den Vorgaben von Art. 6 Abs. 1 EMRK wird jedoch dadurch entsprochen, dass gegen ihre Sanktionsverfügungen die Beschwerde an das Bundesverwaltungsgericht offensteht, das über eine uneingeschränkte Kognition bezüglich Sachverhalt, Rechtsanwendung und Angemessenheit verfügt ([BGE 139 I 72](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-72_2013.html) E. 4).
+
 ### Unabhängigkeit des Gerichts
 
 **13** **Grundsatz** Das Erfordernis der Unabhängigkeit verlangt, dass das Gericht gegenüber der Exekutive und der Legislative institutionell unabhängig ist und auch so erscheint. Die Unabhängigkeit umfasst sowohl die persönliche als auch die institutionelle Unabhängigkeit der Richterinnen und Richter. Wiederwahlverfahren durch politische Organe können die Unabhängigkeit beeinträchtigen, werden in der Schweizer Praxis aber unter bestimmten Voraussetzungen als vereinbar mit Art. 6 Abs. 1 EMRK erachtet (BSK-REICH, Art. 30 BV N. 26 ff.).
@@ -106,7 +119,7 @@ Nicht unter den Anwendungsbereich fallen hingegen reine Amtshilfeverfahren, da d
 2. **Institutionelle Unabhängigkeit**: Unabhängigkeit des Gerichts als Institution von der Exekutive und Legislative. Massgeblich sind die organisatorische Selbständigkeit, die finanzielle Autonomie und die Existenz von Schutzmassnahmen gegen äussere Einflüsse.
 3. **Erscheinungsbild der Unabhängigkeit** («appearance of independence»): Das Gericht muss nicht nur unabhängig sein, sondern auch so erscheinen. Massgeblich ist die Frage, ob bei objektiver Betrachtungsweise begründete Zweifel an der Unabhängigkeit bestehen.
 
-**14** **EGMR-Rechtsprechung zur Unabhängigkeit** Der EGMR hat wiederholt die Unabhängigkeit Schweizer Gerichte geprüft. Im Fall Belilos v. Schweiz (Nr. 10328/83) wurde die Zusammensetzung des Zürcher Kriminalgerichts mit einem Polizeirichter als Einzelrichter als Verletzung von Art. 6 Abs. 1 EMRK qualifiziert, da Weisungsbefugnisse der Exekutive bestanden. Das Urteil führte zu einer Reform der Zürcher Strafrechtspflege (EGMR, Belilos v. Schweiz, Nr. 10328/83, § 64 ff.).
+**14** **EGMR-Rechtsprechung zur Unabhängigkeit** Der EGMR hat wiederholt die Unabhängigkeit Schweizer Spruchkörper geprüft. Im wegweisenden Urteil [Belilos v. Schweiz](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_19880429-10328-83_1988-04-29.html) (Nr. 10328/83) rügte der Gerichtshof die Bussenkompetenz der städtischen Polizeikommission Lausanne (*Commission de police*): Da ihr vorsitzendes Mitglied ein leitender Polizeibeamter der Exekutive war, fehlte es an der erforderlichen institutionellen und persönlichen Unabhängigkeit von der Polizeihierarchie (EGMR, Belilos v. Schweiz, § 64 ff.). Das Urteil löste in den Schweizer Kantonen umfassende Justizreformen zur Trennung von Verwaltung und Rechtsprechung aus.
 
 **14a** **Weitere EGMR-Entscheide zur Unabhängigkeit** Im Fall Parosudis v. Frankreich (Nr. 79871/12) stellte der EGMR fest, dass die Beteiligung eines Militärrichters an der Anklage gegen den Beschwerdeführer in einem früheren Verfahren die Unabhängigkeit des Gerichts beeinträchtigt. Im Fall Kremlev v. Russland (Nr. 36087/07) wurde die Unabhängigkeit der Schiedsgerichte im Handelsschiedsverfahren bejaht, sofern die Parteien frei über die Zusammensetzung des Schiedsgerichts bestimmen können.
 
@@ -175,6 +188,12 @@ Im Fall Taxquet v. Belgien stellte der EGMR fest, dass die blosse Wiedergabe der
 
 **22f** **Öffentliche Urteilsverkündung** Art. 6 Abs. 1 EMRK verlangt nicht nur eine öffentliche Verhandlung, sondern auch die öffentliche Verkündung des Urteils (EGMR, [Pretto u.a. v. Italien](https://hudoc.echr.coe.int/eng?i=001-57632), Nr. 7984/77, § 21). Die öffentliche Urteilsverkündung dient der Transparenz der Rechtsprechung und ermöglicht es der Öffentlichkeit, die Entscheidungsgründe zur Kenntnis zu nehmen. Die Verkündung kann durch Hinterlegung des Urteils am Gerichtsschalter oder durch Veröffentlichung in einer Datenbank erfolgen, sofern die Öffentlichkeit wirksam Zugang hat.
 
+**22g** **Beweisverwertungsverbote und Gesamtfairness des Verfahrens** Art. 6 Abs. 1 EMRK regelt die Zulässigkeit von Beweismitteln und die Beweiswürdigung nicht abstrakt; diese Frage obliegt vorab den nationalen Rechtsordnungen ([EGMR Schenk v. Schweiz](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_19880712-10862-84_1988-07-12.html), Nr. 10862/84). Die Verwertung eines rechtswidrig oder unter Verletzung von Verfahrensvorschriften erlangten Beweises begründet für sich allein noch keine Verletzung von Art. 6 Abs. 1 EMRK, solange das Verfahren in seiner Gesamtheit («overall fairness») fair war. Dies erfordert, dass die Verteidigungsrechte gewahrt blieben, die Echtheit des Beweismittels bestritten werden konnte und die Verurteilung nicht ausschliesslich auf dem fraglichen Beweis beruht.
+
+Im schweizerischen Strafprozessrecht differenziert Art. 141 StPO diesen Grundsatz:
+- **Absolute Beweisverwertungsverbote (Art. 141 Abs. 1 StPO):** Beweise, die durch verbotene Beweiserhebungsmethoden nach Art. 140 StPO (Zwang, Folter, Täuschung, Drohung, körperliche Eingriffe) erlangt wurden, sind ausnahmslos unverwertbar.
+- **Relativ unverwertbare Beweise und privat erlangte Beweismittel (Art. 141 Abs. 2 StPO):** Werden Beweise unter Verletzung von Gültigkeitsvorschriften oder durch Privatpersonen rechtswidrig erlangt (z.B. heimliche Video- oder Dashcam-Aufnahmen im Strassenverkehr), verlangt das Bundesgericht kumulativ: (1) Die Strafverfolgungsbehörden hätten den Beweis hypothetisch rechtmässig erlangen können, und (2) die Interessenabwägung gebietet die Verwertung zur Aufklärung einer **schweren Straftat** ([BGE 146 IV 226](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-226_2020.html) E. 2 f.). Übertretungen und einfache SVG-Vergehen stellen keine schweren Straftaten dar; heimliche Dashcam-Aufnahmen von Privaten sind dafür unverwertbar (E. 4). Demgegenüber kann die Verwertung privater Videos bei massiven Gewaltdelikten oder Landfriedensbruch gerechtfertigt sein ([BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html) E. 1.4).
+
 ### Zugang zum Gericht
 
 **23** **Recht auf Zugang zu einem Gericht** Das Recht auf Zugang zu einem Gericht ist eine unentbehrliche Komponente von Art. 6 Abs. 1 EMRK. Es kann eingeschränkt werden, doch darf der Wesensgehalt des Rechts nicht angetastet werden (EGMR, Al-Dulimi und Montana Management Inc. v. Schweiz, Nr. 5809/08, § 119 ff.). Absolute Verjährungsfristen, die den Zugang zum Gericht faktisch verwehren, können den Wesensgehalt antasten (EGMR, Howald Moor und andere v. Schweiz, Nr. 52067/10 & 41072/11; EGMR, Jann-Zwicker und Jann v. Schweiz, Nr. 4976/20).
@@ -193,8 +212,14 @@ In Airey v. Irland (Nr. 6289/73) stellte der EGMR fest, dass die Konvention nich
 
 **23d** **Positive Staatenpflichten** Art. 6 Abs. 1 EMRK begründet nicht nur Negative Pflichten (Unterlassung von Eingriffen in den Zugang zum Gericht), sondern auch positive Staatenpflichten:
 - **Operative Pflichten**: Der Staat muss ein Justizsystem bereitstellen, das den Zugang zum Gericht wirksam gewährleistet (Airey v. Irland).
-- **Systematische Pflichten**: Der Staat muss die.justizielle Infrastruktur so organisieren, dass übermässige Verfahrensdauern vermieden werden (Kudła v. Polen; Cocchiarella v. Italien).
+- **Systematische Pflichten**: Der Staat muss die justizielle Infrastruktur so organisieren, dass übermässige Verfahrensdauern vermieden werden (Kudła v. Polen; Cocchiarella v. Italien).
 - **Informationelle Pflichten**: Der Staat muss die Bürger über ihre Rechte und die verfügbaren Rechtsbehelfe informieren, insbesondere im Bereich der unentgeltlichen Rechtspflege.
+
+**23e** **Strafbefehlsverfahren und Art. 6 EMRK** Das schweizerische Strafbefehlsverfahren (Art. 352 ff. StPO) erledigt rund 90 bis 95 % aller Strafurteile durch die Staatsanwaltschaft als Anklägerin und Richterin zugleich, ohne gerichtliche Verhandlung. Dieses System ist mit Art. 6 Abs. 1 EMRK nur vereinbar, weil der verurteilten Person ein uneingeschränktes, voraussetzungsloses und kostenfreies Einspracherecht zusteht, das die gerichtliche Überprüfung durch ein unabhängiges Gericht mit voller Kognition in Tat- und Rechtsfragen erzwingt ([BGE 140 IV 82](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-82_2014.html) E. 2.6). Unterbleibt die Einsprache, gilt dies als rechtswirksamer Verzicht (*waiver*) auf die gerichtliche Beurteilung.
+
+Daraus ergeben sich strenge konventionsrechtliche Anforderungen an die gerichtliche Praxis:
+- **Keine überspannte Rückzugsfiktion (Art. 355 Abs. 2 StPO):** Bleibt die einsprechende Person einer Einvernahme unentschuldigt fern, darf die gesetzliche Fiktion des Rückzugs der Einsprache nur greifen, wenn sie die Vorladung tatsächlich empfangen hat und über die Säumnisfolge rechtsgenüglich belehrt worden war ([BGE 140 IV 82](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-82_2014.html) E. 2.7).
+- **Unschuldsvermutung und Medienöffentlichkeit ([BGE 152 IV 96](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-96_2026.html)):** Solange die 10-tägige Einsprachefrist läuft oder über die Gültigkeit der Einsprache gestritten wird, darf Medien und Dritten keine Einsichtnahme in den Strafbefehl nach Art. 69 Abs. 2 StPO gewährt werden. Vor Eintritt der formellen Rechtskraft geniesst der Betroffene vollen Schutz durch die Unschuldsvermutung (Art. 6 Abs. 2 EMRK; [BGE 152 IV 96](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-96_2026.html) E. 2.4.7 f.).
 
 ### Öffentlichkeit des Verfahrens
 
@@ -278,12 +303,17 @@ In Airey v. Irland (Nr. 6289/73) stellte der EGMR fest, dass die Konvention nich
 **40** **Waffengleichheit im Beweisverfahren** Art. 6 Abs. 3 lit. d EMRK garantiert der angeklagten Person das Recht, Fragen an Belastungszeugen zu stellen oder stellen zu lassen und die Ladung und Vernehmung von Entlastungszeugen unter denselben Bedingungen zu erwirken, wie sie für Belastungszeugen gelten. Wird die Aussage eines Zeugen schriftlich abgegeben, hat die Partei Anspruch darauf, vom Inhalt dieser Aussage Kenntnis zu nehmen; auf Ersuchen hin ist ihr die Möglichkeit zu geben, dem Zeugen Zusatzfragen zu stellen oder stellen zu lassen ([BGE 124 V 90](https://mcp.opencaselaw.ch/entscheid/bge_124%20V%2090)).
 
 **40a** **EGMR-Rechtsprechung zum Konfrontationsrecht** Der EGMR hat das Konfrontationsrecht in mehreren Leading Cases geprägt:
-- **Salduz v. Türkei** (Nr. 36391/02, Grosskammer): Das Recht auf Zugang zu einem Anwalt während der ersten polizeilichen Vernehmung ist ein zentrales Element des fairen Verfahrens. Die Verwertung von Aussagen, die ohne anwaltliche Beratung gemacht wurden, kann gegen Art. 6 Abs. 1 und 3 lit. c EMRK verstossen.
 - **Al-Khawaja und Tahery v. Vereinigtes Königreich** (Nr. 26766/05 und 22228/06, Grosskammer): Die Verwertung von Zeugenaussagen, die ohne Befragung durch die angeklagte Person gemacht wurden, kann gegen Art. 6 Abs. 1 und 3 lit. d EMRK verstossen. Wenn die einzige oder entscheidende Belastung auf der Aussage eines Zeugen beruht, den die Verteidigung nicht befragen konnte, ist die Verwertung in der Regel eine Konventionsverletzung. Ausnahmen sind nur in höchst aussergewöhnlichen Umständen zulässig, wenn starke Gegenmassnahmen ergriffen werden.
 - **Schatschaschwili v. Deutschland** (Nr. 9154/10, Grosskammer): Präzisierung der Al-Khawaja-Regel. Der Massstab ist die Gesamtfairness des Verfahrens. Der Verzicht auf die Befragung des Belastungszeugen ist nicht automatisch eine Konventionsverletzung, wenn ausreichende Gegenmassnahmen ergriffen wurden.
 - **Lucà v. Italien** (Nr. 33354/96): Die Verwertung eines Polizeiberichts, der die Aussage eines Zeugen wiedergibt, ohne dass der Zeuge im Hauptverfahren befragt werden kann, verstösst gegen Art. 6 Abs. 3 lit. d EMRK, wenn der Bericht der einzige oder entscheidende Beweis ist.
 - **Doorson v. Niederlande** (Nr. 20524/92): Die Verwertung anonymer Zeugenaussagen ist unter bestimmten Umständen zulässig, wenn ausreichende Gegenmassnahmen ergriffen werden.
 - **Van Mechelen u.a. v. Niederlande** (Nr. 21363/93 u.a.): Die Verwertung von Aussagen anonymer Polizeibeamter, die nicht vom Verteidiger befragt werden konnten, verstösst gegen Art. 6 Abs. 1 und 3 lit. d EMRK, wenn die Anonymität die Verteidigung erheblich beeinträchtigt.
+
+**40b** **Schweizerische Praxis zur Konfrontation und Schatschaschwili-Kriterien** Das Bundesgericht hat die Grundsätze des EGMR zum Konfrontationsanspruch (Art. 6 Abs. 3 lit. d EMRK und Art. 32 Abs. 2 BV) im schweizerischen Strafprozess wie folgt verankert:
+- **Ausschlaggebendes Beweismittel:** Stützt sich der Schuldspruch massgeblich oder ausschliesslich auf die Aussage einer Person, hat die beschuldigte Person einen im Grundsatz absoluten Anspruch darauf, diesen Belastungszeugen mindestens einmal im Verfahren persönlich zu befragen und mit den Vorwürfen zu konfrontieren ([BGE 131 I 476](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-131-I-476_2005.html) E. 2.2).
+- **Drei-Stufen-Prüfung bei Nichterscheinen ([BGE 148 I 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-295_2022.html) E. 2):** Kann der Zeuge im Hauptverfahren nicht konfrontiert werden (z.B. infolge Todes, dauernder Urteilsunfähigkeit oder rechtmässiger Zeugnisverweigerung), ist die Verwertung früherer Aussagen oder von Aussagen von Auskunftspersonen vom Hörensagen (*Zeugnis vom Hörensagen*) nur zulässig, wenn (1) ein triftiger Grund für das Nichterscheinen vorliegt, (2) das Beweismittel nicht die einzige oder ausschlaggebende Grundlage des Schuldspruchs bildet oder (3) ausreichende kompensatorische Faktoren vorliegen, die eine verlässliche Überprüfung der Beweiswürdigung und Glaubhaftigkeit ermöglichen.
+- **Getrennte Verfahren (Art. 147 Abs. 1 StPO):** Werden Strafverfahren gegen Mittäter oder Beteiligte aus sachlichen Gründen getrennt geführt, gilt das formelle Teilnahmerecht nach Art. 147 Abs. 1 StPO nicht verfahrensübergreifend; der Konfrontationsanspruch bezüglich der belastenden Aussagen des Mitbeschuldigten fliesst in diesem Fall direkt aus Art. 6 Abs. 3 lit. d EMRK ([BGE 140 IV 172](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-172_2014.html) E. 1.2).
+- **Zeugnisverweigerung im Hauptverfahren:** Verweigert ein Zeuge oder eine Auskunftsperson bei der Hauptverhandlung rechtmässig die Aussage (Art. 168 StPO), dürfen frühere polizeiliche oder staatsanwaltschaftliche Einvernahmen nicht verwertet werden, wenn der Verteidigung zuvor keine Konfrontationsgelegenheit eingeräumt worden war (Art. 147 Abs. 4 StPO; [BGE 144 IV 28](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-28_2018.html) E. 1.3).
 
 ### Abs. 3 lit. e — Recht auf Dolmetscherbeistand
 
@@ -303,6 +333,76 @@ In Airey v. Irland (Nr. 6289/73) stellte der EGMR fest, dass die Konvention nich
 **43** **Verhältnis zum innerstaatlichen Recht** Die EMRK setzt Mindeststandards, die durch das innerstaatliche Recht (BV, StPO) ergänzt und konkretisiert werden. Die StPO enthält in den Art. 3–13 detaillierte Verfahrensgrundsätze, die die konventionsrechtlichen Vorgaben umsetzen. Bei Konflikten zwischen EMRK und BV ist die EMRK als völkerrechtlicher Vertrag massgeblich, soweit sie weitergehend ist.
 
 **43a** **Piloturteilsverfahren** Der EGMR hat das Instrument des Piloturteilsverfahrens («pilot judgment procedure») entwickelt, um systematische Probleme in den Mitgliedstaaten wirksam anzugehen. Wenn der EGMR eine Konventionsverletzung feststellt, die auf ein strukturelles Problem zurückzuführen ist, kann er im Piloturteil nicht nur die individuelle Beschwerde beurteilen, sondern auch Massnahmen fordern, die das zugrundeliegende strukturelle Problem beheben. Dies ist insbesondere im Bereich des Beschleunigungsgebots relevant, wo übermässige Verfahrensdauern auf strukturelle Defizite des Justizsystems zurückzuführen sind (vgl. EGMR, Broniowski v. Polen, Nr. 31443/96, § 189 ff.).
+
+## Kantonale Praxisfragen
+
+### 1. Verwirkung von Befangenheits- und Ausstandsgründen bei verspäteter Rüge
+
+In der kantonalen Gerichtspraxis bildet das «Taktieren» mit Ausstandsgründen eine häufige verfahrensrechtliche Hürde:
+
+* **Grundsatz der unverzüglichen Rüge:** Nach Treu und Glauben (Art. 5 Abs. 3 BV, Art. 58 Abs. 1 StPO, Art. 49 Abs. 1 ZPO) muss eine Partei den Ausstandsgrund unverzüglich geltend machen, sobald sie davon Kenntnis erlangt hat. Wer trotz Kenntnis des Ausstandsgrunds widerspruchslos am Verfahren weiterteilnimmt und den Mangel erst rügt, nachdem ein unvorteilhafter Zwischen- oder Endentscheid ergangen ist, verwirkt den Anspruch aus Art. 6 Abs. 1 EMRK und Art. 30 Abs. 1 BV ([BGE 140 I 271](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-271_2014.html) E. 8.4.3; [BGE 138 I 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-1_2011.html) E. 2.2).
+* **Fristenrahmen in der kantonalen Praxis:** Das Bundesgericht erachtet im Allgemeinen bereits ein Zuwarten von **mehr als sechs bis zehn Tagen** nach Kenntnisnahme des Ausstandsgrunds als verspätet ([BGE 143 V 66](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-143-V-66_2017.html) E. 4.3; [BGE 140 I 271](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-271_2014.html) E. 8.4.3). Vorinstanzliche Ausstandsgesuche werden von kantonalen Gerichten bei Zögern regelmässig wegen Rechtsmissbrauchs abgewiesen.
+
+> **Leitsatz.** Ausstands- und Befangenheitsgründe gegen kantonale Gerichtspersonen müssen innert weniger Tage (in der Regel 6–10 Tage) nach Entdeckung formell gerügt werden. Ein Abwarten des Verfahrensausgangs führt unweigerlich zur Verwirkung der Garantie von Art. 6 Abs. 1 EMRK.
+
+---
+
+### 2. Wahrung des Replikrechts bei kantonaler Zustellung «zur Kenntnisnahme» (10-Tage-Regel)
+
+Eine zentrale Fehlerquelle kantonaler Gerichte und Verwaltungsjustizbehörden ist die Verletzung des Replikrechts bei formloser Zustellung:
+
+* **Zustellung ohne Fristansetzung:** Stellt ein kantonales Gericht Vernehmlassungen oder Akten lediglich «zur Kenntnisnahme» oder «zur Orientierung» zu, darf es nicht umgehend urteilen. Das Gericht muss den Parteien die Möglichkeit eröffnen, sich unaufgefordert zu äussern oder eine Frist zu verlangen ([BGE 138 I 484](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-484_2012.html) E. 2.1 ff.).
+* **Erforderliche Wartefrist (Faustregel 10 Tage):** Nach gefestigter Praxis des Bundesgerichts muss das Gericht nach erfolgter Zustellung zur Kenntnisnahme als Faustregel mindestens **zehn Tage** verstreichen lassen (zuzüglich Postlaufzeiten), bevor von einem stillschweigenden Verzicht auf das Replikrecht ausgegangen werden darf ([BGer 5D_81/2015 vom 04.04.2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5D-81-2015_2016-04-04.html) E. 2.3.2; [BGer 5A_929/2018 vom 06.06.2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-929-2018_2019-06-06.html) E. 2.2). Fällt der kantonale Entscheid vor Ablauf dieser Bedenkzeit, liegt eine formelle Gehörsverletzung vor, die zur Aufhebung des Urteils führt — ohne dass nachgewiesen werden muss, dass die Replik zu einem anderen Urteil geführt hätte.
+
+> **Leitsatz.** Bei Zustellung von Eingaben «zur Kenntnisnahme» müssen kantonale Gerichte vor Entscheidfällung zwingend eine Wartefrist von mindestens zehn Tagen wahren. Ein vorzeitiger Entscheid verletzt Art. 6 Abs. 1 EMRK und Art. 29 Abs. 2 BV irrevisibel.
+
+---
+
+### 3. Konfrontationsanspruch bei polizeilichen Delegationsbefragungen im Vorverfahren
+
+In der kantonalen Strafverfolgungspraxis werden Einvernahmen von Belastungszeugen häufig durch die Polizei im Auftrag der Staatsanwaltschaft durchgeführt (Art. 142 Abs. 2 StPO):
+
+* **Kein Teilnahmerecht bei Delegationsbefragung:** Nach Art. 147 Abs. 1 StPO besteht bei Beweiserhebungen durch die Polizei im Auftrag der Staatsanwaltschaft kein gesetzlicher Anspruch der Parteien auf Anwesenheit und Fragestellung.
+* **Verwertbarkeit unter Art. 6 Abs. 3 lit. d EMRK:** Belastende Aussagen aus polizeilichen Einvernahmen dürfen nur dann zum Nachteil der beschuldigten Person verwertet werden, wenn diese im weiteren Verlauf des Verfahrens — spätestens vor dem Sachgericht — mindestens einmal Gelegenheit hatte, den Zeugen persönlich und uneingeschränkt zu befragen ([BGE 148 I 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-295_2022.html) E. 2; [BGE 140 IV 172](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-172_2014.html) E. 1.2.3).
+* **Gefahr des Beweisverlusts bei Zeugnisverweigerung:** Scheidet der Zeuge später aus (z.B. Heirat mit der beschuldigten Person und Ausübung des Zeugnisverweigerungsrechts nach Art. 168 StPO), bleibt das Protokoll der polizeilichen Einvernahme absolut unverwertbar (Art. 147 Abs. 4 StPO; [BGE 144 IV 28](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-28_2018.html) E. 1.3).
+
+> **Leitsatz.** Aussagen aus polizeilichen Delegationsbefragungen sind vor Gericht nur verwertbar, wenn die Verteidigung vor dem Urteil mindestens eine wirksame Konfrontationsgelegenheit erhält. Verzichtet die Staatsanwaltschaft auf eine Wiederholung der Befragung mit Parteibeteiligung, riskiert sie bei späterem Aussageverzicht des Zeugen die vollständige Unverwertbarkeit.
+
+---
+
+## Praxishinweise
+
+### Für die Verteidigung und Parteivertretung:
+
+1. **Ausstandsgründe sofort protokollieren und einreichen:** Rügen Sie Befangenheit oder Unvereinbarkeiten bei kantonalen Richtern und Gerichtsschreibern unverzüglich (innert weniger Tage) nach Kenntniserlangung ([BGE 140 I 271](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-271_2014.html)). Warten Sie niemals einen für Ihre Partei ungünstigen Zwischenschritt ab, da das Bundesgericht dies als rechtsmissbräuchliches «Taktieren» qualifiziert.
+2. **Replikrecht bei Zustellung «zur Kenntnisnahme» aktiv ausüben:** Erhalten Sie eine Vernehmlassung der Gegenseite oder Vorinstanz ohne Fristansetzung («zur Kenntnisnahme»), reichen Sie innert zehn Tagen eine Replik ein oder stellen Sie umgehend ein Gesuch um formelle Fristansetzung ([BGE 138 I 484](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-484_2012.html); [BGer 5D_81/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5D-81-2015_2016-04-04.html)).
+3. **Konfrontationsantrag im Strafverfahren förmlich und frühzeitig stellen:** Verlangen Sie bei belastenden Zeugen- oder Auskunftspersonenaussagen stets ausdrücklich und zu Protokoll eine Konfrontationseinvernahme. Ein Verzicht auf Konfrontation heilt Beweiserhebungsmängel und macht frühere Aussagen verwertbar ([BGE 131 I 476](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-131-I-476_2005.html); [BGE 148 I 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-295_2022.html)).
+4. **Verwertbarkeit privater Beweise (Dashcams) rügen:** Wurde Ihr Mandant gestützt auf private Videoaufnahmen oder Dashcams verzeigt, rügen Sie die Unverwertbarkeit nach Art. 141 Abs. 2 StPO, sofern keine schwere Straftat (Verbrechen) vorliegt ([BGE 146 IV 226](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-226_2020.html)).
+5. **Einsprache im Strafbefehlsverfahren:** Erheben Sie Einsprache formlos innert zehn Tagen ab Zustellung. Sollte Ihr Mandant die Einvernahme nach Einsprache versäumen, wehren Sie sich gegen die Rückzugsfiktion (Art. 355 Abs. 2 StPO), falls keine tatsächliche Kenntnis der Vorladung und Säumnisfolgen vorlag ([BGE 140 IV 82](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-82_2014.html)).
+
+### Für Gerichte und Strafverfolgungsbehörden:
+
+1. **Wartefrist von 10 Tagen bei formloser Zustellung einhalten:** Fällen Sie nach Zustellung einer Vernehmlassung «zur Kenntnisnahme» keinen Endentscheid vor Ablauf von mindestens zehn Tagen zuzüglich Postlaufzeiten ([BGer 5A_929/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-929-2018_2019-06-06.html)).
+2. **Belastungszeugen vor Anklageerhebung mit Parteibeteiligung einvernehmen:** Führen Sie Einvernahmen von Hauptbelastungszeugen durch die Staatsanwaltschaft unter Gewährung der Teilnahmerechte (Art. 147 Abs. 1 StPO) durch, um die Verwertbarkeit auch bei späterem Ausfall des Zeugen vor Gericht zu sichern ([BGE 148 I 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-295_2022.html)).
+3. **Keine Medienauskunft über nicht rechtskräftige Strafbefehle:** Verweigern Sie Medienvertretern die Einsicht in Strafbefehle, solange die 10-tägige Einsprachefrist läuft oder eine Einsprache hängig ist, um die Unschuldsvermutung nicht zu verletzen ([BGE 152 IV 96](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-96_2026.html)).
+4. **Schatschaschwili-Prüfschema im Urteil begründen:** Müssen nicht konfrontierte Zeugenaussagen verwertet werden, begründen Sie im Urteil explizit den triftigen Grund des Ausbleibens, das Gewicht der Aussage sowie die kompensatorischen Massnahmen ([BGE 148 I 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-295_2022.html) E. 2).
+
+### Für Verwaltungs- und Aufsichtsbehörden (WEKO, FINMA):
+
+1. **Vollwertige Kognition des Beschwerdegerichts gewährleisten:** Stellen Sie bei pönalen Verwaltungssanktionen (z.B. Bussen nach Art. 49a KG) sicher, dass die Kognition des Bundesverwaltungsgerichts in Tat- und Rechtsfragen nicht eingeschränkt wird ([BGE 139 I 72](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-72_2013.html)).
+2. **Trennung von Aufsichts- und Strafverfahren beachten:** Verwenden Sie unter Mitwirkungspflicht erlangte FINMA-Auskünfte nur für das aufsichtsrechtliche Verwaltungsverfahren (Berufsverbot nach Art. 33 FINMAG) und beachten Sie das nemo-tenetur-Privileg, sobald eine strafrechtliche Anklage im Raum steht ([BGE 142 II 243](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-243_2016.html)).
+
+---
+
+## Querverweise
+
+- [Art. 5 EMRK](../art-005/) — Recht auf Freiheit und Sicherheit
+- [Art. 8 EMRK](../art-008/) — Recht auf Achtung des Privat- und Familienlebens
+- [Art. 29 BV](../../bv/art-029/) — Allgemeine Verfahrensgarantien
+- [Art. 29a BV](../../bv/art-029a/) — Rechtsweggarantie
+- [Art. 30 BV](../../bv/art-030/) — Gerichtliche Verfahren
+- [Art. 32 BV](../../bv/art-032/) — Strafverfahren
+- [Thema: Das Replikrecht im Schweizer Verfahrensrecht](/themen/replikrecht-im-schweizer-verfahrensrecht/)
 
 ## Literatur (Spezialliteratur)
 

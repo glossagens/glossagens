@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 6 EMRK"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-10-24
-description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, begründetes Urteil, Waffengleichheit, Dolmetscherbeistand, Replikrecht vor Bundesgericht"
-tags: ["Rechtsprechung", "EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "begründetes Urteil", "Dolmetscherbeistand"]
+lastmod: 2026-10-27
+description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, Beweisverwertungsverbote, Waffengleichheit, Replikrecht, Strafbefehlsverfahren und kantonale Praxisfragen"
+tags: ["Rechtsprechung", "EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Beweisverwertungsverbote", "Replikrecht"]
 agent_verified: true
 revisions:
+  - date: 2026-10-27
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Einarbeitung von BGE-Leitentscheiden zu Beweisverwertungsverboten (BGE 146 IV 226, 147 IV 9), Konfrontation (BGE 148 I 295, 131 I 476, 140 IV 172, 144 IV 28), Kartellrecht (BGE 139 I 72), FINMA (BGE 142 II 243), Ausländerrecht (BGE 137 I 128), Strafbefehl (BGE 140 IV 82, 152 IV 96) sowie EGMR Schenk v. Schweiz, Belilos v. Schweiz und Maaouia v. Frankreich."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -25,6 +30,12 @@ revisions:
 
 ## Leitentscheide
 
+- **[BGE 148 I 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-295_2022.html)** — Konfrontationsrecht und Schatschaschwili-Kriterien: Verwertung von Aussagen eines nicht konfrontierten Belastungszeugen bei Zeugnis vom Hörensagen (Tod des Opfers) setzt einen triftigen Grund für das Nichterscheinen und ausreichende kompensatorische Faktoren zur Gewährleistung eines fairen Verfahrens voraus (E. 2).
+
+- **[BGE 146 IV 226](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-226_2020.html)** — Beweisverwertungsverbote bei privaten Dashcam-Aufnahmen: Von Privaten rechtswidrig erlangte Beweise sind nach Art. 141 Abs. 2 StPO nur verwertbar, wenn sie von den Strafverfolgungsbehörden rechtmässig hätten erlangt werden können und kumulativ die Aufklärung einer schweren Straftat die Verwertung gebietet (E. 2 ff.).
+
+- **[BGE 139 I 72](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-72_2013.html)** — Kartellsanktionen als strafrechtliche Anklage: Direkte Sanktionen der WEKO nach Art. 49a KG haben pönalen Charakter und fallen unter Art. 6 Abs. 1 EMRK; die Kognition des Bundesverwaltungsgerichts in Sachverhalt und Recht genügt den Konventionsanforderungen (E. 2 ff.).
+
 - **BGE 144 IV 345** — Unschuldsvermutung und Beweiswürdigung: Der Grundsatz der freien Beweiswürdigung lässt keinen Raum für eine Anwendung der Regel in dubio pro reo auf die Sammlung und Sichtung der Beweismittel. Die Unschuldsvermutung kommt erst in einem späteren Stadium zum Tragen (E. 2.2.3.1 f.).
 
 - **BGE 137 I 195** — Replikrecht als Teilaspekt des rechtlichen Gehörs: Die Wahrnehmung des Replikrechts setzt die Zustellung der von den übrigen Verfahrensbeteiligten eingereichten Eingaben voraus. Eine Heilung des Gehörsverlusts durch blosse Akteneinsichtsmöglichkeit genügt nicht.
@@ -35,6 +46,12 @@ revisions:
 
 ### Sachlicher Anwendungsbereich
 
+- **[BGE 139 I 72](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-72_2013.html)** — Kartellrechtliche Sanktionen nach Art. 49a KG haben einen strafrechtlichen bzw. strafrechtsähnlichen Charakter; die Garantien von Art. 6 EMRK sind anwendbar (E. 2).
+
+- **[BGE 142 II 243](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-243_2016.html)** — Das aufsichtsrechtliche Berufsverbot der FINMA (Art. 33 FINMAG) ist hinsichtlich Art und Schwere eine wirtschaftspolizeiliche Präventivmassnahme (zivilrechtliche Ansprüche) und keine strafrechtliche Anklage i.S.v. Art. 6 Abs. 1 EMRK; das Selbstbelastungsverbot steht der Verwertung früherer Auskünfte nicht entgegen (E. 3.2–3.4).
+
+- **[BGE 137 I 128](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-128_2011.html)** — Streitigkeiten über die Erteilung einer Aufenthaltsbewilligung oder den Verbleib in der Schweiz fallen nach der Maaouia-Doktrin nicht unter Art. 6 EMRK (E. 4.4).
+
 - **BGE 130 II 425** — Der Begriff der «zivilrechtlichen Ansprüche und Verpflichtungen» i.S.v. Art. 6 Abs. 1 EMRK ist autonom. Unabhängig von der Zugehörigkeit zum öffentlichen Recht fällt ein Verbot, in der Unternehmung ein Überwachungssystem zu verwenden, unter diese Bestimmung (E. 2.2 f.).
 
 - **BGE 122 II 464** — Beim Entzug des Führerausweises zu Sicherungszwecken kann sich der Betroffene auf Art. 6 Ziff. 1 EMRK berufen, wenn der ausgeübte Beruf unmittelbar den Besitz des Führerausweises voraussetzt (E. 3).
@@ -42,6 +59,8 @@ revisions:
 - **BGE 139 II 404** — Im Verfahren der internationalen Amtshilfe in Steuersachen kommen die strafprozessualen Garantien grundsätzlich nicht zur Anwendung (E. 6).
 
 ### Unabhängigkeit und Unparteiischkeit
+
+- **[BGE 140 I 271](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-271_2014.html)** — Unvereinbarkeit und Verwirkung von Ausstandsgründen: Ausstandsgründe gegen kantonale Gerichtspersonen müssen unverzüglich nach Kenntnisnahme gerügt werden; ein Zuwarten führt zur Verwirkung des Anspruchs aus Art. 6 Abs. 1 EMRK und Art. 30 Abs. 1 BV (E. 8).
 
 - **BGE 113 Ia 407** — Schiedsgerichte müssen dieselbe Gewähr für Unparteilichkeit bieten wie ordentliche Gerichte; die Unbefangenheit ihrer Mitglieder ist nach demselben Massstab zu beurteilen wie bei staatlichen Richtern (E. 2).
 
@@ -81,9 +100,31 @@ revisions:
 
 ### Zugang zum Gericht
 
+- **[BGE 140 IV 82](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-82_2014.html)** — Strafbefehlsverfahren und Rückzugsfiktion: Der Strafbefehl ist ein Vorschlag zur Erledigung. Die gesetzliche Fiktion des Rückzugs der Einsprache bei Säumnis (Art. 355 Abs. 2 StPO) darf nach Art. 6 EMRK nur greifen, wenn der Betroffene nachweisbar tatsächliche Kenntnis von der Vorladung und den Säumnisfolgen hatte (E. 2.6 f.).
+
+- **[BGE 152 IV 96](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-96_2026.html)** — Unschuldsvermutung und Strafbefehl: Bei Einsichtnahmegesuchen von Medien in Strafbefehle während laufender oder strittiger Einsprache schützt Art. 6 Abs. 2 EMRK vor vorzeitiger Offenlegung; Einsicht darf erst nach Rechtskraft gewährt werden (E. 2.4.7 f.).
+
 - **BGE 136 II 380** — Der Zugang zum Gericht darf nicht durch eine übertriebene Beurteilung der formellen oder finanziellen Voraussetzungen ungebührlich eingeschränkt werden (E. 2 f.).
 
+### Beweisverwertungsverbote und Fair Trial
+
+- **[BGE 146 IV 226](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-226_2020.html)** — Verwertbarkeit von privaten Dashcam-Aufnahmen im Strafprozess: Von Privaten rechtswidrig erlangte Beweise sind nach Art. 141 Abs. 2 StPO nur verwertbar, wenn sie von den Behörden rechtmässig hätten erlangt werden können und die Verwertung zur Aufklärung einer schweren Straftat unerlässlich ist (E. 2 ff.).
+
+- **[BGE 147 IV 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-9_2021.html)** — Verwertbarkeit rechtswidrig erlangter Videoaufnahmen bei Landfriedensbruch: Für die Schwere der Tat nach Art. 141 Abs. 2 StPO ist das konkrete Tatgeschehen massgebend; Verwertung privater Aufnahmen bei Gewalttätigkeiten gegen den öffentlichen Frieden zulässig (E. 1.4).
+
+### Replikrecht und rechtliches Gehör
+
+- **[BGE 138 I 484](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-484_2012.html)** — Replikrecht im schriftlichen Verfahren: Bei Zustellung von Vernehmlassungen zur Kenntnisnahme muss das Gericht den Parteien ein effektives Replikrecht gewährleisten; vor Ablauf einer angemessenen Bedenkzeit (Faustregel mindestens 10 Tage) darf kein Entscheid gefällt werden (E. 2.1 ff.).
+
 ### Verteidigungsrechte
+
+- **[BGE 148 I 295](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-295_2022.html)** — Konfrontationsanspruch und Zeugnis vom Hörensagen: Verstirbt das Opfer vor Wahrung des Konfrontationsrechts, setzt die Verwertung von Zeugenaussagen von Drittpersonen (Hörensagen) ausreichende kompensatorische Massnahmen nach den Schatschaschwili-Kriterien voraus (E. 2).
+
+- **[BGE 131 I 476](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-131-I-476_2005.html)** — Absoluter Charakter des Konfrontationsanspruchs: Ist das Zeugnis für den Schuldspruch ausschlaggebend, ist der Anspruch, dem Belastungszeugen Fragen zu stellen, grundsätzlich absolut; Verurteilung ohne Konfrontationsgelegenheit verletzt Art. 6 Abs. 3 lit. d EMRK (E. 2.2).
+
+- **[BGE 140 IV 172](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-172_2014.html)** — Teilnahmerechte und getrennte Verfahren: Das Recht auf Teilnahme an Einvernahmen (Art. 147 Abs. 1 StPO) gilt nicht in getrennt geführten Verfahren; das Konfrontationsrecht bezüglich der Aussagen von Mitbeschuldigten fliesst in diesem Fall direkt aus Art. 6 Abs. 3 lit. d EMRK (E. 1.2).
+
+- **[BGE 144 IV 28](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-28_2018.html)** — Zeugnisverweigerungsrecht und Unverwertbarkeit: Macht eine Auskunftsperson nachträglich vom Zeugnisverweigerungsrecht Gebrauch, sind frühere Aussagen unverwertbar, wenn der Verteidigung nie eine Befragungsgelegenheit eingeräumt wurde (E. 1.3).
 
 - **BGE 129 I 129** — Nach bundesgerichtlicher Praxis können bei der Gewährung der unentgeltlichen Verbeiständung im Rechtsmittelverfahren auch die Erfolgsaussichten berücksichtigt werden. Ein absoluter Anspruch auf amtliche Verteidigung bei aussichtslosen Rechtsmitteln besteht nach der Strassburger Praxis nicht.
 
@@ -145,13 +186,23 @@ revisions:
 
 ---
 
+### Maaouia v. Frankreich, Nr. 39652/98 (Grosskammer, 05.10.2000)
+
+- **Thema**: Sachlicher Anwendungsbereich — Nichtanwendbarkeit im Ausländer- und Asylrecht
+- **Kernaussage**: Entscheide über die Einreise, den Aufenthalt, das Asyl und die Ausweisung oder Abschiebung von Ausländern fallen weder unter den Begriff der «zivilrechtlichen Ansprüche und Verpflichtungen» noch unter den Begriff der «strafrechtlichen Anklage» nach Art. 6 Abs. 1 EMRK. Es handelt sich um Akte hoheitlicher Ausübung staatlicher Souveränität, für die Art. 6 EMRK nicht anwendbar ist.
+- **Einschlägig für**: sachlicher Anwendungsbereich, Ausländerrecht, Asylverfahren, Wegweisung, Grosskammer
+- **Link**: [EGMR Maaouia v. Frankreich](https://hudoc.echr.coe.int/eng?i=001-58832)
+
+---
+
 ### Unabhängigkeit und Unparteiischkeit
 
 ### Belilos v. Schweiz, Nr. 10328/83 (29.04.1988)
 
-- **Thema**: Unabhängigkeit des Gerichts — Polizeirichter
-- **Kernaussage**: Die Zusammensetzung des Zürcher Kriminalgerichts mit einem Polizeirichter als Einzelrichter verstösst gegen Art. 6 Abs. 1 EMRK. Fehlende Überprüfungsmöglichkeit und Weisungsbefugnis der Polizeidirektion begründen Zweifel an der Unabhängigkeit. Das Urteil führte zu einer Reform der Zürcher Strafrechtspflege.
-- **Einschlägig für**: Unabhängigkeit, auf Gesetz beruhendes Gericht, Schweiz
+- **Thema**: Ungültigkeit der schweizerischen Auslegungserklärung und institutionelle Unabhängigkeit des Gerichts
+- **Kernaussage**: Die von der Schweiz 1974 formulierte Auslegungserklärung zu Art. 6 Abs. 1 EMRK ist mangels hinreichender Bestimmtheit und fehlendem Gesetzesverzeichnis als Vorbehalt ungültig (Verletzung von ehemals Art. 64, heute Art. 57 EMRK); die Schweiz bleibt dennoch uneingeschränkt an die Konvention gebunden. Zudem verletzte die Bussenverhängung durch die städtische Polizeikommission Lausanne (*Commission de police*) Art. 6 Abs. 1 EMRK, da die Kommission als Exekutivorgan keine richterliche Unabhängigkeit besass und den kantonalen Rechtsmitteln die volle Kognition in Sachverhaltsfragen fehlte.
+- **Einschlägig für**: Auslegungserklärung, Vorbehalte, institutionelle Unabhängigkeit, Trennung von Verwaltung und Justiz, Schweiz
+- **Link**: [EGMR Belilos v. Schweiz](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_19880429-10328-83_1988-04-29.html)
 
 ---
 
@@ -226,6 +277,15 @@ revisions:
 - **Thema**: Waffengleichheit und Replikrecht bei von Amtes wegen eingeholten Auskünften im vereinfachten Verfahren vor dem Schweizer Bundesgericht (Art. 108 BGG)
 - **Kernaussage**: Das Bundesgericht hatte im Verfahren 1B_492/2020 eigeninitiativ Auskünfte der Vollzugsbehörde über angebliche Zellbeschädigungen eingeholt und darauf gestützt die Beschwerde als rechtsmissbräuchlich abgetan, ohne dem Beschwerdeführer zuvor Gelegenheit zur Stellungnahme zu geben. Der EGMR bejahte einstimmig eine Verletzung von Art. 6 Abs. 1 EMRK: Der Grundsatz der Waffengleichheit und das Recht auf ein kontradiktorisches Verfahren gelten auch im vereinfachten Verfahren nach Art. 108 BGG. Werden Auskünfte von Amtes wegen beschafft, müssen sie den Parteien zur Stellungnahme unterbreitet werden.
 - **Einschlägig für**: Replikrecht, Waffengleichheit, Art. 6 Abs. 1 EMRK, Art. 108 BGG, vereinfachtes Verfahren, Revisionsgrund Art. 122 BGG
+
+---
+
+### Schenk v. Schweiz, Nr. 10862/84 (12.07.1988)
+
+- **Thema**: Beweisverwertungsverbote — Heimliche Telefonaufnahmen und Gesamtfairness
+- **Kernaussage**: Art. 6 Abs. 1 EMRK regelt die Zulässigkeit von Beweismitteln und deren Verwertbarkeit nicht abstrakt, was in erster Linie dem nationalen Recht obliegt. Die Verwertung einer von einem Privaten rechtswidrig erstellten Telefonaufnahme führt nicht automatisch zur Verletzung von Art. 6 Abs. 1 EMRK, sofern das Verfahren in seiner Gesamtheit («overall fairness») fair war, die Verteidigungsrechte voll gewahrt blieben und die Verurteilung nicht ausschliesslich auf dem streitigen Beweis beruhte.
+- **Einschlägig für**: Beweisverwertungsverbote, heimliche Tonbandaufnahmen, Fair Trial, Gesamtfairness, Schweiz
+- **Link**: [EGMR Schenk v. Schweiz](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_19880712-10862-84_1988-07-12.html)
 
 ---
 
