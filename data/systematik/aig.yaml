@@ -9,6 +9,9 @@ gruppen:
   - name: "Bewilligungspflicht und Aufenthalt"
     von: 10
     bis: 17
+  - name: "Regelung des Aufenthalts"
+    von: 32
+    bis: 41
   - name: "Familiennachzug"
     von: 42
     bis: 52
