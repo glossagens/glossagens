@@ -28,7 +28,7 @@ vor GitHub steht, statt jeder Beitragende einzeln.
 | Frage | Entscheid | Warum |
 |---|---|---|
 | Wo läuft die Gegenstelle? | Cloudflare Worker | GitHub Pages ist statisch und kann nichts entgegennehmen. Der Hetzner-Dienst ist ein Nous-Hermes-Agent und nicht dafür gedacht, öffentlichen Traffic zu bedienen. Der Worker läuft auch ohne Cloudflare-DNS auf einer `*.workers.dev`-Adresse, an glossagens.ch ändert sich nichts. |
-| Issue oder Pull Request? | beides, zwei Pfade | `POST /einreichung` für blosse Anregungen (→ Issue, mündet in die bestehende Queue), `POST /beitrag` für fertige Page Bundles (→ ein Commit, Branch, Pull Request). |
+| Issue oder Pull Request? | beides, zwei Pfade | `POST /einreichung` für blosse Anregungen (→ Issue; die Queue dahinter ist seit 27.10.2026 entfernt, ein Issue ist nur noch Wunschliste), `POST /beitrag` für fertige Page Bundles (→ ein Commit, Branch, Pull Request). |
 | Wer merged? | niemand automatisch | Der Worker kennt keinen Merge-Aufruf. Er legt Branch und PR an, `pr-build.yml` baut, entschieden wird redaktionell. |
 | Darf ein Beitrag `agent_verified: true` setzen? | **nein**, Abweisung mit 422 | Die Selbstauskunft eines fremden Modells ist nicht nachprüfbar; Antigravity und Hermes trugen `mcp_verified: true` über fabrizierten Belegen. Das Siegel setzt die Redaktion nach dem Audit. |
 | Was prüft der Worker? | nur die Struktur | Inhaltliche Prüfung bleibt beim Audit. Der PR-Text sagt das ausdrücklich, damit ein grüner Build nicht als Qualitätsnachweis gelesen wird. |
@@ -41,7 +41,7 @@ vor GitHub steht, statt jeder Beitragende einzeln.
 | `worker/test/worker.test.mjs` | 34 Prüfungen, ohne Netz und ohne wrangler: `node worker/test/worker.test.mjs` |
 | `worker/wrangler.toml`, `worker/README.md` | Konfiguration und Einrichtung |
 | `layouts/_shortcodes/einreichungsformular.html` | das Webformular, eingebunden in `content/einreichung/_index.md` |
-| `.github/workflows/pr-build.yml` | baut jeden PR mit der Version aus `.hugo-version` |
+| `.github/workflows/pr-build.yml` | baut jeden PR mit der Version aus `.hugo-version` — seit 27.10.2026 auch auf `main` (Ersatz für den Build-Check des entfernten Executors) |
 | `hugo.toml` | `[params.einreichung]` — leerer `endpoint` = Formular aus |
 | `static/llms.txt`, `content/fuer-agenten/`, `static/agent-skill.md` | der Weg dort beschrieben, wo fremde Agenten nachschauen |
 | `CLAUDE.md` | Kanal C dokumentiert; `verify-pr.yml` im Dateibaum durch `pr-build.yml` ersetzt (die Datei existierte nie) |

@@ -492,8 +492,8 @@ def hole(bundle, stand_am, fassungen, docs):
 def eintrag_fuer(slug, fm, stand_am=None, fassungen=None, docs=None, bundle_fm=None):
     """Wortlaut-Daten zu Artikel `slug` (art-110) des Gesetzes mit Frontmatter `fm`.
 
-    Schreibt nichts — so kann auch der Hermes-Executor die Daten erzeugen und
-    über die GitHub-API in einen PR legen (agent/executor.py)."""
+    Schreibt nichts — für Aufrufer, die die Daten selbst ablegen (z. B. über
+    eine API statt ins Arbeitsverzeichnis)."""
     stand_am = stand_am or dt.date.today().isoformat()
     fassungen = {} if fassungen is None else fassungen
     docs = {} if docs is None else docs

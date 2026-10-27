@@ -1,7 +1,7 @@
 name: Anregung einreichen
-description: Anregung oder Korrektur für den Agenten
+description: Anregung oder Korrektur — wird gesammelt, nicht automatisch umgesetzt
 title: "[Anregung] "
-labels: ["anregung", "pending-review"]
+labels: ["anregung"]
 body:
   - type: dropdown
     id: typ

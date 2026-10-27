@@ -2,7 +2,7 @@
 
 ## Projektidee
 
-Glossagens ist ein öffentlicher, juristisch fundierter Gesetzeskommentar, der durch einen autonomen Agenten erstellt und gepflegt wird. Jeder kann Artikel bearbeiten (Wiki-Stil), aber Bearbeitungen werden vor Veröffentlichung durch den Agenten verifiziert. Die Öffentlichkeit kann anonym Anregungen und Aufträge einreichen, die der Agent selbständig umsetzt.
+Glossagens ist ein öffentlicher, juristisch fundierter Gesetzeskommentar, der durch KI-Agenten erstellt und gepflegt wird. Jeder kann Artikel bearbeiten (Wiki-Stil): Beiträge kommen als Pull Request und werden vor dem Merge geprüft. Anregungen ohne fertigen Text nimmt das Issue-Formular entgegen.
 
 ## Architektur
 
@@ -13,32 +13,29 @@ Glossagens ist ein öffentlicher, juristisch fundierter Gesetzeskommentar, der d
 | Frontend | Hugo + Hextra-Theme → GitHub Pages |
 | Content | Markdown-Dateien im GitHub-Repo |
 | Deployment | GitHub Actions (auto-deploy bei Push auf `main`) |
-| Verifikationspipeline | GitHub Actions Webhook → Hermes Agent |
-| Öffentliche Einreichungen | GitHub Issues (strukturiertes Formular) |
-| Agent-Hosting | Externer Hetzner-Server mit Nous-Hermes via externer LLM-API |
+| Beiträge | Pull Requests; `pr-build.yml` baut jeden PR |
+| Anregungen | GitHub Issues (strukturiertes Formular) — Wunschliste, keine automatische Verarbeitung |
 
 ### Datenfluss
 
-Zwei Eingangskanäle — beide landen in derselben Queue:
-
 ```
-Kanal A: Anregung (GitHub Issue)          Kanal B: Fertiger Beitrag (Pull Request)
-         ↓                                          ↓
-Hermes Agent empfängt Webhook             Hermes Agent empfängt Webhook
-         ↓                                          ↓
-LLM generiert Kommentartext               Strukturprüfung (Page Bundle, Frontmatter)
-         ↓                                          ↓
-Agent erstellt PR gegen main              LLM-Qualitätsprüfung (Inhalt, Zitate)
-         ↓                                          ↓
-verify-pr.yml triggert Verifikations-     bei Bestehen: Merge
-Webhook                                   bei Ablehnung: PR-Kommentar + Schliessen
+Fertiger Beitrag (Pull Request)
          ↓
-bei Bestehen: Merge → GitHub Pages Deploy
-bei Ablehnung: PR-Kommentar + Schliessen
+pr-build.yml: Hugo-Build des PR-Branchs
+         ↓
+Prüfung (Audit-Skill, Maintainer)
+         ↓
+Merge auf GitHub → deploy.yml → GitHub Pages
 ```
 
-**Kanal A (Issue)**: Für Anregungen — der Agent generiert den Inhalt selbständig.  
-**Kanal B (PR)**: Für fertige Beiträge von Menschen oder externen Agenten — der Agent verifiziert nur, generiert nichts.
+Den Inhalt schreibt, wer beiträgt — Mensch oder Agent, mit eigenem Zugang zu Fedlex und
+entscheidsuche. Glossagens generiert aus Einreichungen nichts selbst. Bis Oktober 2026 gab es
+einen «Kanal A», in dem ein Hermes-Agent auf dem Hetzner-Server aus Issues Kommentare
+formulierte (`agent/executor.py`, Queue mit `/approve`/`/reject`). Er ist entfernt: Das Modell
+hatte keinen MCP-Zugang, sein Text war per Definition `mcp_verified: false`, und die
+Queue-Endpunkte waren ohne Authentifizierung öffentlich erreichbar.
+
+Ein Issue ist deshalb nur eine Anregung. Wer sie umsetzt, tut das als gewöhnlicher Beitrag.
 
 ### Content-Struktur
 
@@ -66,17 +63,11 @@ data/
     └── zuordnung.yaml                ← Einordnung der Kommentare je Gesetz/Bereich/Artikel
 
 agent/
-├── executor.py                       ← Issue- und PR-Verarbeitungslogik
-├── webhook_server.py                 ← FastAPI-Endpoints (/webhook, /queue, /approve, /reject)
-├── github_client.py                  ← GitHub API-Wrapper
-├── requirements.txt
-├── .env.example
-├── glossagens-agent.service          ← systemd-Unit für Hetzner
+├── ocl_helper.py, ocl_weekly.py      ← opencaselaw-Hilfsskripte (nur Standardbibliothek)
 └── skills/                           ← verbindlicher Standort (.agents/rules/skills-standort.md)
     ├── glossagens-content-creation/  ← Artikel erstellen
     ├── glossagens-audit/             ← Grounding-Audit inkl. Judge-Ledger
     ├── glossagens-lint/              ← Gesetzeswortlaute gegen Fedlex prüfen
-    ├── glossagens-queue/             ← Queue verwalten
     ├── strafzumessungskommentar/     ← Strafzumessungs-Praxiskommentar (strafzumessung.md)
     ├── praxisorientierter-kommentar/ ← Stil-Leitfaden für praxisorientierte Kommentare (Art. 110 StPO, Art. 336 OR)
     └── glossagens-themen/            ← Themen recherchieren und aufbauen, inkl. pruefen.py (Zitate, Links, Anker)
@@ -86,8 +77,8 @@ static/
 
 .github/
 ├── workflows/deploy.yml              ← GitHub Pages Deploy
-├── workflows/verify-pr.yml           ← Webhook an Hermes bei PR
-└── ISSUE_TEMPLATE/anregung.yml       ← Strukturiertes Issue-Formular
+├── workflows/pr-build.yml            ← Hugo-Build jedes Pull Requests
+└── ISSUE_TEMPLATE/anregung.yml       ← Strukturiertes Issue-Formular (Anregungen)
 ```
 
 **Wichtig für den Agenten**: Neue Artikel immer als Page Bundle erstellen:
@@ -299,8 +290,7 @@ git diff --stat data/wortlaut/                                   # was hat sich 
   Besteht zur zitierten Norm ein Kommentar, zeigt der Kasten unten automatisch einen blau
   hinterlegten Link «Zur Kommentierung» (nicht im eigenen Bundle des Artikels).
 - **Fehlende Daten-Datei** bricht den Build ab (`errorf`) — gewollt, sonst ginge ein leerer
-  Abschnitt live. Bei externen PRs fängt das der Build-Check in `executor.py` ab; im
-  Issue-Kanal setzt der Executor Shortcode und Daten selbst ein (`_wortlaut_einsetzen`).
+  Abschnitt live. Bei PRs fängt das `pr-build.yml` ab; die Daten-Datei gehört in denselben PR.
 - **Keine** eigene Quellen- oder Standzeile («*Wortlaut geprüft gegen Fedlex …*») unter den
   Shortcode — Stand und Fassungsvermerke zeigt er selbst.
 - **Nachführen** ist ein erneuter Skriptlauf (Skill `glossagens-lint`). Eine Datei wird nur
@@ -495,22 +485,22 @@ Wer in diesen Skripten die Trefferliste anfasst, nimmt die **sichtbare**
 je nach Breite eingeblendet — sonst landet der Eintrag in der unsichtbaren
 Liste.
 
-## PR-Verifikation durch Hermes
+## PR-Prüfung
 
-Wenn ein externer PR eintrifft, prüft `executor.py` zweistufig:
+Ein externer PR wird vor dem Merge geprüft:
 
-1. **Strukturprüfung** (automatisch, kein LLM):
+1. **Struktur** (`pr-build.yml` baut automatisch; den Rest prüft, wer merged):
    - Kein Flat-File (`art-001.md`) — nur Page Bundle (`art-001/_index.md`)
    - Alle 8 Pflichtfelder im Frontmatter: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`, `revisions`
    - `revisions` enthält mindestens einen Eintrag mit `date`, `by`, `model`, `mcp_verified`
+   - Daten-Datei für `{{< wortlaut >}}` liegt bei
 
-2. **Inhaltsprüfung** (LLM):
+2. **Inhalt** (Skill `glossagens-audit`):
    - Sachliche Korrektheit, keine erfundenen Zitate
    - Akademischer Zitierstil
    - Kohärenz mit bestehendem Kontext
 
-Bei Strukturfehler: sofortiger Reject ohne LLM-Call.  
-Bei Bestehen beider Stufen: automatischer Merge + Deploy.
+Gemerged wird nie automatisch. Ein grüner Build ist kein Qualitätsnachweis.
 
 ## Build-Check vor dem Push
 
@@ -525,13 +515,9 @@ Absicherung:
 
 Beim Anheben der Hugo-Version genügt es, `.hugo-version` zu ändern; CI zieht automatisch nach.
 
-## GitHub Secrets
-
-- `HERMES_WEBHOOK_URL` — Endpoint auf dem Hetzner-Server
-- `HERMES_API_KEY` — Auth-Token für den Webhook
-
 ## Offene nächste Schritte
 
 - [ ] Weitere Gesetze/Artikel befüllen
+- [ ] Beiträge ohne GitHub-Konto (Gateway vor GitHub, siehe `plan-kontofreie-einreichung.md`)
 - [x] Handgepflegte Artikellisten aus den Bodies entfernt; Systematik nach `data/systematik/` überführt
-- [x] Hugo-Build-Check vor Merge in `_execute_pr_merge` einbauen
+- [x] Hugo-Build-Check für PRs (`pr-build.yml`, vorher in `_execute_pr_merge`)

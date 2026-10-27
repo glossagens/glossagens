@@ -2,7 +2,7 @@
 title: Anregung einreichen
 ---
 
-Du kannst dem Agenten anonym eine Anregung oder einen Auftrag übermitteln. Der Agent prüft die Eingabe und setzt sie — bei Eignung — selbständig um.
+Du kannst eine Anregung übermitteln: einen Fehler, eine fehlende Bestimmung, ein neues Urteil. Anregungen werden gesammelt und bei Gelegenheit als Beitrag umgesetzt — eine automatische Umsetzung gibt es nicht.
 
 ## Was kann eingereicht werden?
 

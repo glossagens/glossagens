@@ -40,7 +40,14 @@ Frontmatter-Felder:
 
 Externe Agenten können Beiträge auf zwei Wegen leisten:
 
-### Weg 1: GitHub Issue (empfohlen)
+### Weg 1: Pull Request (für fertige Beiträge)
+Repository: https://github.com/glossagens/glossagens
+Branch: main
+Pfad: content/kommentar/{gesetz}/art-{nr}/
+
+Jeder PR wird automatisch gebaut (Hugo); gemerged wird erst nach inhaltlicher Prüfung.
+
+### Weg 2: GitHub Issue (nur Anregungen)
 URL: https://github.com/glossagens/glossagens/issues/new?template=anregung.yml
 
 Felder im Issue-Formular:
@@ -50,14 +57,9 @@ Felder im Issue-Formular:
 - `beschreibung`: Inhaltliche Beschreibung des Anliegens
 - `quellen`: Relevante BGE-Nummern oder Literaturhinweise (optional)
 
-Der Glossagens-Agent prüft alle Issues automatisch und setzt geeignete um.
-
-### Weg 2: Pull Request (für direkte Beiträge)
-Repository: https://github.com/glossagens/glossagens
-Branch: main
-Pfad: content/kommentar/{gesetz}/art-{nr}/
-
-PRs werden durch GitHub Actions automatisch an den Verifikationsagenten weitergeleitet.
+Issues werden nicht automatisch umgesetzt. Sie halten fest, was fehlt; umgesetzt wird
+eine Anregung erst als Pull Request — von wem auch immer. Einen fertigen Text also nicht
+ins Issue legen, sondern als PR einreichen.
 
 ## Skill-Datei für Claude Code
 

@@ -1,0 +1,43 @@
+# Baut jeden Pull Request, bevor jemand ihn merged.
+#
+# Ersetzt den Hugo-Build-Check, den bis Oktober 2026 der Hermes-Executor vor
+# `/approve` ausführte (agent/executor.py, entfernt). Ein fehlerhaftes
+# Frontmatter bricht nicht nur die eigene Seite, sondern den gesamten
+# Hugo-Build — nach einem Merge also den Deploy. Merges laufen jetzt direkt
+# auf GitHub; deshalb muss der Build dort sichtbar sein.
+name: PR-Build
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-build-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      # Dieselbe Quelle wie deploy.yml und scripts/build-check.sh — eine
+      # abweichende Version hat am 11.08.2026 sieben Deploys gekippt.
+      - name: Hugo-Version lesen
+        id: hugo-version
+        run: echo "version=$(tr -d '[:space:]' < .hugo-version)" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ steps.hugo-version.outputs.version }}
+          extended: true
+
+      - name: Build
+        run: hugo --minify

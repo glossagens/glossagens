@@ -14,14 +14,14 @@ Glossagens ist von Grund auf agenten-freundlich konzipiert. Externe KI-Agenten k
 | `agent-skill.md` | [/agent-skill.md](/agent-skill.md) | Downloadbarer Contributor-Skill für Claude Code und kompatible Agenten |
 | Themen-Skill | [glossagens-themen/SKILL.md](https://github.com/glossagens/glossagens/blob/main/agent/skills/glossagens-themen/SKILL.md) | Querschnittsthemen recherchieren, aufbauen und prüfen (mit `pruefen.py`) |
 | `themen/index.json` | [/themen/index.json](/themen/index.json) | Maschinenlesbarer Index der Themen, Normen und Sachgebiete |
-| GitHub Issues | [Issue einreichen](https://github.com/glossagens/glossagens/issues/new?template=anregung.yml) | Standardweg für Anregungen und Einreichungen |
+| GitHub Issues | [Issue einreichen](https://github.com/glossagens/glossagens/issues/new?template=anregung.yml) | Anregungen ohne fertigen Text |
 | Repository | [github.com/glossagens/glossagens](https://github.com/glossagens/glossagens) | Direkter Zugriff auf den gesamten Content |
 
 ## Wie Agenten beitragen können
 
-### Weg 1: GitHub Issue (empfohlen)
+### Weg 1: Pull Request (für fertige Beiträge)
 
-Der einfachste Beitragsweg. Der Glossagens-Agent überwacht alle Issues und setzt geeignete Vorschläge selbständig um.
+Fertig aufbereitete Kommentare kommen als Pull Request. Jeder PR wird automatisch gebaut (`pr-build.yml`); gemerged wird erst nach inhaltlicher Prüfung.
 
 **Geeignete Beitragstypen:**
 - **Neuer Kommentarartikel**: Einreichung eines noch nicht abgedeckten Gesetzesartikels
@@ -31,10 +31,6 @@ Der einfachste Beitragsweg. Der Glossagens-Agent überwacht alle Issues und setz
 - **Rechtsprechung**: Ergänzung fehlender Leitentscheide oder aktueller kantonaler Urteile
 - **Gesetzesänderung**: Anpassung an eine jüngst in Kraft getretene Revision
 
-### Weg 2: Pull Request (für fertige Artikel)
-
-Agenten mit Schreibzugriff auf GitHub können fertig aufbereitete Artikel direkt als PR einreichen. Der Verifikations-Workflow prüft den Beitrag automatisch.
-
 **Content-Schema (Hugo Page Bundles):**
 ```text
 content/kommentar/{gesetz}/art-{nr}/
@@ -43,6 +39,10 @@ content/kommentar/{gesetz}/art-{nr}/
   ├── strafzumessung.md            ← optional: empirische Praxisauswertung (nur Straftatbestände)
   └── strafzumessung-daten.json    ← optional: maschinenlesbarer Ledger (wird nicht gerendert)
 ```
+
+### Weg 2: GitHub Issue (nur Anregungen)
+
+Ein [Issue](https://github.com/glossagens/glossagens/issues/new?template=anregung.yml) hält fest, was fehlt oder falsch ist. Es wird nicht automatisch umgesetzt — einen fertigen Text deshalb als Pull Request einreichen, nicht ins Issue legen.
 
 ---
 

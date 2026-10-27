@@ -4,8 +4,8 @@ description: >-
   Contribute legal commentary articles and improvements to Glossagens — a public Swiss law commentary platform.
   Research statute text (Fedlex-first), doctrine, and case law (entscheidsuche / opencaselaw lookups), write practice-oriented
   commentaries with extensive factual case narratives (Lebenssachverhalte), two-sided threshold jurisprudence (Abgrenzungskasuistik:
-  angewandt vs. verworfen), structural test schemes, and role-based practice notes, then audit and submit via GitHub Issues or PRs.
-version: 2.1.0
+  angewandt vs. verworfen), structural test schemes, and role-based practice notes, then audit and submit as a pull request.
+version: 2.2.0
 author: Glossagens
 license: CC BY-SA 4.0
 tools:
@@ -43,7 +43,7 @@ metadata:
 
 Contribute to **Glossagens** — a public, agent-maintained commentary on Swiss federal law at https://glossagens.ch/.
 
-Anyone (human or agent) can suggest additions. The Glossagens agent reviews all submissions and implements suitable ones autonomously.
+Anyone (human or agent) can contribute. Contributions arrive as pull requests and are reviewed before they are merged.
 
 ---
 
@@ -100,8 +100,7 @@ mcp__fedlex-connector__list_amendments: { "rs_number": "<SR>" }
 contains only the line `{{< wortlaut >}}`. In a checkout of the repository, generate the data
 file with `python3 scripts/wortlaut.py content/kommentar/<gesetz>/art-<NNN>` (standard library
 only; writes `data/wortlaut/<gesetz>/art-<NNN>.json` from the official Fedlex consolidation) and
-include it in the same PR. Without the data file the PR's Hugo build check fails. Without a
-checkout (Issue channel), leave the section to the maintainers: the agent inserts it.
+include it in the same PR. Without the data file the PR's Hugo build check fails.
 
 Common Swiss Federal Statutes and SR numbers:
 
@@ -218,7 +217,7 @@ Ausdrückliche Thematisierung von:
 
 ## Step 4: Self-Audit & Belegprüfung (Pre-Submission Verification)
 
-Vor dem Einreichen via Issue oder PR müssen zwingend Grounding-Checks durchgeführt werden:
+Vor dem Einreichen als PR müssen zwingend Grounding-Checks durchgeführt werden:
 
 ### 1. Existenz & kanonische Zitate (`cite`)
 Verifiziere, dass jede Fundstelle existiert. Nutze das verbatim Ergebnis aus `citation_string_de`.
@@ -251,36 +250,14 @@ ungerechtfertigten Kündigung). Recherche, Aufbau nach Typ und Prüfung beschrei
 
 ---
 
-## Step 5: Submit via GitHub Issue (Recommended)
+## Step 5: Submit as Pull Request
 
-Create an issue using the structured template:
-**URL**: https://github.com/glossagens/glossagens/issues/new?template=anregung.yml
+Finished work is submitted as a pull request. Every PR is built automatically (Hugo); it is
+merged only after a content review — never automatically.
 
-### Format for Practice-Oriented Commentary Submissions:
-```markdown
-**Gesetz**: StPO
-**Artikel**: Art. 25
-**Typ**: neuer_artikel (praxisorientiert)
-
-**Gesetzeswortlaut**: wird von Glossagens aus Fedlex eingesetzt (`{{< wortlaut >}}`) — nicht mitschicken.
-
-**Prüfschema & Tatbestandsmerkmale**:
-1. Sachliche Zuständigkeit (Abs. 1)
-2. Örtliche Zuständigkeit (Abs. 2)
-3. Vorbehalt besonderer Bundesgerichtsbarkeit
-
-**Kasuistik & Lebenssachverhalte**:
-- [BGE 144 IV 202 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2): [Konkreter Lebenssachverhalt mit Akteuren, Konflikt und Entscheidgründen]
-- Gegenüberstellung angewandt vs. verworfen: [Beispiel A] vs. [Beispiel B]
-
-**Kantonale Praxisfragen & Praxishinweise**:
-- [Streitpunkt Obergericht ZH vs. BE]
-- [Handlungsempfehlung für die Verteidigung / Verfahrensleitung]
-```
-
----
-
-## Step 6: Direct Pull Request (for complete Page Bundles)
+GitHub Issues (https://github.com/glossagens/glossagens/issues/new?template=anregung.yml) are
+for suggestions only. They are **not** processed automatically, so do not put a finished
+commentary into an issue.
 
 If contributing ready-to-merge files, fork the repository and create a PR:
 
