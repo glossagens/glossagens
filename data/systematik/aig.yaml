@@ -27,6 +27,9 @@ gruppen:
   - name: "Vorläufige Aufnahme"
     von: 83
     bis: 84
+  - name: "Aufgaben und Zuständigkeiten der Behörden"
+    von: 85
+    bis: 100
   - name: "Strafbestimmungen"
     von: 115
     bis: 122
