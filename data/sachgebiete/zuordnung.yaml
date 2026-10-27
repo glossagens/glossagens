@@ -98,6 +98,9 @@ bv:
     - { von: 143, bis: 191, sachgebiete: [staatsorganisation.behoerden] }
     - { von: 188, bis: 191, sachgebiete: [staatsorganisation.verfassungsgerichtsbarkeit, staatsorganisation.behoerden] }
 
+bvg:
+  standard: [bvg]
+
 dbg:
   standard: [steuern.einkommen_vermoegen]
   bereiche:
@@ -111,6 +114,9 @@ elg:
 
 emrk:
   standard: [grundrechte]
+
+fzg:
+  standard: [bvg]
 
 gschg:
   standard: [umwelt]
