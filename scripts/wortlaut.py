@@ -484,11 +484,12 @@ def main():
 def hole(bundle, stand_am, fassungen, docs):
     gesetz, slug = bundle.parent.name, bundle.name
     fm = (bundle.parent / "_index.md").read_text(encoding="utf-8")
-    eintrag = eintrag_fuer(slug, fm, stand_am, fassungen, docs)
+    bundle_fm = (bundle / "_index.md").read_text(encoding="utf-8") if (bundle / "_index.md").exists() else ""
+    eintrag = eintrag_fuer(slug, fm, stand_am, fassungen, docs, bundle_fm=bundle_fm)
     return schreibe(REPO / "data" / "wortlaut" / gesetz / f"{slug}.json", eintrag), eintrag
 
 
-def eintrag_fuer(slug, fm, stand_am=None, fassungen=None, docs=None):
+def eintrag_fuer(slug, fm, stand_am=None, fassungen=None, docs=None, bundle_fm=None):
     """Wortlaut-Daten zu Artikel `slug` (art-110) des Gesetzes mit Frontmatter `fm`.
 
     Schreibt nichts — so kann auch der Hermes-Executor die Daten erzeugen und
@@ -499,6 +500,10 @@ def eintrag_fuer(slug, fm, stand_am=None, fassungen=None, docs=None):
     if re.search(r"^ebene:\s*kantonal", fm, re.M):
         return lexwork(slug, fm, docs)
     aid, art_nr = artikel_id(slug.removeprefix("art-"))
+    if bundle_fm:
+        m_anker = re.search(r'^fedlex_anker:\s*"?([^\s"\n]+)"?\s*$', bundle_fm, re.M)
+        if m_anker:
+            aid = m_anker.group(1)
     sr = sr_aus_frontmatter(fm)
     if sr not in fassungen:
         fassungen[sr] = fassung(sr, stand_am)

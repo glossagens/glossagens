@@ -1,0 +1,36 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-006 -> 6).
+# Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
+# Untergruppe der vorangehenden ebene: 1.
+gruppen:
+  - name: "Anhang I — Freizügigkeit"
+    von: 1
+    bis: 34
+  - name: "Anhang I, Abschnitt I — Allgemeine Bestimmungen"
+    von: 1
+    bis: 5
+    ebene: 2
+  - name: "Anhang I, Abschnitt II — Arbeitnehmer (Art. 6–11)"
+    von: 6
+    bis: 11
+    ebene: 2
+  - name: "Anhang I, Abschnitt III — Selbständig Erwerbstätige"
+    von: 12
+    bis: 16
+    ebene: 2
+  - name: "Anhang I, Abschnitt IV — Dienstleistungserbringung"
+    von: 17
+    bis: 23
+    ebene: 2
+  - name: "Anhang I, Abschnitt V — Personen ohne Erwerbstätigkeit"
+    von: 24
+    bis: 24
+    ebene: 2
+  - name: "Anhang I, Abschnitt VI — Erwerb von Immobilien"
+    von: 25
+    bis: 25
+    ebene: 2
+  - name: "Anhang I, Abschnitt VII — Übergangs- und Schlussbestimmungen"
+    von: 26
+    bis: 34
+    ebene: 2

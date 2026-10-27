@@ -115,6 +115,9 @@ elg:
 emrk:
   standard: [grundrechte]
 
+fza:
+  standard: [auslaenderrecht.fza]
+
 fzg:
   standard: [bvg]
 
