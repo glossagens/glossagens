@@ -70,6 +70,8 @@ bewg:
 
 bgbb:
   standard: [baeuerliches_bodenrecht]
+  artikel:
+    art-088: [baeuerliches_bodenrecht, verwaltungsverfahren, staatsorganisation.foederalismus]
 
 bgfa:
   standard: [freie_berufe]
