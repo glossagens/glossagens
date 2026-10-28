@@ -1,0 +1,11 @@
+{
+  "name": "glossagens-mcp",
+  "private": true,
+  "type": "module",
+  "description": "MCP-Server für Glossagens (Cloudflare Worker)",
+  "scripts": {
+    "test": "node test/server.test.mjs",
+    "dev": "npx wrangler dev",
+    "deploy": "npx wrangler deploy"
+  }
+}

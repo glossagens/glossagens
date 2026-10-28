@@ -1,0 +1,18 @@
+# Glossagens MCP-Server — Cloudflare Worker. Einrichtung: mcp/README.md
+name = "glossagens-mcp"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+# Erreichbar unter https://glossagens-mcp.<konto>.workers.dev/mcp.
+# Eigene Domain (z. B. mcp.glossagens.ch) erst, wenn glossagens.ch über
+# Cloudflare-DNS läuft; dann hier `routes` ergänzen.
+workers_dev = true
+
+[vars]
+# Katalog und Themenindex: die veröffentlichte Seite.
+SITE_URL = "https://glossagens.ch"
+# Text der Kommentare und Wortlaut-Daten: das Repo, Stand main.
+RAW_URL = "https://raw.githubusercontent.com/glossagens/glossagens/main"
+
+[observability]
+enabled = true
