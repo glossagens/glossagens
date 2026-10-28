@@ -14,3 +14,6 @@ audit-report.json
 # Dauerhaft ist nur der Verdikt-Ledger (agent/skills/glossagens-audit/verdicts/).
 audit-jobs/
 scratch/entscheide/
+
+# Lokaler Zustand von wrangler (mcp/)
+mcp/.wrangler/

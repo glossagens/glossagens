@@ -4,6 +4,18 @@
 
 Glossagens ist eine öffentliche, frei zugängliche Kommentarsammlung zum Schweizer Bundesrecht. Kommentare werden durch einen autonomen Agenten auf Basis von Gesetzestexten, Bundesgerichtsentscheiden und Lehrmeinungen erstellt und laufend aktualisiert.
 
+## MCP-Server
+
+Glossagens ist als MCP-Server (Streamable HTTP, ohne Anmeldung) erreichbar:
+
+```
+https://glossagens-mcp.glossagens.workers.dev/mcp
+```
+
+Tools: `glossagens_suchen`, `gesetze_auflisten`, `artikel_auflisten`, `kommentar_lesen` (mit Gesetzeswortlaut), `thema_lesen`. Anleitung: https://glossagens.ch/mcp/
+
+Ohne MCP: Katalog aller Gesetze und Artikel mit Titel, Tags und Prüfstand unter https://glossagens.ch/kommentar/index.json, Themen unter https://glossagens.ch/themen/index.json.
+
 ## Bestand (aktuell abrufbar)
 
 Den jeweils aktuellen Bestand — alle Gesetze und Artikel — können Agenten direkt über die GitHub Contents API abfragen:
