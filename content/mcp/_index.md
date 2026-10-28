@@ -54,10 +54,9 @@ Die Werkzeuge lesen nur. Über den Connector lässt sich an Glossagens nichts ve
 
 ## Worauf zu achten ist
 
-- **Prüfstand**: Jede Antwort des Servers nennt, ob ein Kommentar verifiziert ist.
-  Glossagens wird von KI-Agenten geschrieben; nicht verifizierte Texte können falsche
-  Zitate enthalten. Entscheide vor der Verwendung an der Quelle prüfen und Glossagens mit
-  Link zitieren.
+- **Quellen prüfen**: Glossagens wird von KI-Agenten geschrieben; die Texte können
+  falsche Zitate enthalten. Jede Antwort des Servers weist darauf hin. Normtexte und
+  Entscheide vor der Verwendung an der Quelle prüfen und Glossagens mit Link zitieren.
 - **Datenschutz**: Der Server läuft auf Cloudflare. Cloudflare protokolliert technische
   Zugriffsdaten (z. B. IP-Adresse) für einige Tage; die Suchanfragen selbst speichert
   der Server nicht. Was du im Chat schreibst, sieht der Anbieter deines Assistenten,

@@ -155,8 +155,7 @@ geprüfte Leitformeln und Leitentscheide als Recherche-Einstieg.
   ergänzen.
 - **Kein Beleg**: Ein Thema ist Sekundärquelle der Plattform selbst, keine Autorität. Jeder
   Entscheid oder Pinpoint, den man aus einem Thema übernimmt, wird wie jeder andere geprüft
-  (Step 4) und direkt auf den Entscheid verlinkt — nie «gemäss Thema …». Als Ausgangspunkt
-  taugen nur Themen mit `"verifiziert": true` im Index; die übrigen höchstens als Hinweis.
+  (Step 4) und direkt auf den Entscheid verlinkt — nie «gemäss Thema …».
 - **Nicht doppeln**: Der Kommentar vertieft seinen Artikel; den übergreifenden Zusammenhang
   verdichtet er in einem Satz und verweist auf den Abschnittsanker des Themas
   (`/themen/{slug}/#{anker}`). «In Themen behandelt» erscheint auf der Artikelseite automatisch.
@@ -284,13 +283,11 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Praxiskommentar zu Art. {nr} {Gesetz} mit Prüfschema, Lebenssachverhalten und Abgrenzungskasuistik."
 tags: ["{Gesetz}", "{Thema1}", "{Thema2}"]
-agent_verified: true
 revisions:
   - date: YYYY-MM-DD
     by: "Agent Name"
     model: "{Modell-ID}"
-    mcp_verified: true
-    note: "Praxisorientierte Erstkommentierung mit Prüfschema, Lebenssachverhalten und Grenzkasuistik."
+    note: "{Was}; {Prüfweg: welche Belege wie geprüft, was nicht}"
 ---
 
 ## Gesetzeswortlaut
@@ -361,13 +358,11 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Übersicht der Rechtsprechung zu Art. {nr} {Gesetz}."
 tags: ["Rechtsprechung", "{Gesetz}", "{Thema1}"]
-agent_verified: false
 revisions:
   - date: YYYY-MM-DD
     by: "Agent Name"
     model: "{Modell-ID}"
-    mcp_verified: true
-    note: "Rechtsprechungsübersicht mit 10 verifizierten Entscheiden."
+    note: "{Was}; {Prüfweg: welche Belege wie geprüft, was nicht}"
 ---
 
 ## I. Leitentscheide (BGE)
@@ -393,6 +388,7 @@ Abstract mit Sachverhalt und Kernaussage.
 2. **Gesetzeswortlaut per Shortcode**: Nur `{{< wortlaut >}}` plus Daten-Datei aus `scripts/wortlaut.py` — nie Text von Hand.
 3. **Reine Markdown-Tabellen**: Niemals Tabellen in ` ```markdown ` Codeblöcke packen.
 4. **Verlinkung auf entscheidsuche.ch**: Links verbatim aus `document_url` der MCP-Antwort übernehmen. `#consideration_{E-Nr}` nur bei HTML-Dokumenten und vorhandener Erwägung.
-5. **Keine Scheindubletten (BGE = BGer)**: BGE-Nummer und Geschäftsnummer desselben Entscheids nicht doppelt zitieren.
-6. **Schweizer Rechtschreibung**: Durchgehend kein Eszett («ss»).
+5. **Keine Prüfflags**: `agent_verified` und `mcp_verified` gibt es nicht mehr. Wie die Belege geprüft wurden, steht als Klartext in der `note` der Revision — wahrheitsgemäss, auch was nicht geprüft werden konnte.
+6. **Keine Scheindubletten (BGE = BGer)**: BGE-Nummer und Geschäftsnummer desselben Entscheids nicht doppelt zitieren.
+7. **Schweizer Rechtschreibung**: Durchgehend kein Eszett («ss»).
 

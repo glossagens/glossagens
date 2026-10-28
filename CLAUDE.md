@@ -32,7 +32,7 @@ Den Inhalt schreibt, wer beiträgt — Mensch oder Agent, mit eigenem Zugang zu 
 entscheidsuche. Glossagens generiert aus Einreichungen nichts selbst. Bis Oktober 2026 gab es
 einen «Kanal A», in dem ein Hermes-Agent auf dem Hetzner-Server aus Issues Kommentare
 formulierte (`agent/executor.py`, Queue mit `/approve`/`/reject`). Er ist entfernt: Das Modell
-hatte keinen MCP-Zugang, sein Text war per Definition `mcp_verified: false`, und die
+hatte keinen MCP-Zugang, seine Zitate waren also nie an der Quelle geprüft, und die
 Queue-Endpunkte waren ohne Authentifizierung öffentlich erreichbar.
 
 Ein Issue ist deshalb nur eine Anregung. Wer sie umsetzt, tut das als gewöhnlicher Beitrag.
@@ -92,7 +92,7 @@ mcp/                                  ← MCP-Server (Cloudflare Worker), siehe 
 2a. Abschnitt `## Gesetzeswortlaut` enthält nur `{{< wortlaut >}}`; die Daten mit `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{nr}` erzeugen und mit committen (siehe „Gesetzeswortlaut: Shortcode `wortlaut`").
 3. `rechtsprechung.md` für die Rechtsprechungsübersicht
 3a. Bei Straftatbeständen optional `strafzumessung.md` — empirischer Strafzumessungs-Praxiskommentar aus der publizierten Praxis (Skill `strafzumessungskommentar`, `weight: 98`). Die Artikelseite verlinkt die Seite automatisch, sobald sie im Bundle liegt (`layouts/kommentar/list.html`).
-4. In **beiden** Dateien einen `revisions`-Eintrag setzen (wer / welches KI-Modell / `mcp_verified`) — Pflicht bei jeder Änderung, siehe Abschnitt „Revisions-Vermerk".
+4. In **beiden** Dateien einen `revisions`-Eintrag setzen (wer / welches KI-Modell / was) — Pflicht bei jeder Änderung, siehe Abschnitt „Revisions-Vermerk".
 
 ### Frontmatter-Schema — Gesetzesübersicht (`content/kommentar/{gesetz}/_index.md`)
 
@@ -209,13 +209,11 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "..."
 tags: ["...", "..."]
-agent_verified: true   # nur nach Verifikation; nur zulässig, wenn jüngste Revision mcp_verified: true
 revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt „Revisions-Vermerk")
   - date: YYYY-MM-DD
-    by: "Name des Bearbeiters"    # Mensch oder Agent, z. B. "Claude Code", "Hermes Agent", "Jonas Achermann"
+    by: "Name des Bearbeiters"    # Mensch oder Agent, z. B. "Claude Code", "Jonas Achermann"
     model: "claude-opus-4-8"      # exakte KI-Modell-ID; "human" bei rein manueller Bearbeitung
-    mcp_verified: true            # true nur, wenn Gesetzestexte (Fedlex) UND Entscheide (entscheidsuche/opencaselaw) geprüft
-    note: "kurze Beschreibung der Änderung"   # optional
+    note: "kurze Beschreibung der Änderung und des Prüfwegs"
 ---
 ```
 
@@ -229,13 +227,11 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Übersicht der Entscheide zu Art. X ..."
 tags: ["Rechtsprechung", ...]
-agent_verified: false  # wird separat verifiziert
 revisions:             # Pflicht — neuester Eintrag zuoberst (siehe Abschnitt „Revisions-Vermerk")
   - date: YYYY-MM-DD
     by: "Name des Bearbeiters"
     model: "claude-opus-4-8"      # exakte KI-Modell-ID; "human" bei rein manueller Bearbeitung
-    mcp_verified: true            # true nur, wenn alle Entscheide via entscheidsuche/opencaselaw geprüft
-    note: "kurze Beschreibung der Änderung"   # optional
+    note: "kurze Beschreibung der Änderung und des Prüfwegs"
 ---
 ```
 
@@ -340,19 +336,19 @@ Regeln:
 
 ### Pflicht: Revisions-Vermerk bei jeder Änderung
 
-**Jede** inhaltliche Änderung an einem Kommentarartikel (`_index.md` **und** `rechtsprechung.md`) — auch die Neuanlage — MUSS als neuer Eintrag **zuoberst** in der `revisions:`-Liste des Frontmatters vermerkt werden. So ist jederzeit nachvollziehbar, wer mit welchem KI-Modell den Beitrag erstellt/geändert hat und ob die Zitate maschinell verifiziert wurden. Pflichtangaben pro Eintrag:
+**Jede** inhaltliche Änderung an einem Kommentarartikel (`_index.md` **und** `rechtsprechung.md`) — auch die Neuanlage — MUSS als neuer Eintrag **zuoberst** in der `revisions:`-Liste des Frontmatters vermerkt werden. So ist jederzeit nachvollziehbar, wer mit welchem KI-Modell den Beitrag erstellt/geändert hat. Pflichtangaben pro Eintrag:
 
 | Feld | Bedeutung |
 |------|-----------|
 | `date` | Datum der Änderung (`YYYY-MM-DD`) |
 | `by` | **Wer** die Änderung vorgenommen hat — Mensch (`"Jonas Achermann"`) oder Agent (`"Claude Code"`, `"Hermes Agent"`) |
 | `model` | **Mit welchem KI-Modell** — exakte Modell-ID (z. B. `claude-opus-4-8`, `hermes3`); bei rein manueller Bearbeitung ohne KI: `human` |
-| `mcp_verified` | `true` **nur**, wenn **alle** zitierten Gesetzestexte **und** Entscheide maschinell verifiziert wurden — Gesetzestexte über die **Fedlex-MCP** bzw. per `{{< wortlaut >}}` aus `scripts/wortlaut.py`, Entscheide über entscheidsuche (`search_by_case_number` / `fetch_document`) oder opencaselaw (`cite` / `get_erwaegung` / `get_regeste`). Andernfalls `false` (siehe „Quellen für Gesetzeswortlaute" und „Verlinkung von Entscheiden") |
-| `note` | optional — kurze Beschreibung der Änderung |
+| `note` | kurze Beschreibung der Änderung; wie die Belege geprüft wurden, steht hier als Klartext (z. B. «Entscheide via entscheidsuche geprüft», «ohne Quellenzugang, Zitate ungeprüft») |
 
 Regeln:
 - Neuester Eintrag **zuoberst**; ältere Einträge bleiben erhalten (Historie, nicht überschreiben).
-- `agent_verified: true` darf **nur** gesetzt werden, wenn die jüngste Revision `mcp_verified: true` trägt. Ein von einem LLM ohne MCP-Zugang (z. B. reiner Hermes-`generate()`-Aufruf) erzeugter Text ist niemals `agent_verified: true` — er trägt `mcp_verified: false`.
+- Die Felder `agent_verified` und `mcp_verified` gibt es seit 28.10.2026 nicht mehr — **nicht setzen**. Sie waren Selbstauskünfte, die niemand nachprüfen konnte: Antigravity- und Hermes-Revisionen trugen `true` über fabrizierten Zitaten, und der MCP-Server gab das als «verifiziert» weiter. Ob ein Text stimmt, zeigt nur das Audit (Skill `glossagens-audit`), nicht eine Behauptung im Frontmatter.
+- Ergänzend gehört die Modell-ID als Trailer in die Commit-Message (`Co-Authored-By: …`); die Revision im Frontmatter ersetzt sie nicht, weil Squash-Merges und Sammel-Commits die Historie pro Artikel verlieren.
 - Fehlt der `revisions`-Block bei einem eingereichten PR, ist das ein Strukturfehler (siehe „PR-Verifikation").
 
 ### Tabellenformatierung: Niemals in Code-Fences einfassen
@@ -374,7 +370,7 @@ Anlage: `hugo new themen/{slug}/_index.md` (Archetyp `archetypes/themen.md`). Re
 **stabile** URL — bger-update verlinkt darauf. Umbenennen nur mit `aliases`.
 
 Frontmatter: Pflichtfelder wie beim Kommentarartikel (`title`, `date`, `lastmod`, `description`,
-`tags`, `agent_verified`, `revisions` — Revisions-Vermerk und `mcp_verified` gelten unverändert),
+`tags`, `revisions` — der Revisions-Vermerk gilt unverändert),
 dazu:
 
 | Feld | Bedeutung |
@@ -423,9 +419,7 @@ Darstellung (`layouts/themen/list.html`, Daten aus `layouts/_partials/themen/ind
 **Index für bger-update**: `/themen/index.json` (`layouts/themen/list.json.json`) mit
 `gesetze` (Kürzel, SR), `normen` (`"or/art-336c"` → Kommentar-URL, Themen), `sachgebiete`
 (Schlüssel genau wie getaggt → Themen, Kommentare) und `themen` (Titel, URL, `kurz`, Typ,
-Sachgebiete, Normen, Stichworte, Abschnittsanker, `verifiziert`). `verifiziert` ist
-`agent_verified` **und** `mcp_verified` der jüngsten Revision — nur solche Themen sind als
-Verweisziel gedacht.
+Sachgebiete, Normen, Stichworte, Abschnittsanker). Einen Prüfstand führt der Index nicht.
 
 ## Suche
 
@@ -501,8 +495,9 @@ Einreichen ohne GitHub-Konto kommt später in denselben Worker
 Der Worker liest nur Öffentliches und hält keinen Schlüssel:
 - **Katalog** `/kommentar/index.json` (`layouts/kommentar/list.json.json`, erzeugt über
   `outputs` im Frontmatter von `content/kommentar/_index.md`): Gesetze und Artikel mit
-  Titel, Beschreibung, Tags, Sachgebieten, vorhandenen Teilen und Prüfstand.
-  `verifiziert` wie im Themenindex.
+  Titel, Beschreibung, Tags, Sachgebieten und vorhandenen Teilen. Jede Antwort, die
+  Text liefert, trägt den festen Hinweis, dass er KI-erstellt ist und Zitate an der
+  Quelle zu prüfen sind.
 - **Themen** `/themen/index.json`.
 - **Text** aus `raw.githubusercontent.com`, Stand `main`; `{{< wortlaut >}}` setzt er als
   Zitatblock aus `data/wortlaut/` ein.
@@ -516,8 +511,9 @@ Ein externer PR wird vor dem Merge geprüft:
 
 1. **Struktur** (`pr-build.yml` baut automatisch; den Rest prüft, wer merged):
    - Kein Flat-File (`art-001.md`) — nur Page Bundle (`art-001/_index.md`)
-   - Alle 8 Pflichtfelder im Frontmatter: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`, `revisions`
-   - `revisions` enthält mindestens einen Eintrag mit `date`, `by`, `model`, `mcp_verified`
+   - Alle 7 Pflichtfelder im Frontmatter: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `revisions`
+   - `revisions` enthält mindestens einen Eintrag mit `date`, `by`, `model`, `note`
+   - Kein `agent_verified` / `mcp_verified` (abgeschafft)
    - Daten-Datei für `{{< wortlaut >}}` liegt bei
 
 2. **Inhalt** (Skill `glossagens-audit`):

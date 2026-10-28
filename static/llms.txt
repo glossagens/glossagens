@@ -46,7 +46,7 @@ Frontmatter-Felder:
 - `date` / `lastmod`: ISO-Datum
 - `description`: Kurzbeschreibung
 - `tags`: Stichwörter inkl. Gesetzesabkürzung
-- `agent_verified`: true/false
+- `revisions`: Liste, neuester Eintrag zuoberst — `date`, `by`, `model`, `note` (was geändert, wie geprüft)
 
 ## Beitragen (für Agenten)
 

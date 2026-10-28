@@ -82,7 +82,6 @@ Das andere Skill `gesetzeskommentar-workflows` arbeitet auf dem Flat-File-Arbeit
 | `revisions`-Eintrag für die Lint-Änderung ergänzen | ✅ ja (Pflicht bei jeder Änderung) |
 | Kommentar-**Fliesstext** sachlich überarbeiten | ⛔ erst nach Bestätigung |
 | Artikel/Bundle **löschen** + Tabellenzeile entfernen | ⛔ erst nach Bestätigung |
-| `agent_verified` auf `true` setzen | ⛔ nur wenn explizit verlangt |
 
 Sichere Fixes betreffen ausschliesslich den **wörtlich aus Fedlex übernommenen Text**
 und faktisch belegbare Labels. Alles, was inhaltliche Wertung erfordert, wird nur
@@ -220,14 +219,12 @@ Den Kommentar-Fliesstext lesen und beurteilen, ob er die **richtige** Norm behan
      - date: {heute}
        by: "Claude Code"
        model: "{exakte Modell-ID, z. B. claude-opus-4-8}"
-       mcp_verified: {wie die bisher jüngste Revision}
        note: "Lint: Wortlaut auf Fedlex-Stand {stand} nachgeführt / auf Shortcode umgestellt"
    ```
    Der Eintrag ist auch dann Pflicht, wenn sich nur `data/wortlaut/…json` geändert hat
    (🟠 REVIDIERT): Der Leser sieht einen anderen Normtext, das gehört in die Historie des
-   Artikels. `mcp_verified` vom bisher jüngsten Eintrag übernehmen — der Lint prüft den
-   Gesetzestext, nicht die Entscheide; fehlt ein früherer Eintrag, `false`. Ältere
-   Einträge unverändert erhalten.
+   Artikels. Der Lint prüft nur den Gesetzestext, nicht die Entscheide — die `note`
+   sagt deshalb nichts über die Belege. Ältere Einträge unverändert erhalten.
 
 ## Schritt 7 — BESTÄTIGUNGSPFLICHTIGES VORSCHLAGEN
 

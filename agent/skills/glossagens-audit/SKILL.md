@@ -131,7 +131,6 @@ bei 403 oder 429 bricht der Lauf ab, statt zu wiederholen.
 | Beleg entfernen bei `supports: no/contradicts/unrelated` | ⛔ Bestätigung |
 | Satz umschreiben oder streichen | ⛔ Bestätigung |
 | Artikel neu aufbauen oder löschen | ⛔ Bestätigung |
-| `agent_verified` / `mcp_verified` auf `true` setzen | ⛔ nur wenn das Audit sauber ist |
 
 **Kernregel:** Ein Satz, dessen Beleg wegfällt, wird **nie stillschweigend gelöscht**. Sonst
 verschwindet die richtige Aussage mit dem falschen Beleg. Er wird markiert und vorgelegt.
@@ -315,12 +314,11 @@ revisions:
   - date: {heute}
     by: "Claude Code"
     model: "{exakte Modell-ID}"
-    mcp_verified: true
-    note: "Audit: Belege gegen opencaselaw-MCP geprüft; {kurz was}"
+    note: "Audit: {kurz was}; {N} Belege gegen den Entscheidtext geprüft, {offen} offen"
 ```
 
-`mcp_verified: true` ist hier zulässig, weil jeder Fix aus einer MCP-Antwort stammt.
-`agent_verified: true` nur, wenn das Audit **ohne** offene Befunde durchläuft.
+Die `note` nennt das Ergebnis so, wie es ist — auch offene Befunde. Prüfflags
+(`agent_verified`, `mcp_verified`) gibt es nicht mehr; vorhandene nicht wieder einführen.
 
 ## Schritt 4 — Schlussattest: derselbe Lauf auf dem korrigierten Text
 
@@ -412,7 +410,7 @@ als `4.1`/`4.2.1`. `cite` akzeptiert den Abschnittsverweis trotzdem — erst
 `get_erwaegung` deckt auf, dass der Pinpoint ins Leere zeigt. Den echten Pinpoint
 liefert die Erwägungsliste aus `get_decision_structure`, nie eine Schätzung.
 
-Art. 45 und Art. 429 trugen beide `mcp_verified: true`. Zwei Lehren:
+Art. 45 und Art. 429 trugen beide `mcp_verified: true` (das Flag ist inzwischen abgeschafft). Zwei Lehren:
 
 1. **Stufe 5 ist nicht weglassbar.** Die vier existierenden BV-45-Entscheide bestehen
    Stufe 2 anstandslos — und behandeln SchKG, Dividendenbesteuerung, vorsorgliche

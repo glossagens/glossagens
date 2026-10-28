@@ -101,16 +101,14 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Praxiskommentar zu Art. {nr} {Gesetz}..."
 tags: ["{Gesetz}", "{Thema1}", "{Thema2}"]
-agent_verified: true
 revisions:
   - date: YYYY-MM-DD
     by: "Glossagens Agent"
     model: "{exakte Modell-ID}"
-    mcp_verified: true
-    note: "Praxisorientierte Erstkommentierung mit Lebenssachverhalten und Abgrenzungskasuistik"
+    note: "Praxisorientierte Erstkommentierung; Entscheide via entscheidsuche im Volltext geprüft, Audit ohne offene Befunde"
 ---
 ```
-`agent_verified: true` darf nur gesetzt werden, wenn die jüngste Revision `mcp_verified: true` trägt und der Audit-Lauf ohne offene Befunde abgeschlossen wurde.
+Die `note` sagt wahrheitsgemäss, was geändert und wie die Belege geprüft wurden — auch, was nicht geprüft werden konnte. Prüfflags wie `agent_verified` oder `mcp_verified` gibt es nicht mehr.
 
 ---
 

@@ -69,7 +69,11 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Kurze Beschreibung des Artikels und seiner Kernpunkte."
 tags: ["{Gesetz}", "{Kategorie}", "{Hauptthema}"]
-agent_verified: true
+revisions:
+  - date: YYYY-MM-DD
+    by: "{Agent}"
+    model: "{exakte Modell-ID}"
+    note: "{Was}; {Prüfweg: welche Belege wie geprüft, was nicht}"
 ---
 ```
 
@@ -82,9 +86,15 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Übersicht der Rechtsprechung zu Art. {nr} {Gesetz}."
 tags: ["Rechtsprechung", "{Gesetz}", "{Hauptthema}"]
-agent_verified: true
+revisions:
+  - date: YYYY-MM-DD
+    by: "{Agent}"
+    model: "{exakte Modell-ID}"
+    note: "{Was}; {Prüfweg: welche Belege wie geprüft, was nicht}"
 ---
 ```
+
+`revisions` ist Pflicht bei jeder Änderung, neuester Eintrag zuoberst. Die `note` sagt wahrheitsgemäss, wie die Belege geprüft wurden. `agent_verified` und `mcp_verified` gibt es nicht mehr — nicht setzen.
 
 ---
 

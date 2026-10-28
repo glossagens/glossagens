@@ -15,20 +15,20 @@ const KATALOG = {
     stgb: {
       kuerzel: "StGB", name: "Schweizerisches Strafgesetzbuch", ebene: "bund", sr: "311.0", srl: "", kanton: "", url: `${SITE}/kommentar/stgb/`,
       artikel: {
-        "art-070": { titel: "Art. 70 StGB — Einziehung", beschreibung: "Einziehung deliktischer Vermögenswerte", tags: ["Einziehung", "Bruttoprinzip"], url: `${SITE}/kommentar/stgb/art-070/`, lastmod: "2026-10-15", sachgebiete: ["strafrecht"], teile: ["kommentar", "rechtsprechung"], agent_verified: true, mcp_verified: true, verifiziert: true },
-        "art-305bis": { titel: "Art. 305bis StGB — Geldwäscherei", beschreibung: "Geldwäscherei", tags: ["Geldwäscherei"], url: `${SITE}/kommentar/stgb/art-305bis/`, lastmod: "2026-09-01", sachgebiete: ["strafrecht"], teile: ["kommentar"], agent_verified: false, mcp_verified: false, verifiziert: false },
+        "art-070": { titel: "Art. 70 StGB — Einziehung", beschreibung: "Einziehung deliktischer Vermögenswerte", tags: ["Einziehung", "Bruttoprinzip"], url: `${SITE}/kommentar/stgb/art-070/`, lastmod: "2026-10-15", sachgebiete: ["strafrecht"], teile: ["kommentar", "rechtsprechung"] },
+        "art-305bis": { titel: "Art. 305bis StGB — Geldwäscherei", beschreibung: "Geldwäscherei", tags: ["Geldwäscherei"], url: `${SITE}/kommentar/stgb/art-305bis/`, lastmod: "2026-09-01", sachgebiete: ["strafrecht"], teile: ["kommentar"] },
       },
     },
     or: {
       kuerzel: "OR", name: "Obligationenrecht", ebene: "bund", sr: "220", srl: "", kanton: "", url: `${SITE}/kommentar/or/`,
       artikel: {
-        "art-336c": { titel: "Art. 336c OR — Kündigung zur Unzeit", beschreibung: "Sperrfristen bei Krankheit", tags: ["Kündigung", "Sperrfrist"], url: `${SITE}/kommentar/or/art-336c/`, lastmod: "2026-10-01", sachgebiete: ["schuldrecht.arbeit"], teile: ["kommentar"], agent_verified: false, mcp_verified: true, verifiziert: false },
+        "art-336c": { titel: "Art. 336c OR — Kündigung zur Unzeit", beschreibung: "Sperrfristen bei Krankheit", tags: ["Kündigung", "Sperrfrist"], url: `${SITE}/kommentar/or/art-336c/`, lastmod: "2026-10-01", sachgebiete: ["schuldrecht.arbeit"], teile: ["kommentar"] },
       },
     },
     "vrg-lu": {
       kuerzel: "VRG", name: "Gesetz über die Verwaltungsrechtspflege", ebene: "kantonal", sr: "", srl: "40", kanton: "LU", url: `${SITE}/kommentar/vrg-lu/`,
       artikel: {
-        "art-015": { titel: "§ 15 VRG LU — Fristen", beschreibung: "", tags: [], url: `${SITE}/kommentar/vrg-lu/art-015/`, lastmod: "2026-08-01", sachgebiete: [], teile: ["kommentar"], agent_verified: false, mcp_verified: false, verifiziert: false },
+        "art-015": { titel: "§ 15 VRG LU — Fristen", beschreibung: "", tags: [], url: `${SITE}/kommentar/vrg-lu/art-015/`, lastmod: "2026-08-01", sachgebiete: [], teile: ["kommentar"] },
       },
     },
   },
@@ -36,22 +36,19 @@ const KATALOG = {
 
 const THEMEN = {
   themen: {
-    "folgen-ungerechtfertigte-kuendigung": { titel: "Folgen einer ungerechtfertigten Kündigung", url: `${SITE}/themen/folgen-ungerechtfertigte-kuendigung/`, kurz: "Was gilt, wenn die Kündigung missbräuchlich oder zur Unzeit erfolgt.", typ: "rechtsfolgen", normen: ["or/art-336c"], stichworte: [], verifiziert: true },
+    "folgen-ungerechtfertigte-kuendigung": { titel: "Folgen einer ungerechtfertigten Kündigung", url: `${SITE}/themen/folgen-ungerechtfertigte-kuendigung/`, kurz: "Was gilt, wenn die Kündigung missbräuchlich oder zur Unzeit erfolgt.", typ: "rechtsfolgen", normen: ["or/art-336c"], stichworte: [] },
   },
 };
 
 const ART_070 = `---
 title: "Art. 70 StGB — Einziehung"
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-4-8"
-    mcp_verified: true
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "hermes3"
-    mcp_verified: false
 ---
 
 ## Gesetzeswortlaut
@@ -230,7 +227,7 @@ await pruefe("unbekanntes Tool → JSON-RPC-Fehler", async () => {
 await pruefe("suchen: Norm als Direkttreffer", async () => {
   const { text } = await tool("glossagens_suchen", { anfrage: "StGB 70" });
   assert.match(text, /^Direkttreffer: Art\. 70 StGB/);
-  assert.match(text, /gesetz="stgb" artikel="art-070" · verifiziert/);
+  assert.match(text, /gesetz="stgb" artikel="art-070" · https:\/\/site\.test\/kommentar\/stgb\/art-070\//);
 });
 
 await pruefe("suchen: fehlender Artikel verweist auf Einreichung", async () => {
@@ -242,7 +239,6 @@ await pruefe("suchen: Stichworte treffen Kommentar und Thema", async () => {
   const { text } = await tool("glossagens_suchen", { anfrage: "Kündigung" });
   assert.match(text, /Thema: Folgen einer ungerechtfertigten Kündigung/);
   assert.match(text, /Art\. 336c OR/);
-  assert.match(text, /redaktionell nicht freigegeben/);
 });
 
 await pruefe("suchen: alle Wörter müssen vorkommen", async () => {
@@ -259,8 +255,8 @@ await pruefe("gesetze_auflisten: Bund vor Kanton, SR numerisch", async () => {
 
 await pruefe("artikel_auflisten", async () => {
   const { text } = await tool("artikel_auflisten", { gesetz: "StGB" });
-  assert.match(text, /- art-070: Art\. 70 StGB — Einziehung · verifiziert · auch: rechtsprechung/);
-  assert.match(text, /- art-305bis: .* · nicht verifiziert/);
+  assert.match(text, /- art-070: Art\. 70 StGB — Einziehung · auch: rechtsprechung/);
+  assert.match(text, /- art-305bis: Art\. 305bis StGB — Geldwäscherei$/m);
 });
 
 await pruefe("artikel_auflisten: unbekanntes Gesetz", async () => {
@@ -273,12 +269,11 @@ await pruefe("kommentar_lesen: Wortlaut eingesetzt, Frontmatter weg", async () =
   const { text, fehler } = await tool("kommentar_lesen", { gesetz: "StGB", artikel: "70" });
   assert.ok(!fehler, text);
   assert.match(text, /^# Art\. 70 StGB — Einziehung\nQuelle: https:\/\/site\.test\/kommentar\/stgb\/art-070\//);
-  assert.match(text, /Prüfstand: verifiziert · letzte Änderung 2026-10-15 durch Claude Code \(claude-opus-4-8\)/);
+  assert.match(text, /Letzte Änderung: 2026-10-15 durch Claude Code \(claude-opus-4-8\)\nHinweis: KI-erstellter Text/);
   assert.match(text, /> \*\*Art\. 70 StGB — Einziehung von Vermögenswerten\*\* \(Stand 2025-01-01, https:\/\/www\.fedlex\.admin\.ch\/eli\/cc\/54\/757_781_799#art_70\)/);
   assert.match(text, /> 1 Das Gericht verfügt die Einziehung\./);
   assert.ok(!text.includes("{{<"), "kein Shortcode mehr");
   assert.ok(!text.includes("revisions:"), "kein Frontmatter");
-  assert.ok(!text.includes("Achtung"), "verifiziert: keine Warnung");
 });
 
 await pruefe("kommentar_lesen: Abschnitt", async () => {
@@ -307,10 +302,11 @@ await pruefe("kommentar_lesen: fehlender Teil, fehlender Artikel", async () => {
   assert.match(r.text, /Zu Art\. 71 StGB gibt es bei Glossagens keinen Kommentar/);
 });
 
-await pruefe("kommentar_lesen: Warnung bei nicht verifiziertem Text", async () => {
+await pruefe("kommentar_lesen: Hinweis auch ohne Revisionen", async () => {
   DATEIEN[`${RAW}/content/kommentar/stgb/art-305bis/_index.md`] = "---\ntitle: x\n---\n\nText.";
   const { text } = await tool("kommentar_lesen", { gesetz: "StGB", artikel: "305bis" });
-  assert.match(text, /Achtung: nicht verifiziert/);
+  assert.ok(!text.includes("Letzte Änderung"));
+  assert.match(text, /Hinweis: KI-erstellter Text/);
 });
 
 await pruefe("kommentar_lesen: fehlende Wortlaut-Daten brechen nicht ab", async () => {

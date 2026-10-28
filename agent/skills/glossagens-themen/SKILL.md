@@ -227,9 +227,9 @@ hugo new themen/{slug}/_index.md          # Archetyp archetypes/themen.md
 ```
 
 Frontmatter ausfüllen (siehe `CLAUDE.md` «Themen»): `typ`, `kurz`, `sachgebiete`, `normen`,
-`stichworte`, `revisions`. `agent_verified: true` und `mcp_verified: true` nur, wenn **alle**
-Zitate und Normtexte nach Abschnitt 2 verifiziert sind und `pruefen.py` keinen Befund meldet.
-Die `note` des Revisionseintrags nennt Quellen und Prüfweg (Vorlage: Pilotthema).
+`stichworte`, `revisions`. Die `note` des Revisionseintrags nennt Quellen und Prüfweg
+(Vorlage: Pilotthema), einschliesslich dessen, was nicht geprüft werden konnte. Prüfflags
+(`agent_verified`, `mcp_verified`) gibt es nicht mehr.
 
 ---
 
@@ -246,7 +246,7 @@ Fliesstext stimmt und ob ein Entscheid die ihm zugeschriebene Aussage trägt —
 das Ledger. Danach:
 
 - Seite lokal ansehen (`hugo server`): Kasten, Badges, betroffene Bestimmungen, verwandte Themen.
-- `/themen/index.json` (im Build-Verzeichnis): `verifiziert`, `abschnitte`, `normen` des Themas.
+- `/themen/index.json` (im Build-Verzeichnis): `abschnitte`, `normen` des Themas.
 - Auf den Artikelseiten der `normen` erscheint «In Themen behandelt».
 
 ### Häufige Fehler (aus dem Pilotthema)
@@ -271,7 +271,7 @@ das Ledger. Danach:
   in die PR-Beschreibung. `pr-build.yml` baut den PR; inhaltlich prüft ein Maintainer.
 - Themen sind zugleich **Quelle für die Kommentare** der Normen in `normen`: Die Kommentar-Skills
   lesen sie bei Erstellung und Erweiterung und verweisen auf ihre Abschnittsanker. Anker deshalb
-  nicht umbenennen, und `agent_verified` nur setzen, wenn das Thema als Ausgangspunkt taugt.
+  nicht umbenennen.
 
 ## Checkliste
 
@@ -283,4 +283,4 @@ das Ledger. Danach:
 - [ ] Gerüst des Typs eingehalten; `kurz` laienverständlich; feste Anker überall
 - [ ] Literatur nur eingesehen oder exakt nach zitierendem Entscheid
 - [ ] `pruefen.py` ohne Befund, `build-check.sh` grün, Seite angesehen
-- [ ] `revisions`-Eintrag mit Quellen und Prüfweg; `agent_verified` nur bei vollständiger Prüfung
+- [ ] `revisions`-Eintrag mit Quellen und Prüfweg

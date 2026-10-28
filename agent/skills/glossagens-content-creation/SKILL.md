@@ -68,7 +68,7 @@ Create a new commentary from scratch or comprehensively update an existing one.
 9. QUALITÄTSKONTROLLE — Checklisten (→ Teil D.4)
 10. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
 
-> Schritt 6 und 8 sind **nicht optional**. `mcp_verified: true` setzt beide voraus (→ Teil D.5).
+> Schritt 6 und 8 sind **nicht optional**. Was davon erledigt ist, hält die `note` der Revision fest (→ Teil D.5).
 
 ---
 
@@ -210,7 +210,7 @@ Continuously research which topics and decisions are still **missing** from the 
    was es trägt, der Kommentar aber nicht, ist eine Lücke und gehört ins BEKANNTE_ENTSCHEIDE-Inventar.
    - **Kein Beleg**: Das Thema ist Sekundärquelle der Plattform selbst. Übernommene Entscheide und
      Pinpoints durchlaufen die Belegprüfung (Teil D.1) wie jeder andere und werden direkt auf den
-     Entscheid verlinkt. Ausgangspunkt nur bei `verifiziert: true` im Index, sonst blosser Hinweis.
+     Entscheid verlinkt. Das Thema ist nicht geprüft — es liefert Hinweise, keine Belege.
    - **Nicht doppeln**: Den übergreifenden Zusammenhang in einem Satz verdichten und auf den
      Abschnittsanker verweisen (`/themen/{slug}/#{anker}`); «In Themen behandelt» setzt das Layout selbst.
    - **Widerspruch**: Erweist sich ein Thema als falsch oder überholt, nicht stillschweigend
@@ -444,13 +444,11 @@ date: {YYYY-MM-DD}
 lastmod: {YYYY-MM-DD}
 description: "Übersicht der Entscheide zu Art. {N} {ABBREV} – {Kurztitel}"
 tags: ["Rechtsprechung", "{ABBREV}", "{topic1}"]
-agent_verified: false
 revisions:
   - date: {YYYY-MM-DD}
     by: "Glossagens Agent"
     model: "{MODELL-ID}"        # exakte KI-Modell-ID des Bearbeiters
-    mcp_verified: {true|false}  # true nur, wenn alle Entscheide via opencaselaw-MCP geprüft
-    note: "{kurze Beschreibung}"
+    note: "{was; Prüfweg}"      # siehe Teil D.5
 ---
 
 ## Leitentscheide (BGE)
@@ -529,17 +527,15 @@ date: {YYYY-MM-DD}
 lastmod: {YYYY-MM-DD}
 description: "Kommentar zu Art. {N} {ABBREV} – {Kurztitel}"
 tags: ["{ABBREV}", "{topic1}", "{topic2}"]
-agent_verified: true          # nur zulässig, wenn jüngste Revision mcp_verified: true
 revisions:
   - date: {YYYY-MM-DD}
     by: "Glossagens Agent"
     model: "{MODELL-ID}"        # exakte KI-Modell-ID des Bearbeiters
-    mcp_verified: {true|false}  # true nur, wenn Gesetzestexte UND Entscheide via opencaselaw-MCP geprüft
-    note: "{kurze Beschreibung}"
+    note: "{was; Prüfweg}"      # siehe Teil D.5
 ---
 ```
 
-> **Pflicht — Revisions-Vermerk:** Bei **jeder** Änderung (auch Neuanlage) einen neuen Eintrag **zuoberst** in `revisions:` einfügen: `by` (wer), `model` (welches KI-Modell; `human` bei manueller Bearbeitung), `mcp_verified` (`true` nur, wenn alle Gesetzestexte via Fedlex-MCP und alle Entscheide via opencaselaw/entscheidsuche `cite`/`get_erwaegung` geprüft wurden). Ältere Einträge bleiben erhalten. `agent_verified: true` nur, wenn die jüngste Revision `mcp_verified: true` trägt.
+> **Pflicht — Revisions-Vermerk:** Bei **jeder** Änderung (auch Neuanlage) einen neuen Eintrag **zuoberst** in `revisions:` einfügen: `by` (wer), `model` (welches KI-Modell; `human` bei manueller Bearbeitung), `note` (was geändert wurde und wie die Belege geprüft wurden, Teil D.5). Ältere Einträge bleiben erhalten. `agent_verified` und `mcp_verified` gibt es nicht mehr — nicht setzen.
 
 ## Inhaltliche Struktur
 
@@ -623,7 +619,7 @@ Kommentar zum [Bundesgesetz ... vom ... (SR {SRNR})](https://www.fedlex.admin.ch
 **Wichtig:**
 - **Nur bei NEUEN Gesetzen anlegen**: `content/kommentar/{gesetz}/_index.md` wird ausschliesslich **einmalig bei der erstmaligen Einführung eines neuen Erlasses** angelegt.
 - **Bei Artikelbearbeitung/Erweiterung NIEMALS anrühren**: Bei der Neuerstellung, Erweiterung oder Pflege einzelner Artikel (`art-{nr}/`) darf `content/kommentar/{gesetz}/_index.md` **unter keinen Umständen** geändert oder mit Revisions-Einträgen versehen werden. Die Artikelliste im Inhaltsverzeichnis wird von Hugo und `data/systematik/{gesetz}.yaml` vollautomatisch generiert. Die Revisionshistorie von Artikeländerungen gehört ausschliesslich in das jeweilige Page Bundle (`art-{nr}/_index.md` und `rechtsprechung.md`).
-- **Kein `date`, `lastmod`, `tags`, `agent_verified`** — das ist nur für Artikel-Kommentare (`art-{NNN}/_index.md`)!
+- **Kein `date`, `lastmod`, `tags`** — das ist nur für Artikel-Kommentare (`art-{NNN}/_index.md`)!
 - **Weight** bestimmt die Reihenfolge im Menü (OR=1, StPO=2, BewG=3, EMRK=4, ZGB=5, etc.)
 - **Description** sollte die SR-Nummer und Rechtsgebiet kurz nennen
 - **Link auf Fedlex** (wenn die Datei die offizielle Norm enthält)
@@ -837,10 +833,9 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 **Struktur:**
 - [ ] **Gesetzesübersicht vorhanden?** `content/kommentar/{gesetz}/_index.md` mit minimalem Frontmatter (title, weight, description)?
 - [ ] Page Bundle korrekt: `art-{NNN}/_index.md` + `art-{NNN}/rechtsprechung.md`?
-- [ ] Alle 8 Frontmatter-Felder: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `agent_verified`, `revisions`?
-- [ ] `revisions`-Eintrag in **beiden** Dateien gesetzt (`by`, `model`, `mcp_verified`)?
-- [ ] `agent_verified: false` in `rechtsprechung.md`?
-- [ ] `agent_verified: true` in `_index.md` (nur nach Verifikation, jüngste Revision `mcp_verified: true`)?
+- [ ] Alle 7 Frontmatter-Felder: `title`, `weight`, `date`, `lastmod`, `description`, `tags`, `revisions`?
+- [ ] `revisions`-Eintrag in **beiden** Dateien gesetzt (`by`, `model`, `note` mit Prüfweg)?
+- [ ] Kein `agent_verified` / `mcp_verified` im Frontmatter?
 
 **Inhalt:**
 - [ ] `## Gesetzeswortlaut` enthält `{{< wortlaut >}}` und `data/wortlaut/{gesetz}/art-{NNN}.json` existiert?
@@ -851,23 +846,21 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 
 ---
 
-## D.5 — Wann `mcp_verified` / `agent_verified` gesetzt werden dürfen
+## D.5 — Prüfweg im Revisionseintrag festhalten
 
-`mcp_verified: true` ist **nur** zulässig, wenn kumulativ:
+Prüfflags (`mcp_verified`, `agent_verified`) gibt es seit 28.10.2026 nicht mehr: Sie waren
+Selbstauskünfte, und gerade die fabrizierten Bestände trugen `true`. An ihre Stelle tritt
+die `note` der Revision, die in Klartext sagt, **was** geprüft wurde. Die Prüfung selbst
+bleibt Pflicht:
 
-1. Der Gesetzeswortlaut per `{{< wortlaut >}}` aus der amtlichen Quelle stammt (`scripts/wortlaut.py`),
-2. jede Zitierung aus einer Tool-Antwort kopiert ist,
-3. jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext beurteilt wurde
-   (D.1), und
-4. der Audit-Lauf über das Bundle kein `offen` und keine offenen Befunde mehr
-   zeigt (D.3).
+1. Der Gesetzeswortlaut stammt per `{{< wortlaut >}}` aus der amtlichen Quelle (`scripts/wortlaut.py`),
+2. jede Zitierung ist aus einer Tool-Antwort kopiert,
+3. jedes Paar (Aussage, Beleg) ist gegen den wörtlichen Entscheidtext beurteilt (D.1), und
+4. der Audit-Lauf über das Bundle zeigt kein `offen` und keine offenen Befunde mehr (D.3).
 
-`agent_verified: true` in `_index.md` setzt zusätzlich voraus, dass **keine offenen
-Befunde** verbleiben. Fehlt eine der vier Bedingungen — etwa weil der MCP nicht erreichbar
-war oder ein reiner `generate()`-Aufruf den Text erzeugt hat —, dann `mcp_verified: false`
-und `agent_verified: false`. Ein Flag ist eine Tatsachenbehauptung über den Prüfvorgang,
-kein Gütesiegel: falsch gesetzt ist es schädlicher als weggelassen, weil das nachgelagerte
-`/audit` und die PR-Verifikation darauf vertrauen.
+Fehlt ein Schritt — etwa weil eine Quelle nicht erreichbar war —, steht das ebenso in der
+`note`. Nichts behaupten, was nicht geschehen ist: Die `note` ist eine Aussage über den
+Prüfvorgang, keine Zierde.
 
 Revisionseintrag nach der Prüfung:
 
@@ -877,7 +870,6 @@ revisions:
   - date: {heute}
     by: "Glossagens Agent"
     model: "{exakte Modell-ID}"
-    mcp_verified: true
     note: "{was}; Belege gegen den Entscheidtext geprüft, Audit-Lauf ohne offene Befunde"
 ```
 
@@ -1001,11 +993,11 @@ Rerank sind kleine LLM-Aufrufe).
 ## Pitfalls
 
 - **Gesetzesübersicht vergessen**: Für jedes neue Gesetz MUSS zuerst `content/kommentar/{gesetz}/_index.md` angelegt werden — sonst zeigt Hugo keine Menü-Übersicht und die Artikel sind schwer zu finden
-- **Falsches Frontmatter in Gesetzesübersicht**: Keine `date`, `lastmod`, `tags`, `agent_verified` — nur `title`, `weight`, `description` (siehe Teil C.5)
+- **Falsches Frontmatter in Gesetzesübersicht**: Keine `date`, `lastmod`, `tags` — nur `title`, `weight`, `description` (siehe Teil C.5)
 - **Page Bundle vs. Flat File**: Immer `art-{NNN}/_index.md` — nie `art-{NNN}.md`
 - **rechtsprechung.md**: Liegt im Bundle (`art-{NNN}/rechtsprechung.md`), nicht daneben
-- **agent_verified**: In `rechtsprechung.md` immer `false`; in `_index.md` erst nach Verifikation `true` — und nur, wenn die jüngste `revisions`-Zeile `mcp_verified: true` trägt
-- **Revisions-Vermerk vergessen**: Bei **jeder** Änderung (auch Neuanlage) muss oben in `revisions:` ein Eintrag mit `by` / `model` / `mcp_verified` ergänzt werden — sonst ist nicht nachvollziehbar, wer mit welchem Modell und mit/ohne MCP-Prüfung gearbeitet hat
+- **`agent_verified` / `mcp_verified`**: abgeschafft — nicht mehr setzen, auch nicht aus alten Vorlagen übernehmen
+- **Revisions-Vermerk vergessen**: Bei **jeder** Änderung (auch Neuanlage) muss oben in `revisions:` ein Eintrag mit `by` / `model` / `note` ergänzt werden — sonst ist nicht nachvollziehbar, wer mit welchem Modell und mit welchem Prüfweg gearbeitet hat
 - **Citation strings**: Nie selbst konstruieren — immer aus `citation_string_de` des MCP-Tools
 - **Linkziel**: Entscheide auf entscheidsuche.ch verlinken (`document_url` verbatim), opencaselaw nur als Rückfall — siehe D.2a
 - **«Thematisch passend» statt geprüft**: Der häufigste und teuerste Fehler. Ein Entscheid,
@@ -1023,9 +1015,8 @@ Rerank sind kleine LLM-Aufrufe).
   August 2026 hat ein Überzug des Kontingents die Sperrung des Clients ausgelöst
 - **`rechtsprechung.md` ungeprüft gelassen**: Sie behauptet in jeder `Kernaussage` etwas
   über einen Entscheid und ist genauso belegpflichtig wie der Kommentar
-- **`mcp_verified: true` als Gütesiegel**: Es ist eine Tatsachenbehauptung über den
-  Prüfvorgang (Teil D.5). Falsch gesetzt, richtet es mehr Schaden an als weggelassen —
-  `/audit` und die PR-Verifikation vertrauen darauf
+- **Prüfweg geschönt**: Die `note` behauptet eine Prüfung, die nicht stattfand (Teil D.5).
+  Lieber «Entscheide nur auf Existenz geprüft» als ein falsches «verifiziert»
 - **Fedlex `get_article`**: Braucht `rs_number` (SR-Nummer), nicht die Abkürzung
 - **get_law** (Rückfall): Braucht `abbreviation`, nicht SR-Nummer (obwohl beides funktioniert)
 - **StPO vs. StGB**: Nachfragen wenn unklar, beide beginnen mit «St»

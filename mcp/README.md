@@ -15,17 +15,18 @@ GitHub-Konto kommt später in denselben Worker (siehe `plan-kontofreie-einreichu
 |---|---|
 | `glossagens_suchen` | Stichwortsuche über Kommentare und Themen; erkennt Normangaben wie `StGB 70`, `Art. 336c OR` |
 | `gesetze_auflisten` | alle kommentierten Erlasse mit Kürzel, SR-Nummer, Artikelzahl |
-| `artikel_auflisten` | die Artikel eines Erlasses mit Prüfstand |
+| `artikel_auflisten` | die Artikel eines Erlasses |
 | `kommentar_lesen` | Kommentar, Rechtsprechung oder Strafzumessung als Markdown, Gesetzeswortlaut eingesetzt; mit `abschnitt` nur ein Abschnitt |
 | `thema_lesen` | ein Querschnittsthema als Markdown |
 
-Jede Antwort nennt den **Prüfstand** (`verifiziert` = `agent_verified` und
-`mcp_verified` der jüngsten Revision) und warnt bei nicht verifizierten Texten.
+Jeder gelieferte Text trägt den festen Hinweis, dass er KI-erstellt ist und Zitate an
+der Quelle zu prüfen sind. Einen Prüfstand pro Artikel gibt es nicht (mehr): Die früheren
+Flags `agent_verified`/`mcp_verified` waren unüberprüfbare Selbstauskünfte.
 
 ## Woher die Daten kommen
 
 ```
-glossagens.ch/kommentar/index.json   Katalog: Gesetze, Artikel, Titel, Tags, Prüfstand
+glossagens.ch/kommentar/index.json   Katalog: Gesetze, Artikel, Titel, Tags
                                      (layouts/kommentar/list.json.json, beim Hugo-Build erzeugt)
 glossagens.ch/themen/index.json      Themen (layouts/themen/list.json.json)
 raw.githubusercontent.com/…/main/    Markdown der Kommentare und data/wortlaut/*.json

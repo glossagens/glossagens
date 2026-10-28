@@ -16,12 +16,10 @@ normen:
   # - { gesetz: or, art: art-336c }
 # Für Themen ohne passendes BGer-Sachgebiet (Methodik): Begriffe, über die bger-update das Thema findet.
 stichworte: []
-agent_verified: false
 revisions:
   - date: {{ now.Format "2006-01-02" }}
     by: ""
     model: ""
-    mcp_verified: false
     note: "Erstfassung"
 ---
 

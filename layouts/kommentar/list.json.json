@@ -4,11 +4,10 @@
   Aufbau:
     gesetze   Verzeichnis ("stgb") → Kürzel, Name, SR bzw. SRL, URL, Artikel
     artikel   Verzeichnis ("art-070") → Titel, Beschreibung, Tags, URL, lastmod,
-              Sachgebiete, vorhandene Teile, Prüfstand
+              Sachgebiete, vorhandene Teile
 
-  `verifiziert` ist wie in /themen/index.json `agent_verified` UND `mcp_verified`
-  der jüngsten Revision. Den Text selbst liefert der Server aus dem Repo; hier
-  steht nur, was er zum Suchen und Auflisten braucht.
+  Den Text selbst liefert der Server aus dem Repo; hier steht nur, was er zum
+  Suchen und Auflisten braucht.
 
   Nur für /kommentar/ erzeugt (outputs im Frontmatter von content/kommentar/_index.md).
 */ -}}
@@ -18,8 +17,6 @@
   {{- $artikel := dict -}}
   {{- range where .Sections "Kind" "section" -}}
     {{- $slug := path.Base .Path -}}
-    {{- $mcp := false -}}
-    {{- with .Params.revisions -}}{{- $mcp = (index . 0).mcp_verified | default false -}}{{- end -}}
     {{- $teile := slice "kommentar" -}}
     {{- range .RegularPages -}}
       {{- $name := path.BaseName .File.LogicalName -}}
@@ -33,9 +30,6 @@
       "lastmod" (.Lastmod.Format "2006-01-02")
       "sachgebiete" (partial "sachgebiete/artikel.html" (dict "gesetz" $g "slug" $slug))
       "teile" $teile
-      "agent_verified" (.Params.agent_verified | default false)
-      "mcp_verified" $mcp
-      "verifiziert" (and (.Params.agent_verified | default false) $mcp)
     )) -}}
   {{- end -}}
   {{- $gesetze = merge $gesetze (dict $g (dict

@@ -140,7 +140,7 @@ in die `note` des Revisionseintrags.
 
 Jeden Wert der Tabellen gegen den Urteilstext zurückprüfen (`fetch_document`, wörtliche Stelle
 suchen). Ergebnisliste: bestätigt / abweichend / im Urteil nicht auffindbar. Befunde korrigieren.
-Erst danach darf `mcp_verified: true` gesetzt werden.
+Das Ergebnis gehört in die `note` des Revisionseintrags (z. B. «12 Strafwerte am Dispositiv geprüft, 1 korrigiert»).
 
 ---
 
@@ -296,8 +296,8 @@ Variable Blöcke, je nach Befund und in dieser Reihenfolge:
 ```
 
 Kein Hinweis auf KI-Erstellung, fehlende Verifikation oder «Prototyp»-Status: Die Plattform
-deklariert beides global unter `/ueber/`, und `revisions` samt `agent_verified` halten es pro
-Seite maschinenlesbar fest. Ein solcher Hinweis im Artikel selbst ist Redundanz — anders als bei
+deklariert beides global unter `/ueber/`, und `revisions` hält es pro
+Seite fest. Ein solcher Hinweis im Artikel selbst ist Redundanz — anders als bei
 den Prototypen auf strafzumessung.ch, wo er die Rubrik als Ganzes betrifft. Was in den Artikel
 gehört, sind die **inhaltlichen** Vorbehalte: der Trichter (R5) und der Abschnitt «Grenzen» (R6).
 
@@ -396,7 +396,7 @@ Vor dem Abschluss durchgehen:
 - [ ] Deliktsimmanente Merkmale stehen nicht unter «erhöhend» (R4).
 - [ ] Verschuldensbezeichnungen wörtlich zitiert.
 - [ ] Keine Eszett; schweizerische Rechtschreibung.
-- [ ] Frontmatter vollständig, Revisionseintrag zuoberst, `mcp_verified` korrekt gesetzt.
+- [ ] Frontmatter vollständig, Revisionseintrag zuoberst, `note` mit Prüfweg.
 - [ ] `make build-check` grün.
 
 ## Abschlussbericht
@@ -419,7 +419,6 @@ date: YYYY-MM-DD
 lastmod: YYYY-MM-DD
 description: "Empirische Auswertung der publizierten Praxis zur Strafzumessung nach Art. X …"
 tags: ["Strafzumessung", "{Gesetz}", "{Deliktsbezeichnung}", "Praxisauswertung"]
-agent_verified: false
 auswertungsstand: YYYY-MM-DD
 entscheide_ausgewertet: 70
 strafwerte_belegt: 12
@@ -427,13 +426,12 @@ revisions:
   - date: YYYY-MM-DD
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstauswertung: 70 Entscheide im Volltext, 12 belegte Strafwerte, gespiegelt am Dispositiv."
 ---
 ```
 
-`mcp_verified: true` nur, wenn Normtext über Fedlex **und** sämtliche Entscheide über
-entscheidsuche geprüft wurden. `agent_verified` bleibt `false`, bis die Seite verifiziert ist.
+Die `note` sagt, wie geprüft wurde (Normtext über Fedlex, Entscheide über entscheidsuche,
+Werte am Dispositiv) — und was nicht. Prüfflags (`agent_verified`, `mcp_verified`) gibt es nicht mehr.
 
 ## Verlinkung im Artikel
 

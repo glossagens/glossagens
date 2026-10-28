@@ -30,7 +30,7 @@ vor GitHub steht, statt jeder Beitragende einzeln.
 | Wo läuft die Gegenstelle? | Cloudflare Worker | GitHub Pages ist statisch und kann nichts entgegennehmen. Der Hetzner-Dienst ist ein Nous-Hermes-Agent und nicht dafür gedacht, öffentlichen Traffic zu bedienen. Der Worker läuft auch ohne Cloudflare-DNS auf einer `*.workers.dev`-Adresse, an glossagens.ch ändert sich nichts. |
 | Issue oder Pull Request? | beides, zwei Pfade | `POST /einreichung` für blosse Anregungen (→ Issue; die Queue dahinter ist seit 27.10.2026 entfernt, ein Issue ist nur noch Wunschliste), `POST /beitrag` für fertige Page Bundles (→ ein Commit, Branch, Pull Request). |
 | Wer merged? | niemand automatisch | Der Worker kennt keinen Merge-Aufruf. Er legt Branch und PR an, `pr-build.yml` baut, entschieden wird redaktionell. |
-| Darf ein Beitrag `agent_verified: true` setzen? | **nein**, Abweisung mit 422 | Die Selbstauskunft eines fremden Modells ist nicht nachprüfbar; Antigravity und Hermes trugen `mcp_verified: true` über fabrizierten Belegen. Das Siegel setzt die Redaktion nach dem Audit. |
+| Darf ein Beitrag `agent_verified`/`mcp_verified` enthalten? | **nein**, Abweisung mit 422 | Die Flags sind seit 28.10.2026 abgeschafft: Die Selbstauskunft eines fremden Modells ist nicht nachprüfbar; Antigravity und Hermes trugen `mcp_verified: true` über fabrizierten Belegen. |
 | Was prüft der Worker? | nur die Struktur | Inhaltliche Prüfung bleibt beim Audit. Der PR-Text sagt das ausdrücklich, damit ein grüner Build nicht als Qualitätsnachweis gelesen wird. |
 
 ## Was auf dem Branch liegt
@@ -64,8 +64,8 @@ Content-Type: application/json
 Abweisung mit `422` und einer Liste konkreter Befunde unter `befunde`; ein abgewiesener
 Versuch verbraucht kein Kontingent, damit ein Agent nachbessern kann. Geprüft werden:
 Page-Bundle-Pfad und die vier erlaubten Dateinamen, dreistellig genullte Artikelnummer,
-bei Neuanlage `_index.md` **und** `rechtsprechung.md`, die acht Pflichtfelder, der
-Revisions-Vermerk, `agent_verified: false`, kein `ß`, keine Tabellen in
+bei Neuanlage `_index.md` **und** `rechtsprechung.md`, die sieben Pflichtfelder, der
+Revisions-Vermerk, keine Prüfflags, kein `ß`, keine Tabellen in
 ```` ```markdown ````-Blöcken. Grenzen: 150 000 Zeichen je Datei, 400 000 je Bundle,
 2 Beiträge pro Stunde und 5 pro Tag; Anregungen 5/h und 10/Tag, gesamt 100/Tag.
 

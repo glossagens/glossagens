@@ -14,7 +14,6 @@ date: {YYYY-MM-DD}
 lastmod: {YYYY-MM-DD}
 description: "Empirische Auswertung der publizierten Praxis zur Strafzumessung nach Art. {NR} {Gesetz} — {n} im Volltext ausgewertete Entscheide, {m} belegte Strafwerte, gespiegelt am Dispositiv."
 tags: ["Strafzumessung", "{Gesetz}", "{Deliktsbezeichnung}", "Praxisauswertung"]
-agent_verified: false
 auswertungsstand: {YYYY-MM-DD}
 entscheide_ausgewertet: {n}
 strafwerte_belegt: {m}
@@ -22,7 +21,6 @@ revisions:
   - date: {YYYY-MM-DD}
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstauswertung: {n} Entscheide im Volltext, {m} belegte Strafwerte, gespiegelt am Dispositiv."
 ---
 

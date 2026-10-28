@@ -3,15 +3,13 @@
 
   Rückgabe:
     themen          Liste { page, slug, sachgebiete, hauptgebiete, querschnitt,
-                    normen, verifiziert }, nach Titel sortiert
+                    normen }, nach Titel sortiert
                     normen: Liste { key "or/art-336c", gesetz, art, label
                     "Art. 336c OR", kommentar (Seite oder nil) }
     nachNorm        Map "or/art-336c" → Liste von Themenseiten
     nachSachgebiet  Map Sachgebiet (ohne Untergebiet) → Liste { page, key }
 
   querschnitt: das Thema berührt mehr als ein Hauptgebiet.
-  verifiziert: agent_verified und jüngste Revision mit mcp_verified — nur
-  solche Themen bietet der Index für bger-update als Verweisziel an.
 */ -}}
 
 {{- $katalog := partialCached "sachgebiete/katalog.html" . -}}
@@ -50,16 +48,11 @@
       {{- $nachNorm = merge $nachNorm (dict $key ($liste | append $p)) -}}
     {{- end -}}
 
-    {{- $verifiziert := false -}}
-    {{- with .Params.revisions -}}
-      {{- $verifiziert = and ($p.Params.agent_verified | default false) ((index . 0).mcp_verified | default false) -}}
-    {{- end -}}
-
     {{- $themen = $themen | append (dict
       "page" $p "slug" $slug
       "sachgebiete" (.Params.sachgebiete | default slice)
       "hauptgebiete" (uniq $hgs) "querschnitt" (gt (len (uniq $hgs)) 1)
-      "normen" $normen "verifiziert" $verifiziert
+      "normen" $normen
     ) -}}
   {{- end -}}
 {{- end -}}
