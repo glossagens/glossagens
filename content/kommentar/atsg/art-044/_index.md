@@ -5,27 +5,22 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022, Beweiswertkriterien und Verbot richterlicher Eigendiagnostik (BGer 8C_670/2025, 8C_166/2026)."
 tags: ["ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten", "RAD", "Kreisarzt", "Rehaklinik", "Tonaufnahme", "Sozialversicherungsrecht", "IVG", "UVG", "Eigendiagnostik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-044.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung der neuesten Leitpraxis vom 25.09.2026: Präzisierung von BGE 135 V 465 durch BGer 8C_670/2025 (Verbot richterlicher Eigendiagnostik; Richter darf medizinische Fachterminologie nicht eigenmächtig auslegen) und BGer 8C_166/2026 (Lückenhaftigkeit versicherungsärztlicher Beurteilungen bei Missachtung arthroskopisch/operativ nachgewiesener Befunde; Begutachtungspflicht nach Art. 44 ATSG zwingend)."
   - date: 2026-09-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ausbau zum praxisorientierten Praxiskommentar: Bereinigung des Gesetzeswortlauts (Fassung WEIV 2022, 7 Absätze), vorangestelltes Prüfschema, zweiseitige Grenzkasuistik (Anwendungsfälle vs. Nichtanwendbarkeit bei RAD, Kreisärzten, Rehakliniken, Hausärzten, Gerichtsgutachten, Privatgutachten), Offenlegung des Bundesrechtsverstosses von KSVI Rz. 3067.1 gemäss BGer 8C_445/2025 und 8C_276/2026, Vergleichstabellen und adressatenbezogene Praxishinweise."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 

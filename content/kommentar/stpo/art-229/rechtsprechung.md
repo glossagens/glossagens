@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 229 StPO – Entscheid über die Anordnung der Sicherheitshaft: Übergang von Untersuchungshaft zu Sicherheitshaft bei Anklageerhebung, ZMG-Zuständigkeit und Verfahren vor dem Sachgericht."
 tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Untersuchungshaft", "Zwangsmassnahmengericht", "Anklageerhebung", "Sachgericht", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 229 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

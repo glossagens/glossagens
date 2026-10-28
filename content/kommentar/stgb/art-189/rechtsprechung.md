@@ -5,7 +5,6 @@ date: 2026-07-04
 lastmod: "2026-07-04"
 description: "Übersicht der Entscheide zu Art. 189 StGB – Sexuelle Nötigung"
 tags: ["Rechtsprechung", "StGB", "Sexuelle Nötigung", "Sexualstrafrecht", "psychischer Druck"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

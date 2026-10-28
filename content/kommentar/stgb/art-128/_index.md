@@ -5,22 +5,18 @@ date: 2026-07-31
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 128 StGB: Unterlassung der Nothilfe — Echtes Unterlassungsdelikt, Jedermannspflicht bei unmittelbarer Lebensgefahr, Zumutbarkeit, subjektiver Tatbestand, Konkurrenzen und Praxisfälle."
 tags: ["StGB", "Unterlassung der Nothilfe", "Nothilfepflicht", "Lebensgefahr", "Zumutbarkeit", "Echtes Unterlassungsdelikt", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Fabricated BGE-Zitate entfernt (BGE 134 IV 216 = Nötigung, BGE 126 IV 124 = Vergewaltigung, BGE 140 IV 150 = Betrug); 11 verifizierte BGer/BGE-Entscheide via entscheidsuche.ch; Praxisanreicherung mit aktuellen 2024/2025-Entscheiden"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung"
 ---
 

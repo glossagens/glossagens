@@ -5,22 +5,18 @@ date: 2026-06-13
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 19 StGB: Schuldfähigkeit — Strafausschluss bei Schuldunfähigkeit (Abs. 1), obligatorische Strafmilderung bei verminderter Schuldfähigkeit (Abs. 2), Massnahmen (Abs. 3) und actio libera in causa (Abs. 4)."
 tags: ["StGB", "Schuldfähigkeit", "Verminderte Schuldfähigkeit", "Schuldunfähigkeit", "Massnahmen", "Actio libera in causa", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte und irrelevante Zitate entfernt (BGer 6B_776/2016 = Raub, BGer 6B_1056/2016 = fahrlässige Körperverletzung, BGE 140 IV 150 = Betrug, ZH Obergericht SB180414/SB190089 = unverifizierbar); Sachverhalte aus BGE 107 IV 3, BGE 143 IV 330, BGE 147 IV 93 angereichert; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,12 +5,10 @@ date: "2026-09-22"
 lastmod: "2026-09-22"
 description: "Übersicht der Rechtsprechung zu Art. 406 StPO – Leitentscheide und kantonale Praxis zum schriftlichen Berufungsverfahren, Katalogsachverhalten, Parteizustimmung und Schriftenwechsel."
 tags: ["Rechtsprechung", "StPO", "Berufungsverfahren", "schriftliches Verfahren", "Rechtsfragen", "Übertretungen", "Parteizustimmung", "Landesverweisung", "Rechtsmittel"]
-agent_verified: true
 revisions:
   - date: "2026-09-22"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 15 verifizierten Leitentscheiden und kantonalen Entscheiden im Standard des Praxiskommentars."
 ---
 

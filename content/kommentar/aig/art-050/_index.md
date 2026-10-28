@@ -5,32 +5,26 @@ date: 2026-05-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 50 AIG: Nachaufenthaltsrecht nach Trennung oder Scheidung — Dreijahresfrist und Integrationskriterien, nachehelicher Härtefall wegen häuslicher Gewalt (inkl. Revisionsstand 2025 mit Hinweiskatalog und Konkubinat), Zwangsheirat und stark gefährdete Wiedereingliederung, mit zweiseitiger Kasuistik und Judikaturdivergenzen."
 tags: ["AIG", "Nachaufenthaltsrecht", "Aufenthaltsbewilligung", "häusliche Gewalt", "Ehegemeinschaft", "Integration", "Härtefall", "soziale Wiedereingliederung", "FZA", "Konkubinat"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-050.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Rechtsprechungsergänzung: BGer 2C_93/2026 und 2C_555/2025 (einmaliger Schubser genügt nicht für häusliche Gewalt nach Art. 50 Abs. 2 lit. a AIG; soziale Wiedereingliederung). Belege via OCL get_erwaegung geprueft."
   - date: 2026-09-23
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach Standard praxisorientierter-kommentar (Referenzmuster Art. 110 StPO, Art. 336 OR). Gesetzeswortlaut verbatim nach Fedlex Stand 12. Juni 2026 (Konsolidierung 1. Januar 2025). Volltextauswertung von BGE 140 II 289, BGE 138 II 229, BGE 137 II 345, BGE 136 II 113, BGE 136 II 1, BGE 144 II 1, BGE 137 II 1, BGer 2C_430/2011, BGer 2C_127/2026 sowie kantonaler Urteile des Verwaltungsgerichts Zürich (VB.2020.00093, VB.2020.00045, VB.2023.00022, VB.2019.00425, VB.2023.00708, VB.2020.00689, VB.2025.00394) und des Verwaltungsgerichts St. Gallen (B 2014/215, B 2018/76, B 2018/217). Zweiseitige Grenzkasuistik (Angewandt vs. Verworfen), Offenlegung der FZA-Judikaturdivergenz, strukturierte Kriterientabellen im reinen Markdown und rollenbezogene Praxishinweise."
   - date: 2026-06-20
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Aktualisierung Rechtsprechung und Revision 2024/2025."
   - date: 2026-05-15
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstkommentierung."
 ---
 

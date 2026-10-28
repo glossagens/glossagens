@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Kommentar zu Art. 32 DBG: Liegenschaftsunterhaltskosten, werterhaltende vs. wertvermehrende Aufwendungen, Energiespar- und Umweltschutzinvestitionen, Rückbaukosten und funktionale Betrachtungsweise."
 tags: ["DBG", "Direkte Bundessteuer", "Liegenschaftsunterhalt", "Unterhaltskosten", "Werterhaltend", "Pauschalabzug", "Ersatzneubau", "Steuerrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung zu Art. 32 DBG im Stil des Onlinekommentars; Einarbeitung von BGer 9C_119/2026 (funktionale Betrachtungsweise bei Stützmauern / Umfeldbauteilen) und BGE 149 II 27."
 ---
 

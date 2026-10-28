@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Übersicht der Entscheide zu Art. 91a SVG (Vereitelung von Massnahmen zur Feststellung der Fahrunfähigkeit, Vortests, Unfallbeteiligte)"
 tags: ["Rechtsprechung", "SVG", "Vereitelung Blutprobe", "Vortest"]
-agent_verified: false
 revisions:
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Entscheide via opencaselaw-MCP (cite) verifiziert."
 ---
 

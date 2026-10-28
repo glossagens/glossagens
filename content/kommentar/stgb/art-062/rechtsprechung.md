@@ -5,7 +5,6 @@ date: 2024-03-01
 lastmod: 2026-09-25
 description: "Übersicht der Rechtsprechung zu Art. 62 StGB: Bedingte Entlassung aus stationären Massnahmen, Bemessung und Verlängerung der Probezeit, Weisungen und Kontrollen."
 tags: ["Rechtsprechung", "StGB", "Massnahmenrecht", "Bedingte Entlassung", "Probezeit", "Weisungen"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

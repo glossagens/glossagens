@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 291 SchKG: Rechtsfolgen der paulianischen Anfechtung — Rückgabe in natura, Wertersatz in Geld, Herausgabe von Früchten und Erträgnissen, Schicksal der Gegenleistung, Wiederaufleben getilgter Forderungen (Abs. 2) und Bereicherungseinrede des gutgläubigen Schenkungsempfängers (Abs. 3)."
 tags: ["SchKG", "Rückerstattungspflicht", "Wertersatz", "Früchte", "Erträgnisse", "Wiederaufleben", "Bereicherungseinrede", "Gegenleistung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der Rechtsfolgen der Anfechtung, BBl-Materialien (1991 III 1), Primat der Rückgabe in natura vs. Wertersatz bei Unmöglichkeit (BGE 132 III 489), Herausgabe von Nutzungen und Erträgnissen (BGE 98 III 44), Schicksal der Gegenleistung (Konkursforderung statt Vorwegabzug), Wiederaufleben getilgter Forderungen und bedingte Kollokation (BGE 103 III 13), Bereicherungshaftung des gutgläubigen Beschenkten (Abs. 3) und Praxishinweise."
 ---
 

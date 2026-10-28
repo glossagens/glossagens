@@ -5,17 +5,14 @@ date: 2026-10-01
 lastmod: 2026-10-03
 description: "Rechtsprechungssammlung zu Art. 52 StGB: Grundsatzentscheide des Bundesgerichts und kantonale Praxis zu Geringfügigkeit, Quervergleich, verfahrensrechtlicher Umsetzung und Kostenfolgen."
 tags: ["Rechtsprechung", "StGB", "Strafbefreiung", "Geringfügigkeit", "Schuld", "Tatfolgen", "Quervergleich"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage mit BGE 135 IV 130 und ersten BGer-Entscheiden."
   - date: 2026-10-03
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung gemäss Praxisstandard: Ausbau auf 5 Leitentscheide (BGE) und 6 weitere Entscheide (inkl. kantonaler Obergerichts- und Kantonsgerichtspraxis ZG und SG) mit ausführlichen Sachverhaltsangaben, Pinpoints und Einstellungs-/Urteilsdifferenzierung."
 ---
 

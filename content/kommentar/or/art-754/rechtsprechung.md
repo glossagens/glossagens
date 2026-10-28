@@ -5,22 +5,18 @@ date: 2026-08-29
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 754 OR – Aktienrechtliche Organverantwortlichkeit, historische Rechtsprechung (Art. 674 aOR), faktische Organschaft, Business Judgment Rule, Konkursverschleppung und Schadenstypen."
 tags: ["Rechtsprechung", "OR", "Verantwortlichkeit", "Organhaftung", "Verwaltungsrat", "Business Judgment Rule"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung und Harmonisierung mit dem Praxiskommentar: Aufnahme von BGE 132 III 342 (Aktivlegitimation und Verrechnungseinrede des Abtretungsgläubigers), BGE 117 II 432 (Klageordnung im Konkurs) und HG Zürich HG160283 (Substanziierung des Konkursverschleppungsschadens vor kantonalem Gericht); Verifikation sämtlicher Fundstellen."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung: Aufnahme des historischen Grundlagenentscheids BGE 59 II 434 (Art. 674 aOR), der Leitentscheide zu faktischer Organschaft (BGE 128 III 92 vs. BGE 128 III 29), Delegation (BGE 122 III 195), Gläubigerschäden (BGE 141 III 112) und der neuesten BGer-Praxis zur Business Judgment Rule (BGer 4A_506/2024)."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstfassung der Rechtsprechungsübersicht zu Art. 754 OR."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-09-22
 description: "Übersicht der Rechtsprechung zu Art. 30 BV: Gesetzlicher Richter, Unabhängigkeit, Unparteiischkeit, Befangenheitsgründe, Vorbefassung, Vergleichsverhandlungen, Ausnahmegerichte, Wohnsitzrichter und Justizöffentlichkeit."
 tags: ["Rechtsprechung", "BV", "Gerichtliche Verfahren", "Gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Wohnsitzrichter", "Justizöffentlichkeit", "Art. 30"]
-agent_verified: true
 revisions:
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht gemäss Standard. Aufteilung in I. Leitentscheide (8 Entscheide) und II. Weitere Entscheide (9 Entscheide). Sämtliche Entscheide mit thematischem Zwischentitel, entscheidsuche-Link und präzisem Sachverhalts- und Kernaussagen-Abstract."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Fehlzuordnung beim Wohnsitzrichter korrigiert, Kreuzverweise im Fliesstext entschärft. Erstmals revisions-Block gesetzt."
   - date: 2026-05-18
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

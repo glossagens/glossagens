@@ -5,12 +5,10 @@ date: 2026-10-10
 lastmod: 2026-10-10
 description: "Übersicht der Leitentscheide und kantonalen Urteile zu Art. 69 StPO: Justizöffentlichkeit, Urteilseinsicht in Strafbefehle und Urteile, Raumkapazität und Ausnahmen."
 tags: ["Rechtsprechung", "StPO", "Justizöffentlichkeit", "Urteilseinsicht", "Strafbefehl", "Medienfreiheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Rechtsprechungsübersicht mit 12 verifizierten Entscheiden zu Art. 69 StPO (5 Leitentscheide, 7 weitere Bundesgerichts- und Kantonsgerichtsentscheide) mit Volltextlinks auf entscheidsuche.ch."
 ---
 

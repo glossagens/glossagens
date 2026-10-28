@@ -5,27 +5,22 @@ date: 2026-06-12
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 132 StPO: Amtliche Verteidigung bei notwendiger Verteidigung und relativer Bedürftigkeit, Schwellenwerte des Bagatellfalls, tatsächliche und rechtliche Schwierigkeiten, Subsidiaritätsstreit zur Wahlverteidigung sowie Rückwirkung der Bestellung — mit ausführlicher Grenzkasuistik der Gerichte zu Anwendungs- und Verwerfungsfällen."
 tags: ["StPO", "amtliche Verteidigung", "Offizialverteidigung", "notwendige Verteidigung", "Bedürftigkeit", "Mittellosigkeit", "Bagatellfall", "Schwierigkeiten", "Aussage gegen Aussage", "Waffengleichheit", "Subsidiarität", "Rückwirkung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-132.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-23 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO / Art. 336 OR: Prüfschema-Tabelle vorangestellt, systematische Merkmalsgliederung mit zweiseitiger Grenzkasuistik (angewandt vs. verworfen), wörtlichen Schlüsselerwägungen, vergleichenden Kasuistiktabellen ohne Code-Fences, Offenlegung des Judikaturwiderspruchs zur Subsidiarität der amtlichen Verteidigung (BGer 6B_7/2024, 7B_633/2023 vs. Basler und Zürcher Kommentar), kantonalen Praxisfragen (BL, GR, AG, ZH) und rollenbasierten Praxishinweisen. Alle Entscheide und Volltexte über entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 40 %). Unzulässiges Frontmatter-Feld mcp_verified auf oberster Ebene entfernt. Sämtliche Pinpoints zu BGE 139 IV 113 waren falsch — der Entscheid hat die Erwägungen 1.1–1.3, 4.1–4.3 und 5.1 f.; ein «E. 2» und die zugeschriebenen Inhalte von E. 5.1/5.2 existieren nicht. Zwei Aussagen gestrichen, die dem Entscheid widersprechen: die Verfahrensleitung könne bei notwendiger Verteidigung eine Erklärung über die wirtschaftlichen Verhältnisse verlangen, und die Bestellung stehe im Ermessen. BGE 131 I 350 E. 4.1 begründet gerade eine Fürsorgepflicht; die Zuschreibung «Ermessen» ist ihr Gegenteil. Erfundener Begriff «Nebenamtliche Verteidigung» entfernt. Art. 133 StPO auf den seit 1.1.2024 geltenden Stand gebracht (Eignung neu vorangestellt; neuer Abs. 1bis). Neu belegt: BGE 139 IV 113 E. 1.2, E. 4.1 und E. 5.1; BGE 143 I 164 E. 2.2–2.4."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 ---
 

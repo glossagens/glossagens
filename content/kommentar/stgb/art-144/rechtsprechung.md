@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 144 StGB — Sachbeschädigung: Unbrauchbarmachen, Strafantragsrecht, geringfügige Beeinträchtigung, grosser Schaden, Graffiti, Selbsthilfe und Konkurrenzen."
 tags: ["Rechtsprechung", "StGB", "Sachbeschädigung", "Eigentumsdelikte", "Grosser Schaden", "Unbrauchbarmachen", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 11 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 144 IV 49 (Strafantragsrecht, Delle in Motorhaube), BGE 128 IV 250 (Leitentscheid: Unbrauchbarmachen durch Verstopfen), BGE 123 IV 113 (echte Konkurrenz Einbruchdiebstahl), BGer 6B_471/2007 (Brunnstube, Selbsthilfe), BGer 6B_778/2008 (Eternitdach, Eventualvorsatz), BGer 6B_91/2021 (Schutzzweck, Strafbefreiung), BGer 6B_978/2014 (Kleber auf Windschutzscheibe), LU 2N 16 97 (Strassenschild, kurzweilige Beeinträchtigung), SO STAPA.2004.1 (Sprayereien, grosser Schaden, keine Addition), ZH SB040270 (CHF 10'000 Grenze), BS SB.2019.40 (Mittäterschaft); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung unzutreffender BGE-Zitate; 10 verifizierte Bundesgerichts- und kantonale Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

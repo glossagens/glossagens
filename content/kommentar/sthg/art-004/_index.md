@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 4 StHG (SR 642.14) — Beschränkte Steuerpflicht natürlicher Personen aufgrund wirtschaftlicher Zugehörigkeit. Behandelt Geschäftsbetriebe und Betriebsstätten (Kriterien und Shell-Tankstellenfall BGE 134 I 303), Grundeigentum und Schuldzinsenausscheidung, die gesetzgeberische Bereinigung des Grundstückshandels und der Maklerprovisionen (Revision 2019, BBl 2016 5357), das Erfordernis physischer Anwesenheit (BGE 137 II 246) sowie die Neuregelung der internationalen Telearbeit per 1. Januar 2025 (Abs. 2 lit. abis, BBl 2024 650) und Vorsorgeleistungen im Ausland. Mit Grenzkasuistik, Vergleichstabellen und rollenspezifischen Praxishinweisen."
 tags: ["StHG", "Steuerharmonisierung", "wirtschaftliche Zugehörigkeit", "beschränkte Steuerpflicht", "Betriebsstätte", "Geschäftsbetrieb", "Liegenschaften", "Liegenschaftshandel", "Maklerprovision", "Telearbeit", "Quellensteuer", "Verwaltungsrat", "Vorsorgegelder"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung Praxiskommentar zu Art. 4 StHG. Gesetzestext auf Stand 01.01.2025 via Fedlex konsolidiert (inkl. Telearbeit-Revision 2024). Materialien (BBl 1983 III 1, BBl 2005 575, BBl 2016 5357, BBl 2024 650) und Rechtsprechung (BGE 134 I 303, BGE 139 II 78, BGE 137 II 246, BGE 141 II 318, BGE 135 II 274, BGE 138 II 32) vollumfänglich eingearbeitet."
 ---
 

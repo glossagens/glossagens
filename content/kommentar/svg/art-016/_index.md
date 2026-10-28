@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 16 SVG (SR 741.01): Entzug von Ausweisen und Bewilligungen — Sicherungsentzug (Abs. 1), Administrativmassnahmen nach Widerhandlungen (Abs. 2), Bemessung der Entzugsdauer (Abs. 3), Fahrzeugausweisentzug (Abs. 4/5). Leitentscheide BGE 135 II 138, BGE 123 II 97, BGE 129 II 82, BGE 127 II 122, BGE 133 II 384, BGE 141 II 220, BGE 135 II 334."
 tags: ["SVG", "Führerausweisentzug", "Sicherungsentzug", "Warnungsentzug", "Verwaltungsrecht", "Strassenverkehr", "Fahreignung", "Mindestentzugsdauer"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-016.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 741.01 Art. 16), Leading Cases/Regesten (BGE 135 II 138, 123 II 97, 129 II 82, 127 II 122, 133 II 384, 141 II 220, 135 II 334) via OCL verifiziert."
 ---
 

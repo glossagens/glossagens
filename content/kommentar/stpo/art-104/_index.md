@@ -5,22 +5,18 @@ date: 2026-07-11
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 104 StPO – Parteien im Strafverfahren: Beschuldigte Person, Privatklägerschaft, Staatsanwaltschaft und Behördenparteien nach Abs. 2."
 tags: ["StPO", "Parteien", "Parteistellung", "Privatklägerschaft", "Staatsanwaltschaft", "Geschädigte Person"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-104.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote): BGE 148 IV 170 E. 3.2, BGE 140 IV 155 E. 3.2, BGE 143 IV 77 E. 2.2, BGE 141 IV 454 E. 2.3.1 und BGer 6B_267/2020 E. 2.1.2 integriert; Verifikation via attest_response ok."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

@@ -31,12 +31,10 @@ normen:
   - { gesetz: zgb, art: art-447 }
   - { gesetz: zgb, art: art-450 }
 stichworte: ["Erwachsenenschutzrecht", "Kindes- und Erwachsenenschutzbehörde", "KESB", "Subsidiarität", "Verhältnismässigkeit", "Massanzug", "Vorsorgeauftrag", "Patientenverfügung", "Gesetzliche Vertretungsrechte", "Begleitbeistandschaft", "Vertretungsbeistandschaft", "Mitwirkungsbeistandschaft", "Umfassende Beistandschaft", "Fürsorgerische Unterbringung", "FU", "Zwangsbehandlung", "Untersuchungsgrundsatz", "Superprovisorische Massnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung Querschnittsthema Erwachsenenschutzrecht nach Skill glossagens-themen (Typ grundlage). Normtexte des ZGB per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). Volltexte von entscheidsuche.ch geladen; Erwägungsnummern, Anker und Zitate maschinell abgeglichen (pruefen.py)."
 ---
 

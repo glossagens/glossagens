@@ -5,17 +5,14 @@ date: 2026-10-13
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 235 StPO: Vollzug der Untersuchungs- und Sicherheitshaft — Verhältnismässigkeitsgrundsatz, Haftbedingungen und Überbelegung, Besuche und Telefonverkehr mit Angehörigen, Postkontrolle, freier Verkehr mit der Verteidigung (inkl. Telefonverkehr gemäss BGE 151 IV 316) sowie kantonale Vollzugszuständigkeit und Unterbringung im Sicherheitsvollzug (BGer 7B_1050/2026 in Fünferbesetzung, BGer 7B_733/2026)."
 tags: ["StPO", "Haftvollzug", "Untersuchungshaft", "Sicherheitshaft", "Verteidigerverkehr", "Besuchsrecht", "Postkontrolle", "Haftbedingungen", "Sicherheitsvollzug", "Rechtsschutz"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-235.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-13
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar zu Art. 235 StPO: Detaillierte Kasuistik und Berücksichtigung neuester Leitentscheide (BGer 7B_1050/2026 in Fünferbesetzung zur Zuständigkeit für Hochsicherheitsvollzug; BGer 7B_733/2026 zur Begründungspflicht bei Besuchs- und Telefonverweigerung; BGE 151 IV 316 zum bundesrechtlichen Anspruch auf Verteidigertelefonate; BGE 143 I 241, BGE 140 I 125, BGE 140 I 246, BGE 139 IV 41, BGE 141 IV 349; BGer 1B_235/2022, 1B_170/2014, 1B_103/2014, 1B_5/2019, 1B_141/2020; kantonale Entscheide aus SG und SH), Prüfschema-Tabelle, Gegenüberstellung zulässiger vs. unzulässiger Beschränkungen, 3 kantonale Praxisfragen und adressatenbezogene Praxishinweise."
 ---
 

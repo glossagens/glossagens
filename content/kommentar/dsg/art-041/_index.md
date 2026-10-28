@@ -5,22 +5,18 @@ date: 2026-08-07
 lastmod: 2026-10-21
 description: "Kommentar zu Art. 41 DSG: Unterlassungs-, Beseitigungs- und Feststellungsanspruch gegenüber Bundesorganen, Berichtigung, Löschung und Vernichtung von Personendaten, Einschränkung der Bearbeitung, Bestreitungsvermerk, Rechtsschutz bei SYMIC/ZEMIS-Mutationen, Abgrenzung zum Asylverfahren und VwVG-Verfahren."
 tags: ["DSG", "Datenschutz", "Berichtigung", "Löschung", "Bestreitungsvermerk", "Bundesorgane", "VwVG", "SYMIC", "ZEMIS", "Rechtsverweigerung"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umstellung auf {{< wortlaut >}}; Einarbeitung des Rechtsschutzes bei Datenberichtigungen im SYMIC/ZEMIS und der Abgrenzung zum Asylverfahren (BVGer F-6766/2026)."
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 13 weitere BGer-Entscheide zu DSG Art. 41 hinzugefügt"
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BGer 1C_524/2024 vom 22. Juni 2026 (Publikation vorgesehen); alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief) verifiziert."
 ---
 

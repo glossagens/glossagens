@@ -5,12 +5,10 @@ date: 2026-08-30
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 117 StGB — Fahrlässige Tötung: ärztliche Sorgfaltspflicht, Eventualvorsatz-Abgrenzung, Selbstgefährdung, Bergwanderung, Vertrauensgrundsatz."
 tags: ["Rechtsprechung", "StGB", "Fahrlässige Tötung", "Sorgfaltspflicht", "Eventualvorsatz", "Selbstgefährdung", "Arztstrafrecht", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 7 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 148 IV 39 (ärztliche Sorgfaltspflicht, Freispruch), BGE 130 IV 58 (Raserunfall: Eventualvorsatz), BGE 122 IV 303 (Bergwanderung), BGE 125 IV 189 (Selbstgefährdung), BGE 135 IV 56 (Pflichtwidrigkeitszusammenhang), BGE 143 IV 138 (Sorgfaltspflicht im Strassenverkehr), BGer 7B_854/2025 (ärztliche Ex-ante-Perspektive); fabrizierte und unverifizierbare Zitate entfernt (ZH Obergericht SB150298); alle Links durch entscheidsuche.ch ersetzt"
 ---
 

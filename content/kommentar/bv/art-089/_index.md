@@ -5,23 +5,18 @@ date: 2026-08-10
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 89 BV — Energiepolitik: Grundsätze der Energieversorgung (ausreichend, breit gefächert, sicher, wirtschaftlich, umweltverträglich), Gesetzgebungskompetenz Bund/Kantone, erneuerbare Energien, sparsamer Energieverbrauch"
 tags: ["BV", "Energiepolitik", "Energieversorgung", "Erneuerbare-Energien", "StromVG", "KEG", "CO2-Gesetz", "EnG", "ElCom"]
-agent_verified: false
-mcp_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-089.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 75 %, Urteil B): Keine erfundene Referenz, keine toten Pinpoints — der solideste der vier Hermes-Artikel. BGE 144 II 454 war als Beleg für Kooperationspflichten im Kernenergiebereich geführt und betrifft die Kostenüberwälzung der Jodtabletten-Abgabe; korrigiert. Beide Flags zurückgenommen, weil der Vermerk der Prüfung nicht standhielt."
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit-Umbau «alle unsupported Zitate ersetzt durch verifizierte Rechtsprechung»"
 ---
 

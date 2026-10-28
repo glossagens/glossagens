@@ -5,17 +5,14 @@ date: 2026-07-31
 lastmod: 2026-09-23
 description: "Systematische Rechtsprechungsübersicht zu Art. 44 ATSG: Leitentscheide und kantonale Urteile zu Anwendungsbereich (MEDAS vs. RAD, Kreisärzte, Rehakliniken), Zwischenverfügungspflicht nach WEIV 2022, Ausstandsgründen und Gerichtsgutachterkosten."
 tags: ["Rechtsprechung", "ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten"]
-agent_verified: true
 revisions:
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
   - date: 2026-09-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechung zum Praxiskommentar: Aufnahme von 18 verifizierten Entscheiden (Leitentscheide BGEs, neue BGer-Urteile zu KSVI Rz. 3067.1 und kantonale Judikatur zu Anwendungs- und Verwerfungstatbeständen)."
 ---
 

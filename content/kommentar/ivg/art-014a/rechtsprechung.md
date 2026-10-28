@@ -5,7 +5,6 @@ date: 2026-06-07
 lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 14a IVG – Integrationsmassnahmen, Anspruchsvoraussetzungen, sozialberufliche Rehabilitation"
 tags: ["Rechtsprechung", "IVG", "Integrationsmassnahmen", "Eingliederung", "Arbeitsunfähigkeit"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

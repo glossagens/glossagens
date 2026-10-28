@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 90 SVG: Dreistufiges Sanktionssystem (einfache, grobe und qualifiziert grobe Verkehrsregelverletzung); Geschwindigkeitsschwellenwerte (BGer-Praxis zu Abs. 2 und Abs. 4); Kasuistik zu Rechtsüberholen, Abstand, Rotlicht und Ablenkung; Vorsatzbegriff und Entkopplung vom Tötungsvorsatz (BGer 6B_966/2025); Ersttäterprivileg (Abs. 3ter) und Strafmilderung (Abs. 3bis); unbewusste Fahrlässigkeit bei Bahnübergängen; Verbindungsbusse (Art. 42 Abs. 4 StGB)."
 tags: ["SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "grobe Verkehrsregelverletzung", "qualifizierte grobe Verkehrsregelverletzung", "Geschwindigkeitsüberschreitung", "Ersttäterprivileg", "Strafzumessung", "Rechtsüberholen", "Abstand", "Rotlicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-090.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergaenzung BGer 7B_497/2025: unbewusste Fahrlaessigkeit bei Bahnuebergang (Ziffer 5a); Verbindungsbusse und Verschuldens-Strafmass-Kongruenz (Praxishinweis 5). Belege via OCL get_erwaegung geprueft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau als praxisorientierter Kommentar; Fedlex-Text verifiziert (Stand 2026-07-01); 10 BGEs + 5 BGer-Entscheide + 5 kantonale Entscheide via entscheidsuche verifiziert und verlinkt; Abs. 3bis/3ter neu kommentiert; Fehlerhafte Abs. 4-Darstellung korrigiert."
   - date: 2026-09-06
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit Art. 90 SVG: Sämtliche Entscheide verifiziert und mit entscheidsuche.ch verlinkt; Abgrenzungen (Abs. 1 vs. Abs. 2 vs. Abs. 3, Geschwindigkeitsstufen, Rechtsüberholen vs. Rechtsvorbeifahren, Abstand/Drängeln, Rotlicht, Handy/Ablenkung, Eventualvorsatz vs. Art. 111/117 StGB) durch plastische Lebenssachverhalte und strukturierte Kasuistiktabellen gemäss Praxisstandard geschärft."
   - date: 2026-09-12
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung BGer 6B_772/2025: Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg nach Abs. 3ter SVG aus (Erstmalige Klärung durch BGer). Kommentarziffer 26 und Praxishinweis aktualisiert."
 ---
 

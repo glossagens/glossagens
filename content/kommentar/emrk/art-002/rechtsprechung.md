@@ -5,12 +5,10 @@ date: 2026-06-07
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 2 EMRK — Recht auf Leben, Schutzpflichten, Todesstrafenverbot"
 tags: ["Rechtsprechung", "EMRK", "Recht auf Leben", "Schutzpflicht", "EGMR"]
-agent_verified: false
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: BGE 141 I 81 (fabriziert) und BGer 1B_456/2016 (real, aber Beschlagnahme-Verfahren statt Schusswaffengebrauch) ersetzt durch BGE 147 I 494 und BGer 1C_179/2008 (beide via check_claim_support verifiziert). Makaratzis-Aktenzeichen korrigiert (50385/99). Verdaechtige bger.ch/ext/eurolex-URLs (Fabrikationsmuster) entfernt."
 ---
 

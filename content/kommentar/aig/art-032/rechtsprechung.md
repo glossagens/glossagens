@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Leitentscheide des Bundesgerichts sowie der Rechtsprechung des Bundesverwaltungsgerichts und kantonaler Gerichte zu Art. 32 AIG (Kurzaufenthaltsbewilligung, Ausweis L): Befristung, Stellenwechsel, Zweckbindung, Vorbereitung der Ehe und Kontingentierung."
 tags: ["Rechtsprechung", "AIG", "Kurzaufenthaltsbewilligung", "Ausweis L", "Stellenwechsel", "FZA", "Kontingente"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstanlage der Rechtsprechungsübersicht zu Art. 32 AIG mit 9 Bundesgerichtsentscheiden (BGE) und 9 Entscheiden des BVGer sowie kantonaler Verwaltungsgerichte (BS, ZH). Sämtliche Entscheide im Volltext über entscheidsuche.ch gesichtet und Kernaussagen buchstabengetreu abgeglichen."
 ---
 

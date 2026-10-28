@@ -5,7 +5,6 @@ date: "2026-06-27"
 lastmod: "2026-10-06"
 description: "Übersicht der Leitentscheide und weiteren Entscheide des Bundesgerichts und kantonaler Gerichte zu Art. 354 StPO (Einsprache gegen den Strafbefehl, Form, Fristen, Legitimation und Rechtskraft)."
 tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Einsprache", "Privatklägerschaft", "Rechtskraft", "Zustellfiktion", "Verschlechterungsverbot"]
-agent_verified: true
 ---
 
 Zurück zum Kommentar: [Art. 354 StPO — Einsprache](./)

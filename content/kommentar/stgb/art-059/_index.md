@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung (Begründungspflicht bei Gutachtenabweichung BGer 7B_208/2026), Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung."
 tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil", "Gutachten", "Massnahmenverlängerung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-059.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Bundesgerichtsurteils 7B_208/2026 vom 04.09.2026 (publiziert 25.09.2026): Schärfung der Begründungsanforderungen bei Abweichung vom psychiatrischen Gutachten im Rahmen der Massnahmenverlängerung nach Art. 59 Abs. 4 StGB; Aufhebung kantonaler Massnahmenverlängerung wegen willkürlicher Beurteilung des Rückfallrisikos."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1:cloud"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau: Prüfschema, narrative Sachverhaltsschilderungen, zweiseitige Grenzkasuistik, Judikaturdivergenzen, Leitsätze, Praxishinweise. Alle Zitate via Fedlex und entscheidsuche verifiziert."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: 5 halluzinierte BGE-Zitate entfernt; Belege, Dogmatik und Rechtsprechung via Fedlex und OpenCaseLaw MCP verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

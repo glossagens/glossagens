@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Übersicht der Entscheide zu Art. 91 SVG (Angetrunkenheit, qualifizierte Alkoholkonzentration, Fahrunfähigkeit durch Betäubungsmittel)"
 tags: ["Rechtsprechung", "SVG", "Trunkenheit am Steuer", "Fahrunfähigkeit"]
-agent_verified: false
 revisions:
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Entscheide via opencaselaw-MCP (cite/get_case_brief) verifiziert."
 ---
 

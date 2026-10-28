@@ -5,7 +5,6 @@ date: "2026-06-27"
 lastmod: "2026-06-27"
 description: "Übersicht der Entscheide zu Art. 355 StPO — Verfahren bei Einsprache"
 tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Einsprache", "Säumnisfiktion", "Beweisabnahme"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 355 StPO — Verfahren bei Einsprache](./)

@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: "2026-09-05"
 description: "Übersicht der Rechtsprechung zu Art. 248 ZPO — Summarisches Verfahren: Aktenschluss, Novenrecht, klarer Fall, derogatorische Kraft, vorsorgliche Massnahmen, freiwillige Gerichtsbarkeit."
 tags: ["Rechtsprechung","ZPO","Summarisches Verfahren","Aktenschluss","Novenrecht","klarer Fall","vorsorgliche Massnahmen"]
-agent_verified: false
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit 12 verifizierten BGer/BGE-Entscheiden (entscheidsuche-URLs), 7 kantonalen Entscheiden und Pinpoint-Zitaten; Kasuistik zu Aktenschluss, klarer Fall, derogatorischer Kraft, freiwilliger Gerichtsbarkeit"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 53 % → 85 %, Urteil A): vier ungestützte Einträge und vier kantonale Entscheide entfernt; Aussagen auf den Wortlaut der Erwägungen zurückgenommen"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 53 % (Urteil B); 5 von 18 Paaren gestützt; 4 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-07-19
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Ersterstellung"
 ---
 

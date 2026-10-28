@@ -5,17 +5,14 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 23 AHVG — Witwen- und Witwerrente: Anspruchsvoraussetzungen (Kinder im Zeitpunkt der Verwitwung), Gleichstellung von Stief- und Pflegekindern, Entstehen und Erlöschen des Anspruchs (Wiederverheiratung, Tod), Wieder aufleben bei Scheidung der neuen Ehe, Verhältnis zu Art. 24a, 35bis AHVG (Verwitwetenzuschlag) und zu Art. 151 f. ZGB."
 tags: ["AHVG", "Witwenrente", "Witwerrente", "Hinterlassenenrente", "Verwitwung", "Pflegekinder", "Wiederverheiratung", "Sozialversicherung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.10 vom 2026-01-01 (data/wortlaut/ahvg/art-023.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 831.10 Art. 23), Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 66abis StGB: Fakultative Landesverweisung — Voraussetzungen bei Nicht-Katalogtaten, Verhältnismässigkeitsprüfung, Härtefallklausel, Kriterien der Interessenabwägung und Dauer."
 tags: ["StGB", "Landesverweisung", "Fakultative Landesverweisung", "Nicht-Katalogtaten", "Verhältnismässigkeit", "Härtefallklausel", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; dubiose kantonale Zitate entfernt; BGE 146 IV 105 (Härtefall), 144 IV 332 (Ermessen), 145 IV 364 (FZA), 144 IV 168 (Abgrenzung) verifiziert; 5 verifizierte BGE-Entscheide"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Gesetzeswortlaut-Überschrift und Ergänzung auf 10 verifizierte BGE- und Obergerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

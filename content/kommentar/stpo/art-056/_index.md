@@ -5,37 +5,30 @@ date: 2026-06-18
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 56 StPO: Ausstandsgründe bei Strafbehörden (Richter, Staatsanwaltschaft, Polizei, Sachverständige). Systematische Prüfung der Tatbestände (persönliches Interesse, Vorbefassung, Verwandtschaft, Generalklausel der Befangenheit) mit umfangreicher Grenzkasuistik, Schwellenwert-Gegenüberstellungen und Handlungsanweisungen für die Praxis."
 tags: ["StPO", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteiischer Richter", "Staatsanwaltschaft", "Polizei", "Sachverständige", "Mehrfachbefassung", "Verwirkungsfrist", "Gerichtsschreiber"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_129/2026 vom 09.09.2026 (Ausstandsgründe Staatsanwaltschaft im Vorverfahren; Zulässigkeit einer vorübergehend orientierteren Haltung; ungeschickte oder pointierte Äusserungen in einer Vernehmlassung ausserhalb der Entscheidfunktion begründen keinen Befangenheitsanschein; Grenzziehung zur Kumulationsdoktrin aus 7B_890/2026). Ergänzung in Abschnitt A.2, G.2, in der Schwellenwerttabelle (Abschnitt H.1) und bei den Praxishinweisen (Abschnitt K)."
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_890/2026 vom 02.09.2026 (Präzisierung der Kumulationsdoktrin: Ausstand einer Staatsanwältin nach Häufung rechtskräftig festgestellter Verfahrensfehler ohne einzelnen schwellensprengenden Vorfall; Berücksichtigung von Fehlern aus Dossiers ohne eigene Parteistellung; jahrelanges Ausbleiben fundierter Ermittlungsschritte und oberflächliche Beschuldigteneinvernahme als Anschein mangelnder Ergebnisoffenheit). Ergänzung in Abschnitt C.2, in der Kasuistiktabelle (Abschnitt H.1) und bei Frage 1 der kantonalen Praxisfragen."
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_397/2026 vom 7. August 2026 (Ausstand eines a.o. Gerichtsschreibers wegen persönlicher Feindschaft durch Strafverweis auf privatem Briefpapier). Einordnung in Abschnitt G.5 (Feindschaft/Reaktion der Gerichtsperson), Ergänzung des Adressatenkreises (Gerichtsschreiber-Willensbildung, BGE 140 I 271) und der Schwellenwerttabelle. Entscheid via opencaselaw verifiziert (entscheidsuche führt ihn noch nicht); E. 2.4 via get_erwaegung belegt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-056.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR. Vollständiges dogmatisches Prüfschema (Abschnitte A bis K), zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) zu allen Merkmalen, Kasuistik- und Schwellenwerttabellen ohne Code-Fences, Offenlegung von Judikaturdivergenzen (insb. Mehrfachbefassung nach Rückweisung und abgekürztem Verfahren, Vorbefassung ZMG vs. Sachrichter), kantonale Praxisfragen und adressatenbezogene Praxishinweise. Sämtliche 19 Urteile im Volltext über entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aktualisierung basierend auf BGer-Update: Ergänzung von BGer 7B_1237/2025 vom 08.09.2026 zur Akteneinsichts- und Beizugspflicht der Ausstandsbehörde (Verletzung von Art. 29 Abs. 2 BV bei Entscheid ohne Beizug der Verfahrensakten)."
 ---
 

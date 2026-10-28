@@ -5,22 +5,18 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 714 ZGB — derivativer Erwerb von Fahrniseigentum (Verpflichtungsgeschäft, dinglicher Vertrag, Besitzübergang/traditio) und gutgläubiger Erwerb vom Nichtberechtigten (Art. 714 Abs. 2 i.V.m. Art. 933 ff. ZGB, Art. 3 ZGB) mit Kasuistik aus Occasionswagenhandel, Kunsthandel, Antiquitätenhandel, Tierhandel und Gesellschaftsliquidation."
 tags: ["ZGB", "Sachenrecht", "Fahrniseigentum", "gutgläubiger Erwerb", "traditio", "Besitzübergang", "Besitzesregeln", "Kausalitätsprinzip", "nemo plus iuris", "Occasionswagen", "Kunsthandel", "Beweislast"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-714.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Zitatkorrektur beim Kausalitätsprinzip (BGE 55 III 302 auf Leitentscheid BGE 55 II 302 korrigiert)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte (Art. 3, 641a, 714, 715, 716, 728, 930, 933, 934, 935, 936 ZGB) via Fedlex-MCP verifiziert (Konsolidierung 2026-07-01). 11 Entscheide via entscheidsuche.ch im Volltext abgerufen und ausgewertet (BGE 113 II 397, BGE 121 III 345, BGE 121 IV 26, BGE 122 III 1, BGE 139 III 305, BGer 4A_25/2023, BGer 5A_925/2013, BGer 5A_962/2017, BL KG 410 23 305, GR KG ZK2 21 32, ZH OG LB230022). Links verbatim aus document_url-Feldern übernommen. Keine opencaselaw-Rückfälle benötigt."
 ---
 

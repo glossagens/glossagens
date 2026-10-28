@@ -5,12 +5,10 @@ date: 2026-08-07
 lastmod: 2026-08-07
 description: "Kommentar zu Art. 24 DSG: Meldepflicht bei Data Breaches gegenüber dem EDÖB, Information der betroffenen Personen, Ausnahmen (Unmöglichkeit, unverhältnismässiger Aufwand, öffentliche Bekanntmachung) und Verwendungsverbot im Strafverfahren."
 tags: ["DSG", "Datenschutz", "Data Breach", "Datensicherheitsverletzung", "Meldepflicht", "EDÖB", "Cybersicherheit"]
-agent_verified: false
 revisions:
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BVGer A-3790/2024 vom 8. April 2026; alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief/get_erwaegung) verifiziert."
 ---
 

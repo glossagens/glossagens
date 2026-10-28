@@ -5,17 +5,14 @@ date: 2026-05-16
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 219 StGB: Verletzung der Fürsorge- oder Erziehungspflicht — Garantenstellung, Gefährdung der Entwicklung Minderjähriger, unechte Konkurrenz, Handlungseinheit und Verjährung."
 tags: ["StGB", "Fürsorgepflicht", "Erziehungspflicht", "Kindeswohlgefährdung", "Garantenstellung", "Vernachlässigung", "minderjährige Person"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 3 verifizierte BGE-Leitentscheide via entscheidsuche.ch; BGE 125 IV 64 (Schulverantwortliche bei sexuellem Missbrauch), BGE 126 IV 136 (unechte Konkurrenz mit sexuellen Delikten), BGE 149 IV 240 (Handlungseinheit, Verjährung, wiederholte Misshandlung); LU OG 21 09 113 (Besuchsrechtsverhinderung) auf entscheidsuche.ch verifiziert; Gesetzeswortlaut → Wortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 

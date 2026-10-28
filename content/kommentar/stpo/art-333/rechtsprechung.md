@@ -5,22 +5,18 @@ date: "2026-06-08"
 lastmod: "2026-09-04"
 description: "Übersicht der Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 333 StPO – Änderung und Erweiterung der Anklage"
 tags: ["Rechtsprechung", "StPO", "Anklageprinzip", "Anklageänderung", "Anklageerweiterung", "Immutabilitätsprinzip"]
-agent_verified: true
 revisions:
   - date: "2026-09-04"
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "17 neue Entscheide ergänzt (8 BGer, 9 kantonal/BStGer) im Rahmen des praxisorientierten Ausbaus von Art. 333 StPO; alle Links via entscheidsuche.ch verifiziert; Dublette entfernt — BGer 6B_171/2022 vom 29.11.2022 ist dieselbe Entscheidung wie der bereits als Leitentscheid geführte BGE 149 IV 42 (Geschäftsnummer statt eigenständiger Entscheid)"
   - date: "2026-08-30"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erschöpfende Rechtsprechungsübersicht aktualisiert; alle Entscheide auf entscheidsuche.ch verlinkt und neue Leitentscheide eingepflegt"
   - date: "2026-08-18"
     by: "Glossagens Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständiges Audit und Neubelegung aller Kernaussagen und Erwägungs-Pinpoints"
 ---
 

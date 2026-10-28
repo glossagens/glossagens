@@ -5,12 +5,10 @@ date: 2026-09-11
 lastmod: 2026-09-11
 description: "Übersicht der Rechtsprechung zu Art. 166 StGB — Unterlassung der Buchführung, Buchführungspflicht, Aufbewahrungspflicht, Bilanzierung und Konkurrenzen."
 tags: ["Rechtsprechung", "StGB", "Unterlassung der Buchführung", "Buchführungspflicht", "Organhaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 166 StGB mit 16 verifizierten Entscheiden: 6 Leitentscheide des Bundesgerichts (BGE), 6 weitere bundesgerichtliche Urteile sowie 4 kantonale Entscheide (ZH, BS, AG, GR). Alle Urteilslinks verbatim über entscheidsuche.ch belegt."
 ---
 

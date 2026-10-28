@@ -16,12 +16,10 @@ normen:
   - { gesetz: kvg, art: art-059b }
   - { gesetz: kvg, art: art-065 }
 stichworte: ["KVG", "Krankenversicherung", "Kostendämpfung", "EFAS", "Pflegeinitiative", "Zulassungssteuerung", "Höchstzahlen", "WZW-Kriterien", "Wirtschaftlichkeitskontrolle", "Experimentierartikel", "Rechnungskopie", "Prämienverbilligung", "TARDOC", "ambulante Pauschalen"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtexte Art. 117 BV, Art. 55a und 59b KVG per {{< wortlaut >}} (scripts/wortlaut.py); KVG-Konsolidierung via Fedlex-MCP geprüft. Leitentscheide BGE 151 V 100, BGE 151 V 30, BGE 151 V 158, BGE 151 V 1 und BGE 140 V 574 als Volltexte von entscheidsuche.ch geladen; Erwägungsnummern, Anker und wörtliche Zitate exakt abgeglichen."
 ---
 

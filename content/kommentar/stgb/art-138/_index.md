@@ -5,37 +5,30 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 138 StGB: Aneignung anvertrauter beweglicher Sachen (Ziff. 1 Abs. 1), unrechtmässige Verwendung anvertrauter Vermögenswerte (Ziff. 1 Abs. 2), Bereicherungsabsicht, Ersatzfähigkeit, Qualifikation (Ziff. 2) und Abgrenzung zu Betrug, Unterschlagung und ungetreuer Geschäftsbesorgung (keine Veruntreuung bei Retrozessionen) — mit zweiseitiger Grenzkasuistik zu Anvertrautsein, Werterhaltungspflicht und Vereitelungshandlung."
 tags: ["StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Aneignung", "Anvertraut", "Werterhaltungspflicht", "Bereicherungsabsicht", "Qualifikation", "Berufsbeistand", "Leasing", "Buchgeld", "Retrozessionen", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-138.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung der dogmatischen Einordnung von Retrozessionen: Ausschluss von Art. 138 StGB mangels Anvertrautseins und Werterhaltungspflicht (blosse schuldrechtliche Ablieferungsschuld aus Art. 400 Abs. 1 OR; BGE 133 IV 21 E. 6.2); Abgrenzung zu Art. 158 StGB (BGE 144 IV 294) in C.2, G.3 und den Praxishinweisen."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau als praxisorientierter Kommentar nach SKILL.md v1.3.0. Gesetzeswortlaut verbatim aus Fedlex (SR 311.0). Sämtliche Entscheide im Volltext über entscheidsuche.ch geholt und wörtlich belegt: BGE 143 IV 297, BGE 133 IV 21, BGE 118 IV 27, BGE 129 IV 257, BGE 124 IV 9, BGE 121 IV 23, BGer 6B_224/2024 (qualifizierte Veruntreuung durch Berufsbeistand), BGer 7B_758/2025 (Anvertrautsein, Leasing-Autowaschanlage). Kantonale Entscheide via entscheidsuche-Suche ergänzt. Merkmalsraster, zweiseitige Grenzkasuistik, Leitsätze und Praxishinweise nach SKILL.md."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung der bestehenden BGE-Einträge; Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

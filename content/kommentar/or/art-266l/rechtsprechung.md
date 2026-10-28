@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Rechtsprechung zu Art. 266l OR: Schriftform des Mieters, amtlicher Formularzwang des Vermieters, Unterschriftserfordernis, Telefax und Begleitbrief."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Kündigung", "Formvorschrift", "Amtliches Formular"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

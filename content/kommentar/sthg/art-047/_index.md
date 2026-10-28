@@ -5,17 +5,14 @@ date: 2026-09-28
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 47 StHG (SR 642.14) — Verjährung des Veranlagungsrechts (Abs. 1) und der Steuerforderung (Abs. 2). Behandelt relative und absolute Verjährung, Stillstand und Unterbrechung, die «ausdrückliche» Anerkennung der Steuerforderung, wahrungshemmende Handlungen im interkantonalen Doppelbesteuerungsverhältnis, die doppelbesteuerungsrechtliche Verwirkungsfrist «n+2» und das Verhältnis zum Nachsteuerverfahren (Art. 53 StHG). Mit Grenzkasuistik angewandt vs. verworfen, Kasuistiktabellen und Praxishinweisen für Behörden, Beamtinnen und Beauftragte."
 tags: ["StHG", "Steuerharmonisierung", "Verjährung", "Veranlagungsverjährung", "Steuerforderung", "Unterbrechung", "Stillstand", "interkantonale Doppelbesteuerung", "Verwirkung", "Nachsteuer", "Steuererklärung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 642.14 vom 2025-01-01 (data/wortlaut/sthg/art-047.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-28
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung praxisorientiert — Gesetzestext via Fedlex get_article (SR 642.14 Art. 47), Entscheide via entscheidsuche fetch_document/search_by_case_number verifiziert. Auslösender Entscheid BGer 9C_88/2026 vom 7. September 2026 (Genfer Verwirkung 2011–2015). Belege gegen den Entscheidtext geprüft."
 ---
 

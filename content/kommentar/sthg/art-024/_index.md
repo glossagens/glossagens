@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 24 StHG (SR 642.14) — Steuerbarer Reingewinn juristischer Personen. Behandelt das handelsrechtliche Massgeblichkeitsprinzip, den Tatbestand der verdeckten Gewinnausschüttung (vGA) nach dem Drittvergleichsprinzip (dealing at arm's length), simulierte Aktionärsdarlehen und Mietverzichte, Zinsen auf verdecktem Eigenkapital (Abs. 1 lit. c), steuerneutrale Kapitaleinlagen (Abs. 2 lit. a), steuerneutrale Umstrukturierungen (Abs. 3) mit Betriebserfordernis (BGE 142 II 283) sowie die fünfjährige Sperrfrist und Solidarhaftung im Konzern (Abs. 3ter/3quinquies). Mit Grenzkasuistik, Kriterientabellen und rollenspezifischen Praxishinweisen."
 tags: ["StHG", "Steuerharmonisierung", "Gewinnsteuer", "Reingewinn", "Massgeblichkeitsprinzip", "verdeckte Gewinnausschüttung", "Drittvergleich", "verdecktes Eigenkapital", "Umstrukturierung", "Sperrfrist", "Konzernübertragung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung Praxiskommentar zu Art. 24 StHG. Gesetzestext auf Stand 01.01.2025 via Fedlex konsolidiert. Amtliche Gesetzesmaterialien (BBl 1983 III 1, BBl 1997 II 1164, BBl 2000 4337, BBl 2018 2527) und Leitentscheide (BGE 140 II 88, BGE 143 II 674, BGE 142 II 283, BGE 138 II 57, BGE 137 II 353, BGE 131 II 593) vollständig eingearbeitet."
 ---
 

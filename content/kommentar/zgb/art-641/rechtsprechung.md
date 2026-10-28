@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 641 ZGB — Eigentumsfreiheitsklage (actio negatoria), Vindikation, Schranken der Rechtsordnung und Eigentumsgarantie (Art. 26 BV)."
 tags: ["Rechtsprechung", "ZGB", "Eigentum", "actio negatoria", "Vindikation", "Eigentumsgarantie"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 14 Entscheide via opencaselaw (Regesten/Erwägungen) und entscheidsuche.ch (Links) verifiziert."
 ---
 

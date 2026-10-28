@@ -5,32 +5,26 @@ date: 2026-09-12
 lastmod: 2026-10-08
 description: "Übersicht der Rechtsprechung zu Art. 82 SchKG — Provisorische Rechtsöffnung, Schuldanerkennung, synallagmatische Verträge, zusammengesetzte Urkunden, Kontokorrent, Einwendungen, Glaubhaftmachung, Prüfungsbefugnis, vertragliche Mediationsklausel."
 tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "provisorische Rechtsöffnung", "Schuldanerkennung", "Glaubhaftmachung", "synallagmatischer Vertrag", "zusammengesetzte Urkunde"]
-agent_verified: true
 revisions:
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 4A_53/2026 vom 9.9.2026 (Fünferbesetzung) zur Unwirksamkeit privater Mediationsklauseln im summarischen Rechtsöffnungsverfahren (Art. 198 lit. a ZPO)."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 5 BGE-Leitentscheide (132 III 140, 132 III 480, 134 III 267, 136 III 627, 139 III 297), 4 weitere BGer-Entscheide, 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-06-07
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

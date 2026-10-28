@@ -5,22 +5,18 @@ date: 2026-08-01
 lastmod: 2026-10-19
 description: "Übersicht und Analyse der Leitentscheide und kantonalen Praxis zu Art. 97 OR: Vertragshaftung bei Nicht- und Schlechterfüllung, Schadensbegriff, Differenzhypothese, Kausalität, Scheinexkulpation, Schadenszins und Substanziierungsobliegenheiten."
 tags: ["Rechtsprechung", "OR", "Schadensersatz", "Nichterfüllung", "Schlechterfüllung", "Differenzhypothese", "Anlageberatung", "Arztvertrag", "Substanziierung", "Schadenszins"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht im Praxiskommentar-Standard: Erweiterung auf 16 strukturierte Entscheide (8 Leitentscheide des Bundesgerichts, 8 weitere Bundesgerichts- und kantonale Entscheide). Jeder Entscheid mit Sachverhaltsskizze, tragender Kernaussage und Verlinkung auf entscheidsuche.ch versehen."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 66 % (Urteil B); 16 gestützt (+14 teilw.) von 35 beurteilten Paaren (44 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — 10 Leitentscheide via OCL find_leading_cases verifiziert."
 ---
 

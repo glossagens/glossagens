@@ -5,7 +5,6 @@ date: 2026-08-22
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 15 JStG — Unterbringung als Schutzmassnahme, geschlossene Unterbringung, Organisationshaft"
 tags: ["Rechtsprechung", "JStG", "Unterbringung", "Schutzmassnahme", "geschlossene Einrichtung", "Organisationshaft"]
-agent_verified: false
 ---
 
 ## Leitentscheide

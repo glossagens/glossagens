@@ -24,12 +24,10 @@ normen:
   - { gesetz: pbg-lu, art: art-206 }
   - { gesetz: pbg-lu, art: art-207 }
 stichworte: ["Baubewilligung", "Baubewilligungsverfahren", "Kanton Luzern", "PBG Luzern", "Baugespann", "Profilierung", "Bauauflage", "Einsprache", "Einsprachelegitimation", "Verwirkung", "Leitverfahren", "rawi", "Gesamtentscheid", "Kantonsgericht Luzern", "Verwaltungsgerichtsbeschwerde"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren). Normtexte PBG LU (§§ 184, 188, 189, 192a, 193, 194, 196, 196a, 206, 207) und RPG (Art. 22, 25a, 33) über scripts/wortlaut.py per {{< wortlaut >}}. 13 Entscheide von Bundesgericht, Kantonsgericht Luzern und Verwaltungsgericht Luzern von entscheidsuche.ch geladen und verifiziert; Erwägungsnummern, Anker und wörtliche Zitate abgeglichen. pruefen.py ohne Befund."
 ---
 

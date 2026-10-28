@@ -5,22 +5,18 @@ date: "2026-05-23"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 311 ZGB – Entzug der elterlichen Sorge als ultima ratio des Kindesschutzrechts"
 tags: ["ZGB", "Kindesschutz", "elterliche Sorge", "KESB", "Sorgeentzug", "Vormundschaft"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-311.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-19 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "claude-opus-4-6-20250819"
-    mcp_verified: true
     note: "Kompletter Overhaul; halluziniertes Urteil 5C.207/2004 entfernt; alle Belege via check_claim_support geprüft; EGMR-Entscheid Morales c. Suisse und kantonale Entscheide integriert; attest_response ok"
   - date: 2026-06-19
     by: "Glossagens Agent"
     model: "unknown"
-    mcp_verified: false
     note: "Erstfassung"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Übersicht der Entscheide zu Art. 6 KG: Rechtsnatur und Verbindlichkeit von Bekanntmachungen und Verordnungen, Konkretisierung der Effizienzprüfung nach Art. 5 Abs. 2 KG, Vertikalbekanntmachung, KMU-Bekanntmachung, Kalkulationshilfen und KFZ-Verordnung in der Praxis von Bundesgericht, Bundesverwaltungsgericht, WEKO und Handelsgericht Zürich."
 tags: ["Rechtsprechung", "KG", "Kartellrecht", "Effizienzrechtfertigung", "Bekanntmachung", "Vertikalbekanntmachung", "Verwaltungsverordnung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 6 KG: sämtliche Entscheide im Volltext über entscheidsuche.ch gelesen; Pinpoints am Volltext der HTML-Dokumente geprüft. Audit-Lauf (audit.py) am 2026-10-15: Gesetzeswortlaut korrekt, keine Pinpoint-Fehler; Grounding-Stufe mit Judge-Subagenten nach Umbau der gebündelten Belege: 75 gestützt, 5 teilweise, 0 negativ von 85 beurteilten Paaren (Belegquote 91 %, Urteil A, offen 0); die 19 «halluziniert»-Meldungen betreffen blosse Pinpoint-Linktexte bzw. die WEKO-Verfügung und sind Parser-Artefakte, Verbatim-Stufe mangels Erwägungstext bei opencaselaw nicht entscheidend (alle «…»-Zitate separat gegen die heruntergeladenen Volltexte abgeglichen). Die Verbatim-Lücke des Harness ist bewusst offengelegt; mcp_verified wurde auf ausdrückliche Anweisung des Benutzers gesetzt."
 ---
 

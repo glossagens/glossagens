@@ -5,17 +5,14 @@ date: 2026-08-30
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 13 StGB — Sachverhaltsirrtum: Vorsatzausschluss, Abgrenzung zum Rechtsirrtum, bewusste Unkenntnis, krankheitsbedingter Irrtum und Fahrlässigkeit bei Vermeidbarkeit."
 tags: ["Rechtsprechung", "StGB", "Sachverhaltsirrtum", "Vorsatzausschluss", "Fahrlässigkeit", "Irrtumslehre", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 5 verifizierte Entscheide via entscheidsuche.ch; BGE 147 IV 193 (krankheitsbedingter Irrtum), BGE 135 IV 12 (bewusste Unkenntnis), BGE 129 IV 238 (Abgrenzung Sachverhalts-/Rechtsirrtum), BGer 6B_804/2018 (Fahrlässigkeit), BGer 6B_878/2025 (normative Tatbestandsmerkmale)"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

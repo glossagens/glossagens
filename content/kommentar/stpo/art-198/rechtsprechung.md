@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 198 StPO – Zuständigkeit für Zwangsmassnahmen"
 tags: ["Rechtsprechung", "StPO", "Zwangsmassnahmen", "Zuständigkeit"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

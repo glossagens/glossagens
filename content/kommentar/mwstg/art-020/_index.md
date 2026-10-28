@@ -14,12 +14,10 @@ tags:
 - Plattformen
 - Dreiparteienverhältnis
 - Steuerrecht
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Kommentar nach Benchmark-Standard."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-10-14
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 124 SchKG: Vorzeitige Verwertung auf Schuldnerbegehren (Abs. 1) und amtlicher Notverkauf bei schneller Wertverminderung, kostspieligem Unterhalt oder unverhältnismässigen Aufbewahrungskosten (Abs. 2) — mit der Kasuistik zu Kraftfahrzeugen, Damenkonfektion und Kryptowerten, Schwellenwerten und kantonaler Praxis."
 tags: ["SchKG", "Verwertung", "Vorzeitige Verwertung", "Notverkauf", "Pfändung", "Arrest", "Wertverminderung", "Aufbewahrungskosten", "Fahrnis", "Kasuistik", "Kryptowährungen", "Motorfahrzeuge"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-124.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar zu Art. 124 SchKG: Dogmatisches Prüfschema, Schuldnerantrag (Abs. 1), amtlicher Notverkauf (Abs. 2), Grenzkasuistik (Motorfahrzeuge, Damenmode, Kryptowerte, Luxusgüter), Schwellenwert-Gegenüberstellung kantonaler Judikatur (BS/ZH/BL), Ausschluss von Grundstücken (BGE 107 III 122), prozessuale Voraussetzungen (Arrestzuständigkeit, Gehörsgewährung, Verwertungsart Freihandverkauf, Staatshaftung) und adressatenbezogene Praxishinweise."
 ---
 

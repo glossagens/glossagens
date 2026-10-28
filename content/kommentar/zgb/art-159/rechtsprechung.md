@@ -5,12 +5,10 @@ date: 2026-07-17
 lastmod: 2026-08-09
 description: "Übersicht der massgeblichen Entscheide zu Art. 159 ZGB (eheliche Gemeinschaft, Treue und Beistand, Prozesskostenvorschuss, Konkubinat, Eheschutz)"
 tags: ["Rechtsprechung", "ZGB", "Ehe", "Treuepflicht", "Beistandspflicht", "Prozesskostenvorschuss", "Konkubinat", "Eheschutz"]
-agent_verified: true
 revisions:
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um 7 weitere OCL-verifizierte Zitationen (BGE 117 II 16, BGE 114 II 18, BGE 119 II 313, BGE 142 III 617, BGE 142 III 612, BGE 147 III 249, BGE 121 II 1); Gesamt 12 OCL-verifizierte Entscheide"
 ---
 

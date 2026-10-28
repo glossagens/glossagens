@@ -5,17 +5,14 @@ date: 2026-08-30
 lastmod: "2026-10-19"
 description: "Übersicht der Rechtsprechung zu Art. 43 StGB — Teilbedingte Freiheitsstrafe: Stufensystem, Verschuldensadäquanz, Legalprognose, besonders günstige Umstände, Halbe-Strafe-Grenze, Mindestdauern und Ausschluss der bedingten Entlassung."
 tags: ["Rechtsprechung", "StGB", "Teilbedingte Strafe", "Freiheitsstrafe", "Strafaufschub", "Sanktionenrecht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung auf 14 verifizierte Entscheide (BGE und kantonale Obergerichte) via entscheidsuche.ch; Ergänzung von BGE 143 IV 441 (Probezeitverlängerung), BGE 139 IV 270 (Sicherheitshaft bei Teilaufschub), BGer 6B_1070/2018 (Schlechtprognose), BGer 6B_245/2022 (Massnahmen-Nachverfahren), BGer 6B_373/2009 (Ausschöpfung 50%-Grenze), BGer 6B_574/2008 (Zusatzstrafenkonkurrenz), SG KG AK.2023.559-AK und ZH OG SB230361."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 5 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 144 IV 277, BGE 134 IV 1, BGE 134 IV 17, BGE 134 IV 53, BGE 145 IV 137"
 ---
 

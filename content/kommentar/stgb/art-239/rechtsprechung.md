@@ -5,22 +5,18 @@ date: 2026-05-30
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 239 StGB — Störung von Verkehrsanstalten und Versorgungsanlagen: Eisenbahnblockaden, Protestblockaden, fahrlässige Betriebsstörungen, Intensität der Beeinträchtigung."
 tags: ["Rechtsprechung", "StGB", "Betriebsstörung", "Verkehrsanstalt", "Versorgungsanlage", "Infrastrukturschutz", "Protest", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 8 verifizierte Entscheide via entscheidsuche.ch; BGE 116 IV 44, BGE 119 IV 301, BGer 6B_217/2012, BGer 6B_935/2019, BGer 6B_1173/2023, BGer 6B_1496/2022, BGer 6B_830/2023, SO STAPP.2005.1; ZH UE190132 und SO ZZ.1976.13 auf entscheidsuche.ch verifiziert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung unzutreffender BGE-Zitate; 10 verifizierte Bundesgerichts- und kantonale Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

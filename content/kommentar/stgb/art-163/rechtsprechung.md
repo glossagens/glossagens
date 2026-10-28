@@ -5,23 +5,18 @@ date: "2026-08-21"
 lastmod: 2026-10-21
 description: "Rechtsprechungsübersicht zu Art. 163 StGB — Betrügerischer Konkurs und Pfändungsbetrug (Leitentscheide des Bundesgerichts, bundesgerichtliche Urteile und kantonale Praxis)."
 tags: ["Rechtsprechung", "StGB", "Konkursdelikte", "Pfändungsbetrug", "fiktive Vermögensverminderung"]
-agent_verified: true
-mcp_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Anreicherung der Rechtsprechungsübersicht: 16 verifizierte Entscheide mit strukturierten Sachverhalts- und Leitsatz-Abstracts sowie direkten Verlinkungen auf entscheidsuche.ch."
   - date: "2026-08-22"
     by: "Antigravity"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht saniert und angereichert: 14 verifizierte Entscheide mit Abstracts und OpenCaseLaw-Links aufbereitet."
   - date: "2026-08-21"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Neuerstellung (Erstfassung)"
 ---
 

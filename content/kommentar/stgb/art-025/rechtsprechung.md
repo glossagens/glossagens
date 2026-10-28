@@ -5,22 +5,18 @@ date: 2026-08-31
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 25 StGB — Gehilfenschaft: Tatbeitrag und Förderungskausalität, Abgrenzung Mittäterschaft/Gehilfenschaft, Beihilfe durch Unterlassen, Anstaltentreffen, Tatherrschaft."
 tags: ["Rechtsprechung", "StGB", "Gehilfenschaft", "Teilnahme", "Beihilfe", "Tatherrschaft", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 10 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 120 IV 265 (uneingeweihter Fahrer bei Tötungsdelikt), BGE 118 IV 309 (beamtliche Anzeigepflicht begründet keine Garantenstellung), BGE 121 IV 109 (PTT-Telekiosk: vorsätzliche Gehilfenschaft), BGE 133 IV 187 (Drogenverkauf als täterschaftliche Handlung), BGer 6B_1437/2020 (Tatherrschaftskriterien), BGE 130 IV 131 (Streckmittelhandel und Anstaltentreffen), BGE 118 IV 397 (Mittäterschaft im Betäubungsmittelstrafrecht), BGE 132 IV 132 (Gehilfenschaft zu krimineller Organisation), BGE 136 IV 55 (zwingende Strafmilderung), BGer 6B_1303/2018 (Förderungskausalität); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Bundesgerichtsurteile mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

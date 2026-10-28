@@ -5,12 +5,10 @@ date: 2026-07-04
 lastmod: 2026-09-08
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 263 StPO (Beweis-, Rückgabe-, Einziehungs-, Kostendeckungs- und Ersatzforderungsbeschlagnahme)."
 tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Zwangsmassnahmen", "Einziehung", "Ersatzforderung"]
-agent_verified: true
 revisions:
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Praxisübersicht mit 16 verifizierten Leitentscheiden des Bundesgerichts und kantonalen Urteilen zu Art. 263 StPO."
 ---
 

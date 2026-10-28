@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-28
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 6 ATSG: Arbeitsunfähigkeit, Invaliditätsbegriff, strukturiertes Beweisverfahren und Beweiswürdigung."
 tags: ["Rechtsprechung", "ATSG", "Arbeitsunfähigkeit", "Invalidität", "MEDAS", "psychische Leiden"]
-agent_verified: true
 revisions:
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

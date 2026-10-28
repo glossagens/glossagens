@@ -5,22 +5,18 @@ date: 2026-05-24
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 2 StGB: Zeitlicher Geltungsbereich — Tatzeitprinzip und Rückwirkungsverbot (Abs. 1) sowie Grundsatz der lex mitior bei Gesetzesänderungen (Abs. 2)."
 tags: ["StGB", "Zeitlicher Geltungsbereich", "Rückwirkungsverbot", "Lex mitior", "Milderes Recht", "Intertemporales Strafrecht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; dubiose kantonale Zitate entfernt; BGE 134 IV 82 (Schnittstellenproblematik), 147 IV 471 (Übertretungsbusse vs. Geldstrafe), 148 IV 374 (konkreter Günstigkeitsvergleich), 145 IV 137 (Prüfungszeitpunkt), 134 IV 121 (Rückwirkungsverbot für Massnahmen), 146 IV 311 (Landesverweisung) verifiziert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 251 StPO – Körperliche Untersuchungen: Untersuchung des körperlichen/geistigen Zustands (Abs. 1), Zwecke bei Beschuldigten (Abs. 2), Schranken der Schmerzzufügung und Gesundheitsgefährdung (Abs. 3) sowie restriktive Zwangsuntersuchungen an Dritten und Opfern (Abs. 4)."
 tags: ["StPO", "körperliche Untersuchung", "körperliche Integrität", "Blutentnahme", "Schuldfähigkeit", "Drittpersonen", "Opferschutz", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-251.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung zu Art. 251 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 

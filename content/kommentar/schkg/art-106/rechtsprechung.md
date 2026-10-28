@@ -5,32 +5,26 @@ date: 2026-09-12
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 106 SchKG — Drittwiderspruchsverfahren, Vormerkung, Anmeldefrist, Verwirkung, Forderungspfändung, Eigentumsvorbehalt, Vermieterretention, Pfandverwertung, Vindikation nach Verwertung, Durchgriff, Beschwerdelegitimation, Grenzkasuistik."
 tags: ["Rechtsprechung", "SchKG", "Drittanspruch", "Widerspruchsverfahren", "Vormerkung", "Verwirkung", "Forderungspfändung", "Eigentumsvorbehalt", "Vermieterretention", "Pfandverwertung", "Vindikation", "Durchgriff", "Grenzkasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 6 neue BGE-Leitentscheide (123 III 367, 119 III 22, 112 III 75, 88 III 109, 97 III 60, 81 III 7) und BGE 120 III 18 als systematische Ergänzung (Pfandverwertung, Vormerkungsgrenzen, Beschwerdelegitimation, Verwirkung, Aufklärungspflicht, Vermieterretention, Verrechnungseinrede); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 134 III 122, BGE 144 III 541, BGE 135 III 663, BGE 114 III 92, BGE 120 III 123, BGer 5A_743/2021, BGer 5A_342/2020, BGer 5A_53/2020, BGer 5A_864/2013, BGer 5A_338/2017 als systematische Ergänzung; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

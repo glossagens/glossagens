@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 290 SchKG: Passivlegitimation, tatsächlich Begünstigter, bösgläubige Dritte und Gutglaubensschutz."
 tags: ["Rechtsprechung", "SchKG", "Passivlegitimation", "Begünstigter", "Bösgläubige Dritte", "Gutglaubensschutz"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

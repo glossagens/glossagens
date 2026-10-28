@@ -5,32 +5,26 @@ date: 2026-05-17
 lastmod: 2026-10-24
 description: "Rechtsprechungsübersicht zu Art. 36 BV: Systematische Sammlung von Leitentscheiden des Bundesgerichts und kantonalen Urteilen zu gesetzlicher Grundlage, polizeilicher Generalklausel, öffentlichem Interesse, Verhältnismässigkeit und Kerngehalt."
 tags: ["Rechtsprechung", "BV", "Grundrechte", "Verhältnismässigkeit", "Gesetzliche Grundlage", "Polizeiliche Generalklausel"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_445/2025 vom 17. September 2026 (Mendicité genèvevoise, Art. 11A LPG/GE — Freispruch wegen fehlender administrativer Vorstufen). Entscheid via mcp__opencaselaw__cite, get_decision_structure und get_erwaegung verifiziert; auf entscheidsuche.ch noch nicht verfügbar, OCL-Link als Rückfall. Zudem Verweise auf BGE 152 I 38 und die fünf Parallelentscheide vom 19. März 2025 (6B_216/2024 etc.) mit auf entscheidsuche.ch verifizierten Links."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um kantonalen Entscheid AG VG WBE.2026.306 (Zwangsmedikation im Massnahmenvollzug nach Art. 59 StGB, § 47 EG StPO AG). Volltext via mcp__entscheidsuche__fetch_document gesichtet und gegen den Wortlaut geprüft."
   - date: 2026-09-22
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung der Rechtsprechungsübersicht. Gliederung in I. Leitentscheide und II. Weitere Entscheide gemäss Leitfaden. Sämtliche Entscheide mit konkreten Lebenssachverhalten, Akteuren, Dispositiv und Erwägungen angereichert; alle Links verbatim auf entscheidsuche.ch gesetzt; agent_verified auf true gesetzt."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Fehlzuordnungen bereinigt, Leitsätze teilweise an den Wortlaut angeglichen. Erstmals revisions-Block gesetzt."
   - date: 2026-05-18
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

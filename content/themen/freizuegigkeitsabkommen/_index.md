@@ -17,17 +17,14 @@ normen:
   - { gesetz: bv, art: art-121a }
   - { gesetz: bv, art: art-190 }
 stichworte: ["Freizügigkeitsabkommen", "FZA", "Personenfreizügigkeit", "Derogation", "Inländervorrang", "Höchstzahlen", "Schubert-Praxis", "Metock", "Zhu und Chen", "Ordre public", "Art. 5 Anhang I FZA", "Arbeitnehmerfreizügigkeit", "BGer 2C_355/2024"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Grundsatzentscheids BGer 2C_355/2024 vom 19.08.2026 (5er-Besetzung, publiziert 26.10.2026): Arbeitnehmereigenschaft nach Art. 6 Abs. 1 Anhang I FZA und deren Wiedererlangung nach Aussteuerung / Art. 61a Abs. 4 AIG durch Beschäftigung im Rahmen öffentlich finanzierter Arbeitslosenhilfe / Integrationsprogramme."
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Freizügigkeitsabkommen (FZA). Normtexte Art. 2, 21 AIG sowie Art. 5, 121a BV per {{< wortlaut >}} aus amtlicher Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 12 Leitentscheide als Volltext über entscheidsuche.ch geladen; Erwägungsnummern, Anker und jedes wörtliche Zitat gegen Volltext abgeglichen; pruefen.py ohne Befund."
 ---
 

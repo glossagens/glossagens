@@ -5,27 +5,22 @@ date: 2026-07-04
 lastmod: "2026-10-20"
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 140 StGB — Raub: Nötigungsmittel, Handtaschenraub vs. Entreissdiebstahl, Zeitfenster des räuberischen Diebstahls, Ausschluss bei Betäubungsmitteln, Waffenqualifikation und Alltagsgegenstände, Zweierbande, besondere Gefährlichkeit, Lebensgefahr und Grausamkeit."
 tags: ["Rechtsprechung", "StGB", "Raub", "Diebstahl", "Schusswaffe", "Bande", "Gefährlichkeit", "Lebensgefahr", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erweiterung der Rechtsprechungsübersicht auf 14 verifizierte Leitentscheide und kantonale Entscheide: Ergänzung von BGer 6B_409/2021 (Beendigungszeitpunkt und Ladenlokal beim räuberischen Diebstahl), BGE 135 IV 158 (Zweierbande genügt), BGE 124 IV 102 (Ausschluss von Raub an Betäubungsmitteln), LU OG 21 03 136 (Idealkonkurrenz zu Geiselnahme) und AR KG ARGVP 2011 3575 (Grausamkeitsqualifikation); alle Sachverhalte und Kernaussagen detailreich ausgebaut und mit entscheidsuche.ch verlinkt."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 9 verifizierte Entscheide via entscheidsuche.ch; BGE 133 IV 207 (Handtaschenraub = Raub), BGE 124 IV 97 (untauglicher Versuch, Waffenmitführung), BGE 117 IV 135 (besondere Gefährlichkeit: restriktiv, Taschenmesser), BGE 120 IV 317 (Waffe auf Kopfhöhe), BGE 117 IV 427 (Lebensgefahr: Messer an Kehle + Erstickung), BGer 6B_737/2009 (Waffenmitführung zu Raubzwecken), BGer 6B_988/2013 (Gesamtwürdigung Gefährlichkeit, Schlafzimmerüberfall), BGer 6B_776/2016 (Bereicherungsabsicht), BGer 6B_756/2010 (Küchenmesser keine Waffe); Fehlzitat BGE 135 IV 12 entfernt (Urkundenfälschung); ZH SB190089 entfernt (nicht verifizierbar); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Bleed-Fehler; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

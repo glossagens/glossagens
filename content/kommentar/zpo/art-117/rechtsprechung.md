@@ -5,22 +5,18 @@ date: 2026-08-28
 lastmod: 2026-08-28
 description: "Übersicht der Entscheide zu Art. 117 ZPO — Mittellosigkeit, Nichtaussichtslosigkeit, Notgroschen, Mitwirkungsobliegenheit, Subsidiarität gegenüber dem Prozesskostenvorschuss."
 tags: ["Rechtsprechung", "ZPO", "Unentgeltliche Rechtspflege", "Mittellosigkeit", "Aussichtslosigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegverlinkung auf entscheidsuche.ch umgestellt (73 Links, BGE mit Erwägungsanker); alle Ziele und Anker aufgerufen und bestätigt"
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit über entscheidsuche.ch: 19 Pinpoints und 6 Verbatim-Zitate fehlerfrei; 1 Fehlzuordnung behoben — die Schematismus-Regel in N 10 lag bei BGE 124 I 1 E. 2a, nicht bei BGE 124 I 97"
   - date: 2026-08-28
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuerstellung; jede Kernaussage gegen den Volltext der genannten Erwägung bzw. gegen das amtliche Regeste geprüft"
 ---
 

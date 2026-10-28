@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Rechtsprechung zu Art. 296 ZPO: Untersuchungs- und Offizialgrundsatz, amtswegige Sachverhaltsermittlung im Kindesunterhalt, Mitwirkungspflicht bei Abstammungsabklaerung, Entscheidung ohne Bindung an Parteiantraege."
 tags: ["Rechtsprechung", "ZPO", "Untersuchungsmaxime", "Offizialmaxime", "Kindesunterhalt", "Abstammung", "Mitwirkungspflicht"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Ersterstellung; 6 BGEs und 3 BGer-Entscheide via entscheidsuche verifiziert und verlinkt."
 ---
 

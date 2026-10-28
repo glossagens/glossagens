@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 697 OR – Auskunftsrecht des Aktionärs an der Generalversammlung und ausserhalb der Generalversammlung, Schranken der Geschäftsgeheimnisse und gerichtliche Durchsetzung."
 tags: ["Rechtsprechung", "OR", "Aktienrecht", "Auskunftsrecht", "Aktionärsrechte", "Generalversammlung", "Verwaltungsrat"]
-agent_verified: false
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht zu Art. 697 OR mit 12 Leiturteilen des Bundesgerichts und kantonaler Handelsgerichte (unter Berücksichtigung des revidierten Aktienrechts in Kraft seit 01.01.2023)."
 ---
 

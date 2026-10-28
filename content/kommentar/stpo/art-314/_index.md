@@ -5,17 +5,14 @@ date: 2026-09-08
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 314 StPO: Sistierung der Untersuchung bei unbekannter Täterschaft oder unbekanntem Aufenthalt, präjudiziellen Vorfragen, Vergleichsverhandlungen und unklaren Tatfolgen — mit ausführlicher Grenzkasuistik zu den Ermittlungspflichten, der Vorrangordnung von Straf- und Zivilprozess, dem Akteneinsichtsrecht und den kantonalen Praxisfragen."
 tags: ["StPO", "Sistierung", "Untersuchung", "Vorverfahren", "Verfahrenshindernis", "Fahndung", "Beweissicherung", "Vorfrage", "Vergleich", "Beschleunigungsgebot", "Rechtsmittel"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-314.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO und Art. 336 OR. Gesetzestext verbatim gegen Fedlex (SR 312.0, Stand 1. April 2025) abgeglichen. Volltextauswertung von BGE 150 IV 409, BGer 1B_67/2011, 1B_163/2014, 1B_21/2015, 1B_365/2019, 1B_318/2020, 7B_320/2023, 7B_158/2024, 7B_87/2024, BStGer BB.2017.209, BB.2023.15 sowie kantonalen Leitentscheiden aus Bern (BK 23 316, BK 25 3), Basel-Stadt (BES.2023.134), Zürich (UH140013, UH140328), St. Gallen (AK.2017.212, AK.2011.109) und Wallis (P3 11 15). Sämtliche Entscheide über entscheidsuche.ch verifiziert und verlinkt."
 ---
 

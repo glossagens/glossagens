@@ -5,17 +5,14 @@ date: 2026-10-01
 lastmod: 2026-10-03
 description: "Rechtsprechungssammlung zu Art. 54 StGB — Leitentscheide des Bundesgerichts (BGE) und kantonale Praxis zu poena naturalis, Deliktsmehrheit, Vorsatzdelikten, Prozessumsetzung, Unschuldsvermutung und Kostenfolgen."
 tags: ["Rechtsprechung", "StGB", "Schwer betroffener Täter", "Poena naturalis", "Strafbefreiung", "Tatfolgen", "Unangemessenheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage mit BGE 137 IV 105, BGE 121 IV 162, BGer 6B_1159/2014."
   - date: 2026-10-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung auf 16 strukturierte Entscheide mit Volltext-Erwägungen und entscheidsuche.ch-Verlinkung: BGE 151 IV 249 (2025), BGE 137 IV 105, BGE 119 IV 280, BGE 121 IV 162, BGE 117 IV 245, BGE 148 V 195, BGE 129 V 354, BGer 6B_791/2023, BGer 6B_1159/2014, BGer 6B_1033/2017, BGer 6B_966/2018, BStGer BB.2017.160, OGer TG RBOG 2022 Nr. 48, KG GR SK2 2017 29, OGer SO ZZ.1993.17 und SG VRK IV-2015/151."
 ---
 

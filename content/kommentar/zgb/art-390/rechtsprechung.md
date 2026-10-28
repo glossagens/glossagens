@@ -5,12 +5,10 @@ date: "2026-05-22"
 lastmod: "2026-08-19"
 description: "Übersicht der massgeblichen Leit- und Kantonalentscheide zu Art. 390 ZGB (Voraussetzungen der Beistandschaft, Subsidiarität, Verhältnismässigkeit, Schwächezustände und Handlungsfähigkeitsbeschränkung)."
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Beistandschaft", "Subsidiarität", "Verhältnismässigkeit", "Handlungsfähigkeitsbeschränkung"]
-agent_verified: true
 revisions:
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau auf 16 voll verifizierte Leit- und Kantonalentscheide mit bereinigten Pinpoints und strukturierter Gliederung."
 ---
 

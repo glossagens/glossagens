@@ -5,37 +5,30 @@ date: 2026-06-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 305bis StGB: Geldwäscherei — Vereitelungshandlungen, Abgrenzung strafloser Handlungen vs. Konsum, Vortatnachweis, Kasuistik zum subjektiven Tatbestand (Eventualvorsatz vs. bewusste Fahrlässigkeit, BGer 6B_363/2026 zum Bargeldkurier und bewussten Nichtwissenwollen, Money Mules), schwere Fälle und Zivilklage."
 tags: ["StGB", "Geldwäscherei", "Vortat", "Vereitelungshandlung", "Selbstgeldwäscherei", "Money Mule", "Konsum", "Einziehung", "Gewerbsmässigkeit", "Rechtshilfe", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-305bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-14
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung der Kasuistik zum subjektiven Tatbestand: Aufnahme von BGer 6B_363/2026 vom 12. August 2026 (GBP 145'000.- Bargeldtransport für Uhrenkauf, Abgrenzung von Eventualvorsatz und bewusster Fahrlässigkeit bei eklatanten Verdachtsmomenten, Grundsatz des bewussten Nichtwissenwollens, versuchte Geldwäscherei bei Zollbeschlagnahme)."
   - date: 2026-09-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Praxisorientierter Vollausbau gemäss Benchmark Art. 110 StPO / Art. 336 OR: Prüfschema-Tabelle, systematische Tatbestandsanalyse, narrative Lebenssachverhalte (BGE 119 IV 242, 124 IV 274, 144 IV 172, 149 IV 248, 138 IV 1, 145 IV 335, 146 IV 211, 136 IV 188), zweiseitige Grenzkasuistik mit Kasuistiktabelle (angewandt vs. verworfen), BGer 7B_171/2022 (Vortatnachweis Betrug / Arglist bei Money Mules), BGer 7B_1092/2024 und AG OG SBK.2025.180 (Money Mules, Eventualvorsatz vs. bewusste Fahrlässigkeit, Verteidigung der ersten Stunde), kantonale Praxisfragen und Praxishinweise für die Parteien; alle Entscheide auf entscheidsuche.ch verifiziert; Gesetzeswortlaut verbatim nach Fedlex (Stand 12.06.2026)."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 8 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 119 IV 242 (Anlegen von Drogengeld), BGE 124 IV 274 (Selbstgeldwäscherei, Bareinzahlung), BGE 122 IV 211 (Geldwechsel, Gewerbsmässigkeit), BGE 129 IV 322 (Vermögensinteressen der Opfer), BGE 136 IV 188 (Unterlassung durch Finanzintermediär), BGE 144 IV 172 (Gebrauchsgüterinvestition), BGE 146 IV 211 (Zivilklage, Schadenersatz), BGE 149 IV 248 (Konsum deliktischer Gelder); kantonale Zitate auf entscheidsuche.ch verifiziert oder entfernt; Gesetzeswortlaut → Wortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Angleichung an den Fedlex-Wortlaut; 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,7 +5,6 @@ date: 2026-10-06
 lastmod: 2026-10-06
 description: "Übersicht der Rechtsprechung zu Art. 105 StPO: Leitentscheide des Bundesgerichts und kantonale Praxis zu anderen Verfahrensbeteiligten, unmittelbarer Betroffenheit, Akteneinsicht, Beschwerdelegitimation und Kautionsfreiheit."
 tags: ["Rechtsprechung", "StPO", "Andere Verfahrensbeteiligte", "Beschwerte Dritte", "Unmittelbare Betroffenheit"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

@@ -5,12 +5,10 @@ date: 2026-07-11
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 433 StPO – Entschädigungsanspruch der Privatklägerschaft: Leitentscheide zu Strafbefehlsverfahren, Zivilpunkt-Aufwendungen, Rechtsnatur und kantonaler Praxis."
 tags: ["Rechtsprechung", "StPO", "Privatklägerschaft", "Entschädigung", "Parteientschädigung", "Verfahrenskosten", "Zivilpunkt"]
-agent_verified: false
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 BGer/Kantone), alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 

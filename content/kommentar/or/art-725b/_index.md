@@ -5,22 +5,18 @@ date: 2026-09-11
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 725b OR: Begründete Besorgnis der Überschuldung, Zwischenabschlüsse zu Fortführungs- und Veräusserungswerten, Fortgeltung der Judikatur zu aArt. 725 Abs. 2 aOR, Prüfungspflicht bei Opting-out, Pflicht zur Richterbenachrichtigung, Ausnahmen durch Rangrücktritt (inkl. Zinsen nach BGE 150 III 315) und 90-Tage-Regel sowie Ersatzanzeige der Revisionsstelle."
 tags: ["OR", "Aktienrecht", "Überschuldung", "Rangrücktritt", "Zwischenabschluss", "Konkurs", "Sanierung", "90-Tage-Regel", "Revisionsstelle", "Konkursverschleppung", "aArt. 725 OR"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Umfassende praxisorientierte Überarbeitung und Ausbau: Vertiefte Aufbereitung der historischen Herleitung aus aArt. 725 Abs. 2 aOR sowie aArt. 725a aOR (Konkursaufschub); systematische Gegenüberstellungstabelle zur Fortgeltung, Modifikation und Verschärfung der Alt-Judikatur (BGE 150 III 315, BGE 151 III 440, BGE 116 II 533, BGE 127 III 374, BGE 129 III 129, BGE 136 III 322, BGer 4A_601/2020, ZH OG PS130198); Ausbau der Lebenssachverhalte zu vielschichtigen Fallerzählungen; Schwellenwert-Gegenüberstellungen ohne Code-Fences, kantonale Praxisfragen und rollenbasierte Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-725b.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung des Praxiskommentars zu Art. 725b OR (in Kraft seit 1. Jan. 2023) nach dem Standard von Art. 110 StPO und Art. 336 OR: Vollständiges Prüfschema, Gliederung entlang der Tatbestandsmerkmale, Kasuistik mit Leitentscheiden (BGE 150 III 315, BGE 151 III 440, BGE 136 III 322, BGE 129 III 129, BGE 116 II 533, BGE 127 III 374, BGE 132 III 564, BGer 5A_790/2017, BGer 4A_601/2020, OG SH 40/2017/30, ZH OG PS130198, ZH HG HE200295), Schwellenwert-Tabellen, Judikaturbrüche zum Rangrücktritt, kantonale Praxisfragen und rollenbasierte Praxishinweise."
 ---
 

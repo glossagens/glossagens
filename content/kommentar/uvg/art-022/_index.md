@@ -5,17 +5,14 @@ date: 2026-07-27
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 22 UVG: Revision der Invalidenrente bei Erreichen des Referenzalters, Abweichung von Art. 17 ATSG, Wiedererwägung."
 tags: ["UVG", "Rentenrevision", "Referenzalter", "Sozialversicherungsrecht", "Unfallversicherung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikationslauf gegen entscheidsuche.ch und Fedlex; erstmals ein revisions-Block — der Artikel trug agent_verified: true ohne jeden Revisionsvermerk. Gesetzeswortlaut gegen Fedlex (SR 832.20, Stand 1. Januar 2026) geprueft: wortgleich. BGE 149 V 91 und BGE 147 V 161 sind zutreffend zitiert. KORRIGIERT: Der Abschnitt zum Uebergangsrecht behauptete, das bisherige Recht habe «eine Revision auch nach dem Rentenalter zugelassen» — das Gegenteil trifft zu; die bis 31.12.2023 geltende Fassung schloss die Revision ab Bezug der AHV-Altersrente bzw. ab Erreichen des Rentenalters bereits aus (Fedlex, Konsolidierung 1.1.2023). Der Abschnitt ist durch eine Gegenueberstellung der beiden Fassungen ersetzt. ENTFERNT: BGE 131 V 84 als Beleg fuer das Uebergangsrecht — der Entscheid betrifft Art. 118 Abs. 5 UVG und Renten mit Invaliditaetsgraden unter 10 Prozent, nicht Art. 22 UVG. BGE 134 V 131 neu mit seiner tatsaechlichen Aussage (Versehen des Gesetzgebers beim Frauenrentenalter) wiedergegeben. ENTFERNT: die BGE 149 V 91 zugeschriebene Aussage zum massgebenden Zeitpunkt (Anmeldung vs. effektiver Bezug) — sie steht nicht im Entscheid. Querverweis auf den ATSG-Kommentar zu Art. 17 korrigiert (er zeigte mit «../atsg/art-017/» eine Ebene zu hoch und damit ins Leere); Tippfehler («bloser», «zulies») berichtigt."
 ---
 

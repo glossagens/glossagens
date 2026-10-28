@@ -5,12 +5,10 @@ date: 2026-09-28
 lastmod: 2026-09-28
 description: "Rechtsprechungsübersicht zu Art. 58 Abs. 1 lit. b DBG – Geschäftsmässig begründeter Aufwand, verdeckte Gewinnausschüttungen, Normentheorie und Beweislast, fingierte Rechnungen, Aufrechnungen."
 tags: ["Rechtsprechung", "DBG", "geschäftsmässig begründeter Aufwand", "verdeckte Gewinnausschüttung", "Normentheorie", "Beweislast", "Aufrechnung"]
-agent_verified: false
 revisions:
   - date: 2026-09-28
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung — Entscheide via entscheidsuche fetch_document und search_by_case_number verifiziert. Auslösender Entscheid 9C_604/2025."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-06-27
 lastmod: 2026-10-19
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und der kantonalen Gerichtspraxis zur vertraglichen Hilfspersonenhaftung nach Art. 101 OR."
 tags: ["Rechtsprechung", "OR", "Hilfspersonen", "Erfüllungsgehilfe", "Ausübungsgehilfe", "Substitution", "Freizeichnung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide des Bundesgerichts

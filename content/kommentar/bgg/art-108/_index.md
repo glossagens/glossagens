@@ -5,22 +5,18 @@ date: 2026-08-02
 lastmod: 2026-10-24
 description: "Kommentar zu Art. 108 BGG (SR 173.110): Vereinfachtes Verfahren des Abteilungspräsidenten/der Abteilungspräsidentin — Nichteintreten auf offensichtlich unzulässige, offensichtlich ungenügend begründete oder querulatorische Beschwerden, Verfahrensgarantien (EGMR B.K. gegen Schweiz)."
 tags: ["BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch", "Begründungspflicht", "Waffengleichheit", "Replikrecht", "EMRK"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von EGMR B.K. gegen Schweiz (24268/21 und 55351/21 vom 22.10.2026): Geltung der Waffengleichheit und des Replikrechts (Art. 6 Abs. 1 EMRK) auch im vereinfachten Verfahren nach Art. 108 BGG bei von Amtes wegen eingeholten Auskünften."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-108.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-02
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via Fedlex MCP (Art. 108 BGG), Fokus-Entscheide 8C_202/2026 und 8C_419/2026 via OCL case-brief verifiziert."
 ---
 

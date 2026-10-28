@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 54 BöB (Aufschiebende Wirkung): Gesetzlicher Ausschluss, Kriterien der Erteilung (prima-facie-Prognose, Interessenabwägung), Stillhaltefrist, superprovisorische Zwischenverfügungen und Zivilhaftung nach Abs. 3."
 tags: ["BöB", "Aufschiebende Wirkung", "Suspensiveffekt", "Superprovisorium", "Stillhaltefrist", "Interessenabwägung", "Prima-facie", "Vertragsschlussverbot", "Vergaberecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Kommentar gemäss Praxis-Skill mit Prüfschema, Grenzkasuistik (BVGer B-4702/2026, B-4199/2021, B-3580/2021, B-4355/2024, B-7106/2023, BGE 146 II 276, BGE 134 II 192, BGer 2C_327/2022), Gesetzesentstehungsgeschichte (BBl 2017 1851 S. 1981 ff.), kantonalen Praxisfragen (ZH VG VB.2026.00202, AG OG WBE.2016.539a, SG VG B 2024/203) und Praxishinweisen."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Rechtsprechung zu Art. 141 ZPO: Leitentscheide des Bundesgerichts und kantonale Urteile zur Ediktalzustellung, den Nachforschungspflichten und der Nichtigkeit."
 tags: ["Rechtsprechung", "ZPO", "Ediktalzustellung", "Zustellung", "Nichtigkeit", "Rechtliches Gehör"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

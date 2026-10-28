@@ -5,7 +5,6 @@ date: 2026-05-23
 lastmod: 2026-10-24
 description: "Wichtige Entscheide zu Art. 1 ZGB – Auslegungsmethodik, pragmatischer Methodenpluralismus, Lückenarten und richterliche Rechtsfindung."
 tags: ["Rechtsprechung", "ZGB", "Auslegung", "Lückenfüllung", "Methodenpluralismus", "Richterrecht"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

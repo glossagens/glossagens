@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 260 StPO – Erkennungsdienstliche Erfassung: Feststellung von Körpermerkmalen, Signalement, Fingerabdrücke, schriftlicher Befehl und Weigerung."
 tags: ["Rechtsprechung", "StPO", "Erkennungsdienst", "Signalement", "Fingerabdrücke", "AFIS", "Polizeibefehl", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 260 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

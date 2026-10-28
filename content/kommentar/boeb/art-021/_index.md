@@ -5,22 +5,18 @@ date: 2026-10-11
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 21 BöB (Freihändiges Verfahren): Ausnahmetatbestände, Beweislast nach BGE 150 II 105, Software-Wartung vs. Neubedarf (FR KG 602 2026 16), Lock-in sowie Praxishinweise."
 tags: ["BöB", "Freihändiges Verfahren", "Direktvergabe", "Alleinstellung", "Dringlichkeit", "Folgebeschaffung", "Lock-in", "Vergaberecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Erweiterung von Abs. 2 lit. e (Folgeaufträge) um die fundamentale Abgrenzung aus FR KG 602 2026 16 (14.9.2026): Zulässigkeit reiner Software-Wartungsverlängerungen ohne Neubedarf bei langjährigem Lock-in in expliziter Abgrenzung zum strengen BGE 150 II 105; Ergänzung der Kasuistik, kantonalen Praxisfragen und Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.056.1 vom 2026-01-01 (data/wortlaut/boeb/art-021.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Kommentar mit Prüfschema, Grenzkasuistik (BGE 150 II 105, BGE 137 II 313, BVGer B-3580/2021, AG OG WBE.2026.26, ZH VG VB.2025.00206), kantonalen Praxisfragen und Praxishinweisen"
 ---
 

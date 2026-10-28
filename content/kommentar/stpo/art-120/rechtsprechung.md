@@ -5,12 +5,10 @@ date: 2026-07-12
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 120 StPO – Verzicht und Rückzug der Privatklägerschaft: Leitentscheide zu Strafantragsabgrenzung, Formularmängeln, Endgültigkeit und Kostenfolgen."
 tags: ["Rechtsprechung", "StPO", "Verzicht", "Privatklägerschaft", "Strafantrag", "Verfahrenskosten"]
-agent_verified: false
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 BGer-Entscheide), alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 

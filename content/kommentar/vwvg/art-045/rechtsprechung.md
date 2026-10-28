@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 45 VwVG – Zuständigkeits- und Ausstandsverfügungen"
 tags: ["Rechtsprechung", "VwVG", "Zwischenverfügung", "Zuständigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil A 88%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Fabrizierte Gliederung 'Art. 45 Abs. 2 lit. g VwVG' entfernt. BGE 124 V 82 Kernaussage korrigiert (tatsächlich zu aufschiebender Wirkung/bundesrechtlicher Grundlage kantonaler Zwischenentscheide, nicht zur Abgrenzung Zwischenverfügung/Endentscheid)."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-08-19
 lastmod: 2026-08-19
 description: "Übersicht der Rechtsprechung zu Art. 301a ZGB: Grundsatzurteile des Bundesgerichts zu Ausland- und Inlandumzügen, aufschiebender Wirkung, Sanktionslosigkeit und kantonale Praxis."
 tags: ["Rechtsprechung", "ZGB", "Aufenthaltsbestimmungsrecht", "Elterliche Sorge", "Auslandumzug", "Inlandumzug"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit verifizierten Leitentscheiden, Bundesgerichtsurteilen und kantonalen Entscheiden."
 ---
 

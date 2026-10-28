@@ -5,7 +5,6 @@ date: 2026-06-05
 lastmod: 2026-06-05
 description: "Übersicht der Entscheide zu Art. 14 AsylG – Ausschliesslichkeit des Asylverfahrens"
 tags: ["Rechtsprechung", "AsylG", "Ausschliesslichkeit", "Härtefall"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

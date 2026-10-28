@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 85 StPO – Form der Zustellung, Ersatzzustellung, Zustellfiktion und Annahmeverweigerung."
 tags: ["Rechtsprechung", "StPO", "Zustellung", "Zustellfiktion", "Einschreiben", "Rechtliches Gehör"]
-agent_verified: false
 revisions:
   - date: "2026-08-29"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht zu Art. 85 StPO mit 6 BGE-Leitentscheiden und 7 weiteren BGer- und kantonalen Entscheiden"
 ---
 

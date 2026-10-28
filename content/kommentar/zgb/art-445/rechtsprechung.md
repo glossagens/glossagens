@@ -5,7 +5,6 @@ date: 2026-05-23
 lastmod: 2026-05-23
 description: "Übersicht der Entscheide zu Art. 445 ZGB — Vorsorgliche Massnahmen im Erwachsenenschutz"
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "vorsorgliche Massnahmen"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

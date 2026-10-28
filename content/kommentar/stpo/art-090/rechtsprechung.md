@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 90 StPO – Beginn und Berechnung der Fristen"
 tags: ["Rechtsprechung", "StPO", "Fristen", "Zustellung"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

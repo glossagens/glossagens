@@ -5,17 +5,14 @@ date: 2026-05-17
 lastmod: 2026-10-21
 description: "Übersicht der massgebenden Entscheide zu Art. 340 ff. OR — Schriftform und Bestimmtheit, persönliche Fähigkeiten, Karenzentschädigung, Schadensnachweis bei Treuhändern nach GE ACJC/1664/2026 sowie vorsorgliche Massnahmen."
 tags: ["Rechtsprechung", "OR", "Konkurrenzverbot", "Arbeitsrecht", "Karenzentschädigung", "Treuhänder", "persönliche Fähigkeiten"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau der Rechtsprechungsübersicht im Praxiskommentar-Format: 13 strukturierte Entscheide mit Lebenssachverhalten und Kernaussagen. Neu aufgenommen u.a. GE CJ ACJC/1664/2026 (Schadensthematik und persönliche Fähigkeiten bei Treuhändern), BGer 4A_340/2011 (Steuerberater), BGer 4A_116/2018 (Vermögensverwalter), BGer 4A_205/2021 (Corporate Finance) und BGer 4A_468/2016 (B2B-Vertrieb); alle Links auf entscheidsuche.ch aktualisiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau der Rechtsprechungsübersicht nach Audit: Alle 10 Leitsätze gegen OpenCaseLaw-MCP verifiziert."
 ---
 

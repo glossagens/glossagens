@@ -5,7 +5,6 @@ date: 2026-08-22
 lastmod: 2026-08-22
 description: "Empirische Auswertung der publizierten Praxis zur Strafzumessung nach Art. 166 StGB — 70 im Volltext ausgewertete Entscheide, 12 belegte Strafwerte, gespiegelt am Dispositiv."
 tags: ["Strafzumessung", "StGB", "Unterlassung der Buchführung", "Praxisauswertung"]
-agent_verified: true
 auswertungsstand: 2026-08-22
 entscheide_ausgewertet: 70
 strafwerte_belegt: 12
@@ -13,7 +12,6 @@ revisions:
   - date: 2026-08-22
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Übernahme des Praxiskommentars von strafzumessung.ch: 70 im Volltext ausgewertete Entscheide, 12 belegte Strafwerte, gespiegelt am Dispositiv."
 ---
 

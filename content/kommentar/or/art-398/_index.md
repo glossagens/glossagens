@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 398 OR — Sorgfaltspflicht des Beauftragten, persönliche Besorgung, Substitution, Haftung für Hilfspersonen"
 tags: ["OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung", "Hilfspersonen", "Entschädigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 4A_93/2026 vom 17.08.2026 (Sorgfaltsmassstab und Treuhandhaftung bei MWST-Falschberatung; Pflicht zur konkreten Abklärung der Bewilligungssituation statt blosser theoretischer Rechtsbelehrung; Schadensbegriff und Kausalitätsnachweis bei Steuernachforderungen)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-398.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 83 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt"
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-05-15
 lastmod: 2026-08-19
 description: "Übersicht der Rechtsprechung zu Art. 314 ZGB – Verfahren im Kindesschutz, Untersuchungsmaxime, Anhörungspflicht und vorsorgliche Massnahmen."
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Verfahrensrecht"]
-agent_verified: true
 ---
 
 # Rechtsprechung zu Art. 314 ZGB

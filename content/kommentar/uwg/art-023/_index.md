@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 23 UWG (Strafbestimmung): Akzessorietät zu Art. 3–6 UWG und fehlende Strafbarkeit der Generalklausel, Vorsatz und Eventualvorsatz, Zurechnung an Geschäftsherren und Organe, Strafantrag (Berechtigung, Frist, Inhalt, Bund/SECO), Territorialität, Konkurrenzen sowie Sanktionen — mit Sachverhalten aus der Praxis des Bundesgerichts."
 tags: ["UWG", "Lauterkeitsrecht", "Strafrecht", "Strafantrag", "Eventualvorsatz", "SECO", "Geschäftsherrenhaftung", "Art. 26 UWG", "Antragsdelikt", "Art. 3 UWG"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstkommentar als Praxiskommentar. Gesetzeswortlaut per Shortcode aus Fedlex (SR 241, Stand 2025-01-01; data/wortlaut/uwg/art-023.json). Sämtliche zitierten Entscheide über entscheidsuche.ch im Volltext gelesen und auf die Aussage geprüft, für die sie angeführt sind; Links aus den Feldern content_url der Treffer, Anker nur bei BGE mit vorhandener Erwägungsnummer. Bei den vor 2011 ergangenen BGE (BStP, aStGB) ist der verfahrensrechtliche Teil überholt und nur für die materiellen Aussagen verwendet. Kein Audit-Lauf (Judge-Ledger) und keine Prüfung der Literatur; daher mcp_verified: false."
 ---
 

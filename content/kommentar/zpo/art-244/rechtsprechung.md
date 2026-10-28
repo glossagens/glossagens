@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zum vereinfachten Verfahren — Anwendungsbereich, Verhältnis zur sachlichen Zuständigkeit, Hauptverhandlung."
 tags: ["Rechtsprechung", "ZPO", "vereinfachtes Verfahren", "Klageeinreichung"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 32 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; zu Art. 244 ZPO selbst liess sich keine einschlägige bundesgerichtliche Rechtsprechung finden — das ist im Audit-Protokoll ausgewiesen"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 32 % (Urteil C); 4 von 31 Paaren gestützt; 15 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

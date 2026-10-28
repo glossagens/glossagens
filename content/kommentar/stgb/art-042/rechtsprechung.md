@@ -5,17 +5,14 @@ date: 2026-08-30
 lastmod: "2026-09-10"
 description: "Übersicht der Rechtsprechung zu Art. 42 StGB: Leitentscheide des Bundesgerichts und kantonale Entscheide zu Regelaufschub, Legalprognose, Vorstrafen und Verbindungsbusse."
 tags: ["Rechtsprechung", "StGB", "Bedingter Strafvollzug", "Legalprognose", "Verbindungsbusse", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Erweiterung auf 18 verifizierte Leit- und kantonale Entscheide mit Sachverhaltsabstracts, Kernaussagen und Praxishinweisen via entscheidsuche.ch."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 7 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 134 IV 1 (Stufensystem), BGE 128 IV 193 (Prognose, Alkoholabstinenz), BGE 134 IV 82 (Sanktionszweck), BGE 144 IV 277 (Vorstrafenbelastung), BGE 145 IV 137 (Fünfjahresfrist), BGE 146 IV 145 (Verbindungsbusse, Strafbefehl), BGE 149 IV 321 (Verbindungsbusse, 20%-Obergrenze)"
 ---
 

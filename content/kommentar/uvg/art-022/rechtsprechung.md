@@ -5,12 +5,10 @@ date: 2026-07-27
 lastmod: 2026-09-04
 description: "Übersicht der Entscheide zu Art. 22 UVG — Revision der Rente, Ausnahme vom Revisionsgrundsatz bei Referenzalter"
 tags: ["Rechtsprechung", "UVG", "Rentenrevision", "Referenzalter"]
-agent_verified: false
 revisions:
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikation gegen entscheidsuche.ch; erstmals ein revisions-Block. BGE 149 V 91, 134 V 131, 147 V 161, 119 V 475, 139 V 585, 140 V 65 und 144 V 418 existieren und betreffen Art. 22 UVG bzw. die Rentenrevision. KORRIGIERT: Die Kernaussage zu BGE 134 V 131 war ins Gegenteil verkehrt — sie schloss mit «Ein richterliches Eingreifen ist unter diesen Umstaenden nicht angezeigt», waehrend die Regeste festhaelt, ein solches sei «moeglich und geboten» (E. 7); zugleich Pinpoint von E. 3 auf E. 7 berichtigt."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-08-07
 lastmod: 2026-10-24
 description: "Kommentar zu Art. 6 DSG: die materiellen Bearbeitungsgrundsätze (Rechtmässigkeit, Treu und Glauben, Verhältnismässigkeit, Zweckbindung, Aufbewahrungsdauer, Richtigkeit, Einwilligung) für private Verantwortliche und Bundesorgane."
 tags: ["DSG", "Datenschutz", "Bearbeitungsgrundsätze", "Verhältnismässigkeit", "Zweckbindung", "Einwilligung", "Profiling", "Biometrie", "Stimmerkennung"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BVGer A-4467/2025 vom 13.10.2026 (Stimmerkennung PostFinance): Biometrische Stimmabdrücke als besonders schützenswerte Daten (Art. 5 lit. c Ziff. 4 DSG), zwingendes Erfordernis einer aktiven/ausdrücklichen Einwilligung nach Art. 6 Abs. 7 lit. a DSG (Opt-out unzulässig) und Grenzen der Rechtfertigung nach Art. 31 DSG. Gesetzeswortlaut auf Shortcode wortlaut umgestellt."
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BVGer A-3891/2025 vom 22. Juni 2026; alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief/get_erwaegung) verifiziert."
 ---
 

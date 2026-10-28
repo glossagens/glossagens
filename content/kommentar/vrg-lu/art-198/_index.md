@@ -5,12 +5,10 @@ date: 2026-05-24
 lastmod: 2026-10-15
 description: "Kommentar zu § 198 VRG LU – Grundsätze der Kostenverlegung: Unterliegensprinzip, Einsprachekosten, Rechtsmittelkosten"
 tags: ["VRG", "Kosten", "Kostenverlegung", "Luzern"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-198.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

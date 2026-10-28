@@ -5,22 +5,18 @@ date: "2026-05-09"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 5 StPO: Allgemeines und verschärftes Beschleunigungsgebot in Haftsachen, Phasen behördlicher Inaktivität, Grenzziehung bei Urteilsbegründungsfristen, Überhaftabgrenzung, Rügeobliegenheiten sowie Rechtsfolgenkaskade von der Strafreduktion bis zur Haftentlassung."
 tags: ["Beschleunigungsgebot", "Haftverfahren", "Verfahrensdauer", "Recht auf zeitgerechtes Verfahren", "Untersuchungshaft", "Strafminderung", "Haftentlassung", "Rechtsverzögerung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO: Detaillierte Kasuistik (BGer 7B_985/2025, 1B_299/2015, 6B_893/2025, 7B_279/2022, 6B_176/2017, 6B_1345/2021), Prüfschema, Gegenüberstellungstabellen und Praxishinweise."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

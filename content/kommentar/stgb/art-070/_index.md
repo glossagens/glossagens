@@ -5,27 +5,22 @@ date: 2026-08-08
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 70 StGB: Einziehung deliktischer Vermögenswerte (Abs. 1), Brutto- und Nettoprinzip, Schutz und Beschlagnahme bei Dritten (Abs. 2), Verjährung (Abs. 3), Bekanntmachung (Abs. 4), Schätzung (Abs. 5) sowie umfassende Kasuistik."
 tags: ["StGB", "Einziehung", "Vermögensabschöpfung", "Bruttoprinzip", "Nettoprinzip", "Drittschutz", "Schätzung", "Kasuistik", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-070.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erheblicher und praxisorientierter Ausbau: Detaillierte Kasuistik konkreter Gerichtsentscheide (Meggen-Abbruch, Poker-Buy-Ins, Bestechungsgewinne, Erbverzichtsvergleich bei Mord), Einbindung der Rechtsprechung zu Drittbeschlagnahmen bei blossen wirtschaftlichen Verbindungen (BGer 7B_1425/2025), kantonale Praxisfragen und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung fehlerhafter Weblaw/Unibe-Links und Markdown-Ziffern im Wortlaut; 10 verifizierte BGEs via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

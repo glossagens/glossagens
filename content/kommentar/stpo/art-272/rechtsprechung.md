@@ -5,12 +5,10 @@ date: 2026-10-06
 lastmod: 2026-10-06
 description: "Übersicht der Leitentscheide und weiteren Gerichtsentscheide zu Art. 272 StPO: Genehmigungspflicht, Rahmenbewilligung, Berufsgeheimnisschutz und Verwertungsverbote."
 tags: ["Rechtsprechung", "StPO", "Zwangsmassnahmen", "Überwachung", "Genehmigungspflicht", "Rahmenbewilligung"]
-agent_verified: true
 revisions:
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht zu Art. 272 StPO. Leitentscheide und weitere Entscheide (BGE, BGer, BStGer, kantonale Gerichte) erfasst und verbatim via entscheidsuche.ch verlinkt."
 ---
 

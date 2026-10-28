@@ -5,12 +5,10 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 21 VwVG: Wahrung von Verfahrensfristen bei schriftlichen Eingaben, Postaufgabe, Kastenleerung, Beweislast, ausländische Poststellen, unzuständige Behörden und Kostenvorschusszahlung."
 tags: ["VwVG", "Fristwahrung", "Postaufgabe", "Kostenvorschuss", "Unzuständige Behörde", "Expeditionsprinzip", "Beweislast"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Praxisorientierter Neukommentar zu Art. 21 VwVG mit systematischer Grenzkasuistik, Prüfschema, Beweislastregeln und ausgewerteter Rechtsprechung von Bundesgericht und kantonalen Gerichten."
 ---
 

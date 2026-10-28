@@ -5,12 +5,10 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Übersicht der Rechtsprechung zu Art. 66 KVG: Bundesbeitrag an die Prämienverbilligungen der Kantone, Verteilung nach Wohnbevölkerung, Abzug des Prämienausgleichs und Abgrenzung zu kantonalen Eigenmitteln."
 tags: ["Rechtsprechung", "KVG", "Bundesbeitrag", "Prämienverbilligung", "Finanzausgleich"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neubereinigung: Löschung aller Phantomentscheide des Altbestands (BGE 133 V 340, 136 V 335, 9C_800/2020 entfernt); Aufnahme von 10 verifizierten Bundesgerichts-, Bundesverwaltungsgerichts- und kantonalen Entscheiden (insb. BGer 9C_250/2025, BGE 145 I 26, BGE 124 V 19)."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 84 StPO – Eröffnung der Entscheide, Urteilsdispositiv und Begründungsfristen."
 tags: ["Rechtsprechung", "StPO", "Eröffnung", "Urteilsdispositiv", "Begründungsfristen", "Justizöffentlichkeit"]
-agent_verified: false
 revisions:
   - date: "2026-08-29"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht zu Art. 84 StPO mit 5 Leitentscheiden und 8 weiteren BGer- und kantonalen Entscheiden"
 ---
 

@@ -5,12 +5,10 @@ date: "2026-08-16"
 lastmod: "2026-08-16"
 description: "Übersicht der Rechtsprechung zu Art. 111 ZPO — Liquidation der Prozesskosten, Rückerstattung des Kostenvorschusses an die obsiegende Partei, Verhältnis zu Art. 68 SchKG und unentgeltliche Rechtspflege."
 tags: ["Rechtsprechung", "ZPO", "Prozesskosten", "Kostenvorschuss", "Liquidation", "SchKG"]
-agent_verified: true
 revisions:
   - date: "2026-08-16"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht mit Leitentscheiden und kantonaler Praxis zur ZPO-Revision (insb. BGE 152 III 154)"
 ---
 

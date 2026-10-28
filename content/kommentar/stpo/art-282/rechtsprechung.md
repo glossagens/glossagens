@@ -5,12 +5,10 @@ date: 2026-10-02
 lastmod: 2026-10-02
 description: "Übersicht der Rechtsprechung zu Art. 282 StPO – Voraussetzungen der verdeckten Observation und Funktion als gesetzliches Beweisdispositiv."
 tags: ["Rechtsprechung", "StPO", "Observation", "Beweisverwertungsverbot", "private Beweismittel"]
-agent_verified: false
 revisions:
   - date: 2026-10-02
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstkommentierung. 13 Entscheide via entscheidsuche.ch verifiziert. Auslosender Entscheid: 6B_133/2025."
 ---
 

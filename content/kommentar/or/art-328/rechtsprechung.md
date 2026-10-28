@@ -5,17 +5,14 @@ date: 2026-06-13
 lastmod: 2026-09-04
 description: "Übersicht der Leitentscheide und kantonalen Praxis zu Art. 328 OR — Fürsorgepflicht, Persönlichkeitsschutz, Mobbing, sexuelle Belästigung, Gesundheitsschutz, Burnout und Überwachung."
 tags: ["Rechtsprechung", "OR", "Persönlichkeitsschutz", "Fürsorgepflicht", "Arbeitsrecht", "Mobbing", "sexuelle Belästigung", "Gesundheitsschutz"]
-agent_verified: true
 revisions:
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht im Praxiskommentar-Format gemäss Benchmark Art. 110 StPO und Art. 336 OR: 14 strukturierte Entscheide im Volltext geprüft und verbatim auf entscheidsuche.ch verlinkt (7 Leitentscheide des Bundesgerichts und 7 weitere BGer- sowie kantonale Gerichtsentscheide mit Sachverhalt, Kernaussage und Praxisbezug)."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegstellen geprüft und verifiziert."
 ---
 

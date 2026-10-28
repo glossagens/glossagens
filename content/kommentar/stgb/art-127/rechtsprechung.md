@@ -5,17 +5,14 @@ date: 2026-07-31
 lastmod: "2026-09-05"
 description: "Übersicht der Entscheide zu Art. 127 StGB — Aussetzung eines Hilflosen, Obhutsgarantenstellung, eventualvorsätzliche Aussetzung, Abgrenzung zu Nothilfepflicht und fahrlässiger Tötung."
 tags: ["Rechtsprechung", "StGB", "Aussetzung", "Hilfloser", "Obhut", "Unterlassung", "Garantenstellung"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; BGer 6B_40/2008, BGer 6B_1055/2020, BGer 6B_1109/2020, BGer 6P_85/2004, SZ Kantonsgericht STK 2023 63, BE Obergericht BK 2020 186 verifiziert; BGE 73 IV 164 entfernt (nicht auf entscheidsuche.ch)"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Entscheide via OCL (case-brief/regeste) verifiziert."
 ---
 

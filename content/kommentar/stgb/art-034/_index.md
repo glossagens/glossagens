@@ -5,22 +5,18 @@ date: 2026-08-19
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 34 StGB: Geldstrafe im zweistufigen Tagessatzsystem — Bemessung der Tagessatzzahl nach Verschulden und der Tagessatzhöhe nach wirtschaftlicher Leistungsfähigkeit."
 tags: ["StGB", "Geldstrafe", "Tagessatz", "Strafzumessung", "Nettoeinkommensprinzip", "Sanktionenrecht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung und Link-Korrektur: BGE 134 IV 60 (Leitentscheid Tagessatzsystem, Opfergleichheit, Existenzminimum), BGE 134 IV 97 (Vorrang der Geldstrafe, Sozialhilfebezug), BGE 135 IV 180 (Ausnahmesenkung auf CHF 10, Mittellosigkeit, Massnahmenkosten), BGer 6B_313/2013 (Nettoeinkommen, Abzugsposten), BGer 6B_610/2009 (Verbot symbolischer Tagessätze), BGer 6B_464/2020 (massgeblicher Beurteilungszeitpunkt), BE SK 2009 176, BE SK 2007 445, BE SK 2018 50, LU Obergericht 21 09 123; alle Links durch entscheidsuche.ch ersetzt (TG RBOG 2008 Nr. 25 als Rückfall opencaselaw); Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Beseitigung von Pinpoint-Bleed-Fehlern; 10 verifizierte Bundesgerichts- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Ersterstellung"
 ---
 

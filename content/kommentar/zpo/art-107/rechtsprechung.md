@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-09-09
 description: "Systematische Übersicht der Leitentscheide und Bundesgerichtsurteile zu Art. 107 ZPO: Kostenverteilung nach Ermessen, vorsorgliche Beweisführung, Familienrecht, Gegenstandslosigkeit, Notwegrecht und Kostenauflage an den Kanton."
 tags: ["Rechtsprechung", "ZPO", "Prozesskosten", "Ermessensverteilung", "Kostenverteilung"]
-agent_verified: true
 revisions:
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht auf 15 strukturierte, geprüfte Entscheide (8 Leitentscheide, 7 weitere Entscheide). Sämtliche Entscheide im Volltext via entscheidsuche.ch gesichtet und mit verifizierten Erwägungen und Kernaussagen dokumentiert: BGE 140 III 30, BGE 139 III 358, BGE 141 III 426, BGE 143 III 46, BGE 138 III 471, BGE 143 III 261, BGE 142 III 110, BGE 148 III 182, BGE 139 III 33 sowie BGer 4A_576/2025, 4A_430/2019, 4A_207/2015, 4A_24/2019, 4A_222/2022, 5D_55/2015. Verlinkung stabil auf entscheidsuche.ch (mit Erwägungsankern bei BGE-Entscheiden)."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 33 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 33 % (Urteil C); 3 von 27 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

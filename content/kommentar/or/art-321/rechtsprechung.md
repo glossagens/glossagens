@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 321 OR – Pflichten des Arbeitnehmers: persönliche Arbeitsleistung, Arbeit auf Abruf, Nebenpflichten"
 tags: ["Rechtsprechung", "OR", "Arbeitnehmerpflichten", "Arbeitsrecht"]
-agent_verified: false
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 12 % (Urteil C); 0 gestützt (+2 teilw.) von 8 beurteilten Paaren (10 Paare gesamt); Wortlaut: korrekt; 2 nicht existente Referenzen, 6 fehlerhafte Pinpoints."
 ---
 

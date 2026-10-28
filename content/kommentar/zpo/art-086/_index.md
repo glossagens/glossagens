@@ -5,17 +5,14 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Ausführlicher Kommentar zu Art. 86 ZPO (Teilklage): Echte vs. unechte Teilklage, Bestimmtheitsgebot, Rechtskraftwirkung (BGE 147 III 345), negative Feststellungswiderklage (Art. 224 Abs. 1bis ZPO nF), Verjährungsunterbrechung und detaillierte Kasuistik aus der Gerichtspraxis."
 tags: ["ZPO", "Zivilprozessrecht", "Teilklage", "Rechtskraft", "Streitgegenstand", "Widerklage", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-086.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung des Kommentars zu Art. 86 ZPO mit detaillierter Kasuistik (BGE 147 III 345, BGE 144 III 452, BGE 143 III 254, BGE 143 III 506, BGE 145 III 299, BGE 147 III 172), Verjährungswirkungen, kantonalen Praxisfragen und ZPO-Revisionsstand per 1. Januar 2025 (Art. 224 Abs. 1bis lit. b ZPO nF); Verlinkungen auf entscheidsuche.ch umgestellt."
 ---
 

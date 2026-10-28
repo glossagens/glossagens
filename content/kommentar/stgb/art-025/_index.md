@@ -5,22 +5,18 @@ date: 2026-06-28
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 25 StGB: Gehilfenschaft als akzessorische Teilnahme — Tatbeitrag, Abgrenzung zur Mittäterschaft (Tatherrschaft), Beihilfe durch Unterlassen und zwingende Strafmilderung."
 tags: ["StGB", "Gehilfenschaft", "Teilnahme", "Beihilfe", "Tatherrschaft", "Mittäterschaft", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung: BGE 120 IV 265 (uneingeweihter Fahrer bei Tötungsdelikt), BGE 118 IV 309 (Beamtliche Anzeigepflicht begründet keine Garantenstellung), BGE 121 IV 109 (PTT-Telekiosk: vorsätzliche Gehilfenschaft), BGE 133 IV 187 (Drogenverkauf als täterschaftliche Handlung), BGer 6B_1437/2020 (Tatherrschaftskriterien); alle Links durch entscheidsuche.ch ersetzt; Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen sowie Entfernung störender Textbestandteile im Wortlaut-Block; 10 verifizierte BGE- und Bundesgerichtsurteile via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

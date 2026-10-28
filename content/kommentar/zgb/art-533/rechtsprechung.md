@@ -5,7 +5,6 @@ date: 2026-05-17
 lastmod: 2026-05-17
 description: "Uebersicht der Rechtsprechung zu Art. 533 ZGB: Verwirkungsfristen der Herabsetzungsklage, getrennter Fristenlauf bei mehreren Bedachten, Herabsetzungseinrede."
 tags: ["Rechtsprechung", "ZGB", "Herabsetzung", "Verwirkung", "Erbrecht"]
-agent_verified: false
 ---
 
 ## 1. Verwirkungsfristen -- Rechtsnatur und Grundsatze

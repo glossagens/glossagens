@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 28 OR: Absichtliche Täuschung bei Vertragsabschluss — Tatbestandsmerkmale (Vorspiegelung und Verschweigen von Tatsachen, Irrtumserregung, Täuschungsabsicht, Motivkausalität), Täuschung durch Dritte (Abs. 2), Abgrenzung zur Sachgewährleistung, Verwirkungsfristen und Einredensicherung nach Art. 60 Abs. 3 OR, unter Ausschluss von Opfermitverantwortung."
 tags: ["OR", "Vertragsrecht", "Willensmangel", "absichtliche Täuschung", "Aufklärungspflicht", "Täuschung durch Dritte", "Kausalität", "Arglist", "Sachgewährleistung", "Verwirkung", "culpa in contrahendo"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage als Praxiskommentar nach dem Standard von Art. 110 StPO und Art. 336 OR: Gesetzeswortlaut über scripts/wortlaut.py (data/wortlaut/or/art-028.json); vollständiges Prüfschema der Tatbestandsmerkmale; narrative Kasuistik ausgewertet zu BGE 136 III 528, 132 II 161, 116 II 431, 127 III 83, 106 II 346, 108 II 419, 117 II 218, 123 III 165 sowie BGer 4A_649/2020, 4A_42/2021, 4A_141/2017, 4A_533/2013 und kantonalen Entscheiden (ZG OG Z1 2021 14, ZH HG HG100150, SG KG BZ.2007.55, ZH BezG MK121005-L/U). Volltexte über entscheidsuche.ch geholt und verlinkt."
 ---
 

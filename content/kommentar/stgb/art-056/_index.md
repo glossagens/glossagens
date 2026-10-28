@@ -5,22 +5,18 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 56 StGB: Allgemeine Voraussetzungen für therapeutische Massnahmen und Verwahrungen, Subsidiarität der Strafe, Konnexitätserfordernis, Verhältnismässigkeitsprüfung und Rechtsgüterabwägung im Zeitverlauf, forensisch-psychiatrische Gutachtenstandards (Facharztqualifikation, Aktengutachten, Delegationsverbot), Unabhängigkeit und Ausschluss von Behandlern, Einrichtungen und Aufhebung — mit ausführlicher Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Sanktionenrecht", "Massnahmenrecht", "Gutachten", "Verhältnismässigkeit", "Verwahrung", "Therapeutische Massnahmen", "Allgemeiner Teil", "Kasuistik", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-056.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar: Merkmalskatalog und Prüfschema-Tabelle, narrative Sachverhaltsschilderungen (BGE 146 IV 1, BGE 140 IV 49, BGE 144 IV 176 / 6B_835/2017, BGE 140 IV 1, BGE 142 IV 105, BGE 147 IV 259, BGE 142 IV 1, 6B_171/2012, 6B_1221/2021 etc.), zweiseitige Grenzkasuistiken (angewandt vs. verworfen), Offenlegung von Judikaturdivergenzen, Vergleichstabellen ohne Code-Fences, prozessuale Realität, kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Hugo Page Bundle: Umfassende Kommentierung aller 6 Absätze von Art. 56 StGB, Ausarbeitung der Gutachtenanforderungen, Verhältnismässigkeitskriterien, reichhaltige Sachverhaltskasuistik und kantonale Praxisfragen via entscheidsuche.ch und Fedlex verifiziert."
 ---
 

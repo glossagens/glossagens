@@ -5,7 +5,6 @@ date: 2026-05-17
 lastmod: 2026-05-17
 description: "Übersicht der Entscheide zu Art. 223 StGB – Verursachung einer Explosion"
 tags: ["Rechtsprechung", "StGB", "Explosion", "Gemeingefährdung", "objektive Bedingung", "Versuch"]
-agent_verified: false
 ---
 
 # Rechtsprechung zu Art. 223 StGB

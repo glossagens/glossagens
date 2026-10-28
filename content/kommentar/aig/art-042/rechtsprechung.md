@@ -5,7 +5,6 @@ date: 2026-05-30
 lastmod: 2026-05-30
 description: "Übersicht der Entscheide zu Art. 42 AIG – Familienangehörige von Schweizerinnen und Schweizern"
 tags: ["Rechtsprechung", "AIG", "Familiennachzug", "Aufenthaltsbewilligung", "Niederlassung"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

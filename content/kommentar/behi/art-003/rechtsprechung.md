@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Entscheide zu Art. 3 BehiG – Geltungsbereich"
 tags: ["Rechtsprechung", "BehiG", "Geltungsbereich", "Zugänglichkeit"]
-agent_verified: false
 revisions:
   - date: 2026-09-05
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung; Entscheide via opencaselaw/entscheidsuche geprüft"
 ---
 

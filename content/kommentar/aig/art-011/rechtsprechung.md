@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 11 AIG: Leitentscheide zur Abgrenzung von Eignungstest und bewilligungspflichtiger Erwerbstätigkeit, zur Prostitution, zum Begriff des Arbeitgebers, zum Erlöschen des Touristenstatus sowie kantonale Entscheide zu Scheingefälligkeiten und Ermittlungsbefugnissen."
 tags: ["Rechtsprechung", "AIG", "Erwerbstätigkeit", "Bewilligungspflicht", "Schwarzarbeit", "Eignungstest", "Gefälligkeit"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

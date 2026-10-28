@@ -5,12 +5,10 @@ date: 2026-10-20
 lastmod: 2026-10-20
 description: "Praxiskommentar zu Art. 52 ATSG: Einspracheverfahren im Sozialversicherungsrecht, Begründungsanforderungen nach Art. 10 ATSV, Nachfristgrenzen und Missbrauchsverbot bei Spät- vs. Frühvertretung (BGer 8C_313/2026), Devolutiveffekt und Parteientschädigung."
 tags: ["ATSG", "Einsprache", "Nachfrist", "Rechtsmissbrauch", "Fristen", "Sozialversicherungsrecht", "Einspracheentscheid", "Parteientschädigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuaufnahme als praxisorientierter Kommentar: Dogmatisches Prüfschema, ausführliche Sachverhaltskasuistik zu BGer 8C_313/2026, 8C_231/2025, 8C_681/2025, BGE 142 V 152 und BGE 134 V 162, Schwellenwerttabellen, kantonale Praxisfragen und Praxishinweise."
 ---
 

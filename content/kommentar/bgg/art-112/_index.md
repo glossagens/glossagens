@@ -5,17 +5,14 @@ date: 2026-09-18
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 112 BGG: Formelle Mindestanforderungen an kantonale Entscheide (Parteivorbringen, Begründung, Dispositiv, Rechtsmittelbelehrung und Streitwert), Eröffnung ohne Begründung samt Vollstreckbarkeitshemmung (Revision 2025) sowie Kassation vs. Rückweisung zur Verbesserung."
 tags: ["BGG", "Eröffnung", "Begründungspflicht", "Dispositiv", "Rechtsmittelbelehrung", "Streitwert", "Vollstreckbarkeit", "Rückweisung", "Kassation"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-112.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-18
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als Praxiskommentar. Gesetzeswortlaut verbatim aus Fedlex (SR 173.110, Stand 1. April 2026, Fassung BG vom 17. März 2023, in Kraft seit 1. Jan. 2025). Sämtliche Entscheide und Zitate über swiss-caselaw MCP verifiziert: BGE 141 IV 244, BGE 138 V 154, BGE 135 III 374, BGE 140 III 571, BGE 135 V 353, BGE 135 II 145, BGE 138 IV 81, BGE 141 II 169, BGE 148 II 359, BGE 134 I 159 sowie BGer 8C_742/2016, 5A_34/2015, 6B_1438/2017, 2C_354/2023, 1B_535/2020, 7B_450/2025, 9C_633/2021, 5D_194/2016, 5A_127/2026, 5A_882/2021, 6B_109/2018."
 ---
 

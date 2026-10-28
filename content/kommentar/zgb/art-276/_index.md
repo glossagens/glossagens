@@ -5,22 +5,18 @@ date: 2026-05-15
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 276 ZGB: Grundsatz der elterlichen Unterhaltspflicht, Natural- und Geldunterhalt, Kosten von Betreuung, Erziehung, Ausbildung und Kindesschutzmassnahmen sowie Befreiung bei eigenen Mitteln des Kindes."
 tags: ["ZGB", "Kindesunterhalt", "Unterhaltspflicht", "Naturalunterhalt", "Betreuungsunterhalt", "Kindesschutzmassnahmen", "Leistungsfähigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-276.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3-7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Korrektur des Gesetzeswortlauts (Abs. 1-3, Stand 2017), Beseitigung der Konfusion mit Art. 277 ZGB, Neugliederung nach Absätzen, Einarbeitung der BGer-Leitentscheide (BGE 147 III 265, BGE 144 III 377, BGE 144 III 481, BGE 151 III 249, BGE 141 III 401) und kantonaler Praxisfragen; Belegapparat via check_claim_support und attest_response verifiziert."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Erstfassung (fehlerhafter Gesetzestext, verwechselte Art. 276 mit Art. 277 ZGB und unzutreffende BGE-Zitate)"
 ---
 

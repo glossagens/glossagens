@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Entscheide zu Art. 25 OHG — Verwirkungsfristen, Jahresfrist, Adhäsionsverfahren, Treu und Glauben"
 tags: ["Rechtsprechung", "OHG", "Opferhilfe", "Verwirkungsfrist", "Fristen", "Adhäsionsverfahren", "Treu und Glauben"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht überarbeitet, Links zu entscheidsuche.ch migriert, BGer 1C_146/2025 ergänzt"
 ---
 

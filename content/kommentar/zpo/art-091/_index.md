@@ -5,17 +5,14 @@ date: 2026-09-09
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 91 ZPO: Bestimmung des Streitwerts durch das Rechtsbegehren, Abzugspositionen (Zinsen, laufende Kosten, Eventualbegehren), Streitwertschätzung bei Nichtgeldforderungen, Parteivereinbarungen, Schranke der offensichtlichen Unrichtigkeit, Mieterausweisung, Stufenklagen und richterliche Fragepflicht."
 tags: ["ZPO", "Streitwert", "Rechtsbegehren", "Streitwertfestsetzung", "Eventualbegehren", "Mieterausweisung", "Stufenklage", "Zuständigkeit", "Verfahrensart", "Kostenvorschuss"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-091.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (Referenzmuster Art. 110 StPO und Art. 336 OR). Gesetzestext verbatim aus Fedlex (SR 272, Stand 1. Juli 2026). Vollständige Einarbeitung der bundesgerichtlichen Leitpraxis (BGer 5A_139/2025, BGer 4A_338/2025, BGE 144 III 346, BGE 142 III 145, BGE 140 III 571, BGE 139 III 195, BGer 5A_28/2013) sowie kantonaler Obergerichtsentscheide (SH OG 10/2022/15, SH OG 40/2025/1, BE OG ZK 2017 441, BL KG 410 12 172, SG KG BE.2015.44, AG OG ZOR.2015.102, ZH OG RB190020). Inklusive dogmatischem Schichten-Prüfschema, Grenzkasuistik (Angewandt vs. Verworfen), Offenlegung von Judikaturwidersprüchen bei Eventualbegehren, Kasuistiktabellen, zwei kantonalen Praxisfragen und adressatenbezogenen Praxishinweisen."
 ---
 

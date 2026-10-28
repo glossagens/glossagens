@@ -23,12 +23,10 @@ normen:
 stichworte: ["Erbrecht", "Universalsukzession", "Parentelsystem", "gesetzliche Erben", "überlebender Ehegatte", "Testierfähigkeit", "eigenhändiges Testament", "Erbvertrag", "Pflichtteilsrecht", "Erbrechtsrevision 2023", "freie Quote", "Erbengemeinschaft", "Gesamthandschaft", "Einstimmigkeitsprinzip", "Erbenvertreter", "Ausgleichung", "Erbteilungsklage", "Herabsetzungsklage", "Ungültigkeitsklage"]
 aliases:
   - /themen/grundzuege-erbrecht/
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Grundzüge des Erbrechts (Universalsukzession, Parentelsystem, Verfügungsfreiheit, Pflichtteilsrevision 2023, Erbengemeinschaft, Erbteilung und Klagen). Normtexte zu Art. 457, 462, 467, 470, 471, 505, 512, 519, 522, 560, 602 und 604 ZGB per {{< wortlaut >}} eingebunden. Alle 12 Leitentscheide als Volltext von entscheidsuche.ch geladen, Erwägungsnummern, Anker und wörtliche Zitate mechanisch verifiziert."
 ---
 

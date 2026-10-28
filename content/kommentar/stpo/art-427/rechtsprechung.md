@@ -5,22 +5,18 @@ date: 2026-07-11
 lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 427 StPO – Kostentragungspflicht der Privatklägerschaft und der antragstellenden Person: Leitentscheide zu Antragsdelikten, Kausalität bei Zivilpunktkosten, behördlicher Genehmigung von Vergleichen und kantonaler Praxis."
 tags: ["Rechtsprechung", "StPO", "Kosten", "Privatklägerschaft", "Antragsdelikte", "Zivilpunkt", "Vergleich"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex (Art. 427). Korrigiert: SG KG AK.2023.377-AK (Arbeitsunfall mit Todesfolge; Kostenvorschuss für Gutachten abgelehnt, Beschwerde gutgeheissen – bisher ins Gegenteil verkehrt dargestellt); BGE 139 IV 102 (Parteientschädigung/Abgrenzung Straf- und Zivilpunkt, kein Beleg für polizeiliche Ermittlungen); BGer 6B_154/2013 (Sachverhalt); SG KG AK.2015.105 (Selbstunfall, Präsident der Anklagekammer); LU KG 2N 17 140 (Verleumdung, Verjährung, Art. 426 Abs. 2); Daten und Urteilsnummern von BGE 150 IV 196 (7B_38/2022), 147 IV 47 (6B_582/2020), 137 IV 352 (6B_365/2011); Art. 427 Abs. 1 lit. b (Hauptverhandlung statt Parteivorträge); unbelegte Beweislastaussagen, Botschaftslink (amtsblatt.ch) und unverifizierte Literatur entfernt. Bestätigt: BGer 6B_83/2025, 6B_470/2025, BGE 138 IV 248, KG GR PKG 2013 16, ZH OG UE140029."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau der Rechtsprechungsübersicht auf 13 verifizierte Leit- und Praxisentscheide: Integration von BGE 150 IV 196 (Vergleich und Entschädigungsvorbehalt), BGer 6B_83/2025 (aktive Privatklägerin und Gesetzesrevision), SG AK.2015.105 (mutwillige Einleitung), ZH UE140029 (analoge Anwendung im Beschwerdeverfahren), LU 2N 17 140 (Beschleunigungsgebot) und GR PKG 2013 16 (Zivilpunktkausalität). Alle Verlinkungen auf entscheidsuche.ch im Volltext validiert."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 12 verifizierten Entscheiden (5 Leitentscheide BGE, 7 BGer/Kantone), alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 

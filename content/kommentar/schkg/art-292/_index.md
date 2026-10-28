@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 292 SchKG: Verjährung des paulianischen Anfechtungsanspruchs — dreijährige Frist, Fristbeginn (Zustellung Verlustschein, Konkurseröffnung, Nachlassbestätigung), Unterbrechung nach OR und Anerkennung ausländischer Konkurse."
 tags: ["SchKG", "Verjährung", "Verjährungsfrist", "Fristbeginn", "Verlustschein", "Konkurseröffnung", "Unterbrechung", "IPRG"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der Verjährung nach der Revision 2018 (Inkrafttreten 2020: 3 Jahre), BBl-Materialien (2010 6455, 2014 235), Fristbeginn je nach Vollstreckungsverfahren, Anwendbarkeit der allgemeinen OR-Verjährungsregeln (Unterbrechung, Verzicht, Art. 135 ff. OR), Sonderregelung bei ausländischen Konkursen (Abs. 2 i.V.m. Art. 169 IPRG), Staatshaftung bei Fristversäumnis (KGer BL 2025, BGer 5A_531/2025) und Praxishinweise."
 ---
 

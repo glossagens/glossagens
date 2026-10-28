@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der massgeblichen Entscheide zu Art. 25 KVG (Allgemeine Leistungen bei Krankheit) — Spezialitätenliste/Wirtschaftlichkeit, Arzneimittel ausserhalb der SL, Rehabilitation vs. Erholungskur, Zweckmässigkeit der Leistung, zahnärztliche Behandlung."
 tags: ["Rechtsprechung", "KVG", "Leistungen", "Spezialitätenliste", "WZW", "Rehabilitation", "Arzneimittel"]
-agent_verified: true
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 128 V 159, 142 V 26, 129 V 32, 124 V 185, 126 V 323, 139 V 375, 130 V 299, 145 V 289); Ergänzung KW31/2 — BGer 9C_438/2024 (Kryokonservierung bei Geschlechtsdysphorie, via bger-update.ch)."
 ---
 

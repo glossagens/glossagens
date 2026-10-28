@@ -5,17 +5,14 @@ date: 2026-07-03
 lastmod: 2026-09-01
 description: "Übersicht der Entscheide zu Art. 94 BGG (Rechtsverweigerungs- und Rechtsverzögerungsbeschwerde, Fristlosigkeit, Säumnis und Rechtsschutzinteresse)."
 tags: ["Rechtsprechung", "BGG", "Rechtsverweigerung", "Rechtsverzögerung", "Säumnis", "Fristlosigkeit"]
-agent_verified: false
 revisions:
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erweiterung auf 10 Praxisentscheide: Einarbeitung von BGer 5A_131/2026 sowie BGE 144 II 184, BGE 138 II 384, BGE 135 I 265 und BGer 1C_461/2020."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung KW31"
 ---
 

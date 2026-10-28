@@ -5,17 +5,14 @@ date: 2026-07-03
 lastmod: 2026-10-20
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 17 AVIG: Vorfeld-Schadenminderungspflicht, Stellensuchintensität, Kontinuität, Nachweisfrist nach Art. 26 AVIV und Sanktionsbemessung."
 tags: ["Rechtsprechung", "AVIG", "Arbeitslosenversicherung", "Kontrollpflichten", "Stellensuche", "Einstellung", "Schadenminderungspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollausbau zum Praxiskommentar: Aufnahme von BGer 8C_109/2026 vom 15. September 2026, BGE 152 V 60 (8C_753/2024), AG OG VBE.2025.576, TI TCA 38.2026.26, ZH SVG AL.2025.00041, AL.2013.00027, AL.2014.00006 und Verifikation sämtlicher Fundstellen."
   - date: 2026-07-03
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Erstaufnahme der Rechtsprechungsübersicht."
 ---
 

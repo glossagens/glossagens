@@ -5,23 +5,18 @@ date: 2026-05-17
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Obligatorische Landesverweisung, Härtefallklausel, Interessenabwägung, Bemessung der Dauer der Landesverweisung, Secondos, Freizügigkeitsabkommen und EMRK-Konformität."
 tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
-agent_verified: true
-mcp_verified: true
 revisions:
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Anreicherung der Härtefallprüfung: Integration von BGE 151 I 248, BGE 145 IV 455, BGE 147 IV 453, BGer 6B_627/2018, BGer 7B_730/2023, BGer 6B_1050/2022, BGer 6B_855/2020 und BGer 6B_577/2022 mit präzisen Pinpoint-Erwägungen."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit & Verifikation: Ergänzung sämtlicher fehlender Pinpoint-Erwägungen (BGer 6B_627/2018 E. 1.5, BGer 6B_423/2019 E. 2.2.2, BGer 6B_747/2019 E. 2.2.3, BGer 6B_1152/2017 E. 2.6); lückenlose Pinpoint-Compliance."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und falscher Aktenzeichenformate; 10 verifizierte Bundesgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

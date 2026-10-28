@@ -5,47 +5,38 @@ date: 2026-06-07
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 158 StGB: Treuebruch (Ziff. 1) und Missbrauch der Vertretungsmacht (Ziff. 2) — Geschäftsführerstellung, Pflichtverletzung, Vermögensschaden, Churning, Retrozessionen, unterlassene Verlustmeldung, missachtete Anlagebeschränkungen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Bereicherungsabsicht, Antragsdelikt (Ziff. 3) — mit Prüfschema, zweiseitiger Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Vermögensschaden", "Pflichtverletzung", "Informationspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_355/2026 vom 28.09.2026 (ungetreue Geschäftsbesorgung bei Vermögensverwaltung): Erweiterung der Fallgruppe D.2 und D.4 um unterlassene Verlustmeldung und missachtete vertragliche Anlagebeschränkungen (Risikolimite, Kapitalschutz) als Pflichtwidrigkeit; Aufnahme in Grenzkasuistik Aufklärung/Informationspflicht; Sachverhaltsschilderung mit E. 2.3.3, 2.4.3 und 2.5.3 (Eventualvorsatz); Volltext via bger.ch (relevancy JumpCGI) verifiziert, Pinpoints E. 2.3.3/2.4.3/2.5.3 aus Originaltext bestätigt; entscheidsuche führt BGer-Entscheid noch nicht (nur Vorinstanz GR_KG SR1 2023 36), daher Link auf bger.ch."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-158.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vertiefung und Systematisierung der strafrechtlichen Relevanz der Nicht-Weitergabe von Retrozessionen in D.4: Dogmatische Voraussetzungen der Strafbarkeit nach BGE 144 IV 294 und BGer 6B_431/2024; Irrtumsausschluss (Art. 21 StGB) seit BGE 132 III 460; Bereicherungsabsicht und Vortat für Geldwäscherei (BGer 6B_910/2019, 7B_4/2021); systematische Abgrenzungen zu Art. 138 StGB (keine Veruntreuung), Art. 146 StGB (Betrug bei Arglist), Art. 322octies/novies StGB (Privatbestechung) und Execution-only (BGer 4A_149/2025)."
   - date: 2026-09-26
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Korrektur und Vertiefung von BGer 7B_57/2025: Dogmatische Zuordnung zu Art. 158 Ziff. 2 StGB (Missbrauch der Vertretungsmacht) und Art. 146 StGB (Betrug) statt Ziff. 1 Abs. 3; Links von bger.ch auf entscheidsuche.ch korrigiert; Sachverhalt mit TIR-Carnet-Kontext angereichert; Abgrenzung zum klassischen Vermögensverwaltungsmandat (BGE 144 IV 294) in D.4 ergänzt; wörtliches Kernzitat aus E. 2.3 eingebaut."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "BGer-Update: Ergänzung von BGer 7B_57/2025 vom 26.08.2026 zur Bereicherungsabsicht bei verdeckten Retrozessionen (Fehlen des persönlichen Bereicherungsvorsatzes von Organen bei Verbleib der Gelder im Gesellschaftsvermögen; Bestätigung der Teileinstellung nach Art. 319 StPO)."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau als praxisorientierter Kommentar nach SKILL.md v1.3.0. Gesetzeswortlaut verbatim aus Fedlex (SR 311.0). Sämtliche Entscheide im Volltext über entscheidsuche.ch geholt und wörtlich belegt: BGE 142 IV 346 (Churning), BGE 144 IV 294 (Retrozessionen), BGE 141 IV 104 (Einpersonen-AG), BGE 151 IV 258 (überschuldete AG), BGE 129 IV 124 (Schmiergelder), BGE 121 IV 104 (Vermögensschaden), BGer 6B_223/2010 (Geschäftsführerstellung), BGer 6B_431/2024 (Retrozessionen/Bern, 54 Kunden), BGer 6B_115/2024 (franz. BGE zu Art. 158 ch. 1), BGer 6B_804/2025 (Liquidator/Antrag), BGer 6B_986/2023 (Veruntreuung + ungetreue Geschäftsbesorgung), BGer 7B_1361/2024 (Gläubigerschädigung), BGer 6B_645/2022 (Vermögensschaden), BGer 6B_1118/2023 (Bereicherungsabsicht), BGer 6B_1084/2022 (Rechenschaftspflicht), BGer 6B_940/2019 (Pflichtwidrigkeit), BGer 6B_824/2011 (Pflichtwidrigkeit ex ante), BGer 6B_845/2014 (Vormund/Retrozessionen), BStGer SK.2012.45 (BVV), BStGer SK.2020.40 (Missbrauch + Betrug), BStGer SK.2022.30 (Insider), ZH OG SB170489 (Churning), ZH OG SB220570 (faktische Geschäftsführerstellung), VS KG P3 14 151 (Betrug/Abgrenzung), GR KG SB 2006 12 (Ziff. 2). Merkmalsraster, zweiseitige Grenzkasuistik, Judikaturdivergenzen, Leitsätze und Praxishinweise nach SKILL.md."
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Erheblicher praxisorientierter Ausbau: Tatbestandsmerkmale mit konkreter Kasuistik, neue Abschnitte zu Churning, Retrozessionen, Einpersonen-AG, überschuldeten Gesellschaften, Schmiergeldern, Missbrauch der Vertretungsmacht, Geschäftsführer ohne Auftrag und Abgrenzungen; 14 verifizierte Entscheide via entscheidsuche.ch; Gesetzestext nach Fedlex."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: 3 fehlerhafte BGE-Referenzen entfernt; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"

@@ -5,17 +5,14 @@ date: "2026-09-21"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 74 ZPO: Voraussetzungen der Nebenintervention, rechtliches Interesse vs. wirtschaftliche Betroffenheit, Glaubhaftmachen, Anwendungs- und Verwerfungskasuistik, streitgenössische Nebenintervention und Rolle von Organen."
 tags: ["ZPO", "Nebenintervention", "Intervention", "Rechtliches Interesse", "Streitgenössische Nebenintervention", "Parteistellung", "Interventionswirkung", "Glaubhaftmachen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-074.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Gesetzeskommentar gemäss Richtlinien Glossagens. Auswertung und Einarbeitung von BGE 143 III 140, BGE 142 III 629, BGE 147 III 537, BGE 142 III 271, BGE 142 III 40, BGE 148 III 270 sowie kantonaler Leitpraxis (ZH, SG, BL, ZG). Grounding verifiziert gegen Entscheiddatenbank."
 ---
 

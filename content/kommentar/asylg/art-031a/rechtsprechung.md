@@ -5,7 +5,6 @@ date: 2026-06-06
 lastmod: 2026-06-06
 description: "Übersicht der Entscheide zu Art. 31a AsylG — Ausschaffungshaft"
 tags: ["Rechtsprechung", "AsylG", "Ausschaffungshaft", "Zwangsmassnahme"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

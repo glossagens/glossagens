@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 53 StHG (SR 642.14) — Ordentliche Nachsteuer, neue Tatsachen und Beweismittel, Abgrenzung zur ungenügenden Bewertung, Verjährungsfristen (10 Jahre Einleitung, 15 Jahre Festsetzung) und Trennung vom Steuerstrafverfahren (nemo tenetur)."
 tags: ["StHG", "Nachsteuer", "Verfahrensrecht", "neue Tatsachen", "Bewertungsmangel", "Verjährung", "Verwirkungsfrist", "nemo tenetur", "Beweisverwertungsverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende und praxisorientierte Kommentierung von Art. 53 StHG mit Prüfschema, Grenzkasuistik, Schwellenwerten, Botschaftsmaterialien, kantonalen Praxisfragen und Rollenhinweisen."
 ---
 

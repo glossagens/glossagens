@@ -5,7 +5,6 @@ date: 2024-03-01
 lastmod: 2026-09-25
 description: "Praxiskommentar zu Art. 62 StGB: Bedingte Entlassung aus stationären therapeutischen Massnahmen, Bemessung der Probezeit, Weisungen, Altersgrenzen und Verlängerung."
 tags: ["StGB", "Massnahmenrecht", "Bedingte Entlassung", "Probezeit", "Weisungen", "Vollzug"]
-agent_verified: true
 ---
 
 ## 1. Gesetzeswortlaut

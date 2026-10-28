@@ -5,12 +5,10 @@ date: 2026-10-06
 lastmod: 2026-10-06
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 198 ZPO (Ausnahmen vom Schlichtungsversuch)."
 tags: ["Rechtsprechung", "ZPO", "Schlichtungsverfahren", "Prozessvoraussetzungen"]
-agent_verified: false
 revisions:
   - date: 2026-10-06
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erfassung von 18 Leitentscheiden und kantonalen Urteilen zu Art. 198 ZPO im Volltextabgleich auf entscheidsuche.ch."
 ---
 

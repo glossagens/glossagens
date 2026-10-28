@@ -5,7 +5,6 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Übersicht der Rechtsprechung zu Art. 32 OR: Leitentscheide des Bundesgerichts sowie ausgewählte kantonale Entscheide zu Vertretungsmacht, Offenkundigkeit, Erkennbarkeit, Gleichgültigkeit, Insichgeschäften und Beweislast."
 tags: ["Rechtsprechung", "OR", "Stellvertretung", "Vertretungsmacht", "Offenkundigkeitsprinzip", "Insichgeschäft", "Beweislast"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

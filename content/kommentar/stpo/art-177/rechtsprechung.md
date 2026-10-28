@@ -5,12 +5,10 @@ date: 2026-07-11
 lastmod: 2026-10-21
 description: "Übersicht der Entscheide zu Art. 177 StPO — Belehrung der Zeuginnen und Zeugen, Glaubwürdigkeitsabklärung, Zeugnisverweigerungsrechte, relatives Verwertungsverbot"
 tags: ["Rechtsprechung", "StPO", "Belehrungspflicht", "Zeugeneinvernahme", "Zeugnisverweigerungsrecht", "Glaubwürdigkeit", "Verwertungsverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_677/2024 vom 09.09.2026 unter II. Weitere Entscheide (Relatives Verwertungsverbot nach Art. 177 Abs. 3 StPO erfordert aktive Berufung auf das Verweigerungsrecht durch die geschützte Person; kein Rügerecht des Beschuldigten; Abweisung der Protokollberichtigung)."
 ---
 

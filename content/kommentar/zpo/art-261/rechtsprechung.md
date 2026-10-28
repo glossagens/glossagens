@@ -5,22 +5,18 @@ date: 2026-07-18
 lastmod: 2026-10-06
 description: "Übersicht der Rechtsprechung zu Art. 261 ZPO — Vorsorgliche Massnahmen, Glaubhaftmachung, nicht leicht wiedergutzumachender Nachteil, Kasuistik."
 tags: ["Rechtsprechung", "ZPO", "Summarisches Verfahren", "Vorsorgliche Massnahmen", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung von ZH Handelsgericht HE260058 vom 16. September 2026 (Entscheid #144 auf bger-update.ch) zu superprovisorischen Massnahmen, Dahinfallen bei Gesuchsabweisung, Entfallen des Verfügungsgrundes bei Unterlassungszusage und Substantiierungslast."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 12 praxisrelevanten Leit- und Kantonalentscheiden, vollständiger Verlinkung auf entscheidsuche.ch und detaillierten Sachverhalten."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 35 %, Urteil C)"
 ---
 

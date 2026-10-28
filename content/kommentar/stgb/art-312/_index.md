@@ -5,17 +5,14 @@ date: 2026-10-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 312 StGB (Amtsmissbrauch): Tatbegriff der Amtsgewalt, Ausnützung hoheitlicher Zwangsbefugnisse, zweiseitige Grenzkasuistik (Polizeieinsätze, Pfefferspray, digitale Registerabfragen), Judikaturdivergenzen, Ermächtigungsverfahren und Praxishinweise."
 tags: ["StGB", "Amtsdelikte", "Amtsmissbrauch", "Amtsgewalt", "Polizeigewalt", "Ermächtigungsverfahren", "Nachteilsabsicht", "Vorteilsabsicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-312.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage als umfassender Praxiskommentar zu Art. 312 StGB nach den Referenzstandards: Prüfschema-Tabelle; dogmatische Analyse von Amtsgewalt und Ausnützung hoheitlicher Macht; Grenzziehung zwischen Anwendungs- und Verwerfungsfällen (BGE 149 IV 128, BGE 127 IV 209, BGE 114 IV 41, BGE 108 IV 48, BGE 101 IV 407, BGer 6B_1212/2018, BGer 6B_281/2018); Divergenz zur Strafbarkeit unbefugter Datenabfragen (AppGer BS SB.2018.126); kantonale Praxis zum Ermächtigungsverfahren (BGE 149 IV 183, BGer 1C_395/2018) und zur Privatklägerschaft (RBOG 2021 Nr. 27); strukturierte Kasuistiktabelle und adressatenbezogene Praxishinweise."
 ---
 

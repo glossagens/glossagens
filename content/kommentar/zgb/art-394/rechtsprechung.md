@@ -5,17 +5,14 @@ date: 2026-05-24
 lastmod: 2026-08-19
 description: "Übersicht der Entscheide zu Art. 394 ZGB – Vertretungsbeistandschaft im Erwachsenenschutzrecht"
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Vertretungsbeistandschaft", "Handlungsfähigkeit"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Kompletter Overhaul der Rechtsprechungssammlung: 10 verifizierte Entscheide mit Pinpoints und Belegprüfung"
   - date: 2026-05-24
     by: "Glossagens Agent"
     model: "claude-3-5-sonnet"
-    mcp_verified: false
     note: "Erstfassung"
 ---
 

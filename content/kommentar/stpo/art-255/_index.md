@@ -5,22 +5,18 @@ date: 2026-08-30
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 255 StPO: DNA-Probenahme und Profilerstellung zur Aufklärung des Anlassdelikts (Abs. 1) und weiterer Taten (Abs. 1bis), Kompetenzen der Polizei (Abs. 2), Y-DNA-Abgleich bei Verbrechen (Abs. 3) sowie Schwellenwerte, Zwangsvollzug, Löschungsfristen und Kasuistik."
 tags: ["StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Polizeikompetenz", "Verhältnismässigkeit", "Zwangsmassnahmen", "Erkennungsdienst", "Y-DNA", "Rückfallgefahr"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-255.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Praxisausbau nach dem Standard von Art. 110 StPO und Art. 336 OR: Gesetzeswortlaut verbatim nach Fedlex (Konsolidierung 1. April 2025); Integration der StPO-Revision 2024 (Einführung Abs. 1bis) und der Phänotypisierungs-Vorlage 2023 (Abs. 3); Ersetzung früherer Zitatfehler durch verifizierte Leitentscheide (BGE 145 IV 263, BGE 141 IV 87, BGE 147 I 372, BGE 144 IV 127) sowie reale Bundesgerichts- und Kantonsgerichtsurteile (u.a. BGer 7B_176/2023, 7B_52/2023, AG OG SBK.2024.248, AG OG SBK.2024.360, BS AppGer BES.2019.3, SZ KG BEK 2024 190); zweiseitige Grenzkasuistik mit Sachverhaltsdarstellung aus den Akten, tabellarische Gegenüberstellungen, kantonale Praxisfragen und Praxishinweise nach Rollen."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstfassung."
 ---
 

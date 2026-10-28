@@ -5,37 +5,30 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 18 UVG: Anspruch auf Invalidenrente — Invaliditätsgrad ab 10 %, Referenzalter, Bemessung nach Art. 8 und 16 ATSG. KEINE analoge Anwendung von Art. 26 und 26bis Abs. 3 IVV auf die UVG (BGer 8C_254/2025, bestätigt durch 8C_188/2026 und 8C_65/2026). Beweiswert unvollständiger Gutachten ohne MRI stark vermindert (8C_165/2026)."
 tags: ["UVG", "Invalidenrente", "Sozialversicherung", "Invalidität", "IVV"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-018.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikationslauf gegen entscheidsuche.ch und Fedlex. Die zitierte Rechtsprechung ist durchwegs echt: BGer 8C_254/2025 (23.06.2026), 8C_682/2025, 8C_188/2026 und 8C_65/2026 (alle 06.08.2026) sowie 8C_165/2026 (04.08.2026) existieren mit den angegebenen Daten und Aussagen. Behoben wurden dagegen ein Selbstwiderspruch und mehrere Normverweise: Der Ueberblick behauptete, die IVV-Regeln seien im UVG «analog anwendbar», waehrend der Artikel weiter unten die vom Bundesgericht ausgesprochene Verneinung genau dieser Analogie darstellte; die Abschnitte zu Validen- und Invalideneinkommen praesentierten Art. 26 und 26bis IVV als geltendes UVG-Recht. Ferner: «OV» war ein aus den italienischen Urteilstexten stehengebliebenes «OAI» (= IVV) und ist durchgehend ersetzt; das Referenzalter steht in Art. 21 Abs. 1 AHVG (65 Jahre) und nicht in Art. 17 ATSG; die Behauptung, Unfaelle nach dem Referenzalter fuehrten zu einem Assistenzbeitrag nach Art. 42quinquies IVG, ist ersatzlos gestrichen; Art. 18 Abs. 2 UVG ist in Art. 28 UVV umgesetzt, nicht in der IVV (Sonderfaelle neu tabellarisch nach Fedlex); der Unfallbegriff war falsch wiedergegeben («nicht vorhersehbar» statt «nicht beabsichtigt» und «ungewoehnlich»); «birth-defekt» und die englischen bzw. franzoesischen Ausdruecke («social duty allowance», «parallelism of income», «parallelisme des revenus») sind uebersetzt. Praezisiert: BGE 147 V 2 betrifft die berufliche Vorsorge und wird nur fuer die Methodik des qualifizierten Schweigens herangezogen; BGE 150 V 188 betrifft die Versicherungsdeckung bei rueckwirkender Leistungseinstellung (E. 7.3.5) und nicht den Status quo sine. Linkziele auf entscheidsuche.ch umgestellt."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "BGer 8C_65/2026 (vom 06.08.2026, publ. 31.08.2026) integriert: Bekräftigung des qualifizierten Schweigens des Gesetzgebers gegen IVV-Analogie im UVG und Abweisung der Art. 8 BV-Rüge"
   - date: 2026-08-22
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "8C_188/2026 (Bestätigung 8C_254/2025) und 8C_165/2026 (Beweiswert Gutachten ohne MRI, Status quo sine, Integritätsentschädigung) integriert; check_claim_support: yes für alle Kernclaims"
   - date: 2026-08-21
     by: "Glossagens Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "8C_682/2025 ergänzt; Analoge-Anwendung-Abschnitt aktualisiert"
   - date: 2026-07-18
     by: "Glossagens Agent"
     model: "claude-sonnet-4-20250514"
-    mcp_verified: true
     note: "Ersterstellung des Kommentars"
 ---
 

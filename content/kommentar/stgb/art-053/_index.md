@@ -5,22 +5,18 @@ date: 2026-10-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 53 StGB (SR 311.0): Strafbefreiung bei Schadenswiedergutmachung — kumulative Voraussetzungen (Wiedergutmachung, geringe Straferwartung, geringes öffentliches und Geschädigten-Interesse, Geständnis), zwingender Charakter, Verfahrensstadien (Einstellung vs. Schuldspruch ohne Strafe) und Kostenfolgen."
 tags: ["StGB", "Strafbefreiung", "Schadenswiedergutmachung", "Wiedergutmachung", "Opportunitätsprinzip", "Geständnis", "öffentliches Interesse", "Strafverzicht", "Verfahrenskosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-053.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage praxisorientiert — Gesetzestext via Fedlex get_article (SR 311.0 Art. 53), Leitentscheid BGE 135 IV 27 E. 2 via OCL get_erwaegung geprueft. Revision 2019 berücksichtigt."
   - date: 2026-10-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Praxisstandard (Art. 110 StPO / Art. 336 OR): Vertiefte Kasuistik mit narrativen Lebenssachverhalten zu allen 4 Tatbestandsmerkmalen, zweiseitige Gegenüberstellung (angewandt vs. verworfen), Revisionspraxis 2019 (Geständnispflicht lit. c, 1-Jahres-Grenze lit. a), Verfahrensstadien- und Kostenregelung (BGE 144 IV 202, BGE 139 IV 220), Tabellen ohne Code-Fences und Praxishinweise."
 ---
 

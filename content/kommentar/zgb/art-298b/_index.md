@@ -5,17 +5,14 @@ date: 2026-09-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 298b ZGB: Zuteilung der elterlichen Sorge bei Weigerung eines unverheirateten Elternteils, gemeinsame Sorge als gesetzlicher Regelfall, Schwellenwerte für die Belassung oder Erteilung der Alleinsorge, richterliche Kompetenzattraktion bei Unterhaltsklagen (Abs. 3), alternierende Obhut (Abs. 3ter) und kantonale Judikaturdivergenzen — mit ausführlicher Kasuistik und rollenbezogenen Praxishinweisen."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Elterliche Sorge", "Gemeinsame Sorge", "Alleinsorge", "Obhut", "Alternierende Obhut", "Besuchsrecht", "Betreuungsanteile", "KESB", "Kompetenzattraktion", "Kindesunterhalt", "Kindeswohl"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-298b.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar zu Art. 298b ZGB. Gesetzeswortlaut verbatim nach Fedlex (SR 210, Stand 1. Juli 2026). Volltextrecherche und Verifikation über entscheidsuche.ch: BGE 141 III 472, BGE 142 III 197, BGE 142 III 1, BGE 145 III 436, BGE 142 III 612, BGE 144 III 10; BGer 5A_173/2025, 5A_972/2023, 5A_239/2021, 5A_722/2020, 5A_418/2019, 5A_833/2016, 5A_609/2016, 5A_995/2017, 5A_574/2022; kantonale Leitpraxis aus SG (FO.2022.15-K2, V-2015/303, V-2015/290), LU (3B 19 2 / LGVE 2020 II Nr. 2, 3H 15 45 / LGVE 2015 II Nr. 4), BE (ZK 2018 503, KES 2020 852), ZH (LZ190008, PQ190072) und BS (VD.2022.255). Systematisches Prüfschema, Gegenüberstellungstabellen ohne Code-Fences, Offenlegung von Judikaturwidersprüchen zur Kompetenzattraktion und adressatengerechte Praxishinweise."
 ---
 

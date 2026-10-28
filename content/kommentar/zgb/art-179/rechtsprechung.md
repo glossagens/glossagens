@@ -5,12 +5,10 @@ date: "2026-08-28"
 lastmod: "2026-08-28"
 description: "Übersicht der Rechtsprechung zu Art. 179 ZGB – Abänderung von Eheschutzmassnahmen und vorsorglichen Massnahmen, Dauerhaftigkeit, Erheblichkeit, Konventionen und Dahinfallen bei Wiederaufnahme des Zusammenlebens"
 tags: ["Rechtsprechung", "ZGB", "Eheschutz", "Abänderung", "Unterhalt", "Wiederaufnahme des Zusammenlebens", "Vorsorgliche Massnahmen"]
-agent_verified: false
 revisions:
   - date: 2026-08-28
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung der Rechtsprechungsübersicht zu Art. 179 ZGB mit 8 BGE-Leitentscheiden und 10 weiteren Bundesgerichts- und kantonalen Entscheiden"
 ---
 

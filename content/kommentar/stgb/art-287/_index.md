@@ -5,22 +5,18 @@ date: 2026-07-31
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 287 StGB: Anmassung der Ausübung eines Amtes oder militärischer Befehlsgewalt, Begriff des Amtes, rechtswidrige Absicht und Abgrenzung zum Amtsmissbrauch (Art. 312 StGB)."
 tags: ["StGB", "Amtsanmassung", "Öffentliche Gewalt", "Rechtswidrige Absicht", "Beamtenbegriff", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 7 verifizierte Entscheide via entscheidsuche.ch; BGE 128 IV 164 (Beanstandungsrapport: rechtswidrige Absicht verneint, Freispruch), BGer 1C_439/2021 (Amtsbegriff, Abgrenzung Art. 312), BGer 1C_23/2021 (dualer Schutzcharakter), BGer 6S.337/2001 (subjektive Voraussetzungen), BGer 6B_358/2020 (Scheinkontrolle, Konkurrenz Freiheitsberaubung), BGer 6B_560/2008 (gefälste Ausweise, Konkurrenz Urkundenfälschung), BGer 1C_599/2012 (Ermächtigungsverfahren); kantonale Zitate (SZ, LU, OW) auf entscheidsuche.ch verifiziert oder entfernt falls nicht auffindbar; Gesetzeswortlaut → Wortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der fiktiven Referenz BGer 6B_786/2025; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

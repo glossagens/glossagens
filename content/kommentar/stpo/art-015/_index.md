@@ -5,22 +5,18 @@ date: 2026-07-11
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 15 StPO – Polizei: Aufgaben der Polizei im Strafverfahren, Unterstellung unter Staatsanwaltschaft, Abgrenzung zwischen strafprozessualer und sicherheitspolizeilicher Tätigkeit, Weisungsbefugnis des Gerichts."
 tags: ["StPO", "Polizei", "Strafverfolgungsbehörden", "Ermittlung", "Aufsichtspflicht", "Anfangsverdacht", "Polizeirapport", "Abgrenzung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-015.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 39 %). Fünf leere Pinpoint-Platzhalter der Form «E.» bzw. «E. zur Abgrenzung» durch die tatsächlichen Erwägungsnummern ersetzt. Zwei nicht existierende Pinpoints berichtigt (7B_258/2022 E. 4.3 → E. 2.1.1; 6B_1187/2020 E. 2.3 und E. 5.2 → E. 3.2). Sachfehler bei BGer 1C_39/2021 behoben: Der Entscheid handelt von Art. 298b Abs. 1 StPO (verdeckte Fahndung), nicht von Art. 198 Abs. 1 lit. c StPO. Unbelegte Aussage zu BGer 6B_1143/2015 gestrichen — der Entscheid enthält keinen Satz über ein Beweisverwertungsverbot bei grober Verletzung von Verfahrensvorschriften und schützte die Massnahme. Falsche Normzuordnungen berichtigt: Art. 18 StPO (Zwangsmassnahmengericht, nicht «Gerichte»), Art. 307 StPO (Zusammenarbeit mit der Staatsanwaltschaft), Art. 310 StPO (Nichtanhandnahme, kein «summarisches Verfahren für Bagatellfälle»), Art. 197 StPO im Querverweis. BGE 146 I 11 auf E. 4.1 f. korrigiert. Neu belegt: BGE 143 IV 397 E. 3.3.1, BGE 146 IV 88 E. 1.6.2 f., BGer 6B_1143/2015 E. 1.3.3."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

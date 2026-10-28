@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 399 StPO – Anmeldung der Berufung, Berufungserklärung, Fristen, Teilberufung und Beweisanträge."
 tags: ["Rechtsprechung", "StPO", "Berufung", "Berufungsanmeldung", "Berufungserklärung", "Fristen", "Teilberufung", "Beweisanträge"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 399 StPO mit 22 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 

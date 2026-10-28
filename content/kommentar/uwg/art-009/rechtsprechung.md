@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Entscheide zu Art. 9 UWG (Klageberechtigung): Leitentscheide des Bundesgerichts zu Aktivlegitimation, Rechtsschutzinteresse bei Unterlassung, Feststellungsklage, Urteilspublikation und reparatorischen Ansprüchen."
 tags: ["UWG", "Lauterkeitsrecht", "Rechtsprechung", "Klageberechtigung", "Unterlassungsklage", "Feststellungsklage"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstübersicht. Entscheide über entscheidsuche.ch im Volltext gelesen; Links aus den content_url-Feldern. Kein maschineller Audit-Lauf, daher mcp_verified: false."
 ---
 

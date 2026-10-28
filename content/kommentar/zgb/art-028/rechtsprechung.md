@@ -5,22 +5,18 @@ date: 2026-05-31
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 28 ZGB – Persönlichkeitsschutz"
 tags: ["Rechtsprechung", "ZGB", "Persönlichkeitsschutz", "Persönlichkeitsverletzung", "Widerrechtlichkeit", "Medienrecht"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Ausbau der Rechtsprechungsübersicht: Ergänzung neuer Leitentscheide und Bundesgerichtsurteile (Online-Medien, Bloghoster, Recht auf Vergessen, Videoüberwachung) und Umstellung aller Links auf entscheidsuche.ch."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Kompletter Overhaul: Belegapparat und Pinpoints via check_claim_support und attest_response saniert, kantonale Entscheide integriert."
   - date: 2026-05-31
     by: "Glossagens Agent"
     model: "gpt-4o"
-    mcp_verified: false
     note: "Ersterstellung"
 ---
 

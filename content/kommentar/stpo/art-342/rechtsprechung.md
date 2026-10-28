@@ -5,17 +5,14 @@ date: 2026-08-15
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 342 StPO: Schuld- und Tatinterlokut, Zuständigkeit, Nichtanfechtbarkeit, Gerichtsbesetzung im zweigeteilten Verfahren."
 tags: ["Rechtsprechung", "StPO", "Zweiteilung", "Hauptverhandlung", "Schuldinterlokut", "Tatinterlokut"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 0 %). Gestrichen: BGE 140 IV 121, BGE 146 IV 374, BGE 148 IV 327, BGer 7B_93/2021 (alle nicht existent), BGer 1B_487/2020 und BGer 1B_612/2019 (betreffen Art. 342 StPO nicht) sowie die erfundenen kantonalen Entscheide OGer ZH VR.2021.48 und OGer BE SK.2020.83. Neu aufgenommen: BGE 151 IV 37, BGer 7B_1429/2025, BGer 6B_172/2011, BGer 1B_199/2020, BGer 7B_517/2023, Appellationsgericht BS SB.2020.60."
   - date: 2026-08-15
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung KW33"
 ---
 

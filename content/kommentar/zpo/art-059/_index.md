@@ -5,27 +5,22 @@ date: 2026-07-19
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 59 ZPO: Prozessvoraussetzungen im Zivilprozess — Rechtsschutzinteresse, Zuständigkeit, Partei-/Prozessfähigkeit, Litispendenz, res iudicata, Kostenvorschuss und Kasuistik."
 tags: ["ZPO", "Prozessvoraussetzungen", "Nichteintreten", "Rechtsschutzinteresse", "Rechtshängigkeit", "Rechtskraft", "Kostenvorschuss", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-059.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung aller Prozessvoraussetzungen, Kasuistik zum Feststellungsinteresse (BGE 141 III 68), Rechtshängigkeitssperre (BGE 148 III 30), Rechtskraft (BGE 139 III 126), Klagebewilligung (BGE 140 III 227) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 29 % → 82 %, Urteil A): BGE 141 III 153 existiert nicht und wurde entfernt; ungestützte Belege ersetzt oder gestrichen"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 29 % (Urteil C); 8 von 54 Paaren gestützt; 31 ungestützt; 1 nicht existente Referenz; 3 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-09-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 124 ZPO — Grundsätze der Prozessleitung: gerichtliche Verfahrensleitung, Delegation an Einzelsrichter, Guetliche Einigung, Verhaeltnis zu Art. 319 ZPO (qualifizierte prozessleitende Verfügungen), Anfechtungsobliegenheit, Beschwerdefristen."
 tags: ["ZPO", "Prozessleitung", "prozessleitende Verfügung", "qualifizierte prozessleitende Verfügung", "Anfechtungsobliegenheit", "Delegation", "Guetliche Einigung", "Verfahrensleitung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-124.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Ersterstellung als Praxiskommentar; 3 BGEs via entscheidsuche verifiziert und verlinkt; Gesetzestext via Fedlex MCP geprüft (SR 272, Stand 2026-07-01)."
 ---
 

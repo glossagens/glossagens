@@ -5,27 +5,22 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 311 ZPO: Die Berufungsschrift im Zivilprozess — Gesetzliche Fristen, Begründungsdichte, Rügeprinzip, Bezifferungsgebot und Kasuistik."
 tags: ["ZPO", "Rechtsmittel", "Berufung", "Begründungspflicht", "Rügeprinzip", "Berufungsfrist", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-311.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Vertiefte Kasuistik zur Rügepflicht (BGE 142 III 413), Bezifferungsgebot (BGE 137 III 617), Ausschluss von Nachfristen bei Begründungsmängeln (BGE 144 III 394), Laienberufungen und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 13 % → 90 %, Urteil A); nicht auflösbare URL (bge_143 III 153 mit Leerzeichen) und nicht tragende Belege entfernt; Pinpoint für BGE 137 III 617 von «E. 4» (Regeste-Abschnittszeiger) auf E. 4.3 korrigiert"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 13 % (Urteil C); 0 von 23 Paaren gestützt; 17 ungestützt; 1 fehlerhafter Pinpoint; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

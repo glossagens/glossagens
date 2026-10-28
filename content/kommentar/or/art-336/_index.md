@@ -5,37 +5,30 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 336 OR: die verpönten Kündigungsmotive (Persönlichkeitseigenschaft, verfassungsmässige Rechte, Vereitelung, Rache, Dienstpflichten, Gewerkschaft, Arbeitnehmervertretung, Massenentlassung), die ungeschriebenen Missbrauchstatbestände (Alterskündigung, Sündenbock, Konflikt am Arbeitsplatz, Verdachtskündigung) sowie Motivkausalität, Beweismass und Einspracheobliegenheit — mit der Kasuistik der Gerichte zu jeder Fallgruppe."
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht", "Kündigungsfreiheit", "Rachekündigung", "Alterskündigung", "Verdachtskündigung", "Änderungskündigung", "Impfobligatorium", "Beweismass", "Einsprache"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-336.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Nachführung auf die Skill-Fassung vom 04.09.2026, 15:09 (Tatbestandsmerkmale als Grundgerüst, Abschnitt 3.1 Ziff. 4): Die bisherige vierzeilige Prüfungsreihenfolge deckte nur einen Teil der Kommentierung ab und fasste die Abschnitte C bis I in einer einzigen Zeile zusammen. Sie ist durch ein vollständiges Prüfschema ersetzt, das jedes Merkmal mit Prüffrage, Beweislast und Beweismass ausweist und Zeile für Zeile mit den Abschnitten A bis K deckungsgleich ist. Gliederung, Kasuistik und Fundstellen unverändert; keine inhaltliche Änderung am Text der Kommentierung."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar im Format von Art. 110 StPO: Gesetzeswortlaut neu gegliedert und mit Übersichtstabelle der acht benannten Tatbestände versehen; Kommentierung von zwei auf dreizehn Abschnitte erweitert und durchgehend auf geschilderte Sachverhalte umgestellt. Neu ausgewertet und im Volltext geprüft: BGE 150 III 78, BGE 149 III 304, BGE 138 III 359, BGE 136 III 96, BGE 125 III 277 sowie BGer 4A_388/2025, 4A_368/2023, 4A_295/2024, 4A_44/2021, 4A_33/2025, 4A_259/2019 und die kantonalen Entscheide SG KG BO.2024.11-K3, AG OG ZOR.2025.11 und ZOR.2025.27. Volltexte über entscheidsuche.ch geholt, die Belegstellen wörtlich übernommen und die Entscheide dorthin verlinkt (Erwägungsanker nur bei BGE, da die BGer-Dokumente auf entscheidsuche keine consideration-Anker tragen). BGer 4A_60/2026 und 4A_612/2025 existieren (über opencaselaw bestätigt), werden von entscheidsuche jedoch noch nicht geführt; die bisherigen Links auf bger-update.ch (Sekundärquelle) wurden deshalb durch den opencaselaw-Rückfall ersetzt und der Volltext von 4A_60/2026 dort geholt. Gesetzeswortlaut verbatim aus Fedlex (SR 220, Konsolidierung 1. Januar 2026). Nicht übernommen: das im früheren Text zitierte «BGE 125 III 285» (auf opencaselaw nicht auffindbar)."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Nachtrag BGer 4A_60/2026 und 4A_612/2025 zur Zulässigkeit der Kündigung bei Weigerung zur Covid-19-Impfung (kein Kündigungsmissbrauch)."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 12 gestützt (+0 teilw.) von 12 beurteilten Paaren (12 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-20
 description: "Rechtsprechungsübersicht zu Art. 3 ZGB — Systematisch geordnete Leitentscheide des Bundesgerichts und kantonale Rechtsprechung zur Vermutung des guten Glaubens, Sorgfaltsmassstab, Nachforschungspflichten und Ausschluss des Gutglaubensschutzes."
 tags: ["Rechtsprechung", "ZGB", "Guter Glaube", "Vermutung", "Beweislast", "Vertrauensschutz"]
-agent_verified: false
 revisions:
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul der Rechtsprechungsübersicht: 15 verifizierte Entscheide (10 BGE Leitentscheide, 3 Bundesgerichtsentscheide, 2 kantonale Entscheide) mit vollständiger Verlinkung und überprüften Pinpoints."
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "hermes-3"
-    mcp_verified: false
     note: "Alte Fassung"
 ---
 

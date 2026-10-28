@@ -5,22 +5,18 @@ date: 2026-08-15
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 342 StPO: Schuld- und Tatinterlokut als abschliessend geregelte Formen der Zweiteilung der Hauptverhandlung; Zuständigkeit von Verfahrensleitung und Gericht; Nichtanfechtbarkeit; persönliche Verhältnisse; Zweiteilung im Berufungsverfahren."
 tags: ["StPO", "Hauptverhandlung", "Zweiteilung", "Schuldinterlokut", "Tatinterlokut", "Tatfrage", "Schuldfrage", "Verfahrensleitung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-342.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 0 %). Vier halluzinierte Referenzen (BGE 140 IV 121, BGE 146 IV 374, BGE 148 IV 327, 7B_93/2021) und die erfundene Literaturliste gestrichen; falsche Revisionsangabe korrigiert (Abs. 1bis/1ter: BG vom 17. Juni 2022, in Kraft seit 1.1.2024). Neu gestützt auf BGE 151 IV 37, BGer 7B_1429/2025, BGer 6B_172/2011, BGer 1B_199/2020 und die Botschaft BBl 2019 6697."
   - date: 2026-08-15
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung KW33 — Gesetzestext via Fedlex MCP verifiziert; Leitentscheid 7B_1429/2025 (Präzisierung)."
 ---
 

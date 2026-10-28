@@ -5,22 +5,18 @@ date: 2026-07-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 61 StPO – Zuständigkeit (Verfahrensleitung)"
 tags: ["StPO", "Verfahrensleitung", "Zuständigkeit", "Staatsanwaltschaft", "Zwangsmassnahmengericht", "Gerichtsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-061.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-12
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "7B_1050/2026: Links von relevancy.bger.ch auf entscheidsuche.ch korrigiert; Erwägungsanker verifiziert (keine consideration-IDs im HTML, daher ohne Anker); Erwägungsnummern mit Volltext abgeglichen (E. 1.2.4, E. 2.3.1, E. 2.3.2, E. 2.3.3)"
   - date: 2026-10-08
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "7B_1050/2026 eingearbeitet: Art. 61 StPO regelt nur Verfahrensleitungszuweisung, nicht konkrete Vollzugsbefugnisse; negativer Kompetenzkonflikt begründet Beschwerdelegitimation der Staatsanwaltschaft; kantonale Organisationskompetenz für Sicherheitsvollzug"
   - date: 2026-08-13
     by: "Hermes Agent"

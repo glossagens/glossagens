@@ -5,17 +5,14 @@ date: 2026-07-02
 lastmod: 2026-09-09
 description: "Übersicht der Entscheide zu Art. 17 StGB (rechtfertigender Notstand), einschliesslich Notstandshilfe bei der Fluchthilfe (Art. 116 AIG)"
 tags: ["Rechtsprechung", "StGB", "Notstand", "Güterabwägung", "Notstandshilfe"]
-agent_verified: false
 revisions:
   - date: 2026-09-09
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Ergänzt um 9 Entscheide (BGE 146 IV 297 als bisher fehlender Leitentscheid zur Notstandshilfe; BGer 6B_368/2017, 6B_495/2016, 6B_200/2018, 6B_569/2012, 1C_345/2012, 6B_882/2021, 6B_7/2010, 6B_1356/2016), alle im Volltext via opencaselaw-MCP (get_case_brief/get_decision) verifiziert; nach Kategorien neu geordnet"
   - date: 2026-07-02
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: true
     note: "Erstanlage"
 ---
 

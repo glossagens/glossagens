@@ -4,22 +4,18 @@ weight: 108
 date: "2026-06-20"
 description: "Kommentar zu Art. 108 StPO – Einschränkungen des rechtlichen Gehörs: Voraussetzungen, Grenzen und nachträgliche Gewährung"
 tags: ["StPO", "rechtliches Gehör", "Einschränkung", "Geheimhaltungsinteresse", "Rechtsbeistand", "Parteiöffentlichkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-108.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 29 %). BGer 1B_467/2016 entfernt — der Entscheid erwähnt Art. 108 StPO kein einziges Mal, war aber als Beleg zu Abs. 2 geführt. Vier weitere Entscheide (6B_330/2016, 1B_404/2012, 1B_315/2014, 6B_256/2017) trugen Kernaussagen, die im Volltext nicht stehen; sie sind nach ihrem tatsächlichen Inhalt neu gefasst und den zutreffenden Absätzen zugeordnet. Pinpoints korrigiert: BGE 143 IV 457 E. 4 → E. 1, 6B_330/2016 E. 3 → E. 3.4.2, 1B_404/2012 E. 3 → E. 2.2 f., 1B_315/2014 E. 2 → E. 4.1 f., 6B_256/2017 E. 5 → E. 3.3. Das unbelegte Beispiel der Geschäftsgeheimnisse Dritter ist durch die tatsächlich entschiedenen Konstellationen ersetzt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 lastmod: 2026-10-15
 ---

@@ -5,17 +5,14 @@ date: 2026-07-12
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 14 StPO – Bezeichnung und Organisation der Strafbehörden."
 tags: ["Rechtsprechung", "StPO", "Behördenorganisation"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 37 %). Alle sechs Entscheide via opencaselaw-MCP im Volltext geprüft; Zitierformen wörtlich aus citation_string_de übernommen. BGE 138 IV 214 E. 1.2 als durch die StPO-Revision vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) überholt gekennzeichnet. Pinpoints berichtigt (E. 3.3 → E. 3.4 bzw. E. 3.6). Neu aufgenommen: BGE 142 IV 70 E. 4.2 f. sowie BStGer BG.2011.17, BG.2011.33 und BG.2011.4. Fehlender revisions-Block ergänzt."
   - date: 2026-07-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

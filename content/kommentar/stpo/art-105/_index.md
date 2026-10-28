@@ -5,17 +5,14 @@ date: 2026-10-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 105 StPO: Andere Verfahrensbeteiligte (Geschädigte, Anzeigende, Zeugen, Auskunftspersonen, Sachverständige, beschwerte Dritte), unmittelbare Betroffenheit nach Abs. 2, Umfang partieller Parteirechte (Gehör, Akteneinsicht, Rechtsmittel, unentgeltliche Rechtspflege) und Grenzziehung zur blossen Reflexwirkung bei Zwangsmassnahmen und Kontensperren."
 tags: ["StPO", "Andere Verfahrensbeteiligte", "Unmittelbare Betroffenheit", "Beschwerte Dritte", "Zeugen", "Auskunftsperson", "Akteneinsicht", "Beschwerdelegitimation", "Beschlagnahme", "Kontensperre"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-105.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Praxiskommentar zu Art. 105 StPO erstellt. Merkmalsbasierte Gliederung mit Prüfschema-Tabelle, plastischer Grenzkasuistik (u.a. BGE 137 IV 280, BGE 144 IV 299, BGE 145 IV 161, BGE 144 IV 17, BGE 143 IV 40, BGE 145 IV 491, BGer 6B_1383/2023 [Urteil vom 22. Januar 2026], BGer 1B_455/2022, BGer 6B_181/2023, BGer 1B_440/2021, BStGer TPF 2011 199, LU KG 2N 16 73, SG KG ZS.2014.11), kantonalen Praxisfragen und adressatenbezogenen Praxishinweisen."
 ---
 

@@ -5,27 +5,22 @@ date: 2026-08-29
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 754 OR – Aktienrechtliche Organhaftung des Verwaltungsrats, der Geschäftsleitung und faktischer Organe; historische Kontinuität (Art. 674 aOR / Art. 754 aOR 1936); Business Judgment Rule; Schadenstypen und Geltendmachung im Konkurs."
 tags: ["OR", "Aktienrecht", "Verantwortlichkeit", "Organhaftung", "Verwaltungsrat", "Business Judgment Rule", "Faktische Organschaft", "Konkursverschleppung", "Differenzierte Solidarität"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau zum Praxiskommentar gemäss Benchmark-Standard: Dogmatisches Prüfschema 1:1 mit den Abschnitten A bis I harmonisiert; Ergänzung der Gesetzesmaterialien (BBl 1983 II 745, BBl 2017 399); Vertiefung der Judikaturdivergenzen zu faktischer Organschaft, Business Judgment Rule bei Unterlassungen und Konkursverschleppungsschaden; Korrektur und Verifikation sämtlicher Entscheidsuche-Links."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-754.json), inkl. Fussnoten."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ausbau zum Praxiskommentar: Historische Gesetzesgrundlagen, Prüfschema-Tabelle, narrative Aktenkasuistik, kantonale Praxisfragen und Praxishinweise."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstfassung des Kommentars und der Rechtsprechungsübersicht zu Art. 754 OR."
 ---
 

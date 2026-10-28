@@ -5,7 +5,6 @@ date: 2026-08-21
 lastmod: 2026-08-21
 description: "Empirische Auswertung der publizierten Praxis zur Strafzumessung nach Art. 165 StGB — 25 im Volltext ausgewertete Entscheide, 14 belegte Strafwerte, gespiegelt am Dispositiv."
 tags: ["Strafzumessung", "StGB", "Misswirtschaft", "Praxisauswertung"]
-agent_verified: true
 auswertungsstand: 2026-08-21
 entscheide_ausgewertet: 25
 strafwerte_belegt: 14
@@ -13,7 +12,6 @@ revisions:
   - date: 2026-08-21
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Übernahme des Praxiskommentars von strafzumessung.ch: 25 im Volltext ausgewertete Entscheide, 14 belegte Strafwerte, gespiegelt am Dispositiv."
 ---
 

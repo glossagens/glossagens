@@ -5,22 +5,18 @@ date: 2026-09-02
 lastmod: 2026-09-12
 description: "Übersicht der Entscheide zu Art. 110 StPO — Form der Eingaben: Schriftlichkeit und eigenhändige Unterschrift, elektronische Einreichung, Formfreiheit sowie Rückweisung ungebührlicher und weitschweifiger Eingaben, mit dem jeweils zugrunde liegenden Sachverhalt."
 tags: ["Rechtsprechung", "StPO", "Form", "Unterschrift", "Elektronische Eingabe", "Ungebührlichkeit", "Weitschweifigkeit", "Nachfrist"]
-agent_verified: true
 revisions:
   - date: 2026-09-12
     by: "Antigravity"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Nachgetragen: BGer 7B_165/2026 jetzt auf entscheidsuche.ch verfügbar; Links von opencaselaw-Fallback auf entscheidsuche.ch umgestellt."
   - date: 2026-09-02
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Nachtrag BGer 7B_165/2026 vom 5. August 2026 (Fünferbesetzung) und BGer 7B_487/2025 vom 24. September 2025. 7B_165/2026 nuanciert den Anwendungsbereich: Art. 110 StPO gilt analog, wo die Staatsanwaltschaft als Rechtssuchende an ein Gericht gelangt (Entsiegelungsgesuch), während 6B_700/2025 nur das verfahrensleitende Handeln der Strafbehörde von Abs. 2 ausnimmt; Abschnitt A entsprechend in drei Unterabschnitte umgebaut. 7B_487/2025 ergänzt das Ausstandsgesuch nach Art. 58 Abs. 1 StPO. Der Volltext von 7B_165/2026 wurde über opencaselaw geholt und die verwendeten Zitate zusätzlich gegen die amtliche Fassung auf bger.ch geprüft; entscheidsuche.ch führt den Entscheid noch nicht, daher ausnahmsweise Rückfall-Verlinkung auf opencaselaw."
   - date: 2026-09-02
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstanlage. Jeder Entscheid wurde im Volltext über entscheidsuche.ch (fetch_document) geholt; die Kernaussagen sind wörtlich aus dem Entscheidtext übernommen oder eng daran gebildet. Erwägungsanker nur bei BGE-Dokumenten, da die BGer- und BStGer-Dokumente auf entscheidsuche keine `consideration`-Anker bzw. PDF-Format haben. Schlussattest: Wortlaut korrekt (Fedlex); alle 20 Bundesentscheide über opencaselaw als existierend bestätigt; 135 von 138 wörtlichen Zitaten maschinell gegen die entscheidsuche-Volltexte verifiziert, die drei übrigen einzeln von Hand (Fehlschlag nur wegen eingeschobener Seitenumbruchmarken). Vier Zitate wurden dabei korrigiert (Kasus/ausgelassenes Wort) und zwei Auslassungen mit […] gekennzeichnet. Offen bleiben zwei Werkzeugbefunde ohne Sachgehalt: audit.py meldet die kantonalen und Bundesstrafgerichtsentscheide als «halluziniert», weil ihre Zitierform von opencaselaws citation_string abweicht (die close_matches weisen sie aus), und die Pinpoints BGE 142 I 10 E. 2.4.1–2.4.9 als nicht auflösbar, weil opencaselaw für diesen BGE nur die Erwägung «2» führt; die Erwägungsnummern sind im publizierten Text belegt (Anker consideration_2.4.x auf entscheidsuche)."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-07-17
 lastmod: 2026-09-25
 description: "Übersicht der Leitentscheide des Bundesgerichts sowie kantonaler Obergerichte und des Bundesstrafgerichts zu Art. 371 StPO: Verhältnis von Neubeurteilungsgesuch und Berufung gegen das Abwesenheitsurteil."
 tags: ["Rechtsprechung", "StPO", "Abwesenheitsverfahren", "neue Beurteilung", "Berufung", "Subsidiarität", "Sistierung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide des Bundesgerichts

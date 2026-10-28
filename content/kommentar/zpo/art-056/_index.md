@@ -5,22 +5,18 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 56 ZPO (Gerichtliche Fragepflicht): Voraussetzungen, Schranken (Verhandlungsmaxime, Gleichbehandlung), anwaltliche Vertretung, Novenrecht und kantonale Praxisfragen."
 tags: ["ZPO", "Fragepflicht", "Verhandlungsmaxime", "Klarstellung", "Ergänzung", "Rechtspflege"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-056.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit: Gesetzeswortlaut via Fedlex-MCP (Stand 01.07.2026) verifiziert; Zitate und Erwägungen via entscheidsuche/swiss-caselaw lückenlos geprüft; Typofixes und Praxisfragen strukturiert"
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuanlage; Gesetzestext via Fedlex, Entscheide via opencaselaw geprüft, Belege gegen den Entscheidtext verifiziert"
 ---
 

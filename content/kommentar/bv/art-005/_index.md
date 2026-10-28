@@ -5,27 +5,22 @@ date: 2026-05-24
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 5 BV — Legalitätsprinzip (Normstufe, Bestimmtheit, Polizeigeneralklausel), öffentliches Interesse und Verhältnismässigkeit, Treu und Glauben (Behörden und Private), Vorrang des Völkerrechts (Schubert-Praxis)"
 tags: ["BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Vertrauensschutz", "Völkerrecht", "Rechtsstaatlichkeit"]
-agent_verified: false
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Umfassender Ausbau, praxisorientiert: Abs. 1 (Normstufe, Delegation, Bestimmtheit, Polizeigeneralklausel), Abs. 2 (Dreiteilung, Abwägung, Kognition), Abs. 3 (Vertrauensschutz-Voraussetzungen, Rechtsmittelbelehrung, Rügeobliegenheit der Privaten), Abs. 4 (Vorrang des Völkerrechts, Schubert-Praxis, Menschenrechtsausnahme). Alle neuen Belege gegen den Volltext der Entscheide (entscheidsuche.ch) abgeglichen; Gesetzestext per Shortcode. Der Prüflauf mit audit.py steht aus (opencaselaw nicht erreichbar), deshalb mcp_verified: false."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 12 %, Urteil C): Belegapparat vollständig neu aufgebaut. Sechs der zwölf zitierten Referenzen existierten nicht (BGE 139 I 228, 140 I 192, 142 I 173, 144 I 233, 145 I 139, 145 I 89); die sechs existierenden trugen die ihnen zugeschriebenen Aussagen nicht. Ersetzt durch Entscheide, deren Belegtheit einzeln über check_claim_support geprüft ist."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — Belegapparat beim Audit vom 2026-08-11 als unbelegt verworfen"
 ---
 

@@ -5,28 +5,22 @@ date: "2026-08-21"
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 163 StGB: Fiktive Vermögensverminderung, Beiseiteschaffen und Verheimlichen von Vermögenswerten, Vorfeldhandlungen vor Konkurs, Auskunftspflicht nach Art. 91 SchKG und Reichweite von Art. 323 StGB sowie die objektiven Strafbarkeitsbedingungen."
 tags: ["StGB", "Betrügerischer Konkurs", "Pfändungsbetrug", "fiktive Vermögensverminderung", "Zwangsvollstreckung", "Auskunftspflicht", "Verlustschein"]
-agent_verified: true
-mcp_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO / Art. 336 OR: Dogmatisches Prüfschema als Gliederungsgerüst, zweiseitige Grenzkasuistik (u.a. BGE 102 IV 172, BGE 107 IV 175, BGE 148 IV 170, BGer 6B_126/2026, 6B_1133/2023, 6B_447/2021, 6B_1172/2013), tabellarische Gegenüberstellung von Ungehorsam (Art. 323 StGB) vs. Pfändungsbetrug (Art. 163 StGB) vs. Sachbeschlagverfügung (Art. 169 StGB), kantonale Praxisfragen zum Ausschluss von Art. 172ter StGB (OGer ZH SB170368) und zur Strafzumessungsstreuung sowie adressatenbezogene Praxishinweise für Verteidigung, Gläubiger und Behörden."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-163.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-22"
     by: "Antigravity"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Audit & Anreicherung: Halluzinierte Zitate bereinigt; Belegapparat mit 14 verifizierten Leitentscheiden neu strukturiert."
   - date: "2026-08-21"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Neuerstellung (Erstfassung)"
 ---
 

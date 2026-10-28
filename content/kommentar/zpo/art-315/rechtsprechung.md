@@ -5,12 +5,10 @@ date: 2026-09-02
 lastmod: 2026-09-02
 description: "Übersicht der Entscheide zu Art. 315 ZPO — Aufschiebende Wirkung der Berufung, Ausnahmen bei vorsorglichen Massnahmen, Kindeswohl bei Obhutswechsel und Ausschluss des Replikrechts bei Dringlichkeit."
 tags: ["Rechtsprechung", "ZPO", "Aufschiebende Wirkung", "Vorsorgliche Massnahmen", "Kindeswohl", "Replikrecht"]
-agent_verified: true
 revisions:
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstanlage der Rechtsprechungsseite zu Art. 315 ZPO mit 11 verifizierten Bundesgerichtsentscheiden inkl. Leitentscheid BGer 5A_763/2026."
 ---
 

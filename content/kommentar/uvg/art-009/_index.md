@@ -5,17 +5,14 @@ date: 2026-10-14
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 9 UVG: Listenstoffe und arbeitsbedingte Erkrankungen nach Abs. 1 (50%-Schwelle, Kausalitätsvermutung, Asbest, Lärmschwerhörigkeit, Covid-19 im Spital), Generalklausel nach Abs. 2 (75%-Schwelle, relatives Risiko RR ≥ 4, Gonarthrose, Epikondylitis, psychische Erkrankungen) sowie Ausbruchszeitpunkt, Versicherungsdeckung und Beweisrecht nach Abs. 3."
 tags: ["UVG", "Unfallversicherung", "Berufskrankheiten", "Listenstoffe", "Generalklausel", "Kausalitätsvermutung", "Asbest", "Gonarthrose", "Covid-19", "Lärmschwerhörigkeit", "Epikondylitis", "Suva"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung von Art. 9 UVG als vollwertiger Praxiskommentar im Standard von Art. 110 StPO und Art. 336 OR: Dogmatisches Grundgerüst entlang der Tatbestandsmerkmale mit vorangestellter Prüfschema-Tabelle. Detaillierte Kasuistik zu den Listenstoffen (Abs. 1), zur Generalklausel (Abs. 2) und zum Ausbruchszeitpunkt (Abs. 3) mit belegten Sachverhalten. Ausgewertet und im Volltext geprüft: BGE 150 V 460, BGE 126 V 183, BGE 119 V 200, BGE 114 V 109, BGE 133 V 421, BGE 117 V 354, BGE 125 V 456 sowie BGer 8C_71/2022, 2C_373/2021 und kantonale Entscheide ZH SVG UV.2024.00109, ZH SVG UV.2022.00114, ZH SVG UV.2009.00279, SG VSG UV 2022/54, SG VSG UV 2020/86 und ZH SVG UV.2004.00333. Gesetzeswortlaut verbatim nach Fedlex (SR 832.20, Stand 1. Januar 2026)."
 ---
 

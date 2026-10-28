@@ -5,27 +5,22 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 24 VwVG: Fristwiederherstellung — Unverschuldetes Hindernis, Vertretungsverschulden, 30-tägige Gesuchsfrist, Nachholung der Rechtshandlung und Kasuistik."
 tags: ["VwVG", "Frist", "Fristwiederherstellung", "unverschuldetes Hindernis", "Vertretungsverschulden", "Kostenvorschuss", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Fristwiederherstellung (Art. 24 VwVG), unverschuldetes Hindernis (BGE 119 II 86), Zurechnung von Anwalts- und Kanzleiversehen (BGE 143 I 284; BGer 2C_535/2024), Auslandzustellung (BGE 144 II 401), Kostenvorschuss-Wiederherstellung (BGer 1C_491/2008) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Gesetzestext-Korrektur"
   - date: 2026-05-23
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-06-07
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 2 EMRK — Recht auf Leben: Schutzpflichten des Staates, positives und negatives Recht auf Leben, Todesstrafenverbot"
 tags: ["EMRK", "Recht auf Leben", "Todesstrafe", "Schutzpflicht", "Lebensrecht", "EGMR"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 0.101 vom 2022-09-16 (data/wortlaut/emrk/art-002.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Sonderfall: Artikel zitiert fast ausschliesslich EGMR ueber hudoc.echr.coe.int -- der Audit-Parser dieses Repos erkennt nur BGE/BGer-Zitierlagen und meldete faelschlich '0 Paare' (Parser-Blindfleck, kein Freispruch). Manuell verifiziert: BGE 141 I 81 fabriziert (kein close_match, cite exists:false), ersetzt durch BGE 147 I 494 (Suizid Untersuchungshaft, Ermaechtigung Strafverfolgung -- exakt einschlaegig). Makaratzis-Aktenzeichen war falsch (50349/99 statt 50385/99, ueber Kreuzzitate in mehreren echten EGMR-Entscheiden bestaetigt). Wortlaut-Warnung als Fehlalarm verifiziert (Formatierungsartefakt gegen Fedlex, wie bei Art. 3/5/8 EMRK). EGMR-Fallnamen sind echte bekannte Leitentscheide, aber Anwendungsnummern ausserhalb des Schweiz-skopierten opencaselaw-Bestands nicht durchgehend verifizierbar -- agent_verified bleibt deshalb false."
 ---
 

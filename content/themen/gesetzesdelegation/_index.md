@@ -13,12 +13,10 @@ normen:
   - { gesetz: bv, art: art-036 }
   - { gesetz: bv, art: art-127 }
 stichworte: ["Gesetzesdelegation", "Gewaltenteilung", "Legalitätsprinzip", "Delegationsnorm", "Gesetz im formellen Sinn", "Verordnungsrecht", "gesetzesvertretende Verordnung", "Vollziehungsverordnung", "Subdelegation", "Blankodelegation", "Normstufe", "Normdichte"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Gesetzesdelegation. Normtexte Art. 164, 182, 36 und 127 BV per {{< wortlaut >}} aus der amtlichen Fedlex-Konsolidierung (scripts/wortlaut.py). Alle Entscheide (BGE 102 Ia 62, BGE 103 Ia 369, BGE 106 Ia 254, BGE 118 Ia 245, BGE 126 I 180, BGE 128 I 113, BGE 130 I 1, BGE 131 II 13, BGE 133 II 331, BGE 141 II 169, BGE 144 II 454, BGE 147 I 478) als Volltext über entscheidsuche.ch verifiziert; Erwägungsnummern, Anker und jedes wörtliche Zitat gegen den Volltext abgeglichen."
 ---
 

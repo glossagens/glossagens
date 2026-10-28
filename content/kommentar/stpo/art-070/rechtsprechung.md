@@ -5,12 +5,10 @@ date: 2026-10-10
 lastmod: 2026-10-10
 description: "Übersicht der Leitentscheide und kantonalen Urteile zu Art. 70 StPO: Einschränkungen und Ausschluss der Justizöffentlichkeit, Opferschutz, Schutzauflagen an Berichterstatter, Raumkapazität und Vertrauenspersonen."
 tags: ["Rechtsprechung", "StPO", "Justizöffentlichkeit", "Öffentlichkeitsausschluss", "Opferschutz", "Medienfreiheit", "Gerichtsberichterstattung"]
-agent_verified: true
 revisions:
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Rechtsprechungsübersicht mit 16 verifizierten Entscheiden zu Art. 70 StPO (5 Leitentscheide, 11 weitere Bundesgerichts-, Bundesstrafgerichts- und Obergerichtsentscheide) mit Volltextlinks auf entscheidsuche.ch."
 ---
 

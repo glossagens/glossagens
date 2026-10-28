@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 30 StPO – Trennung und Vereinigung von Strafverfahren."
 tags: ["Rechtsprechung", "StPO", "Verfahrenseinheit", "Verfahrenstrennung"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 30 StPO — Trennung und Vereinigung von Strafverfahren

@@ -5,7 +5,6 @@ date: "2026-07-17"
 lastmod: "2026-07-17"
 description: "Übersicht der Entscheide zu Art. 367 StPO: Durchführung und Entscheid im Abwesenheitsverfahren."
 tags: ["Rechtsprechung", "Abwesenheitsverfahren", "Verteidigung", "Parteivortrag"]
-agent_verified: false
 ---
 
 ## Bundesgerichtsentscheide (BGE)

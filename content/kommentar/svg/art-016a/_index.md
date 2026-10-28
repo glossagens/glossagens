@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Kommentar zu Art. 16a SVG: Definition der leichten Widerhandlung (geringe Gefahr und leichtes Verschulden kumulativ), Verwarnung als Sanktion, Entzug bei Rückfall innerhalb von zwei Jahren, besonders leichte Fälle."
 tags: ["SVG", "Strassenverkehrsrecht", "Führerausweisentzug", "leichte Widerhandlung", "Verwarnung", "Administrativmassnahme"]
-agent_verified: true
 revisions:
   - date: 2026-08-08
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung — Gesetzestext via Fedlex MCP (SR 741.01 Art. 16a), Leading Cases via OCL cite verifiziert (BGE 135 II 138, BGE 132 II 234, BGE 136 II 447, BGE 139 II 95)."
 ---
 

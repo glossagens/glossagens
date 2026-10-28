@@ -5,32 +5,26 @@ date: 2026-06-13
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 49 StGB: Echte vs. unechte Konkurrenz, Asperationsprinzip bei gleichartigen Strafen (Abs. 1), konkrete Methode, hypothetische Einsatzstrafe, dreistufige Gesamtstrafenbildung (Einsatzstrafe, Asperation, Täterkomponenten), Verbot der Einheitsstrafe, Kumulation ungleichartiger Strafen, Obergrenzen (50 % und Strafartmaxima), retrospektive Konkurrenz und Zusatzstrafenbildung (Abs. 2), Zäsurwirkung des Ersturteils, Taten vor Vollendung des 18. Altersjahrs (Abs. 3), Kasuistik und Praxishinweise."
 tags: ["StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Retrospektive Konkurrenz", "Einsatzstrafe", "Einheitsstrafe", "Kumulationsprinzip", "Dreistufigkeit", "Täterkomponenten", "Begründungspflicht", "Allgemeiner Teil", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_287/2026 (Untreue/Urkundenfälschung, Strafzumessung bei Konkurrenzen): Neuer Abschnitt 2a zur dreistufigen Gesamtstrafenbildung (Einsatzstrafe → Asperation → Täterkomponenten) mit Kasuistik zur Vermengung von Tat- und Täterkomponenten; Erweiterung der Kasuistiktabelle; Ergänzung des Abschnitts E (Begründungspflicht) um Punkt 4 (methodische Dreistufigkeit) und deliktsbezogene Begründung der Strafartwahl; alle Zitate via entscheidsuche.ch verifiziert (Volltextabruf)."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR, Art. 47 StGB): Dogmatisches Gerüst strikt nach den Tatbestandsmerkmalen und Prüfungsstufen gegliedert; vorangestelltes systematisches Prüfschema; narrative Aktenkasuistik mit zweiseitiger Grenzkasuistik (Angewandt vs. Verworfen) zu echter vs. unechter Konkurrenz (BGE 123 IV 113, BGE 129 IV 53, BGE 137 IV 113, BGE 126 IV 80), zur konkreten Methode und zum Einheitsstrafenverbot (BGE 144 IV 217, BGE 144 IV 313), zur Kumulationsobergrenze (BGE 143 IV 145), zur Zäsurwirkung des Ersturteils (BGE 138 IV 113), zur Differenzmethode bei Zusatzstrafen (BGE 142 IV 265, BGE 145 IV 1, BGE 137 IV 57); Auswertung aktueller kantonaler Praxis (ZH OG SB250457 vom 02.02.2026, ZH OG SB240466 vom 07.04.2026, AG OG SST.2025.237 vom 19.05.2026, BE OG SK 2025 203 vom 11.12.2025, BS APG SB.2025.39 vom 09.01.2026, SO OG STBER.2025.19 vom 03.12.2025, GR KG SR1 2025 21 vom 04.05.2026); Kasuistik- und Schwellenwerttabellen ohne Code-Fences; kantonale Praxisfragen und taktische Praxishinweise nach Rollen; alle Zitate via entscheidsuche.ch belegt; Gesetzeswortlaut verbatim nach Fedlex (Stand 12. Juni 2026)."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung: BGE 144 IV 313, BGE 144 IV 217, BGE 142 IV 265, BGE 137 IV 57; alle Links durch entscheidsuche.ch ersetzt."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuaufbau nach Audit."
 ---
 

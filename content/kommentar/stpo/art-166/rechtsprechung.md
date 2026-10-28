@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 166 StPO — Einvernahme der geschädigten Person"
 tags: ["Rechtsprechung", "StPO", "geschädigte Person", "Zeugeneinvernahme", "rechtliches Gehör"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

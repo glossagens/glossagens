@@ -5,12 +5,10 @@ date: 2026-09-09
 lastmod: 2026-09-09
 description: "Übersicht der Rechtsprechung zu Art. 30 StGB: Antragsberechtigung, Träger des Rechtsguts, Vertretung im Willen, gesetzliche Vertretung Handlungsunfähiger, KESB, urteilsfähige Minderjährige, Übergang auf Angehörige bei Tod sowie Endgültigkeit und Nichtigkeit des Verzichts."
 tags: ["Rechtsprechung", "StGB", "Strafantrag", "Antragsberechtigung", "Vertretung", "Verzicht", "KESB"]
-agent_verified: false
 revisions:
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht zu Art. 30 StGB angelegt. Sämtliche Urteile im Volltext über entscheidsuche.ch gesichtet und verifiziert."
 ---
 

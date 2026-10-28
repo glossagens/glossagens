@@ -5,12 +5,10 @@ date: 2026-09-18
 lastmod: 2026-09-18
 description: "Übersicht der Entscheide zu Art. 117 StPO – Stellung des Opfers: Gleichstellung der Angehörigen mit Zivilansprüchen (BGE 139 IV 89, BGE 139 IV 121), Grenze im Strafpunkt und Rechtsnachfolge (BGer 7B_1289/2025), Opferschutz und Konfrontationsregime (BGer 6B_1358/2016, BGer 7B_470/2024, BStGer BB.2025.45) sowie Belehrung und Gehör (SG AK.2023.558-AK, BGE 141 IV 20, ZG OGer BS 2024 14)."
 tags: ["Rechtsprechung", "StPO", "Opfer", "Angehörige", "Privatklägerschaft", "Zivilansprüche", "Opferschutz"]
-agent_verified: true
 revisions:
   - date: 2026-09-18
     by: "Claude Code"
     model: "glm-5.3-flash"
-    mcp_verified: true
     note: "Erstfassung der Rechtsprechungsübersicht mit 11 via opencaselaw-MCP verifizierten Entscheiden (4 BGE, 4 BGer, 1 BStGer, 2 kantonale); Entscheide-Links verbatim von entscheidsuche.ch übernommen, Anker-Pinpoints gegen die Dokumente geprüft (PDFs ohne Anker)."
 ---
 

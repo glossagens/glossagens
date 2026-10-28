@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Rechtsprechung zu Art. 108 ZPO: Unnöige Prozesskosten, Verursacherprinzip, Drittbetroffenheit, vorwerfbares Verhalten, Verhaeltnis zu Art. 106-107 ZPO."
 tags: ["Rechtsprechung", "ZPO", "Unnöige Prozesskosten", "Verursacherprinzip", "Drittbetroffenheit", "Kostenverteilung"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Ersterstellung; 4 BGEs via entscheidsuche verifiziert und verlinkt."
 ---
 

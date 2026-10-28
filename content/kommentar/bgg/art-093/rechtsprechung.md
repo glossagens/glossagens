@@ -5,12 +5,10 @@ date: 2026-07-09
 lastmod: 2026-09-08
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 93 BGG – Vor- und Zwischenentscheide, nicht wieder gutzumachender Nachteil (lit. a), Verfahrensökonomie (lit. b)"
 tags: ["Rechtsprechung", "BGG", "Zwischenentscheid", "nicht wieder gutzumachender Nachteil", "Verfahrensökonomie"]
-agent_verified: false
 revisions:
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht mit 25+ verifizierten BGE- und BGer-Entscheiden, Bereinigung der Links auf entscheidsuche.ch und detaillierten Sachverhaltsabstracts."
 ---
 

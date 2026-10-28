@@ -5,17 +5,14 @@ date: 2026-08-16
 lastmod: 2026-10-03
 description: "Übersicht der Rechtsprechung zu Art. 22 VwVG — Erstreckung behördlicher Fristen und Nichterstreckbarkeit gesetzlicher Fristen."
 tags: ["Rechtsprechung", "VwVG", "Fristerstreckung"]
-agent_verified: false
 revisions:
   - date: 2026-10-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung der Rechtsprechungsübersicht auf 15 verifizierte Entscheide (5 BGE-Leitentscheide, 10 Bundesgerichts-, BVGer- und kantonale Entscheide) mit vollständigen Abstracts, Kernaussagen und entscheidsuche.ch-Links."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuanlage mit über check_claim_support verifizierten Entscheiden."
 ---
 

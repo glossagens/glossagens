@@ -13,12 +13,10 @@ normen:
   - { gesetz: bv, art: art-189 }
   - { gesetz: bv, art: art-043a }
 stichworte: ["Gemeindeautonomie", "relativ erhebliche Entscheidungsfreiheit", "Rechtsetzungsautonomie", "Anwendungsautonomie", "Organisationsautonomie", "Finanzautonomie", "Planungsautonomie", "Zweistufige Prüfung", "Kognition", "Angemessenheitskontrolle", "Ermessensüberschreitung", "Art. 50 BV", "Art. 89 Abs. 2 lit. c BGG"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Gemeindeautonomie (Typ institution). Normtexte Art. 50, 43a und 189 BV sowie Art. 89 BGG per {{< wortlaut >}} aus der amtlichen Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 11 Leitentscheide (BGE 93 I 154, BGE 93 I 427, BGE 135 I 43, BGE 136 I 404, BGE 141 I 36, BGE 142 I 177, BGE 143 I 272, BGE 143 II 553, BGE 144 I 193, BGE 145 I 52, BGE 146 I 36, BGE 147 I 136) als HTML-Volltext von entscheidsuche.ch verifiziert; Erwägungsnummern, Anker (#consideration_...) und jedes wörtliche Zitat gegen die Volltexte abgeglichen."
 ---
 

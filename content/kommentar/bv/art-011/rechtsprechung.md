@@ -5,17 +5,14 @@ date: 2026-05-24
 lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 11 BV — Tragweite des Kindesschutzes, Justiziabilität der beiden Teilgehalte, Bindung der Rechtsanwendung"
 tags: ["Rechtsprechung", "BV", "Kinder", "Jugendliche", "Kindesschutz", "Kindeswohl"]
-agent_verified: false
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Sämtliche Entscheidblöcke der Vorfassung entfernt — kein einziges Belegpaar war gestützt. Neu aufgebaut auf BGE 126 II 377 E. 5 (Grundsatzentscheid), BGE 144 II 233 E. 8.2.1 und BGE 143 I 21 E. 5.5.4."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — beim Audit vom 2026-08-11 vollständig als unbelegt verworfen"
 ---
 

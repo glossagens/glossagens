@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Rechtsprechung zu Art. 55 ZPO: Behauptungslast, Substantiierungspflicht, Bestreitungslast, Verhandlungsmaxime, Untersuchungsgrundsatz, Fragepflicht nach Art. 56 ZPO."
 tags: ["Rechtsprechung", "ZPO", "Verhandlungsgrundsatz", "Behauptungslast", "Substantiierung", "Bestreitungslast", "Fragepflicht", "Untersuchungsmaxime"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Ersterstellung; 6 BGEs und 3 BGer-Entscheide via entscheidsuche verifiziert und verlinkt."
 ---
 

@@ -5,32 +5,26 @@ date: 2026-08-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 115 SchKG: Pfändungsurkunde als Verlustschein und provisorischer Verlustschein — Definitiver Verlustschein, Arrestgrund, paulianische Anfechtung, Neuauftreibungspfändung, Pfändungsanschluss, Grenzkasuistik."
 tags: ["SchKG", "Pfändung", "Verlustschein", "Pfändungsurkunde", "provisorischer Verlustschein", "Neuauftreibungspfändung", "Arrestgrund", "Anfechtungsklage", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-115.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-8 überarbeitet und vertieft, Rz. 9-13 (Kasuistik) zu Grenzkasuistik Rz. 9-16 umstrukturiert (Kosten/Zustellung, Rechtsöffnungswirkung, Ausgleichskassen, amtliche Schätzung, Nichtigkeit des Verlustscheins, Nachpfändungsfrist, Pfändungsanschluss); Praxisfragen ergänzt; BGE 150 III 223, BGE 115 III 138, BGE 125 III 337, BGE 105 III 60, BGE 96 III 111, BGE 88 III 59 vertieft und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von definitivem und provisorischem Verlustschein, Kosten und Zustellung (BGE 150 III 223), Rechtsöffnungswirkung (BGE 115 III 138), Neuauftreibungspfändung (BGE 125 III 337) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung nach Audit"
 ---
 

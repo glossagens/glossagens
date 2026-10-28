@@ -5,7 +5,6 @@ date: 2026-05-31
 lastmod: 2026-05-31
 description: "Leitentscheide zu § 4 des Gesetzes über die Verwaltungsrechtspflege des Kantons Luzern"
 tags: ["Rechtsprechung", "VRG LU", "Entscheid", "Luzern"]
-agent_verified: false
 ---
 
 # Rechtsprechung zu § 4 VRG LU

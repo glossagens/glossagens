@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-09-07
 description: "Übersicht der Rechtsprechung zu Art. 319 OR — Begriff des Einzelarbeitsvertrags: Leitentscheide des Bundesgerichts zu Subordination, Plattformarbeit, Organstellung, Arbeit auf Abruf und Schiedsklauseln sowie ausgewählte Entscheide kantonaler Gerichte."
 tags: ["Rechtsprechung", "OR", "Arbeitsvertrag", "Einzelarbeitsvertrag", "Subordination", "Arbeitsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau zur Praxiskommentar-Rechtsprechungsseite. Gliederung in I. Leitentscheide des Bundesgerichts (10 BGEs) und II. Weitere Entscheide (BGer und kantonale Obergerichte). Jeder Entscheid mit Sachverhalt, Kernaussage und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 85 % (Urteil A); 7 gestützt (+3 teilw.) von 10 beurteilten Paaren (10 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

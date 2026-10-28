@@ -5,22 +5,18 @@ date: 2026-05-29
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 305ter StGB: Mangelnde Sorgfalt bei Finanzgeschäften — Pflicht zur Feststellung des wirtschaftlich Berechtigten (Abs. 1), Berufsmässigkeit und Melderecht an die MROS (Abs. 2)."
 tags: ["StGB", "Geldwäscherei", "Sorgfaltspflicht", "Finanzintermediär", "Wirtschaftlich Berechtigter", "MROS", "Melderecht", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte Zitate entfernt (BGer 6B_776/2016, BGer 6B_1056/2016, BGE 146 IV 211); dubiose kantonale Zitate entfernt (ZH Obergericht SB180414, SB190089); BGer 6B_942/2024 ergänzt (Präzisierung BGE 129 IV 329); Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

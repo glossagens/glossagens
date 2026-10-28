@@ -5,17 +5,14 @@ date: 2026-09-25
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 283 ZPO: Grundsatz der Einheit des Scheidungsurteils, Voraussetzungen für ein Scheidungsteilurteil (BGE 144 III 298, BGer 5A_582/2026), Verweisung des Güterrechts (Abs. 2) und des Vorsorgeausgleichs bei Auslandsbezug (Abs. 3) in ein separates Verfahren sowie kantonale Praxis."
 tags: ["ZPO", "Familienrecht", "Scheidungsverfahren", "Scheidungsfolgen", "Einheit des Entscheids", "Teilurteil", "Güterrechtliche Auseinandersetzung", "Vorsorgeausgleich", "Eheschliessungsfreiheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-283.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung von Art. 283 ZPO: Systematische Einordnung des Grundsatzes der Urteilseinheit, umfassende dogmatische Aufbereitung der Voraussetzungen für den Vorabausspruch der Scheidung (BGE 144 III 298) unter Einarbeitung der neuesten Leitpraxis BGer 5A_582/2026 vom 18.08.2026 (Präzisierung: keine Durchbrechung der Einheit bei blosser langer Verfahrensdauer ohne konkretes Wiederheiratsprojekt; strikte Trennung von Rechtsmittelzulässigkeit und materieller Begründetheit), Verweisung des Güterrechts nach Abs. 2 (Koordination mit Art. 125 ZGB gemäss BGE 130 III 537) und des Vorsorgeausgleichs nach Abs. 3 sowie Behandlung dreier kantonaler Praxisfragen."
 ---
 

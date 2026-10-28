@@ -5,17 +5,14 @@ date: 2026-05-09
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 140 StPO – Verbotene Beweiserhebungsmethoden"
 tags: ["Rechtsprechung", "StPO", "Beweisverwertungsverbot", "verbotene Beweiserhebung", "nemo tenetur"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 38 %). Zwei Doppelführungen aufgelöst (BGer 6B_210/2021 = BGE 148 IV 205; BGer 6B_525/2024 = BGE 151 IV 73). Drei Fehlzuschreibungen berichtigt und dokumentiert. Alle Erwägungsangaben ergänzt — die Seite führte zuvor keinen einzigen Pinpoint. Neu aufgenommen: BGE 146 IV 226, BGE 146 I 11, BGer 6B_786/2015. Fehlender revisions-Block ergänzt; agent_verified auf true."
   - date: 2026-05-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

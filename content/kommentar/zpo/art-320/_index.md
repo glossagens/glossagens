@@ -5,27 +5,22 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 320 ZPO: Beschwerdegründe im Zivilprozess — Unrichtige Rechtsanwendung, offensichtlich unrichtige Sachverhaltsfeststellung (Willkür) und Kasuistik."
 tags: ["ZPO", "Beschwerde", "Beschwerdegründe", "Rechtsanwendung", "Willkür", "Sachverhaltsfeststellung", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-320.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Gegenüberstellung von Rechtsanwendung (BGE 147 III 176) und Willkürkognition beim Sachverhalt (BGE 138 III 232), Kognitionsüberschreitung (BGer 5A_160/2021) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 7 % → 100 %, Urteil A)"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 7 % (Urteil C); 0 von 15 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

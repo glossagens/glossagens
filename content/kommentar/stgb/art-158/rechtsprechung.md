@@ -5,37 +5,30 @@ date: 2026-06-07
 lastmod: "2026-10-16"
 description: "Übersicht der Rechtsprechung zu Art. 158 StGB — Ungetreue Geschäftsbesorgung: Churning, Retrozessionen, unterlassene Verlustmeldung, missachtete Anlagebeschränkungen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Vermögensschaden, Geschäftsführerstellung, Missbrauch der Vertretungsmacht, Liquidatorpflichtverletzung, Bereicherungsabsicht."
 tags: ["Rechtsprechung", "StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Informationspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung von BGer 6B_355/2026 vom 28.09.2026 (ungetreue Geschäftsbesorgung bei Vermögensverwaltung): unterlassene Verlustmeldung und missachtete vertragliche Anlagebeschränkungen (Risikolimite, Kapitalschutz) als Pflichtwidrigkeit; Schaden durch Pflichtwidrigkeit verursacht/verschärft (nicht blosse Marktentwicklung); Eventualvorsatz; Volltext via bger.ch verifiziert, Pinpoints E. 2.3.3/2.4.3/2.5.3 aus Originaltext bestätigt; entscheidsuche führt BGer-Entscheid noch nicht (nur Vorinstanz GR_KG), daher Link auf bger.ch."
   - date: 2026-09-26
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Korrektur von BGer 7B_57/2025: Dogmatische Zuordnung zu Art. 158 Ziff. 2 StGB und Art. 146 StGB (nicht Ziff. 1 Abs. 3); Sachverhalt mit TIR-Carnet-Kontext; Link auf entscheidsuche.ch korrigiert."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "BGer-Update: Ergänzung von BGer 7B_57/2025 vom 26.08.2026 zur Bereicherungsabsicht bei verdeckten Retrozessionen (Fehlen des persönlichen Bereicherungsvorsatzes bei Verbleib der Gelder im Gesellschaftsvermögen)."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau als praxisorientierte Rechtsprechungsübersicht: 18 verifizierte Entscheide mit konkreten Sachverhalten, Kernaussagen und Erwägungsankern; neue Entscheide BGer 6B_431/2024 (Retrozessionen/54 Kunden), BGer 6B_804/2025 (Liquidator/Antrag), BGer 6B_986/2023 (Veruntreuung + ungetreue Geschäftsbesorgung), BGer 7B_1361/2024 (Gläubigerschädigung); alle Links via entscheidsuche.ch."
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Erheblicher Ausbau: 14 verifizierte Entscheide mit konkreten Sachverhalten und Kernaussagen; neue Abschnitte zu Churning, Retrozessionen, Einpersonen-AG, überschuldeten Gesellschaften, Schmiergeldern und Missbrauch der Vertretungsmacht."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: 3 fehlerhafte Referenzen bereinigt; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

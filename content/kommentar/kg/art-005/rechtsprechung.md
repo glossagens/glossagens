@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Übersicht der Leitentscheide und weiteren Gerichtsentscheide zu Art. 5 KG — Unzulässige Wettbewerbsabreden."
 tags: ["Rechtsprechung", "KG", "Wettbewerbsabreden", "Kartellrecht", "GABA", "BMW", "Submissionsabreden"]
-agent_verified: false
 revisions:
   - date: 2026-10-19
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechung zu Art. 5 KG mit 13 ausgewerteten und via entscheidsuche.ch verifizierten Entscheiden."
 ---
 

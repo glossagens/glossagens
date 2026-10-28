@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 182 StPO — Voraussetzungen für den Beizug einer sachverständigen Person"
 tags: ["Rechtsprechung", "StPO", "Sachverständiger", "Gutachten"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

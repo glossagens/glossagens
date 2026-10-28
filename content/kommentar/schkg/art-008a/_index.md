@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 8a SchKG: Einsichtsrecht in Protokolle, Register und Akten, Glaubhaftmachung des Interesses bei Vertragsschluss, Nichtbekanntgabe ungerechtfertigter Betreibungen (Nichtigkeit, gerichtliche Aufhebung, Rückzug, Art. 8a Abs. 3 lit. d SchKG nach Rechtsvorschlag), Revisionsrecht 2025/2026 und Fünfjahresfrist."
 tags: ["SchKG", "Einsichtsrecht", "Betreibungsregister", "Betreibungsauszug", "Nichtbekanntgabe", "Rechtsvorschlag", "Schikanebetreibung", "Zahlungsbefehl", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar zu Art. 8a SchKG gemäss Praxis-Standard (Muster Art. 110 StPO und Art. 336 OR). Gesetzeswortlaut über den Shortcode `wortlaut` aus der Fedlex-Konsolidierung SR 281.1 vom 1. Januar 2026 (data/wortlaut/schkg/art-008a.json) inkl. Revision AS 2025 522. Volltextverifikation sämtlicher Leitsätze und Sachverhalte gegen entscheidsuche.ch: BGE 147 III 544, BGE 147 III 41, BGE 147 III 486, BGE 135 III 503, BGE 126 III 476, BGE 125 III 334, BGE 141 III 281, BGE 130 III 42, BGE 142 III 648, BGer 5A_245/2024, BGer 5A_427/2024, BGer 5A_891/2015 sowie kantonale Entscheide (ZH OG PS250142, SG ABSK AB.2021.28-AS, BL KG 200-10-615)."
 ---
 

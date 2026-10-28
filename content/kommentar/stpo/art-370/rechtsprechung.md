@@ -5,17 +5,14 @@ date: 2026-07-17
 lastmod: 2026-09-25
 description: "Übersicht der Leitentscheide und kantonalen Urteile zu Art. 370 StPO: Neues Urteil nach Neubeurteilung, Anfechtbarkeit mit den üblichen Rechtsmitteln (Berufung/Beschwerde), resolutive Bedingung der Rechtskraft, Verfolgungsverjährung (BGE 146 IV 59), Sicherheitshaft (BGer 1B_478/2021) und kantonale Praxis."
 tags: ["Rechtsprechung", "StPO", "Abwesenheitsverfahren", "Neues Urteil", "Berufung", "Verjährung", "Resolutive Bedingung", "Sicherheitshaft", "Dahinfallen"]
-agent_verified: true
 revisions:
   - date: 2026-09-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsseite nach dem Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR). Gliederung in Leitentscheide und weitere kantonale Entscheide. Ausführliche Darstellung der Sachverhalte und Kernaussagen: BGE 146 IV 59 (Aufgabe der Ruhetheorie, Verjährung), BGE 148 IV 137 (keine Vorbefassung), BGer 6B_438/2017 (Rechtsmittelweg, Verwirkung), BGer 1B_478/2021 (Sicherheitshaft statt Strafvollzug), BStGer SK.2020.48 (Dahinfallen). Kantonale Entscheide aus BE (BK 2025 432, BK 2026 131, BK 2016 550, BK 2024 73), GR (SK1 2020 12), ZH (SB130394) und BL (460 22 35, 470 19 159). Sämtliche Links verbatim auf entscheidsuche.ch gesetzt; #consideration-Anker nur bei HTML-Dokumenten mit Erwägungsziffern."
   - date: 2026-07-17
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Erstaufnahme der Rechtsprechung zu Art. 370 StPO mit Kurzzitaten zu BGE 146 IV 59 und BGer 6B_438/2017."
 ---
 

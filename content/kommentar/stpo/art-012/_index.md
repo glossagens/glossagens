@@ -5,22 +5,18 @@ date: 2026-07-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 12 StPO – Strafverfolgungsbehörden"
 tags: ["StPO", "Strafverfolgungsbehörden", "Organisation", "Zuständigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-012.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 40 %). Neun Ausstandsentscheide waren als Belege zu Art. 12 StPO geführt; sieben davon erwähnen die Norm im gesamten Volltext nicht. Sie sind entfernt und durch die beiden echten Fundstellen ersetzt (1B_139/2018 E. 4.1: abgestufte Unparteilichkeitsanforderungen; 1B_405/2014 E. 4.2: Unabhängigkeit unter Vorbehalt der Weisungsbefugnisse). Art. 2 StPO berichtigt — der Behördenvorbehalt steht in Abs. 1, nicht Abs. 2. Art. 18 StPO als «Gerichte» berichtigt (ist das Zwangsmassnahmengericht). Grobraster-Zitat aus BGE 142 IV 70 korrigiert («Bund und Kantonen», nicht «den Kantonen») und Botschaft-Fundstelle von BBl 2006 1095 auf 1134 Ziff. 2.2.1.1 richtiggestellt. «Hilfsbehörde der Staatsanwaltschaft» durch den Gesetzeswortlaut ersetzt. Neu belegt: BGer 6B_1304/2018 E. 1.4."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

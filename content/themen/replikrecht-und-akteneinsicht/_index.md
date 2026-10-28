@@ -20,17 +20,14 @@ normen:
   - { gesetz: bgg, art: art-102 }
   - { gesetz: bgg, art: art-108 }
 stichworte: ["Replikrecht", "unbedingtes Replikrecht", "Akteneinsicht", "Aktenführungspflicht", "Waffengleichheit", "Rechtliches Gehör", "10-Tage-Regel", "Amtsberichte", "Star-Praxis", "Heilung"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung der aktuellen bundesgerichtlichen Rechtsprechung zur Akteneinsicht im Strafverfahren bei parallelen Zivil- und Verwaltungsverfahren (BGer 7B_742/2026 vom 24.09.2026, BGer 7B_1111/2026 vom 13.10.2026): Fehlender nicht wieder gutzumachender Nachteil nach Art. 93 Abs. 1 lit. a BGG, Schutzregime über Art. 73 Abs. 2, Art. 102 Abs. 1 und Art. 108 StPO sowie Parteistellung öffentlich-rechtlicher Körperschaften sui generis (Art. 104 Abs. 2 StPO)."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ grundlage, Querschnitt über Zivil-, Straf-, Verwaltungs- und Bundesgerichtspflege). Auswertung der massgeblichen Leitentscheide (BGE 115 V 297, BGE 133 I 100, BGE 137 I 195, BGE 138 I 484, BGE 138 V 218, BGE 140 I 99, BGE 142 III 48, BGE 144 II 427, BGE 144 III 117, BGE 146 III 97, BGE 147 I 433) sowie der aktuellen Praxis (EGMR B.K. c. Suisse vom 22.10.2026, BGer 1C_396/2026 vom 06.10.2026). Zitate, Links und Anker mit pruefen.py und build-check.sh maschinell verifiziert."
 ---
 

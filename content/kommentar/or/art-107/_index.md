@@ -5,22 +5,18 @@ date: 2026-06-27
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 107 OR: Voraussetzungen des Schuldnerverzugs bei synallagmatischen Verträgen, Anforderungen an die Nachfristsetzung und deren Angemessenheit, fruchtloser Fristablauf, das dreifache Wahlrecht des Gläubigers (Realerfüllung, positives Erfüllungsinteresse, Rücktritt mit negativem Interesse) sowie das Erfordernis der unverzüglichen Wahlerklärung — mit der Kasuistik der Gerichte zu jeder Fallgruppe."
 tags: ["OR", "Verzug", "Schuldnerverzug", "Nachfrist", "Wahlrecht", "Rücktritt", "Schadenersatz", "Erfüllungsinteresse", "synallagmatischer Vertrag"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR): Prüfschema-Tabelle der Tatbestandsmerkmale, zweiseitige Grenzkasuistik (bejaht vs. verneint) mit narrativen Lebenssachverhalten aus der Rechtsprechung (u.a. BGE 143 III 495, BGE 123 III 16, BGE 116 II 436, BGE 105 II 28, BGE 103 II 102, BGE 116 II 441, BGE 114 II 152, BGE 120 II 296, BGE 136 III 273, BGE 126 III 230, BGE 107 II 50, BGer 4A_232/2011 sowie kantonalen Entscheiden HG ZH HG200129, AG OG HOR.2026.12 und ZH OG NP210021), Kasuistiktabelle zur Nachfristbemessung und Unverzüglichkeit, Offenlegung von Judikaturdivergenzen, kantonale Praxisfragen und Praxishinweise nach Adressatenrollen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-107.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 61 % (Urteil B); 30 gestützt (+25 teilw.) von 70 beurteilten Paaren (73 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 2 fehlerhafte Pinpoints."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-07-11
 lastmod: 2026-09-14
 description: "Übersicht der Leitentscheide und Bundesgerichtsurteile zu Art. 118 StPO – Begriff und Voraussetzungen der Privatklägerschaft, Formularpraxis, Vorverfahrensabschluss, Hinweispflicht und Rechtsnachfolge"
 tags: ["Rechtsprechung", "StPO", "Privatklägerschaft", "Geschädigte Person", "Parteistellung", "Strafantrag", "Vorverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht zu Art. 118 StPO im Rahmen des Praxiskommentar-Ausbaus. Alle Links auf entscheidsuche.ch aktualisiert und gegen Volltexte geprüft. Aufnahme von BGer 6B_95/2025 (Heilung Hinweispflicht), 1B_446/2018 (Formularpraxis), 6B_481/2014 (Vorbehalt von Zivilansprüchen), SG KG AK.2023.558-AK (Verzicht bei Sprachbarrieren), BE OG BK 2025 403 (Sozialversicherer) und Vertiefung der Leitentscheide BGE 140 IV 155, 138 IV 248, 139 IV 102, 141 IV 380, 142 IV 82 und 140 IV 162."
 ---
 

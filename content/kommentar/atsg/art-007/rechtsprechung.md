@@ -5,12 +5,10 @@ date: 2026-06-06
 lastmod: 2026-08-28
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 7 ATSG: Erwerbsunfähigkeit, ausgeglichener Arbeitsmarkt, Selbsteingliederung und Überwindbarkeit."
 tags: ["Rechtsprechung", "ATSG", "Erwerbsunfähigkeit", "Arbeitsunfähigkeit", "Invalidität", "Einkommensvergleich"]
-agent_verified: true
 revisions:
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

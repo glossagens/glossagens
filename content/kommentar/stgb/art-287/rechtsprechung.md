@@ -5,22 +5,18 @@ date: 2026-07-31
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 287 StGB — Amtsanmassung: rechtswidrige Absicht, Amtsbegriff, Konkurrenzen und Ermächtigungsverfahren."
 tags: ["Rechtsprechung", "StGB", "Amtsanmassung", "Rechtswidrige Absicht", "Amtsbegriff", "Beamtenbegriff", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 7 BGer-Entscheide und 2 kantonale Entscheide via entscheidsuche.ch verifiziert; BGE 128 IV 164 (Beanstandungsrapport, Freispruch), BGer 6B_358/2020 (Ladendetektiv), BGer 6B_560/2008 (Notar nach Befugnisverlust), BGer 1C_439/2021 (Amtsbegriff), BGer 1C_23/2021 (dualer Schutzcharakter), BGer 6S.337/2001 (rechtswidrige Absicht), BGer 1C_599/2012 (Ermächtigungsverfahren); kantonale Zitate SZ und OW auf entscheidsuche.ch verifiziert; LU OG 1992 58 nicht auf entscheidsuche, entfernt; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der fiktiven Referenz BGer 6B_786/2025; 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

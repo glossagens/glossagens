@@ -5,17 +5,14 @@ date: 2026-06-08
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 3 AsylG (Flüchtlingsbegriff, Verfolgungsgründe, ernsthafte Nachteile, Schutztheorie, Wehrdienstverweigerung und Nachfluchtgründe) mit Grenzkasuistik und Verfahrensleitlinien."
 tags: ["AsylG", "Flüchtlingsbegriff", "Flüchtlingseigenschaft", "Verfolgungsmotive", "GFK", "Ernsthafte Nachteile", "Frauenspezifische Fluchtgründe", "Schutztheorie", "Innerstaatliche Fluchtalternative", "Wehrdienstverweigerung", "Eritrea", "Nachfluchtgründe"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Gesetzeskommentar gemäss Standard-Benchmark (Art. 110 StPO, Art. 336 OR). Merkmalsbezogene Gliederung entlang des Prüfschemas, Einarbeitung der gesetzgeberischen Ratio Legis (BBl 1996 II 1, BBl 2010 4455, BBl 2014 7991), umfassende Grenzkasuistik (BVGE 2011/51, BVGE 2015/3, BVGE 2017 VI/1, BVGE 2013/12, BVGE 2010/9, BVGE 2024 VII/1 u.a.), Gegenüberstellungstabellen ohne Code-Fences, Offenlegung von Praxisänderungen (Eritrea-Rechtsprechung) und Aufnahme kantonaler Praxisfragen sowie rollenspezifischer Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Umstellung auf den Shortcode wortlaut."
 ---
 

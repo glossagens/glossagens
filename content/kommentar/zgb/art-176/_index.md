@@ -5,27 +5,22 @@ date: 2026-09-01
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 176 ZGB entlang der Tatbestandsmerkmale: Voraussetzungen der Haushaltsaufhebung und Unmöglichkeit des Zusammenlebens (Abs. 1 und 2), Unterhaltsbemessung nach der zweistufigen Methode mit Überschussverteilung (hypothetisches Einkommen, Schulstufenmodell, Erwerbsobliegenheit, gebührender Unterhalt, Konkubinat, Mankotragung, Sparquote), Zuteilung von Wohnung und Hausrat, Anordnung der Gütertrennung und die Kinderbelange des Abs. 3 (Obhut, alternierende Obhut, Betreuungsanteile) — mit den Sachverhalten der publizierten Praxis und den Praxishinweisen."
 tags: ["ZGB", "Familienrecht", "Eheschutz", "Getrenntleben", "Unterhalt", "hypothetisches Einkommen", "Schulstufenmodell", "Überschussverteilung", "Mankotragung", "Konkubinat", "Wohnungszuteilung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut", "Kindeswohl", "Offizialmaxime", "Art. 98 BGG"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 5A_254/2026 vom 30.09.2026: Striktes Begründungserfordernis bei Abweichung vom Schulstufenmodell (Art. 176 Abs. 1 Ziff. 1 ZGB, Art. 29 Abs. 2 BV). Anrechnung eines hypothetischen Einkommens bei alternierender Obhut und Sekundarschulalter der Kinder; blosser Verweis auf das Eheschutzstadium rechtfertigt kein reduziertes Pensum."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-176.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Hermes Agent"
     model: "deepseek-v4.1-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar im Format von Art. 110 StPO und Art. 336 OR: Gliederung entlang der Tatbestandsmerkmale (Haushaltsaufhebung, Antragserfordernis, Unterhalt, Wohnung/Hausrat, Gütertrennung, Kinderbelange, Verfahrensgrundsätze); Prüfschema-Tabelle als Inhaltsverzeichnis; durchgehend auf geschilderte Sachverhalte umgestellt; drei echte Judikaturdivergenzen offengelegt (Mankotragung, Erwerbsobliegenheit, Eigentum als Zuteilungskriterium). Gesetzeswortlaut verbatim aus Fedlex (SR 210, Konsolidierung 1.7.2026); Nebennormen (Art. 173, 175, 179, 276a ZGB; Art. 271, 272, 276 ZPO) ebenfalls verbatim aus Fedlex. Entscheide im Volltext geprüft via opencaselaw (get_case_brief/get_erwaegung) und entscheidsuche.ch: BGE 120 II 1, BGE 128 III 4, BGE 128 III 65, BGE 129 III 417, BGE 130 III 537, BGE 135 III 66, BGE 138 III 97, BGE 140 III 485, BGE 142 III 518, BGE 142 III 612, BGE 142 III 617, BGE 144 III 502, BGE 151 III 261, BGE 116 II 21, BGE 114 II 18, BGE 115 II 297, BGE 133 III 393; BGer 5A_766/2008, 5A_417/2011, 5A_188/2018, 5A_848/2014, 5A_945/2014, 5A_561/2024, 5A_639/2025, 5A_1048/2019, 5A_972/2013, 5A_20/2016, 5A_72/2016, 5P.328/2005, 5A_266/2015, 5A_904/2015. Botschaft BBl 2014 529 (Kindesunterhalt) ausgewertet. Alle Linkziele als verbatim document_url/attachment.content_url aus entscheidsuche.ch übernommen und auf HTTP 200 geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 176 ZGB mit BGE 142 III 518, BGE 128 III 4 sowie Einarbeitung von BGer 5A_639/2025 (Arbeitsunfähigkeit, ärztliche Atteste und Leistungsfähigkeit im Eheschutz)."
 ---
 

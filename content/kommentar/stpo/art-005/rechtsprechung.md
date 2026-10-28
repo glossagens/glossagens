@@ -5,17 +5,14 @@ date: 2026-05-09
 lastmod: 2026-09-24
 description: "Übersicht der massgeblichen Leitentscheide und Urteile zu Art. 5 StPO: Kaskade der Rechtsfolgen, Stillstandszeiten, Ordnungsfristen, Rügeobliegenheiten und Haftbeschleunigung."
 tags: ["Rechtsprechung", "Beschleunigungsgebot", "Haftverfahren", "Verfahrensdauer", "Strafreduktion", "Haftentlassung"]
-agent_verified: true
 revisions:
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung der Rechtsprechungsübersicht um Leitentscheide und Urteile zur Haftbeschleunigung (7B_985/2025, 1B_299/2015, 7B_480/2025), zur Kaskade und Begründungspflicht (7B_279/2022, 6B_176/2017) sowie zur Fristendogmatik (6B_893/2025, 6B_1345/2021)."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstaufnahme Rechtsprechung"
 ---
 

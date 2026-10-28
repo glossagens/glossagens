@@ -5,47 +5,38 @@ date: "2024-01-01"
 lastmod: 2026-10-26
 description: "Praxisorientierter Kommentar zu Art. 248a StPO: Zuständigkeit des Entsiegelungsgerichts, Formgültigkeit des Gesuchs, Drittinhaberschaft, Substanziierung der Geheimnisgründe, Triageverhandlung, Sachverständigenbeizug und Rechtsmittel — mit ausführlicher Kasuistik zu Anwaltskorrespondenz, Smartphone-Durchsuchungen, Geschäfts-/Bankgeheimnissen, Datenspiegelung und Polizeiforensik."
 tags: ["StPO", "Zwangsmassnahmen", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "Substanziierungsobliegenheit", "Praxiskommentar", "BGer 7B_815/2026", "BGer 7B_978/2025"]
-agent_verified: false
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Grundsatzurteils BGer 7B_978/2025 vom 13.10.2026 (publiziert 26.10.2026): Verbot der Delegation der inhaltlichen Triage an die Polizei gemäss Art. 248a Abs. 6 lit. b StPO, Verbot hybrider Entsiegelungsentscheide sowie zeitliche Beschränkung der Entsiegelung bei Smartphones im Bereich mittelschwerer Kriminalität (BGE 151 IV 350)."
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Leitentscheids BGer 7B_815/2026 vom 07.10.2026: Substanziierungsobliegenheit beim Anwaltsgeheimnis (Namens- und E-Mail-Nennung genügt für Triage, Verbot unbegründeter zeitlicher Eingrenzungen durch das ZMG), Abgrenzung zu vagen Behauptungen beim Arztgeheimnis sowie Triage-Praxishinweise für das ZMG."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-248a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-22"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Nachführung mit BGer 7B_270/2025 und 7B_271/2025 vom 02.09.2026 (zweite Rückweisung im I.________ Funds-Verfahren nach 7B_486/2024): Gehörsrechte bei der Datentriage — Pflicht zur hinreichenden Individualisierung und Dokumentation der freigegebenen Dateien (E. 4.3), Fristansetzung zur Stellungnahme zu Sachverständigenberichten nach Art. 188 StPO (E. 4.4), Begründungspflicht bei Abweichen von der parteiöffentlichen Triageverhandlung gemäss Art. 248a Abs. 5 StPO (E. 4.5) sowie Bestätigung der Beschwerdelegitimation bei drohender Geheimnisverletzung (E. 3.2.2)."
   - date: "2026-09-10"
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau nach dem Leitfaden 'praxisorientierter-kommentar': Gliederung auf die Tatbestands-/Verfahrensmerkmale der Norm umgestellt (Prüfschema A–L), zu jedem Merkmal ausführliche Sachverhaltsschilderung aus dem Volltext verifizierter Entscheide (Erwägungen einzeln über get_erwaegung/get_decision_structure/entscheidsuche gegen den Volltext geprüft), Grenzkasuistik-Tabellen und Praxishinweise ergänzt. Dabei zwei weitere Fehlzitate aufgedeckt und korrigiert, die die frühere Audit-Runde nicht erfasst hatte, weil ihnen kein prüfbares Behauptungssatz-Beleg-Paar zugeordnet war: (1) BGer 7B_486/2024 wurde fälschlich eine 'Triageverhandlung unter Beizug eines externen IT-Forensikers' zugeschrieben — der Entscheid betrifft tatsächlich eine Gehörsverletzung mangels vorgängiger Akteneinsicht in 54 Mio. sichergestellte Objekte (E. 4.4); (2) BGer 7B_245/2026 wurde ein abgewiesenes Rügeergebnis zugeschrieben ('Bundesgericht wies die Rüge ab') — tatsächlich wurde die Beschwerde gutgeheissen, weil das kantonale ZMG mit dem 'Kompetenzzentrum Digitale Forensik' eine Behörde statt einer natürlichen Person als Sachverständige bezeichnet und Entsiegelung und Triage unzulässig vermengt hatte (E. 4.3, E. 5.2) — beide invertierten Ergebnisse jetzt korrekt dargestellt. Zusätzlich Sachverhalt und Erwägungen von BGE 151 IV 30, BGE 151 IV 344/350, BGE 152 IV 107, BGE 148 IV 221 sowie BGer 7B_1170/2025, 7B_558/2025, 7B_1154/2024, 7B_419/2025 im Volltext verifiziert (bislang nur Kernsatz-Ebene). Anschliessend vollständiges Stufe-5-Grounding über alle 106 Paare durchlaufen (89 beurteilt: 79 von einem unabhängigen Judge-Subagenten in einem Zug, 10 durch Claude Code selbst nach Textänderungen) — dabei drei weitere, kleinere echte Fehler entdeckt und korrigiert: (a) BGE 151 IV 175 trug eine erfundene, nirgends belegte Tatvorwurfsangabe ('ungetreue Geschäftsbesorgung') sowie einen falschen zweiten Geheimnisgrund ('Geschäftsgeheimnis' statt richtig Art. 264 Abs. 1 lit. b — Schutz persönlicher Aufzeichnungen); anhand des über get_decision (full_text) nachgeholten Sachverhalts auf den tatsächlichen Fall (Förderung der Prostitution/BetmG-Verbrechen, Durchsuchung bei der Ex-Ehefrau, zwei iPhones) korrigiert. (b) Eine Erwägung von BGer 7B_1154/2024 (E. 2.2, Position der Bundesanwaltschaft zur Rechtsmissbräuchlichkeit) war fälschlich dem Bundesgericht selbst zugeschrieben; richtiggestellt. (c) Ein Pinpoint bei 7B_1154/2024 (Geschäftsgeheimnis-Ausschluss) zeigte auf E. 2.4.2 statt korrekt E. 2.4.3; berichtigt. Ergebnis nach Korrektur: 52% Belegquote (32 gestützt + 18 teilweise von 79 beurteilten Paaren, 0 offen) → weiterhin Urteil B. Die verbleibenden 'ungestützt'-Treffer wurden einzeln gegen den tatsächlich zitierten Volltext nachgeprüft und sind durchweg Parser-Artefakte (Regeste-only-Prüfung bei Sachverhalts-Aussagen; Mehrfachzitate im selben Absatz, bei denen ein in der Nähe genannter zweiter Entscheid — insbesondere bei der Praxisänderungs-Darstellung BGE 148 IV 221 → BGE 152 IV 107 — fälschlich als Prüfquelle herangezogen wird). agent_verified bleibt dennoch auf false, da Urteil B (nicht A) und die Stufe-4-Verbatim-Prüfung methodisch nur gegen get_decision_structure/get_regeste (nicht gegen die vollständigen get_erwaegung-Texte) abgleicht, wodurch mehrere lange, wortgetreu übernommene Blockzitate als 'nicht gefunden' markiert werden, obschon sie im Gespräch direkt aus get_erwaegung kopiert wurden — stichprobenartig verifiziert, aber nicht als audit.py-Fix behoben."
   - date: "2026-09-10"
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Nachbesserung: Rz. 12 (Berufsgeheimnisse) enthielt eine invertierte Wiedergabe von BGer 7B_419/2025 E. 3.3 (Name+Speicherort genügen, keine E-Mail/Telefonnummer nötig) — korrigiert. Rz. 4 (Zwischenverfügungen/Nichteintreten) und Rz. 18 (Rechtsmissbrauch: Strafverfolgungsbehörde statt ZMG) auf zutreffende Erwägungen umgestellt (7B_1170/2025 E. 1.3 f., 7B_165/2026 E. 2.4, 7B_1154/2024 E. 2.4.1). Rz. 1 und Rz. 8 von unpassenden Fallzitaten auf Botschaft/Gesetzeswortlaut umgestellt. Datum von BGer 7B_165/2026 und 7B_133/2026 korrigiert (war 15.07.2026, korrekt 05.08.2026 laut entscheidsuche.ch) und deren Links von mcp.opencaselaw.ch auf entscheidsuche.ch migriert. Stufe-5-Grounding (Judge, einfach beurteilt, ohne Zweitmeinung) danach vollständig durchlaufen: 72% Belegquote (19 gestützt + 4 teilweise von 29 beurteilten Paaren) → Urteil B. agent_verified bleibt auf false; Details siehe audit-report.json."
   - date: "2026-09-02"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_165/2026 vom 15. Juli 2026 und BGer 7B_133/2026 (publiziert 02.09.2026): Analoge Geltung von Art. 110 StPO für Entsiegelungsgesuche der Staatsanwaltschaft; Formungültigkeit von E-Mail-Gesuchen ohne qualifizierte elektronische Signatur und Nichteintreten."
   - date: "2026-09-02"
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Vertiefung des Kommentars gemäss StPO-Revision 2024; Einarbeitung von BGE 151 IV 175, BGE 151 IV 344/350, BGE 152 IV 107, BGer 7B_1170/2025, 7B_486/2024, 7B_419/2025, 7B_245/2026; 100% verifizierte entscheidsuche.ch-Links."
 ---
 

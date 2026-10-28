@@ -5,22 +5,18 @@ date: "2026-06-28"
 lastmod: "2026-08-09"
 description: "Rechtsprechungsübersicht zu Art. 163 ZGB – Unterhaltspflicht der Ehegatten: BGE-Entscheide thematisch geordnet"
 tags: ["ZGB", "Ehegattenunterhalt", "Rechtsprechung", "BGE", "Unterhaltspflicht"]
-agent_verified: true
 revisions:
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um 8 weitere BGE-Entscheide (jetzt ≥15 OCL-verifizierte Zitationen); neue Sektionen G–L"
   - date: "2026-07-17"
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ergänzung um BGer 5A_599/2026"
   - date: "2026-06-28"
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterstellung"
 ---
 

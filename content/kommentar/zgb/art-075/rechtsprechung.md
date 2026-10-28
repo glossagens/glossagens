@@ -5,12 +5,10 @@ date: 2026-09-04
 lastmod: 2026-09-04
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Urteile zu Art. 75 ZGB — Anfechtung von Vereins- und Stockwerkeigentümerbeschlüssen."
 tags: ["Rechtsprechung", "ZGB", "Vereinsrecht", "Anfechtungsklage", "Vereinsbeschluss", "Stockwerkeigentum", "Verwirkungsfrist"]
-agent_verified: false
 revisions:
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Rechtsprechungsübersicht zu Art. 75 ZGB erstellt. 15 Entscheide im Volltext über entscheidsuche.ch verifiziert und verlinkt."
 ---
 

@@ -21,12 +21,10 @@ normen:
   - { gesetz: emrk, art: art-003 }
   - { gesetz: emrk, art: art-005 }
 stichworte: ["Untersuchungshaft", "Sicherheitshaft", "Haftgründe", "Ersatzmassnahmen", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "qualifizierte Wiederholungsgefahr", "Electronic Monitoring", "Zwangsmassnahmengericht", "Champ-Dollon", "notwendige Verteidigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren, Querschnitt StPO/BV/EMRK). Fristen- und Phasenablauf nach Art. 224 ff. StPO strukturiert. BGE-Leitentscheide (BGE 137 IV 92, 137 IV 122, 140 IV 19, 140 IV 74, 141 IV 190, 142 IV 29, 143 IV 316, 143 IV 330, 145 IV 503, 150 IV 149) und aktuelle Praxis der II. strafrechtlichen Abteilung (BGer 7B_1035/2024, 7B_1311/2026) ausgewertet und verlinkt; Zitate, Links und Anker mit pruefen.py verifiziert."
 ---
 

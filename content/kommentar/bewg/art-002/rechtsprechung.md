@@ -5,12 +5,10 @@ date: 2026-07-31
 lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 2 BewG — Bewilligungspflicht, Betriebsstättengrundstück, Personalwohnungen, Hauptwohnung am Wohnsitz, Widerruf von Auflagen, Verhältnis zur Zweitwohnungsbeschränkung"
 tags: ["Rechtsprechung", "BewG", "Lex Koller", "Bewilligungspflicht", "Betriebsstätte", "Hauptwohnung", "Widerruf"]
-agent_verified: false
 revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

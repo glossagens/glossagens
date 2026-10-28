@@ -5,12 +5,10 @@ date: "2026-07-12"
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 34 StPO — Durch Begehungsort bestimmte Zuständigkeit"
 tags: ["Rechtsprechung", "StPO", "Zuständigkeit", "Gerichtsstand", "Verfahrenseinheit"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 34 %). Alle 25 Entscheide verifiziert; Erwägungsangaben zu BGE 138 IV 214 und BGE 144 IV 217 ergänzt; fehlender revisions-Block eingefügt."
 ---
 

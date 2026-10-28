@@ -5,17 +5,14 @@ date: 2026-10-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 123 ZPO: Gesetzliche Nachzahlungspflicht bei unentgeltlicher Rechtspflege — Begriff der wirtschaftlichen Leistungsfähigkeit, Ermittlung des Überschusses, Anrechnung von Vermögen und Notgroschen, selbstgenutztes Wohneigentum, Mitwirkungsobliegenheit und Fiktion bei Säumnis, Streit um das Differenzhonorar des Rechtsanwalts, zehnjährige Verjährung und Kontroverse um die Hemmung durch Fristenstillstand."
 tags: ["ZPO", "Unentgeltliche Rechtspflege", "Nachzahlung", "Mittellosigkeit", "Notbedarf", "Notgroschen", "Verjährung", "Mitwirkungspflicht", "Differenzhonorar", "Allgemeine Bestimmungen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-123.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar. Gesetzeswortlaut verbatim nach Fedlex (SR 272, Konsolidierung 1. Juli 2026). Sämtliche Entscheide über entscheidsuche.ch im Volltext verifiziert und zitiert: BGE 142 III 131, BGE 138 II 506, BGE 135 I 91, BGE 135 I 221, BGer 2C_275/2020, 2C_412/2022, 2C_529/2016, 5A_438/2022, 2C_195/2016, 5D_147/2013, 4A_511/2015, sowie kantonale Gerichtsentscheide aus St. Gallen (SG KG FE.2019.16, FE.2022.2-4-EZE2), Zürich (ZH OG LE140062, WP220004, WP250008), Schwyz (SZ KG ZK2 2025 12) und Aargau (AG OG ZSU.2018.287 / AGVE 2018 Nr. 45). Offenlegung des Judikaturwiderspruchs zur Verjährungshemmung nach Art. 145 ZPO und des Lehrmeinungsstreits zum Differenzhonorar."
 ---
 

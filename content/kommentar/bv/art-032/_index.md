@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 32 BV: Unschuldsvermutung, Verteidigungsrechte, Selbstbelastungsprivileg, Rechtsmittelgarantie im Strafverfahren."
 tags: ["BV", "Grundrechte", "Unschuldsvermutung", "Strafverfahren", "Verteidigungsrechte", "in dubio pro reo", "nemo tenetur", "ne bis in idem"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-032.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 72 %, Urteil B): Keine erfundene Referenz. Fünf tote Pinpoints (durchwegs Abschnittszeiger) entfernt. BGE 141 I 124 war doppelt fehlzugeordnet: Die Aussage zur staatlichen Aufgabe der amtlichen Verteidigung steht dort in E. 4.1 und war BGE 129 I 129 zugeschrieben, während BGE 141 I 124 für das Anwaltsverschulden angeführt war. Erstmals revisions-Block; agent_verified von true auf false."
   - date: 2026-06-12
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 6 VwVG – Parteistellung"
 tags: ["Rechtsprechung", "VwVG", "Parteistellung", "Verwaltungsverfahren", "Beschwerdeberechtigung", "absolute Beschwer"]
-agent_verified: false
 revisions:
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C): 13 von 15 gelisteten Entscheiden existierten nicht (fabrizierte Bandnummer/Seite-Kombinationen); die zwei real existierenden (BGE 139 II 279, BGE 142 II 451) waren korrekt zugeordnet. Vollständig neu aufgebaut mit 9 verifizierten, thematisch einschlägigen Entscheiden; alle Links auf kanonisches mcp.opencaselaw.ch-Format umgestellt (Original nutzte durchwegs die veraltete bger.ch/ext/eurospider-Form, die vom Audit-Parser nicht erkannt wird)."
   - date: 2026-07-26
     by: "Hermes Agent"
     model: "unknown"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-07-27
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 5 ELG: Karenzfrist für Ausländer bei Ergänzungsleistungen, Flüchtlinge, Sozialversicherungsabkommen, rechtmässiger Aufenthalt."
 tags: ["ELG", "Ergänzungsleistungen", "Ausländerrecht", "Karenzfrist", "Sozialversicherung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.30 vom 2026-01-01 (data/wortlaut/elg/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

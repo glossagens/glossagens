@@ -5,12 +5,10 @@ date: 2026-07-10
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 408 StPO – Neues Urteil im Berufungsverfahren: Leitentscheide zu reformatorischer Natur, Urteilswirkung, Strafzumessungspflicht und Schranken."
 tags: ["Rechtsprechung", "StPO", "Berufungsverfahren", "Reformatorisches Urteil", "Strafzumessung"]
-agent_verified: false
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 BGer-Entscheide); alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 

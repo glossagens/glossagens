@@ -5,7 +5,6 @@ date: 2026-10-22
 lastmod: 2026-10-22
 description: "Übersicht der Rechtsprechung zu Art. 271 SchKG: Leitentscheide des Bundesgerichts und kantonale Praxis zu den Arrestgründen."
 tags: ["Rechtsprechung", "SchKG", "Arrest", "Arrestgründe"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

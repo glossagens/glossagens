@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Rechtsprechung zu Art. 2 GwG (Geltungsbereich, Finanzintermediation, Parabankensektor, Beraterinnen und Berater)."
 tags: ["Rechtsprechung", "GwG", "Geltungsbereich", "Finanzintermediäre"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Rechtsprechungsübersicht zu Art. 2 GwG mit Leitentscheiden und weiteren Entscheiden"
 ---
 

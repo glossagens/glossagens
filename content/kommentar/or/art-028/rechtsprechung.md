@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 28 OR — Absichtliche Täuschung bei Vertragsabschluss."
 tags: ["Rechtsprechung", "OR", "absichtliche Täuschung", "Willensmangel", "Aufklärungspflicht"]
-agent_verified: false
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechung zu Art. 28 OR mit 16 geprüften Bundesgerichts- und Kantonsgerichtsentscheiden im Volltext über entscheidsuche.ch."
 ---
 

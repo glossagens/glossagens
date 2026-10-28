@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-05-24
 description: "Übersicht der Entscheide zu § 201 VRG LU – Parteientschädigung"
 tags: ["Rechtsprechung", "VRG", "Parteientschädigung", "Luzern"]
-agent_verified: false
 ---
 
 ## Leitentscheide

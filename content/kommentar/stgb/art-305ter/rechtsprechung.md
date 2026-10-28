@@ -5,12 +5,10 @@ date: 2026-08-30
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 305ter StGB — Mangelnde Sorgfalt bei Finanzgeschäften: Identifikation des wirtschaftlich Berechtigten, VSB als Auslegungshilfe, Berufsmässigkeit, Dokumentationspflicht und Präzisierung der ergebnisorientierten Betrachtungsweise."
 tags: ["Rechtsprechung", "StGB", "Sorgfaltspflicht", "Geldwäscherei", "Finanzintermediär", "Wirtschaftlich Berechtigter", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 5 verifizierte BGE-Entscheide und 1 BGer-Entscheid via entscheidsuche.ch; BGE 125 IV 139 (VSB als Auslegungshilfe), BGE 129 IV 338 (Berufsmässigkeit), BGE 129 IV 329 (Ergebnisorientierung), BGE 136 IV 127 (Dokumentationspflicht), BGer 6B_942/2024 (Präzisierung); fabrizierte und irrelevante Zitate entfernt"
 ---
 

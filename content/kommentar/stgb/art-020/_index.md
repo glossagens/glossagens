@@ -5,17 +5,14 @@ date: 2026-06-13
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 20 StGB — Zweifelhafte Schuldfähigkeit: Begutachtungspflicht bei ernsthaften Zweifeln an der Schuldfähigkeit, Kriterien für den ernsthaften Anlass, Qualifikation des Sachverständigen und Bindungswirkung des Gutachtens."
 tags: ["StGB", "Schuldfähigkeit", "Begutachtung", "Gutachten", "psychiatrisches Gutachten", "verminderte Schuldfähigkeit", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: BGE 133 IV 145 (Leitentscheid, PTBS/IV-Rente begründen keine ernsthaften Zweifel), BGE 116 IV 273 (Kriterien für ernsthaften Anlass), BGE 144 IV 176 (Delegationsverbot), BGer 6B_1029/2019 (Spielsucht, kein Gutachten), BGer 6B_1363/2019 (Aufgabenverteilung Gutachter/Gericht), BGer 6B_1186/2019 (dissoziative Identitätsstörung), BGer 6B_515/2011 (Abweichung vom Gutachten), BGer 6B_1101/2013 (Verletzung von Art. 20), BGer 6B_417/2010 (keine Begutachtung angeordnet), BGer 6B_917/2008 (PTBS und Drogenabhängigkeit); alle Links durch entscheidsuche.ch ersetzt; Gesetzeswortlaut → Wortlaut korrigiert; falscher Leitentscheid-Bezug (BGE 129 IV 6 betrifft Nötigung/Verbotsirrtum, nicht Art. 20) entfernt"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Art. 20: Kurztitel korrigiert (Begutachtung→Zweifelhafte Schuldfähigkeit); Gesetzestext via Fedlex verifiziert"
 ---
 

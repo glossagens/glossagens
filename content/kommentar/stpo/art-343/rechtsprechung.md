@@ -5,12 +5,10 @@ date: "2026-07-17"
 lastmod: "2026-09-09"
 description: "Übersicht der Rechtsprechung zu Art. 343 StPO — Beweisabnahme durch das Gericht, Unmittelbarkeitsprinzip und Wiederholung von Beweisen"
 tags: ["Rechtsprechung", "StPO", "Beweisabnahme", "Unmittelbarkeitsprinzip", "Aussage gegen Aussage"]
-agent_verified: false
 revisions:
   - date: 2026-09-09
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsseite mit 13 ausgewerteten Leit- und Praxisentscheiden des Bundesgerichts und kantonaler Obergerichte inkl. Verlinkung auf entscheidsuche.ch."
 ---
 

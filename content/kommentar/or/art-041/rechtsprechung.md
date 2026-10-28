@@ -5,22 +5,18 @@ date: 2026-05-15
 lastmod: 2026-09-24
 description: "Wegweisende Entscheide des Bundesgerichts und der kantonalen Gerichte zu Art. 41 OR: Differenzhypothese, Verhaltens- und Erfolgsunrecht, Kausalität, Verschulden, Sittenwidrigkeitshaftung und kantonale Praxisfragen."
 tags: ["Rechtsprechung", "OR", "Haftpflichtrecht", "Deliktshaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach dem Glossagens-Standard: Systematische Gliederung in 8 Leitentscheide des Bundesgerichts und 7 weitere/kantonale Entscheide mit Sachverhalt und Kernaussage, Verifikation sämtlicher Fundstellen via entscheidsuche.ch."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 7 gestützt (+14 teilw.) von 25 beurteilten Paaren (25 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "6-Punkt-Verifikation: OCL-Links geprüft und korrigiert; check_claim_support durchgeführt; unsupported claims mit *Kontextzitat* qualifiziert; BGer-URLs auf korrektes Format korrigiert"
 ---
 

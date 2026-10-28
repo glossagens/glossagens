@@ -5,37 +5,30 @@ date: 2026-07-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 72 SchKG: Zustellung von Betreibungsurkunden — Zustellorgane, Zustellbescheinigung als öffentliche Urkunde, Beweiskraft, Gegenbeweis, Heilung, Ersatzzustellung, Briefkasteneinwurfverbot, öffentliche Bekanntmachung, Grenzkasuistik."
 tags: ["SchKG", "Zustellung", "Zahlungsbefehl", "Zustellbescheinigung", "Beweiskraft", "Gegenbeweis", "Ersatzzustellung", "Briefkasteneinwurfverbot", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-072.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–2 vertieft, Rz. 3 (Briefkasteneinwurfverbot nach BGE 117 III 7) neu, Rz. 5 (Beweiskraft und Zweifel an Zustellbescheinigung, BGer 5A_418/2017) vertieft, Rz. 6 (Gegenbeweis) ergänzt, Rz. 7–8 überarbeitet, Rz. 9 (Öffentliche Bekanntmachung) vertieft, Rz. 15–17 (Briefkasteneinwurfverbot, Abholungsgebühren, Zweifel an Zustellbescheinigung) neu in Grenzkasuistik; BGE 117 III 7, BGer 5A_418/2017, BGE 138 III 25, BGE 136 III 155, BGE 149 III 218 E. 2 integriert; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–6 überarbeitet und vertieft, Rz. 7–8 (Heilung, Ersatzzustellung und juristische Personen), Rz. 9 (Öffentliche Bekanntmachung), Rz. 10–14 (Grenzkasuistik: Zeugenbeweis, aufgelöste Adresse, Zivildienst, Zustellung an Bevollmächtigten, elektronische Zustellung), Praxisfragen ergänzt; BGer 5A_581/2025, BGer 5A_239/2025, BGer 5A_341/2025, BGer 5A_891/2023, BGer 5A_893/2023, BGE 120 III 117, BGE 128 III 101, BGE 127 III 173 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Zustellung, Beweiskraft der Zustellbescheinigung (BGE 120 III 117), Zulässigkeit des Zeugengegenbeweises (BGer 5A_581/2025), Heilung fehlerhafter Zustellungen (BGE 128 III 101) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-07-03
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung"
 ---
 

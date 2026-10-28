@@ -5,7 +5,6 @@ date: 2026-07-10
 lastmod: 2026-07-10
 description: "Übersicht der Entscheide zu Art. 396 StPO – Form und Frist der Beschwerde"
 tags: ["Rechtsprechung", "StPO", "Beschwerde", "Fristen"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 396 StPO — Form und Frist der Beschwerde

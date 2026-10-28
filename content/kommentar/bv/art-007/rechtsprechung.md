@@ -5,17 +5,14 @@ date: 2026-07-17
 lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 7 BV — Menschenwürde als Leitgrundsatz, medizinische Zwangsmassnahmen, Haftbedingungen, Nothilfe, Schuldhaft"
 tags: ["Rechtsprechung", "BV", "Menschenwürde", "Zwangsbehandlung", "Haftbedingungen", "Nothilfe"]
-agent_verified: false
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Entscheidblöcke der Vorfassung überwiegend entfernt — fünf Referenzen existierten nicht, BGE 139 I 121 betrifft Ausstandsrecht, weitere sieben Belege trugen die zugeschriebenen Kernaussagen nicht (3× contradicts). Neu aufgebaut aus einzeln geprüften Entscheiden."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitet — beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 

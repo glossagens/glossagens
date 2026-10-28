@@ -5,22 +5,18 @@ date: 2026-06-13
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 19 StGB — Schuldfähigkeit: alkoholbedingte Enthemmung, Strafzumessung bei verminderter Schuldfähigkeit, selbstständiges Massnahmeverfahren und actio libera in causa."
 tags: ["Rechtsprechung", "StGB", "Schuldfähigkeit", "Verminderte Schuldfähigkeit", "Schuldunfähigkeit", "Massnahmen", "Actio libera in causa", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 5 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 107 IV 3 (alkoholbedingte Enthemmung, Raubversuch), BGE 136 IV 55 (Strafzumessung), BGE 134 IV 132 (Strafrahmenverschiebung), BGE 143 IV 330 (Haftverfahren, Schuldfragen), BGE 147 IV 93 (selbstständiges Massnahmeverfahren); fabrizierte und irrelevante Zitate entfernt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,7 +5,6 @@ date: 2026-07-11
 lastmod: 2026-07-11
 description: "Übersicht der Entscheide zu Art. 159 StPO – Polizeiliche Einvernahmen im Ermittlungsverfahren"
 tags: ["Rechtsprechung", "StPO", "polizeiliche Einvernahme", "Verteidigung", "Teilnahmerecht"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

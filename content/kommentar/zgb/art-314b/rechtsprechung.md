@@ -5,17 +5,14 @@ date: 2026-05-10
 lastmod: "2026-08-19"
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 314b ZGB — Fürsorgerische Unterbringung von Kindern"
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "fürsorgerische Unterbringung"]
-agent_verified: false
 revisions:
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Makeover: 13 Entscheide mit verifizierten Fundstellen, Erwägungen und Abstracts strukturiert; attest_response ok"
   - date: "2026-08-10"
     by: "Claude Code"
     model: "minimax-m3"
-    mcp_verified: false
     note: "Frontmatter vereinheitlicht"
 ---
 

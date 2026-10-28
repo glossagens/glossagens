@@ -23,12 +23,10 @@ normen:
   - { gesetz: atsg, art: art-025 }
   - { gesetz: atsg, art: art-052 }
 stichworte: ["Ergänzungsleistungen", "ELG", "Existenzbedarf", "Vermögensschwelle", "Mietzinsmaxima", "Vermögensverzicht", "Krankheitskosten", "Nachlassrückerstattung", "Einspracheverfahren", "Rückforderung", "ATSG"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung. Verfassungsrechtliche Stellung (Art. 112a BV), Anspruchsvoraussetzungen, Vermögensschwelle (Art. 9a ELG), Berechnungsmechanismus (Art. 9–11a ELG), Krankheitskosten (Art. 14 ELG), Nachlassrückerstattung (Art. 16a/16b ELG), Verwaltungsverfahren und Rechtsschutz nach ATSG. Normtexte per {{< wortlaut >}} aus amtlicher Quelle (Fedlex); alle BGEs und bundesgerichtlichen Entscheide über entscheidsuche.ch als Volltext geprüft und mit Erwägungsankern verlinkt."
 ---
 

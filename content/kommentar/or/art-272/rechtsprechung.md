@@ -5,12 +5,10 @@ date: 2026-09-14
 lastmod: 2026-09-14
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 272 OR: Begriff der Härte, Kriterien der Interessenabwägung, Suchbemühungen bei Erst- und Zweiterstreckung, Eigenbedarf und kantonale Praxis."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Mieterstreckung", "Härtefall", "Suchbemühungen", "Eigenbedarf"]
-agent_verified: true
 revisions:
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Strukturierte Rechtsprechungsübersicht mit 21 ausgewerteten Entscheiden zu Art. 272 OR; sämtliche Fundstellen und Links über entscheidsuche.ch verifiziert."
 ---
 

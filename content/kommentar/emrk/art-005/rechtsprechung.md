@@ -5,17 +5,14 @@ date: 2026-06-06
 lastmod: 2026-10-26
 description: "Übersicht der massgeblichen Leitentscheide und Urteile zu Art. 5 EMRK: Freiheitsentzug, Untersuchungs- und Sicherheitshaft, Wiederholungsgefahr, Administrativhaft, Haftprüfung und Entschädigung."
 tags: ["Rechtsprechung", "EMRK", "Freiheitsentzug", "Haft", "Untersuchungshaft", "Ausschaffungshaft", "Habeas corpus", "Wiederholungsgefahr"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht nach Skill praxisorientierter-kommentar: Aufteilung in I. Leitentscheide (7 BGEs) und II. Weitere Entscheide (7 Bundesgerichts- und kantonale Entscheide); thematische Gliederung mit Aktenzeichen, Volltext-Links auf entscheidsuche.ch und detaillierten Abstracts zu Sachverhalt und Kernaussage."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: Bereinigung fabrizierter Zitate und Ersatz durch verifizierte Belege."
 ---
 

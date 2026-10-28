@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: "2026-09-15"
 description: "Übersicht der zentralen Entscheide zu Art. 930 ZGB — Eigentumsvermutung des Besitzers: Vermutungsbasis (Besitz, selbständiger Besitz, unzweideutiger Besitz), Zweideutigkeit als Grenze (Bargeld, Börsenagent/Kommissionär), Widerlegbarkeit, Beweislast bei der Vindikation, Wirkung gegenüber dem Vorbesitzer, rückwirkende Vermutung (Abs. 2)."
 tags: ["Rechtsprechung", "ZGB", "Eigentumsvermutung", "Besitz", "Beweislast", "Vindikation", "unzweideutiger Besitz", "Vermutungsbasis", "Rechtsschein"]
-agent_verified: false
 revisions:
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 9 im Volltext abgerufen (BGE 65 II 62, 84 II 253, 94 II 297, 100 II 8, 113 II 397, 121 III 345, 139 III 305, 141 III 7; BGer 5C.236/2004; BL KG 410 23 305). Links verbatim aus document_url-Feldern übernommen."
 ---
 

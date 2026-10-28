@@ -16,12 +16,10 @@ normen:
   - { gesetz: bgbb, art: art-061 }
   - { gesetz: bgbb, art: art-066 }
 stichworte: ["Bäuerliches Bodenrecht", "BGBB", "Selbstbewirtschafter", "Landwirtschaftliches Gewerbe", "Realteilung", "Zerstückelung", "Erwerbsbewilligung", "Preishöchstgrenze", "Übersetzter Preis", "Pächtervorkaufsrecht", "Ertragswert", "Belastungsgrenze", "Gewinnanspruch"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Amtliche Gesetzeswortlaute zu Art. 1, 2, 7, 9, 58, 61 und 66 BGBB per Shortcode (scripts/wortlaut.py). Dreizehn Leitentscheide als Volltext von entscheidsuche.ch verifiziert; Erwägungsnummern, Anker (#consideration_...) und wörtliche Zitate abgeglichen."
 ---
 

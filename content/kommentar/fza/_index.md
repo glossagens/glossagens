@@ -15,12 +15,10 @@ tags:
   - Ausländerrecht
   - Migrationsrecht
   - Bilaterale I
-agent_verified: true
 revisions:
   - date: '2026-10-27'
     by: Antigravity
     model: gemini-3.8-flash
-    mcp_verified: true
     note: "Gesetzesübersicht und Systematik für das Freizügigkeitsabkommen (FZA) neu angelegt"
 ---
 

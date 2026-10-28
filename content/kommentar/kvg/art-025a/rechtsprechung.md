@@ -5,17 +5,14 @@ date: 2026-07-24
 lastmod: 2026-08-07
 description: "Übersicht der verifizierten Entscheide zu Art. 25a KVG — Pflegefinanzierung, Restfinanzierung, Wirtschaftlichkeitsgebot, interkantonale Zuständigkeit"
 tags: ["Rechtsprechung", "KVG", "Pflegefinanzierung", "Restfinanzierung"]
-agent_verified: false
 revisions:
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 7 weitere BGer-Entscheide zu KVG Art. 25a (Pflegeleistungen, Grund-/Behandlungspflege, Restfinanzierung, Heimaufenthalt)"
   - date: 2026-07-24
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuanlage — alle Entscheide via opencaselaw-MCP (cite, get_case_brief, find_leading_cases) verifiziert"
 ---
 

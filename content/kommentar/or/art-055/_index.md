@@ -4,7 +4,6 @@ date: 2026-08-20
 law_code: OR
 article_number: 55
 slug: art-055
-mcp_verified: true
 audit_date: 2026-08-20
 audit_sources:
   - ocl_cite

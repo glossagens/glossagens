@@ -5,7 +5,6 @@ date: 2026-10-05
 lastmod: 2026-10-05
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts, des Bundesverwaltungsgerichts und der kantonalen Gerichte zu Art. 6 BGÖ (Öffentlichkeitsprinzip, Zugangsanspruch, Modalitäten, Urheberrecht und Erfüllungsfiktion)."
 tags: ["Rechtsprechung", "BGÖ", "Öffentlichkeitsprinzip", "Leitentscheide", "Kasuistik"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide des Bundesgerichts

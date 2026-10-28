@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Kommentar zu Art. 91 SVG: Angetrunkenheit und qualifizierte Alkoholkonzentration, Fahrunfähigkeit aus anderen Gründen (Betäubungsmittel, Medikamente, Übermüdung), Grenzwerte und Beweisregeln."
 tags: ["SVG", "Strassenverkehrsrecht", "Trunkenheit am Steuer", "Fahrunfähigkeit", "Cannabis", "Alkoholgrenzwerte"]
-agent_verified: false
 revisions:
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/search_laws/cite/get_article_purpose) verifiziert."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: "2026-09-05"
 description: "Übersicht der Rechtsprechung zu Art. 222 StGB — Fahrlässige Verursachung einer Feuersbrunst, Begriff der Feuersbrunst, Gemeingefahr und Fremdschaden."
 tags: ["Rechtsprechung", "StGB", "Feuersbrunst", "Brandstiftung", "Gemeingefahr", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; unverifizierbare kantonale Zitate (GR SK2 2010 23, ZH SB180505) entfernt; alle BGE-Links verifiziert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: 14 halluzinierte BGE-Zitate entfernt; 10 verifizierte Entscheide mit korrekten Links und Erwägungen eingepflegt."
 ---
 

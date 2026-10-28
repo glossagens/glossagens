@@ -5,17 +5,14 @@ date: 2026-09-12
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 17 SchKG: Anfechtungsobjekt, Abgrenzung zur Zivilklage, Kognition bei Gesetzesverletzung und Unangemessenheit, zehntägige Verwirkungsfrist, Rechtsverweigerung und Rechtsverzögerung, Wiedererwägung durch das Amt sowie kantonale Aufsichtspraxis."
 tags: ["SchKG", "Aufsichtsbeschwerde", "Verfügung", "Rechtsverweigerung", "Rechtsverzögerung", "Wiedererwägung", "Zwangsvollstreckung", "Betreibungsferien"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-017.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar zu Art. 17 SchKG gemäss Praxis-Standard (Muster Art. 110 StPO und Art. 336 OR). Gesetzestext verbatim aus Fedlex (SR 281.1, Konsolidierung 1. Januar 2026). Volltextverifikation der Leitsätze und Kasuistik gegen entscheidsuche.ch: BGE 142 III 425, BGE 126 III 85, BGE 126 III 30, BGE 99 III 58, BGE 85 III 6, BGE 113 III 2, BGE 129 III 595, BGE 139 III 384, BGE 145 III 487, BGE 140 III 175, BGer 5A_730/2023 sowie kantonale Entscheide (BL 420 20 90, GR KSK 2021 21, ZH OG PS190194)."
 ---
 

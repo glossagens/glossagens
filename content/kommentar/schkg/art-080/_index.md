@@ -5,37 +5,30 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 80 SchKG: Definitive Rechtsöffnung — Vollstreckbare Gerichtsurteile, gerichtliche Vergleiche, vollstreckbare öffentliche Urkunden, Verwaltungsverfügungen, ausländische Titel (LugÜ), Aberkennungsurteil, Prozessstandschaft, Prüfungsbefugnis, Grenzkasuistik."
 tags: ["SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "Gerichtsurteil", "Vergleich", "Prüfungsbefugnis", "Grenzkasuistik", "LugÜ", "Aberkennungsurteil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-080.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17-22 neu (Dispositiv-Anforderung BGE 107 III 60, Aberkennungsurteil BGE 134 III 656, BVG-Auffangeinrichtung BGE 134 III 115, Prozessstandschaft BGE 142 III 78, Ausländische Titel/LugÜ BGE 141 III 28, Ausserkantonale Verwaltungsverfügung BGE 119 V 329); Grenzkasuistik und Praxisfragen ergänzt; 6 neue BGE-Leitentscheide in rechtsprechung.md; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-7 überarbeitet, Rz. 8-12 (Kasuistik) vertieft, Rz. 13-16 (Grenzkasuistik: Prüfungsbefugnis, EMRK, Unterhaltsvorbehalt, Mehrfachbetreibungen), Praxisfragen ergänzt; BGE 139 III 444, BGE 141 I 97, BGE 135 III 315, BGE 105 III 43 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung aller definitiven Rechtsöffnungstitel, Kasuistik zu gesetzlichen Gebühren (BGE 148 III 225), gerichtlichen Vergleichen (BGE 143 III 564), Zession (BGE 140 III 372), Volljährigenunterhalt (BGE 144 III 193) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG — bger.ch-Links auf OCL umgestellt"
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung"
 ---
 

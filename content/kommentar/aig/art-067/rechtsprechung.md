@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 67 AIG: Grundsatzurteile des Bundesgerichts und des Bundesverwaltungsgerichts zu Einreiseverbot, Dauer, Befristungsgebot und Suspendierung."
 tags: ["Rechtsprechung", "AIG", "Ausländerrecht", "Einreiseverbot"]
-agent_verified: true
 ---
 
 ### I. Leitentscheide

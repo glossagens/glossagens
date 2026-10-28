@@ -5,27 +5,22 @@ date: 2026-07-16
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 22 RPG: Baubewilligungspflicht für Bauten und Anlagen — mit zweiseitiger Grenzkasuistik (Fahrnisbauten, Wohnwagen, Tiny Houses, Terrainveränderungen, Umnutzungen), Unterhaltsabgrenzung, Erschliessungsanforderungen und Wiederherstellungsfolgen."
 tags: ["RPG", "Baubewilligung", "Baubewilligungspflicht", "Bauten und Anlagen", "Fahrnisbauten", "Zweckänderung", "Unterhalt", "Erschliessung", "Wiederherstellung", "Praxiskommentar", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 700 vom 2026-07-01 (data/wortlaut/rpg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-02
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 1C_324/2026 (Umnutzung Büros in Wohnungen, Genfer Entwicklungszone 3): Nutzungsänderung ohne bauliche Massnahmen bewilligungspflichtig nach Art. 22 Abs. 1 RPG; kantonale LDTR-Freistellung unterschreitet RPG nicht; Wiederherstellung bei nicht erfuellten Barrierefreiheitsvorschriften verhaeltnismaessig. Neue Fallschilderung in Abschnitt B.2, Ergaenzungen in G (Praxisfrage 1) und F (Wiederherstellung)."
   - date: 2026-09-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar: Merkmalsraster, Prüfschema-Tabelle, narrative Sachverhalte aus Leitentscheiden (BGE 119 Ib 222, 121 I 65, 139 II 134, 150 II 489, 151 II 850, BGer 1C_37/2013, 1C_580/2021, 1C_239/2025, 1C_601/2022, 1C_120/2012, 1C_280/2022, ZH BRGE IV Nr. 0025/2025), Vergleichstabellen und adressatenbezogene Praxishinweise."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erweiterung um BGer 1C_239/2025, BGer 1C_601/2022 und entscheidsuche.ch-Links"
 ---
 

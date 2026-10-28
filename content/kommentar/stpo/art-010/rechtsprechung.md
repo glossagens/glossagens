@@ -5,17 +5,14 @@ date: 2026-05-10
 lastmod: 2026-09-05
 description: "Übersicht der Leitentscheide und Kasuistik zu Art. 10 StPO: Unschuldsvermutung, freie Beweiswürdigung, DNA-Indizienketten, Vier-Augen-Delikte und in dubio pro duriore."
 tags: ["Rechtsprechung", "StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "in dubio pro duriore", "Willkürkontrolle", "Beweismass", "Glaubhaftigkeitsgutachten", "DNA-Beweis"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht im Praxiskommentar-Standard. Aufnahme von 14 Leitentscheiden und praxisrelevanten Bundesgerichts- und kantonalen Urteilen (ZH OG, BE OG). Verlinkungen verbatim auf entscheidsuche.ch umgestellt."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "BGE 146 IV 88 als Fehlzitat entfernt."
 ---
 

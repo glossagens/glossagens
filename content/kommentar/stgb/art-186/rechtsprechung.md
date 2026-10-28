@@ -5,17 +5,14 @@ date: 2026-05-16
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 186 StGB — Hausfriedensbruch: Notwehr gegen Verweilen, geschützte Räumlichkeiten, Umfriedungserfordernis, Stalking, Antragsdelikt und Konkurrenzen."
 tags: ["Rechtsprechung", "StGB", "Hausfriedensbruch", "Hausrecht", "Notwehr", "Umfriedung", "Stalking", "Antragsdelikt", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 8 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 102 IV 1 (Warnschuss unverhältnismässig, Notwehr gegen Verweilen), BGE 129 IV 262 (Stalking, nicht umfriedetes Areal), BGE 141 IV 132 (offene Plätze nicht geschützt, Waffenrecht), BGE 141 IV 437 (Stalking als Nötigung und Hausfriedensbruch), BGer 6B_536/2024 (Diebstahl, Hausfriedensbruch, obligatorische Landesverweisung), BGer 6B_834/2025 (Hauseingang Mehrfamilienhaus), BGer 6B_297/2023 (Klimakundgebung), BGer 1C_68/2025 (Strafantragsfrist); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 

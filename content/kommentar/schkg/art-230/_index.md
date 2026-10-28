@@ -5,37 +5,30 @@ date: 2026-09-13
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 230 SchKG: Einstellung des Konkursverfahrens mangels Aktiven — Masseunzulänglichkeit, Gläubigeroption, Kostensicherheit, zweijährige Pfändungsbetreibung, Wiederaufleben früherer Betreibungen, Fristenstillstand, Spezialliquidation, Handelsregisterlöschung, Grenzkasuistik."
 tags: ["SchKG", "Konkurs", "Konkurseinstellung", "Masseunzulänglichkeit", "Kostensicherheit", "Pfändungsbetreibung", "Wiederaufleben", "Fristenstillstand", "Spezialliquidation", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-230.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17-24 neu (Aufhebung Konkursbeschlag, Zeitpunkt Wiederaufleben, Pfändungsbetreibungsart, Kostenvorschussberechnung, Spezialliquidation, Art. 230a-Schnittstelle, Fristenstillstand-Konkretisierungen, Wiedereröffnung und Löschung); BGE 151 III 190, BGE 130 III 481, BGer 5A_840/2015, BGer 5A_784/2015, BGer 5A_306/2014, BGer 5A_857/2020; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-7 überarbeitet und vertieft, Rz. 8-12 (Kasuistik) zu Grenzkasuistik Rz. 8-16 umstrukturiert (Gläubigerbeschwerde, Kostenhaftung, Wiederaufleben, Verrechnung, AHV-Haftung, Löschung, Konkursmasse); Praxisfragen ergänzt; BGE 141 III 590, BGE 134 III 136, BGE 127 III 371, BGE 128 V 10, BGE 132 III 89, BGE 102 III 78 vertieft und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Konkurseinstellung, Gläubigerbeschwerderecht (BGE 141 III 590), Kostenhaftung des Eröffnungsgläubigers (BGE 134 III 136), Wiederaufleben suspendierter Betreibungen (BGE 132 III 89) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG — Gesetzestext auf aktuelle Fassung korrigiert"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW32"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 167 StGB: Bevorzugung eines Gläubigers im Vorfeld von Konkurs oder Pfändungsverlustschein — Zahlungsunfähigkeit, Regelbeispiele (nicht verfallene Schulden, unübliche Zahlungsmittel, unaufgeforderte Sicherstellung), Generalklausel, Abgrenzung von kongruenter und inkongruenter Deckung, subjektive Anforderungen (Dolus directus 1. Grades vs. Eventualabsicht), Kasuistik und taktische Praxishinweise."
 tags: ["StGB", "Bevorzugung eines Gläubigers", "Gläubigerbevorzugung", "Konkursdelikte", "Zahlungsunfähigkeit", "Inkongruente Deckung", "Kongruente Deckung", "Organhaftung", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-167.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar gemäss Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR): Vollständiges Prüfschema vorangestellt; dogmatisches Gerüst strikt nach Tatbestandsmerkmalen; narrative Ausarbeitung realer Aktenfälle mit zweiseitiger Grenzkasuistik (Angewandt vs. Verworfen: u.a. BGE 117 IV 23, BGE 104 IV 77, BGE 93 IV 16, BGE 74 IV 40, BGer 6B_481/2025 vom 12.3.2026, BGer 6B_361/2017, BGer 6B_699/2012, BGer 6S.34/2001, BGer 6B_985/2016; kantonale Entscheide ZH OG SB140131, ZH OG UE210242, BL KG 460 11 229, BL KG 460 15 223, GR KG SB 2008 13, FR TC 501 2018 211); Fallvergleichstabellen, kantonale Praxisfragen und taktische Praxishinweise für Verteidigung, Staatsanwaltschaft, Konkursverwaltung und Sanierungsberater; alle Urteilslinks verbatim über entscheidsuche.ch belegt; Gesetzeswortlaut verbatim nach Fedlex (Stand 12. Juni 2026)."
 ---
 

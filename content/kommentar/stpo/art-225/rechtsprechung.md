@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 225 StPO – Haftverfahren vor dem Zwangsmassnahmengericht, Verhandlung, Akteneinsicht, Beweiserhebung und Verzicht."
 tags: ["Rechtsprechung", "StPO", "Zwangsmassnahmengericht", "Untersuchungshaft", "Haftverhandlung", "Akteneinsicht", "rechtliches Gehör", "Haftgründe"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 225 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonale ZMG/Obergerichte)."
 ---
 

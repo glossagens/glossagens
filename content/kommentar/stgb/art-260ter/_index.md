@@ -5,17 +5,14 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 260ter StGB: Beteiligung an und Unterstützung einer kriminellen Organisation — Organisationsbegriff (strukturierte Gruppe, Geheimhaltung, verbrecherischer Zweck), Beteiligung vs. Unterstützung, terroristische Gruppierungen, Subsidiarität gegenüber Einzeldelikten, humanitäre Ausnahme, bestimmender Einfluss, Strafmilderung, Auslandsbezug — mit Kasuistik zu Mafia, Drogenbanden, PKK, IS und Al-Qaida."
 tags: ["StGB", "Kriminelle Organisation", "Organisierte Kriminalität", "Terrorismus", "Bande", "Geheimhaltung", "Beteiligung", "Unterstützung", "Geldwäscherei", "Bundesgerichtsbarkeit", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-260ter.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity"
     model: "Gemini 3.6 Flash (Medium)"
-    mcp_verified: true
     note: "Audit Stufen 0-6: Gesetzeswortlaut zu 100% verifiziert gegen Fedlex (SR 311.0); 84 Belegpaare/Zitate vollumfänglich belegt und gegen entscheidsuche.ch im Volltext verifiziert; sämtliche unverlinkten Zitate im Fliesstext hyperlinked."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-10-22
 description: "Rechtsprechungsübersicht zu Art. 248 StPO: Siegelungsverfahren, Beschränkung auf Art. 264 StPO (BGE 151 IV 30), Smartphones und Privatgeheimnisse (BGE 151 IV 344/350), vorsorgliche Datenspiegelung (Praxisänderung BGE 152 IV 107), Substanziierung beim Anwaltsgeheimnis (BGer 7B_815/2026), Siegelung Nichtbeschuldigter (BGer 7B_558/2025) sowie Formstrenge für Entsiegelungsgesuche (BGer 7B_165/2026)."
 tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Smartphone", "Beschlagnahme", "Datenspiegelung", "BGE 152 IV 107", "Art. 264 StPO", "BGer 7B_815/2026"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme des Leitentscheids BGer 7B_815/2026 vom 07.10.2026: Substanziierungsobliegenheit beim Anwaltsgeheimnis (Namens- und E-Mail-Nennung genügt für Triage, Verbot unbegründeter zeitlicher Eingrenzungen durch das ZMG) und Abgrenzung zu vagen Behauptungen beim Arztgeheimnis."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht: Aufnahme der Grundsatzurteile BGE 152 IV 107, BGE 151 IV 30, BGE 151 IV 344, BGE 151 IV 350, BGer 7B_558/2025, BGer 7B_165/2026 (Fünferbesetzung), BGer 7B_486/2024, BGer 7B_143/2026 sowie kantonaler Entscheide (ZH, BE, AG, LU); sämtliche Links auf entscheidsuche.ch validiert."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Loop-Aktualisierung: Bereinigung aller Pinpoints, Umstellung aller Urteilslinks auf entscheidsuche.ch."
 ---
 

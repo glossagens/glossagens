@@ -5,7 +5,6 @@ date: "2026-07-10"
 lastmod: "2026-07-10"
 description: "Übersicht der Entscheide zu Art. 12 ArG – Ausnahmsweise Überschreitung der Höchstarbeitszeit (Überzeitarbeit)"
 tags: ["Rechtsprechung", "ArG", "Überzeitarbeit", "Höchstarbeitszeit"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 12 ArG

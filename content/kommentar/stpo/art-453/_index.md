@@ -7,16 +7,13 @@ revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-453.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 40 %). Fehlender revisions-Block ergänzt. Rz. 13 war falsch: Abs. 2 gilt nicht «unabhängig davon», wann der angefochtene Entscheid erging — nach BGer 6B_425/2011 E. 2.2.2 ist neues Recht nur anwendbar, wenn der Rückweisungsentscheid nach dem 1.1.2011 gefällt wurde. Dieser einschlägige Entscheid fehlte ganz und ist neu eingearbeitet. Abschnitt VIII gab nur die Auffassung der Vorinstanz wieder und verschwieg, dass das Bundesgericht sie als bundesrechtswidrig verwarf (6B_1412/2019 E. 2.3). Abschnitt IX stützte sich auf BGE 145 IV 137, der Art. 453 StPO nicht erwähnt und die lex mitior nach Art. 2 Abs. 2 StGB betrifft; die Verknüpfung stammt aus BGer 7B_1022/2023 E. 1.2 und ist entsprechend umattribuiert. BGE 137 IV 189 E. 1 als unveröffentlichte Erwägung gekennzeichnet und um BGE 138 IV 248 E. 1 als zugängliche Fundstelle ergänzt. Falsche Absatzzuordnung bei BGer 6B_574/2010 dokumentiert."
 description: "Kommentar zu Art. 453 StPO – Vor Inkrafttreten gefällte Entscheide: Übergangsrecht für Rechtsmittel gegen vor dem 1. Januar 2011 ergangene Entscheide, Anwendung bisherigen Rechts und bisheriger Zuständigkeiten, Neuanwendung bei Rückweisung."
 tags: ["StPO", "Übergangsrecht", "Übergangsbestimmungen", "interlokales Recht", "Rechtsmittel", "Zeitliches Anwendungsrecht", "Rückweisung", "Inkrafttreten"]
-agent_verified: true
 ---
 
 ## Gesetzeswortlaut

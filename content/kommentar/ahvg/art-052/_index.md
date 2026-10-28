@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 52 AHVG: Schadenersatzpflicht des Arbeitgebers und subsidiäre persönliche Solidarhaftung von Verwaltungsrat, Geschäftsführung und faktischen Organen für unbezahlte paritätische Sozialversicherungsbeiträge (AHV/IV/EO/ALV/FamZ) — mit Prüfschema, ausführlicher Kasuistik (Sanierungsversuch vs. Pflichtverletzung, Strohmann-Verwaltungsrat, Delegation), kantonalen Praxisfragen und Praxishinweisen."
 tags: ["AHVG", "AHV", "Organhaftung", "Arbeitgeberhaftung", "Verwaltungsrat", "Geschäftsführer", "Faktisches Organ", "Strohmann", "Grobe Fahrlässigkeit", "Solidarhaftung", "Verjährung", "Ausgleichskasse"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als praxisorientierter Gesetzeskommentar nach dem Standard Art. 110 StPO / Art. 336 OR. Gesetzeswortlaut via Shortcode `wortlaut` aus der authentischen Fedlex-Konsolidierung SR 831.10 (data/wortlaut/ahvg/art-052.json, scripts/wortlaut.py). Materialien (Botschaften BBl 2011 543, BBl 2014 235, BBl 1991 II 185) herangezogen. Sämtliche Urteile im Volltext über entscheidsuche.ch gesichtet und verlinkt (u.a. BGE 141 V 487, BGE 129 V 11, BGE 114 V 219, BGE 114 V 213, BGE 108 V 183, BGE 108 V 199, BGE 137 V 51, BGE 135 V 74, BGE 126 V 443, BGer 9C_673/2024, BGer 9C_135/2011, BGer 9C_373/2022, BGer 9C_313/2021 sowie kantonale Entscheide aus SG, ZH, LU, BL)."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-06-28
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 10 VwVG – Ausstand von mitwirkenden Personen im Verwaltungsverfahren bei Befangenheit"
 tags: ["VwVG", "Ausstand", "Befangenheit", "Verwaltungsverfahren", "Verwaltungsrecht", "Organmangel", "rechtliches Gehör", "Fairness"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C 41% -> B 60%): Wortlaut-Fehlalarm des Parsers bereinigt (Gesetzestext war korrekt, nur Fedlex-Fussnote im amtlichen Rohtext verwirrte den Abgleich). 20 von 21 ungestützten Belegpaaren korrigiert: fehlende Pinpoint-Anker ergänzt (u.a. BGE 132 V 93, 137 V 210, 135 V 254, 123 V 331), BGE 130 II 530 war inhaltlich fabriziert (echtes Urteil zu Übernahmepflicht/BEHG, nichts zu Ausstand -- durch BGE 119 V 456 zur EAK ersetzt), 2C_305/2011 trug die Verwirkungsaussage nicht -- entfernt, Aussagen zu 1C_52/2025 und 8C_659/2020 an die tatsächlichen Sachverhalte angepasst, redundante Übersichtstabelle in rechtsprechung.md entfernt (verursachte pinpointlose Duplikat-Paare). 2C_909/2020 (Vorbefassung, PostFinance/FINMA) als starker zusätzlicher Beleg ergänzt. Ein Paar (_index.md N17, BGE 132 V 93 E. 6.3 zu Rügen ausserhalb der Ausstandsgründe) bleibt vom Audit als 'no' markiert, obwohl der Wortlaut die Aussage stützt -- vermutlich Cache-Artefakt; zur Bestätigung vorgelegt statt agent_verified gesetzt."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "unknown"
-    mcp_verified: true
     note: "Ursprüngliche Fassung (rekonstruiert; agent_verified/mcp_verified waren im Frontmatter gesetzt, aber kein revisions-Block vorhanden)"
 ---
 

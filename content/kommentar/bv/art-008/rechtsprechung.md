@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 8 BV — allgemeiner Gleichheitssatz, Diskriminierungsverbot, Gleichstellung von Mann und Frau, Behindertengleichstellung"
 tags: ["Rechtsprechung", "BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Lohngleichheit", "Behindertengleichstellung"]
-agent_verified: false
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Belege neu zugeordnet und an verifizierte Pinpoints verankert. Zusammenfassungstabelle entfernt (Schlagwort-Beleg-Paare hielten durchwegs nicht stand); BGE 134 V 131 als Lohngleichheitsbeleg gestrichen. Erstmals revisions-Block gesetzt."
   - date: 2026-07-17
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 24 RPG: Ausnahmebewilligung für standortgebundene Bauten und Anlagen ausserhalb der Bauzonen — mit zweiseitiger Grenzkasuistik (Bergrestaurants, Mobilfunk, Schiessanlagen, Tierhaltung, Energieanlagen), Alternativenprüfung, Planungspflicht und verfahrensrechtlichen Obliegenheiten."
 tags: ["RPG", "Ausnahmebewilligung", "Standortgebundenheit", "Bauen ausserhalb der Bauzonen", "Raumplanung", "Praxiskommentar", "Kasuistik", "Alternativenprüfung", "Planungspflicht", "Interessenabwägung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 700 vom 2026-07-01 (data/wortlaut/rpg/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Skill praxisorientierter-kommentar: Merkmalsraster, Prüfschema-Tabelle, ausführliche Sachverhalte aus Leitentscheiden (BGE 151 II 918, 141 II 245, 136 II 214, 129 II 63, BGer 1C_328/2010, 1C_213/2022, 1C_502/2024, 1C_433/2024), vergleichende Gegenüberstellungen und Adressaten-Praxishinweise."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, kantonale Praxis ergänzt, Revisions-Vermerk ergänzt"
 ---
 

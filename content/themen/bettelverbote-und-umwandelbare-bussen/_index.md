@@ -15,17 +15,14 @@ normen:
   - { gesetz: stgb, art: art-106 }
   - { gesetz: stpo, art: art-410 }
 stichworte: ["Bettelverbot", "Betteln", "Mendicité", "persönliche Freiheit", "umwandelbare Busse", "Ersatzfreiheitsstrafe", "Administrativkaskade", "ultima ratio", "Lacatus", "kantonales Übertretungsstrafrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Überprüfung und Nachführung: Titel auf 'Strafbewehrte Bettelverbote auf dem Prüfstand' angepasst, Verlinkung der Entscheide der Genfer Serie vom 17.09.2026 (6B_453/2025, 6B_29/2025, 6B_281/2025, 6B_131/2025) von opencaselaw auf entscheidsuche.ch umgestellt, kantonale Gesetzessammlungs-Kürzel korrigiert (SG, SRL, SRSZ, BGS, RB, BR, bGS, GDB, GS) sowie sprachliche Bereinigungen vorgenommen."
   - date: 2026-10-24
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstfassung. Normtexte Art. 7, 10, 36 BV, Art. 8 EMRK, Art. 106 StGB und Art. 410 StPO per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). BGer-Volltexte: BGE 134 I 214, BGE 149 I 248 und BGE 152 I 38 als HTML von entscheidsuche.ch geladen, Erwägungsnummern und Anker gegen den Volltext abgeglichen; die sieben Urteile vom 17.09.2026 (6B_453/2025, 6B_452/2025, 6B_445/2025, 6B_281/2025, 6B_239/2025, 6B_29/2025, 6B_131/2025) als Volltext über die opencaselaw-MCP abgerufen (entscheidsuche.ch führt sie noch nicht). EGMR Lacatus c. Suisse wird nach der Wiedergabe in BGE 149 I 248 und 152 I 38 referiert. Kantonale Regelungen über die Gesetzessuche (opencaselaw search_laws, LexFind) für BS, LU, SZ, TG, ZG, OW, AR, GL, GR, VD, GE, SG, NE ermittelt."
 ---
 

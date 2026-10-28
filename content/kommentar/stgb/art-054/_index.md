@@ -5,22 +5,18 @@ date: 2026-10-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 54 StGB (SR 311.0): Strafbefreiung und Strafmilderung (a maiore minus) bei schwerer Betroffenheit des Täters durch die unmittelbaren Tatfolgen (poena naturalis). Dogmatik, Prüfschema, Abgrenzung von unmittelbaren und mittelbaren Folgen, Deliktsmehrheit und Begleitdelikte, prozessuale Umsetzung nach Art. 8 und 319 StPO, Kostenfolgen und kantonale Praxisfragen."
 tags: ["StGB", "Strafbefreiung", "Schwer betroffener Täter", "Poena naturalis", "Tatfolgen", "Unangemessenheit", "Vorsatzdelikte", "Strafmilderung", "Kostenauflage", "Unschuldsvermutung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-054.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 91 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage praxisorientiert."
   - date: 2026-10-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung zum wissenschaftlichen Praxiskommentar: Merkmalsgerüst, zweifache Grenzkasuistik (angewandt vs. verworfen), BGE 151 IV 249 (2025), BGE 137 IV 105, BGE 121 IV 162, BGE 119 IV 280, BGE 117 IV 245, BGE 148 V 195, BGer 6B_791/2023, BGer 6B_1033/2017, BGer 6B_966/2018, BStGer BB.2017.160 (TPF 2017 124), OGer TG RBOG 2022 Nr. 48, KG GR SK2 2017 29, OGer SO ZZ.1993.17 und SG VRK IV-2015/151. Kasuistiktabelle, Verfahrensrealität, Kostenfolgen und Praxishinweise."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-06-06
 lastmod: 2026-10-26
 description: "Praxiskommentar zu Art. 5 EMRK: Recht auf Freiheit und Sicherheit, enumerative Haftgründe (Untersuchungs-, Straf-, Fürsorge- und Ausschaffungshaft), richterliche Vorführung, Haftprüfung und Entschädigungsanspruch."
 tags: ["EMRK", "Freiheitsentzug", "Haft", "Untersuchungshaft", "Ausschaffungshaft", "Fürsorgerische Unterbringung", "Haftprüfung", "Habeas corpus", "Ersatzmassnahmen", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger praxisorientierter Ausbau nach Skill praxisorientierter-kommentar: Prüfschema und Merkmalskatalog vorangestellt; ausführliche Kasuistik mit Lebenssachverhalten, Gegenüberstellungen von Anwendungs- und Verwerfungsfällen, Vergleichstabellen und Leitsätzen zu allen Absätzen und Haftgründen. Einarbeitung der Rechtsprechungsänderung zur Wiederholungsgefahr (BGer 7B_1035/2024), der Dublin- und Ausschaffungshaftpraxis (BGE 142 I 135, BGE 149 II 6, BGer 2C_66/2026), der Einkesselungskasuistik (BGE 142 I 121, BGer 1C_103/2024) sowie kantonaler Praxisfragen zu Festhaltungen und mündlichen Haftverhandlungen. Sämtliche Urteile über entscheidsuche.ch im Volltext abgeglichen und verlinkt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 0.101 vom 2022-09-16 (data/wortlaut/emrk/art-005.json), inkl. Fussnoten."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C, 8% -> Neuaufbau): Bereinigung unzutreffender Zitate und Ersatz durch verifizierte Belege."
 ---
 

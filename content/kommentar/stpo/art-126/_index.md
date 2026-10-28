@@ -4,22 +4,18 @@ weight: 126
 date: 2026-07-11
 description: "Kommentar zu Art. 126 StPO – Entscheid über die Zivilklage"
 tags: ["StPO", "Zivilklage", "Zivilanspruch", "Adhäsionsverfahren", "Privatklägerschaft", "Verweisung Zivilweg"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-126.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 27 %). Alle 14 Referenzen existieren und treffen thematisch zu. Sechs Erwägungsangaben verwiesen auf Elternnummern, die es im Volltext nicht gibt; sie sind auf die zutreffenden Untererwägungen präzisiert (BGE 146 IV 211 E. 3 → E. 3.1 und E. 4 → E. 4.2.2; 6B_28/2018 E. 2.4 → E. 4.2.3; 6B_1046/2013 E. 2 → E. 2.3 f.; 6B_666/2014 E. 2.1 → E. 4.1; 6B_1202/2019 E. 2 → E. 1.2). Der Audit-Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut ist ein Artefakt der Schreibweise «a^bis»; der Wortlaut ist korrekt und wurde nur typografisch an Fedlex angeglichen. Unzulässiges Top-Level-Feld mcp_verified entfernt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 lastmod: 2026-10-15
 ---

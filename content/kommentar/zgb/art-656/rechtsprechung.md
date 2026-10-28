@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 656 ZGB — Eintragungsprinzip (Grundbuchprinzip), absolutes Eintragungsprinzip und Sacheinlagevertrag, ausserbuchlicher Erwerb bei Erbgang, gerichtlichem Urteil und Zwangsversteigerung (Abs. 2), gutgläubiger Erwerb vom Nichtberechtigten (Art. 973 ZGB) mit natürlicher Publizität, Eintragungsfähigkeit und Drittbegriff, öffentliche Beurkundung (Art. 657 ZGB), Formmangel und Sicherungsübereignung."
 tags: ["Rechtsprechung", "ZGB", "Grundeigentum", "Eintragungsprinzip", "Publizitätsprinzip", "gutgläubiger Erwerb", "öffentliche Beurkundung", "Sicherungsübereignung", "ausserbuchlicher Erwerb", "Erbgang", "Zusprechung"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 15 Entscheide via entscheidsuche.ch geprüft, davon 11 im Volltext abgerufen (BGE 86 II 221, 98 II 191, 101 II 235, 102 II 197, 107 II 440, 109 II 99, 111 II 42, 116 II 267, 130 III 306, 135 III 585, 137 III 153; BGer 2C_469/2017, 4A_530/2016; LU KG 1B 15 53; ZH OG LB250006; SG KG BO.2017.11). Links verbatim aus document_url-Feldern übernommen."
 ---
 

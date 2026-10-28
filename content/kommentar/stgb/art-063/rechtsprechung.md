@@ -5,17 +5,14 @@ date: 2025-06-12
 lastmod: "2026-09-11"
 description: "Übersicht der Rechtsprechung zu Art. 63 StGB — Ambulante Behandlung, Abgrenzung zur stationären Massnahme (Art. 59 StGB), Strafaufschub, Fristberechnung, Verlängerung und Aufhebung."
 tags: ["Rechtsprechung", "StGB", "Ambulante Behandlung", "Massnahme", "Strafaufschub", "Fristberechnung", "Verlängerung", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht auf 16 verifizierte Entscheide; alle Links auf entscheidsuche.ch aktualisiert; Systematische Gliederung in I. Leitentscheide des Bundesgerichts und II. Weitere Entscheide (BGer und kantonale Obergerichte)."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Dummy-Referenzen bereinigt; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

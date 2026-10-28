@@ -5,22 +5,18 @@ date: 2026-07-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 43 AIG: Rechtsanspruch von Ehegatten und minderjährigen Kindern auf Familiennachzug zu Niedergelassenen; Zusammenwohnen und Ausnahmen nach Art. 49 AIG; bedarfsgerechte Wohnung; Ausschluss bei Sozialhilfeabhängigkeit und Bezug von Ergänzungsleistungen (Abs. 1 lit. e); Sprachkompetenz und Sprachförderung; Nachzugsfristen nach Art. 47 AIG; Erlöschen nach Art. 51 Abs. 2 AIG sowie Wiedererteilung nach Widerruf — mit systematischer Kasuistik, Schwellenwerten und Praxishinweisen."
 tags: ["AIG", "Familiennachzug", "Niederlassungsbewilligung", "Aufenthaltsbewilligung", "Zusammenwohnen", "Bedarfsgerechte Wohnung", "Sozialhilfeabhängigkeit", "Ergänzungsleistungen", "Sprachnachweis", "Integrationsvereinbarung", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-043.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum umfassenden Praxiskommentar nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Authentischer Gesetzestext verbatim nach Fedlex (SR 142.20, Stand 12. Juni 2026). Volltextrecherche und Verifikation aller Entscheide über entscheidsuche.ch: BGE 136 II 113, BGE 139 I 330, BGE 146 I 185, BGE 137 I 284, BGE 135 II 377, BGE 144 I 266, BGE 136 II 177, BGer 2C_309/2021, BGer 2C_626/2023, BGer 2C_48/2026, BGer 2C_344/2023, BGer 2C_367/2025, BGer 2C_714/2020 sowie kantonaler Leitpraxis (ZH VG VB.2014.00675, VB.2022.00522, VB.2022.00232, VB.2023.00420, VB.2020.00398, VB.2015.00257; SG VG B 2025/182, B 2024/18). Systematisches Prüfschema als Inhaltsverzeichnis, Gegenüberstellungstabellen ohne Code-Fences, Offenlegung von Schwellenwerten und kantonale Praxisfragen."
   - date: 2026-07-03
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Erstkommentierung als Stub mit Fokus auf BGer 2C_48/2026 (Wiedererteilung)."
 ---
 

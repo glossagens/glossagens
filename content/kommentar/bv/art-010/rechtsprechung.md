@@ -5,22 +5,18 @@ date: 2026-05-24
 lastmod: 2026-10-26
 description: "Übersicht der Rechtsprechung zu Art. 10 BV — Recht auf Leben, persönliche Freiheit, körperliche und geistige Integrität, Bewegungsfreiheit, Folterverbot, medizinische Zwangsmassnahmen und Haftbedingungen."
 tags: ["Rechtsprechung", "BV", "Recht auf Leben", "Persönliche Freiheit", "Folterverbot", "Zwangsbehandlung", "Haftbedingungen"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau der Rechtsprechungsübersicht zu Art. 10 BV auf 18 verifizierte Leit- und Praxisentscheide (Leitentscheide zu Schusswaffengebrauch, Sterbehilfe, Schutzbereich, Nacktwandern, DNA-Profilierung, Zwangsmedikation und Haftbedingungen in Champ-Dollon sowie kantonale Gerichtsentscheide zu Taser, Zwangsernährung und Entschädigungspraxis). Alle Links und Pinpoints gegen entscheidsuche.ch abgeglichen."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Entscheidblöcke der Vorfassung überwiegend entfernt — vier Referenzen existierten nicht, BGE 135 I 143 betrifft eine Aufenthaltsbewilligung. Neu aufgebaut aus einzeln geprüften Entscheiden."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 

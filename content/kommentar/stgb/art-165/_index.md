@@ -5,22 +5,18 @@ date: 2026-09-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 165 StGB: Misswirtschaft durch ungenügende Kapitalausstattung, unverhältnismässigen Aufwand, Verschleudern von Vermögenswerten oder arge Nachlässigkeit in der Berufsausübung (Art. 725b OR) — mit der Grenzkasuistik der Gerichte (Verurteilungen vs. Freisprüche), Schwellenwert-Gegenüberstellungen und taktischen Merksätzen."
 tags: ["StGB", "Misswirtschaft", "Konkursdelikte", "Überschuldung", "Arge Nachlässigkeit", "Organhaftung", "Konkursverschleppung", "Zahlungsunfähigkeit", "Business Judgement Rule", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-165.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR): Vollständiges Prüfschema vorangestellt; dogmatisches Gerüst strikt nach Tatbestandsmerkmalen; narrative Ausarbeitung realer Aktenfälle mit zweiseitiger Grenzkasuistik (Angewandt vs. Verworfen: u.a. BGer 7B_135/2023 vom 14.08.2026, BGer 6B_774/2025 vom 04.02.2026, BGer 6B_775/2020 vom 23.11.2020; Freisprüche BS APG SB.2021.130 vom 04.09.2024, ZH OG SB210481 vom 12.04.2022, GR KG SK1 2021 13 vom 16.03.2023); Fallvergleichstabellen, prozessuale Klippen und taktische Merksätze eingearbeitet; alle Urteilslinks verbatim über entscheidsuche.ch belegt."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstkommentierung mit Einarbeitung des Leitentscheids BGer 7B_135/2023 vom 14. August 2026 (Verletzung der Benachrichtigungspflicht nach Art. 725b OR als arge Nachlässigkeit). Gesetzeswortlaut verbatim aus Fedlex (SR 311.0, Stand 12. Juni 2026). Entscheide über entscheidsuche.ch und bger.ch belegt."
 ---
 

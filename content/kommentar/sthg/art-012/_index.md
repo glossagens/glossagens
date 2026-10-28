@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 12 StHG (SR 642.14) — Grundstückgewinnsteuer. Behandelt Steuerobjekt und Anlagekosten, die zivilrechtliche und wirtschaftliche Handänderung (Kettengeschäft, Immobiliengesellschaft), sämtliche gesetzlichen Steueraufschubtatbestände (Erbgang, Schenkung, Scheidung), die Ersatzbeschaffung von selbstgenutztem Wohneigentum (Abs. 3 lit. e) mit bundesweiter Geltung der absoluten Methode (BGE 130 II 202), Begriff der dauernden Selbstnutzung (BGE 143 II 233), das monistische vs. dualistische System (Abs. 4) und den Spekulationszuschlag (Abs. 5). Mit Grenzkasuistik, Berechnungsvergleichen und Praxishinweisen."
 tags: ["StHG", "Steuerharmonisierung", "Grundstückgewinnsteuer", "Ersatzbeschaffung", "Steueraufschub", "wirtschaftliche Handänderung", "Monismus", "Dualismus", "Anlagekosten", "Spekulationszuschlag", "Wohneigentum"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung Praxiskommentar zu Art. 12 StHG. Gesetzestext auf Stand 01.01.2025 via Fedlex konsolidiert. Amtliche Materialien (BBl 1983 III 1, BBl 1996 I 1, BBl 2000 4337) und Leitentscheide (BGE 130 II 202, BGE 143 II 233, BGE 141 II 207, BGE 138 II 32, BGE 134 II 124) vollständig verarbeitet."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-09-05
 lastmod: 2026-09-26
 description: "Übersicht der Rechtsprechung zu Art. 400 OR — Rechenschafts- und Herausgabepflicht, Retrozessionen, strafrechtliche Relevanz der Nicht-Weitergabe (Art. 158 StGB), Verzicht, Bucheffekten, vorsorgliche Beweisführung, Berufsgeheimnis"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Rechenschaft", "Herausgabe", "Retrozessionen", "Ungetreue Geschäftsbesorgung", "StGB 158", "Vorsorgliche Beweisführung"]
-agent_verified: true
 revisions:
   - date: 2026-09-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung der strafrechtlichen Leitentscheide zu Art. 400 Abs. 1 OR: BGE 144 IV 294 (Verschweigen von Retrozessionen als Art. 158 StGB) und BGer 6B_431/2024 (Retrozessionen bei 54 Kunden/Bereicherungsabsicht); Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neu erstellt; 12 Entscheid via entscheidsuche verifiziert"
 ---
 

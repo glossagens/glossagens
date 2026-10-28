@@ -5,32 +5,26 @@ date: 2026-06-13
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 191 SchKG: Insolvenzerklärung des Schuldners (Privatkonkurs) — Voraussetzungen, missbräuchliche Insolvenzerklärung, Schuldenbereinigung, unentgeltliche Rechtspflege, Sperrwirkung und Grenzkasuistik."
 tags: ["SchKG", "Insolvenzerklärung", "Konkurs", "Privatkonkurs", "Selbstantrag", "Rechtsmissbrauch", "Schuldenbereinigung", "Unentgeltliche Rechtspflege", "Sperrwirkung", "Kasuistik", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-191.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 91 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
-    mcp_verified: true
     note: "Umfassende Erweiterung mit Grenzkasuistik: Konkursfähigkeit natürlicher Personen, Gesellschaften ohne HR-Eintrag und Auslandsgesellschaften; Pfändung zwischen Gesuch und Urteil (BGer 5A_870/2024 E. 6.5); missbräuchliche Insolvenzerklärung bei Sozialhilfeempfängern; Konkurs nach Scheitern der Schuldenbereinigung (BGer 5A_197/2025); Konkursfähigkeit von Ehegatten und Erbschaften; Eidesstattliche Vermögensangabe; Konkursstundung und Konkursschluss; BGer 5A_193/2024 (missbräuchliche Insolvenzerklärung); kantonale Praxis (ZH, BE, SG) ergänzt; alle Zitate via Fedlex/entscheidsuche verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Umfassende praxisorientierte Überarbeitung: Integration neuerer BGer-Entscheide 2024–2026 (5A_614/2026 Missbrauch/Lohnpfändung, 5A_249/2025 unentgeltliche Rechtspflege/Aussichtslosigkeit, 5A_197/2025 Schuldenbereinigung/Sanierungschancen, 5A_870/2024 Sperrwirkung/zeitliche Wirkung); systematische Aufbereitung von Gehörsanspruch, Kostenvorschuss, Konkurseinstellung mangels Aktiven und Rechtsmitteln; Rechtsprechungssammlung erweitert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Privatkonkurses, Missbrauch bei Lohnpfändung (BGE 145 III 26), Gläubigerbeschwerdelegitimation (BGE 150 III 262), unentgeltliche Rechtspflege (BGE 133 III 614) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5-1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
 ---
 

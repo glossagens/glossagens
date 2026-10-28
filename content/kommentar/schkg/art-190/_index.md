@@ -5,32 +5,26 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 190 SchKG: Konkurseröffnung ohne vorgängige Betreibung — Gläubigerqualität, Zahlungseinstellung, flüchtiger Schuldner, Vermögensverheimlichung, Gehörsanspruch, Beweismass, Novenrecht und Grenzkasuistik."
 tags: ["SchKG", "Konkurs", "Zahlungseinstellung", "Konkurs ohne Betreibung", "Flucht", "Gläubigerantrag", "Verheimlichung", "Kasuistik", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-190.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
-    mcp_verified: true
     note: "Umfassende Erweiterung mit Grenzkasuistik: Abtretungsgläubiger (BGer 5A_561/2022), Zusammenlegung mehrerer Konkursgründe, vorübergehende Abwesenheit vs. Flucht, Sozialversicherungen als Hauptgläubigerinnen, Streit um Einzelforderung, Gesellschaft ohne Handelsregistereintrag, Kostenvorschuss bei unbekanntem Aufenthalt, Konkursfähigkeit von Auslandsgesellschaften, Vermögensverheimlichung bei Drittkonten, Betreibungsregisterauszug als Beweismittel, Konkursaufschub; kantonale Praxis (ZH Obergericht PS250146, PS250392, PS260111; AG Obergericht ZSU.2024.287, ZSU.2025.54; GR Kantonsgericht SBK 2025 35) ergänzt; alle Zitate via Fedlex/entscheidsuche verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Umfassende praxisorientierte Überarbeitung: Integration neuerer BGer-Entscheide (5A_66/2025 Ausstand/WhatzApp, 5A_977/2022 Novenrecht, 5A_516/2021 Verrechnungseinrede, 5A_477/2023 Vermögensverheimlichung, 5A_132/2025 Aufenthalt), systematische Aufbereitung von Beweismass, Gehörsanspruch, örtlicher Zuständigkeit und Kostenvorschuss; Rechtsprechungssammlung erweitert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Zahlungseinstellung (BGE 120 III 87), Gläubigerlegitimation (BGer 5A_860/2008), Verhältnismässigkeit (BGE 135 III 31), Gehörsanspruch (Abs. 2) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5-1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
 ---
 

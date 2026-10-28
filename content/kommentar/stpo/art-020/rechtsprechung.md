@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 20 StPO – Beschwerdeinstanz"
 tags: ["Rechtsprechung", "StPO", "Beschwerdeinstanz", "Zuständigkeit"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

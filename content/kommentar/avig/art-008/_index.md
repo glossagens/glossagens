@@ -5,22 +5,18 @@ date: 2026-09-09
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 8 AVIG: Die sieben kumulativen Anspruchsvoraussetzungen der Arbeitslosenentschädigung, Sperrwirkung und Ausschluss von Einstellungen, arbeitgeberähnliche Stellung von Organen und GmbH-Gesellschaftern, unechte Grenzgänger, Beitragszeitbeweis, Werkstudenten, Mutterschutz und Kinderbetreuung sowie Rentenvorbezug."
 tags: ["AVIG", "Arbeitslosenversicherung", "Anspruchsvoraussetzungen", "Vermittlungsfähigkeit", "Beitragszeit", "Arbeitgeberähnliche Stellung", "Wohnsitz", "Grenzgänger", "Referenzalter", "Kontrollvorschriften"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar nach den Referenzmustern Art. 110 StPO und Art. 336 OR. Normtext verbatim aus Fedlex (SR 837.0, Stand 1. Januar 2026, Fassung gemäss AHV 21). Sämtliche Entscheide über entscheidsuche.ch im Volltext verifiziert und mit Sachverhalten, Tragweite sowie Grenzkasuistik aufbereitet: BGE 126 V 520 (Sperrcharakter und Ausschluss von Einstellungen), BGE 123 V 234 und BGE 145 V 200 (arbeitgeberähnliche Stellung bei AG und GmbH), BS SVG AL.2017.30 (Verwerfung arbeitgeberähnlicher Stellung bei Liquidation), BGE 148 V 209 (Wahlrecht unechter Grenzgänger nach Art. 65 VO 883/2004), BGE 131 V 444 (Beitragszeitnachweis und Lohnfluss), BGE 120 V 385 (Werkstudenten), BGE 143 V 168 (Mutterschutz, Anstellungsdiskriminierung und Kinderbetreuung), BGer 8C_545/2021 (AHV-Rentenvorbezug und Vertrauensschutz), BGE 112 V 326 (Vorbereitung der Selbständigkeit), BGE 139 V 524 (Arbeitsbemühungen in Kündigungsfrist), ZH SVG AL.2024.00104 (Praktikum und kontrollfreie Tage), BGE 136 V 95 (Koordination ALV/IV), BGE 139 V 579 und BGE 147 V 322 (BVG-Auffangeinrichtung) sowie BGE 133 V 161 (UVG-Unfallversicherung). Alle Links auf entscheidsuche.ch."
   - date: 2026-09-05
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung; Gesetzestext via Fedlex MCP, Entscheide via opencaselaw/entscheidsuche geprüft"
 ---
 

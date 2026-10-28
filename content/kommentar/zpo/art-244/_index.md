@@ -5,22 +5,18 @@ date: "2026-05-23"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 244 ZPO — Erleichterte Klageform im vereinfachten Verfahren, Formanforderungen, Begründungsfreiheit und Beilagenpflicht"
 tags: ["ZPO", "vereinfachtes Verfahren", "Klageeinreichung", "Formvorschriften", "Protokollklage", "Streitwert"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-244.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 32 % → 100 %, Urteil A); zu den Formanforderungen nach Art. 244 Abs. 1 und 2 ZPO liess sich keine einschlägige bundesgerichtliche Erwägung finden — die Lücke ist im Audit-Protokoll ausgewiesen statt mit benachbarten Entscheiden gefüllt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 32 % (Urteil C); 4 von 31 Paaren gestützt; 15 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

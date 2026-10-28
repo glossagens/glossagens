@@ -5,17 +5,14 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 58a AIG: Die gesetzlichen Integrationskriterien im Schweizer Ausländerrecht — Öffentliche Sicherheit, Verfassungswerte, Sprachkompetenzen, Wirtschaftsleben und Härtefallausnahmen."
 tags: ["AIG", "Ausländerrecht", "Integration", "Integrationskriterien", "Sprachnachweis", "Wirtschaftliche Integration", "VZAE", "Rückstufung", "Härtefall"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-058a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung von Art. 58a AIG auf Basis der Fedlex-Gesetzesfassung, der bundesgerichtlichen Leitentscheide (BGE 148 II 1, BGE 149 I 66, BGE 140 II 289, BGer 2C_16/2024) sowie der kantonalen Gerichtspraxis."
 ---
 

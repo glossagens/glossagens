@@ -5,12 +5,10 @@ date: 2026-07-12
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 412 StPO – Vorprüfung und Verfahren bei der Revision: Leitentscheide zur Zweistufigkeit, Nichteintreten bei offensichtlicher Unbegründetheit und Wiederholungsgesuchen."
 tags: ["Rechtsprechung", "StPO", "Revision", "Vorprüfung", "Nichteintreten", "Wiederholungsgesuch"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 BGer-Entscheide); alle Nachweise via attest_response validiert."
 ---
 

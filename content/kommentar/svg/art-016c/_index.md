@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Kommentar zu Art. 16c SVG: Katalog der schweren Verkehrsregelverstösse, kumulative Voraussetzungen der Generalklausel (qualifizierte Gefährdung und Verschulden), Kaskadensystem der Mindestentzugsdauern und Raser-Tatbestand."
 tags: ["SVG", "Strassenverkehrsrecht", "Führerausweisentzug", "Schwere Widerhandlung", "Warnungsentzug", "Sicherungsentzug", "Raserdelikt"]
-agent_verified: false
 revisions:
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_erwaegung) verifiziert. Ergänzt die bereits kommentierten Art. 16, 31, 91 und 91a SVG."
 ---
 

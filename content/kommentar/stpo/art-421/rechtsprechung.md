@@ -5,17 +5,14 @@ date: 2026-10-04
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 421 StPO: Grundsatz des Endentscheids, Rügeobliegenheit, Kostenvorbehalt, Verbot vorzeitiger Kostenauflagen, Teileinstellung und Akontozahlungen."
 tags: ["Rechtsprechung", "StPO", "Kostenentscheid", "Endentscheid", "Zwischenentscheid", "Teileinstellung", "Akontozahlung", "Entschädigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht gegen Volltexte geprüft und berichtigt: Sachverhalte, Ausgänge und Pinpoints zu BGE 138 IV 225, BGer 7B_56/2025, 6B_779/2019, 6B_421/2021, BStGer BB.2022.136, OG BE BK 2017 53 und BK 2018 99, OG SO BKBES.2017.130, KGer LU 2N 13 115 und 2N 13 70; neu aufgenommen KGer BL 470 15 96."
   - date: 2026-10-04
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Vollständige Rechtsprechungsübersicht mit 14 strukturierten Entscheiden zu Art. 421 StPO (5 Leitentscheide des Bundesgerichts und des Obergerichts Bern sowie 9 weitere Bundesgerichts- und Kantonsgerichtsentscheide). Alle Urteile im Volltext verifiziert und direkt auf entscheidsuche.ch verlinkt."
 ---
 

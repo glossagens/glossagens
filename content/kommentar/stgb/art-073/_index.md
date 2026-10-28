@@ -5,17 +5,14 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 73 StGB: Zusprechung eingezogener Vermögenswerte, Ersatzforderungen, Geldstrafen und Bussen an den Geschädigten; Antragsprinzip, Abtretungspflicht, Aktivlegitimation des Versicherers, Subsidiarität zur direkten Aushändigung nach Art. 70 Abs. 1 a.E., kantonales Nachverfahren (Abs. 3) sowie Kasuistik."
 tags: ["StGB", "Einziehung", "Zusprechung", "Geschädigter", "Abtretung", "Versicherer", "Subsidiarität", "Nachverfahren", "Kasuistik", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-073.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Erstkommentar: Gesetzeswortlaut nach Fedlex, 10 Entscheide via entscheidsuche verifiziert, Pinpoint-Links auf entscheidsuche.ch."
 ---
 

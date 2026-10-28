@@ -5,22 +5,18 @@ date: 2026-05-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 10 StPO: Unschuldsvermutung, freie Beweiswürdigung und in dubio pro reo als Entscheidungsregel — mit Grenzkasuistiken zu DNA-Spuren und Vier-Augen-Delikten, dem Komplementärprinzip in dubio pro duriore und der Willkürkognition des Bundesgerichts."
 tags: ["StPO", "Unschuldsvermutung", "Beweiswürdigung", "in dubio pro reo", "in dubio pro duriore", "Beweislast", "Beweismass", "DNA-Beweis", "Aussage gegen Aussage", "Glaubhaftigkeitsgutachten", "Willkürkontrolle"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau zum vollwertigen Praxiskommentar nach dem Standard von Art. 110 StPO und Art. 336 OR. Erstellung der Prüfschema-Tabelle mit Beweislast und Beweismass. Narrative Sachverhaltsdarstellungen (BGE 144 IV 345, BGE 120 Ia 31, BGE 143 IV 241, BGer 6B_889/2020, 6B_282/2018, 6B_725/2012, 6B_619/2011, BGE 129 I 49, BGer 6B_651/2018). Zweiseitige Grenzkasuistiken mit strukturierten Vergleichstabellen zu DNA-Indizienketten und Vier-Augen-Konstellationen. Offenlegung von Judikaturbrüchen (Entwertung des Zweifelssatzes vor BGer, Dogmenstreit bei in dubio pro duriore). Behandlung kantonaler Praxisfragen (ZH OG, BE OG) und Einbau taktischer Merksätze für Verteidigung, Staatsanwaltschaft und Gerichte. Bereinigung aller Links auf entscheidsuche.ch."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit. BGE 146 IV 88 als Leitentscheid entfernt; Belege auf BGE 144 IV 345 und BGE 120 Ia 31 umgestellt."
 ---
 

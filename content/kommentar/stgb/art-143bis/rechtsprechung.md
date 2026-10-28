@@ -5,13 +5,11 @@ date: 2026-07-24
 lastmod: "2026-08-10"
 description: "Übersicht der verifizierten Entscheide zu Art. 143bis StGB — Hacking-Tatbestand, Teilsystem-Doktrin, Sicherheitslücken"
 tags: ["Rechtsprechung", "StGB", "Cyberkriminalität", "Hacking"]
-agent_verified: true
 revisions:
 
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 15 weitere BGer-Entscheide zu StGB Art. 143bis hinzugefügt"
 ---
 

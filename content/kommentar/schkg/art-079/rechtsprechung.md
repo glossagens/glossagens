@@ -5,17 +5,14 @@ date: 2026-09-12
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 79 SchKG — Beseitigung des Rechtsvorschlags, Anerkennungsklage, Verwaltungsverfahren, Dispositivzusatz, Zustellung, Einwendungen, Grenzkasuistik."
 tags: ["Rechtsprechung", "SchKG", "Rechtsvorschlag", "Anerkennungsklage", "Rechtsöffnung", "Verwaltungsverfahren", "Zustellung", "Dispositivzusatz", "Grenzkasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 119 V 329 (Verwaltungsverfahren, Einwendungen), BGE 128 III 39 (Radio-/TV-Gebühren), BGE 130 III 396 (Krankenkassen), BGE 147 III 41 (Nichtbekanntgabe), BGE 110 III 13 (Abstandserklärung), BGer 5A_547/2015 (Zustellung) neu aufgenommen; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechungsübersicht: 3 BGE-Leitentscheide, 4 weitere BGer-Entscheide, 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
 ---
 

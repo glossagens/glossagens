@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonalen Entscheide zu Art. 96 AIG (Ermessensausübung, Verhältnismässigkeitsprüfung und Verwarnung)."
 tags: ["Rechtsprechung", "AIG", "Migrationsrecht", "Ermessen", "Verhältnismässigkeit", "Verwarnung"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung der Rechtsprechungsübersicht zu Art. 96 AIG. Sämtliche Urteile im Volltext gesichtet und Verlinkungen auf entscheidsuche.ch abgeglichen."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-10-01
 lastmod: 2026-10-03
 description: "Rechtsprechungssammlung zu Art. 53 StGB: Grundsatzentscheide des Bundesgerichts und kantonale Praxis zu den kumulativen Voraussetzungen der Schadenswiedergutmachung, zum Geständnis, zur Differenzierung nach Rechtsgütern und Verfahrensstadien sowie zur Kostenauflage."
 tags: ["Rechtsprechung", "StGB", "Schadenswiedergutmachung", "Strafbefreiung", "Wiedergutmachung", "Geständnis", "öffentliches Interesse", "Verfahrenskosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage mit BGE 135 IV 27 (Leitentscheid). Belege via OCL get_erwaegung geprueft."
   - date: 2026-10-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau gemäss Praxisstandard: 6 Leitentscheide (BGE) und 7 weitere Entscheide (Bundesgericht und Obergerichte ZH, LU, VS) mit detaillierten Sachverhaltsangaben, Pinpoints, Revisionspraxis 2019 und Verfahrensstadienanalyse."
 ---
 

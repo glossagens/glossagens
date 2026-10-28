@@ -5,22 +5,18 @@ date: 2026-08-09
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 95 BV — Privatwirtschaftliche Erwerbstätigkeit: Vorschriften über die Ausübung, einheitlicher Wirtschaftsraum, Unternehmensrecht (Minder-Initiative), Regulierungen"
 tags: ["BV", "Wirtschaftsfreiheit", "Erwerbstätigkeit", "Unternehmensrecht", "Minder-Initiative", "Vergütung", "Wirtschaftsraum"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-095.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 27 %, Urteil C): Die Leitentscheid-Tabelle bestand aus 22 real existierenden BGE-Nummern mit erfundenen Themenbezeichnungen — Stichproben zeigen Entscheide zu Mehrwertsteuer, Friedhofsrecht und Schulunterricht, als Wirtschaftsfreiheit ausgewiesen. Belegapparat ersetzt durch geprüfte BGFA- und BGBM-Entscheide."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitet; das Ergebnis war zu 27 % belegt"
 ---
 

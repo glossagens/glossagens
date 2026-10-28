@@ -23,12 +23,10 @@ normen:
   - { gesetz: zgb, art: art-446 }
   - { gesetz: zgb, art: art-450 }
 stichworte: ["Kindesschutz", "Kindeswohl", "bonum infantis", "KESB", "Kindesschutzbehörde", "Subsidiarität", "Verhältnismässigkeit", "Erziehungsbeistandschaft", "Besuchsbeistandschaft", "Obhutsentzug", "Aufenthaltsbestimmungsrecht", "Fremdplatzierung", "Sorgerechtsentzug", "elterliche Sorge", "Kindesanhörung", "Kindesvertretung", "Gefährdungsmeldung", "Meldepflicht", "Melderecht", "Offizialmaxime", "Untersuchungsmaxime", "vorsorgliche Massnahmen", "Superprovisorium", "Pflegefamilie", "Heimunterbringung"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung Querschnittsthema Kindesschutzrecht nach Skill glossagens-themen (Typ grundlage). Verfassungs- und Gesetzesnormen per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). 15 Leitentscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und Zitate maschinell abgeglichen (pruefen.py)."
 ---
 

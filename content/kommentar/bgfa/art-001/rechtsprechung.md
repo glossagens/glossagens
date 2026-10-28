@@ -5,7 +5,6 @@ date: 2026-06-07
 lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 1 BGFA — Geltungsbereich und Freizügigkeit"
 tags: ["Rechtsprechung", "BGFA", "Geltungsbereich", "Freizügigkeit", "interkantonale Berufsausübung"]
-agent_verified: false
 ---
 
 ## Freizügigkeit — Grundsatz

@@ -5,7 +5,6 @@ date: 2026-07-11
 lastmod: 2026-07-11
 description: "Übersicht der Entscheide zu Art. 231 StPO – Sicherheitshaft nach dem erstinstanzlichen Urteil"
 tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Haftrecht"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

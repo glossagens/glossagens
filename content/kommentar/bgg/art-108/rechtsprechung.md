@@ -5,17 +5,14 @@ date: 2026-08-02
 lastmod: "2026-10-24"
 description: "Übersicht der Entscheide zu Art. 108 BGG — Vereinfachtes Verfahren des Einzelrichters: Nichteintreten bei offensichtlicher Unzulässigkeit, fehlender Begründung, Querulanz sowie Verfahrensgarantien nach EMRK."
 tags: ["Rechtsprechung", "BGG", "vereinfachtes Verfahren", "Nichteintreten", "Einzelrichter", "querulatorisch", "Waffengleichheit", "EMRK"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von EGMR B.K. gegen Schweiz (24268/21 und 55351/21 vom 22.10.2026): Verletzung von Art. 6 Abs. 1 EMRK bei Verweigerung des Replikrechts im vereinfachten Verfahren nach Art. 108 BGG."
   - date: 2026-08-02
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Fokus-Entscheide 8C_202/2026, 8C_419/2026, 4F_15/2026 via OCL case-brief verifiziert."
 ---
 

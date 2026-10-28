@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 27 BV — Wirtschaftsfreiheit, freie Wahl des Berufes, freier Zugang zu privatwirtschaftlicher Erwerbstätigkeit, staatliche Wirtschaftstätigkeit und Wettbewerbsneutralität"
 tags: ["BV", "Grundrechte", "Wirtschaftsfreiheit", "Berufsfreiheit", "Wettbewerbsneutralität", "Konzession", "Monopol"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-027.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 11 %, Urteil C): Kein einziges Belegpaar war gestützt. Belegapparat neu aufgebaut. Zudem 10 Links auf bger.ch (Eurospider-Format) auf kanonische opencaselaw-IDs umgestellt — sie hatten die Belege bis dahin vor dem Audit verborgen. BGE 130 I 26 betrifft den Zulassungsstopp nach Art. 55a KVG, nicht den Numerus clausus im Medizinstudium."
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — Belegapparat beim Audit vom 2026-08-12 vollständig verworfen"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-06-12
 lastmod: 2026-10-19
 description: "Umfassende Übersicht der Rechtsprechung zu Art. 3 EMRK: Leitentscheide des Bundesgerichts, massgebende EGMR-Urteile mit und ohne Schweizer Beteiligung sowie kantonale Gerichtsentscheide."
 tags: ["Rechtsprechung", "EMRK", "Folterverbot", "unmenschliche Behandlung", "erniedrigende Behandlung", "Non-Refoulement", "Haftbedingungen", "Polizeigewalt", "Champ-Dollon"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Erweiterung der Rechtsprechungsübersicht zu Art. 3 EMRK: 9 Leitentscheide des Bundesgerichts (BGE 140 I 125, BGE 140 I 246, BGE 141 I 141, BGE 131 I 455, BGE 148 IV 205, BGE 143 I 304, BGE 148 IV 314, BGE 111 Ib 68, BGE 141 IV 423), 11 EGMR-Leitentscheide (Schweizer Verurteilungen Dembele und Tarakhel, Abweisungen Bardali und M.O., internationale Meilensteine Ireland v. UK, Soering, Selmouni, Mursic, Paposhvili, Gäfgen, Jalloh) und kantonale/verwaltungsgerichtliche Praxis (BVGer E-1070/2016, VG ZH VB.2026.00069, VG ZH RG.2024.00002). Alle Schweizer Entscheide auf entscheidsuche.ch verlinkt."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: Leitentscheide-Liste (BGE) komplett neu aufgebaut, da alle bisherigen BGE-Zitate fabriziert waren (0/6 existierten). Ersetzt durch 5 via check_claim_support verifizierte Entscheide. Erfundenen 'BGer-Entscheid vom 7. August 2026 — Hazara-Zugehörigkeit' entfernt (nicht verifizierbar, kein close_match)."
 ---
 

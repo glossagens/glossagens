@@ -5,23 +5,18 @@ date: 2026-08-09
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 45 BV — Mitwirkung der Kantone an der Willensbildung des Bundes, Informationspflicht des Bundes, Vernehmlassungsverfahren nach Art. 147 BV und VlG"
 tags: ["BV", "Mitwirkung", "Kantone", "Vernehmlassung", "Bundesstaat", "föderalistische Mitwirkung", "Willensbildung"]
-agent_verified: false
-mcp_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-045.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 0 %, Urteil C): Sämtliche zwölf BGE-Referenzen existierten nicht; von elf beurteilbaren Paaren war keines gestützt. Belegapparat vollständig entfernt und durch geprüftes Gesetzesrecht ersetzt. Befund: Zu Art. 45 BV besteht praktisch keine direkte bundesgerichtliche Rechtsprechung — die Norm richtet sich an das Gesetzgebungsverfahren, nicht an den Richter. Beide Flags zurückgenommen."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vierzehn aufeinanderfolgende Audit-Überarbeitungen am selben Tag; das Ergebnis trug mcp_verified: true und enthielt zwölf erfundene Referenzen"
 ---
 

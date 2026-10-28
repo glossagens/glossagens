@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 166 StGB: Verletzung der Pflicht zur ordnungsmässigen Führung und Aufbewahrung von Geschäftsbüchern oder zur Bilanzaufstellung (Art. 957 ff. OR) — Täterqualifikation, Organhaftung (Art. 29 StGB), Taterfolg des unvollständigen Vermögensstands, Kasuistik (angewandt vs. verworfen), Konkurrenzen und taktische Praxishinweise."
 tags: ["StGB", "Unterlassung der Buchführung", "Buchführungspflicht", "Konkursdelikte", "Bilanz", "Aufbewahrungspflicht", "Organhaftung", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-166.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar gemäss Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR): Vollständiges Prüfschema vorangestellt; dogmatisches Gerüst strikt nach Tatbestandsmerkmalen; narrative Ausarbeitung realer Aktenfälle mit zweiseitiger Grenzkasuistik (Angewandt vs. Verworfen: u.a. BGE 148 IV 170, BGE 131 IV 56, BGE 117 IV 163, BGE 116 IV 26; BGer 7B_758/2023, BGer 6B_774/2025, BGer 6B_1262/2020, BGer 6B_1340/2017, BGer 6B_448/2018; kantonale Entscheide ZH OG SB230104, BS APG SB.2018.36, AG OG SST.2024.11, GR KG SK1 2020 41); Fallvergleichstabellen, kantonale Praxisfragen und taktische Praxishinweise für Verteidigung, Staatsanwaltschaft und Konkursverwaltung; alle Urteilslinks verbatim über entscheidsuche.ch belegt; Gesetzeswortlaut verbatim nach Fedlex (Stand 12. Juni 2026)."
 ---
 

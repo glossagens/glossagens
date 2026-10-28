@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Übersicht der Rechtsprechung zu Art. 19 BetmG – Grundtatbestände, Anstaltentreffen, Mengenschwellen, Banden- und Gewerbsmässigkeit sowie Strafmilderung und Territorialität."
 tags: ["Rechtsprechung", "BetmG", "Mengenschwelle", "Gewerbsmässigkeit", "Bandenmässigkeit", "Anstaltentreffen", "Landesverweisung"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung der Rechtsprechungsübersicht zu Art. 19 BetmG. Sämtliche Bundesgerichts- und Kantonsentscheide wurden im Volltext über entscheidsuche.ch und die Bundesgerichtsdatenbank verifiziert und mit funktionierenden Hyperlinks versehen."
 ---
 

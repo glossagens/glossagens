@@ -5,22 +5,18 @@ date: 2026-06-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 16 ATSG: Allgemeine Methode der Invaliditätsbemessung, Einkommensvergleich, Valideneinkommen, Invalideneinkommen, LSE-Tabellenlöhne, Abzüge und Parallelisierung."
 tags: ["ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Sozialversicherungsrecht", "Invalidenversicherung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-016.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "BGer 8C_65/2026 integriert: Relativierung des Grundsatzes der Einheit des Invaliditätsbegriffs zwischen IVG und UVG trotz Art. 16 ATSG; Ausschluss der IVV-Analogie im UVG."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 

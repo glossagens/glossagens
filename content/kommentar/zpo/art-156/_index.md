@@ -5,22 +5,18 @@ date: "2026-06-03"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 156 ZPO – Wahrung schutzwürdiger Interessen bei der Beweisabnahme: Schutzmassnahmen, Geschäftsgeheimnisse, strafbewehrte Geheimhaltungspflicht"
 tags: ["ZPO", "Beweisrecht", "Geschäftsgeheimnis", "Schutzmassnahmen", "schutzwürdige Interessen"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-156.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Bundle-Belegquote 17 % → 83 %, Urteil A); Pinpoints für BGE 148 III 84 auf die tragenden Erwägungen korrigiert (E. 3.2.3, E. 3.2.4, E. 3.3.1, E. 3.5.1); ungestützte Belege aus dem Straf- und Sozialversicherungsrecht entfernt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 2 von 24 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

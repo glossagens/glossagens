@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 269d OR: Formularpflicht, Begründungsanforderungen, einseitige Leistungsverminderungen und Nebenkostenänderungen (Abs. 3), relative Empfangstheorie, Bedenkfrist, Nichtigkeit vs. Konversion sowie die Revision 2025 zur mechanischen Unterschrift (Abs. 4) und zu Staffel-/Indexmieten (Abs. 5)."
 tags: ["OR", "Mietrecht", "Formularpflicht", "Mietzinserhöhung", "Vertragsänderung", "Nebenkosten", "Bedenkfrist", "Nichtigkeit", "Rechtsmissbrauch"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Ersterstellung als Praxiskommentar gemäss Benchmark-Standard (Art. 110 StPO, Art. 336 OR): Ausführliche dogmatische Gliederung entlang des Prüfschemas, zweiseitige Grenzkasuistik mit belegten Lebenssachverhalten, Gegenüberstellungstabellen, Darlegung der relativen Empfangstheorie, der Schranken des Rechtsmissbrauchs sowie vollständige Einarbeitung der Gesetzesrevision vom 29. September 2023 (Inkrafttreten 1. Oktober 2025, Abs. 4 und 5). Alle Urteile gegen Volltexte geprüft und verbatim verlinkt."
 ---
 

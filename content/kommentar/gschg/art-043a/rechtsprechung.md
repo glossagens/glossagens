@@ -5,7 +5,6 @@ date: 2026-06-07
 lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 43a GSchG – Geschiebehaushalt, wesentliche Beeinträchtigung, Revitalisierung"
 tags: ["Rechtsprechung", "GSchG", "Geschiebehaushalt", "Revitalisierung", "Artenschutz", "UVP"]
-agent_verified: false
 ---
 
 ## Wesentliche Beeinträchtigung — Begriffsbestimmung

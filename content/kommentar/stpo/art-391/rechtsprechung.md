@@ -5,7 +5,6 @@ date: "2026-07-04"
 lastmod: "2026-07-04"
 description: "Übersicht der Entscheide zu Art. 391 StPO: Entscheid der Rechtsmittelinstanz und Verbot der reformatio in peius."
 tags: ["Rechtsprechung", "reformatio in peius", "Verschlechterungsverbot", "Rechtsmittel"]
-agent_verified: false
 ---
 
 ## Bundesgerichtsentscheide (BGE)

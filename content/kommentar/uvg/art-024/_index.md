@@ -5,17 +5,14 @@ date: 2026-09-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 24 UVG: Anspruch auf Integritätsentschädigung — dauernde und erhebliche Integritätseinbusse, abstrakt-egalitäre Bemessung nach medizinischem Befund, Ausschluss subjektiver Kriterien, unkorrigierter Zustand (Hilfsmittel/Endoprothesen), 5%-Bagatellschwelle, Mehrfachschäden (Addition vs. Quervergleich), Judikaturdivergenz Schmerztabelle, Sonderregelung Asbest/Mesotheliom sowie volles Quotenvorrecht gegenüber der Genugtuung (BGE 151 III 328)."
 tags: ["UVG", "Integritätsentschädigung", "Integritätsschaden", "Sozialversicherung", "UVV", "Genugtuung", "Quotenvorrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Praxisorientierte Ersterstellung zu Art. 24 UVG gemäss Praxiskommentar-Standard (Benchmarks Art. 110 StPO, Art. 336 OR); sämtliche Entscheide und Zitate gegen entscheidsuche.ch und Fedlex verifiziert"
 ---
 

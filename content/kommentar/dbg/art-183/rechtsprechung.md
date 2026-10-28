@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 183 DBG (Strafverfahren wegen Steuerhinterziehung; Beweisverwertungsverbot; nemo tenetur)"
 tags: ["Rechtsprechung", "DBG", "Steuerhinterziehung", "Beweisverwertungsverbot"]
-agent_verified: false
 ---
 
 # Rechtsprechungssammlung zu Art. 183 DBG

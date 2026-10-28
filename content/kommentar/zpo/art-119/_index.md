@@ -5,27 +5,22 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 119 ZPO: Gesuch um unentgeltliche Rechtspflege — Verfahren, Mitwirkungsobliegenheit, Notbedarfsberechnung, Kostenlosigkeit und Kasuistik."
 tags: ["ZPO", "Unentgeltliche Rechtspflege", "Verfahren", "Mitwirkungspflicht", "Kostenlosigkeit", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-119.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von Kostenlosigkeit (BGE 137 III 470), Mitwirkungsobliegenheiten (BGer 4A_114/2013), Konkubinatsberücksichtigung (BGE 142 III 36), Gegenparteistellung (BGE 139 III 334) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 13 % → 100 %, Urteil A); BGE 143 III 213 existiert nicht und wurde entfernt; die Aussage zur Mitwirkungspflicht ruht neu auf Art. 119 Abs. 2 ZPO statt auf BGE 119 III 103, der etwas anderes entscheidet"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 13 % (Urteil C); 0 von 15 Paaren gestützt; 11 ungestützt; 1 nicht existente Referenz; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

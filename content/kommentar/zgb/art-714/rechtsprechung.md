@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 714 ZGB — derivativer Fahrniserwerb (traditio, dinglicher Vertrag) und gutgläubiger Erwerb vom Nichtberechtigten (Art. 714 Abs. 2 i.V.m. Art. 933 ff. ZGB) mit Kasuistik aus Occasionswagen-, Kunst- und Antiquitätenhandel."
 tags: ["Rechtsprechung", "ZGB", "Fahrniseigentum", "gutgläubiger Erwerb", "Occasionswagen", "Kunsthandel", "Besitzesregeln", "Kausalitätsprinzip"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 11 Entscheide via entscheidsuche.ch im Volltext abgerufen und ausgewertet (BGE 113 II 397, BGE 121 III 345, BGE 121 IV 26, BGE 122 III 1, BGE 139 III 305, BGer 4A_25/2023, BGer 5A_925/2013, BGer 5A_962/2017, BL KG 410 23 305, GR KG ZK2 21 32, ZH OG LB230022). Links verbatim aus document_url-Feldern übernommen."
 ---
 

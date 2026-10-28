@@ -5,12 +5,10 @@ date: 2026-09-29
 lastmod: 2026-09-29
 description: "Übersicht der Rechtsprechung zu Art. 106 BGG: Iura novit curia, Motivsubstitution, Schranke der überraschenden Rechtsanwendung, qualifiziertes Rügeprinzip für Grundrechte sowie kantonales Recht, Unzulässigkeit appellatorischer Kritik und Anfechtungsobliegenheit bei Mehrfachbegründung."
 tags: ["Rechtsprechung", "BGG", "Rechtsanwendung", "Iura novit curia", "Rügeprinzip", "Willkür", "Motivsubstitution"]
-agent_verified: false
 revisions:
   - date: 2026-09-29
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung der Rechtsprechungsübersicht zu Art. 106 BGG mit Leitentscheiden des Bundesgerichts sowie weiteren Bundesgerichts- und kantonalen Entscheiden, vollständig belegt und verlinkt auf entscheidsuche.ch."
 ---
 

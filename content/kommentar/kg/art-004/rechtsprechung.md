@@ -5,7 +5,6 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 4 KG (Begriffe: Wettbewerbsabrede, Marktbeherrschung, relative Marktmacht und Unternehmenszusammenschluss)."
 tags: ["Rechtsprechung", "KG", "Kartellrecht", "Marktbeherrschung", "Relative Marktmacht", "Unternehmenszusammenschluss"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

@@ -5,22 +5,18 @@ date: 2026-05-10
 lastmod: 2026-10-27
 description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, Beweisverwertungsverbote, Waffengleichheit, Replikrecht, Strafbefehlsverfahren und kantonale Praxisfragen"
 tags: ["Rechtsprechung", "EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Beweisverwertungsverbote", "Replikrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGE-Leitentscheiden zu Beweisverwertungsverboten (BGE 146 IV 226, 147 IV 9), Konfrontation (BGE 148 I 295, 131 I 476, 140 IV 172, 144 IV 28), Kartellrecht (BGE 139 I 72), FINMA (BGE 142 II 243), Ausländerrecht (BGE 137 I 128), Strafbefehl (BGE 140 IV 82, 152 IV 96) sowie EGMR Schenk v. Schweiz, Belilos v. Schweiz und Maaouia v. Frankreich."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von EGMR B.K. gegen Schweiz (Nr. 24268/21 und 55351/21 vom 22.10.2026): Verletzung von Art. 6 Abs. 1 EMRK durch Versagung des Replikrechts bei von Amtes wegen eingeholten Informationen im vereinfachten BGG-Verfahren (Art. 108 BGG)."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: BGE-Liste in Abschnitt I bereinigt (siehe _index.md-Revisionsvermerk für Details), verdächtige bger.ch/ext/eurolex-URL korrigiert. EGMR-Abschnitt (II.) unverändert -- Fallnamen sind bekannte Leitentscheide, aber nicht über den (Schweiz-skopierten) opencaselaw-Bestand verifizierbar."
 ---
 

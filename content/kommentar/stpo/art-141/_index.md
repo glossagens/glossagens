@@ -5,52 +5,42 @@ date: "2026-05-09"
 lastmod: 2026-10-22
 description: "Praxiskommentar zu Art. 141 StPO – Beweisverwertungsverbot: dreistufiges System und Fernwirkung mit ausführlicher Kasuistik zu Unterbrechung der Kausalkette, PIN-Erfragung, verdeckter Ermittlung, Dashcam, Gültigkeits- vs. Ordnungsvorschriften und Aktenbereinigung"
 tags: ["StPO", "Beweisverwertungsverbot", "Fernwirkung", "Beweisrecht", "Praxiskommentar", "nemo tenetur", "verdeckte Ermittlung", "Gültigkeitsvorschrift"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: false
     note: "Einarbeitung des Grundsatzurteils BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung der I. strafrechtlichen Abteilung): Verbot von Fishing Expeditions und Vorwandskontrollen bei Identitätskontrollen ohne Tatverdacht (Racial Profiling) mit partiellem Überwiegen der Grundrechte (Art. 8 Abs. 2, Art. 10 Abs. 2 BV; Art. 8, 14 EMRK) bei der Interessenabwägung nach Art. 141 Abs. 2 StPO; zwingende Natur der Aktenentfernung nach Art. 141 Abs. 5 StPO ohne Zulässigkeit eines finanziellen Entschädigungssurrogats und Freispruch bei Fehlen weiterer Beweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-141.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-02
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_133/2025 (private Observationsaufnahmen aus IV-Verfahren; Bestätigung des abstrakten Beurteilungsmassstabes nach BGE 151 IV 124; konkrete Umstände wie fehlender Tatverdacht und ländliche Ärztedichte unbeachtlich) im Abschnitt C (hypothetisch rechtmässige Erlangbarkeit) mit Sachverhaltsschilderung und Blockzitat aus E. 5.3.2 und E. 5.4. Belege via OCL (get_erwaegung) und entscheidsuche (search_by_case_number) verifiziert."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_978/2025 (Leitentscheid: Gesamtwürdigung zusammenhängender Delikte bei Tatschwereprüfung nach Art. 141 Abs. 2 StPO), BGE 151 IV 124 (abstrakter Massstab bei hypothetisch rechtmässiger Erlangbarkeit privater Beweismittel) und BGer 7B_80/2025 (Bestätigung des abstrakten Massstabes). Neue Kasuistik zur Gesamtwürdigung und zum abstrakten Beurteilungsmassstab in Abschnitt C (Unerlässlichkeit) eingearbeitet."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Systematische Vertiefung von Art. 141 Abs. 4 StPO (Fernwirkung und Unterbrechung der Kausalkette): Dogmatik der Unterbrechung (conditio sine qua non, Inevitable Discovery, Independent Source, Zäsur/Aussageautonomie); Einarbeitung des Bundesgerichtsurteils BGer 6B_206/2026 vom 19.08.2026 (AIG-Folgebeweise trotz fehlender Überwachungsgenehmigung verwertbar wegen unabhängiger Vorerkenntnisse der Fremdenpolizei) sowie der Leitentscheide BGer 6B_350/2026 (keine Gesamtkontamination nach unverwertbarer Ersteinvernahme), BGer 6B_462/2025 (gerichtliche Prüfpflicht bei Folgebeweisen), BGer 6B_924/2025 und BGer 6B_506/2024; Gegenüberstellung von Anwendungs- und Verwerfungsfällen in Kasuistiktabelle; prozessuale Rüge- und Substanziierungsobliegenheit."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Nachführung auf die Skill-Fassung vom 04.09.2026, 15:09 (Tatbestandsmerkmale als Grundgerüst): Abschnittsüberschriften benannten bisher Fälle statt Merkmale («Der Zugangscode-Fall», «Die Wahrsagerin als verdeckte Ermittlerin», «Zwei private Filmaufnahmen, zwei Ergebnisse», «Der irreparable Nachteil als Wächter des Rechtswegs») und sind neu nach den Merkmalen benannt. Die Abschnitte zur Unerlässlichkeit (Abs. 2) und zur Qualifikation als Gültigkeits- oder Ordnungsvorschrift waren gegenüber dem eigenen Prüfschema vertauscht — die Reihenfolge folgt neu der Prüfungsreihenfolge (Schutzzweck-Qualifikation vor Interessenabwägung). Prüfschema-Tabelle um Lastverteilung und Abschnittsbezug ergänzt, Querverweis in der Einleitung korrigiert. Fundstelle BGE 146 IV 226 von opencaselaw auf entscheidsuche.ch umgestellt und im Volltext geprüft. Gesetzeswortlaut erneut verbatim gegen Fedlex (SR 312.0, Konsolidierung 01.04.2025) geprüft; Bestand an Entscheiden und Zitaten unverändert."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau (Skill praxisorientierter-kommentar): narrative Sachverhaltsschilderungen zu BGE 151 IV 73, 148 IV 205, 147 IV 9, 147 IV 16, 151 IV 18, 139 IV 128 und BGer 7B_1429/2025 ergänzt, Judikaturspannung Gültigkeits-/Ordnungsvorschrift offengelegt, Kasuistiktabellen und Merksätze eingefügt. Gesetzestext unverändert aus Vorrevision übernommen (bereits Fedlex-verifiziert); alle neu ausgewerteten Entscheide im Volltext über opencaselaw geprüft, Verlinkung auf entscheidsuche.ch umgestellt (CLAUDE.md-Vorgabe vom 29.08.2026)."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "BGer-Update: BGer 7B_1429/2025 (SkyECC-Daten, Aktenbereinigung, Zwischenentscheid) ergaenzt. check_claim_support: partial (Kontextzitat zu Art. 141 Abs. 5). Alle 23+22 OCL-Links verifiziert (HTTP 200)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 ---
 

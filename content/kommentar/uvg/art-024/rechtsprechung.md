@@ -5,12 +5,10 @@ date: 2026-09-10
 lastmod: 2026-09-10
 description: "Übersicht der Rechtsprechung zu Art. 24 UVG — Anspruch auf Integritätsentschädigung"
 tags: ["Rechtsprechung", "UVG", "Integritätsentschädigung", "Integritätsschaden", "Sozialversicherung"]
-agent_verified: false
 revisions:
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht zu Art. 24 UVG mit Leitentscheiden des Bundesgerichts, weiteren BGer-Urteilen und kantonalen Entscheiden erstellt; alle Entscheide auf entscheidsuche.ch verifiziert"
 ---
 

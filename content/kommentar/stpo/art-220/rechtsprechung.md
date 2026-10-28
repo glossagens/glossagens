@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-05-24
 description: "Leading Cases und systematische Rechtsprechung zu Art. 220 StPO (Untersuchungshaft / Sicherheitshaft)"
 tags: ["Rechtsprechung", "StPO", "Untersuchungshaft", "Sicherheitshaft", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Landesverweisung", "vorzeitiger Strafvollzug"]
-agent_verified: true
 ---
 
 ## Leitentscheide (BGE)

@@ -5,12 +5,10 @@ date: 2026-06-06
 lastmod: 2026-09-08
 description: "Strukturierte Rechtsprechungsübersicht zu Art. 63 AIG (Widerruf der Niederlassungsbewilligung und Rückstufung): Leitentscheide des Bundesgerichts sowie ausgewählte Urteile kantonaler Obergerichte und Verwaltungsgerichte."
 tags: ["Rechtsprechung", "AIG", "Niederlassungsbewilligung", "Widerruf", "Rückstufung", "Sozialhilfe", "Dualismusverbot", "Integration"]
-agent_verified: true
 revisions:
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht auf 17 systematisch gegliederte Leit- und Praxisentscheide (9 BGEs, 4 BGer-Urteile und 4 kantonale Gerichtsentscheide aus ZH und AG). Volltexte und Verlinkungen über entscheidsuche.ch verifiziert."
 ---
 

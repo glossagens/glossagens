@@ -5,27 +5,22 @@ date: 2026-08-11
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 47 StGB: Grundsätze der Strafzumessung, Drei-Stufen-Modell (objektive und subjektive Tatkomponenten, hypothetische Einsatzstrafe, Täterkomponenten), Doppelverwertungsverbot, Geständnisrabatt, Strafempfindlichkeit, Verbindungsbusse, überlange Verfahrensdauer, Kasuistik und taktische Praxishinweise."
 tags: ["StGB", "Strafzumessung", "Verschulden", "Tatkomponenten", "Täterkomponenten", "Einsatzstrafe", "Drei-Stufen-Modell", "Doppelverwertungsverbot", "Geständnisrabatt", "Strafempfindlichkeit", "Verbindungsbusse", "Beschleunigungsgebot", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_710/2025 vom 5.10.2026 (häusliche Gewalt; pauschale Verschuldensbewertung ohne einzeltatbezogene Darlegung verletzt Art. 50 StGB; globale Strafzumessung bei Konkurrenz ungenügend; Ameliorationsprognose beim Teillaufschub; Tatenverleugnung als spezialpräventives Kriterium; Vorstrafenlosigkeit vs. Freiheitsstrafe): Neuer Abschnitt F.3 Kasuistik mit Sachverhaltsschilderung und zwei Blockzitaten aus E. 5.7; Ergänzung Abschnitt F.4 (Kognition bei Konkurrenzfällen); Ergänzung Abschnitt A.1 (Strafenwahl, Vorstrafenlosigkeit, Tatenverleugnung); aktualisierter Leitsatz F. Volltext via bger.ch verifiziert (Entscheid vom 5.10.2026, entscheidsuche/OCL noch nicht indexed)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-047.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-30
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_497/2025 vom 9.9.2026 (Verbindungsbusse, Einklang Verschulden/Strafmass, Strafempfindlichkeit Berufschauffeur): Neuer Abschnitt B.6 zur Verbindungsbusse (Art. 42 Abs. 4 StGB) mit Kasuistik und Blockzitat; Ergänzung Abschnitt A.4 (begrifflicher Einklang Verschulden/Strafmass); Ergänzung Abschnitt B.3 (Berufschauffeur/Führerausweisentzug); Praxishinweis Gericht (Verbindungsbusse) ergänzt. Zitat und Fundstellen via entscheidsuche verifiziert."
   - date: 2026-08-11
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit."
 ---
 

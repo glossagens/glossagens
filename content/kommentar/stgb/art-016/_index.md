@@ -5,27 +5,22 @@ date: 2026-05-16
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 16 StGB: Notwehrlage als Vorfrage, Abgrenzung des intensiven vom extensiven Exzess, Verhältnismässigkeitsmassstab und Stufenkaskade beim Einsatz von Messern und Schusswaffen, obligatorische Strafmilderung nach Abs. 1 mit belegten Reduktionssätzen, die drei Merkmale des entschuldbaren Exzesses nach Abs. 2 sowie Putativnotwehrexzess — mit der Kasuistik der Gerichte zu jedem Merkmal und den offenen Judikaturdivergenzen."
 tags: ["StGB", "Notwehrexzess", "Notwehr", "Entschuldbare Notwehr", "Entschuldigungsgrund", "Intensiver Exzess", "Extensiver Exzess", "Putativnotwehrexzess", "Messereinsatz", "Schusswaffengebrauch", "Strafmilderung", "Art. 48a StGB", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-016.json), inkl. Fussnoten; ebenso die Bezugsnorm Art. 15 StGB. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständige Neufassung als praxisorientierter Kommentar entlang der Tatbestandsmerkmale. Auslöser war eine Verifikation der Vorfassung: Die Revision vom 29.08.2026 (Antigravity Agent, gemini-3.7-flash) trug mcp_verified: true, enthielt aber durchgehend erfundene oder invertierte Sachverhalte und Urteilsergebnisse — BGE 142 IV 14 war dort als Freispruch nach Art. 16 Abs. 2 dargestellt, tatsächlich erging eine Verurteilung nach Art. 111 i.V.m. Art. 16 Abs. 1; 6B_810/2011 war als Restaurantstreit geschildert, tatsächlich Baustelle/Vorgarten Luzern; BGE 136 IV 49 mit falschen Stichlokalisationen; 6B_971/2018 als Tritt-Fall statt als Schusswaffenfall; BS SB.2022.66 und BS SB.2018.21 mit umgekehrtem Ergebnis (in Wahrheit beide Freispruch nach Art. 16 Abs. 2); ZH SB230533 mit frei erfundenem Sachverhalt; BGE 125 IV 49 betrifft Putativnotstand, nicht Putativnotwehr; die Erwägungsanker der älteren BGE (#consideration_3b u. a.) existieren nicht. Der gesamte Text wurde daher verworfen und neu geschrieben. Gesetzeswortlaut Art. 15, 16 und 48a verbatim aus der Fedlex-MCP (SR 311.0, Konsolidierung 12.06.2026). Sämtliche zitierten Entscheide im Volltext über entscheidsuche.ch gesichtet: BGE 101 IV 119, 102 IV 1, 102 IV 228, 107 IV 12, 109 IV 5, 136 IV 49, 142 IV 14 sowie BGer 6B_1039/2010, 6B_810/2011, 6B_345/2013, 6B_632/2012, 6B_1211/2015, 6B_853/2016, 6B_873/2018, 6B_971/2018, 6B_1454/2020, 7B_13/2021, 6B_113/2025, 6B_836/2025, 6B_709/2025 und die kantonalen Entscheide BS SB.2018.21, BS SB.2022.66, ZH SB230533, BE SK 2017 171, LU 21 04 44. Alle Links auf entscheidsuche.ch, HTTP-Status jedes Links geprüft; Erwägungsanker nur bei BGE gesetzt und je einzeln gegen die im Dokument tatsächlich vorhandenen id-Attribute abgeglichen (ältere BGE tragen den Anker mit nachgestelltem Punkt, BGer-Dokumente tragen gar keine)."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: false
     note: "VERWORFEN. Als praxisorientierter Ausbau deklariert; die Verifikation vom 09.09.2026 ergab durchgehend erfundene Sachverhalte und mehrfach invertierte Urteilsergebnisse. Das Flag mcp_verified wurde nachträglich auf false korrigiert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026); alle Zitat-Links HTTP 200"
 ---
 

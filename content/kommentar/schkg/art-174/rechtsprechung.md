@@ -5,22 +5,18 @@ date: 2026-07-31
 lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 174 SchKG — Beschwerde gegen Konkurseröffnung, Novenrecht, Konkurshinderungsgründe, Zahlungsfähigkeitsnachweis, Hinterlegung unter Bedingung, Gläubigerbeschwerde bei Rechtsmissbrauch."
 tags: ["Rechtsprechung", "SchKG", "Konkurs", "Konkurseröffnung", "Konkurshinderungsgründe", "Zahlungsfähigkeit", "Novenrecht", "Hinterlegung", "Grenzkasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 151 III 574, BGE 136 III 294, BGE 139 III 491 vertieft; BGE 135 III 31, BGE 135 III 509, BGE 133 III 687, BGE 149 III 186, BGE 150 III 262 neu aufgenommen; BGer 5A_375/2025, 5A_33/2021, 5A_277/2010 verifiziert; kantonale Entscheide beibehalten; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und BGer-Entscheiden, vollständigen Sachverhalten zum Konkursnovenrecht und Verlinkung auf entscheidsuche.ch."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31"
 ---
 

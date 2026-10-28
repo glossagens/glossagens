@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 213 SchKG: Verrechnung im Konkurs — Grundsatz der Verrechenbarkeit (Abs. 1), zeitliche Schranken und Ausnahmen (Abs. 2 Ziff. 1 & 2), vor Konkurs entstandener Rechtsgrund (BGE 107 III 139), Inhaberpapiere (Abs. 3) und Verbot der Verrechnung von Einlageschulden (Abs. 4)."
 tags: ["SchKG", "Verrechnung", "Konkurs", "Gegenseitigkeit", "Konkurseröffnung", "Einlageschuld", "Inhaberpapiere", "Dauerschuldverhältnis"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der Verrechnung im Konkurs, BBl-Materialien (1991 III 1), Prüfschema, Vorrang des vor Konkurs entstandenen Rechtsgrunds vor Fälligkeit (BGE 107 III 139, BGE 106 III 114), Dauerschuldverhältnisse (Miete, BGE 115 III 65), Verrechnungsverbot für Aktienliberierungen (Abs. 4), Kompetenz der Gläubigerversammlung (BGE 103 III 8) und Praxishinweise."
 ---
 

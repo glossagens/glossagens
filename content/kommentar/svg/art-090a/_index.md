@@ -5,22 +5,18 @@ date: 2026-09-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 90a SVG: Sicherungseinziehung von Tatfahrzeugen nach groben Verkehrsregelverletzungen, Abgrenzung zur Sicherungsbeschlagnahme nach Art. 263 StPO, Drittfahrzeuge (Leasing) und Beschwerdelegitimation (Leasingnehmer vs. Halter)."
 tags: ["SVG", "Strassenverkehrsrecht", "Einziehung", "Beschlagnahme", "Raserdelikt", "Leasing", "Beschwerdelegitimation", "Verhältnismässigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-090a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstkommentierung mit Einarbeitung des Urteils BGer 7B_1210/2025 vom 21. August 2026 (Beschlagnahme eines Leasingfahrzeugs; Beschwerdelegitimation des Leasingnehmers vs. Nichteintreten beim blossen Halter). Gesetzeswortlaut verbatim aus Fedlex (SR 741.01, Stand 1. Juli 2026). Entscheide über entscheidsuche.ch belegt."
   - date: 2026-09-12
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung BGer 6B_772/2025: Querverweis auf Ersttäterprivileg-Entscheidung (Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Abs. 3ter aus; Bedeutung für Art. 90a-Einziehungsvoraussetzungen)."
 ---
 

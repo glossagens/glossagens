@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Übersicht der Rechtsprechung zu Art. 49a KG: Direkte Verwaltungssanktionen, strafrechtsähnlicher Charakter (EMRK 6/7), Bemessung nach der SVKG, Kronzeugenregelung (Bonus), Verjährung und Safe-Harbour-Meldung."
 tags: ["Rechtsprechung", "KG", "Kartellrecht", "Verwaltungssanktionen", "SVKG", "Selbstanzeige", "Bonusregelung", "GABA", "BMW", "Swisscom"]
-agent_verified: false
 revisions:
   - date: 2026-10-19
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Volltextrecherche und Verifikation relevanter Leitentscheide zu Art. 49a KG auf entscheidsuche.ch."
 ---
 

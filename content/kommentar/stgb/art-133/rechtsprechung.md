@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 133 StGB — Raufhandel: Mindestbeteiligung, objektive Strafbarkeitsbedingung, Straflosigkeit bei Abwehr, Abgrenzung zum Angriff (Art. 134), Geschädigtenstellung."
 tags: ["Rechtsprechung", "StGB", "Raufhandel", "Kollektivdelikt", "Gefährdungsdelikt", "Angriff", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; dubiose kantonale Zitate entfernt; 8 verifizierte BGE/BGer-Entscheide via entscheidsuche.ch; BGE 152 IV 64 (2026) und 6B_87/2024 neu aufgenommen"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

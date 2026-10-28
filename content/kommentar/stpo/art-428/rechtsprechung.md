@@ -5,22 +5,18 @@ date: 2026-06-20
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 428 StPO – Kostentragung im Rechtsmittelverfahren: Obsiegen und Unterliegen, Ausnahmen bei nachträglicher Tatbestandsverwirklichung und unwesentlicher Abänderung, Devolutiveffekt und Vorinstanzkosten, Rückweisung und Gegenstandslosigkeit."
 tags: ["Rechtsprechung", "StPO", "Kosten", "Rechtsmittelverfahren", "Obsiegen", "Unterliegen", "Rückweisung", "Revision", "Reformatio in peius"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Volltext-Abgleich aller Entscheide; Korrekturen: BGE 139 IV 282 (Sachverhalt und Aussage, betrifft Art. 391 Abs. 2), BGE 147 IV 36 (Sachverhalt, keine Kostenaussage zum Rückzug), BGE 143 IV 434 (Privatklägerschaft gilt im Berufungsverfahren als unterliegend), BGE 138 IV 248 (Sachverhalt), BGE 137 IV 352, BGer 6B_290/2024, 1B_525/2021 (Nichteintreten), 6B_900/2017, 6B_866/2016, 6B_1046/2013, 6B_1211/2013, 6B_482/2018, SH OGE 50/2014/3 (Datum 16. Juni 2015)."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 8 Leitentscheiden (BGE) und 11 weiteren Entscheiden (BGer und Kantone); alle Links auf entscheidsuche.ch validiert."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit verifizierten Leitentscheiden."
 ---
 

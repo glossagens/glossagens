@@ -5,7 +5,6 @@ date: 2026-05-09
 lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 212 StPO — Grundsätze der Zwangsmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Zwangsmassnahmen", "Haft"]
-agent_verified: false
 ---
 
 ## Präzisierungen 2026

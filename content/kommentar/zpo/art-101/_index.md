@@ -5,22 +5,18 @@ date: "2026-05-16"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 101 ZPO – Leistung des Vorschusses und der Sicherheit, zwingende Nachfrist nach Abs. 3"
 tags: ["ZPO", "Kostenvorschuss", "Nachfrist", "Nichteintreten", "Sicherheitsleistung", "vorsorgliche Massnahmen"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-101.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert; die Wiedergabe von Art. 98 Abs. 1 ZPO entsprach der vor dem 1.1.2025 geltenden Fassung (voller statt halber Vorschuss) und wurde richtiggestellt; kantonale Entscheide entlinkt, weil für sie keine Erwägungen erschlossen sind"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 37 % (Urteil C); 5 von 31 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

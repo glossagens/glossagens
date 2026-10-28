@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Frist, Form, Übermittlungswegen und Beweislast des Rechtsvorschlags gemäss Art. 74 SchKG."
 tags: ["Rechtsprechung", "SchKG", "Rechtsvorschlag", "Zahlungsbefehl", "Frist", "Formfreiheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Strukturierte Rechtsprechungsübersicht mit 12 vollständig verifizierten Leitentscheiden und kantonalen Urteilen auf entscheidsuche.ch (BGE 149 III 218, BGE 127 III 181, BGE 108 III 6, BGE 98 III 27, BGE 99 III 58, BGE 84 III 13, BGE 89 III 10, BGE 91 III 1, BGE 140 III 567, BGer 5A_406/2025, ZG OG BA 2025 81, AR OG OG AB-15-5, SO OGer ZZ.1986.8); wörtlich verifiziert; kein Eszett."
 ---
 

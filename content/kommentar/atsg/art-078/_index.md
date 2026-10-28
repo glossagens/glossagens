@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 78 ATSG: Staatshaftung und Organhaftung der Sozialversicherungsträger, qualifizierte Widerrechtlichkeit, Geltendmachung von Ersatzforderungen und Verfahren."
 tags: ["ATSG", "Verantwortlichkeit", "Organhaftung", "Ersatzforderung", "Staatshaftung", "Sozialversicherung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-078.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-05-15
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 117 StGB: Fahrlässige Tötung — Prüfungsschema der Fahrlässigkeit, Sorgfaltspflichtverletzung, Voraussehbarkeit und Vermeidbarkeit, Selbstgefährdung, ärztliche Sorgfalt nach Ex-ante-Perspektive, Eventualvorsatz-Abgrenzung."
 tags: ["StGB", "Fahrlässige Tötung", "Sorgfaltspflicht", "Adäquanz", "Voraussehbarkeit", "Garantenstellung", "Arztstrafrecht", "Selbstgefährdung", "Eventualvorsatz", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung: BGE 148 IV 39 (ärztliche Sorgfaltspflicht, Freispruch), BGE 130 IV 58 (Raserunfall: Eventualvorsatz vs. bewusste Fahrlässigkeit), BGE 122 IV 303 (Lehrer auf Bergwanderung), BGE 125 IV 189 (Selbstgefährdung: Motorfahrrad), BGer 7B_854/2025 (ärztliche Ex-ante-Perspektive); alle Links durch entscheidsuche.ch ersetzt; unverifizierbare Zitate entfernt (ZH Obergericht SB150298); Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-21
     by: "Hermes Agent"
@@ -24,7 +21,6 @@ revisions:
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 

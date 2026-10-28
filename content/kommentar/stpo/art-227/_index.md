@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 227 StPO – Haftverlängerungsgesuch: Gesuch der Staatsanwaltschaft spätestens 4 Tage vor Haftablauf (Abs. 1/2), Akteneinsicht und 3-tägige Frist zur Stellungnahme (Abs. 3), provisorische Haftfortdauer (Abs. 4), 5-tägige Entscheidfrist und Weisungsbefugnis des ZMG (Abs. 5) sowie maximale Verlängerungsdauer von 3 bzw. 6 Monaten (Abs. 7)."
 tags: ["StPO", "Haftverlängerung", "Untersuchungshaft", "Zwangsmassnahmengericht", "Haftdauer", "Beschleunigungsgebot", "Überhaft", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-227.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung zu Art. 227 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 

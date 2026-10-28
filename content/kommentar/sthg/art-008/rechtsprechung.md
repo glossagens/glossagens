@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 8 StHG (SR 642.14) — Einkünfte aus selbständiger Erwerbstätigkeit, Geschäftsvermögen, Präponderanzmethode, Liegenschafts- und Wertschriftenhandel, Steueraufschub bei Liegenschaftsüberführung und Beendigung durch Schenkung, Betriebserfordernis bei Umstrukturierungen und 5-Jahres-Sperrfrist."
 tags: ["Rechtsprechung", "StHG", "selbständige Erwerbstätigkeit", "Geschäftsvermögen", "Präponderanzmethode", "Liegenschaftshandel", "Wertschriftenhandel", "Umstrukturierung", "Betriebserfordernis", "Sperrfrist", "Steueraufschub"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 8 StHG mit 11 geprüften Leitentscheiden und kantonalen Urteilen. URLs via entscheidsuche.ch verifiziert."
 ---
 

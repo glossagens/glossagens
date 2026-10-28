@@ -5,17 +5,14 @@ date: 2026-07-03
 lastmod: 2026-10-01
 description: "Rechtsprechungssammlung zu Art. 55 ATSG: Subsidiäre Geltung des VwVG im Verwaltungsverfahren, Abgrenzung zum Beschwerdeverfahren, elektronischer Rechtsverkehr, Mitwirkungsrechte bei Gutachtenanordnung."
 tags: ["Rechtsprechung", "ATSG", "VwVG", "Subsidiarität", "Verfahrensrecht", "Elektronische Einreichung", "Mitwirkungsrechte", "Gutachten"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erweiterung um BGer 8C_445/2025 (Gutachtenmitwirkung, Zwischenverfügungspflicht) und Vertiefung von 8C_672/2025 (elektronischer Rechtsverkehr TAF). Belege via OCL get_erwaegung geprueft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht ausgebaut auf 10+ Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

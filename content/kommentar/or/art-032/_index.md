@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 32 OR: Echte direkte Stellvertretung (Abs. 1), verdeckte Vertretung bei Erkennbarkeit oder Gleichgültigkeit (Abs. 2) sowie Abgrenzung zur indirekten Stellvertretung (Abs. 3) — Prüfschema, Vertretungsmacht, Offenkundigkeitsprinzip, Botenschaft, Insichgeschäfte, Wissenszurechnung, Beweislastverteilung und kantonale Praxisfragen."
 tags: ["OR", "Vertragsrecht", "Stellvertretung", "Vertretungsmacht", "Vollmacht", "Offenkundigkeitsprinzip", "verdeckte Stellvertretung", "indirekte Stellvertretung", "Gleichgültigkeit", "Insichgeschäft", "Selbstkontrahieren", "Wissenszurechnung", "Beweislast"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage als Praxiskommentar nach dem Standard von Art. 110 StPO und Art. 336 OR: Gesetzeswortlaut über scripts/wortlaut.py (data/wortlaut/or/art-032.json); vollständiges Prüfschema der Tatbestandsmerkmale; narrative Kasuistik ausgewertet zu BGE 141 III 289, 144 III 388, 140 III 86, 131 III 511, 126 III 361, 124 III 355, 121 III 310, 117 II 387, 100 II 200, 99 II 39, 90 II 285 sowie BGer 4A_127/2020, 4D_70/2016 und kantonalen Entscheiden (SG KG BE.2011.35, SG KG BZ.2006.96, SG HG HG.2008.127, ZH OG NP160043, ZH HG HG200118, BL KG 400 14 123). Volltexte über entscheidsuche.ch geholt und verlinkt."
 ---
 

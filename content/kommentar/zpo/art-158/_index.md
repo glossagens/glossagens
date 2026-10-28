@@ -5,27 +5,22 @@ date: "2026-06-28"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 158 ZPO – Vorsorgliche Beweisführung: Beweissicherung, Abklärung der Prozessaussichten, Abgrenzung zur unzulässigen Ausforschung und zu materiellen Auskunftsrechten, Kasuistik und kantonale Praxis."
 tags: ["ZPO", "Beweisrecht", "vorsorgliche Beweisführung", "Beweissicherung", "Prozessaussichten", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-158.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard (praxisorientierter-kommentar): Detaillierte Sachverhaltsdarstellungen (BGE 140 III 16 Auffahrunfall A1, BGE 140 III 24 MEDAS-Gutachten, BGE 141 III 564 Auftragsrecht, BGE 143 III 113 Ehegattenunterhalt), zweiseitige Grenzkasuistik (Angewandt vs. Verworfen), Abgrenzungstabellen, kantonale Judikatur (ZH, BE, SH, LU, GR) sowie kantonale Praxisfragen und Praxishinweise."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert: Rechtsfehler bei Art. 98 BGG korrigiert; Kostenregel richtiggestellt; BGE 143 III 113 als ablehnender Entscheid dargestellt; nicht tragende Belege entfernt"
   - date: 2026-06-28
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterstellung"
 ---
 

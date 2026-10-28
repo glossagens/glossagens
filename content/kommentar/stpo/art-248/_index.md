@@ -5,32 +5,26 @@ date: 2026-07-10
 lastmod: 2026-10-22
 description: "Praxiskommentar zu Art. 248 StPO: Siegelungsverfahren, gesetzliche Beschränkung auf Art. 264 StPO (BGE 151 IV 30), Smartphones und Privatgeheimnisse (BGE 151 IV 344/350), Siegelungsberechtigung Nichtbeschuldigter (BGer 7B_558/2025), vorsorgliche Datenspiegelung (Praxisänderung BGE 152 IV 107), Substanziierungsobliegenheit beim Anwaltsgeheimnis (BGer 7B_815/2026) und strikte Form- und Friststrenge für die Staatsanwaltschaft (BGer 7B_165/2026)."
 tags: ["StPO", "Zwangsmassnahmen", "Siegelung", "Entsiegelung", "Berufsgeheimnis", "Durchsuchung", "Beschlagnahme", "Datenspiegelung", "Smartphones", "BGE 152 IV 107", "BGE 151 IV 30", "BGE 151 IV 344", "BGE 151 IV 350", "BGer 7B_815/2026", "BGer 7B_165/2026", "BGer 7B_558/2025", "Verwirkungsfrist"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Leitentscheids BGer 7B_815/2026 vom 07.10.2026: Substanziierungsobliegenheiten beim Anwaltsgeheimnis (Nennung von Name und E-Mail genügt im Regelfall, Verbot überspannter zeitlicher Eingrenzungen durch das ZMG) und Differenzierung beim Arztgeheimnis auf privaten Geräten."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-248.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach den Referenzmustern Art. 110 StPO und Art. 336 OR: Prüfschema entlang der abstrakten Tatbestandsmerkmale, dichte Sachverhaltsschilderungen aus den Akten, zweiseitige Grenzkasuistik (angewandt vs. verworfen), Analyse der Praxisänderung von BGE 148 IV 221 zu BGE 152 IV 107, Auswertung der Fünferbesetzung BGer 7B_165/2026 (analoge Anwendung von Art. 110 StPO auf die Staatsanwaltschaft) sowie BGer 7B_558/2025 (Siegelung Nichtbeschuldigter und Arztgeheimnis), Kasuistiktabellen, kantonale Praxisfragen (ZH, BE, AG, LU) und adressatenbezogene Praxishinweise; alle Urteilslinks verbatim auf entscheidsuche.ch validiert."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_165/2026 vom 5. August 2026 und BGer 7B_133/2026: Analoge Anwendbarkeit von Art. 110 StPO auf die Staatsanwaltschaft; Formungültigkeit von Entsiegelungsgesuchen per einfacher E-Mail und Verwirkung der Frist nach Art. 248 Abs. 3 StPO."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Überarbeitung nach Audit: BGE 144 IV 74 E. 2.2, BGE 141 IV 77 E. 4.1 und BGE 148 IV 221 integriert."
 ---
 

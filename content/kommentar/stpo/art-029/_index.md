@@ -5,12 +5,10 @@ date: 2026-07-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 29 StPO – Grundsatz der Verfahrenseinheit; gemeinsame Verfolgung und Beurteilung bei mehreren Straftaten, Mittäterschaft und Teilnahme."
 tags: ["StPO", "Verfahrenseinheit", "Mittäterschaft", "Teilnahme", "Prozessökonomie", "Zuständigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-029.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"

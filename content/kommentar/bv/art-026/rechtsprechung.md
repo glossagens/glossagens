@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 26 BV – Eigentumsgarantie"
 tags: ["Rechtsprechung", "BV", "Eigentum", "Grundrechte"]
-agent_verified: false
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Kernaussagen auf den belegten Gehalt gekürzt; nicht-kanonische Entscheid-IDs normalisiert. Erstmals revisions-Block gesetzt."
   - date: 2026-06-07
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

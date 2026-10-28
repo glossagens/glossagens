@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Entscheide zu Art. 23 UWG (Strafbestimmung): Akzessorietät, Vorsatz, Zurechnung an Organe und Geschäftsherren, Strafantrag und Sanktionen."
 tags: ["UWG", "Lauterkeitsrecht", "Rechtsprechung", "Strafrecht", "Strafantrag"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstübersicht. Entscheide über entscheidsuche.ch im Volltext gelesen; Links aus den content_url-Feldern. Kein maschineller Audit-Lauf, daher mcp_verified: false."
 ---
 

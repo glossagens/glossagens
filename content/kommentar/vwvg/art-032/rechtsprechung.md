@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 32 VwVG – Würdigung der Parteivorbringen"
 tags: ["Rechtsprechung", "VwVG", "rechtliches Gehör", "Parteivorbringen", "Beweiswürdigung"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B, 70%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 130 II 530-Eintrag entfernt (Fehlzitat -- betrifft Art. 32 BEHG, nicht Art. 32 VwVG). Zitate im alten bger.ch-Format auf mcp.opencaselaw.ch-URL-Anker umgestellt."
 ---
 

@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 112 StGB: Mord als qualifizierte vorsätzliche Tötung — Besondere Skrupellosigkeit (Generalklausel), Beweggrund, Zweck, Art der Ausführung (Heimtücke, Grausamkeit), Gesamtwürdigung, In-dubio-pro-reo-Abgrenzung zu Art. 111 StGB — mit zweiseitiger Grenzkasuistik."
 tags: ["StGB", "Mord", "Qualifizierte Tötung", "Skrupellosigkeit", "Heimtücke", "Grausamkeit", "Beweggrund", "In dubio pro reo", "Tötungsdelikte", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-112.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 66 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau als praxisorientierter Kommentar nach SKILL.md v1.3.0. Gesetzeswortlaut verbatim aus Fedlex (SR 311.0). Sämtliche Entscheide im Volltext über entscheidsuche.ch geholt und wörtlich belegt: BGE 127 IV 10 (Ehrenmord), BGE 141 IV 61 (Doppelmord mit 47 Stichen), BGer 6B_636/2025 (Rache, 8 Stiche), BGE 144 IV 345 (in dubio pro reo), BGE 147 IV 249 (Skrupellosigkeit schliesst Strafmilderung aus), BGE 118 IV 122 (Gesamtwürdigung), BGE 120 IV 265 (Geringschätzung, persönliche Zurechnung), BGE 121 IV 49 (Versuch), BGer 6B_445/2023 (Strafzumessung), LU Obergericht 21 03 170 (verminderte Schuldfähigkeit), BGer 6B_592/2014 (Konfliktsituation schliesst Skrupellosigkeit nicht zwingend aus). Merkmalsraster, zweiseitige Grenzkasuistik, Leitsätze und Praxishinweise nach SKILL.md."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung und Link-Korrektur; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

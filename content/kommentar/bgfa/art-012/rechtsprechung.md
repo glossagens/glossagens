@@ -5,17 +5,14 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Entscheide zu Art. 12 BGFA — Berufsregeln für Anwältinnen und Anwälte"
 tags: ["Rechtsprechung", "BGFA", "Berufsregeln", "Anwaltsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: Claude Code
     model: claude-sonnet-5-20250514
-    mcp_verified: true
     note: "Erhebliche Ausbauführung: viele neue kantonale und BGer-Entscheide, Links auf entscheidsuche.ch, Praxisfälle ergänzt"
   - date: 2026-05-30
     by: Claude Code
     model: minimax-m3
-    mcp_verified: false
     note: Erstkommentar
 ---
 

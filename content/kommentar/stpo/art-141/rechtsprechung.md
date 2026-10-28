@@ -5,37 +5,30 @@ date: 2026-05-09
 lastmod: "2026-10-22"
 description: "Erschöpfende Übersicht der Rechtsprechung zu Art. 141 StPO — Beweisverwertungsverbote bei rechtswidrig erlangten Beweisen"
 tags: ["Rechtsprechung", "Beweisverwertungsverbot", "StPO", "Art. 141", "Fernwirkung", "Aktenbereinigung", "Ordnungsvorschrift", "Gültigkeitsvorschrift"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: false
     note: "Aufnahme von Leitentscheid BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung der I. strafrechtlichen Abteilung): Fishing Expeditions, Vorwandskontrollen, Racial Profiling, relative Unverwertbarkeit von Zufallsfunden nach Art. 141 Abs. 2 StPO und zwingende Aktenentfernung ohne finanzielles Surrogat nach Art. 141 Abs. 5 StPO."
   - date: 2026-10-02
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_133/2025 (private Observationsaufnahmen aus IV-Verfahren; Bestätigung des abstrakten Beurteilungsmassstabes nach BGE 151 IV 124; konkrete Umstände der Beweiserhebung unbeachtlich; Art. 282 Abs. 1 StPO als abstrakte Beweiserhebungsbefugnis). Belege via OCL (get_erwaegung E. 5.3.1, 5.3.2, 5.4) und entscheidsuche (search_by_case_number) verifiziert."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_978/2025 (Leitentscheid: Gesamtwürdigung zusammenhängender Delikte bei Tatschwereprüfung nach Art. 141 Abs. 2 StPO; private Videoaufnahmen verwertbar bei Gesamtschwere), BGE 151 IV 124 (abstrakter Beurteilungsmassstab bei hypothetisch rechtmässiger Erlangbarkeit privater Beweismittel) und BGer 7B_80/2025 (Bestätigung des abstrakten Massstabes bei Videoaufnahme Bar-Aussenbereich). Belege via opencaselaw MCP (get_case_brief, get_regeste, find_relevant_erwaegung, get_erwaegung) geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung der Rechtsprechungsübersicht zu Art. 141 Abs. 4 StPO um BGer 6B_206/2026 vom 19.08.2026 (AIG-Folgebeweise bei Telefonüberwachung und Unterbrechung der Fernwirkung durch unabhängige fremdenpolizeiliche Vorerkenntnisse), BGer 6B_350/2026 (keine Gesamtkontamination nach unverwertbarer Erstbefragung), BGer 6B_462/2025 (gerichtliche Prüfpflicht bei Folgebeweisen), BGer 6B_924/2025, BGer 6B_506/2024 und BGer 7B_257/2022; Bereinigung der Verlinkungen auf entscheidsuche.ch."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Revisions-Vermerk nachgetragen (fehlte bisher, Pflichtfeld gemäss CLAUDE.md). Im Zuge des praxisorientierten Ausbaus von _index.md keine inhaltliche Änderung dieser Datei; die dort ausführlich geschilderten Leitentscheide (BGE 151 IV 73, 148 IV 205, 147 IV 9, 147 IV 16, 151 IV 18, 139 IV 128, BGer 7B_1429/2025) waren hier bereits erfasst."
   - date: 2026-08-16
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Letzter Stand vor Einführung des Revisions-Pflichtfelds; Datum aus lastmod übernommen."
 ---
 

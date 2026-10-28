@@ -5,22 +5,18 @@ date: 2026-06-12
 lastmod: 2026-09-23
 description: "Praxisrelevante Leitentscheide des Bundesgerichts und kantonale Rechtsprechung zu Art. 132 StPO: Notwendige und gebotene amtliche Verteidigung, Bagatellgrenze, Aussage gegen Aussage und Subsidiarität."
 tags: ["Rechtsprechung", "StPO", "Amtliche Verteidigung", "Offizialverteidiger", "Notwendige Verteidigung", "Bedürftigkeit", "Strafprozessrecht"]
-agent_verified: true
 revisions:
   - date: 2026-09-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht gemäss Richtlinie für praxisorientierte Kommentare: Gliederung in Abschnitt I (Leitentscheide des Bundesgerichts) und Abschnitt II (Weitere Entscheide und kantonale Praxis). Ergänzung der aktuellen Bundesgerichtsurteile BGer 6B_7/2024 (Subsidiarität gegenüber Wahlverteidigung), 7B_633/2023, 7B_935/2023 (120-Tagessätze-Schwelle), 1B_170/2013 (Sorgerechtsstreit/Bagatellvermutung), 1B_263/2013 (drohende Wegweisung) sowie kantonaler Leitpraxis (SG KG AK.2016.396, BL KG 460 25 176, TG OG SW.2021.107). Sämtliche URLs auf entscheidsuche.ch verifiziert."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit. Datum von BGer 1B_387/2012 berichtigt (24. Januar 2013). BGer 6B_1005/2024 entfernt. Pinpoints zu BGE 139 IV 113 berichtigt. Fehlender revisions-Block ergänzt."
   - date: 2026-06-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung."
 ---
 

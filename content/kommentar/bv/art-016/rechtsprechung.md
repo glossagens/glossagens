@@ -5,17 +5,14 @@ date: 2026-05-17
 lastmod: "2026-08-12"
 description: "Uebersicht der Leitentscheide zu Art. 16 BV — Meinungs- und Informationsfreiheit."
 tags: ["Rechtsprechung", "BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit"]
-agent_verified: false
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Keine erfundene Referenz. Pinpoints korrigiert, Aussagen an den Wortlaut der Erwägungen angeglichen. Erstmals revisions-Block gesetzt."
   - date: 2026-06-20
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

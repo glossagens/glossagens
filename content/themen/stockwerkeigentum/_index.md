@@ -25,12 +25,10 @@ normen:
   - { gesetz: zgb, art: art-712p }
   - { gesetz: zgb, art: art-712r }
 stichworte: ["Stockwerkeigentum", "Miteigentum", "Sonderrecht", "gemeinschaftliche Teile", "Sondernutzungsrechte", "Wertquote", "Stockwerkeigentümergemeinschaft", "Stockwerkeigentümerversammlung", "Beschlussfassung", "doppelte Mehrheit", "Verwalter", "Gemeinschaftspfandrecht", "Erneuerungsfonds", "Beschlussanfechtung", "Ausschluss", "Reglement"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung Querschnittsthema Stockwerkeigentum nach Skill glossagens-themen (Typ grundlage). Normtexte des ZGB per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). 14 Leitentscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und Zitate maschinell abgeglichen (pruefen.py)."
 ---
 

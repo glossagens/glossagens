@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-09-18
 description: "Übersicht der Entscheide zu Art. 115 OR – Aufhebungsvertrag, Vergleichstest und Erlassvertrag"
 tags: ["Rechtsprechung", "OR", "Aufhebungsvertrag", "Schuldrecht", "Vergleich"]
-agent_verified: false
 revisions:
   - date: 2026-09-18
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Bestehende Einträge gegen opencaselaw verifiziert (kein Fund fabriziert). Neun neue Entscheide ergänzt: BGE 118 II 58, BGer 4A_57/2021, 4C.230/2005, 4C.250/2001, 4C.363/2001, 8C_94/2020, 4A_283/2023 sowie kantonale Praxis (SG BO.2023.40-K3, ZH RA260002, ZH AH250108, ZH NP210036). entscheidsuche-MCP in dieser Sitzung nicht erreichbar (CONNECT_TIMEOUT) — Links verweisen auf mcp.opencaselaw.ch."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 2 gestützt (+0 teilw.) von 2 beurteilten Paaren (2 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: 2026-10-11
 description: "Kommentar zu Art. 31 SVG: Beherrschungsgrundsatz und Aufmerksamkeitspflicht, Fahrunfähigkeit aus anderen Gründen (Abs. 2), Verwendung von Mobiltelefonen und Kommunikationssystemen, Behinderung durch Ladung oder Mitfahrende."
 tags: ["SVG", "Strassenverkehrsrecht", "Beherrschung des Fahrzeugs", "Aufmerksamkeitspflicht", "Ablenkung", "Übermüdung"]
-agent_verified: false
 revisions:
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_770/2025 (E. 2.3.4/2.3.5) — Präzisierung der Relativität der Aufmerksamkeitspflicht und Vertrauensprinzip bei Fussgängern; Zitat und Fundstelle via entscheidsuche verifiziert."
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief) verifiziert."
 ---
 

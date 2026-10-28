@@ -5,7 +5,6 @@ date: 2026-07-10
 lastmod: "2026-07-12"
 description: "Übersicht der Entscheide zu Art. 379 StPO – Anwendbare Vorschriften im Rechtsmittelverfahren"
 tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "Rechtsmittelverfahren"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 379 StPO — Anwendbare Vorschriften (Rechtsmittelverfahren)

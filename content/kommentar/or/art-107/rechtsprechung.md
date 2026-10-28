@@ -5,17 +5,14 @@ date: 2026-06-27
 lastmod: 2026-10-19
 description: "Systematische Übersicht der Rechtsprechung zu Art. 107 OR: Leitentscheide des Bundesgerichts und kantonale Rechtsprechung zur Nachfristsetzung, Unverzüglichkeit und den Wahlrechten bei Schuldnerverzug."
 tags: ["Rechtsprechung", "OR", "Verzug", "Nachfrist", "Wahlrecht", "Rücktritt", "Schadenersatz"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsseite: Gliederung in I. Leitentscheide (mindestens 5) und II. Weitere Entscheide (mindestens 5), Integration von 16 volltextgeprüften Bundesgerichts- und kantonalen Entscheiden mit verifizierten URLs auf entscheidsuche.ch, Sachverhalten und Kernaussagen."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 61 % (Urteil B); 30 gestützt (+25 teilw.) von 70 beurteilten Paaren (73 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 2 fehlerhafte Pinpoints."
 ---
 

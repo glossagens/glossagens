@@ -5,22 +5,18 @@ date: "2026-05-17"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 71 ZPO: Einfache Streitgenossenschaft, eventuelle passive Streitgenossenschaft, Voraussetzungen der Klagenhäufung und verfahrensrechtliche Folgen."
 tags: ["ZPO", "Streitgenossenschaft", "eventuelle Streitgenossenschaft", "Parteistellung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-071.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 58 % → 81 %, Urteil A): Belege zur notwendigen Streitgenossenschaft auf Art. 70 ZPO bzw. auf verifizierte Erwägungen umgestellt; nicht existierende Pinpoints entfernt; BGE 113 Ia 104 der Wiedergabe in BGE 152 III 51 E. 5.3.2 zugeordnet; Querverweise auf weitere Entscheidnummern aus den Erwägungswiedergaben entfernt, weil sie je ein eigenes Prüfpaar erzeugen; Zuschreibungen an die Lehre als solche gekennzeichnet"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 26 von 66 Paaren gestützt; 18 ungestützt; 2 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

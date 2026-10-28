@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 642 ZGB — Bestandteile der Sache (Accessionsprinzip): Bestandteilsbegriff (äussere/innere dauernde Verbindung, Nicht-Trennbarkeit), Abgrenzung zu Fahrnisbaute (Art. 677), Tankanlage/Fabrikgebäude/Speicher, Zubehör, Grundstück-Bestandteile (Art. 667) und Bauhandwerkerpfandrecht (Art. 837)."
 tags: ["Rechtsprechung", "ZGB", "Bestandteil", "Accessionsprinzip", "Fahrnisbaute", "Grundstück", "Bauhandwerkerpfandrecht", "Verbindung"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 6 im Volltext abgerufen (BGE 92 II 227, 100 II 8, 102 II 197, 106 II 333, 109 II 99, 132 III 651; BE SRK 100 2016 75, AG OG ZOR.2026.5, ZH OG NG220003, LU VWG V 12 98 via Such-Snippets). Links verbatim aus document_url-Feldern übernommen."
 ---
 

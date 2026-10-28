@@ -5,32 +5,26 @@ date: 2025-06-12
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 63 StGB: Voraussetzungen der ambulanten Behandlung, Abgrenzung zur stationären Massnahme (Art. 59 StGB) und zur Bewährungsweisung (Art. 44 Abs. 2 StGB), Ausnahmecharakter des Strafaufschubs (Abs. 2), vorübergehende stationäre Einleitung (Abs. 3) sowie Höchstdauer und Verlängerungskasuistik (Abs. 4)."
 tags: ["StGB", "Ambulante Behandlung", "Massnahme", "Psychische Störung", "Suchtbehandlung", "Strafaufschub", "Abgrenzung", "Kasuistik", "Verlängerung", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-063.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Skill praxisorientierter-kommentar: Prüfschema-Tabelle vorangestellt; Abgrenzungskasuistik zu Art. 59 StGB (BGer 6B_247/2026) und Art. 44 Abs. 2 StGB (BGE 135 IV 180, BGer 6B_850/2016); Grenzkasuistik zum Strafaufschub nach Abs. 2 (BGer 6B_981/2009 vs. 6B_850/2016) und zur Reformatio in peius (BGer 6B_391/2020); Verlängerungskasuistik nach Abs. 4 im Fallvergleich (BS APG BES.2014.144 vs. BES.2022.125); kantonale Praxisfragen und rollenspezifische Praxishinweise; sämtliche Urteile verbatim über entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 7 verifizierte BGE/BGer-Entscheide und 2 kantonale Entscheide via entscheidsuche.ch; BGE 146 IV 1, BGE 147 IV 209, BGE 143 IV 445, BGE 143 IV 1; BGer 6B_981/2009, BGer 6B_850/2016, BGer 6B_564/2018, BGer 7B_144/2023; ZH VG VB.2015.00274, ZH VG VB.2016.00591; Gesetzeswortlaut → Wortlaut korrigiert; alle opencaselaw-Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: 2 fehlerhafte Referenzen und Dummy-Aktenzeichen bereinigt; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

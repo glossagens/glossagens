@@ -5,17 +5,14 @@ date: 2026-07-12
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 12 StPO – Strafverfolgungsbehörden"
 tags: ["Rechtsprechung", "StPO", "Strafverfolgungsbehörden", "Ausstand"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 40 %). Sieben von neun Ausstandsentscheiden erwähnen Art. 12 StPO im gesamten Volltext nicht; sie sind mit ihrem tatsächlichen Gegenstand dokumentiert und entfernt. BGer 6B_288/2015 (Diebstahl, willkürliche Beweiswürdigung) ebenfalls entfernt — Art. 12 StPO kommt darin nicht vor. Neu aufgenommen bzw. präzisiert: BGer 1B_139/2018 E. 4.1, BGer 1B_405/2014 E. 4.2, BGer 6B_1304/2018 E. 1.4. Pinpoints zu BGE 142 IV 70 auf E. 3.1, 3.2.1, 3.2.4 und 4.3 präzisiert. Fehlender revisions-Block ergänzt."
   - date: 2026-07-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

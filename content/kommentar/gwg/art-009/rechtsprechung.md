@@ -5,7 +5,6 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 9 GwG: Begriff des begründeten Verdachts, Dauer der Meldepflicht, Organverantwortung, Anwaltsgeheimnis, zivilrechtliche Schadenersatzklagen und Strafsanktionen."
 tags: ["Rechtsprechung", "GwG", "Meldepflicht", "MROS", "Begründeter Verdacht", "Compliance", "Haftungsausschluss"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

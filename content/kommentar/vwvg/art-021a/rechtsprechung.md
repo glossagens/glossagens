@@ -5,17 +5,14 @@ date: 2026-07-02
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 21a VwVG (elektronische Eingaben, qualifizierte Signatur, Sozialversicherungsrecht)"
 tags: ["Rechtsprechung", "VwVG", "Elektronische Eingabe", "ATSG", "TAF"]
-agent_verified: false
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B, 0 offene Befunde): Pinpoint-Anker ergänzt, redundante Binnenreferenz entfernt."
   - date: 2026-07-02
     by: "Hermes Agent"
     model: "unknown"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 

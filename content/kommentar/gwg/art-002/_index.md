@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Umfassender Kommentar zu Art. 2 GwG: Persönlicher und sachlicher Geltungsbereich, Banken- und Parabankensektor, Beraterinnen und Berater, Händler sowie gesetzliche Bereichsausnahmen."
 tags: ["GwG", "Geltungsbereich", "Finanzintermediation", "Parabankensektor", "Berater", "Händler", "Sorgfaltspflichten"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Erstkommentierung zu Art. 2 GwG einschliesslich der Revision 2026 (Beraterinnen und Berater)"
 ---
 

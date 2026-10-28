@@ -5,22 +5,18 @@ date: "2026-05-23"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 219 ZPO — Sinngemässe Anwendung der Bestimmungen über das ordentliche Verfahren auf alle anderen Verfahrensarten, Grenzen der Analogie und Novenrecht"
 tags: ["ZPO", "ordentliches Verfahren", "Analogie", "Verfahrensrecht", "Novenrecht", "sinngemässe Anwendung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-219.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 89 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 25 % → 100 %, Urteil A); Fallgruppen-Tabelle auf belegte Entscheide mit Erwägung umgestellt; BGE 146 III 237 und BGE 141 III 376 trugen die ihnen zugeschriebenen Ergebnisse nicht"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 25 % (Urteil C); 3 von 36 Paaren gestützt; 21 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 33 VwVG – Beweisabnahme"
 tags: ["Rechtsprechung", "VwVG", "Beweis", "Beweisabnahme"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C 36% -> B 79%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Pinpoints für BGE 127 V 431 (E. 3) und BGE 137 II 266 (E. 3.2) ergänzt, Kernaussagen an den tatsächlichen Erwägungstext angepasst."
 ---
 

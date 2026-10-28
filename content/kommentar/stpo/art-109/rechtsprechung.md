@@ -5,17 +5,14 @@ date: 2026-06-20
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 109 StPO – Eingaben der Parteien"
 tags: ["Rechtsprechung", "StPO", "Eingaben", "Rechtsverweigerung", "Beweisantrag", "Fristen"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 21 %). Sämtliche Kernaussagen der Vorgängerfassung waren frei formuliert und von den Entscheiden nicht gedeckt; sie sind durch wörtliche Auszüge ersetzt. BGer 6B_493/2014 und BGer 6B_140/2016 entfernt. Fehlender revisions-Block ergänzt."
   - date: 2026-06-19
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

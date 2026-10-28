@@ -5,7 +5,6 @@ date: 2026-10-08
 lastmod: 2026-10-08
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Gerichtsentscheide zu Art. 65 KVG (individuelle Prämienverbilligung)."
 tags: ["Rechtsprechung", "KVG", "Prämienverbilligung", "Krankenversicherung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

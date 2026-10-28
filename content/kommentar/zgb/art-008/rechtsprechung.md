@@ -5,17 +5,14 @@ date: 2026-06-28
 lastmod: 2026-09-07
 description: "Rechtsprechungsübersicht zu Art. 8 ZGB — Systematisch geordnete Leitentscheide und kantonale Praxis zu Beweislastverteilung, Beweisführungsanspruch, Beweismass, Beweiserleichterungen und Gegenbeweis."
 tags: ["Rechtsprechung", "ZGB", "Beweislast", "Beweisrecht", "Beweismass", "Beweisführungsanspruch", "Gegenbeweis", "Beweiserleichterung", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-09-07
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aktualisierung aller Verlinkungen auf die amtliche Urteilsdatenbank entscheidsuche.ch gemäss Zitierrichtlinien; Ergänzung von TG RBOG 2010 Nr. 05 (Darlehen vs. Schenkung) sowie BGer 4A_290/2018 (Gotthard-Motorradunfall / Anscheinsbeweis) und Harmonisierung mit dem Praxiskommentar."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul der Rechtsprechungsübersicht: 16 verifizierte Entscheide (10 BGE Leitentscheide, 3 Bundesgerichtsentscheide, 3 kantonale Entscheide) mit vollständiger Verlinkung und überprüften Pinpoints."
 ---
 

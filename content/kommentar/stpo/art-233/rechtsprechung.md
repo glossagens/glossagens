@@ -5,7 +5,6 @@ date: 2026-07-10
 lastmod: 2026-07-10
 description: "Übersicht der Entscheide zu Art. 233 StPO — Haftentlassungsgesuch vor Berufungsgericht"
 tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Haftentlassung"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 233 StPO

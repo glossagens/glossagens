@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 329d OR – Ferienlohn und Abgeltungsverbot"
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Ferienlohn", "Abgeltungsverbot", "Stundenlohn", "Rechtsmissbrauch"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 329d OR mit BGEs und kantonalen Entscheiden auf entscheidsuche.ch."
 ---
 

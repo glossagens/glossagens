@@ -5,7 +5,6 @@ date: 2026-07-20
 lastmod: 2026-07-20
 description: "Übersicht der Rechtsprechung zu Art. 8 IVG (Eingliederungsmassnahmen; Hilfsmittel; Umschulung; Anspruchsbegründende Mindesterwerbseinbusse; Integrationsmassnahmen)"
 tags: ["Rechtsprechung", "IVG", "Eingliederungsmassnahmen", "Hilfsmittel", "Umschulung"]
-agent_verified: true
 ---
 
 # Rechtsprechungssammlung zu Art. 8 IVG

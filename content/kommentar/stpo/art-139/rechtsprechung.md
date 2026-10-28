@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Rechtsprechung zu Art. 139 StPO — Leitentscheide und systematische Kasuistik zur antizipierten Beweiswürdigung, Offenkundigkeit, Beweisantragsablehnung und den Tatbestandsmerkmalen von Abs. 2."
 tags: ["Rechtsprechung", "StPO", "Beweisrecht", "Wahrheitsfindung", "antizipierte Beweiswürdigung", "Offenkundigkeit", "Gerichtskundigkeit", "In-dubio pro reo", "Wahrunterstellung", "Beweisantrag"]
-agent_verified: false
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umbau auf praxisorientierte Rechtsprechungsübersicht; plastische Sachverhaltschilderungen; alle Links via entscheidsuche verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit: Belegapparat und Links gegen entscheidsuche verifiziert; Datum 6B_1397/2022 korrigiert; URLs 6B_323/2013 und 6B_615/2024 korrigiert; fehlende Urteils-Links ergänzt."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Überarbeitung: opencaselaw-Links durch entscheidsuche.ch ersetzt; neue Entscheide zu antizipierter BW, Offenkundigkeit und Beweisanträgen ergänzt."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote)"
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ersterstellung"
 ---
 

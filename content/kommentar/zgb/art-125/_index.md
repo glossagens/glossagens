@@ -5,22 +5,18 @@ date: "2026-05-24"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 125 ZGB – Nachehelicher Unterhalt: Voraussetzungen, zweistufig-konkrete Berechnungsmethode, Lebensprägung, Bemessungskriterien, Befristung und kantonale Praxisfragen."
 tags: ["ZGB", "Familienrecht", "Unterhalt", "Nachehelicher Unterhalt", "Scheidung", "Lebensprägung", "Zweistufige Methode"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-125.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Gesetzeswortlaut lesbar gegliedert; umfassender Ausbau von Rechtsprechung (BGE 147 III 249, 293, 308; 150 III 305; 151 III 9) und kantonaler Gerichtspraxis (SG, BL, LU, ZH); Praxisfragen integriert."
   - date: 2026-08-21
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "BGer-Update: 5A_118/2025 (lebensprägende Ehe, appellatorische Kritik ungenügend)"
 ---
 

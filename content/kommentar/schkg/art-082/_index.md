@@ -5,32 +5,26 @@ date: 2026-06-07
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 82 SchKG: Provisorische Rechtsöffnung — Schuldanerkennung, synallagmatische Verträge, zusammengesetzte Urkunden, Kontokorrent, Einwendungen, Glaubhaftmachung, Prüfungsbefugnis, Grenzkasuistik."
 tags: ["SchKG", "Rechtsöffnung", "provisorische Rechtsöffnung", "Schuldanerkennung", "Glaubhaftmachung", "Einwendungen", "synallagmatischer Vertrag", "zusammengesetzte Urkunde", "Kontokorrent", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-082.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung zu vertraglichen Mediationsklauseln und Einrede der Vorab-Mediation gestützt auf das Grundsatzurteil BGer 4A_53/2026 vom 9.9.2026 (Fünferbesetzung, E. 4.1-4.2); Ausschluss durch Art. 198 lit. a ZPO."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-12 überarbeitet und vertieft, Rz. 13-16 (Grenzkasuistik: Vertragsübernahme, Rahmenkreditvertrag, Stockwerkeigentum, Kontokorrentkredit, zusammengesetzte Urkunde, Prüfungsbefugnis), Praxisfragen ergänzt; BGE 132 III 140, BGE 132 III 480, BGE 134 III 267, BGE 136 III 627, BGE 139 III 297, BGE 147 III 176 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Schuldanerkennung, synallagmatische Verträge (BGE 145 III 20), reine Urkundenbindung (BGE 145 III 160), Preisminderung (BGE 149 III 310) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
 ---
 

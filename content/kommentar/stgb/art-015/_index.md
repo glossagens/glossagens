@@ -5,32 +5,26 @@ date: 2026-05-16
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 15 StGB: Rechtfertigende Notwehr und Notwehrhilfe — Begriff des Angriffs, Gegenwärtigkeit, Angemessenheit und Subsidiarität der Abwehrmittel, Provokation, Putativnotwehr, Notwehrexzess (Art. 16 StGB), Strafzumessung und Willkürrüge. "
 tags: ["StGB", "Notwehr", "Notwehrhilfe", "Rechtfertigungsgrund", "Rechtswidriger Angriff", "Angemessenheit", "Notwehrexzess", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-015.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-20
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "KW38: Integration von 12 neuen, gegen den Entscheidtext geprüften Entscheiden (Issue #34): BGE 101 IV 119, BGE 109 IV 5, 6B_480/2011, 6B_1211/2015, 6B_873/2018, 6B_908/2017, 6B_915/2017 (Korrektur: Hausfriedensbruch statt Drohungen), 6B_1454/2020 (Korrektur: nicht entschuldbarer Putativnotwehrexzess), 6B_667/2024, 6B_113/2025, 6B_622/2025, 6B_836/2025 (Korrektur: versuchte vorsätzliche Tötung, nicht schwere KV), 6B_464/2025. Neue Sektion VIa zu Notwehrexzess/Strafzumessung/Willkür."
   - date: 2026-08-28
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung des Kommentars via Fedlex und Entscheidsuche MCP (dogmatische Vertiefung von Notwehrlage, Absichtsprovokation, Putativnotwehr bei Schizophrenie BGE 147 IV 193, Notwehrhilfe sowie kantonale Praxisfragen; Umstellung aller Beleglinks auf Entscheidsuche)."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

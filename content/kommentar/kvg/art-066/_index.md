@@ -5,12 +5,10 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 66 KVG: Bundesbeitrag an die Prämienverbilligung — Bemessung auf 7,5 Prozent der Bruttokosten der OKP, Verteilung nach Wohnbevölkerung und Bezügern nach Art. 65a lit. a KVG sowie Vollzugskompetenz des BAG."
 tags: ["KVG", "Bundesbeitrag", "Prämienverbilligung", "Bruttokosten", "Finanzierung", "Sozialversicherungsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau (Urteil C saniert): Beseitigung aller Halluzinationen des Altbestands (Phantom-Wortlaut zu 75 % sowie erfundene Entscheide BGE 133 V 340, 136 V 335, 9C_800/2020 entfernt); Ausrichtung am authentischen Wortlaut (7,5 % der Bruttokosten) und vollständige Einarbeitung der Leitjudikatur (BGer 9C_250/2025 vom 23.07.2026, BGE 145 I 26, BGE 124 V 19) sowie der NFA-Revision (BBl 2005 6029) und VPVK."
 ---
 

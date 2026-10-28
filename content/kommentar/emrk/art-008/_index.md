@@ -5,22 +5,18 @@ date: 2026-05-22
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 8 EMRK: Recht auf Achtung des Privat- und Familienlebens, der Wohnung und der Korrespondenz. Dogmatischer Aufbau, Prüfschema und umfassende Kasuistik zu aufenthaltsbeendenden Massnahmen (strafrechtliche Landesverweisung nach Art. 66a StGB und zweifache Zweistufigkeit der Härtefallklausel, Bewilligungswiderruf nach Art. 62/63 AIG mit 10-Jahres-Vermutung und Reneja-Schwelle, Freizügigkeitsabkommen nach Art. 5 Anh. I FZA), Judikaturdivergenzen (Lausanne vs. Strassburg bei Secondos), kantonale Praxisfragen und Praxishinweise."
 tags: ["EMRK", "Privatleben", "Familienleben", "Wohnungsschutz", "Korrespondenz", "Aufenthaltsrecht", "Landesverweisung", "Härtefallklausel", "Widerruf", "FZA", "Secondos", "10-Jahres-Vermutung", "Datenschutz", "Überwachung", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Ausbau gemäss Leitfaden: Systematisches Prüfschema, zweifache Zweistufigkeit der Härtefallprüfung bei der Landesverweisung (Art. 66a StGB), Kriterienkatalog und 10-Jahres-Vermutung beim ausländerrechtlichen Bewilligungswiderruf (Art. 62/63 AIG), qualifizierter Gefährdungsmassstab bei EU-Bürgern (Art. 5 Anh. I FZA), zweiseitige Grenzkasuistik (BGE 144 IV 332, BGE 146 IV 105, BGer 6B_64/2024, BGE 144 I 91, BGE 143 I 21, BGE 145 IV 364, BGer 2C_487/2012), Gegenüberstellungstabellen, Offenlegung von Judikaturdivergenzen (Lausanne vs. Strassburg bei Secondos; Strafrichter vs. Migrationsamt), kantonale Praxisfragen (ZH vs. Romandie; Verwarnung) und rollenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch und HUDOC verifiziert."
   - date: 2026-10-15
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BVGer F-4622/2026 (Drittstaat-Nichteintreten, Wegweisungsentfall bei hängigem Familiennachzug) in Abschnitt VIII (Asylrecht) eingearbeitet; E. 4.2 via OCL get_erwaegung verifiziert, entscheidsuche document_url als Linkziel."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C, 35% -> ...): 2 BGE fabriziert (140 I 205, 143 III 445, kein close_match) sowie 4 real existierende, thematisch falsch zugeordnete BGE (137 I 305 [Gleichstellungskommission Zug statt Vorratsdatenspeicherung], 134 I 83 [IP-Recht vorsorgliche Massnahmen statt Umweltschutz], 146 I 49 [Einbürgerungsvoraussetzungen statt Videoüberwachung], 118 IV 67 [PTT-Flugfunküberwachung statt Wohnungsschutz]); 134 III 241 war an falscher Stelle verwendet (Abstammungskenntnis statt Datenweitergabe) und an die richtige Stelle verschoben. Ersetzt/korrigiert durch via get_regeste/search_decisions verifizierte, thematisch passende Entscheide (148 I 233, 144 I 126, 133 I 77). Wortlaut-Warnung als Fehlalarm verifiziert (Formatierungsartefakt gegen Fedlex, wie bei Art. 2/3/5 EMRK)."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-05-31
 lastmod: 2026-05-31
 description: "Leitentscheide zu § 142 des Gesetzes über die Verwaltungsrechtspflege des Kantons Luzern"
 tags: ["Rechtsprechung", "VRG LU", "Verwaltungsbeschwerde", "Luzern"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu § 142 VRG LU

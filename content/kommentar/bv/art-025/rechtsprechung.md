@@ -5,7 +5,6 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 25 BV – Non-Refoulement, Ausweisungsschutz von Schweizern, Foltergefahr und EMRK-Garantien."
 tags: ["Rechtsprechung", "BV", "Non-Refoulement", "Grundrechte"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

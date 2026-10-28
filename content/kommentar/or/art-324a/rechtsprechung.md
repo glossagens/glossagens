@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 324a OR – Lohnfortzahlung bei Arbeitsverhinderung"
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Lohnfortzahlung", "Krankheit"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 324a OR mit BGEs, BGer-Urteilen und kantonalen Leitentscheiden, alle verlinkt auf entscheidsuche.ch."
 ---
 

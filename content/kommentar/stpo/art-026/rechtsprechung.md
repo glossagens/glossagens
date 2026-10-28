@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der Entscheide zu Art. 26 StPO — mehrfache Zuständigkeit, Zuständigkeitszuweisung durch die Staatsanwaltschaft des Bundes, Vereinigung von Bundes- und kantonaler Gerichtsbarkeit. Bundesstrafgerichtliche Rechtsprechung zu Menschenhandel, kriminellen Organisationen, Terrorismus, Sprengstoffdelikten und Geldwäscherei mit überkantonalem/internationalem Bezug."
 tags: ["Rechtsprechung", "StPO", "Zuständigkeit", "Bundesstrafgericht", "Bundesgerichtsbarkeit", "kriminelle Organisation", "Menschenhandel", "Verfahrensvereinigung"]
-agent_verified: false
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — 12 Leitentscheide via OCL find_leading_cases + doctrine verifiziert (303 Gesamtzitationen; Schwerpunkt Bundesstrafgericht)."
 ---
 

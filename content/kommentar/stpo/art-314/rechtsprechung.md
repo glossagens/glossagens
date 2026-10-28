@@ -5,12 +5,10 @@ date: "2026-09-08"
 lastmod: "2026-09-08"
 description: "Übersicht der Rechtsprechung zu Art. 314 StPO – Sistierung der Untersuchung, vorübergehende Verfahrenshindernisse, Beweissicherung, Vergleichsverfahren und Fahndung."
 tags: ["Rechtsprechung", "StPO", "Sistierung", "Staatsanwaltschaft", "Verfahrenshindernis", "Fahndung", "Beweissicherung", "Vorverfahren"]
-agent_verified: true
 revisions:
   - date: "2026-09-08"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht zu Art. 314 StPO mit 18 verifizierten Entscheiden (BGE, BGer, BStGer, kantonale Obergerichte/Kantonsgerichte) mit konkreten Sachverhaltsdarstellungen und Fundstellen aus entscheidsuche.ch."
 ---
 

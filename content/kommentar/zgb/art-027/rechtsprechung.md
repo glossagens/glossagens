@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-09-18
 description: "Übersicht der Rechtsprechung zu Art. 27 ZGB — Unverzichtbarkeit, übermässige Bindung, Kernbereichslehre, Bestimmtheit bei Sicherungsgeschäften, materieller Ordre public und kantonale Praxis."
 tags: ["Rechtsprechung", "ZGB", "Persönlichkeitsschutz", "Übermässige Bindung", "Ordre public", "Inhaltskontrolle"]
-agent_verified: false
 revisions:
   - date: 2026-09-18
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Ausbau auf 20 Entscheide: 6 neue Leitentscheide/Grundsatzurteile ergänzt (BGE 123 III 337, BGE 130 III 495, BGE 108 II 405, BGE 88 II 172, BGer 4A_226/2025) sowie eine neue kantonale Entscheidung (ZH Obergericht LC230043, ZH Obergericht LF240123). Verifiziert via opencaselaw-MCP (get_case_brief/get_erwaegung); entscheidsuche.ch war in dieser Session nicht erreichbar (Verbindungs-Timeout), daher opencaselaw als Linkziel."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht: Ausbau auf 14 verifizierte Entscheide (8 Leitentscheide, 6 weitere BGer- und kantonale Entscheide) mit direkten Links und Erwägungen."
   - date: 2026-06-06
     by: "Hermes Agent"
     model: "hermes-3"
-    mcp_verified: false
     note: "Alte Fassung"
 ---
 

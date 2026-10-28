@@ -5,12 +5,10 @@ date: 2026-07-17
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 51 AVIG: Anspruchsvoraussetzungen der Insolvenzentschädigung bei Konkurs, offensichtlicher Überschuldung oder Pfändungsbegehren; Ausschluss von Gesellschaftern und Entscheidungsträgern; beitragspflichtige Arbeitnehmer."
 tags: ["AVIG", "Arbeitslosenversicherung", "Insolvenzentschädigung", "Konkurs", "Lohnforderung", "Arbeitgeberinsolvenz"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-051.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 88 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

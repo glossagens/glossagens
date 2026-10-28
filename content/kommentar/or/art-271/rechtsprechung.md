@@ -5,17 +5,14 @@ date: 2026-09-14
 lastmod: 2026-10-04
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 271 OR: Treuwidrigkeit der Kündigung, Sanierungs- und Abbruchkündigungen, Ertragsoptimierung, Hausfriedensstörung und Begründungspflicht, Anwendung von BGE 151 III 481 (BGer 4A_69/2026)."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Kündigungsschutz", "Treu und Glauben", "Abbruchkündigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Aufnahme von BGer 4A_69/2026 vom 11. August 2026: Anwendung von BGE 151 III 481 (Abbruchkündigung erfordert kein reifes Projekt; missbräuchlich nur bei objektiv offensichtlicher Unmöglichkeit der Abbruchbewilligung; blosse Projektaufgabe einige Monate nach Kündigung macht diese nicht automatisch missbräuchlich). Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Strukturierte Rechtsprechungsübersicht mit 19 ausgewerteten Entscheiden zu Art. 271 OR; sämtliche Fundstellen und Links über entscheidsuche.ch verifiziert."
 ---
 

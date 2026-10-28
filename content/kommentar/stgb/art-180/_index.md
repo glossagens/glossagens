@@ -5,37 +5,30 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 180 StGB (Drohung): Begriff der schweren Drohung, objektiver Massstab und Gesamtwürdigung, Taterfolg (Schrecken/Angst und Verlust des Sicherheitsgefühls), versuchte Drohung (auch bei Suizidankündigung), Offizialverfolgung bei häuslicher Gewalt (Abs. 2, Konkubinat auf unbestimmte Zeit) sowie Konkurrenzen zu Körperverletzung und Nötigung — mit Prüfschema, Grenzkasuistik, kantonalen Praxisfragen und Praxishinweisen."
 tags: ["StGB", "Drohung", "Schwere Drohung", "Antragsdelikt", "Offizialdelikt", "Häusliche Gewalt", "Besonderer Teil", "Konkubinat", "Versuchte Drohung", "Konkurrenzen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-180.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum vollwertigen Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Art. 110 StPO, Art. 336 OR): Vollständiger Merkmalskatalog als Prüfschema-Tabelle vorangestellt; ausführliche narrative Sachverhaltsschilderungen aus publizierten Urteilen; zweiseitige Grenzkasuistik (angewandt vs. verworfen zu allen Merkmalen, u.a. BGer 6P.86/2005 und 6B_1219/2018 vs. 6B_1017/2019 und 6S.53/2001); Behandlung von Taterfolg und versuchter Drohung (BGer 6B_1282/2016 und 6B_192/2012 bei Suiziddrohung); Analyse des Konkubinats auf unbestimmte Zeit gemäss Art. 180 Abs. 2 lit. b StGB anhand des Leitentscheids BGer 6B_621/2024; Konkurrenzdogmatik zu Körperverletzung und Nötigung (BGer 6B_1193/2021 und TG OG RBOG 2025 Nr. 25); Kasuistik- und Schwellenwerttabellen ohne Code-Fences; kantonale Praxisfragen ZH und BE zur Schwelle bei Scheidungskonflikten (ZH OG SB160469, BE OG BK 2021 255) sowie adressatenbezogene Praxishinweise. Sämtliche Urteile im Volltext über entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 9 verifizierte Entscheide via entscheidsuche.ch; Abgrenzung schwere vs. nicht schwere Drohung anhand konkreter Sachverhalte (BGer 6P-86/2005: gezielter Terror = schwere Drohung; BGer 6S-53/2001: psychisch fertig machen = keine schwere Drohung; BGer 6B_1121/2013: ich mache dich fertig im Streit = schwere Drohung; BGer 6B_351/2007: Ohrring ausreissen gegen Ex-Behördenmitglied = schwere Drohung); versuchte Drohung (BGer 6B_1282/2016); Verlust des Sicherheitsgefühls genügt (BGer 6B_1121/2013 E. 10.3); BGer 6B_1219/2018 (Baseballschläger); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte Zitate entfernt (BGer 6B_776/2016, BGer 6B_1056/2016); irrelevante Zitate entfernt (BGE 137 IV 258 = Art. 66, BGE 134 IV 216 = Art. 181, BGE 126 IV 124 = Art. 190, BGE 120 IV 17 = Art. 181); dubiose kantonale Zitate entfernt; BGE 141 IV 1 (juristische Person, Geschädigteneigenschaft) ergänzt; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Fedlex-Wortlautstruktur und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -14,12 +14,10 @@ normen:
   - { gesetz: ahvg, art: art-021 }
   - { gesetz: elg, art: art-004 }
 stichworte: ["Altersvorsorge", "Drei-Säulen-System", "Drei-Säulen-Prinzip", "AHV 21", "Referenzalter", "Pensionskasse", "Koordinierter Lohn", "Umlageverfahren", "Kapitaldeckungsverfahren", "Freizügigkeitsleistung", "Säule 3a", "Ergänzungsleistungen", "Plafonierung"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Verfassungs- und Gesetzeswortlaute (Art. 111, 112, 113 BV, Art. 21 AHVG, Art. 4 ELG) per {{< wortlaut >}} aus amtlicher Fedlex-Quelle eingebunden (scripts/wortlaut.py). Zehn Leitentscheide von entscheidsuche.ch im Volltext verifiziert; Erwägungsnummern, Anker (#consideration_...) und wörtliche Zitate «...» vollständig mechanisch abgeglichen (pruefen.py ohne Befund)."
 ---
 

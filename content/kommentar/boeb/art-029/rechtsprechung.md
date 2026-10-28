@@ -5,17 +5,14 @@ date: 2026-10-11
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 29 BöB – Zuschlagskriterien, Preisbewertungsmethoden, Mehreignung und Transparenzgebot"
 tags: ["Rechtsprechung", "BöB", "Zuschlagskriterien", "Preisbewertung", "Vergaberecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung der Rechtsprechungsübersicht auf 16 verifizierte Leit- und Kantonalentscheide; Anpassung an den Paradigmenwechsel des BöB 2019/IVöB 2019 zum vorteilhaftesten Angebot; Aufnahme von BGE 152 II 325, ZH VG VB.2024.00155, AG OG WBE.2025.8 und VS KG A1 24 140; sämtliche Links verbatim über entscheidsuche.ch validiert."
   - date: 2026-10-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Initiale Erstellung der Rechtsprechungsübersicht zu Art. 29 BöB"
 ---
 

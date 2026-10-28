@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 42 OR: Leitentscheide des Bundesgerichts zur Schadensschätzung, Beweisnot, Überstunden und aktuellen Urteilen."
 tags: ["Rechtsprechung", "OR", "Schadensersatz", "Schadensbeweis", "Beweisnot"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

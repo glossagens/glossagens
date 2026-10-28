@@ -5,7 +5,6 @@ date: 2026-10-26
 lastmod: 2026-10-26
 description: "Übersicht der Rechtsprechung zu Art. 86 StGB (bedingte Entlassung aus dem Strafvollzug, Legalprognose, Differenzialprognose und Halbstrafenentlassung)."
 tags: ["Rechtsprechung", "StGB", "Strafvollzug", "Bedingte Entlassung", "Legalprognose"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

@@ -5,17 +5,14 @@ date: 2026-08-30
 lastmod: 2026-09-16
 description: "Übersicht der Rechtsprechung zu Art. 255 StPO: Leitentscheide des Bundesgerichts sowie Bundesgerichts- und Kantonsgerichtsurteile zu DNA-Probenahme, CODIS-Profilierung, Schwellenwerten, Polizeikompetenzen und Löschungsfristen."
 tags: ["Rechtsprechung", "StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Verhältnismässigkeit", "Polizei", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsseite zu Art. 255 StPO. Bereinigung früherer Fehlzitate (u.a. BGE 147 IV 249 [Mord] und BGer 7B_177/2023 [Replikrecht] korrigiert); Aufnahme von 22 verifizierten Urteilen (6 Leitentscheide BGE, 7 BGer-Urteile, 9 kantonale Obergerichts- und Kantonsgerichtsentscheide) mit Sachverhalten, Kernaussagen und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerfassung."
 ---
 

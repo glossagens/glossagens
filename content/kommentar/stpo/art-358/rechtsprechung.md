@@ -5,17 +5,14 @@ date: "2026-06-27"
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 358 StPO — Abgekürztes Verfahren (Grundsätze)"
 tags: ["Rechtsprechung", "StPO", "abgekürztes Verfahren", "Geständnis", "Revision", "Verfahrenstrennung"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 29 %). BGE 143 IV 122 war in der Aussage verkehrt wiedergegeben (Revisionsgrund ist Art. 410 Abs. 1 lit. c, nicht lit. b, und betrifft die Einwirkung auf das Verfahren, nicht auf das Geständnis); BGE 142 IV 307 war verkürzt und in der Stossrichtung unzutreffend. BGer 1B_187/2015 trug keine Kernaussage und ist neu mit E. 2.8 belegt. Erwägungsangaben ergänzt, fehlender revisions-Block eingefügt."
   - date: 2026-07-17
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

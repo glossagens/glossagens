@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 60 StPO – Folgen der Verletzung von Ausstandsvorschriften"
 tags: ["Rechtsprechung", "StPO", "Ausstand", "Befangenheit"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

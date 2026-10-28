@@ -5,22 +5,18 @@ date: 2026-06-20
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 89 StPO – Unabänderlichkeit gesetzlicher Fristen und Verbot von Gerichtsferien"
 tags: ["Rechtsprechung", "StPO", "Fristen", "Gerichtsferien", "Fristerstreckung", "Nachfrist"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 3 %). Alle Einträge neu erhoben und einzeln verifiziert. Entfernt: BGE 141 IV 61 (betrifft Mord und Konkurrenz) und BGE 142 IV 105 (stationäre Massnahme) — beide waren für fristenrechtliche Aussagen zitiert; BGer 1B_232/2017 (betrifft Begründungsanforderungen, nicht Gerichtsferien). Die übrigen Einträge trugen frei formulierte Kernaussagen ohne Deckung im Entscheid und wurden ersetzt."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Sofortmassnahme: sechs nicht existierende BGE-Einträge entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-06-26
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

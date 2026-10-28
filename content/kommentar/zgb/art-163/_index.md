@@ -5,27 +5,22 @@ date: "2026-06-28"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 163 ZGB – Unterhaltspflicht der Ehegatten: Familienunterhalt, Beitragsarten, Bemessungsgrundsätze, Existenzminimum, hypothetisches Einkommen"
 tags: ["ZGB", "Ehegattenunterhalt", "Familienunterhalt", "Eherecht", "Unterhaltspflicht", "Existenzminimum"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-163.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um 8 weitere BGE-Entscheide (jetzt ≥15 OCL-verifizierte Zitationen); Abschnitte zu Prozesskostenvorschuss, Bedürftigkeitsprüfung, Eheschutz und Konkubinat erweitert; Rechtsprechungstabelle aktualisiert"
   - date: "2026-07-17"
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ergänzung um BGer 5A_599/2026; Prozesskostenvorschuss-Sektion hinzugefügt"
   - date: "2026-06-28"
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterstellung des Kommentars"
 ---
 

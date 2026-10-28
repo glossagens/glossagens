@@ -5,17 +5,14 @@ date: 2026-07-16
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 62b StGB — Endgültige Entlassung: Bewährung, Höchstdauer, Altersgrenze bei Art. 61 StGB, Probezeit und Reststrafe."
 tags: ["Rechtsprechung", "StGB", "endgültige Entlassung", "Massnahme", "Höchstdauer", "Bewährung", "Art. 61", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 4 verifizierte BGer-Entscheide via entscheidsuche.ch; BGer 7B_853/2025 (Altersgrenze 30) als Leitentscheid; BGer 6B_881/2013 und 6B_473/2014 (Bewährung/Höchstdauer); BGer 7B_155/2026 (bedingte Entlassung als letzte Stufe)"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

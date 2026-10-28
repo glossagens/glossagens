@@ -22,17 +22,14 @@ normen:
   - { gesetz: bv, art: art-121 }
   - { gesetz: emrk, art: art-008 }
 stichworte: ["Aufenthaltsberechtigung", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Kurzaufenthaltsbewilligung", "Grenzgängerbewilligung", "Vorläufige Aufnahme", "Status S", "Ausweis B", "Ausweis C", "Ausweis L", "Ausweis G", "Ausweis F", "Ausweis N", "duales Zulassungssystem", "FZA", "Rechtsanspruch", "Art. 61a AIG", "Erlöschen des Aufenthaltsrechts", "Arbeitslosigkeit"]
-agent_verified: false
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ grundlage). Normtexte Art. 10, 11, 32, 33, 34, 35, 83 AIG sowie Art. 42, 60, 66 AsylG aus Fedlex (scripts/wortlaut.py); Entscheide als Volltext über entscheidsuche.ch geladen, Zitate, Links und Anker mit pruefen.py ohne Befund. agent_verified bewusst false (Maintainer-Review)."
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Erlöschens der Aufenthaltsrechte von EU/EFTA-Staatsangehörigen bei unfreiwilligem Stellenverlust (Art. 61a AIG, BGE 147 II 1, BGE 151 II 277) mit Verlinkung zum Praxiskommentar Art. 61a AIG sowie Praxishinweis zu Nachlauffristen und Sozialhilfeausschluss."
 ---
 

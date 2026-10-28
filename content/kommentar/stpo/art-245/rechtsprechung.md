@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 245 StPO – Durchführung der Hausdurchsuchung, Vorweisen des Befehls und Beiwohnungsrecht."
 tags: ["Rechtsprechung", "StPO", "Hausdurchsuchung", "Durchsuchung", "Beiwohnungsrecht", "Zwangsmassnahme"]
-agent_verified: false
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 245 StPO mit 23 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

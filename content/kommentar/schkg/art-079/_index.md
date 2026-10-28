@@ -5,37 +5,30 @@ date: 2026-05-24
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 79 SchKG: Beseitigung des Rechtsvorschlags durch Anerkennungsklage oder Verwaltungsverfahren, Verhältnis zur Rechtsöffnung, Dispositivzusatz, Schiedsgericht, Zustellung, Einwendungen des Schuldners, Grenzkasuistik."
 tags: ["SchKG", "Rechtsvorschlag", "Anerkennungsklage", "Rechtsöffnung", "Betreibungsfortsetzung", "Verwaltungsverfahren", "Zustellung", "Dispositivzusatz", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-079.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–7 überarbeitet und vertieft, Rz. 8 (Zustellung), Rz. 9 (Einwendungen des Schuldners nach Art. 81 Abs. 2), Rz. 10 (Nichtbekanntgabe), Rz. 11–16 (Grenzkasuistik: Radio-/TV-Gebühren, Krankenkassen, Abstandserklärung, Rückzug, Fristenstillstand, Schiedsgericht); BGE 119 V 329, BGE 128 III 39, BGE 130 III 396, BGE 147 III 41, BGE 110 III 13, BGer 5A_547/2015 neu aufgenommen; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–3 überarbeitet und vertieft, Rz. 4–7 (Anerkennungsklage, Verwaltungsverfahren, Dispositivzusatz, Schiedsgericht), Rz. 8–12 (Grenzkasuistik: parallele Verfahren, negative Feststellungsklage, Rückzug, Fristenstillstand, Verwaltungsverfügungen), Praxisfragen ergänzt; BGE 148 III 30, BGE 142 III 599, BGE 107 III 60, BGE 128 III 39, BGer 5A_843/2014, BGer 5A_299/2024, BGer 4A_65/2024 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Gegenüberstellung von Anerkennungsklage und Rechtsöffnung (BGE 148 III 30), direkte Fortsetzung ohne Rechtsöffnung (BGE 107 III 60), Verwaltungsverfügungen (BGE 142 III 599) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG — agent_verified korrigiert, bger.ch-Links auf OCL umgestellt"
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung"
 ---
 

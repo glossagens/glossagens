@@ -5,22 +5,18 @@ date: 2026-08-01
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 30 AVIG: Sanktionierung der selbstverschuldeten Arbeitslosigkeit (Eigenkündigung, Aufhebungsvertrag, Entlassung wegen Pflichtverletzung), Lohnverzicht, ungenügende Arbeitsbemühungen, Weisungsmissachtung/AMM, Meldepflichtverletzungen sowie die sechsmonatige Vollzugsverwirkung — mit Prüfschema, Grenzkasuistik und Vergleichstabellen."
 tags: ["AVIG", "Arbeitslosenversicherung", "Einstellung in der Anspruchsberechtigung", "Selbstverschuldete Arbeitslosigkeit", "Eigenkündigung", "Aufhebungsvertrag", "Arbeitsbemühungen", "Meldepflicht", "Verwirkungsfrist", "IAO-168"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO und Art. 336 OR: Prüfschema und Merkmalskatalog, narrative Sachverhaltsanalysen (BGer 8C_709/2025, 8C_19/2019, 8C_153/2024, C 59/05 sowie ZH SVG AL.2024.00131, AL.2025.00126, SG VSG AVI 2009/57, LU VWG S 98 624), zweiseitige Grenzkasuistik zu Selbst- und Arbeitgeberkündigung, Judikaturdivergenzen, tabellarische Vergleiche ohne Code-Fences, zwei kantonale Praxisfragen und adressatenbezogene Praxishinweise. Sämtliche 19 zitierten Entscheide im Volltext via entscheidsuche.ch verifiziert und dorthin verlinkt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 837.0 vom 2026-01-01 (data/wortlaut/avig/art-030.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 837.0 Art. 30), Leading Cases/Regesten (BGE 123 V 150, 124 V 234, 124 V 225, 122 V 34, 125 V 193, 112 V 242, 139 V 524, 141 V 365) via OCL verifiziert."
 ---
 

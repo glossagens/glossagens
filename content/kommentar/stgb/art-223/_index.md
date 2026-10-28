@@ -5,12 +5,10 @@ date: 2026-05-17
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 223 StGB – Verursachung einer Explosion, Gas, Benzin, Petroleum, Gemeingefährdung, objektive Strafbarkeitsbedingung, Versuch"
 tags: ["StGB", "Explosion", "Gemeingefährdung", "objektive Bedingung", "Versuch", "Brandstiftung", "Sprengstoff"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-223.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"

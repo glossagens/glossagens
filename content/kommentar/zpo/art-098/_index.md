@@ -5,22 +5,18 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 98 ZPO: Kostenvorschuss — Voraussetzungen, Höhe, Folgen der Nichtleistung, Revision 2023 (Praxistauglichkeit)."
 tags: ["ZPO", "Kostenvorschuss", "Gerichtskosten", "Prozessvoraussetzung", "Revision 2023"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-098.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 19 % → 100 %, Urteil A); Hinweis ergänzt, dass die gesamte zitierte Rechtsprechung zur vor dem 1.1.2025 geltenden Fassung ergangen ist"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 2 von 26 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

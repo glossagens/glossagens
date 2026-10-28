@@ -5,42 +5,34 @@ date: 2026-05-23
 lastmod: 2026-10-20
 description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht und Massnahmeverfahren (BGer 1C_411/2026), antizipierte Beweiswürdigung, Begründungspflicht bei Dass-Entscheiden (BGer 1C_524/2026), Akteneinsicht vs. Replikrecht (BGer 1C_396/2026), Überraschungsverbot bei Kündigung (BVGer A-3785/2025), Wiedererwägungsanspruch und unentgeltliche Rechtspflege."
 tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "vorsorgliche Massnahmen", "Akteneinsicht", "Dass-Entscheid"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von vier neuen Entscheiden der letzten drei Wochen zu Art. 29 Abs. 2 BV: (1) BGer 1C_396/2026 und 1C_397/2026 vom 6. Oktober 2026: Nichtbehandlung eines Akteneinsichtsgesuchs führt als formeller Gehörsmangel zwingend zur Aufhebung, während beim Replikrecht das Kausalitätserfordernis greift; (2) BGer 1C_411/2026 vom 1. Oktober 2026: Eingeschränkte Tragweite des Replikrechts bei vorsorglichen Massnahmen und Begründungsdichte; (3) BGer 1C_524/2026 vom 29. September 2026: Verfassungsrechtliche Begründungspflicht und Rügeobliegenheit bei 'Dass-Entscheiden'; (4) BVGer A-3785/2025 vom 30. September 2026: Rechtliches Gehör und Überraschungsverbot vor fristloser Kündigung im öffentlich-rechtlichen Personalrecht."
   - date: 2026-10-06
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Aufnahme von VG ZH VB.2026.00244 (15.09.2026): neuer Abschnitt III Kantonale Entscheide — unentgeltlicher Rechtsbeistand im ausländerrechtlichen Zwangsmassnahmengerichtsverfahren bei Eingrenzung, Bestätigung von BGE 130 I 180 E. 3.2. Link via entscheidsuche.ch verifiziert."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Aufnahme von BGer 7B_15/2026 vom 2. September 2026: Ausstandsgesuch muss 'ohne Verzug' eingereicht werden (Art. 58 Abs. 1 StPO); 6-7 Tage genügen, 17 Tage zu spät = Verwirkung; Spitalaufenthalt (1 Tag) mit anschliessendem Verteidiger-Kontakt kein ausreichendes Hindernis; Art. 94 StPO Fristwiederherstellung erfordert unabwendbaren Notfall. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-26
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 1C_725/2025 (Wiedererwägung betreffend Abbruch eines Gebäudes, 15.09.2026): Grundsatz der fiktiven Vollstreckung bei rechtskräftigen Abbruchentscheiden, Ausstandsrügepflicht aus Treu und Glauben, antizipierte Beweiswürdigung bezüglich Remisen-Gutachten. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht gemäss Qualitätsstandard mit 19 verifizierten Entscheiden (10 Leitentscheide, 9 weitere Entscheide). Alle Links verbatim auf entscheidsuche.ch ausgerichtet."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um BGer 9C_278/2026."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Tote Pinpoints entfernt, Fehlzuordnungen bereinigt."
 ---
 

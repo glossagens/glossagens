@@ -5,12 +5,10 @@ date: 2026-10-06
 lastmod: 2026-10-06
 description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 312 StGB (Amtsmissbrauch)."
 tags: ["Rechtsprechung", "StGB", "Amtsdelikte", "Amtsmissbrauch"]
-agent_verified: false
 revisions:
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Systematische Erfassung von 16 verifizierten Entscheiden zu Art. 312 StGB: 9 BGE-Leitentscheide (BGE 149 IV 128, BGE 127 IV 209, BGE 114 IV 41, BGE 113 IV 29, BGE 108 IV 48, BGE 104 IV 22, BGE 101 IV 407, BGE 88 IV 69, BGE 149 IV 183) sowie 7 weitere BGer- und Kantonsentscheide (BGer 6B_1212/2018, BGer 6B_281/2018, BGer 1C_395/2018, BGer 1C_57/2018, AppGer BS SB.2018.126, OGer TG RBOG 2021 Nr. 27, KantGer GR PKG 2009 Nr. 9); alle Entscheide via entscheidsuche.ch nachgewiesen."
 ---
 

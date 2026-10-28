@@ -5,32 +5,26 @@ date: 2026-07-11
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 426 StPO: Kostentragung bei Verurteilung, Teilfreispruch und Ausscheidungsmethode, Ausnahme für amtliche Verteidigung, Kostenauflage bei Freispruch oder Einstellung nach Abs. 2 (zivilrechtliche Vorwerfbarkeit, Unschuldsvermutung, Nemo-tenetur-Schranke), unnötige und fehlerhafte Verfahrenshandlungen nach Abs. 3 lit. a, Übersetzungskosten nach Abs. 3 lit. b, unentgeltliche Rechtsbeistandschaft der Privatklägerschaft nach Abs. 4 sowie selbstständiges Massnahmeverfahren nach Abs. 5."
 tags: ["StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "beschuldigte Person", "Freispruch", "Einstellung", "Teilfreispruch", "Unschuldsvermutung", "Nemo tenetur", "Amtliche Verteidigung", "Übersetzungskosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex. Die Sachverhalte der Kasuistik (BGer 6B_523/2013, 6B_151/2014, 6B_1306/2021, 6B_650/2024, 6B_563/2017, 6B_940/2023, SG KG AK.2023.396, OGer ZH UH150086, 6B_936/2015, 6B_1125/2016, 6B_123/2014, 6B_684/2020) und die Pinpoints wurden bestätigt. Korrigiert: BGE 144 IV 202 (Art.-53-StGB-Fall: die Grundsätze zu Art. 426 Abs. 2 finden dort nach E. 2.3 keine Anwendung; Sachverhalt Genf); BGE 143 IV 373 E. 1.4.2 (Akzessorietät der Kosten bei Verletzung des Beschleunigungsgebots, nicht allgemeine «Strafmilderung»); BGE 116 Ia 162 Pinpoint (E. 2c statt 2g); «Synkope» nicht belegt (nur «medizinisches Problem»); Formulierung zur Staatskasse bei der amtlichen Verteidigung; Literaturliste auf belegte Angaben reduziert; Prüfvermerk aktualisiert. Botschaft nicht zitiert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-426.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Benchmark-Standard: Wortlaut verbatim aus Fedlex (SR 312.0, Stand 1. April 2025; Randtitel gemäss Änd. vom 17. Juni 2022, in Kraft seit 1. Jan. 2024). Vollständiges Prüfschema vorangestellt, systematische Auswertung der bundesgerichtlichen und kantonalen Kasuistik (BGE 147 IV 47, BGE 144 IV 202, BGE 143 IV 373, BGE 139 IV 199, BGE 138 IV 248, BGE 116 Ia 162, BGer 6B_650/2024, 6B_940/2023, 6B_1306/2021, 6B_563/2017, 6B_936/2015, 6B_151/2014, 6B_123/2014, 6B_523/2013, 6B_1125/2016, 6B_684/2020 sowie Entscheide aus SG, ZH und AR), Offenlegung der Judikaturdivergenzen zum Verschuldensgrad bei Abs. 2 und zur Nichtanhandnahme, strukturierte Kasuistiktabelle und adressatenbezogene Praxishinweise."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 29 %). Alle zwölf Referenzen existieren und treffen thematisch zu; die Erwägungsangaben im Kommentartext sind durchwegs korrekt. Korrigiert wurden zwei Pinpoints in der Rechtsprechungsübersicht (BGE 143 IV 373 E. 1.4 → E. 1.4.2; BGE 138 IV 248 E. 4.4 → E. 4.4.1) sowie die Zitierweise."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung KW31 — BGer 6B_938/2025 (E.4.1) zu Art. 426 Abs. 1 via OCL case-brief verifiziert."
 ---
 

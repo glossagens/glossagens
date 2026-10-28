@@ -5,12 +5,10 @@ date: "2026-08-18"
 lastmod: "2026-08-18"
 description: "Wegweisende Entscheide des Schweizerischen Bundesgerichts zu Art. 60 ZGB: Entstehung der juristischen Persönlichkeit, ideeller vs. wirtschaftlicher Zweck, Statutenerfordernisse, Namensschutz und Verbandsbeschwerde."
 tags: ["Rechtsprechung", "ZGB", "Vereinsrecht", "Art. 60", "Persönlichkeitserwerb", "Verbandsbeschwerde"]
-agent_verified: true
 revisions:
   - date: "2026-08-18"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht nach Audit: Bereinigung sachfremder Zitate und Einbindung fundierter Leitentscheide."
 ---
 

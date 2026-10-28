@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Entscheide zu Art. 402 OR — Auslagenersatz, Befreiungsanspruch, Schadenshaftung mit Verschuldensvermutung"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Aufwandersatz", "Schadenshaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neuerstellung; BGE 110 II 283, BGE 94 II 37, BGer 4A_443/2011, BGer 4A_429/2014 via entscheidsuche verifiziert"
 ---
 

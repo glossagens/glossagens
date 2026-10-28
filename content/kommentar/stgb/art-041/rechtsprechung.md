@@ -5,17 +5,14 @@ date: "2026-07-04"
 lastmod: "2026-09-05"
 description: "Übersicht der Entscheide zu Art. 41 StGB – Freiheitsstrafe anstelle von Geldstrafe"
 tags: ["Rechtsprechung", "StGB", "Freiheitsstrafe", "Geldstrafe", "Sanktionswahl"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; alle BGE- und BGer-Links verifiziert"
   - date: 2026-07-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW27"
 ---
 

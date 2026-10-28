@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 42 OR: Gesetzliche Beweislastregel (Abs. 1), richterliche Schadensschätzung nach Ermessen bei Beweisnot (Abs. 2) samt strenger Substanziierungs- und Mitwirkungsobliegenheit sowie Heilungskosten bei Haustieren (Abs. 3) — mit umfassender Kasuistik (u.a. BGer 4A_316/2025 zu Weinbau-Acquits/lucrum cessans und BGer 4A_58/2026 zur Überstundenschätzung ex aequo et bono), Grenzkasuistiken, Vergleichstabellen und Praxishinweisen."
 tags: ["OR", "Schadensersatz", "Schadensbeweis", "Beweisnot", "Richterliche Schadensschätzung", "Ermessen", "Überwiegende Wahrscheinlichkeit", "Substanziierungspflicht", "Differenzhypothese", "Lucrum cessans", "Haushaltschaden", "Überstunden", "Tierheilungskosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung als praxisorientierter Gesetzeskommentar gemäss Skill praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR): Merkmalskatalog als Prüfschema-Tabelle, systematische Gliederung nach den abstrakten Tatbestandsmerkmalen (Schadensbegriff, Beweislast Abs. 1, Beweisnot und Mitwirkungsobliegenheit Abs. 2, Beweismass der überwiegenden Wahrscheinlichkeit, richterliche Ermessensausübung, analoge Anwendungsfelder sowie Tierheilungskosten Abs. 3), dichte Kasuistik mit Gegenüberstellung von Anwendungs- und Verwerfungsfällen, Auswertung der am 22.10.2026 auf bger-update.ch publizierten Urteile BGer 4A_316/2025 (Acquits-Vorenthaltung/lucrum cessans) und BGer 4A_58/2026 (Überstundenschätzung ex aequo et bono), Vergleichstabellen ohne Code-Fences, zwei kantonale Praxisfragen sowie adressatenbezogene Praxishinweise."
 ---
 

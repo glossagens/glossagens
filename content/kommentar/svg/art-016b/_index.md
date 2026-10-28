@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: 2026-10-26
 description: "Kommentar zu Art. 16b SVG: Katalog der mittelschweren Widerhandlungen (Gefährdung, Alkohol mit Zusatzverstoss, Fahren ohne Ausweis, Fahrzeugentwendung), gestaffelte Mindestentzugsdauern bei Rückfall, Entzug auf unbestimmte Zeit bei drittem Rückfall."
 tags: ["SVG", "Strassenverkehrsrecht", "Führerausweisentzug", "mittelschwere Widerhandlung", "Warnungsentzug", "Rückfallstaffel", "BGer 1C_99/2026"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 1C_99/2026 vom 06.10.2026 (publiziert 26.10.2026): Vortrittsmissachtung gegenüber Zweirädern (E-Bike / Fahrrad) mit Kollision begründet stets eine mindestens erhöhte Gefährdung und ist zwingend eine mittelschwere Widerhandlung (Art. 16b Abs. 1 lit. a SVG); Ausschluss einer leichten Widerhandlung nach Art. 16a SVG."
   - date: 2026-08-08
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung — Gesetzestext via Fedlex MCP (SR 741.01 Art. 16b), Leading Cases via OCL cite verifiziert (BGE 135 II 138, BGE 141 II 220, BGE 135 II 334, BGE 132 II 234, BGE 136 II 447, BGE 150 II 505)."
 ---
 

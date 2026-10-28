@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 5 KG: Unzulässige Wettbewerbsabreden, horizontale und vertikale Vermutungstatbestände (Preisfestsetzung, Mengenbeschränkung, Marktaufteilung, Mindestpreise, absoluter Gebietsschutz), Widerlegung der Beseitigungsvermutung, qualitative Erheblichkeit nach der GABA- und BMW-Rechtsprechung, Effizienzrechtfertigung sowie zivil- und verwaltungsrechtliche Rechtsfolgen mit umfassender Grenzkasuistik."
 tags: ["KG", "Kartellrecht", "Wettbewerbsabreden", "Preisabreden", "Submissionsabreden", "Gebietsschutz", "Erheblichkeit", "GABA", "BMW", "Baukartell", "Effizienzrechtfertigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung nach dem Standard für praxisorientierte Kommentare (Muster Art. 110 StPO / Art. 336 OR / Art. 6 KG). Gesetzeswortlaut über Fedlex (data/wortlaut/kg/art-005.json via scripts/wortlaut.py). Volltextverifikation sämtlicher Entscheide auf entscheidsuche.ch (BGE 143 II 297, BGE 144 II 194, BGE 144 II 246, BGE 147 II 72, BGE 129 II 18, BGE 148 II 25, BGE 139 I 72; BGer 2C_40/2024, BGer 1C_149/2023; BVGer B-3097/2018, B-8430/2010, B-506/2010; Handelsgericht ZH HG150188; BStGer BE.2013.1)."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-31"
 description: "Historischer und vollzugsrechtlicher Kommentar zu Art. 39 aStGB (aufgehoben per 1.1.2018): Umwandlung bei Nichtleistung gemeinnütziger Arbeit in Geld- oder Freiheitsstrafe sowie Nachverfahren nach Art. 363 ff. StPO."
 tags: ["StGB", "Gemeinnützige Arbeit", "Umwandlung", "Sanktionenvollzug", "Ersatzstrafe", "Nachverfahren", "Historisches Recht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 4 verifizierte BGE-Leitentscheide und 4 weitere Entscheide via entscheidsuche.ch; BGE 134 IV 97, BGE 134 IV 60, BGE 135 IV 121, BGE 141 IV 396; BGer 6B_754/2009, BGer 6B_140/2016; LU OG 21 08 125, TG OG RBOG 2008 Nr. 26, ZH VG VB.2014.00336 auf entscheidsuche.ch verifiziert; Gesetzeswortlaut → Wortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

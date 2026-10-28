@@ -21,12 +21,10 @@ normen:
   - { gesetz: schkg, art: art-085a }
   - { gesetz: schkg, art: art-088 }
 stichworte: ["Schuldbetreibung", "Zahlungsbefehl", "Rechtsvorschlag", "Rechtsöffnung", "definitive Rechtsöffnung", "provisorische Rechtsöffnung", "Schuldanerkennung", "Anerkennungsklage", "Aberkennungsklage", "Feststellungsklage", "Betreibungsregister", "Nichtbekanntgabe", "Einsichtsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren). Normtexte SchKG über Fedlex (Stand 1.1.2026); Art. 8a, 69, 74 SchKG per {{< wortlaut >}} eingebunden. 11 BGE als Volltext von entscheidsuche.ch geladen, Erwägungsnummern, HTML-Anker und jedes wörtliche Zitat gegen den Volltext abgeglichen. Mechanische Prüfung via pruefen.py ohne Befund."
 ---
 

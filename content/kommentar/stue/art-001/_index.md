@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-07-03
 description: "Kommentar zu Art. 1 des Staatenlosen-Übereinkommens: de iure-Staatenlosigkeit; Missbrauchsvorbehalt; Identitätstäuschung; UNRWA-Ausschlussklausel."
 tags: ["Staatenlosen-Übereinkommen", "Staatenlosigkeit", "Migrationsrecht", "UNRWA", "Identität"]
-agent_verified: false
 ---
 
 ## Vertragswortlaut

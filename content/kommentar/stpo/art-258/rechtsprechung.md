@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 258 StPO – Durchführung der Probenahme: Ärztlicher Fachbeizug bei invasiven Eingriffen, Schutz der körperlichen Integrität und Chain of Custody."
 tags: ["Rechtsprechung", "StPO", "Probenahme", "invasive Eingriffe", "Arzt", "medizinisches Personal", "Körperliche Integrität", "Beweissicherung", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 258 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

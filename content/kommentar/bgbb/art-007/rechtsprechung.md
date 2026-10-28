@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 7 BGBB (landwirtschaftliches Gewerbe; Standardarbeitskraft; landesübliche Bewirtschaftung)"
 tags: ["Rechtsprechung", "BGBB", "Landwirtschaftliches Gewerbe", "Standardarbeitskraft"]
-agent_verified: false
 ---
 
 # Rechtsprechungssammlung zu Art. 7 BGBB

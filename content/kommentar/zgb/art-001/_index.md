@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-10-24
 description: "Kommentar zu Art. 1 ZGB – Grundnorm der Rechtsanwendung, pragmatischer Methodenpluralismus, Auslegungselemente, Lückenarten und richterliche Rechtsfindung."
 tags: ["ZGB", "Einleitung", "Auslegung", "Lückenfüllung", "Gewohnheitsrecht", "Richterrecht", "Methodenpluralismus"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Neukommentierung nach Glossagens-Standard: Einarbeitung der Entstehungsgeschichte (Botschaft 1904, BBl 1996 I 1), pragmatischer Methodenpluralismus (BGE 121 III 219, BGE 150 V 454), Lückenarten und teleologische Reduktion, Verknüpfung mit dem Themenbeitrag /themen/pragmatischer-methodenpluralismus/, Praxisfragen der kantonalen Rechtsprechung (SG HG.2002.40, SG BO.2012.77/78, ZH VB.2003.00332) und Ausbau der Rechtsprechungsübersicht auf 14 verifizierte Leit- und Praxisentscheide."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-001.json), inkl. Fussnoten."
 ---
 

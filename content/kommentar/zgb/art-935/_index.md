@@ -5,22 +5,18 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 935 ZGB — gutgläubiger Erwerb von Geld und Inhaberpapieren: kategorischer Ausschluss des Rückforderungsrechts auch bei Abhandenkommen (Ausnahme zur Ausnahme des Art. 934), Begriff des Geldes und Abgrenzung zu Sammlermünzen, Inhaberpapiere (Inhaberschuldbrief, Inhaberaktie, Inhaberobligation) und Abgrenzung zu Order-/Rektapapieren, Voraussetzung eines Erwerbsgeschäfts, Bösgläubigkeit (Art. 936) und Hehlerei, Schuldbriefe als Inhaberpapiere (lex specialis Art. 862/863 ZGB), Kraftloserklärung (Art. 971 OR, Art. 865 ZGB) und Kulturgüter (KGTG) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Geld", "Inhaberpapiere", "gutgläubiger Erwerb", "nemo plus iuris", "Inhaberschuldbrief", "Schuldbrief", "Kraftloserklärung", "Kulturgüter", "KGTG", "Hehlerei", "Bösgläubigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-935.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 935, 862, 863, 865 ZGB; Art. 971 OR (SR 220); sowie Art. 3, 641a, 714, 722, 728, 930, 933, 934, 936 ZGB aus den Vorarbeiten. 10 Entscheide via entscheidsuche.ch geprüft, davon 8 im Volltext abgerufen (BGE 65 II 62, 89 II 387, 100 II 8, 103 II 186, 105 IV 303, 107 II 440, 139 III 305; GR KG ZK1 2010 6; BGE 115 III 111 und BGer 5A_237/2026 via Such-Snippets). Links verbatim aus document_url-Feldern übernommen. Beachte: BGE 89 II 387 und 107 II 440 zitieren die alte Schuldbrief-Publizität Art. 865/866 ZGB; diese Regeln sind heute (seit Register-Schuldbrief-Revision 2012) in Art. 862/863 ZGB enthalten, Art. 865 regelt nun die Kraftloserklärung, Art. 866–874 sind aufgehoben."
 ---
 

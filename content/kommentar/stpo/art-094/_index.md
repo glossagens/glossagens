@@ -5,22 +5,18 @@ date: "2026-06-12"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 94 StPO: Wiederherstellung versäumter Fristen und Termine — strenger Verschuldensmassstab, Zurechnung des Anwaltsverschuldens und die Ausnahme bei notwendiger Verteidigung."
 tags: ["StPO", "Wiederherstellung", "Fristen", "notwendige Verteidigung", "Zurechnung", "Säumnis", "Terminversäumnis", "Zustellfiktion"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-094.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 10 %). Drei Sachfehler korrigiert: BGE 149 IV 196 war in der Aussage umgekehrt wiedergegeben; die Ausnahme knüpft an die notwendige Verteidigung (Art. 130 StPO) an, nicht an die amtliche Verteidigung (Art. 132 StPO); ein Zurechnungsgrundsatz in Art. 89 StPO existiert nicht. Drei Entscheide (6B_1393/2021, 6B_283/2025, 6B_361/2025) waren falsch charakterisiert; alle Pinpoints korrigiert. Neu eingearbeitet: BGE 142 IV 201, BGer 6B_125/2011, BGer 6B_1039/2016."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 ---
 

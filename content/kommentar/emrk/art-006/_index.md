@@ -5,27 +5,22 @@ date: 2026-05-10
 lastmod: 2026-10-27
 description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit, Beweisverwertungsverbote, Replikrecht und kantonale Praxisfragen"
 tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Beweisverwertungsverbote", "Replikrecht", "kantonale Praxisfragen"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Schliessung von Praxis- und Judikaturlücken: Einarbeitung der BGE-Leitentscheide zu Beweisverwertungsverboten (BGE 146 IV 226, 147 IV 9, EGMR Schenk v. Schweiz), Kartellrechtssanktionen (BGE 139 I 72), FINMA-Berufsverboten (BGE 142 II 243), Ausländerrecht/Maaouia-Doktrin (BGE 137 I 128), Strafbefehlsverfahren und Medienöffentlichkeit (BGE 140 IV 82, BGE 152 IV 96), Konfrontationsanspruch (BGE 148 I 295, BGE 131 I 476, BGE 140 IV 172) sowie Aufnahme der kantonalen Praxisfragen (Verwirkung von Ausstandsgründen BGE 140 I 271, Replikrecht und 10-Tage-Wartefrist BGE 138 I 484 / BGer 5D_81/2015, Delegationsbefragungen) und Praxishinweise."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von EGMR B.K. gegen Schweiz (Nr. 24268/21 und 55351/21 vom 22.10.2026): Bekräftigung der Replikrecht- und Waffengleichheitsrechtsprechung bei von Amtes wegen eingeholten Auskünften und im vereinfachten bundesgerichtlichen Verfahren (Art. 108 BGG)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 0.101 vom 2022-09-16 (data/wortlaut/emrk/art-006.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C, 31% -> Neuaufbau): ~20 BGE waren real existierend, aber thematisch komplett falsch zugeordnet (Muster 'echte Nummer, erfundener Inhalt' -- u.a. 147 I 173 [Ausstandsentdeckung Finanzausgleich, nicht allg. Unabhängigkeit], 140 I 153 [MWST Schultransport, nicht Schiedsrichter], 142 I 195 [Sterbehilfe, nicht FIFA], 136 I 39/141 I 113/143 I 220/139 I 145 [4x falsches Beschleunigungsgebot-Thema], 127 I 54/135 I 257/142 I 99 [nemo tenetur falsch zugeordnet], 122 V 157/135 V 465 [Art.6-Praxis aber falsches Subthema]). Alle durch check_claim_support/get_regeste verifizierte, thematisch passende Entscheide ersetzt oder unbelegte Aussage stehen gelassen wo keine passende Quelle auffindbar war. Verdächtige bger.ch/ext/eurolex-URL (Fabrikationsmuster) auf kanonischen MCP-Link korrigiert."
 ---
 

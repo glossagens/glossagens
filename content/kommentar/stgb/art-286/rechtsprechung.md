@@ -5,12 +5,10 @@ date: 2026-08-30
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 286 StGB — Hinderung einer Amtshandlung: Erfolgsdelikt, hinreichend konkrete Amtshandlung, Flucht vor Kontrolle, Anstiftung bei Kundgebungen, Selbstbegünstigung und Mittäterschaft."
 tags: ["Rechtsprechung", "StGB", "Hinderung einer Amtshandlung", "Amtshandlung", "Beamtenbegriff", "Selbstbegünstigung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 6 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 120 IV 136 (Erfolgsdelikt, Mittäterschaft), BGE 124 IV 127 (Flucht vor Ausweiskontrolle), BGE 127 IV 115 (Anstiftung bei Demonstration), BGE 133 IV 97 (straflose Selbstbegünstigung), BGE 103 IV 186 (Warnen vor Kontrolle), BGE 107 IV 113 (Verweilen in Sitzung)"
 ---
 

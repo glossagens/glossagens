@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 249 StPO – Grundsatz der Durchsuchung von Personen und Gegenständen, Vermutung von Tatspuren und Verhältnismässigkeit."
 tags: ["Rechtsprechung", "StPO", "Durchsuchung", "Personendurchsuchung", "Gegenstände", "Tatspuren", "Beschlagnahme", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 249 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

@@ -5,27 +5,22 @@ date: 2026-08-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 49 VwVG: Beschwerdegründe — Rügegründe vor Bundesverwaltungsgericht, Kognition, Rechtsverletzung, Ermessensfehler, Sachverhaltsrügen, Unangemessenheit und Kasuistik."
 tags: ["VwVG", "Beschwerdegründe", "Kognition", "Rechtsverletzung", "Ermessensmissbrauch", "Sachverhaltsfeststellung", "Unangemessenheit", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Kognition (Art. 49 VwVG), Pflicht zur Kognitionsausschöpfung (BGE 151 II 289), Kartellsanktionen (BGE 147 II 72), Zurückhaltung bei Fachfragen (BGE 133 II 35), Sachverhaltsrügen (BGE 137 II 266) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Korrekturen"
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau"
 ---
 

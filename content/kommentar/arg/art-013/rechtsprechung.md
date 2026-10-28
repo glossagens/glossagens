@@ -5,7 +5,6 @@ date: "2026-07-10"
 lastmod: "2026-07-10"
 description: "Übersicht der Entscheide zu Art. 13 ArG – Entschädigung der Überzeitarbeit"
 tags: ["Rechtsprechung", "ArG", "Überzeitarbeit", "Lohnzuschlag"]
-agent_verified: false
 ---
 
 Die Rechtsprechung zu Art. 13 ArG befasst sich primär mit der Entschädigungspflicht für Überzeitarbeit, der Abgrenzung zur Überstundenentschädigung nach Art. 321c OR, dem zwingenden Charakter des Lohnzuschlags und den sozialversicherungsrechtlichen Auswirkungen.

@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 50 VwVG – Beschwerdefrist und Untätigkeitsbeschwerde"
 tags: ["Rechtsprechung", "VwVG", "Beschwerdefrist", "Frist", "Untätigkeitsbeschwerde"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C 38% -> B, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 136 II 165 (tatsächlich zum Streitgegenstand bei Fluglärmentschädigung, nicht zu Fristversäumnis) und BGE 129 II 125 (tatsächlich zu Wohnbau-/Eigentumsförderung nach Art. 62 Abs. 3 VwVG, keine 30-Tage-Frist-Erwähnung) als Fehlzitate entfernt. Pinpoint für BGE 142 V 551 (E. 4.2 statt nicht existierendem E. 5.4) und BGE 142 II 363 (E. 1.2 statt nicht existierendem E. 3.2) korrigiert. Fabrizierter Verweis 'Art. 34 Abs. 4 VwVG' (Art. 34 hat keinen Abs. 4) entfernt. Tippfehler korrigiert."
 ---
 

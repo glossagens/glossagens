@@ -5,22 +5,18 @@ date: 2026-07-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 StPO – Gerichte: Aufzählung der gerichtlichen Befugnisse im Strafverfahren (Zwangsmassnahmengericht, erstinstanzliches Gericht, Beschwerdeinstanz, Berufungsgericht), dogmatische Grundlagen der Gerichtsorganisation und des verfassungsmässigen Richters."
 tags: ["StPO", "Gerichte", "Zwangsmassnahmengericht", "Berufungsgericht", "Beschwerdeinstanz", "verfassungsmässiger Richter", "Ausstand"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 24 %). Alle 21 Referenzen und sämtliche Erwägungsangaben einzeln gegen die MCP geprüft — anders als bei den übrigen auditierten Artikeln existieren hier alle Entscheide und treffen thematisch zu. Korrigiert: BGE 141 IV 39 E. 1.6 (im Volltext E. 1.6.2) und der Anker zu BGE 126 I 172 E. 3c. Zitierweise auf die amtlichen Zitierstrings vereinheitlicht; Aussagen zur Vorbefassung an den geprüften Wortlaut angeglichen; BGer 1B_266/2020 ergänzt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

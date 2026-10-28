@@ -5,22 +5,18 @@ date: 2026-08-11
 lastmod: 2026-10-16
 description: "Umfassende Übersicht der bundesgerichtlichen Leitentscheide und kantonalen Urteile zu Art. 47 StGB: Drei-Stufen-Modell, Einsatzstrafenbildung, Doppelverwertungsverbot, Verbindungsbusse, Geständnisrabatt, Strafempfindlichkeit, überlange Verfahrensdauer und richterliche Begründungspflicht."
 tags: ["Rechtsprechung", "StGB", "Strafzumessung", "Verschulden", "Tatkomponenten", "Täterkomponenten", "Doppelverwertungsverbot", "Verbindungsbusse", "Geständnisrabatt", "Strafempfindlichkeit", "Beschleunigungsgebot"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_710/2025 vom 5.10.2026 (globale Verschuldensbewertung bei Konkurrenz verletzt Art. 50 StGB; Begründungspflicht beim Teillaufschub; Strafenwahl bei Vorstrafenlosigkeit und Tatenverleugnung). Volltext via bger.ch verifiziert (Entscheid vom 5.10.2026, entscheidsuche/OCL noch nicht indexed)."
   - date: 2026-09-30
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 7B_497/2025 vom 9.9.2026 (Verbindungsbusse fehlerhaft addiert; Einklang Verschulden/Strafmass; Strafempfindlichkeit Berufschauffeur). Fundstelle via entscheidsuche verifiziert."
   - date: 2026-08-11
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit."
 ---
 

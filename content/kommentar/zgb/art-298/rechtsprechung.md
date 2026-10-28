@@ -5,17 +5,14 @@ date: 2026-09-17
 lastmod: 2026-10-04
 description: "Übersicht der Leitentscheide des Bundesgerichts zu Art. 298 ZGB: Schwellenwert der Alleinzuteilung im Scheidungs- und Eheschutzverfahren, Beschränkung auf Obhutsregelung, alternierende Obhut, Konnexität von Sorge und Obhut, 40%-Schwelle der alternierenden Obhut (BGer 5A_646/2026)."
 tags: ["Rechtsprechung", "ZGB", "Elterliche Sorge", "Scheidung", "Eheschutz", "Alternierende Obhut", "Obhut", "Kindeswohl"]
-agent_verified: true
 revisions:
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Aufnahme von BGer 5A_646/2026 vom 17. September 2026: Alternierende Obhut setzt keine exakt hälftige Betreuung voraus; 40,5% genügen (Wesentlichkeit bei über 40%); kein Anspruch auf paritätische Aufteilung; Abgrenzung zur deutschen Rechtsprechung (BGH). Bestätigt BGE 142 III 617 E. 4.2. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-17
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Strukturierte Rechtsprechungsübersicht zu Art. 298 ZGB mit 6 BGE und 8 nicht publizierten BGer-Entscheiden, im Volltext via opencaselaw-MCP verifiziert (Sachverhalt und Erwägungen gelesen, nicht nur Regeste). BGE 150 III 97 zusätzlich via entscheidsuche.ch verlinkt; übrige Entscheide mangels Treffer auf entscheidsuche.ch gemäss Rückfallregel auf mcp.opencaselaw.ch verlinkt."
 ---
 

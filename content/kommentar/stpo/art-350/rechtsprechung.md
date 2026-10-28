@@ -5,7 +5,6 @@ date: 2026-07-10
 lastmod: "2026-09-09"
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 350 StPO: Bindung an den Anklagesachverhalt (Immutabilität), Nachbesserungsverbot, freie rechtliche Würdigung und richterliche Beweiswürdigung."
 tags: ["Rechtsprechung", "StPO", "Anklageprinzip", "Immutabilität", "Beweiswürdigung", "Art. 344 StPO", "Art. 333 StPO"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 350 StPO — Bindung an die Anklage; Grundlage des Urteils

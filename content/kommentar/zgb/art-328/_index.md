@@ -5,22 +5,18 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 328 ZGB: Gesetzliche Verwandtenunterstützungspflicht bei günstigen Verhältnissen, Wohlstandsschwelle, Alterssicherung und Pflegefallrückstellungen, Subsidiarität zur Ehegatten- und Elternunterhaltspflicht, Begriff der Notlage, Abgrenzung zur Sozialhilfe, Subrogation des Gemeinwesens und Verfahrensart im ordentlichen Zivilprozess."
 tags: ["ZGB", "Verwandtenunterstützung", "Unterhaltspflicht", "Notlage", "Günstige Verhältnisse", "Wohlstandsschwelle", "Alterssicherung", "Pflegeheimkosten", "Subrogation", "Sozialhilfe", "Ordentliches Verfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-328.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger praxisorientierter Ausbau nach den Standards der Referenzmuster Art. 110 StPO und Art. 336 OR. Einarbeitung des dogmatischen Prüfschemas, zweiseitiger Grenzkasuistik (u.a. BGer 5C.186/2006, 5C.299/2006, 5A_122/2012, BGE 136 III 1, BGE 133 III 507, BGE 132 III 97; kantonale Entscheide aus BS, SZ, AR, SG, SH), Offenlegung von Judikaturdivergenzen (ordentliches Verfahren gemäss BGE 139 III 368 vs. SG Kantonsgericht; SKOS vs. zivilgerichtliches Ermessen; asymmetrische Anrechnung hypothetischen Einkommens) sowie taktischer Merksätze."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 210 Art. 328), Leading Cases (BGE 133 III 507, 132 III 97, 106 II 287, 121 III 441, 136 III 1, 139 III 368) via OCL verifiziert."
 ---
 

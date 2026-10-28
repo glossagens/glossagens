@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: "2026-09-05"
 description: "Übersicht der Rechtsprechung zu Art. 112 StGB — Mord: Besondere Skrupellosigkeit, Beweggrund, Art der Ausführung, In-dubio-pro-reo-Abgrenzung, Gesamtwürdigung, Strafzumessung."
 tags: ["Rechtsprechung", "StGB", "Mord", "Skrupellosigkeit", "Heimtücke", "Grausamkeit", "In dubio pro reo", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 11 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 127 IV 10 (Ehrenmord), BGE 141 IV 61 (Doppelmord mit 47 Stichen), BGer 6B_636/2025 (Rache, 8 Stiche), BGE 144 IV 345 (in dubio pro reo), BGE 147 IV 249 (Skrupellosigkeit schliesst Strafmilderung aus), BGE 118 IV 122 (Gesamtwürdigung), BGE 120 IV 265 (Geringschätzung, persönliche Zurechnung), BGE 121 IV 49 (Versuch), BGer 6B_445/2023 (Strafzumessung), LU Obergericht 21 03 170 (verminderte Schuldfähigkeit), BGer 6B_592/2014 (Konfliktsituation); alle Links auf entscheidsuche.ch geprüft"
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 10 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

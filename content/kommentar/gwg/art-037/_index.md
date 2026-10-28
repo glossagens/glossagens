@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxisorientierter Gesetzeskommentar zu Art. 37 GwG: Strafbarkeit der vorsätzlichen und fahrlässigen Meldepflichtverletzung, Straflosigkeit in leichten Fällen (Revision 2026), Bussenrahmen bis CHF 500'000, Garantenstellung von Compliance-Mitarbeitenden, Dauerdelikt und Verjährungsregime sowie EFD-Verfahren."
 tags: ["GwG", "Art. 37 GwG", "Meldepflichtverletzung", "Verwaltungsstrafrecht", "EFD", "Fahrlässigkeit", "Leichte Fälle", "Dauerdelikt", "Verjährung", "Compliance", "MLRO", "FINMAG"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige, praxisorientierte Erstkommentierung zu Art. 37 GwG einschliesslich der Revision per 1. Oktober 2026 (Straflosigkeit bei leichten Fällen gemäss Abs. 2 Satz 2) und systematischer Auswertung der Leitentscheide des Bundesgerichts und Bundesstrafgerichts"
 ---
 

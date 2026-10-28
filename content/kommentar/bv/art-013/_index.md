@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-10-26
 description: "Praxiskommentar zu Art. 13 BV: Schutz des Privat- und Familienlebens, der Wohnung, des Brief-, Post- und Fernmeldeverkehrs sowie der informationellen Selbstbestimmung — mit plastischen Lebenssachverhalten zu AFV, Videoüberwachung, DNA-Profilen, Hausdurchsuchungen und Aufenthaltsbeendigung, Schwellenwert-Gegenüberstellungen und Praxishinweisen."
 tags: ["BV", "Privatsphäre", "Datenschutz", "Informationelle Selbstbestimmung", "Familienleben", "Privatleben", "Wohnung", "Fernmeldegeheimnis", "AFV", "Videoüberwachung", "DNA-Profil", "Hausdurchsuchung", "Aufenthaltsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss den Standards von Art. 110 StPO und Art. 336 OR: Dogmatische Gliederung entlang des Prüfschemas (Geltungsbereich, fünf Schutzbereiche, Eingriff, Art. 36 BV-Schrankenprüfung, Beweislast und Prozessuales); Anreicherung mit plastischen Lebenssachverhalten realer Urteile (BGE 151 I 137, BGE 149 I 218, BGE 147 I 372, BGE 144 I 126, BGE 144 I 266, BGE 140 I 145, BGE 143 I 310, TG OG RBOG 2025 Nr. 30, LU KG 2N 22 37 u. a.); zweiseitige Schwellenwert-Tabellen; Analyse der Judikaturdivergenz zur EuGH-Rechtsprechung bei der Vorratsdatenspeicherung; vier kantonale Praxisfragen und rollenbasierte Praxishinweise. Wortlaut via scripts/wortlaut.py geprüft; agent_verified auf true gesetzt."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 56 %, Urteil B): Keine erfundenen Referenzen — Befunde betrafen Pinpoints, Sammelzitate und eine überholte Aussage. BGE 137 V 334 (gemischte Methode) ist durch EGMR Di Trizio (2016) überholt und war als geltendes Recht dargestellt; jetzt als überholt gekennzeichnet. Vier Pinpoints korrigiert, Sammelzitate aufgelöst, Wohnungsbegriff-Beleg als fehlzugeordnet entfernt. Erstmals revisions-Block gesetzt; agent_verified von true auf false."
   - date: 2026-06-20
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 

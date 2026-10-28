@@ -5,17 +5,14 @@ date: 2026-09-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 49 ZPO: Form, Frist (Unverzüglichkeit) und Glaubhaftmachung des Ausstandsgesuchs im Zivilprozess sowie Stellungnahme der betroffenen Gerichtsperson."
 tags: ["ZPO", "Ausstand", "Befangenheit", "Gerichtsperson", "Unverzüglichkeit", "Verwirkung", "Stellungnahme"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstanlage des Kommentars zu Art. 49 ZPO mit Fedlex-Wortlaut und Einarbeitung der bundesgerichtlichen Leitpraxis inkl. BGer 5A_110/2026 (Unzulässigkeit des Verzichts auf Stellungnahme nach Abs. 2, Verwirkung bei 21 Tagen)."
 ---
 

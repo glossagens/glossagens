@@ -12,12 +12,10 @@ tags:
   - IPRG
   - Schiedsgerichtsbarkeit
   - Internationales Privatrecht
-agent_verified: false
 revisions:
   - date: '2026-09-20'
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: false
     note: "Neuanlage IPRG-Gesetzesübersicht"
 ---
 

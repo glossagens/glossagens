@@ -5,27 +5,22 @@ date: 2026-07-31
 lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 62 OR — ungerechtfertigte Bereicherung, condictio sine causa, Grundlagenirrtum, Bauunternehmeransprüche, anweisungsähnliche Verhältnisse, fortbestehende Darlehensforderung."
 tags: ["Rechtsprechung", "OR", "ungerechtfertigte Bereicherung", "condictio sine causa", "Rückabwicklung", "Bereicherungsrecht"]
-agent_verified: false
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 54 % (Urteil B); 9 gestützt (+11 teilw.) von 27 beurteilten Paaren (43 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "6-Punkt-Verifikation: 8 OCL-Links HTTP 200. Attest: 42/42 Zitate OK. verify-claim: 4× no, 4× partial, 3× yes — Kontextzitate ergänzt für alle no/partial-Befunde. Pinpoint BGE 87 II 137 E. 2→E. 3 korrigiert. BGE 117 II 404-Regeste präzisiert. Kein rewrite nötig."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Supplement KW31 — 3 weitere Leitentscheide (BGE 129 III 646, 126 III 119, 129 III 422) via OCL verifiziert."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — alle Entscheide via OCL (regeste/case-brief) verifiziert."
 ---
 

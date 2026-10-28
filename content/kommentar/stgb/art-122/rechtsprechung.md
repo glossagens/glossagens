@@ -5,17 +5,14 @@ date: 2026-05-16
 lastmod: "2026-09-21"
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 122 StGB: Leitentscheide des Bundesgerichts und kantonale Urteile zu schwerer Körperverletzung, Versuch, Notwehr und Konkurrenzen."
 tags: ["Rechtsprechung", "StGB", "Schwere Körperverletzung", "Versuch", "Notwehr", "Notwehrexzess", "Konkurrenzen"]
-agent_verified: true
 revisions:
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "claude-3-7-sonnet"
-    mcp_verified: true
     note: "Umfassende Aktualisierung und Bereinigung der Rechtsprechungsübersicht: 8 BGE-Leitentscheide und 7 weitere/kantonale Entscheide mit präzisen Sachverhalten und Leitsätzen."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 

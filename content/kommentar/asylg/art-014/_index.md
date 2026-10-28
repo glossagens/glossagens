@@ -5,12 +5,10 @@ date: 2026-06-05
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 14 AsylG – Ausschliesslichkeit des Asylverfahrens und Härtefallregelung"
 tags: ["AsylG", "Ausschliesslichkeit", "Asylverfahren", "Härtefall", "Aufenthaltsbewilligung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.31 vom 2026-06-12 (data/wortlaut/asylg/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 32 AIG: Kurzaufenthaltsbewilligung (Ausweis L), Befristung bis zu einem Jahr, Zweckbindung und Nebenbestimmungen, Verlängerung bis zu zwei Jahren, Stellenwechsel nur aus wichtigen Gründen, Karenzfrist nach Unterbruch sowie die kantonale Kontingentierungspraxis."
 tags: ["AIG", "Kurzaufenthaltsbewilligung", "Ausweis L", "Stellenwechsel", "Aufenthaltszweck", "Bedingungen", "Karenzfrist", "FZA", "Kontingente"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als Praxiskommentar nach Skill praxisorientierter-kommentar. Gesetzeswortlaut verbatim aus Fedlex (SR 142.20, Stand 12. Juni 2026 via data/wortlaut/aig/art-032.json). Gesetzgeberische Teleologie aus Botschaft AuG (BBl 2002 3709) und Folgerevisionen (BBl 2016 3007, BBl 2023 2418). Sämtliche Entscheide (BGE 137 I 351, BGE 138 I 41, BGE 145 I 308, BGE 147 II 1, BGE 141 V 688, BGE 141 V 321, BGE 151 II 737, BGE 151 I 248, BGE 137 V 126, BVGE 2020 VII/7 sowie kantonale Entscheide BS und ZH) im Volltext über entscheidsuche.ch gesichtet und Zitate buchstabengetreu abgeglichen."
 ---
 

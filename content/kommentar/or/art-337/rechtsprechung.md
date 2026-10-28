@@ -5,7 +5,6 @@ date: 2026-05-23
 lastmod: 2026-10-16
 description: "Übersicht der Rechtsprechung zu Art. 337 OR — Leitentscheide des Bundesgerichts und kantonale Judikatur zur fristlosen Kündigung aus wichtigem Grund."
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "fristlose Kündigung", "wichtiger Grund"]
-agent_verified: true
 ---
 
 Die Rechtsprechung zu Art. 337 OR ist von einer äusserst reichhaltigen und kasuistischen Kasuistik geprägt. Während schwerwiegende Straftaten und fundamentale Treuebrüche die sofortige Beendigung auch ohne Vorwarnung rechtfertigen, verlangt das Bundesgericht bei weniger gravierenden Leistungs- oder Verhaltensmängeln zwingend eine vorgängige, unmissverständliche Verwarnung. Besondere Beachtung verdienen die vom Bundesgericht entwickelten strengen Schranken der Verdachtskündigung sowie das drakonische Unverzüglichkeitsgebot (Regelfrist 2–3 Arbeitstage).

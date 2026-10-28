@@ -5,22 +5,18 @@ date: 2026-08-17
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 42 IVG: Anspruch auf Hilflosenentschädigung der Invalidenversicherung, Hilflosigkeitsgrade, sechs alltägliche Lebensverrichtungen, lebenspraktische Begleitung, Wartejahr und Leistungsausschluss bei Eingliederungsinstitutionen."
 tags: ["IVG", "Invalidenversicherung", "Hilflosenentschädigung", "Hilflosigkeit", "Lebenspraktische Begleitung", "Wartejahr", "Eingliederungsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-042.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "BGer 8C_560/2025 vom 11.08.2026 (publ. 31.08.2026) integriert: Konkretisierung des Begleitbedarfs bei psychischen Störungen (Alltagsbewährung, Beistandschaft nach Art. 38 Abs. 3 IVV, Beweiswert Abklärungsbericht)."
   - date: 2026-08-17
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Audit & Neuerstellung: Vollständige dogmatische Aufbereitung der 6 Lebensverrichtungen, lebenspraktischen Begleitung, Wartezeit und Einarbeitung des neuen Leitentscheids BGer 8C_593/2025 zu Art. 42 Abs. 5 IVG; alle Quellen OCL-verifiziert."
 ---
 

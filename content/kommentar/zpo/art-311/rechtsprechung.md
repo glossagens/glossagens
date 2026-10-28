@@ -5,17 +5,14 @@ date: 2026-07-18
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 311 ZPO — Berufungsschrift, Begründungspflicht, Rügeprinzip, Bezifferungsgebot und Ausschluss von Nachfristen."
 tags: ["Rechtsprechung", "ZPO", "Berufungsschrift", "Berufungsbegründung", "Rügeprinzip", "Kasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und Kantonalentscheiden, detaillierten Sachverhalten zur Rügepflicht und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 13 %, Urteil C)"
 ---
 

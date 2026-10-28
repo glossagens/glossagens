@@ -5,22 +5,18 @@ date: 2026-05-24
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 14 BV — Gewährleistung des Rechts auf Ehe und Familie, Trägerschaft unabhängig von Nationalität und Aufenthaltsstatus, Ehevorbereitungsverfahren, Abgrenzung zu Art. 13 BV"
 tags: ["BV", "Grundrechte", "Ehe", "Familie", "Eheschliessungsfreiheit", "Ehevorbereitungsverfahren", "Ehe für alle"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 38 %, Urteil C): Höchste Fabrikationsquote der Kampagne — 14 von 25 Referenzen existierten nicht. Belegapparat neu aufgebaut. Zudem doktrinelle Korrektur: BGE 126 II 425 verneint das Familienleben gleichgeschlechtlicher Partnerschaften im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV, nicht von Art. 14 BV."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — Belegapparat beim Audit vom 2026-08-11 überwiegend verworfen"
 ---
 

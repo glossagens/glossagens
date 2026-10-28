@@ -5,17 +5,14 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Übersicht der Rechtsprechung zu Art. 397 OR — Weisungsbefugnis des Auftraggebers, Pflichten bei unzweckmässigen Weisungen, berechtigtes Abweichen und Nachteilsübernahme."
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Weisungen", "Nachteilsübernahme"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau der Rechtsprechungsübersicht mit 12 authentischen Entscheiden (5 Leitentscheide, 7 weitere Bundesgerichts- und kantonale Entscheide); falsche Zitate (BGE 95 I 583, BGE 109 II 462, BGE 127 III 328) ins Audit-Protokoll überführt; Links auf entscheidsuche.ch verifiziert; Sachverhalte und Kernaussagen gemäss Leitfaden ausformuliert."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neu erstellt; Entscheide via entscheidsuche verifiziert und verlinkt."
 ---
 

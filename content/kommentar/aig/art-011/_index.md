@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 11 AIG: Bewilligungspflicht bei Erwerbstätigkeit unabhängig von der Aufenthaltsdauer, Begriff der Erwerbstätigkeit (Abs. 2), Abgrenzung zum bewilligungsfreien Eignungstest und Schnuppern vs. Scheinpraktika, Entgeltlichkeit und Gefälligkeiten, Organstellung sowie Gesuchspflicht des Arbeitgebers (Abs. 3)."
 tags: ["AIG", "Erwerbstätigkeit", "Bewilligungspflicht", "Schwarzarbeit", "Arbeitsbewilligung", "Eignungstest", "Gefälligkeit", "Verdeckte Fahndung"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar gemäss Benchmark Art. 110 StPO / Art. 336 OR. Gesetzeswortlaut über scripts/wortlaut.py amtlich aus Fedlex bezogen (SR 142.20, Stand 2026-06-12). Judikatur wörtlich abgeglichen und mit entscheidsuche.ch verlinkt. Vollständige Grenzkasuistik, Prüfschema, Schwellenwert-Tabellen, kantonale Praxisfragen und Praxishinweise."
 ---
 

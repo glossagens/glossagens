@@ -5,27 +5,22 @@ date: 2026-07-27
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 20 UVG: Höhe der Invalidenrente, Komplementärrente, 90%-Plafond, Vorrang vor Art. 69 ATSG, Alterskürzung beim Referenzalter und Kasuistik."
 tags: ["UVG", "Invalidenrente", "Komplementärrente", "versicherter Verdienst", "Alterskürzung", "Überentschädigung", "Sozialversicherungsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-020.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikationslauf gegen entscheidsuche.ch. Inhaltlich keine Beanstandung: BGE 149 V 129, 147 V 213, 145 V 75, 146 V 364, 130 V 39, 115 V 416, 119 V 484, 122 V 338, 122 V 343, 123 V 133, 124 V 301 und 126 V 506 existieren und decken die ihnen zugeschriebenen Aussagen. KORRIGIERT: 15 von 22 Erwaegungsankern zeigten ins Leere — Buchstaben-Erwaegungen aelterer BGE (#consideration_4.b, 3.c) sind auf entscheidsuche nur unter der Hauptnummer verankert, Top-Level-Anker brauchen den Schlusspunkt (#consideration_5.), und BGer-Dokumente tragen ueberhaupt keine consideration-Anker; letztere wurden entfernt. Saemtliche verbleibenden Anker sind maschinell gegen das Zieldokument geprueft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erheblicher und praxisorientierter Ausbau: Detaillierte Kasuistik (konkrete Fälle und Gerichtsentscheidungen), kantonale Praxisfragen, Einarbeitung von BGE 149 V 129, BGE 145 V 75, BGE 147 V 213, BGE 130 V 39 u.a. mit entscheidsuche.ch-Verlinkungen."
   - date: 2026-07-27
     by: "Glossagens Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Erstkommentierung zu Art. 20 UVG"
 ---
 

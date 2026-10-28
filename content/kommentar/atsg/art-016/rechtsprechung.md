@@ -5,22 +5,18 @@ date: 2026-06-02
 lastmod: 2026-10-04
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 16 ATSG: Einkommensvergleich, LSE-Tabellenlöhne, Tabellenlohnabzug, Parallelisierung, Verhältnis zwischen IV und UVG, Invalideneinkommen bei stabiler Tätigkeit vs. Statistikwerte (BGer 8C_633/2025), Einarbeitungszuschlag als Soziallohn."
 tags: ["Rechtsprechung", "ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Invalidenversicherung", "Invalideneinkommen", "Soziallohn", "ESS"]
-agent_verified: true
 revisions:
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Aufnahme von BGer 8C_633/2025 vom 2. September 2026 (Invalideneinkommen bei stabiler Tätigkeit vs. Statistikwerte; Einarbeitungszuschlag als Soziallohn; Invaliditätsgrad von 19,07% auf 10% korrigiert). Korrektur des Links für BGer 8C_65/2026 von opencaselaw.ch auf entscheidsuche.ch. Links via entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "BGer 8C_65/2026 ergänzt: Relativierung des Einheitsprinzips und Ausschluss der Übertragung von IVV-Korrekturregeln in die Unfallversicherung."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

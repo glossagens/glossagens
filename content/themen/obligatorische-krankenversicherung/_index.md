@@ -16,17 +16,14 @@ normen:
   - { gesetz: kvg, art: art-064 }
   - { gesetz: kvg, art: art-065 }
 stichworte: ["Krankenversicherung", "Grundversicherung", "OKP", "Franchise", "Selbstbehalt", "Spitalbeitrag", "Kopfprämie", "Wahlfranchise", "Aufnahmezwang", "Freizügigkeit", "Tiers garant", "Tiers payant", "Hausarztmodell", "Telmed", "HMO", "Prämienverbilligung", "Kassenwechsel"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung um die mathematische Beweisführung zur Unrentabilität von Zwischenfranchisen (70%-Grenze gemäss Art. 95 KVV, tabellarischer Gesamtkostenvergleich und Wendepunkt-Analyse)."
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Umfassende Darstellung des OKP-Systems und laienverständliche Aufbereitung der Kernbegriffe (Franchise, Selbstbehalt, Spitalbeitrag, Kopfprämie, Tiers garant/payant, AVM). Normtexte Art. 117 BV, Art. 3 und 64 KVG per {{< wortlaut >}} (scripts/wortlaut.py). Volltexte der BGEs via entscheidsuche.ch geladen, Erwägungsnummern, Anker und wörtliche Zitate exakt abgeglichen."
 ---
 

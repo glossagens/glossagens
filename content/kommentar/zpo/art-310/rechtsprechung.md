@@ -5,17 +5,14 @@ date: 2026-07-19
 lastmod: 2026-10-01
 description: "Rechtsprechungssammlung zu Art. 310 ZPO — Berufungsgründe, Kognition des Berufungsgerichts, Rügeprinzip, Novenrecht, Beweiserhebung."
 tags: ["Rechtsprechung", "ZPO", "Berufung", "Kognition", "Noven", "Beweiswürdigung", "Rügeprinzip"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuaufbau: Audit-Protokoll entfernt, Links auf entscheidsuche.ch korrigiert, Kasuistik ausgebaut. Belege via OCL get_erwaegung geprueft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit"
 ---
 

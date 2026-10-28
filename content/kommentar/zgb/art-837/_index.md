@@ -5,22 +5,18 @@ date: 2026-09-01
 lastmod: 2026-10-17
 description: "Praxiskommentar zu Art. 837 ZGB: Gesetzliche Grundpfandrechte des Verkäufers, der Miterben und der Bauhandwerker (Bauhandwerkerpfandrecht, Mieterbauten, Vorausverzichtverbot)."
 tags: ["ZGB", "Sachenrecht", "Bauhandwerkerpfandrecht", "Grundpfandrecht", "Werkvertrag", "Mieterbauten"]
-agent_verified: true
 revisions:
   - date: 2026-10-17
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung BGer 5A_211/2026 (konkludente Zustimmung des Grundeigentümers durch Mitunterzeichnung der Baugesuchspläne, Substanziierungslast). Entscheid via OCL (cite, get_decision_structure, get_erwaegung E. 8.1/8.2/8.4) verifiziert; Kernaussagen gegen den wörtlichen Entscheidtext geprüft."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-837.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 837 ZGB mit BGE 126 III 462, BGE 136 III 285 sowie Einarbeitung von BGer 5A_101/2026 (Abgrenzung von Werkleistungen und unbestellten Zusatzarbeiten)."
 ---
 

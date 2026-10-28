@@ -5,12 +5,10 @@ date: "2026-09-21"
 lastmod: "2026-09-21"
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 74 ZPO: Leitentscheide des Bundesgerichts und kantonale Rechtsprechung zur Nebenintervention."
 tags: ["Rechtsprechung", "ZPO", "Nebenintervention", "Intervention", "Rechtliches Interesse", "Streitgenössische Nebenintervention"]
-agent_verified: false
 revisions:
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht zu Art. 74 ZPO mit 6 BGE-Leitentscheiden und 9 weiteren Bundesgerichts- und Kantonsgerichtsentscheiden."
 ---
 

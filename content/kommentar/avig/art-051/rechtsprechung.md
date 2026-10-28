@@ -5,17 +5,14 @@ date: 2026-07-17
 lastmod: "2026-09-12"
 description: "Übersicht der massgeblichen Entscheide zu Art. 51 AVIG (Anspruchsvoraussetzungen der Insolvenzentschädigung; Konkurs; offensichtliche Überschuldung; Pfändungsbegehren; Ausschlusstatbestände)"
 tags: ["Rechtsprechung", "AVIG", "Arbeitslosenversicherung", "Insolvenzentschädigung", "Konkurs", "Lohnforderung"]
-agent_verified: false
 revisions:
   - date: 2026-08-02
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Supplement KW31 — 8C_202/2026 (Insolvenzentschädigung pouvoir décisionnel) via OCL case-brief verifiziert."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Supplement 5er-BGer 8C_747/2025 (Vorleistungspflicht bei Neuanmeldung IV-Stelle) via OCL regeste+case-brief verifiziert."
 ---
 

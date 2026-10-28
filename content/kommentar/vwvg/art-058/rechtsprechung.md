@@ -5,7 +5,6 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Übersicht der Rechtsprechung zu Art. 58 VwVG: Vorinstanzliche Wiedererwägung pendente lite, Begünstigungsgebot, Fortsetzung des Beschwerdeverfahrens und Kostenfolgen."
 tags: ["Rechtsprechung", "VwVG", "Wiedererwägung", "Devolutiveffekt", "Gegenstandslosigkeit"]
-agent_verified: true
 ---
 
 ### I. Leitentscheide

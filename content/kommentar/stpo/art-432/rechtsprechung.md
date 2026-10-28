@@ -5,12 +5,10 @@ date: 2026-07-11
 lastmod: 2026-10-23
 description: "Übersicht der Entscheide zu Art. 432 StPO — Ansprüche der beschuldigten Person gegenüber der Privatklägerschaft und der antragstellenden Person"
 tags: ["Rechtsprechung", "StPO", "Kosten", "Entschädigung", "Privatklägerschaft"]
-agent_verified: false
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Neufassung: nur im Volltext (entscheidsuche.ch) verifizierte Entscheide mit sachgerechter Wiedergabe von Sachverhalt und Kernaussage; Links von opencaselaw auf entscheidsuche.ch umgestellt; nicht inhaltlich belegte Platzhaltereinträge (BGer 6B_1254/2020, 6B_601/2019, 6B_981/2017, 6B_406/2017, 6B_764/2015, 7B_269/2022, 6B_1032/2018, 6B_1125/2013, 6B_841/2013) und die Doppelung 6B_582/2020 (= BGE 147 IV 47) gestrichen; Aussage zur Mutwilligkeit berichtigt (nur antragstellende Person)."
 ---
 

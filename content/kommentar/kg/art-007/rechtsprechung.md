@@ -5,12 +5,10 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Wegweisende Entscheide des Bundesgerichts, des Bundesverwaltungsgerichts und kantonaler Zivil- und Handelsgerichte zu Art. 7 KG: Marktbeherrschung, relative Marktmacht, Margin Squeeze, Koppelung, Lieferverweigerung, sachliche Rechtfertigungsgründe und zivilprozessuale Durchsetzung."
 tags: ["Rechtsprechung", "KG", "Kartellrecht", "Marktbeherrschung", "Relative Marktmacht", "Missbrauch"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht zu Art. 7 KG nach dem Glossagens-Standard: 6 Leitentscheide des Bundesgerichts sowie 8 weitere bundesgerichtliche, verwaltungsgerichtliche und kantonale Zivil-/Handelsgerichtsentscheide mit Sachverhalt und Kernaussage, Verifikation sämtlicher Fundstellen via entscheidsuche.ch."
 ---
 

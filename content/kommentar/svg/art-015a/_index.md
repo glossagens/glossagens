@@ -5,17 +5,14 @@ date: 2026-08-31
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 15a SVG: Zweiphasenausbildung, Führerausweis auf Probe, Verlängerung der Probezeit, zwingender Verfall bei zweiter Widerhandlung (BGer 1C_246/2026, BGE 146 II 300), Sperrfrist und verkehrspsychologisches Gutachten."
 tags: ["SVG", "Führerausweis", "Probezeit", "Administrativmassnahmen", "Verfall", "Neulenker"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 741.01 vom 2026-07-01 (data/wortlaut/svg/art-015a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Kommentars zu Art. 15a SVG; Leitentscheide BGer 1C_246/2026 (zur Publikation vorgesehen), BGE 146 II 300, BGE 136 I 345 und BGE 143 IV 425 verarbeitet; kantonale Praxisfragen integriert"
 ---
 

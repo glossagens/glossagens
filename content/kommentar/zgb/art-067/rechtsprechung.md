@@ -5,12 +5,10 @@ date: "2026-08-18"
 lastmod: "2026-08-18"
 description: "Übersicht der Rechtsprechung zu Art. 67 ZGB — Grundsatz der Stimmrechtsgleichheit, Mehrheitserfordernis bei Vereinsbeschlüssen, Stimmenthaltungen und Traktandierungsgebot."
 tags: ["Rechtsprechung", "ZGB", "Vereinsrecht", "Stimmrecht", "Beschlussfassung", "Traktandierung", "Universalversammlung"]
-agent_verified: false
 revisions:
   - date: "2026-08-18"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit: Belege und Erwägungen gegen OpenCaseLaw-MCP verifiziert"
 ---
 

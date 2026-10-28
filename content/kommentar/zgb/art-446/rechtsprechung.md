@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-19
 description: "Übersicht der Entscheide zu Art. 446 ZGB — Untersuchungsgrundsatz, Freibeweis, Gutachten und Offizialmaxime im Erwachsenenschutz"
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Untersuchungsgrundsatz", "Gutachten", "Offizialmaxime"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Kompletter Overhaul: Alle Kernaussagen via check_claim_support und get_erwaegung validiert, kantonale Leitentscheide integriert."
   - date: 2026-05-24
     by: "Glossagens Agent"
     model: "Claude 3.5 Sonnet"
-    mcp_verified: false
     note: "Erstfassung"
 ---
 

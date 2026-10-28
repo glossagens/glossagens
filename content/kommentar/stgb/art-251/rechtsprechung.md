@@ -5,32 +5,26 @@ date: 2026-05-15
 lastmod: 2026-09-25
 description: "Übersicht der massgebenden Leitentscheide und weiteren Urteile zu Art. 251 StGB: Urkundenfälschung i.e.S., Geistigkeitstheorie, Falschbeurkundung, qualifizierte schriftliche Lüge, Buchführung, Covid-19-Kredite (BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Mietzinsformulare, Rechnungen und echte Konkurrenz zum Betrug."
 tags: ["Rechtsprechung", "StGB", "Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "Erhöhte Glaubwürdigkeit", "Covid-19-Kredit", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von Leitentscheid BGE 151 IV 201 (Umsatzdeklaration beim Covid-19-Kredit als Falschbeurkundung) und Urteil BGer 6B_148/2026 vom 02.09.2026 (Ausscheidung von Schutzbilanzen, MWST-Abgleich, Realkonkurrenz zu Art. 146, 163 und 305bis StGB)."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau der Rechtsprechungsübersicht gemäss Richtlinien: Aufteilung in 8 Leitentscheide und 10 weitere Entscheide (inkl. BGer 6B_963/2024 vom 21. Oktober 2025, 6B_95/2024 vom 6. Februar 2025, ZH OG UE240291 vom 25. Juni 2025 und LU KG 4M 16 56 vom 3. Mai 2017); detaillierte Sachverhalts- und Kernaussagendarstellung; alle Fundstellen und Links über entscheidsuche.ch im Volltext verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 9 verifizierte Entscheide via entscheidsuche.ch; alle Links durch entscheidsuche.ch ersetzt."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -20,12 +20,10 @@ normen:
   - { gesetz: emrk, art: art-006 }
   - { gesetz: emrk, art: art-008 }
 stichworte: ["Beweisverwertungsverbot", "Gültigkeitsvorschrift", "Ordnungsvorschrift", "verbotene Beweiserhebungsmethoden", "Fernwirkung", "fruit of the poisonous tree", "hypothetischer Ermittlungsverlauf", "fishing expedition", "Racial Profiling", "Teilnahmerecht", "Aktenentfernung", "Sachrichter", "Rückweisungsentscheid"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Beweisverwertungsverbote im Strafprozess (Typ grundlage). Normtexte Art. 140 und 141 StPO per {{< wortlaut >}} eingebunden. Alle Leitentscheide (BGE 138 IV 169, BGE 139 IV 128, BGE 141 IV 284, BGE 143 IV 387, BGE 143 IV 457, BGE 147 IV 9, BGE 148 IV 22, BGE 148 IV 205, BGE 151 IV 18) sowie aktuellen Urteile (BGer 6B_153/2026 [Fünferbesetzung], 6B_344/2025, 6B_677/2024, 7B_1240/2026 und TC NE ARMP.2026.87) als Volltexte über entscheidsuche.ch verifiziert; Erwägungsnummern, Anker und wörtliche Zitate mit pruefen.py und build-check.sh abgeglichen."
 ---
 

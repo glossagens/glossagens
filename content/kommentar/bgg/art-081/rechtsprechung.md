@@ -5,17 +5,14 @@ date: 2026-09-01
 lastmod: 2026-09-24
 description: "Umfassende Rechtsprechungsübersicht zu Art. 81 BGG: Leitentscheide des Bundesgerichts und kantonale Praxis zur Beschwerdelegitimation in Strafsachen, Haftbeschwerde der Staatsanwaltschaft, Zivilansprüchen der Privatklägerschaft und Star-Praxis."
 tags: ["Rechtsprechung", "BGG", "Legitimation", "Strafverfahren", "Privatklägerschaft", "Staatsanwaltschaft", "Star-Praxis", "Zivilansprüche", "Staatshaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau der Rechtsprechungsübersicht mit 16 verifizierten Leit- und Kantonalentscheiden zur Beschwerdelegitimation nach Art. 81 BGG: Einarbeitung von BGE 149 IV 135 (Haftausschluss der StA), BGE 151 IV 98 (keine StA-Legitimation bei Strafantragsgültigkeit), BGE 146 IV 76 (Staatshaftung und Zivilansprüche), BGE 148 IV 256 (nachrangige Erben), BGE 140 IV 57 (Ersatzforderungsbeschlagnahme), BGE 146 IV 211 (Geldwäscherei), BGE 145 IV 161 (Verbot der Rüge fremder Rechte), BGE 138 IV 258, BGE 138 IV 78 sowie BGer 7B_132/2025, BGer 7B_105/2026, BGer 7B_219/2026, BE OG BK.2020.10 und AG OG SST.2023.105."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 81 BGG mit BGE 149 IV 213, BGE 143 IV 434, BGE 137 IV 230, BGE 136 IV 29 sowie BGer 7B_105/2026 und BGer 7B_219/2026."
 ---
 

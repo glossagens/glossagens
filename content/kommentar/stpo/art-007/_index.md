@@ -5,22 +5,18 @@ date: "2026-05-09"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 7 StPO: Verfolgungszwang und Offizialmaxime, Anfangsverdacht und in dubio pro duriore, kantonale parlamentarische Immunität (Abs. 2 lit. a) sowie Ermächtigungsvorbehalt für Behördenmitglieder und Beamte (Abs. 2 lit. b) mit zweiseitiger Grenzkasuistik, Schwellenwerten und bundesgerichtlichem Rechtsmittelweg."
 tags: ["StPO", "Verfolgungszwang", "Offizialmaxime", "Ermächtigungsvorbehalt", "Beamte", "Immunität", "in dubio pro duriore", "Anfangsverdacht", "Amtsdelikte", "Nichtanhandnahme", "Einstellung", "Amtsmissbrauch"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Praxiskommentar gemäss Benchmark-Standard: Dogmatischer Merkmalskatalog als Prüfschema-Tabelle, narrative Lebenssachverhalte (Taser-Einsatz, Eisenstangen-Angriff, Pandemie-Rückkehrzentren, Landratsdebatte, Zellensuizid in Polizeigewahrsam, Mörgeli/Condrau), zweiseitige Grenzkasuistik (Erteilung vs. Verweigerung), prozessuale Besonderheiten (Heilung nach BGE 139 IV 161, Anfechtbarkeit nach Art. 82 ff./Art. 93 BGG), kantonale Praxisfragen und rollenbezogene Praxishinweise."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

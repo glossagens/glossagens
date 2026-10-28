@@ -25,12 +25,10 @@ normen:
   - { gesetz: zpo, art: art-283 }
   - { gesetz: zpo, art: art-296 }
 stichworte: ["Ehe", "Ehewirkungen", "Eheschutz", "Getrenntleben", "Scheidung", "Scheidungsklage", "nachehelicher Unterhalt", "Betreuungsunterhalt", "Barunterhalt", "zweistufige Methode", "Schulstufenmodell", "clean break", "Vorsorgeausgleich", "Errungenschaftsbeteiligung", "Familienwohnung", "elterliche Sorge", "alternierende Obhut", "Offizialmaxime", "Untersuchungsmaxime"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung Querschnittsthema Eherecht, Trennung und Scheidung nach Skill glossagens-themen (Typ grundlage). Normtexte ZGB und ZPO per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). 13 Leitentscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und Zitate maschinell abgeglichen (pruefen.py)."
 ---
 

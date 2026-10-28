@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Rechtsprechungsübersicht zu Art. 14 AVIG: Befreiung von der Beitragszeit, Ausschluss des Konkubinats (BGE 137 V 133, VD TC CASSO 854), Betreuung Pflegebedürftiger (BGE 131 V 279), Kumulationsverbot (BGE 141 V 674) und Kausalitätsmassstäbe."
 tags: ["Rechtsprechung", "AVIG", "Beitragszeitbefreiung", "Konkubinat", "Pflegebedürftige", "Scheidung", "Invalidenrente"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuaufnahme der Rechtsprechungsübersicht zu Art. 14 AVIG gemäss Praxiskommentar-Standard: Leitentscheide des Bundesgerichts (BGE 137 V 133, BGE 131 V 279, BGE 141 V 674, BGE 125 V 123, BGE 120 V 145, BGE 121 V 336, BGE 139 V 37) sowie aktuelle kantonale Urteile (u.a. VD TC CASSO 854 vom 30. September 2026 zum qualifizierten Konkubinat und zur Angehörigenpflege, ZH SVG AL.2025.00005, BL KG 715 20 203/60, BGer 8C_729/2011). Alle Fundstellen verbatim via entscheidsuche.ch verifiziert."
 ---
 

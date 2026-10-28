@@ -12,12 +12,10 @@ tags:
 - MWSTG
 - Mehrwertsteuer
 - Steuerrecht
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstanlage der Gesetzesseite im Rahmen der Neuerstellung von Art. 20 MWSTG."
 ---
 

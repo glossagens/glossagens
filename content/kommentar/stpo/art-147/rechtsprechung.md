@@ -5,27 +5,22 @@ date: "2026-05-24"
 lastmod: "2026-10-15"
 description: "Systematische Rechtsprechungsübersicht zu Art. 147 StPO (Teilnahmerechte, Konfrontationsanspruch, Verwertungsverbote, materieller Beschuldigtenstatus und Wiederholungsverlangen)."
 tags: ["Rechtsprechung", "StPO", "Teilnahmerecht", "Konfrontationsrecht", "Verwertungsverbot", "Parteiöffentlichkeit", "materieller Beschuldigtenstatus"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von CREP VD 736 vom 23. September 2026 (Causa Dittli): Vor der Eröffnung erstellter Administrativbericht unterliegt nicht Art. 147 StPO und keinem Verwertungsverbot nach Art. 141 StPO; Abgrenzung zu CREP VD 652."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von CREP VD 652 vom 3. September 2026 (Causa Dittli): Unzulässigkeit der Eröffnung «gegen unbekannt» zur Umgehung von Teilnahmerechten; Bestätigung der absoluten Unverwertbarkeit nach BGE 150 IV 345 und sofortige Aktenaussonderung."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_783/2024 vom 31. März 2026 (Aussageverweigerung an Hauptverhandlung, Solothurner Hanfanlage) und BGer 6B_801/2024 vom 8. Mai 2025 (Polizeiliches Ermittlungsverfahren vor Eröffnung, Aargau). Vollständige Harmonisierung mit dem Praxiskommentar."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Systematische Überarbeitung der Rechtsprechungsübersicht: Einarbeitung von BGE 150 IV 345, BGer 6B_920/2023, 6B_506/2024, 6B_1078/2020, 6B_14/2021, 6B_135/2018, 6B_475/2022 mit Sachverhalt und Kernaussagen sowie Verlinkung auf entscheidsuche.ch."
 ---
 

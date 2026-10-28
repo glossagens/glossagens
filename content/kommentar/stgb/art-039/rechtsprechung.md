@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 39 aStGB — Umwandlung gemeinnütziger Arbeit: Mahnungserfordernis, direkte Umwandlung in Freiheitsstrafe, Ersatzgeldstrafe, Nachverfahren und kantonale Vollzugspraxis."
 tags: ["Rechtsprechung", "StGB", "Gemeinnützige Arbeit", "Umwandlung", "Sanktionenvollzug", "Ersatzstrafe", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 4 verifizierte BGE-Leitentscheide und 4 weitere Entscheide via entscheidsuche.ch; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

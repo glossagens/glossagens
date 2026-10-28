@@ -5,7 +5,6 @@ date: 2026-08-03
 lastmod: 2026-09-11
 description: "Übersicht der Rechtsprechung zu Art. 122 StPO (Zivilklage im Adhäsionsverfahren, Ausschluss von Vertrags- und Staatshaftung, Rechtshängigkeit, Bestreitungslast und Vorrang des Schweigerechts)."
 tags: ["Rechtsprechung", "StPO", "Zivilklage", "Adhäsionsprozess", "Nemo tenetur"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

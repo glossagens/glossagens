@@ -5,33 +5,26 @@ date: 2026-05-17
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 66a StGB: Obligatorische Landesverweisung bei Katalogtaten (Abs. 1), Härtefallklausel und Interessenabwägung (Abs. 2), Kriterienkatalog, Bemessung der Dauer (5–15 Jahre) und EMRK-/FZA-Konformität."
 tags: ["StGB", "Landesverweisung", "Katalogtaten", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Strafzumessung", "Ausländerrecht", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
-agent_verified: true
-mcp_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-066a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Anreicherung der Härtefallprüfung (Abs. 2): Zweistufige Prüfungsmethodik, detaillierte Kriterienkataloge für und gegen einen Härtefall, EGMR-Leitkriterien (Boultif/Üner/Guissé), Kasuistiktabelle und 15+ neue präzise Urteilszitate mit Pinpoint-Erwägungen und OCL/Entscheidsuche-Links."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit & Verifikation: Sämtliche Urteilszitate im Haupttext, in der Deliktsübersichtstabelle und in der Rechtsprechungsübersicht mit präzisen Erwägungs-Pinpoints versehen; Gesetzeswortlaut buchstabengetreu mit Fedlex RS 311.0 abgeglichen."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Anpassung der Ziffernsyntax im Wortlaut; 10 verifizierte Bundesgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

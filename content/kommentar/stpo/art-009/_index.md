@@ -5,32 +5,26 @@ date: 2026-07-10
 lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 9 StPO (Anklagegrundsatz / Akkusationsprinzip): Umgrenzungs- und Informationsfunktion, Bestimmtheitsgebot bei Mittäterschaft und Dauerdelikten, Umschreibung des subjektiven Tatbestands, Bindung des Gerichts (Immutabilitätsprinzip), Unzulässigkeit von Sachverhaltserweiterungen im Berufungsverfahren, Strafbefehle und kantonale Praxisfragen."
 tags: ["StPO", "Anklagegrundsatz", "Akkusationsprinzip", "Bestimmtheitsgebot", "Umgrenzungsfunktion", "Informationsfunktion", "Immutabilitätsprinzip", "Mittäterschaft", "Strafbefehl", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Leitentscheids BGer 6B_962/2024 vom 14.09.2026: Abgrenzung von Tatsachenumschreibung und rechtlicher Subsumtion; Umschreibung von Barbezügen vom Firmenkonto genügt den Anforderungen von Art. 9 und Art. 325 StPO; Antastung des Reinvermögens/der gebundenen Reserven bei einer Einpersonen-AG (Art. 158 StGB) ist richterliche Subsumtionsaufgabe."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Ausbau nach den Standards von Art. 110 StPO und Art. 336 OR: Systematische Prüfschema-Tabelle vor Fliesstext, Zuordnung aller Kasuistiken zu den Tatbestandsmerkmalen, zweiseitige Grenzkasuistik (Angewandt vs. Verworfen), Kriterientabellen, wörtliche Erwägungen und Leitsätze je Merkmal. Echte Judikaturdivergenzen offengelegt (Bindung an Reinheitsgrad in 7B_760/2023 vs. Randtatsachen in 6B_760/2021; zwingender Freispruch in 6B_1055/2022 vs. Rückweisung in BGE 140 IV 188; Mittäterschaft in 6B_219/2025; Stalking in 6B_1073/2014; Geocaching-Dauerdelikt in 6B_1003/2020; Nachteilsabsicht in BGE 149 IV 128; Berufungsverfahren in BGE 147 IV 167). Kantonale Praxisfragen (SH OGE 60/2022/11 zur Baubusse im Verwaltungsstrafrecht; TG RBOG 2023 Nr. 40 zu alternativen Zeiträumen und Rechtfertigungsgründen). Rollenspezifische Praxishinweise am Schluss. Sämtliche Entscheide im Volltext über entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erweiterung der Kasuistik und kantonale Praxisfragen."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit."
 ---
 

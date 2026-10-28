@@ -5,22 +5,18 @@ date: 2026-07-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 6 UVG: die fünf Merkmale des Unfallbegriffs (Art. 4 ATSG) mit der Kasuistik zur Ungewöhnlichkeit — Auto-Scooter, Bandencheck, Bergwanderung, Nadelstich, Raubüberfall, ärztlicher Eingriff —, die Listenverletzung nach Abs. 2 mit dem Entlastungsbeweis der 50-Prozent-Schwelle, die Behandlungsschäden nach Abs. 3 sowie Kausalität, Status quo sine und Beweisrecht."
 tags: ["UVG", "Unfallversicherung", "Unfallbegriff", "ungewöhnlicher äusserer Faktor", "Listenverletzung", "unfallähnliche Körperschädigung", "Entlastungsbeweis", "Kausalzusammenhang", "Status quo sine", "Schreckereignis", "Behandlungsschaden", "Beweiswert", "Suva"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-006.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Nachtrag 04.09.2026: BGE 115 V 133 ist auf entscheidsuche.ch verfügbar und neu verlinkt. — Vollständiger Ausbau zum Praxiskommentar nach dem Muster von Art. 110 StPO und Art. 336 OR: Gliederung neu entlang der Tatbestandsmerkmale (fünf Unfallmerkmale, Listenverletzung, Entlastungsbeweis, Behandlungsschaden, Kausalität, Beweisrecht) mit vorangestellter Prüfschema-Tabelle. Abs. 2 und Abs. 3 waren bisher überhaupt nicht kommentiert und sind neu ausgeführt. Volltext ausgewertet und verlinkt: BGE 146 V 51, BGE 151 V 244, BGE 134 V 72, BGE 142 V 435, BGE 142 V 219, BGE 129 V 177, BGE 129 V 402, BGE 130 V 117, BGE 128 V 169, BGE 116 V 145, BGE 121 V 35, BGE 135 V 465 sowie BGer 8C_679/2022, 8C_571/2025, 8C_142/2026 und ZH SVG UV.2022.00027. Gesetzeswortlaut verbatim aus Fedlex (SR 832.20, Konsolidierung 1. Januar 2026). ENTFERNT, weil bei der Verifikation als unzutreffend erwiesen: «BGE 148 V 409» (existiert nicht); BGE 147 V 342 (betrifft AVIG, nicht Berufskrankheiten); BGE 142 V 325 (betrifft Off-Label-Use im KVG, nicht «post hoc ergo propter hoc» — richtig ist BGE 119 V 335 E. 2b/bb); die Zuschreibung von BGE 129 V 177 an Unfallbegriff und richtunggebende Verschlimmerung (der Entscheid betrifft die Adäquanz bei Schreckereignissen); die Leitsatz-Zuschreibungen von BGE 145 V 97 und BGE 144 V 361 (Leitentscheide sind BGE 135 V 465 bzw. BGE 125 V 351). Der Link auf bger-update.ch (Sekundärquelle) wurde ersetzt; BGer 8C_628/2025 wird von entscheidsuche nicht geführt und ist deshalb nicht mehr zitiert."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Nachtrag BGer 8C_628/2025 zur Abgrenzung zwischen vorübergehender Aktivierung und richtunggebender Verschlimmerung bei Vorzuständen (Omarthrose)."
 ---
 

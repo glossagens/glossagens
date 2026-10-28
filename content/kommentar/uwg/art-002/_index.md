@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 2 UWG (Generalklausel): Verhältnis zu den Spezialtatbeständen und zum Immaterialgüterrecht, Wettbewerbsrelevanz, Täuschung und Treuwidrigkeit mit den Fallgruppen Ausbeutung fremder Leistung, Rufausbeutung, Abwerbung, Behinderung und Rechtsbruch, subjektive Seite sowie Rechtsfolgen und fehlende Strafbarkeit — mit Sachverhalten aus der Praxis des Bundesgerichts."
 tags: ["UWG", "Lauterkeitsrecht", "unlauterer Wettbewerb", "Generalklausel", "Treu und Glauben", "Wettbewerbsrelevanz", "Ausbeutung fremder Leistung", "Rufausbeutung", "Rechtsbruch", "Boykott", "Art. 3 UWG"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstkommentar als Praxiskommentar. Gesetzeswortlaut per Shortcode aus Fedlex (SR 241, Stand 2025-01-01; data/wortlaut/uwg/art-002.json); Art. 9 und 23 UWG zusätzlich über die Fedlex-MCP gelesen. Sämtliche zitierten Entscheide über entscheidsuche.ch im Volltext gelesen und auf die Aussage geprüft, für die sie angeführt sind; Links aus den Feldern content_url der Treffer, Anker nur bei BGE mit vorhandener Erwägungsnummer. Kein Audit-Lauf (Judge-Ledger) und keine Prüfung der Literatur; daher mcp_verified: false."
 ---
 

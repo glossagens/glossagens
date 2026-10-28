@@ -5,17 +5,14 @@ date: 2026-07-04
 lastmod: 2026-09-24
 description: "Übersicht der Rechtsprechung zu Art. 236 StPO: Vorzeitiger Straf- und Massnahmenvollzug — Leitentscheide des Bundesgerichts und kantonale Gerichtsentscheide."
 tags: ["Rechtsprechung", "StPO", "vorzeitiger Strafvollzug", "Massnahmenvollzug", "Untersuchungshaft", "Sicherheitshaft", "Vollzugsregime", "Vollzugslockerungen", "Haftentlassung"]
-agent_verified: false
 revisions:
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger praxiskommentarischer Ausbau der Rechtsprechungsübersicht: 8 publizierte Leitentscheide (BGE 143 IV 160, 143 I 241, 139 IV 191, 146 IV 49, 145 IV 65, 142 IV 105, 137 IV 177, 136 IV 70), 8 neuere Bundesgerichtsentscheide (7B_1075/2024, 7B_588/2026, 7B_651/2026, 1B_641/2022, 1B_90/2012, 1B_483/2011, 1B_449/2015, 1B_122/2022) sowie kantonale Leiturteile aus Bern (BK 2025 57), Basel-Landschaft (470 15 122) und Graubünden (SK2 2022 53). Sämtliche Links auf Originalquellen via entscheidsuche.ch verifiziert."
   - date: 2026-07-04
     by: "Glossagens Agent"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht."
 ---
 

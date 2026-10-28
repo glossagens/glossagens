@@ -5,17 +5,14 @@ date: "2026-07-04"
 lastmod: "2026-09-05"
 description: "Kommentar zu Art. 45 StGB — Bewährung: Rechtsfolge erfolgreicher Probezeit bei bedingt aufgeschobener Strafe, Voraussetzungen, kraftgesetzlicher Eintritt, Widerrufsfrist, Verhältnis zu Art. 46 StGB."
 tags: ["StGB", "Bewährung", "bedingte Strafe", "Probezeit", "Strafvollzug", "Sanktionenrecht"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; BGE 134 IV 140, BGE 134 IV 82, BGE 121 IV 303, BGE 128 IV 241, BGer 6B_109/2007, BGer 6B_1137/2016, BGE 128 I 225 verifiziert; Sachverhalte angereichert; Gesetzeswortlaut via Fedlex verifiziert"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Art. 45: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 

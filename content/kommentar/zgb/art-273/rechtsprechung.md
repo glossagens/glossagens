@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-09-24
 description: "Umfassende Rechtsprechungsübersicht zum persönlichen Verkehr / Besuchsrecht nach Art. 273 ZGB"
 tags: ["ZGB", "Besuchsrecht", "persönlicher Verkehr", "Kindeswohl", "Rechtsprechung"]
-agent_verified: true
 revisions:
   - date: 2026-09-24
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Volltext-Verifikation aller Entscheide via opencaselaw (case-brief, get_erwaegung): BGE 131 III 209, BGE 130 III 585, BGE 122 III 404, BGE 120 II 229, BGE 119 II 201, BGer 5A_341/2008, BGer 5A_457/2009, BGer 5A_716/2010, BGer 5A_719/2013, BGer 5A_528/2015, BGer 5A_111/2019, BGer 5A_375/2023. Links auf opencaselaw als Rückfallebene (entscheidsuche-Tool nicht verfügbar). Sachverhalte und Erwägungen aus Case-Briefs ergänzt."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Wöchentliche Ergänzung KW31 — BGer 5A_293/2024 (Änderung des persönlichen Verkehrs; Willensbildung des urteilsfähigen Kindes) via OCL case-brief verifiziert und ergänzt."
 ---
 

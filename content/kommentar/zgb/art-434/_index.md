@@ -5,12 +5,10 @@ date: 2026-10-25
 lastmod: 2026-10-25
 description: "Praxiskommentar zu Art. 434 ZGB: medizinische Massnahmen bei psychischer Störung ohne Zustimmung der betroffenen Person. Die drei Tatbestandsmerkmale (ernsthafter gesundheitlicher Schaden oder Gefährdung Dritter; Urteilsunfähigkeit bezüglich Behandlungsbedürftigkeit; Subsidiarität) mit BGer-Rechtsprechung zur Formvorschrift, zum Begriff der Zwangsbehandlung, zur Abgrenzung Eigengefährdung vs. akute Lebensgefahr (Art. 435) und zur Verhältnismässigkeit der Zwangsernährung bei Anorexia nervosa."
 tags: ["Erwachsenenschutz", "fürsorgerische Unterbringung", "Zwangsmedikation", "Behandlung ohne Zustimmung", "psychische Störung", "Urteilsunfähigkeit", "Verhältnismässigkeit", "Subsidiarität", "Behandlungsplan"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstfassung (Praxiskommentar). Normtext Art. 434 ZGB per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). Gesetzgeberischer Zweck und Entstehungsgeschichte nach dem Begleitbericht 1998 zur Revision des Vormundschaftsrechts (Einführung der «psychischen Störung» anstelle «Geisteskrankheit») und der Botschaft BBl 2006 7001 (Erwachsenenschutzreform). BGer-Volltexte: BGE 143 III 337, BGer 5A_834/2017, BGer 5A_886/2022, BGer 5A_785/2019, BGer 5A_626/2020, BGer 5A_918/2017, BGer 5A_485/2013, BGer 5A_857/2024, BGer 1C_563/2021 über die opencaselaw-MCP; kantonale Volltexte (VWBES.2016.322 SO, PA160003 ZH u. a.) und EGMR W.A. v. Switzerland (38958/16) über Subagenten-Recherche. Jedes wörtliche Zitat gegen den Volltext abgeglichen."
 ---
 

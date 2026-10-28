@@ -5,17 +5,14 @@ date: 2026-05-24
 lastmod: "2026-08-12"
 description: "Übersicht der Entscheide zu Art. 14 BV — Trägerschaft des Rechts auf Ehe, Ehevorbereitungsverfahren, Haftbesuchsrecht, Abgrenzung zu Art. 13 BV"
 tags: ["Rechtsprechung", "BV", "Ehe", "Familie", "Ehevorbereitungsverfahren"]
-agent_verified: false
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: 14 von 25 Referenzen existierten nicht — höchste Fabrikationsquote der BV-Kampagne. Neu aufgebaut aus einzeln geprüften Entscheiden, darunter BGE 151 I 306 (2025) als aktuellste Zusammenfassung."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 

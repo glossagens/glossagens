@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-06-12
 description: "Leading Cases und systematische Rechtsprechung zu Art. 130 StPO (Notwendige Verteidigung)"
 tags: ["notwendige Verteidigung", "amtliche Verteidigung", "Offizialverteidiger", "Waffengleichheit", "effektive Verteidigung", "EMRK", "Quaranta", "Vorschlagsrecht"]
-agent_verified: true
 ---
 
 ## Grundprinzipien

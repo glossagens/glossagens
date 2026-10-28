@@ -5,12 +5,10 @@ date: 2026-09-18
 lastmod: 2026-09-18
 description: "Übersicht der Leitentscheide und Bundesgerichtsurteile zu Art. 112 BGG (Eröffnung der Entscheide, Mindestinhalt, Begründungspflicht und Streitwertangabe)."
 tags: ["Rechtsprechung", "BGG", "Eröffnung", "Begründungspflicht", "Dispositiv", "Streitwert"]
-agent_verified: false
 revisions:
   - date: 2026-09-18
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Systematische Aufbereitung der Rechtsprechung zu Art. 112 BGG mit 15 verifizierten Entscheiden (10 BGE-Leitentscheide, 5 BGer-Urteile). Sämtliche Kernaussagen und Pinpoints über swiss-caselaw MCP verifiziert."
 ---
 

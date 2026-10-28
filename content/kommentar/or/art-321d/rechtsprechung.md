@@ -5,17 +5,14 @@ date: 2026-09-03
 lastmod: 2026-09-04
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Gerichte zu Art. 321d OR — Weisungsrecht des Arbeitgebers, Schranken, Persönlichkeitsschutz, IT-Überwachung, Gesundheitsschutz und Weisungsverweigerung."
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Weisungsrecht", "Persönlichkeitsschutz", "Fürsorgepflicht", "Befolgungspflicht", "Weisungsverweigerung", "Überwachung", "Impfobligatorium", "Fristlose Kündigung"]
-agent_verified: true
 revisions:
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau der Rechtsprechungsübersicht auf 14 strukturierte und verifizierte Entscheide: 5 Leitentscheide des Bundesgerichts (BGE 132 III 115, BGE 130 II 425, BGE 127 III 153, BGE 142 III 579, BGer 4A_60/2026) und 9 weitere Urteile des Bundesgerichts sowie der Obergerichte ZH und AG mit ausformulierten Sachverhalten und Kernaussagen. Alle Links verbatim auf entscheidsuche.ch (bzw. opencaselaw-Fallback) verifiziert."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht mit 11 Leit- und Praxisentscheiden."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der massgeblichen Entscheide zu Art. 10 ELG (Anerkannte Ausgaben) — Heimdefinition, Mietzinsaufteilung, Bruttoertragsschranke, Vermögensbewertung, Hilflosenentschädigung und fiktiver Unterhaltsbeitrag."
 tags: ["Rechtsprechung", "ELG", "Anerkannte Ausgaben", "Heimdefinition", "Mietzins", "Bruttoertragsschranke", "Hilflosenentschädigung"]
-agent_verified: true
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 141 V 255, 142 V 299, 142 V 311, 147 V 441, 139 V 358, 138 V 17)."
 ---
 

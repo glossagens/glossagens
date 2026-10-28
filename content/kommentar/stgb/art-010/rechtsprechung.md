@@ -5,12 +5,10 @@ date: 2026-06-13
 lastmod: 2026-08-23
 description: "Übersicht der Rechtsprechung zu Art. 10 StGB — Verbrechen und Vergehen, Abgrenzungskriterien, Rechtsfolgen und kantonale Praxis."
 tags: ["Rechtsprechung", "StGB", "Verbrechen", "Vergehen", "Einteilung", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: Halluzinierte Entscheide entfernt; 10 verifizierte Bundesgerichts- und kantonale Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

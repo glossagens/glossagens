@@ -5,13 +5,11 @@ date: 2026-08-07
 lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 26 DSG (Einschränkungen des Auskunftsrechts, Begründungspflicht bei Verweigerung, Einschränkung oder Aufschub)"
 tags: ["Rechtsprechung", "DSG", "Auskunftsrecht", "Begründungspflicht", "Nachrichtendienst"]
-agent_verified: true
 revisions:
 
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"
 ---
 

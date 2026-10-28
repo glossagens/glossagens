@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: "2026-09-26"
 description: "Übersicht der Rechtsprechung zu Art. 398 StPO – Zulässigkeit der Berufung, umfassende Kognition, Berufungsgründe, Beschränkungen bei Übertretungen und Zivilpunkt."
 tags: ["Rechtsprechung", "StPO", "Berufung", "Kognition", "Berufungsgründe", "Sachverhaltsrüge", "Unangemessenheit", "Übertretungen", "Rechtsmittelverfahren"]
-agent_verified: true
 revisions:
   - date: "2026-09-26"
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_154/2026 (Berufungskognition bei Übertretungen: willkürliche Beiseitelegung von Tatsachenfeststellungen als rechtliche Qualifikation); Fundstelle via entscheidsuche verifiziert."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 398 StPO mit 20 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 286 SchKG: Schenkungsanfechtung (Schenkungspauliana), unentgeltliche Verfügungen, auffallendes Missverhältnis (gemischte Schenkung), Leibrenten/Wohnrechte und Beweislastumkehr bei nahestehenden Personen und im Konzern (Abs. 3)."
 tags: ["SchKG", "Schenkungsanfechtung", "gemischte Schenkung", "Missverhältnis", "Wohnrecht", "Beweislastumkehr", "nahestehende Personen", "Konzern"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der einjährigen Verdachtsperiode, BBl-Materialien (1991 III 1, 2010 6455), Abgrenzung von formeller und gemischter Schenkung, Schwellenwerte für das Missverhältnis von Leistung und Gegenleistung, Leibrenten- und Wohnrechtsverträge (BGE 130 III 235), Beweislastumkehr nach Abs. 3, Gegenüberstellung anfechtbarer und geschützter Geschäfte, kantonale Praxis zur Übertragung an Familienmitglieder und Praxishinweise."
 ---
 

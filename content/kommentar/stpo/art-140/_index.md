@@ -5,22 +5,18 @@ date: "2026-05-09"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 140 StPO – Verbotene Beweiserhebungsmethoden"
 tags: ["StPO", "Beweisverwertungsverbot", "verbotene Beweiserhebung", "nemo tenetur", "Folterverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-140.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 38 %). Unzulässiges Frontmatter-Feld mcp_verified auf oberster Ebene entfernt. Zwei Entscheide waren doppelt geführt: BGer 6B_210/2021 ist das Aktenzeichen von BGE 148 IV 205, BGer 6B_525/2024 jenes von BGE 151 IV 73. Drei Fehlzuschreibungen berichtigt: BGE 142 IV 207 nennt Art. 140 StPO nicht; BGE 151 IV 73 entscheidet die PIN-Code-Frage über Art. 158 StPO, nicht über Art. 140; BGE 143 IV 387 kennt die Figur des «verlängerten Arms» nicht. Fernwirkungs-Abschnitt neu gefasst — Art. 141 Abs. 4 StPO verlangt den Nachweis hypothetisch rechtmässiger Erlangung, und die Revision per 1.1.2024 bestand darin, dass die Norm nunmehr auch Abs. 1 erfasst (BGE 151 IV 73 E. 2.5.2). Falsche Normverweise berichtigt (Art. 2 Abs. 3 EMRK, Art. 249 Abs. 1 StPO). Der ganze Artikel war ohne einen einzigen Pinpoint; alle Erwägungsangaben ergänzt. Neu belegt: BGE 148 IV 205 E. 2.5.1 f., BGE 146 IV 226, BGE 146 I 11, BGer 6B_786/2015 E. 1.2."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 ---
 

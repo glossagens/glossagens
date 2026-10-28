@@ -5,22 +5,18 @@ date: "2026-05-16"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 244 StPO – Grundsatz der Durchsuchung (Einwilligung, Tatverdacht, Beweisausforschungsverbot)"
 tags: ["StPO", "Durchsuchung", "Hausdurchsuchung", "Beweisausforschungsverbot", "Zwangsmassnahme", "Tatverdacht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-244.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-22"
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 38 %). Erfundener Abschnitt «Durchsuchung bei Journalisten (Art. 245 StPO)» entfernt — Art. 245 StPO regelt die Durchführung (Vorweisen des Hausdurchsuchungsbefehls, Beiwohnungsrecht), nicht den Journalistenschutz. Falsche Systematikangabe zu Art. 245–249 StPO berichtigt. Zwei Pinpoints auf BGE 149 IV 369 E. 1.1 korrigiert — dort steht die Parteivorbringung, die Rechtssätze stehen in E. 1.3.1. Zufallsfund-Regel um die tragende Bedingung ergänzt (Verwendung nur, soweit die ursprüngliche Massnahme rechtmässig war; sonst Art. 141 Abs. 4 i.V.m. Abs. 2 StPO). Art. 241 StPO (Befehlserfordernis) neu aufgenommen — fehlte ganz. Neu belegt: BGer 6B_899/2017 E. 1.7.2 (allgemein zugängliche Räume), BGer 6B_1409/2019 E. 1.6.3 (Auslegung nach Art. 186 StGB), BGer 6B_860/2018 E. 2.4 (Übertretung genügt), BGer 6B_569/2018 E. 4.3."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 

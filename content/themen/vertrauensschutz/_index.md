@@ -17,12 +17,10 @@ normen:
   - { gesetz: zgb, art: art-933 }
   - { gesetz: zgb, art: art-973 }
 stichworte: ["Vertrauensschutz", "Treu und Glauben", "Guter Glaube", "Gutglaubensschutz", "Vertrauensgrundlage", "behördliche Auskunft", "Zusicherung", "Vertrauensdisposition", "Rechtsmittelbelehrung", "Praxisänderung", "Rückwirkungsverbot", "Rechtsmissbrauch", "Rechtsscheintheorie"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas. Fundierte systematische Aufbereitung des Vertrauensschutzes im öffentlichen Recht (Art. 9 und Art. 5 Abs. 3 BV) und dessen Entflechtung vom zivilrechtlichen Gutglaubens- und Vertrauensprinzip (Art. 2 und 3 ZGB). Normtexte Art. 9 und 5 BV, Art. 2, 3, 933, 973 ZGB, Art. 49 BGG und Art. 38 VwVG per {{< wortlaut >}} eingebunden. Alle 13 Leitentscheide als Volltext via entscheidsuche.ch geladen, Erwägungsnummern, Anker und wörtliche Zitate verifiziert."
 ---
 

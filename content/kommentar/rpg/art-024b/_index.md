@@ -5,12 +5,10 @@ date: 2026-06-20
 lastmod: "2026-08-29"
 description: "Kommentar zu Art. 24b RPG: Bewilligung betriebsnaher nichtlandwirtschaftlicher Nebenbetriebe in bestehenden Bauten ausserhalb der Bauzonen."
 tags: ["RPG", "Nebenbetrieb", "Landwirtschaftszone", "Zusatzeinkommen", "Bauen ausserhalb der Bauzonen", "betriebsnah"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, Revisions-Vermerk ergänzt"
 ---
 

@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 337 OR: Kriterien des wichtigen Grundes (Vertrauenszerstörung, objektive Unzumutbarkeit), Verwarnungserfordernis, strenge Unverzüglichkeitsfrist (2–3 Tage), Verdachtskündigung und Aufklärungspflichten nach BGer 4A_524/2025, Fallgruppen (Straftaten, Stempeluhrmanipulation, Geheimnisverrat, Gewalt, sexuelle Belästigung, Alkohol, Arbeitnehmerkündigung wegen Lohnrückstand), absolutes Kündigungsverbot bei unverschuldeter Verhinderung (Krankheit/Unfall) sowie Nachschieben von Kündigungsgründen."
 tags: ["OR", "Arbeitsrecht", "Arbeitsvertrag", "fristlose Kündigung", "wichtiger Grund", "Treu und Glauben", "Verdachtskündigung", "Abmahnung", "Unverzüglichkeit", "Aufklärungspflicht", "Zeiterfassung", "Persönlichkeitsverletzung", "Treuepflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark-Standard (Art. 110 StPO / Art. 336 OR): Ausarbeitung des vollständigen Prüfschemas (Abschnitte A bis I); systematische Kasuistik mit narrativen Sachverhalten; Auswertung von BGer 4A_524/2025 vom 11. Mai 2026 (Voraussetzungen der Verdachtskündigung, Pflicht zur Anhörung und vollständigen Beweisauswertung, Golddiebstahl-Fall); Integration von BGer 4A_72/2024, 4A_50/2023, 4A_56/2026, 4A_395/2015 sowie kantonaler Entscheide (ZH OG, ZG OG, AG OG, BL KG, AR KG); Korrektur fehlerhafter historischer BGE-Zitate; Praxishinweise nach Rollen gegliedert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-337.json), inkl. Fussnoten."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
 ---
 

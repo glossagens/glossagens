@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Kommentar zu Art. 25 OHG — Verwirkungsfristen für Entschädigung und Genugtuung, Jahresfrist nach adhäsionsweiser Geltendmachung"
 tags: ["OHG", "Opferhilfe", "Verwirkungsfrist", "Fristen", "Entschädigung", "Genugtuung", "Adhäsionsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitung: Frontmatter-Upgrade, Links zu entscheidsuche.ch migriert, Fedlex-Wortlaut geprüft, BGer 1C_146/2025 ergänzt"
 ---
 

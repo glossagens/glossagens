@@ -5,22 +5,18 @@ date: 2026-10-08
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 257d OR: Zahlungsrückstand des Mieters — Zahlungsfrist und Kündigungsandrohung, Kündigung, relative Empfangstheorie, Abwendungsgründe (Zahlung, Verrechnung, Hinterlegung), Grenzkasuistik und Ausweisung im Rechtsschutz in klaren Fällen (Art. 257 ZPO)."
 tags: ["OR", "Mietrecht", "Zahlungsrückstand", "Zahlungsfrist", "Kündigungsandrohung", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung", "Mietzinshinterlegung", "Familienwohnung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-257d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar: Merkmalsorientiertes Prüfschema (Abschnitte A–H), zweiseitige Grenzkasuistik mit realen Akten-Sachverhalten (BGE 140 III 591, 127 III 548, 125 III 120, 124 III 145, 137 III 123, 121 III 156, 119 II 147; BGer 4A_239/2025, 4A_585/2010, 4A_306/2015, 4A_421/2026; AR KG ARGVP 2021 Nr. 3820; AG OG AGVE 2003 Nr. 8; SG KG BE.2024.31-EZO3; LU OG 11 07 72; GR KG ZK2 2020 46), tabellarische Gegenüberstellungen ohne Code-Fences, Judikaturdivergenzen, 5 kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung von Art. 257d OR: Systematische Kommentierung der Zahlungsansetzung (Abs. 1) und ausserordentlichen Kündigung (Abs. 2), Fristenberechnung nach relativer Empfangstheorie, Verrechnung, Gutglaubensschutz bei Hinterlegung (BGE 125 III 120), Bagatellrückstände (BGE 140 III 591), Ausweisung nach Art. 257 ZPO inkl. jüngster Judikatur BGer 4A_421/2026 und BGer 4A_356/2026 sowie 10+ verifizierten Entscheiden."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-07-18
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 98 ZPO — Kostenvorschuss, richterliches Ermessen, Verhältnis zur Klagezustellung, unentgeltliche Rechtspflege."
 tags: ["Rechtsprechung", "ZPO", "Kostenvorschuss", "Gerichtskosten"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 19 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; Hinweis auf die Revision per 1.1.2025 ergänzt, weil die gesamte zitierte Rechtsprechung zur alten Fassung ergangen ist"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 2 von 26 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

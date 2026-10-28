@@ -5,12 +5,10 @@ date: 2026-06-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 38a GSchG — Revitalisierung von Gewässern: Pflicht zur ökologischen Aufwertung beeinträchtigter Fliessgewässer, strategische Planung und Umsetzung"
 tags: ["GSchG", "Gewässerschutz", "Revitalisierung", "Renaturierung", "Ökologischer Zustand", "Fliessgewässer"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 814.20 vom 2025-08-01 (data/wortlaut/gschg/art-038a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 81 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

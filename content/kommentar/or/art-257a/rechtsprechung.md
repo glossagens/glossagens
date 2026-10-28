@@ -5,7 +5,6 @@ date: 2026-10-06
 lastmod: 2026-10-06
 description: "Übersicht der Rechtsprechung zu Art. 257a OR: Zwingender Begriff der Nebenkosten, Bestimmtheitsgebot der besonderen Vereinbarung, AGB-Klauseln, Akontozahlungen und Rückforderung."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Nebenkosten", "Ausscheidungsgrundsatz"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

@@ -5,17 +5,14 @@ date: 2026-09-25
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 4 ATSG: Die fünf Begriffsmerkmale des Unfalls (Plötzlichkeit, Unabsichtlichkeit, äusserer Faktor, Ungewöhnlichkeit, Körperschaden), Kauschäden, Sportverletzungen, Programmwidrigkeit, Schreckereignisse, Kausalität, Abgrenzung zu Art. 6 Abs. 2 UVG sowie Beweismaximen."
 tags: ["ATSG", "Sozialversicherungsrecht", "Unfallbegriff", "Ungewöhnlicher äusserer Faktor", "Plötzlichkeit", "Kauschaden", "Programmwidrigkeit", "Schleudertrauma", "Adäquanz", "Aussagen der ersten Stunde", "UVG", "KVG"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-004.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme als umfassender Praxiskommentar nach dem Standard von Art. 110 StPO und Art. 336 OR: Vollständiges Prüfschema, ausführliche Sachverhaltsanalysen aus publizierten Volltexten (BGE 134 V 72, BGE 130 V 117, BGE 140 V 220, BGE 142 V 435, BGE 146 V 51 u.a.), Kasuistiktabellen ohne Code-Fences, zweiseitige Grenzkasuistik, kantonale Praxisfragen und rollenbezogene Praxishinweise."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-05-22
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 426 ZGB: Voraussetzungen der fürsorgerischen Unterbringung (psychische Störung, geistige Behinderung, schwere Verwahrlosung), Subsidiarität und Verhältnismässigkeit, freie Willensbildung bei freiwilligem Eintritt, Vorrang der Patientenautonomie, Berücksichtigung der Angehörigenbelastung, striktes Verbot reiner Fremdgefährdungsunterbringung, Entlassungsanspruch sowie verfahrensrechtliche Garantien mit umfassender Abgrenzungskasuistik."
 tags: ["ZGB", "Erwachsenenschutz", "Fürsorgerische Unterbringung", "FU", "Selbstgefährdung", "Fremdgefährdung", "Patientenautonomie", "Schwere Verwahrlosung", "Demenz", "Sucht", "Subsidiarität", "Gutachtenpflicht", "Verfahrensgarantien"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-426.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach den Benchmark-Standards von Art. 110 StPO und Art. 336 OR. Erstellung eines lückenlosen, mit den Abschnitten A bis L deckungsgleichen Prüfschemas (Abschnitt 3.1). Umfassende Einarbeitung der plastischen Lebenssachverhalte und Abgrenzungskasuistik (u.a. Notarzt-Disziplinarfall BGE 148 I 1, Haftentlassenen-Fremdgefährdung BGE 145 III 441, Bettenmangel-Beschwerde BGE 152 III 218, Demenz-Brandgefahren BGer 5A_467/2025, Suizidalität und Freiwilligkeitsgrenze BGer 5A_1127/2025, Entlassung wegen fehlender konkreter Lebensgefahr BGer 5A_189/2013, Korsakow-Alkoholismus BGer 5A_638/2013, schizoaffektive Anosognosie BGer 5A_215/2026 sowie Berner Obergericht KES 2017 20). Offenlegung von Judikaturbrüchen bzgl. Fremdgefährdung (EGMR T.B. gegen Schweiz) und Aufnahmezwang von Kliniken. Verlinkungen vollständig auf entscheidsuche.ch umgestellt."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Einarbeitung BGE 145 III 441, BGE 148 I 1, BGE 148 III 1, BGE 140 III 105, BGE 146 III 377, BGE 152 III 218 sowie kantonale Praxisfragen."
 ---
 

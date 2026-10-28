@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: "2026-10-04"
 description: "Übersicht der Rechtsprechung zu Art. 111 StGB — Vorsätzliche Tötung: Eventualvorsatz, Mordabgrenzung in dubio pro reo, Notwehrexzess, Totschlag, Versuch, Teilnahme und Strafzumessung, fehlendes Motiv schliesst Vorsatz nicht aus (BGer 6B_326/2026)."
 tags: ["Rechtsprechung", "StGB", "Vorsätzliche Tötung", "Eventualvorsatz", "Mordabgrenzung", "Notwehr", "Totschlag", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_326/2026 vom 27. August 2026 (5er-Kammer): Verurteilung nach Art. 111 StGB bestätigt; fehlendes Motiv schliesst Vorsatz nicht aus. Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 13 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 144 IV 345 (Mordabgrenzung in dubio pro reo), BGer 6B_636/2025 (Mord durch Rache), BGer 6B_591/2024 (Würgen der Untermieterin, Totschlag abgelehnt), BGE 130 IV 58 (Raserdelikt/Eventualvorsatz), BGE 133 IV 1 (berechtigtes Vertrauen), BGE 142 IV 14 (Notwehrexzess), BGE 125 IV 255 (HIV-Übertragung), BGE 103 IV 65 (Eventualvorsatz bei unerwünschtem Erfolg), BGE 121 IV 49 (Versuch/Strafmilderung), BGE 120 IV 265 (Gehilfenschaft), BGE 118 IV 227 (Raufhandel/Mittäterschaft), BGE 136 IV 49 (Notwehr mit Messer), BGer 6B_1059/2019 (dolus eventualis); alle Links auf entscheidsuche.ch geprüft"
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 10 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

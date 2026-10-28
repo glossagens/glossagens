@@ -5,7 +5,6 @@ date: 2026-05-15
 lastmod: 2026-05-15
 description: "Übersicht der wichtigen Entscheide zu Art. 2 ZGB: Treu und Glauben und Rechtsmissbrauch."
 tags: ["Rechtsprechung", "Treu und Glauben", "Rechtsmissbrauch", "ZGB"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 2 ZGB — Treu und Glauben; Rechtsmissbrauch](./)

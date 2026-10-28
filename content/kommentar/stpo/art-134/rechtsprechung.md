@@ -5,12 +5,10 @@ date: "2026-06-12"
 lastmod: "2026-08-01"
 description: "Übersicht der Entscheide zu Art. 134 StPO — Widerruf und Wechsel der amtlichen Verteidigung"
 tags: ["Rechtsprechung", "StPO", "Widerruf", "Wechsel", "Offizialverteidiger", "Vertrauensverhältnis", "Zerrüttung", "Opferschutz", "Beschleunigungsgebot"]
-agent_verified: false
 revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung KW31 — BGer 6B_95/2025 (Verteidigerwechsel Art. 134 Abs. 2 StPO vs. Opferschutz/Beschleunigungsgebot) via OCL decisions/citation_string_de verifiziert und angehängt."
 ---
 

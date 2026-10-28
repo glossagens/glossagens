@@ -5,7 +5,6 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und Urteile der kantonalen Gerichte und des Bundesverwaltungsgerichts zu Art. 44 BöB (Ausschluss vom Verfahren und Widerruf des Zuschlags)."
 tags: ["Rechtsprechung", "BöB", "Ausschluss", "Widerruf", "Formfehler", "Musskriterien", "Preisbildung", "Gleichbehandlung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide (Bundesgericht)

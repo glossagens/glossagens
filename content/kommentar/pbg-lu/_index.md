@@ -16,7 +16,6 @@ tags:
   - Raumplanung
   - Luzern
   - Kantonalrecht
-agent_verified: false
 ---
 
 Kommentar zum [Planungs- und Baugesetz des Kantons Luzern](https://srl.lu.ch/app/de/texts_of_law/735) (PBG, SRL 735, vom 7. März 1989, Stand 1. Januar 2025).

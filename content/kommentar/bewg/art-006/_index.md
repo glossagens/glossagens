@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Kommentar zu Art. 6 BewG — Vermutung und Feststellung der beherrschenden Stellung von Personen im Ausland (Lex Koller)"
 tags: ["BewG", "Lex Koller", "beherrschende Stellung", "Durchbrechung", "rechtliche Selbständigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstkommentar mit Rechtsprechung, Fedlex-Wortlaut geprüft, Entscheide via entscheidsuche.ch verknüpft"
 ---
 

@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 115 OR – Formloser Aufhebungsvertrag, Vergleichstest und Umgehungsverbot im Arbeitsrecht, Anfechtung, Abgrenzung zur Kündigung und Forderungsverzicht ausserhalb des Arbeitsrechts"
 tags: ["OR", "Aufhebungsvertrag", "Schuldrecht", "Vertragsrecht", "Arbeitsrecht", "Anfechtung", "Erlassvertrag", "Vergleich"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-115.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-18
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Umfassende Erweiterung. Alle sechs bestehenden BGE-Zitate gegen opencaselaw verifiziert (Wortlaut korrekt, keine Fabrikation trotz Antigravity-Provenienz der Vorrevision) und ein Regeste/Erwägungs-Mismatch bei BGE 115 V 437 durch Pinpoint auf E. 4b korrigiert. Neu integriert: BGE 118 II 58 (Ursprung des Vergleichstests), BGer 4A_57/2021 (heutige Leitentscheidformel), BGer 4C.230/2005, 4C.250/2001, 4C.363/2001, 8C_94/2020, 4A_283/2023, 4A_625/2025 (präzisiert), sowie kantonale Praxis (Kantonsgericht SG BO.2023.40-K3, Obergericht ZH RA260002 und NP210036, Arbeitsgericht ZH AH250108) inkl. Lehrekritik am Vergleichstest. Gesetzestext gegen Fedlex (Konsolidierung 2026-01-01) geprüft. entscheidsuche-MCP war in dieser Sitzung nicht erreichbar (CONNECT_TIMEOUT) — Entscheidlinks verweisen auf mcp.opencaselaw.ch als Rückfall."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 2 gestützt (+0 teilw.) von 2 beurteilten Paaren (2 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

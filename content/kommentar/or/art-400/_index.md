@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 400 OR — Rechenschaftsablegung, Herausgabepflicht für alle Vorteile aus der Geschäftsführung, Retrozessionen, strafrechtliche Relevanz der Nicht-Weitergabe (Art. 158 StGB), Verzinsungspflicht, Verzicht, vorsorgliche Beweisführung, Berufsgeheimnis"
 tags: ["OR", "Auftragsrecht", "Rechenschaft", "Herausgabe", "Retrozessionen", "Ungetreue Geschäftsbesorgung", "StGB 158", "Verzinsung", "Berufsgeheimnis", "Vorsorgliche Beweisführung", "Vermögensverwaltung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-400.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung der strafrechtlichen Relevanz der Nicht-Weitergabe von Retrozessionen: Ungetreue Geschäftsbesorgung nach Art. 158 Ziff. 1 StGB bei Verschweigen (BGE 144 IV 294, BGer 6B_431/2024); Rechenschaftspflicht als strafrechtliche Garantenpflicht; Schaden durch Nicht-Vermehrung der Aktiven; Ausschluss des Rechtsirrtums seit BGE 132 III 460; Bereicherungsabsicht und Geldwäscherei (BGer 6B_910/2019); Abgrenzung zu Art. 138 StGB (keine Veruntreuung), Art. 146 StGB (Betrug) und Execution-only."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt; BGE 132 III 460, BGE 138 III 137, 4A_404/2023, BGE 110 II 181"
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 50 % (Urteil B); 3 gestützt (+10 teilw.) von 16 beurteilten Paaren (16 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

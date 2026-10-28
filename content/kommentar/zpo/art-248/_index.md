@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 248 ZPO: Anwendungsbereich des summarischen Verfahrens — gesetzliche Zuweisungen, Rechtsschutz in klaren Fällen, gerichtliches Verbot und Verfügung, vorsorgliche Massnahmen, freiwillige Gerichtsbarkeit. Kasuistik zu Aktenschluss, Novenrecht, klarer Fall und derogatorischer Kraft des Bundesrechts."
 tags: ["ZPO", "Summarisches Verfahren", "klarer Fall", "vorsorgliche Massnahmen", "Aktenschluss", "Novenrecht", "Rechtsöffnung", "Mieterausweisung", "freiewillige Gerichtsbarkeit", "Besitzesschutz"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-248.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 77 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau: Prüfschema, Kasuistik zu allen lit. a–e, Aktenschluss/Novenrecht, klarer Fall, derogatorische Kraft; 12 verifizierte BGEs mit entscheidsuche-URLs; Praxishinweise"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 53 % → 85 %, Urteil A): Aussagen auf den Wortlaut der Entscheide zurückgenommen; Pinpoint für BGE 144 III 117 auf E. 2.2 gesetzt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 53 % (Urteil B); 5 von 18 Paaren gestützt; 4 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-07-19
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Ersterstellung"
 ---
 

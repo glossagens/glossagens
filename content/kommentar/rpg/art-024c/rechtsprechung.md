@@ -5,17 +5,14 @@ date: 2026-05-17
 lastmod: "2026-08-29"
 description: "Rechtsprechung zu Art. 24c RPG — Altrechtliche Bauten und Anlagen"
 tags: ["Rechtsprechung", "RPG", "Bestandsschutz", "massvolle Erweiterung", "Art. 24c"]
-agent_verified: true
 revisions:
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 1C_380/2025 vom 24. Juli 2026 (publiziert 02.09.2026): Beurteilungsmassstab für Aussenanlagen und Annexbauten nach Art. 24c Abs. 2 RPG i.V.m. Art. 42 RPV (Hundezwinger, Einfriedungen, Erfordernis des unmittelbaren Angrenzens)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, Fallbeispiele ergänzt, Revisions-Vermerk hinzugefügt"
 ---
 

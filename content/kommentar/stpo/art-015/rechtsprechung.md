@@ -5,17 +5,14 @@ date: 2026-07-11
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 15 StPO – Polizei: Abgrenzung strafprozessuale/sicherheitspolizeiliche Tätigkeit, Polizeirapport als Beweismittel, Drogenschnelltests, Verwertbarkeit polizeilicher Aufzeichnungen."
 tags: ["Rechtsprechung", "StPO", "Polizei", "Abgrenzung", "Beweisverwertbarkeit", "Verkehrspolizei", "Drogenschnelltest", "Polizeirapport"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 39 %). Sechs fehlende Erwägungsangaben ergänzt, zwei nicht existierende berichtigt (7B_258/2022 E. 4.3 → E. 2.1.1; 6B_1187/2020 E. 5.2 → E. 3.2). Malformiertes Aktenzeichen «BGer 6B 1143/2015» korrigiert und die dafür behauptete Aussage gestrichen — der Entscheid schützte die Massnahme. Sachfehler bei BGer 1C_39/2021 behoben (Art. 298b Abs. 1 statt Art. 198 Abs. 1 lit. c StPO). BGE 146 I 11 um E. 4.1–4.3 ergänzt, BGE 146 IV 88 um E. 1.6.2 f. Neu aufgenommen: BGE 143 IV 397 E. 3.3.1, BGer 6B_1070/2018 E. 1.4.1. Fehlender revisions-Block ergänzt."
   - date: 2026-07-11
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 25 KVG (SR 832.10): Allgemeine Leistungen der obligatorischen Krankenpflegeversicherung bei Krankheit — Leistungskatalog (Untersuchungen, Behandlungen, Arzneimittel, Rehabilitation, Spitalaufenthalt, Transport-/Rettungskosten), Abgrenzung zur Wirtschaftlichkeitsprüfung (Art. 32) und zur Spezialitätenliste. Leitentscheide BGE 128 V 159, BGE 142 V 26, BGE 129 V 32, BGE 124 V 185, BGE 126 V 323, BGE 139 V 375 und BGE 130 V 299."
 tags: ["KVG", "Krankenversicherung", "Leistungen", "Krankenpflegeversicherung", "Spezialitätenliste", "WZW", "Rehabilitation", "Arzneimittel"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-025.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 832.10 Art. 25), Leading Cases/Regesten (BGE 128 V 159, 142 V 26, 129 V 32, 124 V 185, 126 V 323, 139 V 375, 130 V 299, 145 V 289) via OCL verifiziert; Ergänzung KW31/2 — BGer 9C_438/2024 (Kryokonservierung bei Geschlechtsdysphorie)."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-07-11
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 435 StPO – Verjährung von Entschädigungs- und Genugtuungsforderungen: Leitentscheide zur 10-jährigen Verjährungsfrist, Amtsprüfung und nachträglicher Geltendmachung."
 tags: ["Rechtsprechung", "StPO", "Verjährung", "Entschädigung", "Genugtuung", "Rechtskraft"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 BGer-Entscheide); alle Nachweise via attest_response validiert."
 ---
 

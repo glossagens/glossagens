@@ -5,27 +5,22 @@ date: 2026-08-29
 lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 66d StGB — Aufschub des Vollzugs der Landesverweisung, materielle Rechtskraftsperre, Non-Refoulement, Ausschluss von Art. 8 EMRK, sexuelle Orientierung als Vollzugshindernis und medizinische Vollzugshindernisse."
 tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Non-Refoulement", "Vollzug", "EMRK", "Jus Cogens", "sexuelle Orientierung"]
-agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Aufnahme von BGer 6B_438/2024 (Erstanwendung des EGMR-Grundsatzes M.I. auf die strafrechtliche Landesverweisung; sexuelle Orientierung als Vollzugshindernis nach Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK). Verifiziert gegen den Volltext auf entscheidsuche.ch."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht auf 20 verifizierte Leit- und Kantonalentscheide: Aufnahme der Grundsatzurteile BGer 7B_303/2026 (5er-Besetzung, materielle Rechtskraftsperre bei Alttatsachen) und BGer 7B_1022/2024 (Aufschub bei paranoider Schizophrenie), Bestätigung des Ausschlusses von Art. 8 EMRK (BGer 7B_594/2024, BGer 7B_376/2025), Einarbeitung detaillierter kantonaler Kasuistik (ZH VG VB.2024.00429, VB.2026.00159, VB.2024.00625; VD TC PE.2025.0139, PE.2024.0050; SG VG B 2024/33). Sämtliche Links auf entscheidsuche.ch ausgerichtet."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Aufnahme von Leitentscheid BGer 7B_594/2024 (zur Publikation bestimmt) und BGer 7B_376/2025."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht mit 13 Entscheiden."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 67 AIG (Einreiseverbot): Systematik der Muss- und Kann-Tatbestände, SIS-Ausschreibung, fünfjährige Regelhöchstdauer und Ausnahmen bei schwerwiegender Gefahr, Befristungsgebot des SEM sowie Suspendierungs- und Aufhebungsverfahren."
 tags: ["AIG", "Ausländerrecht", "Einreiseverbot", "Schengen", "SIS", "Fernhaltemassnahme", "Staatssicherheit", "fedpol", "SEM", "Praxiskommentar"]
-agent_verified: true
 ---
 
 {{< wortlaut >}}

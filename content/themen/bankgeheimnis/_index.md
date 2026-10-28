@@ -17,12 +17,10 @@ normen:
   - { gesetz: or, art: art-398 }
   - { gesetz: stpo, art: art-248 }
 stichworte: ["Bankgeheimnis", "Bankkundengeheimnis", "Art. 47 BankG", "Automatischer Informationsaustausch", "AIA", "OECD-Musterabkommen", "Steueramtshilfe", "Steuerhinterziehung", "Steuerbetrug", "Siegelung", "UBS-Krise", "Falciani"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Bankgeheimnis. Normtexte Art. 47 BankG und Art. 13 BV per {{< wortlaut >}} über scripts/wortlaut.py. 14 Bundesgerichtsentscheide als Volltext von entscheidsuche.ch geladen und verifiziert (BGE 137 II 431, BGE 145 IV 114, BGE 151 IV 30, BGE 151 IV 175, BGE 133 III 664, BGE 95 I 439, BGE 121 IV 45, BGE 125 II 83, BGE 119 IV 175, BGE 86 III 114, BGE 112 III 6, BGE 139 II 404, BGE 143 II 136, BGE 143 II 224); Erwägungen, Anker und Zitate mit pruefen.py und build-check.sh geprüft."
 ---
 

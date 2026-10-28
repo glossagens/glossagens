@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Entscheide zu Art. 22 AVIG – Höhe des Taggeldes"
 tags: ["Rechtsprechung", "AVIG", "Taggeld", "versicherter Verdienst"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung; Belege via check_claim_support geprüft"
 ---
 

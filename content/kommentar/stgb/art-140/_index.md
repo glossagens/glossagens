@@ -5,27 +5,22 @@ date: 2026-07-04
 lastmod: "2026-10-20"
 description: "Praxiskommentar zu Art. 140 StGB (Raub): Nötigungsmittel, Handtaschenraub vs. Entreissdiebstahl, Zeitfenster des räuberischen Diebstahls, Mitführen und Einsatz von Schusswaffen und Messern, Zweierbande und besondere Gefährlichkeit sowie Lebensgefahr und Grausamkeit — mit umfassender Kasuistik und taktischen Hinweisen."
 tags: ["StGB", "Raub", "Diebstahl", "Gewaltdelikt", "Nötigung", "Bande", "Schusswaffe", "Lebensgefahr", "Besonderer Teil", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR: Dogmatisches Tatbestandsraster mit 8 Hauptabschnitten; Merkmalskatalog- und Prüfschematabelle; zweiseitige Grenzkasuistik (u.a. BGer 6B_409/2021 zu Beendigungszeitpunkt beim räuberischen Diebstahl, BGer 6B_776/2016 zu Trophäenraub und Bereicherungsabsicht, BGE 124 IV 102 zum Ausschluss bei Betäubungsmitteln); Richtigstellung des Bandenbegriffs (Zweierbande genügt nach BGE 135 IV 158); tabellarische Gegenüberstellung von Schusswaffen- und Messereinsatz über alle Qualifikationsstufen; kantonale Praxisfragen (LU, SG, AR, ZH); Schlussabschnitt Praxishinweise gegliedert nach Verteidigung, Staatsanwaltschaft und Gericht; Gesetzeswortlaut via Shortcode {{< wortlaut >}} mit data/wortlaut/stgb/art-140.json verknüpft."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 9 verifizierte Entscheide via entscheidsuche.ch; BGE 133 IV 207 (Leitentscheid: Handtaschenraub = Raub, nicht Entreissdiebstahl), BGE 124 IV 97 (untauglicher Versuch, Waffenmitführung), BGE 117 IV 135 (besondere Gefährlichkeit: restriktiv, Taschenmesser keine gefährliche Waffe), BGE 120 IV 317 (Waffe auf Kopfhöhe = besondere Gefährlichkeit), BGE 117 IV 427 (Lebensgefahr: Messer an Kehle + kaum Luft), BGE 121 IV 67 (Waffe mit Widerstand 5,5 kg), BGer 6B_737/2009 (Waffenmitführung zu Raubzwecken), BGer 6B_988/2013 (Gesamtwürdigung Gefährlichkeit), BGer 6B_776/2016 (Bereicherungsabsicht); Fehlzitat BGE 135 IV 12 entfernt (Urkundenfälschung, nicht Raub); Gesetzeswortlaut → Wortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

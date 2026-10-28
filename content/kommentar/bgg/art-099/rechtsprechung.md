@@ -5,12 +5,10 @@ date: 2026-06-13
 lastmod: 2026-10-26
 description: "Übersicht der Entscheide zu Art. 99 BGG – Novenrecht vor Bundesgericht"
 tags: ["Rechtsprechung", "BGG", "Noven", "Beweismittel", "Kognition"]
-agent_verified: false
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 6B_403/2025 vom 16.09.2026 zu echten Noven im Strafrecht und bei Landesverweisungen (Art. 66a StGB)."
 ---
 

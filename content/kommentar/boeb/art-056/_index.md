@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 56 BöB (Beschwerdefrist, Beschwerdegründe und Legitimation): 20-tägige Frist, Ausschluss des Fristenstillstands, Erfordernis der reellen Chance und doppeltes Rügeerfordernis bei Drittrangierten (BGE 141 II 14), Kognitionsschranke bei Notenbewertungen (Abs. 3) sowie Freihandlegitimation nach BGE 150 II 105."
 tags: ["BöB", "Rechtsschutz", "Beschwerdefrist", "Beschwerdelegitimation", "reelle Chance", "doppeltes Rügeerfordernis", "Angemessenheitsprüfung", "Ermessensspielraum", "Freihändiges Verfahren", "Fristenstillstand"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Kommentar zu Art. 56 BöB mit systematischer Einordnung, Materialienanalyse (BBl 2017 1851), Prüfschema, Grenzkasuistik (BGE 141 II 14, BGE 150 II 105, BGE 150 II 123, BVGer B-8161/2024, B-4702/2026, B-3240/2026, ZH VG VB.2025.00181), kantonalen Praxisfragen und Praxishinweisen."
 ---
 

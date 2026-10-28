@@ -5,22 +5,18 @@ date: 2026-06-13
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 328 OR: Fürsorgepflicht des Arbeitgebers, Schutz der psychischen Integrität (Mobbing, Bossing, Schikane), sexuelle Belästigung und Retorsionsverbot, Konfliktdeeskalationspflicht, physischer und psychischer Gesundheitsschutz (Burnout, Passivrauchen, Arbeitsplatzanpassung), Überwachung am Arbeitsplatz, Beschäftigungsanspruch und schonende Freistellung sowie Genugtuung und Beweislast — mit der Kasuistik der Gerichte zu jeder Fallgruppe."
 tags: ["OR", "Arbeitsvertrag", "Fürsorgepflicht", "Persönlichkeitsschutz", "Gesundheitsschutz", "Mobbing", "Bossing", "sexuelle Belästigung", "Burnout", "Überwachung", "Freistellung", "Genugtuung", "Konfliktdeeskalation"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-328.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO und Art. 336 OR. Norm in ihre abstrakten Tatbestandsmerkmale zerlegt und entlang des Prüfschemas gegliedert. Kasuistik durchgehend auf narrative Sachverhalte mit zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kriterientabellen und taktische Merksätze umgestellt. Ausgewertet und im Volltext über entscheidsuche.ch verifiziert: BGE 132 III 257, BGE 125 III 70, BGE 126 III 395, BGE 137 III 303, BGE 110 II 163, BGE 135 III 405, BGE 127 III 351, BGer 4A_441/2024, BGer 6B_536/2009 sowie die kantonalen Leitentscheide SG KG BZ.2007.67, SG KG BZ.2008.13, TG OG RBOG 2004 Nr. 12, ZH VG VB.2025.00009 und SO VG VWBES.2021.164. Gesetzeswortlaut verbatim gegen Fedlex (SR 220, Stand 1. Januar 2026) geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
 ---
 

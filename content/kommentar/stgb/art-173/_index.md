@@ -5,32 +5,26 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 173 StGB: Schutz der sittlichen Ehre, Tatsachenbehauptung und gemischtes Werturteil, Weiterverbreitung in sozialen Netzwerken (Facebook-Likes), Begriff des Dritten und prozessuale Zurückhaltung bei Anwalt-Mandant-Kommunikation (BGE 148 IV 409), Grenzen der Privilegierung für unbeteiligte Dritte, vorrangige Rechtfertigungsgründe, Wahrheits- und Gutglaubensbeweis sowie die gerichtliche Ehrenerklärung — mit systematischer Kasuistik zu jedem Tatbestandsmerkmal, einschliesslich kantonaler Rechtsprechung zur Abgrenzung von Berufskritik und Ehrverletzung im Spitalkontext (Cour de justice GE, ACPR/790/2026)."
 tags: ["StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Antragsdelikt", "Facebook-Like", "Ehre", "prozessuale Privilegierung", "Berufskritik", "Whistleblowing"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-173.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Kantonaler Entscheid Cour de justice GE, ACPR/790/2026 vom 14.08.2026 (Whistleblowing-Bericht eines Kardiologen — Berufskritik vs. Ehrverletzung) in Abschnitt B.3 (Verworfene Fälle — blosse Rollen-/Sachkritik) und Kriterientabelle B.4 eingearbeitet; via mcp__entscheidsuche__search_by_case_number und fetch_document verifiziert (Volltext); rechtsprechung.md ergänzt."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar: Prüfschema-Tabelle (Merkmalskatalog vor der ersten Zeile Fliesstext); Kasuistik zu allen Tatbestandsmerkmalen mit narrativen Lebenssachverhalten und zweiseitiger Grenzkasuistik (u.a. Facebook-Likes/Shares BGE 146 IV 23, Anwalt als Dritter BGE 145 IV 462, vertrauliche Anwaltskommunikation BGE 148 IV 409, Schranken für unbeteiligte Dritte VD TC CREP 692/2026, Internet-Zustandsdelikt BGE 142 IV 18, Nazi-Vorwurf BGE 137 IV 313, Strafanzeige BGE 116 IV 205, TV-Sendung BGE 124 IV 149, Stockwerkeigentümer-Mail ZH OG SB220264, Psychopath/Querulant-Vorwurf LU OG 21 10 58); drei kantonale Praxisfragen (Ehrenerklärung ins Urteilsdispositiv nach Art. 173 Ziff. 5 StGB gemäss SO OG STBER.2021.113 vs. BGE 80 IV 251; psychiatrische Fachausdrücke; Dritte ohne Parteistellung); tabellarische Vergleiche und Praxishinweise nach Rollen."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BGE 148 IV 409 (prozessuale Zurückhaltung bei Anwalt-Mandant-Kommunikation) eingearbeitet mit Blockzitat; kantonaler Entscheid VD Tribunal cantonal CREP, 14.09.2026, G-Nr. 692 (Art. 52 StGB bei Ehrverletzung durch Dritte unanwendbar) in Rz. 5 eingearbeitet; beide via OCL/entscheidsuche verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; Sachverhalte aus BGE 131 IV 154, BGE 137 IV 313, BGE 124 IV 149, BGE 116 IV 205 angereichert; BGer 6B_880/2025 verifiziert; Gesetzeswortlaut via Fedlex verifiziert"
   - date: 2026-08-13
     by: "Hermes Agent"
@@ -39,7 +33,6 @@ revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 311.0 Art. 173), Leitentscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

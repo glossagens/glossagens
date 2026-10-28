@@ -5,17 +5,14 @@ date: '2026-09-20'
 lastmod: '2026-10-01'
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 190 IPRG (Anfechtung des Schiedsentscheids)."
 tags: ["Rechtsprechung", "IPRG", "Schiedsgerichtsbarkeit", "Ordre public", "Rechtliches Gehör", "Forclusion"]
-agent_verified: false
 revisions:
   - date: '2026-10-01'
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergaenzung BGer 4A_19/2026 (TAS/Doping: Forclusion nach Art. 182 Abs. 4 IPRG bei verspaeteter Gehoersruege; als Gehoersruege verkleidete Sachruege unzulaessig). Belege via OCL get_erwaegung geprueft."
   - date: '2026-09-20'
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage Rechtsprechungsübersicht Art. 190 IPRG; alle Entscheide via OpenCaseLaw/Fedlex verifiziert"
 ---
 

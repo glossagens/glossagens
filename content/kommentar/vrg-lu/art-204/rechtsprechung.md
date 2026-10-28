@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-05-24
 description: "Übersicht der Entscheide zu § 204 VRG LU – Unentgeltliche Rechtspflege"
 tags: ["Rechtsprechung", "VRG", "Unentgeltliche Rechtspflege", "Luzern"]
-agent_verified: false
 ---
 
 ## Leitentscheide

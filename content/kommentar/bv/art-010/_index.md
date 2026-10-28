@@ -5,27 +5,22 @@ date: 2026-05-24
 lastmod: 2026-10-26
 description: "Praxiskommentar zu Art. 10 BV: Recht auf Leben, Verbot der Todesstrafe, persönliche Freiheit (körperliche/geistige Integrität, Bewegungsfreiheit) sowie Folterverbot. Mit Schwellenwerten, Grenzkasuistik (DNA-Profilierung, Schusswaffengebrauch, Taser, Zwangsmedikation, Haftbedingungen) und Praxishinweisen."
 tags: ["BV", "Grundrechte", "Recht auf Leben", "Persönliche Freiheit", "Körperliche Unversehrtheit", "Bewegungsfreiheit", "Folterverbot", "Zwangsbehandlung", "Haftbedingungen", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach dem Standard Art. 110 StPO / Art. 336 OR: Prüfschema, zweiseitige Grenzkasuistik (Nacktwandern, polizeilicher Schusswaffengebrauch, Taser-Einsatz, DNA-Profilierung bei Demonstrationen, medikamentöse Zwangsbehandlung bei FU, Überbelegung in Haftanstalten), Gegenüberstellungstabellen, kantonale Praxisfragen und adressatenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch im Volltext verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 30 %, Urteil C): Belegapparat neu aufgebaut. Vier Referenzen existierten nicht (BGE 131 I 140, 143 I 169, 143 I 305, 145 IV 79); BGE 135 I 143 betrifft eine ausländerrechtliche Aufenthaltsbewilligung und trug keine der ihm zugeschriebenen Aussagen."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — Belegapparat beim Audit vom 2026-08-11 überwiegend verworfen"
 ---
 

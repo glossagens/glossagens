@@ -5,17 +5,14 @@ date: "2026-08-18"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 60 ZGB — Entstehung der juristischen Persönlichkeit des Vereins ohne Registerzwang, nicht-wirtschaftlicher Zweck, Nebenzweckprivileg und gesetzlicher Mindestinhalt der schriftlichen Statuten."
 tags: ["ZGB", "Vereinsrecht", "Juristische Personen", "Statuten", "Persönlichkeitserwerb", "Nicht-wirtschaftlicher Zweck"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-060.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-18"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit (Korrektur des Gesetzeswortlauts, fundierte Dogmatik zur ipso-iure-Entstehung und verifizierte OCL-Rechtsprechung)"
 ---
 

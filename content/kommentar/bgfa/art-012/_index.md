@@ -5,22 +5,18 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 12 BGFA — Berufsregeln für Anwältinnen und Anwälte mit Praxisfällen"
 tags: ["BGFA", "Berufsregeln", "Anwaltsrecht", "Honorar", "Informationspflicht", "Interessenkonflikt", "Verschwiegenheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 935.61 vom 2025-07-01 (data/wortlaut/bgfa/art-012.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: Claude Code
     model: claude-sonnet-5-20250514
-    mcp_verified: true
     note: "Erhebliche Ausbauführung: Praxisfälle zu allen lit., neue kantonalentscheide, Entscheide-Links auf entscheidsuche.ch, BGer 2C_520/2025 als Präzisierungsentscheid"
   - date: 2026-05-30
     by: Claude Code
     model: minimax-m3
-    mcp_verified: false
     note: Erstkommentar
 ---
 

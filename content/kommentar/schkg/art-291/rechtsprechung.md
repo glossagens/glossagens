@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 291 SchKG: Rückerstattungspflicht, Wertersatz, Früchte und Erträgnisse sowie Wiederaufleben von Forderungen."
 tags: ["Rechtsprechung", "SchKG", "Rückgabepflicht", "Wertersatz", "Erträgnisse", "Wiederaufleben", "Bereicherung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

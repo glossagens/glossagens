@@ -5,22 +5,18 @@ date: 2026-07-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 143 StPO – Durchführung der Einvernahme: Eingangsformalitäten, Tatvorhalt, Belehrungspflichten, Befragungstechnik und Beweisverwertung."
 tags: ["StPO", "Einvernahme", "Belehrung", "Tatvorhalt", "Beweisverwertung", "Ordnungsvorschrift"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-143.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote): BGE 141 IV 20 E. 1.3.3 / E. 3.3, BGE 144 IV 28 E. 1.3, BGer 6B_518/2014 E. 1.5 und BGer 6B_926/2023 E. 2.1 integriert; Verifikation via attest_response ok."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

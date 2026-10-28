@@ -5,7 +5,6 @@ date: 2026-09-11
 lastmod: 2026-10-14
 description: "Empirische Auswertung der publizierten kantonalen und eidgenössischen Rechtsprechung zur Strafzumessung nach Art. 158 StGB — 47 im Volltext analysierte Leit- und Berufungsentscheide mit 43 belegten Einsatzstrafen und 15 bezifferten Asperationszuschlägen, gespiegelt am Dispositiv."
 tags: ["Strafzumessung", "StGB", "Wirtschaftsstrafrecht", "Ungetreue Geschäftsbesorgung", "Treuebruch", "Vertretungsmacht", "Einsatzstrafe", "Praxisauswertung"]
-agent_verified: true
 auswertungsstand: 2026-10-14
 entscheide_ausgewertet: 47
 strafwerte_belegt: 43
@@ -13,12 +12,10 @@ revisions:
   - date: 2026-10-14
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung um 26 strukturierte Entscheide aus der systematisierten Datenbank von strafzumessung.ch: Neu 47 im Volltext ausgewertete Entscheide (Kantone ZH, BE, AG, BS, BL, VD, GE, TI, SZ, GR), 43 belegte Einsatzstrafen (Spitzenwert 54 Monate FS) und 15 Asperationszuschläge. Umfassende Neustrukturierung gemäss angepasstem Skill (Strafzumessungserhebliche Tatsachen, Was in der Praxis nicht strafzumessungserheblich ist, Täterkomponenten, Streubreite der Deliktssumme von CHF 2'674 bis USD 35.8 Mio.)."
   - date: 2026-09-11
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstauswertung: 21 publizierte kantonale Berufungs- und Leitentscheide zur Strafzumessung bei Art. 158 StGB aus den Kantonen ZH, BE, AG, BS, BL, SZ und GR über entscheidsuche.ch."
 ---
 

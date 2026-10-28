@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 340 OR: Formelle und materielle Gültigkeit des nachvertraglichen Konkurrenzverbots, Einblick in Kundenkreis und Geschäftsgeheimnisse, Kausalitätsbruch bei persönlichen Fähigkeiten, Schadensthematik und Substanziierung bei Treuhändern nach GE ACJC/1664/2026, Karenzentschädigung sowie Beweislast und Durchsetzung."
 tags: ["OR", "Konkurrenzverbot", "Arbeitsrecht", "Karenzentschädigung", "Kundenkreis", "Schaden", "Treuhänder", "Buchhalter", "persönliche Fähigkeiten", "Konventionalstrafe", "Schriftform"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Praxiskommentar-Ausbau gemäss Skill praxisorientierter-kommentar: Merkmalskatalog und Prüfschema, narrative Kasuistik (u.a. GE ACJC/1664/2026 zur Treuhänder- und Schadensthematik, BGE 138 III 67 zu persönlichen Fähigkeiten, BGE 145 III 365 zur Schriftform, BGE 151 III 544 zur Karenzentschädigung, BGer 4A_340/2011, BGer 4A_116/2018), Grenzkasuistiktabellen, zwei kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-340.json), inkl. Fussnoten."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Sämtliche Zitate und Kernaussagen über OpenCaseLaw verifiziert (Belegquote ≥ 80 %, Urteil A)."
 ---
 

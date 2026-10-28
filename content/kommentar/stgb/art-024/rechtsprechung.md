@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der Entscheide zu Art. 24 StGB — Anstiftung, Mittäterschaft bei Verkehrsdelikten, Anstiftung zur Amtsgeheimnisverletzung, Abgrenzung zur Gehilfenschaft, versuchte Anstiftung."
 tags: ["Rechtsprechung", "StGB", "Anstiftung", "Mittäterschaft", "Beteiligung", "Verkehrsstrafrecht"]
-agent_verified: false
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — 10 Leitentscheide via OCL find_leading_cases verifiziert."
 ---
 

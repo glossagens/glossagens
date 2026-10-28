@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 406 OR — Geschäfte vor Kenntnis des Erlöschens, Rechtsscheinschutz, guter Glaube des Beauftragten"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Erlöschen", "Rechtsschein", "guter Glaube"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Ersterstellung der Rechtsprechungsübersicht; BGE 101 II 117 via entscheidsuche verifiziert"
 ---
 

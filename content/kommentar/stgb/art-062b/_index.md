@@ -5,17 +5,14 @@ date: 2026-07-16
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 62b StGB: Endgültige Entlassung aus Massnahme bei Bewährung (Abs. 1), bei Erreichen der Höchstdauer (Abs. 2), Nichtvollzug der Reststrafe (Abs. 3) und Verhältnis zur Massnahmeaufhebung (Art. 62c)."
 tags: ["StGB", "endgültige Entlassung", "Massnahme", "Höchstdauer", "Bewährung", "Probezeit", "Art. 61", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: BGer 7B_853/2025 (Altersgrenze 30, keine Probezeit darüber hinaus), BGer 6B_881/2013 (Bewährung/Nichtbewährung), BGer 6B_473/2014 (Höchstdauer und Massnahmewechsel), BGer 7B_155/2026 (bedingte Entlassung als letzte Vollzugsstufe); 4 verifizierte BGer-Entscheide via entscheidsuche.ch"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Art. 62b: Audit KW33; Gesetzestext via Fedlex verifiziert"
 ---
 

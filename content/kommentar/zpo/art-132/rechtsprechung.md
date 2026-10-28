@@ -5,7 +5,6 @@ date: 2026-10-14
 lastmod: 2026-10-14
 description: "Übersicht der Rechtsprechung zu Art. 132 ZPO: Nachfristansetzung bei Formmängeln, Ungebührlichkeit und Weitschweifigkeit sowie Schriftenrückgabe bei Rechtsmissbrauch und Querulanz."
 tags: ["Rechtsprechung", "ZPO", "Verfahrensrecht", "Nachfrist", "Rechtsmissbrauch"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

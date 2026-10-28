@@ -5,27 +5,22 @@ date: 2026-05-24
 lastmod: 2026-10-24
 description: "Umfassende Rechtsprechungsübersicht zu Art. 9 StPO (Anklagegrundsatz): Leitentscheide und Bundesgerichtsurteile zu Umgrenzungs- und Informationsfunktion, Bestimmtheitsgebot, Mittäterschaft, subjektivem Tatbestand, Sachverhaltsbindung, Strafbefehlsverfahren und kantonaler Praxis."
 tags: ["Rechtsprechung", "StPO", "Anklagegrundsatz", "Bestimmtheitsgebot", "Akkusationsprinzip", "Strafbefehl", "Mittäterschaft", "Immutabilität"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme des Leitentscheids BGer 6B_962/2024 vom 14.09.2026 zu Art. 9 Abs. 1 StPO (Abgrenzung Sachverhalt vs. rechtliche Würdigung/Subsumtion beim Anklagegrundsatz; Umschreibung von Barbezügen vom Gesellschaftskonto bei Art. 158 StGB genügt; Antastung von Reinvermögen/Reserven bei Einpersonen-AG ist richterliche Subsumtion)."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau gemäss Glossagens-Praxiskommentar-Standard: 6 BGE-Leitentscheide und 10 Bundesgerichts- und Kantonsgerichtsentscheide mit detailgetreuer Sachverhaltsschilderung, Kernaussagen und Zuordnung."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erweiterung der Rechtsprechung mit 13 analysierten Entscheiden."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Initiale Rechtsprechungsübersicht mit 10 Entscheiden."
 ---
 

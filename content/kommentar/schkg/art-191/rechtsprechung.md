@@ -5,27 +5,22 @@ date: 2026-06-13
 lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 191 SchKG — Insolvenzerklärung des Schuldners, missbräuchliche Insolvenzerklärung, Gläubigerbeschwerde, unentgeltliche Rechtspflege, Schuldenbereinigung, Sperrwirkung und Grenzkasuistik."
 tags: ["Rechtsprechung", "SchKG", "Insolvenzerklärung", "Konkurs", "Privatkonkurs", "Selbstantrag", "Rechtsmissbrauch", "Schuldenbereinigung", "Unentgeltliche Rechtspflege", "Sperrwirkung", "Kasuistik", "Grenzkasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
-    mcp_verified: true
     note: "Erweiterung mit Grenzkasuistik-Entscheiden: BGer 5A_193/2024 (missbräuchliche Insolvenzerklärung/Einkommenssituation), BGer 5A_222/2025 (unzulässige Beschwerde), BGer 5A_134/2025 (Konkursschluss im summarischen Verfahren), BGer 5A_870/2024 E. 6.5 (Sperrwirkung/Pfändung zwischen Gesuch und Urteil), BGer 5A_818/2024 (Kollokation bei bereits abgeschlossener Pfändung); BGE 149 III 186 (örtliche/sachliche Zuständigkeit) ergänzt."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Integration neuerer BGer-Entscheide 2024–2026: 5A_614/2026 (Missbrauch/Lohnpfändung), 5A_249/2025 (unentgeltliche Rechtspflege/Aussichtslosigkeit), 5A_197/2025 (Schuldenbereinigung/Sanierungschancen), 5A_870/2024 (Sperrwirkung/zeitliche Wirkung); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und BGer-Entscheiden, vollständigen Sachverhalten zum Privatkonkurs und Verlinkung auf entscheidsuche.ch."
   - date: 2026-06-13
     by: "Hermes Agent"
     model: "glm-5-1"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

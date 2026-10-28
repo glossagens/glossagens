@@ -5,7 +5,6 @@ date: 2026-05-09
 lastmod: 2026-05-24
 description: "Übersicht der massgeblichen Entscheide zu Art. 3 StPO — Achtung der Menschenwürde und Fairnessgebot."
 tags: ["Rechtsprechung", "Menschenwürde", "Fairnessgebot", "Treu und Glauben", "Rechtsmissbrauch", "rechtliches Gehör", "Beweisverwertungsverbot"]
-agent_verified: false
 ---
 
 [← Zurück zum Kommentar](../index.md)

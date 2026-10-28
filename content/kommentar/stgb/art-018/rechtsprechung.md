@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der Entscheide zu Art. 18 StGB — entschuldigender Notstand, Vorsatzabgrenzung (Art. 12), Sorgfaltspflichten bei Fahrlässigkeitsdelikten, Strafzumessung bei verminderter Schuldfähigkeit, Güterkollision."
 tags: ["Rechtsprechung", "StGB", "Notstand", "Vorsatz", "Fahrlässigkeit", "Schuldfähigkeit", "Sorgfaltspflicht"]
-agent_verified: false
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — 10 Leitentscheide via OCL find_leading_cases verifiziert."
 ---
 

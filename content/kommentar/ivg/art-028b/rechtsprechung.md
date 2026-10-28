@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 28b IVG (Rentenhöhe; lineare Rentenabstufung; Weiterentwicklung IV seit 1.1.2022)"
 tags: ["Rechtsprechung", "IVG", "Invalidenrente", "Rentenabstufung", "Valideneinkommen"]
-agent_verified: false
 ---
 
 # Rechtsprechungssammlung zu Art. 28b IVG

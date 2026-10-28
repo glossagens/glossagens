@@ -5,12 +5,10 @@ date: 2026-05-24
 lastmod: 2026-08-19
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 395 ZGB (Vermögensverwaltung im Erwachsenenschutzrecht)."
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Vermögensverwaltung"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungssammlung; alle Entscheide via opencaselaw-MCP geprüft."
 ---
 

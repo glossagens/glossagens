@@ -5,12 +5,10 @@ date: 2026-06-29
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 101 StPO – Akteneinsicht bei hängigem Verfahren: Leitentscheide zu Parteieinsicht, Auskunftspersonen, Mandatsführung der Verteidigung und Dritteinsicht."
 tags: ["Rechtsprechung", "StPO", "Akteneinsicht", "Parteien", "Dritte", "Verteidigung"]
-agent_verified: false
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 13 verifizierten Entscheiden (5 Leitentscheide BGE, 8 BGer/Kantone), alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-07-10
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 345 StPO – Abschluss des Beweisverfahrens: Beweisantragsrecht, rechtliches Gehör und Geltung im erstinstanzlichen sowie im Berufungsverfahren."
 tags: ["StPO", "Beweisverfahren", "Beweisantragsrecht", "Rechtliches Gehör", "Hauptverhandlung", "Berufungsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-345.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote): BGE 143 IV 214 E. 5.4, BGer 6B_859/2013 E. 3.4.3, BGer 6B_824/2016 E. 5.4 und BGer 6B_4/2016 E. 3.2 integriert; Verifikation via attest_response ok."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

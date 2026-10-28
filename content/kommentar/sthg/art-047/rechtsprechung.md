@@ -5,12 +5,10 @@ date: 2026-09-28
 lastmod: 2026-09-28
 description: "Rechtsprechungsübersicht zu Art. 47 StHG (SR 642.14) — Veranlagungsverjährung, Forderungsverjährung, Stillstand und Unterbrechung, «ausdrückliche» Anerkennung der Steuerforderung, doppelbesteuerungsrechtliche Verwirkung des kantonalen Besteuerungsrechts, Verwirkungsfrist «n+2», Nachsteuerverfahren."
 tags: ["Rechtsprechung", "StHG", "Verjährung", "Veranlagungsverjährung", "Steuerforderung", "Unterbrechung", "Stillstand", "interkantonale Doppelbesteuerung", "Verwirkung", "Nachsteuer"]
-agent_verified: true
 revisions:
   - date: 2026-09-28
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung — Entscheide via entscheidsuche fetch_document und search_by_case_number verifiziert. Auslösender Entscheid BGer 9C_88/2026 vom 7. September 2026."
 ---
 

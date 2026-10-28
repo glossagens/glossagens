@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 264 OR: Vorzeitige Rückgabe der Mietsache, Anforderungen an das Vorschlagen eines tauglichen Ersatzmieters (Zumutbarkeit, Solvenznachweis, gleiche Bedingungen), Prüffristen des Vermieters, Rechtsöffnung nach Abs. 2 sowie Schadenminderung und Vorteilsanrechnung nach Abs. 3."
 tags: ["OR", "Mietrecht", "Vorzeitige Rückgabe", "Ersatzmieter", "Nachmieter", "Schadenminderung", "Zahlungsfähigkeit", "Rechtsöffnung", "Mietzinspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-264.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar gemäss dem Referenzstandard von Art. 110 StPO und Art. 336 OR: Gesetzeswortlaut verbatim nach Fedlex (Stand 01.01.2026); dogmatisches Prüfschema als Inhaltsverzeichnis; zweiseitige Grenzkasuistik mit detaillierten Sachverhalten aus BGE 119 II 36, BGE 117 II 156, BGE 134 III 267 sowie den Leitentscheiden BGer 4A_97/2025 (Fünferbesetzung vom 18.02.2026), 4A_296/2024, 4A_561/2011, 4C.18/2007, 4C.118/2002, 4A_373/2008 und kantonaler Judikatur (ZH, LU, SG, SO, GR); Offenlegung von Judikaturdivergenzen zu Prüffristen und Eigennutzung/Renovation; kantonale Praxisfragen und adressatenbezogene Praxishinweise."
 ---
 

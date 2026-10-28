@@ -5,7 +5,6 @@ date: 2026-06-06
 lastmod: 2026-06-06
 description: "Übersicht der Entscheide zu Art. 25 AsylG – Ausschaffungshaft: Haftgründe, Verhältnismässigkeit, Haftdauer"
 tags: ["Rechtsprechung", "AsylG", "Ausschaffungshaft", "Fluchtgefahr", "Haftdauer", "Grundrechte"]
-agent_verified: false
 ---
 
 ## I. Verhältnismässigkeit und Haftgründe

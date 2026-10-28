@@ -5,17 +5,14 @@ date: 2026-10-15
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 3 UWG: Beispielkatalog unlauteren Verhaltens (Herabsetzung, irreführende Angaben, Titelmissbrauch, Verwechslungsgefahr, vergleichende Werbung, Lockvogelangebote, aggressive Verkaufsmethoden, Spam und Telefonwerbung, Schneeballsysteme, E-Commerce-Pflichten) — mit der Kasuistik der Gerichte zu den einzelnen Buchstaben, Schwellenwert-Tabellen, den Judikaturspannungen und den Fragen von Klage, Strafantrag und Vorsatz."
 tags: ["UWG", "Lauterkeitsrecht", "unlauterer Wettbewerb", "irreführende Angaben", "vergleichende Werbung", "aggressive Verkaufsmethoden", "Verwechslungsgefahr", "Telefonwerbung", "Spam", "Schneeballsystem", "Preisangaben", "Online-Handel", "Art. 23 UWG"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Audit-Lauf (Judge-Ledger: Haiku 5.5, bei Negativbefunden Zweiturteil Sonnet 5.5; Belegquote 73 %, Urteil B). Nach Gegenprüfung an den Volltexten korrigiert: 6S.677/2001 (Zwangslage war nur Parteivorbringen; Gericht stützt sich auf aleatorische Reize und aufdringliche Aufmachung), 6B_978/2020 (Satz zu sieben Millionen Anrufen ist im Entscheid nicht belegt, gestrichen), Pinpoints BGE 129 III 426 (E. 3.2.4), BGE 136 III 23 (E. 9.3 nur Zusammenfassung), 6B_1074/2016 (E. 2.4), AG OG SBK.2025.53 (E. 3.3.1). Übrige Negativbefunde des Judges sind Artefakte (Regeste ohne Volltext bei PDF-/BGer-Entscheiden, abgebrochene Claim-Fragmente) und am Volltext als gestützt nachgeprüft. mcp_verified bleibt false: 26 Paare ohne Verdikt, Literatur unverifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstkommentar als Praxiskommentar. Gesetzeswortlaut per Shortcode aus Fedlex (SR 241, Stand 2025-01-01; data/wortlaut/uwg/art-003.json). Sämtliche zitierten Entscheide über entscheidsuche.ch im Volltext gelesen und auf die Aussage geprüft, für die sie angeführt sind; Links aus den document_url-Feldern übernommen. Der maschinelle Schlussattest (audit.py mit Judge-Ledger) ist nicht gelaufen — der opencaselaw-Zugang der Glossagens-IP ist gesperrt (HTTP 403, seit 23.08.2026) —, deshalb mcp_verified: false und agent_verified: false. Literaturhinweise sind mit den Fall-Tools nicht verifizierbar."
 ---
 

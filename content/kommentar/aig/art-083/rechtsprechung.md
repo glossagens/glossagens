@@ -5,22 +5,18 @@ date: 2026-08-29
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse, Non-Refoulement bei trans Personen (BGer 2C_513/2025) und länderspezifische Praxis (einschliesslich Referenzurteile)"
 tags: ["Rechtsprechung", "AIG", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Länderpraxis", "BVGer"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 2C_513/2025 vom 13.08.2026 (5er-Besetzung): Übertragung des Prüfschemas aus BGE 152 I 157 zum Non-Refoulement auf trans Personen (Brasilien), Anforderungen an die Substanziierung eines individuellen Verfolgungsrisikos gegenüber allgemeinen NGO-Berichten sowie funktionelle Zuständigkeit."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Einarbeitung aktueller BVGer-Leit- und Referenzurteile zu Äthiopien (BVGE 2011/25, D-6630/2018), Türkei (Hakkâri/Şırnak, Erdbebengebiete), Nordirak/Kurdistan, Sri Lanka (Wirtschaftskrise/Gesundheitsversorgung), Afghanistan (Passbeschaffung), Dublin/Griechenland (Familien) und Erlöschen der vorläufigen Aufnahme."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht zu Art. 83 AIG mit Grundsatzurteilen zur allgemeinen Dogmatik und länderspezifischen Lageanalysen (Syrien, Afghanistan, Eritrea, Irak, Pakistan, Sri Lanka)."
 ---
 

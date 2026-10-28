@@ -5,12 +5,10 @@ date: 2026-08-03
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 393 StPO – Zulässigkeit und Beschwerdegründe: Leitentscheide zu Anfechtungsobjekten, Ausschluss verfahrensleitender Entscheide und ZMG-Beschwerden."
 tags: ["Rechtsprechung", "StPO", "Beschwerde", "Zulässigkeit", "Zwangsmassnahmengericht"]
-agent_verified: false
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 Entscheide BStGer/Kantone); alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 

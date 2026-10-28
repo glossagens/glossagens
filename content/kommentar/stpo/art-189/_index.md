@@ -5,22 +5,18 @@ date: 2026-07-10
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 189 StPO – Ergänzung und Verbesserung des Gutachtens: Voraussetzungen (lit. a–c), Verfahren, Parteigutachten, Zweitexpertise, Willkür bei Verzicht auf Ergänzung."
 tags: ["StPO", "Beweisrecht", "Sachverständigenbeweis", "Gutachten", "Zweitgutachten", "Parteigutachten", "antizipierte Beweiswürdigung", "Willkür"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-189.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 35 %). Alle 19 Referenzen existieren und treffen thematisch zu. Drei Erwägungsangaben korrigiert: BGE 141 IV 369 E. 6 → E. 6.1 (der Entscheid kennt nur E. 6.1 und 6.2); BGer 6B_53/2017 E. 6.1 → E. 1.3; BGer 6B_1363/2019 E. 4.1 → E. 1.2.3 bzw. E. 1.2.5. Die im Audit als «unrelated» gemeldeten Belege sind überwiegend Auswertungsartefakte aus Aufzählungen."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 

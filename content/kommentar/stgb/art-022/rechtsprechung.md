@@ -5,22 +5,18 @@ date: 2026-06-28
 lastmod: 2026-09-05
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 22 StGB — Schwellentheorie, Point of no Return, zweiseitige Grenzkasuistik, untauglicher Versuch, minimale Gefährlichkeit, Eventualvorsatz und Strafmilderungsmethodik."
 tags: ["Rechtsprechung", "StGB", "Versuch", "Schwellentheorie", "Point of no Return", "Untauglicher Versuch", "Eventualvorsatz", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar: Erweiterung auf 14 verifizierte Entscheide mit detaillierten Sachverhalten, zweiseitiger Grenzkasuistik (u.a. BGE 131 IV 100 vs. BGer 6B_525/2024; BGE 140 IV 150 vs. BGE 124 IV 97 und BGer 6B_123/2025; BGer 6S.262/2004; AG OG SST.2023.122); sämtliche URLs über entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 10 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Bereinigung ungenauer URLs und Pinpoint-Zuordnungen."
 ---
 

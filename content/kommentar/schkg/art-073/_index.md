@@ -5,42 +5,34 @@ date: 2026-07-31
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 73 SchKG: Einsichtsrecht des Schuldners, Vorlagepflicht des Gläubigers, Gesamtschau fälliger Ansprüche, Ausschluss der Fristhemmung, Prozesskostenfolgen nach ZPO, Gebührenfreiheit, kantonale Fehlpraxis und Grenzkasuistik."
 tags: ["SchKG", "Beweismittel", "Einsichtsrecht", "Zahlungsbefehl", "Forderungsübersicht", "Prozesskosten", "Waffengleichheit", "Fristhemmung", "Gebührenfreiheit", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau zu einem Praxisorientierten Gesetzeskommentar (gemäss Skill praxisorientierter-kommentar): Merkmalskatalog und Prüfschema vorangestellt, amtliche Gesetzesmaterialien (BBl 2015 3209, BBl 2015 5785) mit gesetzgeberischen Motiven detailliert eingearbeitet, umfangreiche plastische Lebenssachverhalte (BGE 121 III 18, BGE 149 III 218, BGE 149 III 268, BGer 7B.184/2004, BGer 5A_861/2013, BGer 5A_582/2009, BGer 5A_14/2024, BGer 5A_286/2023, BGer 5A_1053/2025, BGer 5A_837/2018, BGer 5A_838/2016, BGer 5A_959/2019 sowie kantonale Urteile aus FR, SO, ZH, BE, SH), Gegenüberstellungstabellen mit Grenzkasuistik (bejaht vs. verneint), offene Benennung von Judikaturdivergenzen und kantonalen Fehlpraktiken, kantonale Praxisfragen und adressatenbezogene Praxishinweise für Schuldner, Gläubiger und Betreibungsamt; kein Eszett; Zitate wörtlich abgeglichen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-073.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–4 vertieft, Rz. 5 (Gebührenfreiheit) neu, Rz. 6–8 (Fristhemmung, Betreibungsblockade, Prozesskosten) überarbeitet, Rz. 9 (Umfang der Vorlagepflicht) ergänzt, Rz. 10 (Abgrenzung Art. 73/Art. 67) vertieft mit BGE 149 III 268, Rz. 11–12 (Beweismass/Rechtsvorschlag per E-Mail, formloses Gesuch) neu, Rz. 13–19 Grenzkasuistik erweitert; BGE 149 III 268, BGE 149 III 218 E. 2, BGer 5A_838/2016, SH Obergericht 93/2010/18A neu integriert; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–4 überarbeitet und vertieft, Rz. 5–7 (Fristhemmung, Betreibungsblockade, Prozesskostenfolgen), Rz. 8 (Umfang der Vorlagepflicht), Rz. 9–14 (Grenzkasuistik), Praxisfragen ergänzt; BGE 149 III 218, BGE 121 III 18, BGer 5A_14/2024, BGer 7B_184/2004, BGer 5A_582/2009, BGer 5A_959/2019, BGer 5A_861/2013 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Einsichtsrechts (Art. 73 SchKG), Ausschluss der Betreibungsblockade (BGer 7B_184/2004), Prozesskostenfolgen nach ZPO (BGer 5A_14/2024), Zusammenspiel mit Zahlungsbefehl (BGE 121 III 18) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31"
 ---
 

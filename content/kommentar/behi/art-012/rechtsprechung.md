@@ -5,12 +5,10 @@ date: 2026-07-22
 lastmod: 2026-08-18
 description: "Übersicht der Rechtsprechung zu Art. 12 BehiG (SR 151.3): Schwellenwerte, Anpassungspflichten bei Bauten, öffentlicher Verkehr und Ersatzlösungen."
 tags: ["Rechtsprechung", "BehiG", "Schwellenwerte", "Baubewilligung", "Öffentlicher Verkehr"]
-agent_verified: true
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau der Rechtsprechungsübersicht mit geprüften Bundesgerichts- und kantonalen Entscheiden."
 ---
 

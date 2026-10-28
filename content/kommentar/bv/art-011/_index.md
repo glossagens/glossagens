@@ -5,22 +5,18 @@ date: 2026-05-24
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 11 BV — Anspruch auf besonderen Schutz der Unversehrtheit, Förderung der Entwicklung als programmatischer Gehalt, Ausübung der Rechte im Rahmen der Urteilsfähigkeit"
 tags: ["BV", "Grundrechte", "Kinder", "Jugendliche", "Kindesschutz", "Kindeswohl", "Urteilsfähigkeit"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-011.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 6 %, Urteil C — schlechtester Wert der BV-Kampagne): Kein einziges Belegpaar war gestützt. Vier Referenzen existierten nicht, drei Pinpoints zeigten ins Leere, alle fünf existierenden Entscheide waren fehlzugeordnet. Neu aufgebaut auf BGE 126 II 377 E. 5, dem Grundsatzentscheid zur Tragweite von Art. 11 BV."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — Belegapparat beim Audit vom 2026-08-11 vollständig verworfen"
 ---
 

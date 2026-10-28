@@ -5,17 +5,14 @@ date: 2026-10-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 69 StPO: Grundsatz der Justizöffentlichkeit vor erstinstanzlichem Gericht und Berufungsgericht; Urteilseinsicht bei Verzicht und rechtskräftigen Strafbefehlen (BGE 152 IV 96); Ausnahmen im Vorverfahren, ZMG und schriftlichen Verfahren; Raumkapazität, Saalgrössen und Vorlaufzeiten bei Publikumsandrang."
 tags: ["StPO", "Justizöffentlichkeit", "Gerichtsöffentlichkeit", "Strafbefehl", "Urteilseinsicht", "Medienfreiheit", "Verfahrensrechte"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-069.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung als praxisorientierter Kommentar gemäss Benchmark Art. 110 StPO / Art. 336 OR. Einarbeitung der BGEs 152 IV 96 (Rechtskraft von Strafbefehlen für Einsicht), 143 IV 151 (Öffentlichkeit mündlicher Verhandlungen im Beschwerdeverfahren), 143 I 194 (Medienausschluss bei Berufungsverhandlung), 141 I 211 (Unzulässigkeit von Ordnungsbussen gegen Gerichtsberichterstatter) sowie BGer 7B_1258/2025 vom 24.04.2026 (Saalgrössen, Publikumsandrang und Vorlaufzeiten)."
 ---
 

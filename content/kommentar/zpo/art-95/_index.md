@@ -5,17 +5,14 @@ date: 2026-09-09
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 95 ZPO: Legaldefinition der Prozesskosten — Gerichtskosten (Schlichtungspauschalen, Entscheidgebühr, Beweiskosten, Übersetzung, Kindesvertretung) und Parteientschädigung (notwendige Auslagen, Vertretungskosten, Umtriebsentschädigung) inklusive neuester bundesgerichtlicher Leitentscheide (BGer 5A_174/2026, 5A_139/2025, BGE 144 III 164), Abgrenzung von materiellem Schadenersatz, Grenzkasuistik, kantonalen Praxisfragen und adressatenbezogenen Praxishinweisen."
 tags: ["ZPO", "Prozesskosten", "Gerichtskosten", "Parteientschädigung", "Umtriebsentschädigung", "Kostenstreitwert", "Kindesvertretung", "Dolmetscherkosten", "Schlichtungsverfahren", "Beweiskosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-95.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (Referenzmuster Art. 110 StPO und Art. 336 OR). Gesetzestext verbatim aus Fedlex (SR 272, Stand 1. Juli 2026). Vollständige Einarbeitung der neuesten Rechtsprechung BGer 5A_174/2026 vom 24. August 2026 (publiziert 9. September 2026; Bestätigung der Streitwertschätzung bei Ehescheidungsvergleich und unbezifferter Ausgleichsklage gemäss bger-update.ch/zusammenfassung/33732/) sowie BGer 5A_139/2025, BGE 144 III 164, BGE 142 III 153, BGE 140 III 444, BGE 139 III 195, BGer 4A_436/2023, BGer 4A_264/2015 und kantonaler Leitpraxis (SG HG HG.2023.6-HGK, LU KG 3C 23 10, TG OG RBOG 2011 Nr. 07, BL KG 410 11 38, SG KG BE.2014.51). Inklusive Schichten-Prüfschema, Grenzkasuistik (Angewandt vs. Verworfen), Offenlegung von Judikaturwidersprüchen, Kasuistiktabellen, zwei kantonalen Praxisfragen und adressatenbezogenen Praxishinweisen."
 ---
 

@@ -5,27 +5,22 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 1 OR: Übereinstimmende gegenseitige Willensäusserung als Grundlage des Vertragsschlusses; Konsens; ausdrückliche und stillschweigende Willensäusserung"
 tags: ["OR", "Vertragsrecht", "Konsens", "Willensäusserung", "Vertragsschluss", "AGB", "Konkludentes Handeln", "Vertrauenstheorie", "Dissens"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-001.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 84 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 55 % (Urteil B); 13 gestützt (+22 teilw.) von 44 beurteilten Paaren (52 Paare gesamt); Wortlaut: unvollstaendig; 2 nicht existente Referenzen, 4 fehlerhafte Pinpoints."
 ---
 

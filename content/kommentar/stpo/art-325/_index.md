@@ -5,27 +5,22 @@ date: "2026-08-30"
 lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 325 StPO: Inhalt der Anklageschrift, Akkusationsprinzip (Informations- und Umgrenzungsfunktion), Tatumschreibung («möglichst kurz, aber genau»), Kasuistik, Alternativ- und Eventualanklage sowie prozessuale Rügeobliegenheiten."
 tags: ["StPO", "Anklageschrift", "Anklageprinzip", "Informationsfunktion", "Umgrenzungsfunktion", "Immutabilität", "Eventualanklage", "Hauptverfahren", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Leitentscheids BGer 6B_962/2024 vom 14.09.2026: Abgrenzung von Tatsachenkern und richterlicher Subsumtion; Umschreibung von Barbezügen vom Firmenkonto genügt den Anforderungen von Art. 325 Abs. 1 lit. f StPO; Antastung des Reinvermögens/der gebundenen Reserven bei einer Einpersonen-AG (Art. 158 StGB) ist richterliche Rechtsanwendung."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-325.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung."
   - date: "2026-09-09"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard praxisorientierter-kommentar: detaillierte Lebenssachverhalte, zweiseitige Kasuistik (BGE 143 IV 63, BGE 141 IV 39, BGE 147 IV 167, BGE 148 IV 124, BGE 140 IV 188, BGE 145 IV 438, BGer 6B_1279/2019, 6B_959/2013, 6B_284/2024, ZH OG UH240103), Gegenüberstellungstabellen, Judikaturwidersprüche und rollenspezifische Praxishinweise."
 ---
 

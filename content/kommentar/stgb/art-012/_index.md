@@ -5,32 +5,26 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 12 StGB: Vorsatzprinzip, direkter Vorsatz, Eventualvorsatz, Indizienlehre, Abgrenzung zur bewussten Fahrlässigkeit, Sorgfaltsmassstab und Pflichtwidrigkeitszusammenhang — mit Schwellenwert-Tabellen und Kasuistik zu Strassenverkehr, Gewaltdelikten, Behandlungsfehlern und Sportunfällen."
 tags: ["StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Schuldprinzip", "Indizienlehre", "Sorgfaltspflicht", "Pflichtwidrigkeitszusammenhang", "Allgemeiner Teil", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-012.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Neugliederung nach den Standards des Skills praxisorientierter-kommentar (Version 1.3.0, Benchmarks Art. 110 StPO und Art. 336 OR): Auflösung des isolierten Kasuistikblocks; Gliederung entlang des Merkmalsrasters mit vorgeschalteter Prüfschema-Tabelle; zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) zu Vorsatz und Pflichtwidrigkeit; Schwellenwert-Vergleichstabellen; Offenlegung von Judikaturspannungen im Strassenverkehr; beschreibende Leitsätze und adressatenbezogene Praxishinweise am Schluss. Audit: Wortlaut korrekt, 0 halluzinierte Referenzen, 0 Pinpoint-Fehler, 0 Verbatim-Abweichungen, 98% Belegquote (Urteil A)."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erheblicher praxisorientierter Ausbau: Detaillierte Kasuistik konkreter Lebenssachverhalte (Strassenverkehr/Raser, Messerstiche, Kopftritte, HIV-Übertragung, Sport, Medizin, Bau/Ingerenz), Sorgfaltswidrigkeit und Pflichtwidrigkeitszusammenhang sowie kantonale Praxisfragen via entscheidsuche.ch und Fedlex verifiziert."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: Halluzinierte kantonale Fundstellen bereinigt; Belege, Dogmatik und Rechtsprechung via Fedlex und OpenCaseLaw MCP verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert"
 ---
 

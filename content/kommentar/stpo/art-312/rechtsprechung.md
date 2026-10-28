@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 312 StPO – Aufträge der Staatsanwaltschaft an die Polizei, Ermittlungsaufträge und Parteirechte bei delegierten Einvernahmen."
 tags: ["Rechtsprechung", "StPO", "Staatsanwaltschaft", "Polizei", "Delegationsauftrag", "Einvernahme", "Teilnahmerechte", "Vorverfahren"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 312 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

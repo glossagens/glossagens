@@ -5,32 +5,26 @@ date: 2026-05-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 41 OR: Die allgemeine Verschuldenshaftung (Abs. 1) und Sittenwidrigkeitshaftung (Abs. 2) — Schaden nach der Differenzhypothese, Erfolgs- vs. Verhaltensunrecht bei reinen Vermögensschäden, Schutznormlehre, Gefahrensatz, natürliche und adäquate Kausalität samt Unterbrechung sowie Fahrlässigkeitsmassstab mit umfassender Kasuistik, Schwellenwert-Gegenüberstellungen und Praxishinweisen."
 tags: ["OR", "Haftpflichtrecht", "Deliktshaftung", "Unerlaubte Handlung", "Schadenersatz", "Widerrechtlichkeit", "Erfolgsunrecht", "Verhaltensunrecht", "Schutznorm", "Reiner Vermögensschaden", "Kausalzusammenhang", "Adäquanz", "Kausalitätsunterbrechung", "Verschulden", "Fahrlässigkeit", "Sittenwidrigkeit", "Gefahrensatz", "Vorprozessuale Anwaltskosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-041.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Gesetzeskommentar gemäss Skill praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR): Merkmalskatalog als Prüfschema-Tabelle, systematische Gliederung nach den abstrakten Tatbestandsmerkmalen (Schaden, Widerrechtlichkeit, Kausalität, Verschulden, Sittenwidrigkeit, Schadensbemessung, Konkurrenzen), dichte Kasuistik mit Gegenüberstellung von Anwendungs- und Verwerfungsfällen, Vergleichstabellen ohne Code-Fences, Offenlegung von Abgrenzungen, zwei kantonale Praxisfragen (Art. 61 OR Staatshaftungsfalle und Substanziierung vorprozessualer Anwaltskosten) sowie adressatenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch im Volltext verifiziert und verbatim verlinkt."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Nachtrag BGer 4A_59/2026 zur Voraussehbarkeitsgrenze der Fahrlässigkeit bei alltäglichen Handlungen im Freizeitbereich."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 7 gestützt (+14 teilw.) von 25 beurteilten Paaren (25 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "6-Punkt-Verifikation: Gesetzestext geprüft (Fedlex SR 220 Art. 41); OCL-Links/BGE-Zitate HTTP-200-Check; OCL-Attest für alle Entscheide; check_claim_support durchgeführt; unsupported claims mit Kontextzitat qualifiziert oder entfernt; BGer-URLs auf korrektes Format (mit Punkt) korrigiert"
 ---
 

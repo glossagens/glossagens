@@ -5,17 +5,14 @@ date: 2026-10-21
 lastmod: 2026-10-22
 description: "Kommentar zu Art. 25 BV: Schutz vor Ausweisung von Schweizer Bürgerinnen und Bürgern (Abs. 1), Flüchtlings-Non-Refoulement (Abs. 2) und absolutes Non-Refoulement bei Folter- und Misshandlungsgefahr (Abs. 3) sowie länderspezifische Gefährdungslagen und Schwellenwerte."
 tags: ["BV", "Bundesverfassung", "Grundrechte", "Ausweisung", "Auslieferung", "Non-Refoulement", "Flüchtlingsrecht", "Folterverbot", "EMRK 3", "Länderpraxis", "Landesverweisung"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von Kapitel E: Länderspezifische Gefährdungslagen, Schwellenwerte (EGMR-Doktrin Sufi & Elmi / N.A.) und dogmatische Abgrenzung zur humanitären Unzumutbarkeit nach Art. 83 Abs. 4 AIG und zum strafrechtlichen Vollzugsaufschub nach Art. 66d StGB; Vernetzung mit den Kommentaren zu Art. 83 AIG und Art. 66d StGB; Bereinigung der Randziffern N 1 bis N 33."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung zu Art. 25 BV im Stil des Onlinekommentars; Einarbeitung von BGer 2C_513/2025 (5er-Besetzung: Non-Refoulement-Prüfschema für trans Personen) und BGE 152 I 157."
 ---
 

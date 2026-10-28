@@ -5,7 +5,6 @@ date: "2026-07-09"
 lastmod: "2026-07-09"
 description: "Übersicht der Entscheide zu Art. 49 ArG – Bewilligungsverfahren"
 tags: ["Rechtsprechung", "ArG", "Bewilligungsverfahren"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 49 ArG

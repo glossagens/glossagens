@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 5 VwVG – Begriff der Verfügung im Verwaltungsverfahrensrecht"
 tags: ["VwVG", "Verfügung", "Verwaltungsverfahren", "Verwaltungsrecht", "Realakt", "Feststellungsverfügung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C, 47%): fabrizierten Art.-73-BGG-Wortlaut ersetzt (tatsächlich Markenwiderspruchsverfahren, nichts mit Verfügungsbegriff); 8 ungestützte Belegpaare korrigiert (Zitat-Vertauschung 1C_37/2019/2C_255/2013, invertierte Aussage zu BGE 121 II 473, verengte Aussage zu BGE 137 V 210, präzisierte Aussagen zu BGE 126 V 143 und 2C_444/2015); revisions-Block nachgetragen (fehlte)."
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "unknown"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 

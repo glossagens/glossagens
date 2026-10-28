@@ -5,7 +5,6 @@ date: 2026-05-17
 lastmod: 2026-05-17
 description: "Übersicht der zentralen Entscheide zu Art. 361 ZGB -- Formerfordernisse des Vorsorgeauftrags, öffentliche Beurkundung und kantonales Recht."
 tags: ["Rechtsprechung", "ZGB", "Vorsorgeauftrag", "Formvorschriften", "Erwachsenenschutz"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 361 ZGB

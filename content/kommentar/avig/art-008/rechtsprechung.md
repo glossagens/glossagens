@@ -5,17 +5,14 @@ date: 2026-09-09
 lastmod: 2026-09-09
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu den Anspruchsvoraussetzungen nach Art. 8 AVIG"
 tags: ["Rechtsprechung", "AVIG", "Anspruchsvoraussetzungen", "Vermittlungsfähigkeit", "Beitragszeit", "Arbeitgeberähnliche Stellung"]
-agent_verified: false
 revisions:
   - date: 2026-09-09
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht im Rahmen des Praxiskommentars. 20 Entscheide (13 BGE-Leitentscheide, 2 neuere BGer-Urteile, 5 kantonale Leitentscheide) mit Sachverhalten, Kernaussagen und Verlinkung auf entscheidsuche.ch eingearbeitet."
   - date: 2026-09-05
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung; alle Entscheide via opencaselaw/entscheidsuche geprüft"
 ---
 

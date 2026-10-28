@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 44 BöB: Ausschluss vom Vergabeverfahren und Widerruf des Zuschlags. Formelle Mängel, Nichteinhaltung von Musskriterien, Preisbildungsvorschriften nach BGE 152 II 211, Nachforderungen nach Art. 38 Abs. 2 BöB und Praxishinweise."
 tags: ["BöB", "Ausschluss", "Widerruf", "Formfehler", "Musskriterien", "Nachforderung", "Submissionsabsprachen", "Vergaberecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Vollständige Erstellung des Praxiskommentars zu Art. 44 BöB nach den Vorgaben von praxisorientierter-kommentar und glossagens-content-creation. Eruierung der Gesetzesmaterialien (BBl 2017 1851, BBl 2023 84); Einbettung des Leitentscheids BGE 152 II 211 (Kostenumlagerungen und Ausschlussermessen); ausführliche Grenzkasuistik zu Frist- und Signaturmängeln, Musskriterien und Nachforderungen (ZH VG VB.2024.00772, ZH VG VB.2025.00160, SH OG 60/2024/33, SG VG B 2024/225, BVGer B-8430/2025, BVGer B-5134/2025); kantonale Praxisfragen und adressatenbezogene Praxishinweise."
 ---
 

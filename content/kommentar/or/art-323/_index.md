@@ -5,17 +5,14 @@ date: 2026-07-22
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 323 OR — Fälligkeit des Lohnes, monatliche Lohnzahlungspflicht, Provision, Anteil am Geschäftsergebnis, Vorschuss, dispositives vs. absolut zwingendes Recht, kantonale Mindestlohnregelungen, Globalberechnung vs. Monatsberechnung"
 tags: ["OR", "Arbeitsrecht", "Lohnzahlung", "Fälligkeit", "Mindestlohn", "Provision"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-323.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 16 % (Urteil C); 3 gestützt (+4 teilw.) von 31 beurteilten Paaren (31 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

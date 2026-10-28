@@ -5,22 +5,18 @@ date: 2026-05-16
 lastmod: 2026-09-16
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 129 StGB — Gefährdung des Lebens: Unmittelbare Lebensgefahr, Skrupellosigkeit, Würgen und Strangulation, Schikanestopp und Strassenverkehr, Waffen- und Messereinsatz, Versuchsstrafbarkeit und Konkurrenzen."
 tags: ["Rechtsprechung", "StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Würgen", "Strangulation", "Schikanestopp", "Konkurrenz", "Abgrenzung"]
-agent_verified: true
 revisions:
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht auf 14 vollständig aufbereitete Leit- und Folgeentscheide (7 Leitentscheide, 7 weitere Entscheide inkl. kantonale Urteile ZH und GR). Volltextabgleich gegen entscheidsuche.ch; Aufnahme von Verwerfungsfällen (BGer 6B_1017/2019, ZH OG SB200086), Versuchskonstellationen (BGer 6B_1036/2014, BGer 6B_798/2024), Konkurrenzen zu Art. 90 Abs. 3 SVG (GR KG PKG 2023 11) und Waffeneinsatz (BGE 100 IV 215, BGer 6B_108/2026)."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuaufbau mit 6 verifizierten BGE/BGer-Entscheiden via entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 

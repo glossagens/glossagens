@@ -5,22 +5,18 @@ date: 2026-07-11
 lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 115 StPO – Begriff der geschädigten Person: Leitentscheide zur Rechtsgutstheorie, zu Kollektiv- und Verkehrsdelikten, Urkunden- und Konkursdelikten, juristischen Personen vs. Erbengemeinschaft, Zession und SchKG-Abtretung sowie zur Strafantragsfiktion."
 tags: ["Rechtsprechung", "StPO", "Geschädigte Person", "Rechtsgutstheorie", "Privatklägerschaft", "Reflexschaden", "Zession"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_840/2025 vom 9. September 2026 (Schadloshaltung durch den Täter; Massgeblichkeit des Anklagesachverhalts). Volltext via opencaselaw (get_decision) verifiziert; entscheidsuche.ch führt den Entscheid noch nicht (Publikation 23.10.2026), OCL als Rückfall-Link."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht mit 13 verifizierten Leit- und Praxisentscheiden (BGE, BGer, kantonale Obergerichte ZH, LU, GR); alle Nachweise mit Sachverhaltskern, dogmatischer Kernaussage und Verlinkung auf entscheidsuche.ch validiert."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 BGer-Entscheide); alle Nachweise via attest_response validiert."
 ---
 

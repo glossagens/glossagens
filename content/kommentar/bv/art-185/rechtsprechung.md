@@ -5,12 +5,10 @@ date: 2026-09-02
 lastmod: 2026-09-02
 description: "Übersicht der Entscheide zu Art. 185 BV — Notverordnungs- und Notverfügungsrecht des Bundesrates, Schutz der Finanzmarktstabilität (UBS- und CS-Rettung) und Massstab der Staatshaftung."
 tags: ["Rechtsprechung", "BV", "Notrecht", "Bundesrat", "Finanzmarkt", "Staatshaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstanlage der Rechtsprechungsseite zu Art. 185 BV mit 11 verifizierten Bundesgerichtsentscheiden inkl. Leitentscheid BGer 2E_5/2024."
 ---
 

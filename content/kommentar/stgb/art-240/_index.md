@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: "2026-09-05"
 description: "Kommentar zu Art. 240 StGB: Geldfälschung (Metallgeld, Papiergeld, Banknoten) in der Absicht des Inumlaufbringens als echt, Absichtsbegriff, besonders leichter Fall, Auslandstat und obligatorische Weltpflicht, Konkurrenz zu Art. 242 StGB."
 tags: ["StGB", "Geldfälschung", "Falschgeld", "Inumlaufbringen", "Weltpflicht", "Konkurrenz", "Betrug"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; Sachverhalte aus BGE 119 IV 154, BGE 133 IV 256 und BGE 123 IV 55 angereichert; kantonale Praxis (VS, AG) ergänzt; Gesetzeswortlaut via Fedlex verifiziert"
   - date: 2026-08-13
     by: "Hermes Agent"
@@ -19,7 +17,6 @@ revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 311.0 Art. 240), Leading Cases (BGE 119 IV 154, 133 IV 256, 123 IV 55, 123 IV 9) via OCL verifiziert."
 ---
 

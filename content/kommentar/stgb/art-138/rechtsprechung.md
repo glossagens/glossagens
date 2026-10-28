@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: "2026-09-05"
 description: "Übersicht der Rechtsprechung zu Art. 138 StGB — Veruntreuung: Anvertrautsein (faktisches Vertrauensverhältnis, Leasing, Beistandschaft), Werterhaltungspflicht, Vereitelungshandlung, Bereicherungsabsicht, Ersatzfähigkeit und Qualifikation."
 tags: ["Rechtsprechung", "StGB", "Veruntreuung", "Vermögensdelikt", "Treuhand", "Anvertraut", "Werterhaltungspflicht", "Bereicherungsabsicht", "Qualifikation", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 8 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 143 IV 297, BGE 133 IV 21, BGE 118 IV 27, BGE 129 IV 257, BGE 124 IV 9, BGE 121 IV 23, BGer 6B_224/2024 (qualifizierte Veruntreuung durch Berufsbeistand), BGer 7B_758/2025 (Anvertrautsein, Leasing-Autowaschanlage, mehrfache Veruntreuung); alle Links auf entscheidsuche.ch geprüft"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 6 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,27 +5,22 @@ date: 2026-06-28
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 VwVG: Mitwirkung der Parteien — Mitwirkungspflichten, Schutz des Anwaltsgeheimnisses (Abs. 1bis), Nichteintreten bei Mitwirkungsverweigerung (Abs. 2) und Kasuistik."
 tags: ["VwVG", "Mitwirkungspflicht", "Sachverhaltsermittlung", "Anwaltsgeheimnis", "Nichteintreten", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von Art. 13 VwVG, Umstellung aller Links auf entscheidsuche.ch, Einbürgerungspraxis (BGE 132 II 113; BGE 140 II 65), Anwaltsgeheimnis (Abs. 1bis, BGE 142 IV 207), Nichteintreten bei Verweigerung (BGE 108 V 229) und 10+ verifizierte Entscheide."
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Korrekturen"
   - date: 2026-06-28
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau"
 ---
 

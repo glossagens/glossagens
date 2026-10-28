@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 288a SchKG: Berechnung der Anfechtungsfristen, Hemmungstatbestände und Betreibungsdauer."
 tags: ["Rechtsprechung", "SchKG", "Fristberechnung", "Nachlassstundung", "Verdachtsperiode", "Hemmung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

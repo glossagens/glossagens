@@ -5,32 +5,26 @@ date: 2026-08-29
 lastmod: 2026-10-22
 description: "Kommentar zu Art. 83 AIG: Vorläufige Aufnahme bei Vollzugshindernissen — Unmöglichkeit, Unzulässigkeit (Non-Refoulement, BGer 2C_513/2025 zu trans Personen), Unzumutbarkeit, länderspezifische Praxis, kantonales Antragsrecht und Ausschlussgründe."
 tags: ["AIG", "Ausländerrecht", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Unzumutbarkeit", "Länderpraxis", "BVGer", "Non-Refoulement"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Präzisierung des Verhältnisses zwischen völkerrechtlicher Unzulässigkeit (Abs. 3) und humanitärer Unzumutbarkeit (Abs. 4); Verlinkung auf die verfassungsrechtliche Dachnorm Art. 25 BV (Länderspezifische Gefährdungslagen und Schwellenwerte) sowie Abgrenzung zu Art. 66d StGB."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Grundsatzentscheids BGer 2C_513/2025 vom 13.08.2026 (5er-Besetzung): Übertragung des BGE-152-I-157-Prüfschemas zum völkerrechtlichen Non-Refoulement (Art. 83 Abs. 3 AIG, Art. 3 EMRK, Art. 25 Abs. 3 BV) auf trans Personen; Anforderungen an die Substanziierung eines individuellen Verfolgungsrisikos bei allgemeiner Gewalt- und Diskriminierungslage im Herkunftsstaat sowie funktionelle Unzuständigkeit des BGer zur Statusanordnung (E. 1.5.4); Bereinigung der Randziffern N 1 bis N 39."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme der bundesverwaltungsgerichtlichen Praxis zu Äthiopien (BVGE 2011/25, Referenzurteil D-6630/2018, Tigray-Ausnahme, Erfordernis begünstigender Faktoren und Schutz alleinstehender Frauen) sowie Bereinigung der Randziffern N 1 bis N 38."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-083.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Erweiterung um ein eigenständiges Kapitel zur länderspezifischen Vollzugspraxis des Bundesverwaltungsgerichts (Syrien, Afghanistan, Eritrea, Irak, Sri Lanka, Somalia, Pakistan, Ukraine, Sudan)."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-07-27
 lastmod: "2026-08-29"
 description: "Übersicht der Rechtsprechung zu Art. 20 UVG — Höhe der Invalidenrente, Komplementärrente, Überentschädigung, Alterskürzung und versicherter Verdienst."
 tags: ["Rechtsprechung", "UVG", "Invalidenrente", "Komplementärrente", "versicherter Verdienst", "Alterskürzung"]
-agent_verified: false
 revisions:
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikationslauf gegen entscheidsuche.ch. Inhaltlich keine Beanstandung: BGE 149 V 129, 147 V 213, 145 V 75, 146 V 364, 130 V 39, 115 V 416, 119 V 484, 122 V 338, 122 V 343, 123 V 133, 124 V 301 und 126 V 506 existieren und decken die ihnen zugeschriebenen Aussagen. KORRIGIERT: 15 von 22 Erwaegungsankern zeigten ins Leere — Buchstaben-Erwaegungen aelterer BGE (#consideration_4.b, 3.c) sind auf entscheidsuche nur unter der Hauptnummer verankert, Top-Level-Anker brauchen den Schlusspunkt (#consideration_5.), und BGer-Dokumente tragen ueberhaupt keine consideration-Anker; letztere wurden entfernt. Saemtliche verbleibenden Anker sind maschinell gegen das Zieldokument geprueft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht: Aufnahme von Leitentscheiden (BGE 149 V 129, BGE 145 V 75, BGE 147 V 213, BGE 130 V 39, BGE 126 V 506, BGE 124 V 301, BGE 123 V 133, BGE 122 V 338, BGE 122 V 343, BGE 119 V 484, BGE 115 V 416) sowie kantonaler Urteile mit entscheidsuche.ch-Verlinkungen."
   - date: 2026-07-27
     by: "Glossagens Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterfassung der Rechtsprechungsübersicht zu Art. 20 UVG"
 ---
 

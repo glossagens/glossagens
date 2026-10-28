@@ -5,27 +5,22 @@ date: "2026-06-27"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht nach Einsprache: Überweisung, Gültigkeitsprüfung, Rückzug, Säumnisfiktion, Ungültigkeit, schriftliches Nebenfolgenverfahren, Konnexität"
 tags: ["StPO", "Strafbefehl", "Einsprache", "Gerichtsverfahren", "Säumnisfiktion", "Anklageschrift", "Rückzug", "Konnexität", "EGMR"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-356.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-20"
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Anreicherung gemäss /loop: Systematische Ausleuchtung aller Absätze 1–7, Verfeinerung der Säumnisdogmatik (BGer 6B_685/2025, BGE 146 IV 30, EGMR Nejjar), Vertiefung zu Konnexität und Urteilsausdehnung (BGE 148 IV 265, BGE 152 IV 14, BE BK 2021 197), Aufbereitung von 4 kantonalen Praxisfragen; Belege via check_claim_support geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung KW31 — BGer 6B_685/2025 (Säumnisfiktion Art. 356 Abs. 4 StPO) in rechtsprechung.md ergänzt; lastmod synchronisiert."
 ---
 

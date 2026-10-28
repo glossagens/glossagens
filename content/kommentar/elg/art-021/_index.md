@@ -5,7 +5,6 @@ date: 2026-07-16
 lastmod: "2026-08-10"
 description: "Kommentar zu Art. 21 ELG: Örtliche Zuständigkeit für Festsetzung und Auszahlung von Ergänzungsleistungen — Wohnsitzprinzip, Zusammenrechnung bei getrennten Elternteilen"
 tags: ["ELG", "ergänzungsleistungen", "zuständigkeit", "wohnort", "kinderrente", "zusammenrechnung"]
-agent_verified: true
 ---
 
 ## Wortlaut

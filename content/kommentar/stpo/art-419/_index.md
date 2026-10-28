@@ -5,22 +5,18 @@ date: 2026-10-04
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 419 StPO (SR 312.0): Kostenpflicht von Schuldunfähigen nach Billigkeitsgrundsätzen (Art. 54 Abs. 1 OR), Anwendungsbereich bei Einstellung, Freispruch und selbständigen Massnahmeverfahren, Abgrenzung zur Verhandlungsunfähigkeit, Anforderungen an wirtschaftliche Verhältnisse, Streit um schuldhaftes Vorverhalten, Korrelation zur Entschädigung (Art. 429 StPO)."
 tags: ["StPO", "Kostenpflicht", "Schuldunfähigkeit", "Billigkeitshaftung", "Massnahmen", "Verfahrenskosten", "Entschädigung", "Art. 54 OR"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung der Erfassung. Wortlaut (data/wortlaut/stpo/art-419.json, Fedlex Stand 2025-04-01) unverändert; Botschaft BBl 2006 1085, 1324 via opencaselaw get_article_purpose geprüft; alle zitierten Entscheide im Volltext (entscheidsuche.ch) abgeglichen, BGE 112 Ia 371 E. 2a und 115 Ia 111 über opencaselaw (die entscheidsuche-Links waren tot und wurden ersetzt). Korrigiert: Zuordnung von BGer 6B_505/2014 (betrifft Art. 54 OR) und 6B_1404/2016 (E. 2.2 betrifft Genugtuungszins, nicht die Korrelation; Rückweisung statt Aufhebung), Aussage zur bundesgerichtlichen Rechtsprechung (Frage zum schuldhaften Verhalten nicht entschieden, statt «mehrfach offengelassen»), Beträge und Quoten in AG SST.2022.157, Literaturangabe zur Botschaft (Art. 426 E-StPO), 6B_564/2018, 6B_1395/2017, KG VS P3 14 188, Selbstverweis auf Domeisen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-419.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 89 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage praxisorientiert — Gesetzestext via Fedlex get_article (SR 312.0 Art. 419), BGE 145 IV 94, BGer 6B_1404/2016, BGer 6B_1395/2017, BGer 6B_505/2014, BGer 6B_564/2018 sowie kantonale Entscheide (AG SST.2022.157, ZH SB210589, BS SB.2017.68, BS BES.2019.117, ZH SB210403, AG SST.2025.4, VS P3 14 188) im Volltext ausgewertet und verifiziert. Prüfschema, Gegenüberstellungstabelle, kantonale Praxisfragen und Praxishinweise."
 ---
 

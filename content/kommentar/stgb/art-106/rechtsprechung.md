@@ -5,27 +5,22 @@ date: 2026-06-13
 lastmod: "2026-09-29"
 description: "Übersicht der Rechtsprechung zu Art. 106 StGB — Busse: schuldhafte Nichtbezahlung, Vollzug und Umwandlung, Abgrenzung zum Verwaltungsstrafrecht, Verhältnismässigkeit bei Mittellosigkeit (Bettelei-Rechtsprechung) sowie Bemessungsgrundsätze und Verbindungsbusse."
 tags: ["Rechtsprechung", "StGB", "Busse", "Ersatzfreiheitsstrafe", "Verbindungsbusse", "Sanktionenrecht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-29
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Ergänzt um 15 Entscheide im Zuge des praxisorientierten Ausbaus des Hauptkommentars: BGer 6B_889/2022 (schuldhafte Nichtbezahlung), ZH VG VB.2022.00236/VB.2026.00140/VB.2011.00015/VB.2015.00696/VB.2024.00191 (Vollzugsvoraussetzungen), BGE 149 I 248 und BGE 152 I 38 (Bettelei-Rechtsprechung), BGE 141 IV 407 (Abgrenzung Art. 10 VStrR), BGE 134 IV 53 und BGE 135 IV 188 (Verbindungsbusse), 6B_773/2022, 6B_784/2022, 6B_498/2021 (überholte Praxis zur 20%-Berechnungsgrundlage), BE OG SK 2018 50 und UR OG 2016 S 14 (Bemessung). Alle Links via entscheidsuche.ch (search_by_case_number) verifiziert."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 5 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 146 IV 145 (Verbindungsbusse im Strafbefehl), BGE 149 IV 321 (20% Obergrenze), BGE 134 IV 60 (Geldstrafenbemessung), BGE 144 IV 136 (Steuerbusse, reformatio in peius), BGE 119 IV 330 (Verwaltungsstrafrechtliche Busse); fabrizierte und irrelevante Zitate entfernt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

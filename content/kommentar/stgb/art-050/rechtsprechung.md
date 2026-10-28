@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-10-17
 description: "Übersicht der Entscheide zur Begründungspflicht der Strafzumessung (Art. 50 StGB) — BGE, Bundesgerichtsentscheide und kantonale Praxis inkl. Kurzfassungen der tragenden Erwägungen."
 tags: ["Rechtsprechung", "Strafzumessung", "Begründungspflicht", "Art. 50 StGB"]
-agent_verified: true
 revisions:
   - date: 2026-10-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 6B_710/2025 v. 05.10.2026 (5er-Besetzung): Begründungsanforderungen bei Gesamtstrafen (Art. 49 StGB) und bei der Wahl zwischen vollem und teilweisem Strafaufschub (Art. 42/43 StGB); Strafartenwahl (Art. 41 StGB). Volltext via swiss-caselaw verifiziert."
   - date: 2026-09-11
     by: "Claude Code"
     model: "deepseek-v4-flash"
-    mcp_verified: true
     note: "Erstfassung Rechtsprechungsübersicht. Alle aufgelisteten Entscheide samt document_url maschinell geprüft: BGE und BGer via entscheidsuche.ch (search_by_case_number/fetch_document), der Anlass-Entscheid 6B_814/2025 v. 26.08.2026 via opencaselaw (get_decision, Volltext), weil er auf entscheidsuche.ch noch nicht indexiert ist (Verlinkung daher über die opencaselaw-Rückfallebene)."
 ---
 

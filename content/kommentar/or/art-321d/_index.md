@@ -5,27 +5,22 @@ date: 2026-09-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 321d OR entlang der Tatbestandsmerkmale: Weisungskompetenz, sachlicher Gegenstand (Arbeitsausführung und Betriebsverhalten), die drei Schranken (Vertrag, zwingendes Recht, Persönlichkeitsschutz nach Art. 328 OR) sowie die Befolgungspflicht nach Treu und Glauben mit Remonstrationsobliegenheit. Mit merkmalsbezogener Grenzkasuistik zu Impf- und Testweisungen, Dresscodes, IT-Überwachung, Versetzung und Änderungskündigung — und offengelegtem Streit über die Befolgungspflicht bei zweifelhafter Weisung."
 tags: ["OR", "Arbeitsrecht", "Weisungsrecht", "Direktionsrecht", "Persönlichkeitsschutz", "Fürsorgepflicht", "Befolgungspflicht", "Weisungsverweigerung", "Arbeitsverweigerung", "Versetzung", "Dresscode", "Überwachung", "ArGV 3", "Impfobligatorium", "fristlose Kündigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-321d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 90 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Umbau auf das Merkmalsraster nach Skill praxisorientierter-kommentar Abschnitt 3 (Fassung vom 04.09.2026, 15:09): Gliederung neu entlang der Tatbestandsmerkmale statt nach Lebensbereichen (Gesundheitsschutz / Dresscode / IT-Nutzung); die bisherigen Abschnitte C–E sind unter das Merkmal «Schranke des Persönlichkeitsschutzes» (Art. 328 OR) gehängt, nach betroffenem Persönlichkeitsgut geordnet. Prüfschema-Tabelle mit Beweislast je Merkmal als deckungsgleiches Inhaltsverzeichnis, jede Fallschilderung an das tragende Merkmal rückgebunden. Drei fehlerhafte Fundstellen korrigiert: BGer 4A_60/2026 und 4A_612/2025 waren auf einen Nicht-Standard-Host (opencaselaw.ch/bger/...) statt auf entscheidsuche.ch verlinkt, BGE 132 III 115 trug eine falsche Sammlungsnummer (CH_BGE_004 statt CH_BGE_005). BGE 132 III 115 E. 5.2 im Volltext nachgeprüft und als verifizierter Beleg in den Streitabschnitt zur Befolgungspflicht bei zweifelhafter Weisung aufgenommen."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar im Stil von Art. 336 OR und Art. 110 StPO: Gesetzeswortlaut verifiziert gegen Fedlex (SR 220, Stand 1. Januar 2026); systematische Kriterientabellen und Prüfschemata eingefügt; narrative Darstellung realer Lebenssachverhalte (BGer 4A_60/2026 und 4A_612/2025 zur Swiss-Flight-Attendant; BGer 4C.357/2002 zur weisungswidrigen Peking-Abreise; BGer 4A_613/2010 zur Heim-Stationsleiterin und Spendenablieferung; ZH OG LA150002 zur Logfile-Überwachung nach Inside-Paradeplatz-Beiträgen; ZH OG LA230021 zu Spuck-Tests und Gutglaubensschutz; ZH AGer-Z 2024 Nr. 1 zum Kündigungsgrund im Zeugnis; AG OG WKL.2017.8 zum unzulässigen Gutachten auf eigene Kosten und Offenlegung der Judikaturdivergenz bei Grenzfällen unklarer Weisungsrechtmässigkeit; AG OG WBE.2015.314 zur Abgrenzung von Versetzung und Änderungskündigung; BGE 130 II 425 zur GPS-Fahrzeugüberwachung; BGer 9C_301/2008 zu Dresscode und Swastika-Tattoos; BGer 4A_533/2018 zum Verbot einseitiger Überstundenkompensation). Volltexte über entscheidsuche.ch verifiziert und verbatim verlinkt."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstkommentierung mit Einarbeitung der Leitentscheide BGer 4A_60/2026 vom 30. Juni 2026 und BGer 4A_612/2025 vom 27. Mai 2026 (Zulässigkeit des Covid-19-Impfobligatoriums als Weisung). Gesetzeswortlaut verbatim aus Fedlex (SR 220, Stand 1. Januar 2026). Entscheide über entscheidsuche.ch belegt."
 ---
 

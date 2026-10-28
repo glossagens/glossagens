@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 20 OHG – Festsetzung der Entschädigung, Drittleistungsanrechnung, Einkommensgrenzen und Betragslimiten"
 tags: ["Rechtsprechung", "OHG", "Entschädigung", "Festsetzung", "Subsidiarität", "ELG"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 20 OHG mit 10 verifizierten Leitentscheiden und kantonalen Urteilen."
 ---
 

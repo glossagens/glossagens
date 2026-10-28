@@ -5,27 +5,22 @@ date: 2026-06-28
 lastmod: "2026-10-05"
 description: "Kommentar zu Art. 48 StGB: Strafmilderungsgründe — Achtenswerte Beweggründe und Bedrängnis (lit. a), Versuchung durch das Opfer (lit. b), Gemütsbewegung (lit. c), aufrichtige Reue (lit. d) und Zeitablauf (lit. e)."
 tags: ["StGB", "Strafmilderung", "Achtenswerte Beweggründe", "Bedrängnis", "Reue", "Zeitablauf", "Strafzumessung", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-05
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_326/2026 vom 27.08.2026 in lit. e-Abschnitt: Wohlverhalten als kumulative Voraussetzung; zwischenzeitliche Straftat (Art. 90 Abs. 2 SVG) schliesst Art. 48 lit. e StGB aus; wörtliches Zitat E. 6.3.1, Pinpoint via entscheidsuche verifiziert."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte Zitate entfernt (BGer 6B_776/2016 = Raub, BGer 6B_1056/2016 = fahrlässige KV, BGE 140 IV 150 = Betrug); unverifizierbare kantonale Zitate entfernt (ZH Obergericht SB180414/SB190089); Sachverhalte aus BGE 149 IV 217, BGE 129 IV 6, BGE 140 IV 145, BGE 143 IV 469 angereichert; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

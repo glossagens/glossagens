@@ -5,17 +5,14 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der massgebenden Entscheide zu Art. 56 ZPO – Gerichtliche Fragepflicht"
 tags: ["Rechtsprechung", "ZPO", "Fragepflicht", "Verhandlungsmaxime"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit: Alle BGE-, BGer- und kantonalen Entscheide (ZH, BL, SG, LU, TG) via entscheidsuche/swiss-caselaw verifiziert; Quellennachweise und Erwägungen mit Direktlinks versehen"
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuanlage; Belege gegen den Entscheidtext geprüft"
 ---
 

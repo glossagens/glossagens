@@ -5,27 +5,22 @@ date: 2026-06-13
 lastmod: "2026-09-29"
 description: "Praxisorientierter Kommentar zu Art. 106 StGB: Busse als Übertretungsstrafe und Verbindungsbusse. Bemessung, obligatorischer Ausspruch und Vollzugsvoraussetzungen der Ersatzfreiheitsstrafe, schuldhafte Nichtbezahlung nach Wegfall von aArt. 36 Abs. 3 StGB, verfassungsrechtliche Grenzen bei Mittellosigkeit (Bettelei-Rechtsprechung), Abgrenzung zum Verwaltungsstrafrecht (Art. 10 VStrR) sowie die 20 %-Obergrenze der Verbindungsbusse nach Art. 42 Abs. 4 StGB."
 tags: ["StGB", "Busse", "Ersatzfreiheitsstrafe", "Verbindungsbusse", "Übertretung", "Sanktionenrecht", "Allgemeiner Teil", "schuldhafte Nichtbezahlung", "Verwaltungsstrafrecht", "Bettelverbot", "Existenzminimum"]
-agent_verified: true
 revisions:
   - date: 2026-09-29
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau nach dem Stil-Leitfaden agent/skills/praxisorientierter-kommentar/SKILL.md (Referenzmuster Art. 110 StPO, Art. 336 OR): Prüfschema, Merkmalsgliederung mit Sachverhaltsschilderungen und Grenzkasuistik ergänzt. Neu eingearbeitet: BGer 6B_889/2022 (schuldhafte Nichtbezahlung nach Wegfall von aArt. 36 Abs. 3 StGB), ZH VB.2022.00236/VB.2026.00140/VB.2024.00191/VB.2011.00015/VB.2015.00696 (Vollzugsvoraussetzungen, Betreibungspflicht, Vollstreckungsverjährung), BGE 149 I 248 und BGE 152 I 38 (Verhältnismässigkeit der Ersatzfreiheitsstrafe bei Mittellosigkeit, EGMR Lăcătuş gegen Schweiz) samt offengelegter Spannung zu BGer 6B_889/2022, BGE 141 IV 407 (Abgrenzung zu Art. 10 VStrR), BGE 134 IV 53 und BGE 135 IV 188 (Verbindungsbusse) sowie die durch BGE 149 IV 321 beendete Judikaturdivergenz zur Bezugsgrösse der 20 %-Grenze (6B_773/2022, 6B_784/2022, 6B_498/2021). Literaturzuordnung BSK korrigiert (HEIMGARTNER statt FIOLKA, gemäss BGer 6B_889/2022 E. 2.3.3); Fedlex-Wortlaut erneut gegen Art. 106 StGB geprüft (unverändert seit 1.7.2023)."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte Zitate entfernt (BGer 6B_776/2016 = Raub, BGer 6B_1056/2016 = fahrlässige KV, BGE 140 IV 150 = Betrug); unverifizierbare kantonale Zitate entfernt (ZH Obergericht SB180414/SB190089); BGE 149 IV 321 (Verbindungsbusse 20% Obergrenze) ergänzt; BGE 119 IV 330 korrekt als Verwaltungsstrafrecht eingeordnet; Sachverhalte aus BGE 146 IV 145 und BGE 134 IV 60 angereichert; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

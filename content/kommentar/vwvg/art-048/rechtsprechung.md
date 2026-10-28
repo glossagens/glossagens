@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 48 VwVG — Beschwerdelegitimation, besondere Betroffenheit, Konkurrentenbeschwerde, Verbandsbeschwerde und Kasuistik."
 tags: ["Rechtsprechung", "VwVG", "Beschwerde", "Legitimation", "besondere Betroffenheit", "Verbandsbeschwerde", "Kasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und BGer-Entscheiden, vollständigen Sachverhalten zur Beschwerdelegitimation und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Korrekturen"
   - date: 2026-05-23
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

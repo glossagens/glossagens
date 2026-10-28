@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: 2026-08-29
 description: "Umfassende Rechtsprechungsübersicht zu Art. 70 StGB: Leitentscheide des Bundesgerichts und kantonale Urteile zu Bruttoprinzip, Nettoprinzip, Drittschutz, Schätzung, Solidaritätsverbot und Drittbeschlagnahmen."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Vermögensabschöpfung", "Bruttoprinzip", "Nettoprinzip", "Drittschutz", "Kasuistik", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechung mit über 18 verifizierten Leitentscheiden und weiteren Urteilen auf entscheidsuche.ch, inkl. BGer 7B_1425/2025 zur Unzulässigkeit von Drittbeschlagnahmen bei blossen wirtschaftlichen Verbindungen."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung externer Weblaw-Links; 10 verifizierte Bundesgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 52 ZPO — Handeln nach Treu und Glauben, Anfechtungsobliegenheit, Rechtsmissbrauchsverbot, venire contra factum proprium und Vertrauensschutz."
 tags: ["Rechtsprechung", "ZPO", "Treu und Glauben", "Rechtsmissbrauch", "Rechtsmittelbelehrung", "Kasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und Kantonalentscheiden, vollständigen Sachverhalten zur Treuepflicht und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 15 %, Urteil C)"
 ---
 

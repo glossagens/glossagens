@@ -5,17 +5,14 @@ date: 2026-09-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 108 ZPO — Unnötige Prozesskosten: Verursacherprinzip, Drittbetroffenheit, vorwerfbares Verhalten, prozessuale Anwendungsfaelle, Verhaeltnis zu Art. 106-107 ZPO."
 tags: ["ZPO", "Unnöige Prozesskosten", "Verursacherprinzip", "Kostenverteilung", "Kostenauflage", "Drittbetroffenheit", "Prozesskosten", "Kostenrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-108.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 82 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Ersterstellung als Praxiskommentar; 4 BGEs via entscheidsuche verifiziert und verlinkt; Gesetzestext via Fedlex MCP geprüft (SR 272, Stand 2026-07-01)."
 ---
 

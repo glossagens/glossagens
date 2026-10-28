@@ -5,17 +5,14 @@ date: 2026-09-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 75 AIG (Vorbereitungshaft): Systematik, Prüfschema, Abgrenzung zur Ausschaffungs- und Dublin-Haft, Kasuistik zu den Haftgründen (lit. a–i), zweiseitige Grenzkasuistik und Praxishinweise."
 tags: ["AIG", "Ausländerrecht", "Zwangsmassnahmen", "Vorbereitungshaft", "Ausschaffungshaft", "Asylverfahren", "Freiheitsentzug"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-075.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentar im praxisorientierten Stil gemäss Skill praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR); Gesetzestext via Fedlex SR 142.20; Entscheide maschinell via entscheidsuche.ch und opencaselaw verifiziert."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 260 SchKG: Abtretung von Rechtsansprüchen der Masse, Prozessstandschaft, Streitgenossenschaft und Kognition des Sachgerichts."
 tags: ["Rechtsprechung", "SchKG", "Abtretung", "Prozessstandschaft", "Verantwortlichkeit", "Streitgenossenschaft", "Kognition"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

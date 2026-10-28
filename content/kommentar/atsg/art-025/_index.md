@@ -5,22 +5,18 @@ date: 2026-06-12
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 25 ATSG: Rückerstattung unrechtmässig bezogener Leistungen und Beiträge, Wiedererwägungsvorbehalt (Art. 53 Abs. 2 ATSG) vs. formlose Leistungen, Erlassvoraussetzungen (guter Glaube und grosse Härte nach Art. 4 f. ATSV), Verwirkungsfristen (Praxisänderung BGE 150 V 305 zum Fristbeginn, zweiter Anlass nach BGE 148 V 217, Revision 2021), längere strafrechtliche Verjährung unter in dubio pro reo (BGE 138 V 74) sowie Beitragsrückerstattung (BGE 149 V 21, BGE 138 V 463)."
 tags: ["ATSG", "Rückerstattung", "Erlass", "Guter Glaube", "Grosse Härte", "Verwirkung", "Praxisänderung", "Zweiter Anlass", "Strafbare Handlung", "Beitragsrückerstattung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-025.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO und Art. 336 OR: Dogmatisches Prüfschema, Praxisänderung BGE 150 V 305, zweiter Anlass BGE 148 V 217 und BGE 146 V 217, Kasuistik guter Glaube BGE 138 V 218 und BGE 112 V 97, strafrechtliche Verjährung BGE 138 V 74, Beitragsrückforderung BGE 149 V 21 und BGE 138 V 463, kantonale Praxisfragen sowie adressatenbezogene Praxishinweise. Volltexte über entscheidsuche.ch und Fedlex geprüft."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 

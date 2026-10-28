@@ -5,7 +5,6 @@ date: 2026-07-17
 lastmod: 2026-09-25
 description: "Übersicht der Rechtsprechung zu Art. 369 StPO: Leitentscheide des Bundesgerichts sowie Praxisentscheide kantonaler Gerichte zum Verfahren der neuen Beurteilung, zur resolutiv bedingten Rechtskraft, zur Sicherheitshaft, zur Verwirkung und zum Rechtsweg."
 tags: ["Rechtsprechung", "StPO", "neue Beurteilung", "Abwesenheitsurteil", "Sicherheitshaft", "Verwirkung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide des Bundesgerichts

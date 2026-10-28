@@ -5,22 +5,18 @@ date: 2026-09-01
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 5 RPG: Mehrwertabgabe bei Neueinzonungen (mind. 20 %), Vorteilsausgleich bei Um- und Aufzonungen, Mittelverwendung, Freibeträge und Entschädigung bei materieller Enteignung."
 tags: ["RPG", "Raumplanung", "Mehrwertabgabe", "Planungsmehrwert", "Materielle Enteignung", "Einzonung", "Fälligkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 1C_571/2025 vom 15.09.2026 zur Abgrenzung zwischen Nichteinzonung und Auszonung bei Altnutzungsplänen ohne RPG-Konformitätsvermutung (Art. 5 Abs. 2 RPG)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 700 vom 2026-07-01 (data/wortlaut/rpg/art-005.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 5 RPG unter Berücksichtigung der Revision vom 29. September 2023 (in Kraft seit 1. Januar 2026); Einarbeitung von BGE 147 I 225, BGE 122 II 455 und BGer 1C_513/2025."
 ---
 

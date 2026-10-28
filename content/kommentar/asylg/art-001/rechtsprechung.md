@@ -5,7 +5,6 @@ date: 2026-06-08
 lastmod: 2026-06-08
 description: "Übersicht der massgeblichen Entscheide zu Art. 1 AsylG — Gegenstandbestimmung, Asylgewährung, vorübergehender Schutz"
 tags: ["Rechtsprechung", "AsylG", "Asylgewährung", "Flüchtlingseigenschaft", "Vorübergehender Schutz"]
-agent_verified: false
 ---
 
 ## I. Asylgewährung und Flüchtlingsrechtsstellung (lit. a)

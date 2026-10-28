@@ -5,37 +5,30 @@ date: 2026-08-29
 lastmod: 2026-10-22
 description: "Praxiskommentar zu Art. 66d StGB: Aufschub des Vollzugs der obligatorischen Landesverweisung — funktionelle Kompetenzabgrenzung, materielle Rechtskraftsperre bei Alttatsachen, flüchtlingsrechtliches und menschenrechtliches Non-Refoulement, Ausschluss von Art. 8 EMRK, Paposhvili-Medizinschwelle und sichere Herkunftsstaaten."
 tags: ["StGB", "Landesverweisung", "Vollzug", "Aufschub", "Non-Refoulement", "Flüchtlingsrecht", "EMRK", "Jus Cogens", "Paposhvili", "Rechtskraftsperre", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von Querverweisen auf Art. 25 BV (Länderspezifische Gefährdungslagen und Schwellenwerte) in Abschnitt E (Jus Cogens) und Abschnitt H (Safe Countries); Verdeutlichung des gesetzlichen Ausschlusses der humanitären Zumutbarkeitsprüfung nach Art. 83 Abs. 4 AIG bei strafrechtlich Landesverwiesenen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-066d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung der Rechtsprechung um BGer 6B_438/2024: Erstanwendung des EGMR-Grundsatzes M.I. (sexuelle Orientierung als fundamentaler Identitätsbestandteil) auf die strafrechtliche Landesverweisung nach Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK. Verifiziert gegen den Volltext auf entscheidsuche.ch."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Ausbau zum Praxiskommentar: Vollständiges Prüfschema, Aufarbeitung des Judikaturkonflikts zu Art. 8 EMRK (BGer 7B_1022/2024 vs. BGer 7B_594/2024 [zur Publ. bestimmt] und 7B_376/2025), Einarbeitung der materiellen Rechtskraftsperre bei Alttatsachen (BGer 7B_303/2026, 5er-Besetzung), plastische Grenzkasuistik (u.a. ZH VG VB.2024.00429, VB.2024.00625, VB.2026.00159), strukturierte Vergleichstabellen und adressatenbezogene Praxishinweise. Sämtliche Entscheide und Zitate gegen die Volltexte auf entscheidsuche.ch verifiziert."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Einarbeitung der Leitentscheide BGer 7B_594/2024 und 7B_376/2025."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstfassung des Kommentars."
 ---
 

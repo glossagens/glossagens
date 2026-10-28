@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 4 StHG (SR 642.14) — Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit, Betriebsstättenbegriff und Franchiseverträge (Shell), Liegenschaftssteuerdomizil, Schuldzinsenausscheidung, Grundstückshandel vs. Maklerprovisionen, physische Anwesenheit und internationale Telearbeit sowie Quellenbesteuerung von Vorsorgeleistungen."
 tags: ["Rechtsprechung", "StHG", "wirtschaftliche Zugehörigkeit", "beschränkte Steuerpflicht", "Betriebsstätte", "Liegenschaften", "Liegenschaftshandel", "Maklerprovision", "Quellensteuer", "Telearbeit", "Vorsorgeleistungen"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 4 StHG mit 11 geprüften Leitentscheiden und kantonalen Urteilen. URLs via entscheidsuche.ch verifiziert."
 ---
 

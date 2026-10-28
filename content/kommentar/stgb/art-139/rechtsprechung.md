@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: "2026-09-05"
 description: "Übersicht der Rechtsprechung zu Art. 139 StGB — Diebstahl: Gewahrsamsbegriff, Mitgewahrsam, Diebstahl vs. Veruntreuung, Gewerbsmässigkeit, Bandenbegriff, gefährliche Waffen, Antragsdelikt."
 tags: ["Rechtsprechung", "StGB", "Diebstahl", "Vermögensdelikt", "Gewahrsamsbruch", "Mitgewahrsam", "Gewerbsmässigkeit", "Bande", "Waffe", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 9 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 132 IV 108 (Gewahrsamsbegriff), BGE 135 IV 158 (Bandenbegriff), BGE 123 IV 113 (Gewerbsmässigkeit), BGE 129 IV 223 (Bereicherungsabsicht), BGE 118 IV 142 (gefährliche Waffe), BGer 6B_1360/2019 (Mitgewahrsam, Diebstahl vs. Veruntreuung), BGer 6B_100/2012 (Drehtür-Fall), BGer 7B_291/2022 (Diebstahlsbegriff), BGE 147 IV 176 (Gewerbsmässigkeit); alle Links auf entscheidsuche.ch geprüft"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung der bestehenden BGE-Einträge; Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,22 +5,18 @@ date: 2026-08-30
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 222 StPO: Exklusive Beschwerdelegitimation der verhafteten Person, Ausschluss der Staatsanwaltschaft (BGE 149 IV 135) und Dritter, Anfechtungsobjekte, 10-Tage-Frist, unbeschränktes Novenrecht, Überhaftprüfung und Praxishinweise."
 tags: ["StPO", "Haft", "Beschwerde", "Haftentscheid", "Untersuchungshaft", "Sicherheitshaft", "Zwangsmassnahmengericht", "Legitimation", "Novenrecht", "Überhaft", "Ersatzmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-222.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (Benchmark Art. 110 StPO): Bereinigung unzutreffender Zitate, Einarbeitung der Praxisänderung gemäss BGE 149 IV 135 sowie BGer 7B_238/2025, BGer 1B_7/2013, BGer 1B_51/2015, BGE 145 IV 179, BGE 150 IV 239; Merkmalsraster, Kasuistik mit Lebenssachverhalten (angewandt vs. verworfen), Vergleichstabellen, kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung zu Art. 222 StPO."
 ---
 

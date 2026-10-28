@@ -5,17 +5,14 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 6 KG: Ermächtigung von Bundesrat und WEKO, Regelfälle der Effizienzrechtfertigung (Art. 5 Abs. 2 KG) durch Verordnungen und allgemeine Bekanntmachungen zu umschreiben; geltende Instrumente (Vertikalbekanntmachung 2022, KMU-Bekanntmachung, Kalkulationshilfen, KFZ-Verordnung), Rechtsnatur und Verbindlichkeit, analoge Anwendung auf die Erheblichkeitsprüfung, Beweislast und Substanziierung sowie Kasuistik zur Effizienzrechtfertigung."
 tags: ["KG", "Kartellrecht", "Wettbewerbsabreden", "Effizienzrechtfertigung", "Bekanntmachung", "Vertikalbekanntmachung", "KMU-Bekanntmachung", "Kalkulationshilfen", "KFZ-Verordnung", "Verwaltungsverordnung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 251 vom 2023-07-01 (data/wortlaut/kg/art-006.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Erstkommentierung nach dem Standard für praxisorientierte Kommentare (Muster Art. 110 StPO / Art. 336 OR). Gesetzeswortlaut und KFZ-Verordnung über die Fedlex-MCP; Entscheide im Volltext über entscheidsuche.ch (BGE 129 II 18, 139 I 72, 143 II 297, 144 II 246, 147 II 72; BGer 2C_442/2023; BVGer B-141/2012, B-844/2015, B-4037/2007, B-8115/2008; WEKO Stöckli Ski; ZH HG HE140256, HE250025, HG180172); Bekanntmachungstexte (VertBek 2022, KMU-Bek, Kalkulationshilfen-Bek, Homologation/Sponsoring) im Volltext von weko.admin.ch. Audit-Lauf (audit.py) am 2026-10-15: Gesetzeswortlaut korrekt, keine Pinpoint-Fehler; Grounding-Stufe mit Judge-Subagenten nach Umbau der gebündelten Belege: 75 gestützt, 5 teilweise, 0 negativ von 85 beurteilten Paaren (Belegquote 91 %, Urteil A, offen 0); die 19 «halluziniert»-Meldungen betreffen blosse Pinpoint-Linktexte bzw. die WEKO-Verfügung und sind Parser-Artefakte, Verbatim-Stufe mangels Erwägungstext bei opencaselaw nicht entscheidend (alle «…»-Zitate separat gegen die heruntergeladenen Volltexte abgeglichen). Die Verbatim-Lücke des Harness ist bewusst offengelegt; mcp_verified wurde auf ausdrückliche Anweisung des Benutzers gesetzt."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-05-31
 lastmod: "2026-09-25"
 description: "Übersicht der massgebenden Rechtsprechung des Bundesgerichts zu Art. 89 BGG (Beschwerderecht in öffentlich-rechtlichen Angelegenheiten, Individuallegitimation, Gemeinwesenlegitimation und ideelle Verbandsbeschwerde)."
 tags: ["Rechtsprechung", "BGG", "Beschwerderecht", "Beschwerdelegitimation", "Verbandsbeschwerde"]
-agent_verified: true
 revisions:
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "BGer-Update: Grundsatzentscheid BGer 2C_46/2025 (5er-Besetzung, zur Publikation als BGE vorgesehen) zur ideellen Verbandsbeschwerde nach Art. 89 Abs. 2 lit. d BGG i.V.m. Art. 12 NHG aufgenommen."
 ---
 

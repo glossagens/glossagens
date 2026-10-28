@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 213 SchKG: Verrechnung im Konkurs, zeitliche Schranken, Rechtsgrund vor Konkurseröffnung und Verrechnungsverbote."
 tags: ["Rechtsprechung", "SchKG", "Verrechnung", "Konkurseröffnung", "Rechtsgrund", "Mietvertrag", "Einlageschulden"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

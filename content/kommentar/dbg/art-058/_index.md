@@ -5,17 +5,14 @@ date: 2026-09-28
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 58 Abs. 1 lit. b DBG — Geschäftsmässig begründeter Aufwand bei juristischen Personen: kaufmännische Angemessenheit, Normentheorie und Beweislast, fingierte Rechnungen, verdeckte Gewinnausschüttungen, Zuwendungen an Dritte, Art. 645 OR bei werdenden Gesellschaften, Aufrechnungspraxis im Bausektor, Suva-Revisionsunterlagen als Beweismittel. Mit Grenzkasuistik und Praxishinweisen."
 tags: ["DBG", "Direkte Bundessteuer", "geschäftsmässig begründeter Aufwand", "verdeckte Gewinnausschüttung", "Normentheorie", "Beweislast", "fingierte Rechnungen", "Aufrechnung", "Art. 645 OR", "Bausektor"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 642.11 vom 2026-09-02 (data/wortlaut/dbg/art-058.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-28 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-28
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung praxisorientiert — Gesetzestext via Fedlex get_article (SR 642.11 Art. 58), Entscheide via entscheidsuche fetch_document und search_by_case_number verifiziert. Auslösender Entscheid 9C_604/2025. Belege gegen den Entscheidtext geprüft."
 ---
 

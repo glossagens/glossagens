@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 329 StPO (Prüfung der Anklage, Rückweisung, Sistierung und gerichtliche Verfahrenseinstellung)."
 tags: ["Rechtsprechung", "StPO", "Hauptverfahren", "Anklageprüfung", "Sistierung", "Rückweisung", "Verfahrenseinstellung"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Rechtsprechungsübersicht mit 14 verifizierten Bundesgerichts- und kantonalen Entscheiden zu Art. 329 StPO."
 ---
 

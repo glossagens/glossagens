@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-09-23
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 83 BGG: Leitentscheide des Bundesgerichts und weitere Urteile zu den Ausnahmebereichen — Grundsatz der Einheit des Verfahrens, Star-Praxis, Beschaffungen, öffentlich-rechtliche Arbeitsverhältnisse, Prüfungsentscheide, Asyl- (inkl. BGer 2C_395/2026) und Ausländerrecht."
 tags: ["Rechtsprechung", "BGG", "Beschwerdeunzulässigkeit", "Ausnahmekatalog", "Einheit des Verfahrens", "Star-Praxis", "Status S"]
-agent_verified: true
 revisions:
   - date: 2026-09-23
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsseite: Umstellung auf das standardisierte Format mit detaillierten Abstracts zu Sachverhalt und Kernaussagen. Neuaufnahme von BGer 2C_395/2026 vom 10.09.2026 (Status S / Einheit des Verfahrens / Aufsichtsanzeige nach Art. 30 Abs. 2 BGG analog), BGer 1C_277/2023 (Disziplinarverweis gegen Kantonsgerichtspräsidenten / lit. g) und BGer 2C_384/2025. Verlinkung über entscheidsuche.ch."
   - date: 2026-06-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: false
     note: "Erstfassung der Rechtsprechungsseite in Tabellenform"
 ---
 

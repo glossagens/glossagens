@@ -5,17 +5,14 @@ date: 2026-06-06
 lastmod: 2026-10-16
 description: "Übersicht der Rechtsprechung zu Art. 337c OR — Schadenersatz, Anrechnung und Entschädigung bei ungerechtfertigter fristloser Entlassung."
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "fristlose Entlassung", "Schadenersatz", "Billigkeitsentschädigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht nach dem Standard von Art. 110 StPO und Art. 336 OR: 15 dokumentierte und im Volltext geprüfte Entscheide (8 Leitentscheide BGE, 7 weitere Bundesgerichts- und kantonale Entscheide). Sämtliche Links auf entscheidsuche.ch aktualisiert und verifiziert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 42 % (Urteil C); 2 gestützt (+1 teilw.) von 6 beurteilten Paaren (6 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

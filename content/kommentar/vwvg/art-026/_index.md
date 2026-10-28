@@ -5,17 +5,14 @@ date: 2026-06-28
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 26 VwVG – Anspruch der Partei auf Akteneinsicht im Verwaltungsverfahren"
 tags: ["VwVG", "Akteneinsicht", "Verwaltungsverfahren", "rechtliches Gehör", "Akten", "Verfahrensrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-026.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B, 60%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Wortlaut-Flag zu Abs. 1bis-Fussnote ist kosmetisch (Text identisch, nur als separate Fussnote statt inline formatiert). Pinpoint für BGE 132 II 485 von unspezifischem E. 3 auf E. 3.2 (die tatsächlich einschlägige Erwägung) korrigiert; mehrere Zitate mit plain-text-Pinpoints (BGE 115 V 297, BGE 127 V 431) auf URL-Anker umgestellt (Pinpoint-Bleed-Over behoben). BGE 127 V 431 E. 3, BGE 132 II 485 E. 3.2: Kernaussagen bestätigt korrekt. 1C_678/2023, 8C_319/2010, 2C_242/2025 waren mit unzutreffender Kernaussage zitiert (falsche Rechtsgrundlage bzw. falsches Thema) -- an die tatsächlichen Erwägungen angepasst. Fehlender revisions-Eintrag der ursprünglichen Fassung nicht rekonstruierbar; Ursprungsdatum 2026-06-28 aus Frontmatter übernommen."
 ---
 

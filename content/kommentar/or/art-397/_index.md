@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 397 OR — Weisungsgebundenheit des Beauftragten, Voraussetzungen des berechtigten Abweichens (Untunlichkeit und mutmasslicher Wille) und Nachteilsübernahme nach Abs. 2."
 tags: ["OR", "Auftragsrecht", "Weisungen", "Weisungsbefugnis", "Nachteilsübernahme", "Beauftragter", "Auftraggeber"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Dogmatik auf den authentischen Fedlex-Wortlaut (Abs. 1: Untunlichkeit und mutmasslicher Wille; Abs. 2: Nachteilsübernahme) umgestellt; Scheinbegriffe (Anzeige-/Begründungspflicht) bereinigt; Bundesgerichtspraxis (BGE 108 II 197, BGE 144 III 43, BGE 124 III 253, BGer 4C.471/2004, BGer 4A_659/2020) und kantonale Entscheide direkt verlinkt; 2 Praxisfragen ergänzt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-397.json), inkl. Fussnoten."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Keine Belegpaare vorhanden (Paare: 0); Wortlaut: korrekt."
 ---
 

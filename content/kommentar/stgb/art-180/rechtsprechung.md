@@ -5,22 +5,18 @@ date: 2026-08-30
 lastmod: "2026-09-21"
 description: "Übersicht der Rechtsprechung zu Art. 180 StGB — Drohung: schwere Drohung, objektiver Massstab, Gesamtwürdigung der Umstände, Taterfolg und Verlust des Sicherheitsgefühls, versuchte Drohung (auch bei Suiziddrohung), Konkubinat auf unbestimmte Zeit bei Offizialdelikten (Abs. 2), Konkurrenzen zu Körperverletzung und Nötigung sowie kantonale Gerichtspraxis."
 tags: ["Rechtsprechung", "StGB", "Drohung", "Schwere Drohung", "Versuchte Drohung", "Häusliche Gewalt", "Besonderer Teil", "Konkubinat", "Konkurrenzen"]
-agent_verified: false
 revisions:
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht gemäss praxisorientierter-kommentar/SKILL.md: Aufnahme von 19 verifizierten BGE-, BGer- und kantonalen Entscheiden via entscheidsuche.ch; Leitentscheide BGE 99 IV 212, BGE 141 IV 1, BGE 143 IV 104, BGE 137 IV 258; BGer 6B_621/2024 (Konkubinat auf unbestimmte Zeit gemäss Abs. 2 lit. b); BGer 6B_1193/2021 (Konkurrenz zu Art. 123 Ziff. 2 StGB); BGer 6B_1017/2019 (Freispruch, Schiebemesser vorzeigen gegen Türsteher); BGer 6B_192/2012 (versuchte Drohung bei Suizidankündigung); kantonale Urteile aus Bern (BK 2021 255, BK 2020 485), Thurgau (RBOG 2025 Nr. 25) und Zürich (SB160469, SB160346); Korrektur der BGE 99 IV 212 URL auf entscheidsuche.ch."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 9 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 99 IV 212 (Leitentscheid: objektive Eignung, Gesamtwürdigung), BGE 141 IV 1 (juristische Person, Geschädigteneigenschaft), BGer 6P-86/2005 (gezielter Terror = schwere Drohung), BGer 6S-53/2001 (psychisch fertig machen = keine schwere Drohung), BGer 6B_1121/2013 (mehrfache Drohungen im Ehekonflikt), BGer 6B_351/2007 (Ohrring ausreissen gegen Ex-Behördenmitglied), BGer 6B_1282/2016 (versuchte Drohung), BGer 6B_1219/2018 (Baseballschläger); Abgrenzung schwere vs. nicht schwere Drohung mit konkreten Sachverhalten; BGE 137 IV 258 (Abgrenzung Friedensbürgschaft) beibehalten; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 3 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 99 IV 212 (objektive Eignung, Gesamtwürdigung), BGE 141 IV 1 (juristische Person, Geschädigteneigenschaft), BGE 137 IV 258 (Abgrenzung Friedensbürgschaft); fabrizierte und irrelevante Zitate entfernt"
 ---
 

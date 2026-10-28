@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 4 BGBB (SR 211.412.11): Geltungsbereich der Sondernormen für landwirtschaftliche Gewerbe (Abs. 1), Einbezug von Mehrheitsbeteiligungen an juristischen Personen (Abs. 2), Ausnahmen für abgetrennte Grundstücke (Abs. 3). Leitentscheide BGE 140 II 233 (juristische Personen, Anteilsveräusserung), BGE 129 III 693 (Begriff des landwirtschaftlichen Gewerbes), BGE 134 III 1 (Zugrecht des Erben)."
 tags: ["BGBB", "landwirtschaftliches Gewerbe", "juristische Person", "Bewilligungspflicht", "Vorkaufsrecht", "Erbenzuweisung", "Zupachtland"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.11 vom 2014-01-01 (data/wortlaut/bgbb/art-004.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 211.412.11 Art. 4), Leading Cases (BGE 140 II 233, BGE 129 III 693, BGE 134 III 1, BGE 125 III 175) via OCL verifiziert."
 ---
 

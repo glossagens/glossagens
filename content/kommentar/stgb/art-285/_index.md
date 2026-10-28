@@ -5,22 +5,18 @@ date: 2026-07-03
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 285 StGB: Gewalt und Drohung gegen Behörden und Beamte — Tatbestandsmerkmale der Hinderung, Nötigung und tätlichen Angriffs (Ziff. 1), Gleichstellung von Transport- und Sicherheitsorganen sowie Qualifikationen bei Zusammenrottung (Ziff. 2)."
 tags: ["StGB", "Gewalt gegen Beamte", "Drohung", "Amtshandlung", "Beamtenbegriff", "Zusammenrottung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung: BGE 98 IV 41 (Zusammenrottung, rechtswidrige Amtshandlung), BGer 6B_780/2021 (Drohungsschwelle: «Sauhaufen ausmisten»), BGer 6B_891/2010 (Drohung gegen Lehrer, Schulbetrieb als Amtshandlung), ZH Obergericht UE220282 (Freispruch mangels Drohungsintensität), BGE 133 IV 97 (Flucht vor Kontrolle keine Hinderung), BGE 124 IV 127 (rechtswidrige Amtshandlung), BGE 107 IV 113 (Spezialität gegenüber Art. 181), BGE 120 IV 136 (passive Widersetzlichkeit reicht nicht); BGE 140 IV 150 entfernt (Betrug, nicht Art. 285), BGer 6B_776/2016 entfernt (Raub), BGer 6B_1056/2016 entfernt (fahrlässige KV), ZH Obergericht SB180414/SB190089 entfernt (unverifizierbar); alle Links durch entscheidsuche.ch ersetzt; Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Blockquote-Wortlautstruktur und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Leitentscheide des Bundesgerichts und ausgewählter kantonaler Gerichtsentscheide zur Arbeitgeberhaftung und subsidiären Organhaftung nach Art. 52 AHVG."
 tags: ["Rechtsprechung", "AHVG", "Organhaftung", "Arbeitgeberhaftung", "Verwaltungsrat", "Verjährung", "Schadenersatz"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Systematische Aufbereitung von 9 Leitentscheiden (BGE) und 10 weiteren Bundesgerichts- und kantonalen Entscheiden zur Organhaftung nach Art. 52 AHVG. Sämtliche Urteile im Volltext über entscheidsuche.ch gesichtet, Erwägungen und Abstracts präzise nachgeführt und verlinkt."
 ---
 

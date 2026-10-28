@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 289 SchKG: Gerichtsstand, Konkursausnahme des Lugano-Übereinkommens und vorsorgliche Massnahmen."
 tags: ["Rechtsprechung", "SchKG", "Gerichtsstand", "Zuständigkeit", "Lugano-Übereinkommen", "Konkursausnahme", "Vorsorgliche Massnahmen"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

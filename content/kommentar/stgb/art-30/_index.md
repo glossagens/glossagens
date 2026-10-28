@@ -5,17 +5,14 @@ date: 2026-09-09
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 30 StGB: Antragsberechtigung bei Antragsdelikten — Träger des geschützten Rechtsguts, dingliche und obligatorische Berechtigte (Miete, Leihe, Besitz), Vertretung im Willen bei Vermögensdelikten und juristischen Personen, Handlungsunfähigkeit und KESB, urteilsfähige Minderjährige bei Elternkonflikt, Übergang auf Angehörige bei Tod sowie Endgültigkeit und Nichtigkeit des Verzichts."
 tags: ["StGB", "Strafantrag", "Antragsberechtigung", "Verletzter", "Geschädigter", "Handlungsunfähigkeit", "Urteilsfähigkeit", "Minderjährige", "KESB", "Erwachsenenschutz", "Angehörige", "Verzicht", "Stellvertretung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-30.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als Praxiskommentar gemäss Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR). Normtext verbatim aus Fedlex (SR 311.0, Stand 12. Juni 2026). Sämtliche Entscheide im Volltext über entscheidsuche.ch gesichtet und verifiziert: BGE 144 IV 49, BGE 142 IV 82, BGE 145 IV 190, BGE 147 IV 199, BGE 130 IV 97, BGE 122 IV 207, BGE 121 IV 258, BGE 118 IV 209, BGE 118 IV 167, BGE 117 IV 437, BGE 115 IV 1, BGer 7B_110/2025, BGer 6B_295/2020, BGer 6B_334/2012, BGer 6S.56/2005 sowie kantonale Entscheide aus SG (ST.2018.133, AK.2023.252-AK), AG (SBK.2025.339) und ZH (UE220295)."
 ---
 

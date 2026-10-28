@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 390 StPO – Schriftliches Verfahren im Rechtsmittelverfahren: Schriftenwechsel, unbedingtes Replikrecht, Zirkularbeschlüsse und Verhandlungsanordnung."
 tags: ["Rechtsprechung", "StPO", "schriftliches Verfahren", "Schriftenwechsel", "Replikrecht", "Zirkularweg", "Rechtsmittelverfahren", "Beschwerde"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 390 StPO mit 20 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 

@@ -5,27 +5,22 @@ date: 2026-09-05
 lastmod: 2026-10-01
 description: "Rechtsprechungssammlung zu Art. 90 SVG: Leitentscheide des Bundesgerichts und kantonale Praxis zu einfacher, grober und qualifiziert grober Verkehrsregelverletzung (Raserparagraf), Geschwindigkeitsschwellenwerten, Rechtsüberholen, Abstandsdelikten, Rotlicht, Vorsatzentkopplung und Ersttäterprivileg (Abs. 3ter)."
 tags: ["Rechtsprechung", "SVG", "Verkehrsregelverletzung", "Raser", "Eventualvorsatz", "qualifizierte grobe Verkehrsregelverletzung", "Ersttäterprivileg", "Strafzumessung", "Rechtsüberholen", "Abstand", "Rotlicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergaenzung BGer 7B_497/2025 (Bahnuebergang, unbewusste Fahrlaessigkeit, Verbindungsbusse, Verschuldens-Strafmass-Kongruenz). Belege via OCL get_erwaegung geprueft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau; 10 BGEs + 5 BGer-Entscheide + 5 kantonale Entscheide via entscheidsuche verifiziert und verlinkt."
   - date: 2026-09-06
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: opencaselaw-Link auf BGer 6B_938/2025 durch entscheidsuche-URL ersetzt; Ergänzung der zentralen Abgrenzungs-Leitentscheide (BGE 142 IV 93, BGE 148 IV 374, BGE 131 IV 133, BGE 124 II 259, BGer 6B_324/2012) und kantonaler Kasuistik (SG VWEK IV-2014/97, FR TC 501 2017 175)."
   - date: 2026-09-12
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung BGer 6B_772/2025 (Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg nach Abs. 3ter SVG aus)."
 ---
 

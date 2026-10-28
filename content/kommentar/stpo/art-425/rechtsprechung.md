@@ -5,17 +5,14 @@ date: 2026-10-05
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 425 StPO: Stundung, Herabsetzung und Erlass von Verfahrenskosten, Resozialisierungsgedanke, Schwellenwert der Mittellosigkeit, Begründungspflicht der Sachgerichte (BGer 6B_794/2024), Verbot der Gläubigerprivilegierung und kantonale Zuständigkeiten."
 tags: ["Rechtsprechung", "StPO", "Verfahrenskosten", "Kostenerlass", "Stundung", "Ratenzahlung", "Resozialisierung", "Mittellosigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex (Art. 442). Korrigiert: BGE 145 IV 268 war fälschlich als Beleg für Zweck und Entstehung von Art. 425 zitiert (der Entscheid betrifft Art. 418/433 StPO) – ersetzt durch BGer 6B_794/2024 E. 2.1.6; nicht verifizierbare Botschaftsangabe («Art. 432 E-StPO, S. 1327 f.») entfernt; BGer 6B_794/2024 nur teilweise gutgeheissen (Dispositiv-Ziffern 7–9, Rückweisung); Zuständigkeitsabschnitt entdramatisiert («Judikaturdivergenz» → kantonale Unterschiede; Quelle: OGer SH 60/2022/48 E. 2) und Tabelle auf belegte Angaben beschränkt (u.a. ZH: Rekurs, nicht Verwaltungsgericht); BGer 6B_284/2021 betrifft den Kanton Freiburg; Aargauer Praxis nach BGer 6B_821/2022 (Nichteintreten) präzisiert; tote Links WBE.2022.417 und KD200005 berichtigt. Botschaft BBl 2006 1085 nicht direkt abrufbar."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Vollständige Rechtsprechungsübersicht mit 14 strukturierten Entscheiden zu Art. 425 StPO (5 Leitentscheide des Bundesgerichts sowie 9 weitere Entscheide des Bundesgerichts, des Bundesstrafgerichts und kantonaler Obergerichte). Sämtliche Entscheide im Volltext verifiziert und direkt auf entscheidsuche.ch verlinkt."
 ---
 

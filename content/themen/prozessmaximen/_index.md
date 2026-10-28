@@ -17,12 +17,10 @@ normen:
   - { gesetz: stpo, art: art-002 }
   - { gesetz: stpo, art: art-006 }
 stichworte: ["Prozessmaximen", "Verhandlungsmaxime", "Untersuchungsmaxime", "Dispositionsmaxime", "Offizialmaxime", "Verhandlungsgrundsatz", "Untersuchungsgrundsatz", "soziale Untersuchungsmaxime", "Behauptungslast", "Bestreitungslast", "Substantiierung", "richterliche Fragepflicht", "ne ultra petita", "Streitgegenstand"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas. Systematische Entflechtung der Streitgegenstands- und Sachverhaltsachsen. Wortlaute per {{< wortlaut >}} für ZPO 55 und 58 aus Fedlex. 9 BGEs im Volltext via entscheidsuche.ch geladen, Erwägungsnummern, Anker und wörtliche Zitate verifiziert. Alle internen Kommentarlinks und festen Überschriftenanker geprüft."
 ---
 

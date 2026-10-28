@@ -5,17 +5,14 @@ date: 2026-06-20
 lastmod: "2026-08-29"
 description: "Übersicht der massgeblichen Entscheide zu Art. 24bis RPG — Bündelung von Infrastrukturanlagen und Mobilfunkanlagen"
 tags: ["Rechtsprechung", "RPG", "Mobilfunkanlagen", "Infrastrukturanlagen", "Standortgebundenheit", "NIS", "Bündelung"]
-agent_verified: true
 revisions:
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 1C_710/2025 vom 17. August 2026: Gesetzliche Fiktion der Standortgebundenheit für Erweiterungen bestehender Mobilfunkanlagen (Art. 24bis Abs. 3 RPG)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Fabriziate Zitate entfernt, Entscheide mit entscheidsuche.ch verifiziert und verlinkt, Fallbeispiele ergänzt, Revisions-Vermerk hinzugefügt"
 ---
 

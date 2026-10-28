@@ -5,27 +5,22 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 48 VwVG: Beschwerdelegitimation — Teilnahme am Vorverfahren, besondere Betroffenheit, schutzwürdiges Interesse, Konkurrentenbeschwerde, Verbandsbeschwerde und Kasuistik."
 tags: ["VwVG", "Beschwerde", "Legitimation", "besondere Betroffenheit", "schutzwürdiges Interesse", "Verbandsbeschwerde", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-048.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Beschwerdelegitimation, Konkurrenten im Beschaffungswesen (BGE 141 II 14; BGE 137 II 313), Kartellrecht (BGE 139 II 328), Steueramtshilfe (BGE 146 I 172), Verbands- und Gemeindebeschwerde und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Korrekturen"
   - date: 2026-05-23
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau"
 ---
 

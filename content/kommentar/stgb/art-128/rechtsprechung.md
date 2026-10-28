@@ -5,22 +5,18 @@ date: 2026-07-31
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 128 StGB — Unterlassung der Nothilfe: Jedermannspflicht, unmittelbare Lebensgefahr, Zumutbarkeit, Konkurrenzen und Praxisfälle."
 tags: ["Rechtsprechung", "StGB", "Unterlassung der Nothilfe", "Nothilfe", "Lebensgefahr", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Fabricated BGE-Zitate entfernt; 11 verifizierte BGer/BGE-Entscheide via entscheidsuche.ch mit Pinpoint-Zuordnung"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung"
 ---
 

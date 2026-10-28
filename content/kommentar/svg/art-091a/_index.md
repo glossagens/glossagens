@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Kommentar zu Art. 91a SVG: Widersetzen und Entziehen bei Blutprobe, Atemalkoholprobe und Vortests, Anordnungsvoraussetzungen, Unfallbeteiligte und Verhältnis zum Selbstbelastungsverbot."
 tags: ["SVG", "Strassenverkehrsrecht", "Vereitelung Blutprobe", "Atemalkoholprobe", "Vortest", "Selbstbelastungsverbot"]
-agent_verified: false
 revisions:
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_article_purpose) verifiziert."
 ---
 

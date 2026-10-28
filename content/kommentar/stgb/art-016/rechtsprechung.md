@@ -5,22 +5,18 @@ date: 2026-05-16
 lastmod: 2026-09-09
 description: "Rechtsprechungsübersicht zu Art. 16 StGB — entschuldbare Notwehr und Notwehrexzess: Leitentscheide des Bundesgerichts, neuere Urteile bis 2026 und kantonale Entscheide mit Sachverhalt, Ergebnis und Kernaussage."
 tags: ["Rechtsprechung", "StGB", "Notwehrexzess", "Notwehr", "Entschuldbare Notwehr", "Intensiver Exzess", "Extensiver Exzess", "Putativnotwehrexzess", "Strafmilderung"]
-agent_verified: true
 revisions:
   - date: 2026-09-09
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständige Neufassung. Die Fassung vom 29.08.2026 (Antigravity Agent) war trotz mcp_verified: true weitgehend fabriziert: BGE 142 IV 14 / 6B_454/2015 als Freispruch nach Art. 16 Abs. 2 dargestellt (tatsächlich Verurteilung nach Art. 111 i.V.m. Art. 16 Abs. 1), 6B_810/2011 mit erfundenem Restaurant-Sachverhalt, BGE 136 IV 49 mit falschen Stichlokalisationen, 6B_971/2018 als Tritt-Fall statt Schusswaffenfall, BS SB.2022.66 und BS SB.2018.21 mit invertiertem Ergebnis, ZH SB230533 mit frei erfundenem Sachverhalt, BGE 125 IV 49 (Putativnotstand) als Putativnotwehr-Leitentscheid geführt, 6B_836/2025 mit erfundenem Pinpoint. Alle nachstehenden Entscheide wurden im Volltext über entscheidsuche.ch gesichtet; Sachverhalte und Ergebnisse stammen aus dem Urteilstext, Dispositive wurden mitgeprüft. Erwägungsanker nur bei BGE und einzeln gegen die vorhandenen id-Attribute abgeglichen."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: false
     note: "VERWORFEN — siehe Revisionsvermerk vom 09.09.2026. Das Flag mcp_verified wurde nachträglich auf false korrigiert."
   - date: 2026-05-16
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ersterfassung der Rechtsprechung zu Art. 16 StGB"
 ---
 

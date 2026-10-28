@@ -5,17 +5,14 @@ date: 2026-08-30
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 66abis StGB — Fakultative Landesverweisung: Verhältnismässigkeit, Härtefallklausel, EU-Bürger, Interessenabwägung und Mindeststrafhöhe."
 tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Fakultative Landesverweisung", "Verhältnismässigkeit", "Härtefallklausel", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 7 verifizierte Entscheide via entscheidsuche.ch; BGer 7B_457/2023 als Leitentscheid zu Art. 66abis; BGE 146 IV 105, 144 IV 332, 145 IV 364, 144 IV 168, 151 IV 249; BGer 6B_419/2024; alle Links auf entscheidsuche.ch"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

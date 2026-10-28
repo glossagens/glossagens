@@ -5,7 +5,6 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Systematische Übersicht der Rechtsprechung zu Art. 10 GwG: Leitentscheide des Bundesgerichts, Entscheide des Bundesstrafgerichts und Bundesverwaltungsgerichts sowie kantonale Praxis zu Vermögenssperre, Fristenlauf, Zivilhaftungsausschluss und Kontosperren."
 tags: ["Rechtsprechung", "GwG", "Vermögenssperre", "Meldepflicht", "Haftungsausschluss", "Kontosperre"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

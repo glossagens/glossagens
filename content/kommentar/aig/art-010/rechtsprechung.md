@@ -5,7 +5,6 @@ date: 2026-06-06
 lastmod: 2026-06-20
 description: "Übersicht der Entscheide zu Art. 10 AIG — Bewilligungspflicht bei Aufenthalt ohne Erwerbstätigkeit"
 tags: ["Rechtsprechung", "AIG", "Bewilligungspflicht", "Kurzaufenthalt", "Schengen"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 10 AIG — Bewilligungspflicht bei Aufenthalt ohne Erwerbstätigkeit](./)

@@ -5,7 +5,6 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 54 BöB (Aufschiebende Wirkung): Leitentscheide des Bundesgerichts und des Bundesverwaltungsgerichts sowie kantonale Entscheide."
 tags: ["Rechtsprechung", "BöB", "Aufschiebende Wirkung", "Vergaberecht"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

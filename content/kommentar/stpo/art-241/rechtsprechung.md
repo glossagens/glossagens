@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: "2026-10-22"
 description: "Übersicht der Rechtsprechung zu Art. 241 StPO – Durchsuchungsbefehl, Schriftform, Gefahr im Verzug und polizeiliche Sicherheitsdurchsuchung."
 tags: ["Rechtsprechung", "StPO", "Durchsuchungsbefehl", "Durchsuchung", "Gefahr im Verzug", "Sicherheitsdurchsuchung", "Bestimmtheitsgebot", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: false
     note: "Aufnahme von Leitentscheid BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung der I. strafrechtlichen Abteilung): Akzessorietät der Sicherheitsdurchsuchung nach Art. 241 Abs. 4 StPO zu Art. 215 StPO, Verbot von Vorwandskontrollen/Fishing Expeditions und Unverwertbarkeit von Zufallsfunden."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 241 StPO mit 20 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-09-07
 lastmod: 2026-09-07
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 21 StGB (Rechtsirrtum): Unrechtsbewusstsein, Unvermeidbarkeit, behördliche Auskünfte, anwaltlicher Rat und obligatorische Strafmilderung."
 tags: ["Rechtsprechung", "StGB", "Rechtsirrtum", "Schuld", "Strafmilderung", "Allgemeiner Teil"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

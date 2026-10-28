@@ -5,22 +5,18 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 399 OR — Unbefugte und befugte Substitution, Haftung für Auswahl und Instruktion, Direktanspruch gegen den Dritten, Abgrenzung Substitut vs. Hilfsperson, Anwaltshaftung, Spediteurzwischenschaltung"
 tags: ["OR", "Auftragsrecht", "Substitution", "Haftung", "Legalzession", "Hilfsperson", "Anwaltshaftung", "Spediteur", "Auswahlverschulden"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-399.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt; BGE 112 II 347, 4A_407/2007, BGE 121 III 310, BGE 127 III 328"
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 3 gestützt (+3 teilw.) von 8 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 260 SchKG: Abtretung von Rechtsansprüchen der Konkursmasse — gesetzliche Prozessstandschaft, Verantwortlichkeits- und Anfechtungsklagen, Kognitionsgrenzen des Sachgerichts (BGE 132 III 342), Streitgenossenschaft mehrerer Gläubiger, Erlösverteilung, Kostenrisiken und Verwertung nach Abs. 3."
 tags: ["SchKG", "Abtretung", "Rechtsansprüche", "Prozessstandschaft", "Verantwortlichkeitsklage", "Anfechtungsklage", "Konkursverwaltung", "Streitgenossenschaft", "Erlösverteilung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der Prozessstandschaft sui generis, BBl-Materialien (1991 III 1), Prüfschema, formeller Verzichtsbeschluss der Gläubigergesamtheit (BGE 134 III 75), Prüfungsbefugnis des Sachgerichts vs. Aufsichtsbehörde (BGE 145 III 101), Überprüfungsverbot der Konkursforderung im Zivilprozess (BGE 132 III 342), Klageantrag auf Direktzahlung (BGE 139 III 391), Mehrheit von Abtretungsgläubigern als uneigentliche notwendige Streitgenossenschaft (BGE 121 III 488, BGE 144 III 552), Fortbestand bei Handelsregisterlöschung (BGE 146 III 441), Unzulässigkeit der Weiterzession (OGer ZH) und Praxishinweise."
 ---
 

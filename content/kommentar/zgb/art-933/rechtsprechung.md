@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 933 ZGB — gutgläubiger Erwerb anvertrauter Sachen: Begriff des Anvertrautseins (Miete, Werk, Pfand, Eigentumsvorbehalt, Schatz), Abgrenzung zur abhandengekommenen Sache (Art. 934) bei Täuschung und ertrogenen Sachen, guter Glaube und Branchenvertrautheit (Occasionswagen, Kunst/Antiquitäten), Schenkungs-Schranke, Bösgläubigkeit (Art. 936), nachträgliche Bösgläubigkeit und Hehlerei."
 tags: ["Rechtsprechung", "ZGB", "gutgläubiger Erwerb", "anvertraute Sache", "nemo plus iuris", "guter Glaube", "Branchenvertrautheit", "Occasionswagen", "Kunsthandel", "Schenkung", "Eigentumsvorbehalt", "Besitzeskonstitut", "Hehlerei", "Kulturgüter"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 15 Entscheide via entscheidsuche.ch geprüft, davon 11 im Volltext abgerufen und ausgewertet (BGE 85 II 580, 100 II 8, 103 II 186, 105 IV 303, 113 II 397, 121 III 345, 121 IV 26, 122 III 1, 139 III 305; BGer 5A_71/2022, 5A_925/2013, 5A_962/2017; ZH OG LB230022; GR KG ZK2 21 32; BL KG 460 2025 212). Links verbatim aus document_url-Feldern übernommen."
 ---
 

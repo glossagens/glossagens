@@ -5,22 +5,18 @@ date: 2026-05-22
 lastmod: 2026-10-27
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 8 EMRK — Leitentscheide des Bundesgerichts und des EGMR zu aufenthaltsbeendenden Massnahmen (strafrechtliche Landesverweisung, Bewilligungswiderruf, FZA, Secondos, Härtefallklausel), Privat- und Familienleben, Wohnung, Datenschutz und Überwachung."
 tags: ["Rechtsprechung", "EMRK", "Aufenthaltsrecht", "Landesverweisung", "Härtefallklausel", "Widerruf", "FZA", "Secondos", "10-Jahres-Vermutung", "Datenschutz", "Überwachung", "Familienleben", "Privatleben"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Neustrukturierung und Erweiterung gemäss Richtlinien: Gliederung in I. Leitentscheide und II. Weitere Entscheide. Vollständige Einarbeitung der BGer- und EGMR-Judikatur zu aufenthaltsbeendenden Massnahmen (BGE 144 IV 332, BGE 146 IV 105, BGE 145 IV 364, BGE 146 II 1, BGE 144 I 91, BGE 143 I 21, BGE 147 IV 453, BGE 145 IV 161, BGer 6B_64/2024, BGer 2C_487/2012, EGMR Boultif, Üner, Maslov, I.M., M.M., E.V.). Alle Links auf entscheidsuche.ch und HUDOC verifiziert."
   - date: 2026-10-15
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BVGer F-4622/2026 (Wegweisungsentfall bei hängigem Familiennachzug und prima-facie Art. 8 EMRK-Anspruch) als neuer Abschnitt X eingefügt; E. 4.2 via OCL get_erwaegung verifiziert."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: BGE-Block am Dateiende bereinigt (siehe _index.md-Revisionsvermerk fuer Details) -- 2 fabrizierte Entscheide entfernt, 4 thematisch falsch zugeordnete ersetzt, 134 III 241 an korrekte Stelle verschoben."
 ---
 

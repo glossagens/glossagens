@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Entscheide zu Art. 4 GwG – Feststellung der wirtschaftlich berechtigten Person"
 tags: ["Rechtsprechung", "GwG", "Wirtschaftlich berechtigte Person", "Formular A", "Sorgfaltspflichten"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erfassung der Leitentscheide des Bundesgerichts sowie relevanter Urteile des Bundesverwaltungsgerichts, Bundesstrafgerichts und kantonaler Gerichte zu Art. 4 GwG und Art. 305ter StGB"
 ---
 

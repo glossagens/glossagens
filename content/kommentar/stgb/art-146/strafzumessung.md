@@ -5,7 +5,6 @@ date: 2026-08-29
 lastmod: 2026-10-14
 description: "Empirische Auswertung der publizierten Praxis zur Strafzumessung nach Art. 146 StGB — 83 im Volltext ausgewertete Entscheide, 75 belegte Einsatz- und Einzelstrafen sowie 15 bezifferte Asperationszuschläge, gespiegelt am Dispositiv."
 tags: ["Strafzumessung", "StGB", "Betrug", "Gewerbsmässigkeit", "Praxisauswertung", "Wirtschaftsstrafrecht", "Besonderer Teil"]
-agent_verified: false
 auswertungsstand: 2026-10-14
 entscheide_ausgewertet: 83
 strafwerte_belegt: 75
@@ -13,12 +12,10 @@ revisions:
   - date: 2026-10-14
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung um 30 strukturierte Entscheide aus der Datenbank von strafzumessung.ch: Neu 83 im Volltext ausgewertete Entscheide, 75 belegte Strafwerte (Spitzenwert 80 Monate), Integration neuer Abschnitte gemäss angepasstem Skill (Strafzumessungserhebliche Tatsachen, Was nicht strafzumessungserheblich ist, Streubreite der Deliktssumme)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstauswertung: 53 Entscheide im Volltext (entscheidsuche.ch), 45 belegte Einsatz-/Einzelstrafen und 15 Asperationszuschläge, jeder Wert am Dispositiv gespiegelt; Normtext und Strafrahmen inkl. Fassung vor dem 1.7.2023 über Fedlex geprüft."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-07-22
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 12 BehiG (SR 151.3): Besondere Fälle der Interessenabwägung — Schwellenwerte bei Bauten (5 % Gebäudeversicherungswert, 20 % Erneuerungskosten), Übergangsfristen im öffentlichen Verkehr und Ersatzlösungspflicht."
 tags: ["BehiG", "Behindertengleichstellung", "Schwellenwerte", "Baubewilligung", "Öffentlicher Verkehr", "Ersatzlösung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 151.3 vom 2020-07-01 (data/wortlaut/behi/art-012.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung sachfremder Zitate, fundierte Verankerung der Rechtsprechung zu Art. 12 Abs. 1-3 BehiG und kantonalen Praxisfragen."
 ---
 

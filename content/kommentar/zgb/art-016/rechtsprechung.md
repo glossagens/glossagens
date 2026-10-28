@@ -5,12 +5,10 @@ date: 2026-10-24
 lastmod: 2026-10-24
 description: "Übersicht der Leitentscheide und kantonalen Praxis zu Art. 16 ZGB — Begriff der Urteilsfähigkeit, kognitives und voluntatives Element, Relativität, Beweislastumkehr bei Demenz und Stimmrechtsausübung."
 tags: ["Rechtsprechung", "ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Demenz", "Beweislast", "Stimmrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung der Rechtsprechungsübersicht mit 10 ausgewählten Entscheiden (5 Leitentscheide des Bundesgerichts, 5 weitere Entscheide inkl. AG Handelsgericht HSU.2026.22)."
 ---
 

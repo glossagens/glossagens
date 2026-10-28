@@ -5,12 +5,10 @@ date: "2026-05-17"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 361 ZGB: Formerfordernisse des Vorsorgeauftrags — eigenhändige Errichtung und öffentliche Beurkundung, Registrierung im Zivilstandsamt."
 tags: ["ZGB", "Vorsorgeauftrag", "Erwachsenenschutz", "Formvorschriften"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-361.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

@@ -5,32 +5,26 @@ date: 2026-09-13
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 230 SchKG — Konkurseinstellung mangels Aktiven, Gläubigerbeschwerde, Kostensicherheit, Wiederaufleben, Pfändungsbetreibung, Fristenstillstand, Spezialliquidation, Aufhebung Konkursbeschlag, Handelsregisterlöschung."
 tags: ["Rechtsprechung", "SchKG", "Konkurs", "Konkurseinstellung", "Masseunzulänglichkeit", "Kostensicherheit", "Wiederaufleben", "Fristenstillstand", "Spezialliquidation", "Pfändungsbetreibung", "Handelsregisterlöschung"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 151 III 190, BGE 130 III 481, BGer 5A_840/2015, BGer 5A_784/2015, BGer 5A_306/2014, BGer 5A_857/2020 als neue Leit- und BGer-Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 3 BGE-Leitentscheide (141 III 590, 134 III 136, 127 III 371), 4 weitere BGer-Entscheide (128 V 10, 132 III 89, 102 III 78, 90 II 247), 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

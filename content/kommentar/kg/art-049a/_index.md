@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 49a KG: Direkte Verwaltungssanktionen bis zu 10 % des Umsatzes, strafrechtsähnlicher Charakter (EMRK 6/7), Bemessung nach SVKG (Basisbetrag, Dauer, Zu-/Abschläge), Kronzeugenregelung (Bonus / Vollimmunität), Verjährung und Safe-Harbour-Meldung mit umfassender Grenzkasuistik."
 tags: ["KG", "Kartellrecht", "Verwaltungssanktionen", "SVKG", "Direktsanktionen", "Kronzeugenregelung", "Selbstanzeige", "BMW", "GABA", "Swisscom"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung nach dem Standard für praxisorientierte Kommentare (Muster Art. 110 StPO / Art. 336 OR / Art. 5 KG). Gesetzeswortlaut über Fedlex (data/wortlaut/kg/art-049a.json via scripts/wortlaut.py). Volltextverifikation sämtlicher Entscheide auf entscheidsuche.ch (BGE 139 I 72, BGE 143 II 297, BGE 144 II 194, BGE 146 II 217, BGE 151 II 742, BGE 137 II 199, BGE 135 II 60, BGE 148 II 182, BGE 147 II 72, BGE 151 II 475; BVGE 2023 IV/6; BVGer B-721/2018; SG VG B 2022/112; ZH HG HE120134)."
 ---
 

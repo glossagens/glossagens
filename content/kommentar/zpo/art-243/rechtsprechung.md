@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Leitentscheide und kantonalen Gerichtsentscheide zu Art. 243 ZPO (Geltungsbereich des vereinfachten Verfahrens, Streitwertgrenzen, Kündigungsschutz im Mietrecht, negative Feststellungswiderklage und Verhältnis zum Handelsgericht)."
 tags: ["Rechtsprechung", "ZPO", "vereinfachtes Verfahren", "Streitwert", "Handelsgericht", "Kündigungsschutz"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide (Bundesgericht)

@@ -5,7 +5,6 @@ date: 2026-09-09
 lastmod: 2026-09-09
 description: "Übersicht der Rechtsprechung zu Art. 91 ZPO: Leitentscheide des Bundesgerichts und kantonale Urteile zu Streitwertbestimmung, Eventualbegehren, Nichtgeldforderungen, Mieterausweisung und Stufenklagen."
 tags: ["Rechtsprechung", "ZPO", "Streitwert", "Eventualbegehren", "Mieterausweisung", "Stufenklage"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

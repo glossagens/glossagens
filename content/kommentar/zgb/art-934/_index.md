@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 934 ZGB — Rückforderungsrecht des bestohlenen Eigentümers bei gestohlenen, verlorenen oder sonst wider Willen abhandengekommenen Sachen: fünfjährige Rückforderungsfrist gegen jeden Empfänger, Vorbehalt des Finderrechts (Art. 722) und der Ersitzung (Art. 728), Sonderfrist für Kulturgüter (Art. 934 Abs. 1bis, KGTG), Lösungsrecht im Marktverkehr (Abs. 2), Bösgläubigkeit und Branchenvertrautheit (Occasionswagen, Antiquitäten, Kunsthandel) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "abhandengekommen", "Rückforderungsrecht", "Lösungsrecht", "gutgläubiger Erwerb", "Branchenvertrautheit", "Occasionswagen", "Kunsthandel", "Kulturgüter", "KGTG", "Ersitzung", "Hehlerei", "Bösgläubigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-934.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 641a, 714, 722, 728, 933, 934, 935, 936, 930, 3 ZGB. 10 Entscheide via entscheidsuche.ch geprüft, davon 6 im Volltext abgerufen (BGE 103 II 186, 105 IV 303, 113 II 397, 121 III 345, 122 III 1, 139 III 305; BGer 5A_925/2013, 5A_962/2017; BGE 121 IV 26; BL KG 460 2025 212 aus der Art. 933-Recherche). Links verbatim aus document_url-Feldern übernommen."
 ---
 

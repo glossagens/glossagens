@@ -5,17 +5,14 @@ date: "2026-07-04"
 lastmod: "2026-10-15"
 description: "Übersicht der Entscheide zu Art. 309 StPO: Eröffnung der Untersuchung, deklaratorische Wirkung und materieller Beschuldigtenstatus."
 tags: ["Rechtsprechung", "Untersuchung", "Eröffnung", "Vorverfahren", "materieller Beschuldigtenstatus"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von CREP VD 736 vom 23. September 2026 (Causa Dittli): Vor der Eröffnung erstellter Administrativbericht als Grundlage für hinreichenden Tatverdacht; keine Geltung von Art. 147 StPO vor formeller/materieller Eröffnung."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von CREP VD 652 vom 3. September 2026 (Causa Dittli): Eröffnung «gegen unbekannt» bei namentlich bekannter verdächtigter Person unzulässig; deklaratorische Eröffnung und Zwangsmassnahmen."
 ---
 

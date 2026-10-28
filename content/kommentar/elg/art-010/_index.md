@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 10 ELG (SR 831.30): Anerkannte Ausgaben der Ergänzungsleistungen — Lebensbedarf, Mietzins und Mietzinsaufteilung (Abs. 1/1bis–1septies), Tagestaxe und Heimdefinition (Abs. 2), Gewinnungskosten, Gebäudeunterhalt, Sozialversicherungsbeiträge und Krankenkassenprämien (Abs. 3). Leitentscheide BGE 141 V 255 (Heimbegriff/andere Anstalt), BGE 142 V 299 (Mietzinsaufteilung), BGE 142 V 311 (Vermögensbewertung/Gebäudeunterhalt), BGE 138 V 17 (Bruttoertragsschranke) und BGE 147 V 441 (Hilflosenentschädigung/Unterhaltsbeitrag)."
 tags: ["ELG", "Ergänzungsleistungen", "anerkannte Ausgaben", "Lebensbedarf", "Mietzins", "Heimdefinition", "Gebäudeunterhalt", "Krankenkassenprämie", "Hilflosenentschädigung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.30 vom 2026-01-01 (data/wortlaut/elg/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 831.30 Art. 10), Leading Cases/Regesten (BGE 141 V 255, 142 V 299, 142 V 311, 147 V 441, 139 V 358, 138 V 17) via OCL verifiziert."
 ---
 

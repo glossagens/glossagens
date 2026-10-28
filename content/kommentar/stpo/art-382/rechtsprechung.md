@@ -5,12 +5,10 @@ date: "2026-07-04"
 lastmod: "2026-10-16"
 description: "Übersicht der Entscheide zu Art. 382 StPO: Legitimation zu Rechtsmitteln."
 tags: ["Rechtsprechung", "Rechtsmittel", "Legitimation", "Privatklägerschaft", "gesetzliche Vertretung", "minderjähriger Geschädigter"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BGer 7B_22/2026 vom 9. September 2026 ergänzt: gesetzliche Vertretung minderjähriger Geschädigter — Vertreterlegitimation muss im Beschwerdeverfahren ausdrücklich dargetan werden; kein überspitzter Formalismus. Via entscheidsuche und opencaselaw verifiziert."
 ---
 

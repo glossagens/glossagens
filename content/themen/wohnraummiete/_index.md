@@ -20,12 +20,10 @@ normen:
   - { gesetz: or, art: art-272 }
   - { gesetz: or, art: art-273c }
 stichworte: ["Wohnraummiete", "Referenzzinssatz", "Mietzinserhöhung", "Nettorendite", "relative Berechnungsmethode", "absolute Berechnungsmethode", "Anfangsmietzins", "Koppelungsgeschäft", "Kündigungsschutz", "Erstreckung", "Formularpflicht", "Wohnraumschutz"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Wohnraummiete. Gesetzestexte via {{< wortlaut >}} aus amtlicher Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 15 Entscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und jedes wörtliche Zitat gegen den Volltext abgeglichen."
 ---
 

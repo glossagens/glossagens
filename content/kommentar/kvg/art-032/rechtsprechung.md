@@ -5,13 +5,11 @@ date: 2026-07-31
 lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 32 KVG — WZW-Kriterien (Wirksamkeit, Zweckmässigkeit, Wirtschaftlichkeit), Spezialitätenliste, therapeutischer Quervergleich, Orphan Drugs, OPAS, Therapie vs. Prävention"
 tags: ["Rechtsprechung", "KVG", "WZW", "WIR", "Spezialitätenliste", "Krankenversicherung", "OPAS"]
-agent_verified: false
 revisions:
 
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Überarbeitet"
 ---
 

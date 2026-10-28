@@ -5,7 +5,6 @@ date: 2026-10-06
 lastmod: 2026-10-06
 description: "Übersicht der Leitentscheide des Bundesgerichts und der kantonalen Gerichtspraxis zur Nachzahlungspflicht nach Art. 123 ZPO — Begriff der Leistungsfähigkeit, Notbedarf und Steuern, Notgroschen, Wohneigentum, Mitwirkungsobliegenheit, Verjährung und Judikaturwidersprüche."
 tags: ["Rechtsprechung", "ZPO", "Unentgeltliche Rechtspflege", "Nachzahlung", "Verjährung", "Existenzminimum"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

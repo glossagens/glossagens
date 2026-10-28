@@ -14,12 +14,10 @@ tags:
   - Statusverlust
   - Migrationsrecht
 fedlex_anker: "annex_I/lvl_u1/lvl_II/art_6"
-agent_verified: true
 revisions:
   - date: '2026-10-27'
     by: Antigravity
     model: gemini-3.8-flash
-    mcp_verified: true
     note: "Praxisorientierter Gesetzeskommentar zu Art. 6 Anhang I FZA vollständig erstellt"
 ---
 

@@ -5,12 +5,10 @@ date: "2026-05-22"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 308 ZGB: Kindesschutzbeistandschaft, Erziehungsbeistandschaft (Abs. 1), besondere Befugnisse bei Vaterschaft, Unterhalt und Besuchsrecht (Abs. 2), Beschränkung der elterlichen Sorge (Abs. 3)."
 tags: ["ZGB", "Kindesschutz", "Beistandschaft", "Erziehungsbeistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "elterliche Sorge", "Schulbeistandschaft"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-308.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-21"
     by: "Hermes Agent"
@@ -19,17 +17,14 @@ revisions:
   - date: "2026-08-20"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und wissenschaftliche Vertiefung gemäss Onlinekommentar-Standard; Belege via swiss-caselaw MCP geprüft, kantonale Praxisfragen und aktuelle Bundesgerichtspraxis integriert"
   - date: "2026-06-19"
     by: "Glossagens Agent"
     model: "claude-3-5-sonnet"
-    mcp_verified: false
     note: "Ergänzungen zur Beistandschaftspraxis"
   - date: "2026-05-22"
     by: "Glossagens Agent"
     model: "claude-3-5-sonnet"
-    mcp_verified: false
     note: "Initiale Erstellung"
 ---
 

@@ -5,22 +5,18 @@ date: "2026-05-23"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 273 ZGB: Anspruchsvoraussetzungen (nicht sorgeberechtigter Elternteil, minderjähriges Kind, Gegenseitigkeit), Angemessenheit und Kindeswohl als Massstab, konkrete Gefährdung als Eingriffsschwelle, Kindeswille und Manipulation, Ermahnung und Weisung der KESB (Abs. 2), Regelungsanspruch (Abs. 3) sowie die prozessualen Grundsätze von Offizialmaxime und endgültiger Regelung — mit der Kasuistik des Bundesgerichts zu jeder Fallgruppe."
 tags: ["ZGB", "Besuchsrecht", "persönlicher Verkehr", "Kindeswohl", "Kindesschutz", "Loyalitätspflicht", "Kindeswille", "begleitetes Besuchsrecht", "Offizialmaxime", "ultima ratio", "KESB", "Weisung", "Regelungsanspruch"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-273.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar im Format von Art. 110 StPO und Art. 336 OR: Gliederung entlang der Tatbestandsmerkmale (Anspruchsberechtigung, Angemessenheit, Kindeswohl/Eingriffsschwelle, Kindeswille, Ermahnung/Weisung, Regelungsanspruch, Verfahrensgrundsätze); Prüfschema-Tabelle als Inhaltsverzeichnis; durchgehend auf geschilderte Sachverhalte umgestellt. Neu ausgewertet und im Volltext geprüft via opencaselaw: BGE 131 III 209, BGE 130 III 585, BGE 122 III 404, BGE 120 II 229, BGer 5A_341/2008, BGer 5A_457/2009, BGer 5A_716/2010, BGer 5A_719/2013, BGer 5A_528/2015, BGer 5A_111/2019, BGer 5A_375/2023. Gesetzeswortlaut verbatim aus Fedlex (SR 210). Entscheidsuche-Tool nicht verfügbar; Links auf opencaselaw als Rückfallebene (CLAUDE.md Ziff. 'Verlinkung von Entscheiden')."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Wöchentliche Ergänzung KW31 — rechtsprechung.md mit BGer 5A_293/2024 ergänzt (Änderung des persönlichen Verkehrs; Willensbildung des urteilsfähigen Kindes)."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-06-12
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 94 StPO – Wiederherstellung von Fristen und Terminen"
 tags: ["Rechtsprechung", "StPO", "Wiederherstellung", "notwendige Verteidigung", "Zustellfiktion"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 10 %). BGE 149 IV 196 war inhaltlich umgekehrt wiedergegeben (der Entscheid begrenzt die Ausnahme, statt sie zu begründen); BGer 6B_1393/2021, 6B_283/2025 und 6B_361/2025 waren falsch charakterisiert. Alle Erwägungsangaben korrigiert (BGE 149 IV 196 E. 2 → E. 1; BGE 143 I 284 E. 3 → E. 1 f.; 6B_1005/2024 E. 3–4 → E. 1.2–1.4). Neu aufgenommen: BGE 142 IV 201, BGer 6B_125/2011, BGer 6B_1039/2016. Fehlender revisions-Block ergänzt."
   - date: 2026-06-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

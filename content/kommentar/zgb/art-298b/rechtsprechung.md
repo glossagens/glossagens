@@ -5,12 +5,10 @@ date: 2026-09-10
 lastmod: 2026-09-10
 description: "Übersicht der Leitentscheide des Bundesgerichts und der kantonalen Gerichtspraxis zu Art. 298b ZGB: Gemeinsame elterliche Sorge als Regelfall, Schwellenwerte für Alleinsorge, richterliche Kompetenzattraktion und alternierende Obhut."
 tags: ["Rechtsprechung", "ZGB", "Elterliche Sorge", "Gemeinsame Sorge", "Alleinsorge", "Kompetenzattraktion", "Alternierende Obhut"]
-agent_verified: true
 revisions:
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Strukturierte Rechtsprechungsübersicht zu Art. 298b ZGB mit 14 verifizierten Leitentscheiden des Bundesgerichts sowie kantonaler Ober- und Verwaltungsgerichte."
 ---
 

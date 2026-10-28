@@ -5,12 +5,10 @@ date: 2026-08-07
 lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 25 DSG (Auskunftsrecht, Mindestinhalt, Rechtsmissbrauch/Fishing Expedition)"
 tags: ["Rechtsprechung", "DSG", "Auskunftsrecht", "Rechtsmissbrauch"]
-agent_verified: false
 revisions:
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Entscheide via opencaselaw-MCP (cite/get_case_brief/get_erwaegung) verifiziert."
 ---
 

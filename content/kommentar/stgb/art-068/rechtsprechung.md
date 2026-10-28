@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: "2026-09-05"
 description: "Übersicht der Entscheide zu Art. 68 StGB — Veröffentlichung des Urteils, Massnahmencharakter, Antragsprinzip, Verhältnismässigkeit, Kantonale Praxis."
 tags: ["Rechtsprechung", "StGB", "Veröffentlichung", "Urteilsveröffentlichung", "Nebenstrafe", "Persönlichkeitsrecht", "Öffentliches Interesse"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung: 5 verifizierte Entscheide via entscheidsuche.ch (BGE 108 IV 158, BGE 129 IV 296, BGer 6S.139/2003, BGE 75 I 209, BS Appellationsgericht SB.2016.79)"
 ---
 

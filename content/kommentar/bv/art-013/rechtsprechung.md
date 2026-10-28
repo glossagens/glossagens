@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-10-26
 description: "Übersicht der Rechtsprechung zu Art. 13 BV — Privat-, Familien- und Wohnbereich, Fernmeldegeheimnis, Datenschutz, AFV, Videoüberwachung und Hausdurchsuchungen."
 tags: ["Rechtsprechung", "BV", "Privatsphäre", "Datenschutz", "Informationelle Selbstbestimmung", "AFV", "Überwachung", "Hausdurchsuchung", "Aufenthaltsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsseite: Strukturierung in I. Leitentscheide des Bundesgerichts (8 Entscheide) und II. Weitere Entscheide (14 Bundesgerichts- und kantonale Entscheide); Umstellung aller Links auf entscheidsuche.ch; Aufnahme wegweisender Entscheide zu AFV, Videoüberwachung, DNA-Profilen, Hausdurchsuchungen (TG OG RBOG 2025 Nr. 30, LU KG 2N 22 37) und Aufenthaltsbeendigung; agent_verified auf true gesetzt."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Sämtliche Referenzen existieren. Pinpoints korrigiert; Hinweis auf die durch EGMR Di Trizio überholte Rechtsprechung zur gemischten Methode ergänzt. Erstmals revisions-Block gesetzt."
   - date: 2026-05-18
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-05-16
 lastmod: "2026-08-22"
 description: "Rechtsprechungsübersicht zu Art. 244 StPO — Grundsatz der Durchsuchung"
 tags: ["Rechtsprechung", "StPO", "Durchsuchung", "Hausdurchsuchung", "Beweisausforschungsverbot", "Zufallsfund"]
-agent_verified: true
 revisions:
   - date: "2026-08-22"
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 38 %). Doppelführung aufgelöst: BGer 6B_821/2021 ist das Aktenzeichen von BGE 149 IV 369 und war als eigenständiger Entscheid daneben geführt. Drei Entscheide ohne Bezug zu Art. 244 StPO (BGE 144 IV 74, BGer 7B_86/2022, BGer 7B_12/2026) in einen als solchen gekennzeichneten Abschnitt zum Anschlussverfahren verschoben. Sämtliche Erwägungsangaben ergänzt — die Seite führte zuvor keinen einzigen Pinpoint. Neu aufgenommen: BGer 6B_899/2017 und BGer 6B_1409/2019. Fehlender revisions-Block ergänzt."
   - date: 2026-05-16
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

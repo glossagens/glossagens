@@ -5,7 +5,6 @@ date: 2026-07-10
 lastmod: 2026-07-10
 description: "Übersicht der Entscheide zu Art. 454 StPO — Nach Inkrafttreten gefällte Entscheide"
 tags: ["Rechtsprechung", "StPO"]
-agent_verified: false
 ---
 
 # Rechtsprechung zu Art. 454 StPO

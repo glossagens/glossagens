@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-08-08
 description: "Leading Cases und systematische Rechtsprechung zu Art. 11 StPO (ne bis in idem)"
 tags: ["ne bis in idem", "doppelte Strafverfolgung", "Sperrwirkung", "Tatidentität", "Lebenssachverhalt", "Teileinstellung", "Rechtskraft"]
-agent_verified: true
 ---
 
 ## Sachliche Identität (Lebenssachverhaltsbegriff)

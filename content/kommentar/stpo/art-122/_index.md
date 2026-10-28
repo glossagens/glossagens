@@ -5,8 +5,6 @@ date: 2026-08-03
 lastmod: 2026-09-11
 description: "Praxiskommentar zu Art. 122 StPO: Adhäsionsweise Geltendmachung von Zivilansprüchen im Strafverfahren, Ausschluss vertraglicher und öffentlich-rechtlicher Ansprüche, Rechtshängigkeit, Bestreitungslast und Vorrang des strafprozessualen Schweigerechts vor zivilprozessualer Mitwirkungspflicht."
 tags: ["StPO", "Zivilklage", "Adhäsionsprozess", "Privatklägerschaft", "Nemo tenetur", "Bestreitungslast", "Praxiskommentar"]
-agent_verified: true
-mcp_verified: true
 revisions:
   - date: 2026-08-13
     by: "Hermes Agent"

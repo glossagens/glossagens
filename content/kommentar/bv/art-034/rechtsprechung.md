@@ -5,17 +5,14 @@ date: 2026-07-17
 lastmod: 2026-08-12
 description: "Wichtige Bundesgerichtsentscheide zu Art. 34 BV: Garantie der politischen Rechte, Abstimmungsfreiheit, behördliche Informationspflicht, Interventionen im Abstimmungskampf, Nachzählung von Wahlergebnissen, Stimmrechtsbeschwerde, Wahlrecht, e-voting."
 tags: ["Rechtsprechung", "BV", "politische Rechte", "Abstimmungsfreiheit", "Stimmabgabe", "behördliche Intervention", "Stimmrechtsbeschwerde", "e-voting"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Drei erfundene Referenzen ersetzt bzw. entfernt, zwei Fehlzuordnungen (BGE 142 I 1, BGE 146 I 49) ausgebaut, Erwägungs-Bereiche in der Fundstellenspalte geleert."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitet — das Flag mcp_verified: true hielt der Prüfung vom 2026-08-12 nicht stand"
 ---
 

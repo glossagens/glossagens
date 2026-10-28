@@ -5,22 +5,18 @@ date: "2026-05-17"
 lastmod: 2026-10-21
 description: "Kommentar zu Art. 158 StPO: Einvernahme der beschuldigten Person — nemo-tenetur-Grundsatz, Belehrungspflicht, PIN-Code und digitale Selbstbelastung, Verwertungsverbot"
 tags: ["StPO", "Beschuldigtenbefragung", "nemo tenetur", "Einvernahme", "Aussageverweigerungsrecht", "Belehrungspflicht", "Verwertungsverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_268/2026 vom 15. September 2026: Hinreichender Tatvorhalt (Art. 158 Abs. 1 lit. a StPO), Nachholung bei Verfahrenserweiterung in der Schlusseinvernahme durch ziffernweises Durchgehen der Eröffnungsverfügung sowie Zulässigkeit flexibler Reihenfolge der Vorhalte."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-158.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 

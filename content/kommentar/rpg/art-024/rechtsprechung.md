@@ -5,17 +5,14 @@ date: 2026-05-17
 lastmod: 2026-09-17
 description: "Übersicht der Rechtsprechung zu Art. 24 RPG: Leitentscheide und kantonale Praxis zu Standortgebundenheit, Alternativenprüfung, negativer Standortgebundenheit und Planungspflicht."
 tags: ["Rechtsprechung", "RPG", "Standortgebundenheit", "Ausnahmebewilligung", "Bauen ausserhalb der Bauzonen", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-09-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung der Rechtsprechungsseite auf 16 strukturierte Entscheide in Leitentscheide (I) und weitere Entscheide (II) gemäss Standard für Praxiskommentare."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, kantonale Praxis ergänzt, Revisions-Vermerk ergänzt"
 ---
 

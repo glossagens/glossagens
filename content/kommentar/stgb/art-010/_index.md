@@ -5,22 +5,18 @@ date: 2026-06-13
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 10 StGB: Einteilung der Straftaten in Verbrechen und Vergehen, Abgrenzung nach der abstrakten Strafdrohung, systematische Rechtsfolgen und Rechtsprechung."
 tags: ["StGB", "Verbrechen", "Vergehen", "Einteilung", "Strafrahmen", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-23 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: Halluzinierte Referenzen (BGE 142 IV 164, 1B_393/2024, 6B_1010/2025, 6B_113/2026) entfernt; Belege, Dogmatik und Rechtsprechung via Fedlex und OpenCaseLaw MCP verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026)"
 ---
 

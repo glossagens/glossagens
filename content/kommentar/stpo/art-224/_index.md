@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 224 StPO – Haftverfahren vor der Staatsanwaltschaft: Unverzügliche persönliche Befragung (Abs. 1), strikte 48-Stunden-Frist für den Haftantrag an das Zwangsmassnahmengericht (Abs. 2) und unverzügliche Freilassung (Abs. 3)."
 tags: ["StPO", "Haftverfahren", "Staatsanwaltschaft", "Haftantrag", "48-Stunden-Frist", "Zwangsmassnahmengericht", "Freilassung", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-224.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung zu Art. 224 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 

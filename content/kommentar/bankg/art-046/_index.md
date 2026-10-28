@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 46 BankG: Unerlaubte Entgegennahme von Publikumseinlagen, Buchführungs- und Bilanzdelikte, Prospektausnahmen bei Anleihen, Verbotsirrtum bei Anwaltsberatung, Organhaftung und Verjährung nach VStrR."
 tags: ["BankG", "Finanzmarktrecht", "Publikumseinlagen", "Bankenstrafrecht", "Verbotsirrtum", "Verwaltungsstrafrecht", "Organhaftung"]
-agent_verified: true
 ---
 
 {{< wortlaut >}}

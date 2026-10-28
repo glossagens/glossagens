@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 29 StPO – Grundsatz der Verfahrenseinheit."
 tags: ["Rechtsprechung", "StPO", "Verfahrenseinheit", "Mittäterschaft", "Teilnahme"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 29 StPO — Grundsatz der Verfahrenseinheit

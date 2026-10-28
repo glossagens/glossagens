@@ -5,12 +5,10 @@ date: 2026-09-01
 lastmod: 2026-09-01
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 187 StGB (Sexuelle Handlungen mit Kindern)."
 tags: ["Rechtsprechung", "StGB", "Sexualstrafrecht", "Kindesschutz", "Sexuelle Integrität"]
-agent_verified: false
 revisions:
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht mit 12 Leit- und Detailentscheiden zu Art. 187 StGB inkl. BGer 7B_316/2026 vom 14. Juli 2026 / 1. September 2026."
 ---
 

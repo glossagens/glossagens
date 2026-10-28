@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: "2026-09-15"
 description: "Übersicht der zentralen Entscheide zu Art. 728 ZGB — Ersitzung beweglicher Sachen: Tatbestandsmerkmale (Eigenbesitz, Ununterbrochenheit, Unangefochtensein, guter Glaube), Fristen (5 Jahre, 2 Monate häusliche Tiere, 30 Jahre Kulturgüter/KGTG), unfreiwilliger Besitzverlust (Abs. 2), Fristberechnung/Unterbrechung/Stillstand (Abs. 3), Ersitzung als Ausschlussgrund der Vindikation und Verhältnis zu Art. 934, 936, 930, 662."
 tags: ["Rechtsprechung", "ZGB", "Ersitzung", "originärer Eigentumserwerb", "guter Glaube", "Eigenbesitz", "unangefochten", "Kulturgüter", "KGTG", "Tiere", "Verjährung"]
-agent_verified: false
 revisions:
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 9 im Volltext abgerufen (BGE 65 II 62, 94 II 297, 100 II 8, 103 II 186, 105 IV 303, 113 II 397, 116 II 267, 121 III 345, 139 III 305; BL KG 410 23 305). Links verbatim aus document_url-Feldern übernommen."
 ---
 

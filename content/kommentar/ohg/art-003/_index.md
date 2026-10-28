@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Kommentar zu Art. 3 OHG — Örtlicher Geltungsbereich der Opferhilfe: Inlandsbezug, Auslandstaten und Beratungsleistungen"
 tags: ["OHG", "Opferhilfe", "örtlicher Geltungsbereich", "Auslandstaten", "Beratungsstelle", "Entschädigung"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitung: Frontmatter-Upgrade, Links zu entscheidsuche.ch migriert, Fedlex-Wortlaut geprüft, Praxisbeispiele ergänzt"
 ---
 

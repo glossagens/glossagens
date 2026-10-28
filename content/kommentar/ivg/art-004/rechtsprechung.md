@@ -5,7 +5,6 @@ date: 2026-06-07
 lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 4 IVG – Invaliditätsursachen, Invaliditätseintritt, Geburtsgebrechen"
 tags: ["Rechtsprechung", "IVG", "Invalidität", "Geburtsgebrechen", "Invaliditätseintritt"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

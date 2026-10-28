@@ -28,12 +28,10 @@ normen:
   - { gesetz: zgb, art: art-084 }
   - { gesetz: zgb, art: art-335 }
 stichworte: ["Rechtsform", "Rechtsformwahl", "Gesellschaftsform", "Numerus clausus", "Formenzwang", "Personengesellschaft", "Körperschaft", "juristische Person", "Rechtspersönlichkeit", "Handelsregister", "Haftung der Gesellschafter", "Durchgriff", "faktisches Organ", "Idealverein", "Familienstiftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ grundlage). Normtexte Art. 530 OR, Art. 52 und 80 ZGB per {{< wortlaut >}} (scripts/wortlaut.py); alle übrigen genannten Bestimmungen aus OR und ZGB über die Fedlex-MCP geprüft (Stand OR 01.10.2026, ZGB 01.07.2026). Sieben Leitentscheide als Volltext von entscheidsuche.ch geladen (MCP offline, direkt über den ES-Proxy); Erwägungsnummern, Anker und wörtliche Zitate gegen den Volltext abgeglichen, bei französischsprachigen Entscheiden nur aus der deutschen Regeste zitiert."
 ---
 

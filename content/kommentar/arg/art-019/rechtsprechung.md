@@ -5,7 +5,6 @@ date: "2026-07-09"
 lastmod: "2026-07-09"
 description: "Übersicht der Entscheide zu Art. 19 ArG – Ausnahmen vom Verbot der Sonntagsarbeit"
 tags: ["Rechtsprechung", "ArG", "Sonntagsarbeit", "Bewilligung", "Verkaufssonntage"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

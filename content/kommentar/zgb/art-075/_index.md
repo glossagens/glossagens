@@ -5,17 +5,14 @@ date: 2026-09-04
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 75 ZGB: Anfechtungsobjekt, Aktiv- und Passivlegitimation, Gesetzes- und Statutenverletzungen, Relevanztheorie bei Verfahrensmängeln, Rügeobliegenheit nach Treu und Glauben, zwingende Ausschöpfung des Vereinsinstanzenzugs, einmonatige Verwirkungsfrist und die Fristenfalle der Klagebewilligung (Art. 209 Abs. 4 ZPO) sowie Abgrenzung zur Nichtigkeit — mit detaillierter Kasuistik zu Vereins- und Stockwerkeigentümerbeschlüssen."
 tags: ["ZGB", "Vereinsrecht", "Anfechtungsklage", "Vereinsbeschluss", "Stockwerkeigentum", "Aktivlegitimation", "Verwirkungsfrist", "Klagebewilligung", "Rechtsmissbrauch", "Vereinsausschluss", "Zirkularbeschluss", "Traktandierung", "Nichtigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-075.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 87 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Praxiskommentar zu Art. 75 ZGB nach dem Benchmark von Art. 110 StPO und Art. 336 OR erstellt. Strukturierung streng entlang der Tatbestandsmerkmale des Prüfschemas. Gesetzeswortlaut verbatim nach Fedlex (SR 210, Stand 1. Juli 2026, Fassung gemäss BG vom 17. März 2023). Volltextauswertung und Verlinkung auf entscheidsuche.ch von BGE 132 III 503, BGE 135 III 489, BGE 118 II 12, BGE 114 II 193, BGE 136 III 174, BGE 123 III 193, BGE 108 II 15, BGE 90 II 346, BGE 85 II 525 sowie BGer 5A_562/2025, 5A_449/2025, 5A_532/2025, 5A_974/2022 und der kantonalen Leiturteile HG Bern HG 2024 9 und OGer ZH LB250025."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-10-01
 description: "Rechtsprechungssammlung zu Art. 42 BGG – Begründungspflicht, qualifizierte Rügepflicht, Verweisungsverbot, Nichteintretenspraxis und Fallgruppen."
 tags: ["BGG", "Beschwerde", "Begründungspflicht", "Rechtsschrift", "Bundesgericht", "qualifizierte Rügepflicht", "Nichteintreten", "appellatorische Kritik"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erweiterung um BGer 7B_1084/2026 und 7B_1086/2026 (Nichteintreten bei ungenügender Begründung). Belege via OCL get_erwaegung geprueft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: Links auf entscheidsuche.ch umgestellt"
 ---
 

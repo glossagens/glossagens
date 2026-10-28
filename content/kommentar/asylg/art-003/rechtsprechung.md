@@ -5,7 +5,6 @@ date: 2026-06-07
 lastmod: 2026-10-23
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 3 AsylG — Grundsatzurteile des Bundesverwaltungsgerichts zur Schutztheorie, zu Verfolgungsmotiven, frauenspezifischen Fluchtgründen, Wehrdienstverweigerung und Nachfluchtgründen."
 tags: ["Rechtsprechung", "AsylG", "Flüchtlingsbegriff", "BVGE", "Schutztheorie", "Wehrdienstverweigerung", "Eritrea", "Frauenspezifische Verfolgung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

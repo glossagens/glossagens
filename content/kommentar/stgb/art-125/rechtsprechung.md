@@ -5,27 +5,22 @@ date: 2026-07-04
 lastmod: "2026-10-19"
 description: "Übersicht der Rechtsprechung zu Art. 125 StGB — Fahrlässige Körperverletzung: Sorgfaltspflichtverletzung, erlaubtes Risiko, Pflichtwidrigkeitszusammenhang, alternative Kausalität, Abgrenzung zum Eventualvorsatz und subjektiver Sorgfaltsmassstab."
 tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Erlaubtes Risiko", "Eventualvorsatz", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BGer 6B_266/2026 (Laderampen-Unfall, Garantenstellung/Sicherheitsverantwortlicher, Mitverschulden/Unterbrechung, Vorhersehbarkeit durch Vorfällerignis) als weiterer BGer-Entscheid eingefügt; Volltext via OCL fetch verifiziert"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 6 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 109 IV 18 (Milzriss, schwere Schädigung), BGE 122 IV 145 (subjektiver Sorgfaltsmassstab), BGE 133 IV 9 (Eventualvorsatz vs. Fahrlässigkeit), BGE 134 IV 193 (erlaubtes Risiko, HIV), BGE 135 IV 56 (alternative Kausalität, Arzt-Unbedenklichkeitserklärung), BGE 143 IV 138 (Sorgfaltspflicht im Strassenverkehr); fabrizierte und irrelevante Zitate entfernt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

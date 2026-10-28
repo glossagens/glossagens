@@ -5,17 +5,14 @@ date: 2026-09-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 298d ZGB: Neuregelung der elterlichen Sorge, Obhut, Betreuungsanteile und des persönlichen Verkehrs für Kinder unverheirateter Eltern durch die KESB, Voraussetzungen der wesentlichen Veränderung der Verhältnisse, Abgrenzung zu Art. 311 ZGB sowie gerichtliche Kompetenzattraktion bei Unterhaltsklagen (Abs. 3) — mit ausführlicher Kasuistik, Schwellenwerten und Praxishinweisen."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Elterliche Sorge", "Obhut", "Alternierende Obhut", "Besuchsrecht", "Betreuungsanteile", "KESB", "Kompetenzattraktion", "Kindesunterhalt", "Kindeswohl"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-298d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar zu Art. 298d ZGB. Gesetzeswortlaut verbatim nach Fedlex (SR 210, Stand 1. Juli 2026). Volltextrecherche und Verifikation über entscheidsuche.ch: BGE 141 III 472, BGE 142 III 197, BGE 145 III 436, BGE 142 III 612, BGE 144 III 10; BGer 5A_440/2025, 5A_344/2026, 5A_13/2024, 5A_248/2023, 5A_239/2021, 5A_266/2017, 5A_617/2021; kantonale Leitpraxis aus BS (VD.2020.43), SG (FO.2022.15-K2, V-2019/32, FO.2017.6/1), BE (ZK 18 503, KES 20 852, KES 2019 280) und ZH (LZ150007, PQ180090). Systematisches Prüfschema, Gegenüberstellungstabellen ohne Code-Fences, Judikaturwidersprüche zur Kompetenzattraktion und adressatengerechte Praxishinweise."
 ---
 

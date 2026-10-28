@@ -5,32 +5,26 @@ date: 2026-09-12
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 85a SchKG — Negative Feststellungsklage, vorläufige Einstellung, Beweismass, Drittpfandsteller, Konkurs des Klägers, Betreibungsregister, Verhältnis zu Art. 85 und Art. 8a, Rückzug als Rechtsöffnungstitel."
 tags: ["Rechtsprechung", "SchKG", "Feststellungsklage", "negative Feststellungsklage", "Beweismass", "Betreibungsregister", "Konkurs", "Aufhebungsklage", "Grenzkasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 140 III 41 (Verhältnis Art. 85/85a, Notbehelf), BGE 147 III 544 (Nichtbekanntgabe/Jahresfrist Art. 8a), BGE 148 III 30 (Rückzug kein Rechtsöffnungstitel), BGer 4A_619/2023 (vorsorgliche Massnahmen) als neue Leitentscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 5 BGE-Leitentscheide (125 III 149, 127 III 41, 128 III 334, 132 III 89, 141 III 68), 4 weitere BGer-Entscheide, 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-05-15
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

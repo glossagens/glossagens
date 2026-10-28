@@ -5,22 +5,18 @@ date: 2026-07-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 63 ZPO: Rückdatierung der Rechtshängigkeit bei Einreichung bei unzuständigem Gericht oder im falschen Verfahren."
 tags: ["ZPO", "Rechtshängigkeit", "Zuständigkeit", "Monatsfrist", "Lugano"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-063.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 43 % → 85 %, Urteil A): Spannen-Pinpoints (E. 3.2–3.3, E. 2.7–2.8, E. 3.3 in fine) durch die tragenden Einzelerwägungen ersetzt; Aussage zur SchKG-Sonderfrist auf den Normtext gestützt, weil BGE 141 III 481 sie nicht trägt; nicht verifizierbare Belege zur Auslandskonstellation entfernt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 40 % (Urteil C); 11 von 41 Paaren gestützt; 19 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

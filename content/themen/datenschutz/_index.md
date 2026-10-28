@@ -22,12 +22,10 @@ normen:
   - { gesetz: dsg, art: art-034 }
   - { gesetz: dsg, art: art-041 }
 stichworte: ["Datenschutz", "Datenschutzgesetz", "DSG", "informationelle Selbstbestimmung", "Personendaten", "Bearbeitungsgrundsätze", "Auskunftsrecht", "EDÖB", "Rechtfertigungsgrund", "Datensicherheit", "Profiling", "DSGVO"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Erstfassung des Themas. Normtexte Art. 13 BV sowie Art. 1 und 6 DSG per Shortcode wortlaut aus amtlicher Fedlex-Quelle (scripts/wortlaut.py). Alle Entscheide (BGE 147 I 372, 143 I 253, 140 I 381, 138 II 346, 136 II 508, 148 II 349, 142 III 263, 138 III 425, 144 III 519, 147 III 139, 146 IV 226) über entscheidsuche.ch verlinkt; Erwägungsanker und Zitate gegen die Volltexte verifiziert."
 ---
 

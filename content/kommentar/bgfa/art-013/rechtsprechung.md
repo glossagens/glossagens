@@ -5,22 +5,18 @@ date: 2026-08-29
 lastmod: "2026-10-08"
 description: "Leitentscheide und weitere Rechtsprechung zu Art. 13 BGFA — Berufsgeheimnis, Entbindung, Voraus-Entbindung, Entsiegelung, fahrlässige Verletzung, Hilfspersonen."
 tags: ["Rechtsprechung", "BGFA", "Berufsgeheimnis", "Entbindung", "Art. 321 StGB"]
-agent_verified: true
 revisions:
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 2C_224/2026 vom 10.9.2026 zur Interessenabwägung bei Honorarklagen, Substanziierungslast individueller Geheimhaltungsinteressen und Vorschusspflicht nach Todesfall."
   - date: 2026-08-29
     by: "Claude Code"
     model: claude-opus-4-8
-    mcp_verified: true
     note: "Erhebliche Ausarbeitung mit 25+ Entscheiden; alle Links via entscheidsuche.ch verifiziert"
   - date: 2026-07-18
     by: "Claude Code"
     model: claude-sonnet-4-20250514
-    mcp_verified: false
     note: "Erstfassung"
 ---
 

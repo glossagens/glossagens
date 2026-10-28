@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 17a StG (Befreiung kollektiver Kapitalanlagen von der Umsatzabgabe; Einanlegerfonds; Art. 119 KAG)"
 tags: ["Rechtsprechung", "StG", "Umsatzabgabe", "Stempelabgaben", "Kollektive Kapitalanlagen", "KAG"]
-agent_verified: false
 ---
 
 # Rechtsprechungssammlung zu Art. 17a StG

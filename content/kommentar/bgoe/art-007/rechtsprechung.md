@@ -5,7 +5,6 @@ date: 2026-10-05
 lastmod: 2026-10-05
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts, des Bundesverwaltungsgerichts und der kantonalen Gerichte zu Art. 7 BGÖ (Ausnahmetatbestände, Gefährdungsgrad, Meinungsbildung, Geschäftsgeheimnisse, Sicherheit und Schutz der Privatsphäre)."
 tags: ["Rechtsprechung", "BGÖ", "Ausnahmen", "Geheimhaltung", "Geschäftsgeheimnis", "Privatsphäre", "Leitentscheide"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide des Bundesgerichts

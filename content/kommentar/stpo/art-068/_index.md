@@ -5,22 +5,18 @@ date: 2026-07-03
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 68 StPO: Recht der beschuldigten Person auf Übersetzung; bedarfsgerechter Anspruch; Verhältnis zu Art. 6 Ziff. 3 lit. e EMRK und Art. 29 Abs. 2 BV; keine vollständige Übersetzung aller Dokumente."
 tags: ["StPO", "Übersetzung", "Dolmetschen", "Verfahrensrechte", "EMRK", "Sprachrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-068.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 25 %). Beide zitierten Entscheide existieren und treffen zu, doch der einschlägige Leitentscheid BGE 143 IV 117 (Verfahrenssprache und Übersetzung) fehlte ebenso wie die eigentliche Kernaussage von BGE 145 IV 197 (fehlende Übersetzung eines Strafbefehls ist weder Revisions- noch Nichtigkeitsgrund). Pinpoint zu BGE 145 IV 197 auf E. 1.3.3 präzisiert; unbelegte Aussagen zur Umsetzung der EMRK-Garantien und zur EGMR-Kostenrechtsprechung entfernt; Art. 422 Abs. 2 lit. b statt lit. c korrigiert. Erfundene Literaturliste entfernt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit KW33 StPO"
 ---
 

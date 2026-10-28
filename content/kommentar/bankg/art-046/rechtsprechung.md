@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Rechtsprechung zu Art. 46 BankG: Unerlaubte Entgegennahme von Publikumseinlagen, Prospektanforderungen, Verbotsirrtum, Gehilfenschaft und Verjährungsunterbrechung."
 tags: ["Rechtsprechung", "BankG", "Publikumseinlagen", "Bankenstrafrecht"]
-agent_verified: true
 ---
 
 ### I. Leitentscheide

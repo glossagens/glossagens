@@ -5,37 +5,30 @@ date: 2026-09-12
 lastmod: 2026-10-27
 description: "Übersicht der Rechtsprechung zu Art. 73 SchKG — Leitentscheide des Bundesgerichts und kantonale Praxis zu Belegeinsicht, Forderungsübersicht, Ausschluss von Fristhemmung und Vollstreckungsblockade sowie Prozesskostenfolgen."
 tags: ["Rechtsprechung", "SchKG", "Einsichtsrecht", "Beweismittel", "Forderungsübersicht", "Prozesskosten", "Rechtsvorschlag", "Beweismass", "Gebührenfreiheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht: 6 BGE-Leitentscheide (121 III 18, 149 III 218, 149 III 268, 125 III 149, 140 III 481, 142 III 210), 9 Bundesgerichtsurteile (7B.184/2004, 5A_582/2009, 5A_861/2013, 5A_838/2016, 5A_837/2018, 5A_959/2019, 5A_286/2023, 5A_14/2024, 5A_1053/2025) und 5 wegweisende kantonale Entscheide (KG FR 105 2026 47, OG SO SCBES.2019.134, OG ZH PS240113, OG BE ABS 19 119, OG SH 93/2010/18A) mit detaillierten Sachverhalten, Kernaussagen und verifizierten entscheidsuche.ch-Links aufgenommen."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 149 III 268 (Streitgegenstand/Umschreibung) neu aufgenommen; BGE 149 III 218 E. 2.2 vertieft; BGer 5A_838/2016 (Umschreibung) neu; SH Obergericht 93/2010/18A (Gebührenfreiheit) neu; ZH Obergericht PS250375, AG Obergericht KBE.2025.67, ZG Obergericht BA 2023 75 (Beweismass kantonale Rspr.) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 2 BGE-Leitentscheide (149 III 218, 121 III 18), 6 BGer-Entscheide (5A_14/2024, 5A_837/2018, 5A_861/2013, 7B_184/2004, 5A_582/2009, 5A_959/2019), 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

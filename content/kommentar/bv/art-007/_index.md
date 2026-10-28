@@ -5,22 +5,18 @@ date: 2026-07-17
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 7 BV: Achtung und Schutz der Menschenwürde als Leitgrundsatz und Auffanggrundrecht; Schutzgehalt bei medizinischen Zwangsmassnahmen, Haftbedingungen, Nothilfe und Schuldhaft; Verhältnis zu Art. 3 EMRK."
 tags: ["BV", "Grundrechte", "Menschenwürde", "Auffanggrundrecht", "Zwangsbehandlung", "EMRK", "Haftbedingungen", "Nothilfe", "Schuldhaft"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 44 %, Urteil C): Belegapparat neu aufgebaut. Fünf Referenzen existierten nicht (BGE 134 I 239, 136 I 165, 144 I 273, 147 I 81, 148 I 309), sieben Pinpoints zeigten ins Leere, BGE 139 I 121 betrifft Ausstandsrecht statt Zwangsbehandlung. Zudem sachliche Fehler korrigiert (EGMR Bouyid: Belgien, nicht Frankreich; CPT ist ein Komitee, keine Kommission; Häfelin statt «Häflin»); Absatznummerierung geschlossen."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitet — Belegapparat beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 

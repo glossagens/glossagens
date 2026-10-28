@@ -5,7 +5,6 @@ date: "2026-07-09"
 lastmod: "2026-07-09"
 description: "Übersicht der Entscheide zu Art. 92 BGG – Vor- und Zwischenentscheide über Zuständigkeit und Ausstand"
 tags: ["Rechtsprechung", "BGG", "Zuständigkeit", "Ausstand", "Zwischenentscheid"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

@@ -5,7 +5,6 @@ date: "2026-07-10"
 lastmod: "2026-07-10"
 description: "Übersicht der Entscheide zu Art. 28 ArG – Geringfügige Abweichungen in Arbeitszeitbewilligungen"
 tags: ["Rechtsprechung", "ArG", "Arbeitszeitbewilligung", "Geringfügige Abweichung"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

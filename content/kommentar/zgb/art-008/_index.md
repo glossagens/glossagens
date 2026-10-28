@@ -5,22 +5,18 @@ date: 2026-06-28
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 8 ZGB — Gesetzliche Beweislastverteilung, bundesrechtlicher Beweisführungsanspruch, Regelbeweismass und Beweiserleichterungen, antizipierte Beweiswürdigung, Gegenbeweis und Praxishinweise."
 tags: ["ZGB", "Beweislast", "Beweisrecht", "Beweismass", "Beweisführungsanspruch", "Gegenbeweis", "Beweiserleichterung", "Zivilprozessrecht", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (v1.3.0): Prüfschema-Raster, ausführliche Sachverhaltsanalysen zu BGE 130 III 321, BGE 128 III 271, BGE 114 II 289, BGE 147 III 431, BGer 5A_1028/2020 und BGer 4A_290/2018, Grenzkasuistik (Angewandt vs. Verworfen), 3 strukturierte Vergleichstabellen, kantonale Praxis (SH, TG, ZH) und rollenspezifische Praxishinweise."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Wortlaut korrigiert ({: .gesetzeszitat}), Belegapparat komplett auf verifizierte Urteile und Pinpoints umgestellt, 16 verifizierte Entscheide eingearbeitet, kantonale Praxisfragen und dogmatische Abgrenzungen zur ZPO und BV integriert."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-08-08
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 72 StGB: Einziehung aller Vermögenswerte, die der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen, gesetzliche Vermutung und Beweislastumkehr."
 tags: ["StGB", "Einziehung", "Vermögensabschöpfung", "Kriminelle Organisation", "Terroristische Organisation", "Verfügungsmacht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung und Link-Korrektur: BGE 134 IV 185 (Drogenhändler ohne Schweizer Jurisdiktionsbezug, keine Einziehung), BGE 138 IV 1 (Geldwäscherei und kriminelle Organisation, absichtlich lockerer Zusammenhang), BGer 6B_238/2013 ('Ndrangheta, Unterstützung und Einziehung), BGer 6B_924/2020 (Verfügungsmacht, Organisationsdelikte), BGer 1B_79/2007 (Beweislastumkehr), BStGer BB.2020.62 (Einziehung bei Verfahrenseinstellung), BStGer TPF 2011 18 (Verfassungsmässigkeit der Vermutung), BStGer SN.2008.41 (Freigabe, Verfügungsmacht), BStGer BB.2008.26 (Vermutungswirkung bei Unterstützern), BStGer BB.2011.145 (Einziehungsbeschlagnahme), BStGer BB.2012.102 (komplexe Finanzstrukturen), BStGer BB.2006.72 (Drittbeteiligte); alle Links durch entscheidsuche.ch ersetzt; Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung des fehlenden Wortlaut-Blocks und fehlerhafter OCL-Links; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

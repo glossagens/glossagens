@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 647a ZGB — gewöhnliche Verwaltungshandlungen im Miteigentum: Stufenmodell Art. 647a–647e, Einzelvertretungsmacht, Abgrenzung zu wichtigeren Verwaltungshandlungen (Art. 647b) und baulichen Massnahmen (Art. 647d/647e), Nutzungs- und Verwaltungsordnung vs. Verwaltungshandlung, Verwalterbestellung und Vertretungsmacht."
 tags: ["Rechtsprechung", "ZGB", "Miteigentum", "Verwaltung", "gewöhnliche Verwaltungshandlungen", "Vertretungsmacht", "Nutzungs- und Verwaltungsordnung", "Stockwerkeigentum"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 1 im Volltext abgerufen (BGer 5A_29/2025; BE OG ZK 2020 538, BS APG ZB.2023.49, ZH OG PF180036, ZH OG UN010093, AG OG ZSU.2022.209, BE VB 32-13-07-139, AG OG ZOR.2022.10, SZ KG STK 2024 36, ZH OG NP200040 via Such-Snippets). Links verbatim aus document_url-Feldern übernommen."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-09-01
 lastmod: 2026-10-17
 description: "Übersicht der Rechtsprechung zu Art. 837 ZGB (Gesetzliche Grundpfandrechte, insbesondere Bauhandwerkerpfandrecht)."
 tags: ["Rechtsprechung", "ZGB", "Sachenrecht", "Bauhandwerkerpfandrecht", "Grundpfandrecht"]
-agent_verified: false
 revisions:
   - date: 2026-10-17
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung BGer 5A_211/2026 (konkludente Zustimmung bei Mieterbauten durch Mitunterzeichnung der Baugesuchspläne; Substanziierungslast). Entscheid via OCL (cite, get_decision_structure, get_erwaegung E. 8.1/8.2/8.4) verifiziert; Kernaussagen gegen den wörtlichen Entscheidtext geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 837 ZGB mit Leitentscheiden zum Bauhandwerkerpfandrecht und BGer 5A_101/2026."
 ---
 

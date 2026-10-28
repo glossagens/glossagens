@@ -5,22 +5,18 @@ date: "2026-07-04"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 263 StPO: Zwangsmassnahmenvoraussetzungen, die fünf Beschlagnahmearten (Beweismittel, Kostendeckung, Rückgabe, Einziehung, Ersatzforderung), Grenzkasuistik (u.a. Raserfahrzeuge, Leasing, Kontosperren, Kryptowährungen), Gültigkeitsvorschrift der nachträglichen schriftlichen Bestätigung (BGE 151 IV 18) sowie kantonale Praxis und Praxishinweise."
 tags: ["StPO", "Beschlagnahme", "Zwangsmassnahmen", "Beweismittel", "Kostendeckung", "Rückgabe", "Einziehung", "Ersatzforderung", "Via sicura", "Kontosperre", "Kryptowährung", "Siegelung", "Gültigkeitsvorschrift"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-263.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
   - date: "2026-09-08"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Praxiskommentar gemäss Standard (Benchmark Art. 110 StPO): Merkmalskatalog/Prüfschema vorangestellt, systematische Aufbereitung aller fünf Beschlagnahmearten (Abs. 1 lit. a-e), umfangreiche Sachverhalte (BGE 151 IV 18 Hanfsetzlinge, BGE 141 IV 360 Taggelder/Existenzminimum, BGE 144 IV 74 Siegelung vs. Beschlagnahme, BGE 139 IV 250 BMW X6 M, BGE 140 IV 133 Motorrad-Leasing, BGer 7B_1210/2025 Leasing-Lamborghini, BGer 7B_291/2023 Wertpapiere/Freigaben, BS APG BES.2022.43 Paper Wallets/Datenträger, BGer 1B_455/2022 Anwaltskosten), Grenzkasuistik (Angewandt vs. Verworfen), Kriterientabellen, Offenlegung der Judikaturwende bei Abs. 2 (Gültigkeitsvorschrift statt Ordnungsvorschrift), kantonale Praxisfragen und adressatenspezifische Praxishinweise am Schluss."
 ---
 

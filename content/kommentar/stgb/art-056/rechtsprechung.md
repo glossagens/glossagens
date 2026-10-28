@@ -5,17 +5,14 @@ date: 2026-08-29
 lastmod: 2026-09-22
 description: "Umfassende Übersicht der Rechtsprechung zu Art. 56 StGB — Allgemeine Voraussetzungen der Massnahmen, Subsidiarität der Strafe, Verhältnismässigkeit, forensische Begutachtung, Unabhängigkeit und Ausschlussgründe, Vollzugseinrichtungen und Aufhebung."
 tags: ["Rechtsprechung", "StGB", "Sanktionenrecht", "Massnahmenrecht", "Gutachten", "Verhältnismässigkeit", "Verwahrung", "Allgemeiner Teil", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-09-22
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht zum Praxiskommentar: 26 strukturierte Bundesgerichts- und kantonale Gerichtsentscheide mit Sachverhalten, Tragweiten und Verlinkungen auf entscheidsuche.ch; Verifikation aller Entscheide gegen die Urteilsdatenbank."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht mit 20 verifizierten Bundesgerichts- und kantonalen Entscheiden (Leitentscheide BGE, Obergerichte, Verwaltungsgerichte) mit konkreten Sachverhalten und Verlinkungen auf entscheidsuche.ch."
 ---
 

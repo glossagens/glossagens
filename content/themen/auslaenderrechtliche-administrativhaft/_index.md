@@ -21,12 +21,10 @@ normen:
   - { gesetz: bv, art: art-031 }
   - { gesetz: emrk, art: art-005 }
 stichworte: ["Ausschaffungshaft", "Durchsetzungshaft", "Vorbereitungshaft", "Dublin-Haft", "Administrativhaft", "ausländerrechtliche Haft", "Untertauchensgefahr", "Beschleunigungsgebot", "Haftentlassungsgesuch", "Haftdauer", "Landesverweisung", "Haftbedingungen"]
-agent_verified: false
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren). Normtexte Art. 73–81 AIG aus Fedlex (scripts/wortlaut.py, Stand 12.06.2026); Entscheide als Volltext über entscheidsuche.ch geladen, Zitate, Links und Anker mit pruefen.py ohne Befund. Zu BGE 142 I 135, 143 IV 168, 145 II 313, 148 II 169 und 150 II 57 stützt sich die Darstellung auf die Regesten; BGE 140 II 1 und 145 II 313 liegen nur französisch vor. agent_verified bewusst noch false (inhaltliche Durchsicht durch Maintainer)."
 ---
 

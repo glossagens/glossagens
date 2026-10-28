@@ -5,22 +5,18 @@ date: 2026-06-06
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 58 StGB — Trennungsgebot im Massnahmenvollzug, Vollzug in geschlossenen Strafanstalten nach Art. 59 Abs. 3 StGB und kantonale Vollzugspraxis."
 tags: ["Rechtsprechung", "StGB", "Massnahmenvollzug", "Trennungsgebot", "Therapeutische Massnahme", "Strafvollzug", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 8 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 147 IV 259 (Untersuchungshaft, Trennungsgebot), BGE 142 IV 1 (kleine Verwahrung als Vollzugsfrage), BGer 6B_708/2015 (JVA Pöschwies, Sachverhalt: Schändung, dissoziale Persönlichkeitsstörung), BGer 6B_625/2012 (Therapiestunde/Woche ungenügend, Sachverhalt: Raub, Hirnverletzung), BGE 134 IV 315 (altrechtliche Verwahrung, Behandlungschance), BGE 142 IV 105 (Beginn der fünfjährigen Dauer), ZH Verwaltungsgericht VB.2014.00726 (triftige Gründe, kleine Verwahrung), ZH Verwaltungsgericht VB.2014.00135 (vorzeitiger Massnahmeantritt, fehlende Zustimmung); SG Gericht B 2009/65 entfernt (unverifizierbar); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte Bundesgerichts- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

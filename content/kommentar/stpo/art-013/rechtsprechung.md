@@ -5,17 +5,14 @@ date: 2026-07-12
 lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 13 StPO – Gerichte (Ausstandslehre, gerichtliche Befugnisse, verfassungsmässiger Richter)"
 tags: ["Rechtsprechung", "StPO", "Gerichte", "Ausstand", "verfassungsmässiger Richter"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 24 %). Alle Entscheide und Erwägungsangaben einzeln gegen die MCP geprüft; sämtliche Referenzen existieren und treffen thematisch zu. Zitierweise vereinheitlicht, BGer 1B_266/2020 ergänzt, fehlender revisions-Block eingefügt."
   - date: 2026-07-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

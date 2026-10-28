@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 395 OR — Fiktive Auftragsannahme bei obrigkeitlicher Bestellung, gewerbsmässigem Betrieb und öffentlicher Empfehlung"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Fiktive Annahme", "Schweigen", "Berufspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Ersterstellung der Rechtsprechungsübersicht; BGE 105 II 253 via entscheidsuche verifiziert"
 ---
 

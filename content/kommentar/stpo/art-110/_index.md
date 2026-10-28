@@ -5,27 +5,22 @@ date: 2026-09-02
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 110 StPO: Schriftlichkeit und eigenhändige Unterschrift, elektronische Eingabe mit qualifizierter Signatur, Formfreiheit im Übrigen sowie Rückweisung unleserlicher, unverständlicher, ungebührlicher oder weitschweifiger Eingaben — mit der Kasuistik der Gerichte zu jeder Fallgruppe und der analogen Geltung für Gesuche der Staatsanwaltschaft."
 tags: ["StPO", "Form", "Eingaben", "Unterschrift", "Elektronische Eingabe", "Qualifizierte elektronische Signatur", "Entsiegelung", "Ungebührlichkeit", "Weitschweifigkeit", "Überspitzter Formalismus", "Nachfrist"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Prototyp Fedlex-Satzbild): Text unverändert, jetzt direkt aus dem HTML der Fedlex-Konsolidierung vom 1. April 2025 (data/wortlaut/stpo/art-110.json, scripts/wortlaut.py), inkl. Fussnoten 52/53. Kommentartext und Entscheide unverändert (verifiziert gemäss Revision vom 2026-09-12)."
   - date: 2026-09-12
     by: "Antigravity"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Nachgetragen: BGer 7B_165/2026 jetzt auf entscheidsuche.ch verfügbar; Links von opencaselaw-Fallback auf entscheidsuche.ch umgestellt."
   - date: 2026-09-02
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Nachtrag BGer 7B_165/2026 vom 5. August 2026 (Fünferbesetzung) und BGer 7B_487/2025 vom 24. September 2025. 7B_165/2026 nuanciert den Anwendungsbereich: Art. 110 StPO gilt analog, wo die Staatsanwaltschaft als Rechtssuchende an ein Gericht gelangt (Entsiegelungsgesuch), während 6B_700/2025 nur das verfahrensleitende Handeln der Strafbehörde von Abs. 2 ausnimmt; Abschnitt A entsprechend in drei Unterabschnitte umgebaut. 7B_487/2025 ergänzt das Ausstandsgesuch nach Art. 58 Abs. 1 StPO. Der Volltext von 7B_165/2026 wurde über entscheidsuche.ch geholt und die verwendeten Zitate zusätzlich gegen die amtliche Fassung auf bger.ch geprüft."
   - date: 2026-09-02
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstkommentierung. Gesetzeswortlaut verbatim aus Fedlex (SR 312.0, Konsolidierung 1. April 2025). Sämtliche Entscheide im Volltext über entscheidsuche.ch geholt und die Belegstellen wörtlich übernommen: BGE 142 I 10, BGE 142 IV 299, BGE 143 IV 483, BGE 142 V 152, BGer 6B_123/2018, 6B_307/2021, 6B_1272/2017, 6B_1405/2016, 6B_853/2020, 6B_585/2020, 6B_408/2023, 6B_18/2023, 6B_68/2024, 7B_819/2023, 7B_235/2025, 6B_700/2025, 1B_448/2019, 2C_783/2020, BStGer TPF 2024 54 und BB.2020.288 sowie kantonale Entscheide aus LU, ZH, AG und SO. Entscheide auf entscheidsuche.ch verlinkt; Erwägungsanker nur bei BGE gesetzt, da die BGer-Dokumente auf entscheidsuche keine `consideration`-Anker tragen. Schlussattest: Wortlaut korrekt (Fedlex); alle 20 Bundesentscheide über opencaselaw als existierend bestätigt; 135 von 138 wörtlichen Zitaten maschinell gegen die entscheidsuche-Volltexte verifiziert, die drei übrigen einzeln von Hand (Fehlschlag nur wegen eingeschobener Seitenumbruchmarken). Vier Zitate wurden dabei korrigiert (Kasus/ausgelassenes Wort) und zwei Auslassungen mit […] gekennzeichnet. Offen bleiben zwei Werkzeugbefunde ohne Sachgehalt: audit.py meldet die kantonalen und Bundesstrafgerichtsentscheide als «halluziniert», weil ihre Zitierform von opencaselaws citation_string abweicht (die close_matches weisen sie aus), und die Pinpoints BGE 142 I 10 E. 2.4.1–2.4.9 als nicht auflösbar, weil opencaselaw für diesen BGE nur die Erwägung «2» führt; die Erwägungsnummern sind im publizierten Text belegt (Anker consideration_2.4.x auf entscheidsuche)."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-05-23
 lastmod: 2026-06-06
 description: "Übersicht der massgeblichen Entscheide zu Art. 74 BGG – Streitwertgrenze und Rechtsfrage von grundsätzlicher Bedeutung"
 tags: ["Rechtsprechung", "BGG", "Beschwerde", "Zivilsachen", "Streitwert", "grundsätzliche Bedeutung"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 74 BGG — Streitwertgrenze](./)

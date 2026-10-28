@@ -5,17 +5,14 @@ date: 2026-09-29
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 106 BGG: Rechtsanwendung von Amtes wegen (Iura novit curia), Motivsubstitution, Schranke der überraschenden Rechtsanwendung (Art. 29 Abs. 2 BV), qualifiziertes Rügeprinzip für Grundrechte sowie kantonales und interkantonales Recht, Verbot appellatorischer Kritik, Anfechtungsobliegenheit bei Mehrfachbegründung und kantonale Praxisfragen."
 tags: ["BGG", "Bundesgericht", "Rechtsanwendung", "Iura novit curia", "Motivsubstitution", "Rügeprinzip", "Qualifizierte Rügepflicht", "Grundrechte", "Kantonales Recht", "Willkür", "Appellatorische Kritik", "Mehrfachbegründung", "Rechtliches Gehör"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-106.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-29
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung als umfassender Praxiskommentar nach dem Standard Art. 110 StPO / Art. 336 OR: Dogmatisches Prüfschema als Inhaltsraster, Verifikation des Fedlex-Gesetzeswortlauts (SR 173.110), Auswertung der Leitentscheide BGE 133 II 249, BGE 140 III 86, BGE 142 III 364, BGE 145 IV 99, BGE 130 III 35, BGE 136 III 247, BGE 138 I 97, BGE 138 III 728, BGE 145 I 26, BGE 147 IV 73, BGE 144 II 313, BGE 146 III 203, BGE 149 I 248, BGE 133 IV 286, BGE 134 II 244, BGE 148 IV 205 sowie kantonale Gerichtspraxis aus St. Gallen (ST.2025.83-SK3), Appenzell (KE 19-2025) und Zürich (VB.2024.00763, VB.2011.00442), Gegenüberstellungstabellen zur Kasuistik und adressatenbezogene Praxishinweise."
 ---
 

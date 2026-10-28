@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Rechtsprechung zu Art. 85 ZPO (Unbezifferte Forderungsklage und Stufenklage): BGE-Leitentscheide und kantonale Praxis."
 tags: ["Rechtsprechung", "ZPO", "Unbezifferte Forderungsklage", "Stufenklage", "Streitwert", "Bezifferung"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 85 ZPO mit 15 verifizierten Leitentscheiden und kantonalen Urteilen."
 ---
 

@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 934 ZGB — abhandengekommene Sache: fünfjähriges Rückforderungsrecht, Abgrenzung zur anvertrauten Sache (Art. 933) bei ertrogenen Sachen, Kulturgüter-Sonderfrist (Art. 934 Abs. 1bis, KGTG), Lösungsrecht im Marktverkehr (Abs. 2), Bösgläubigkeit und Branchenvertrautheit (Occasionswagen, Antiquitäten, Kunsthandel), Hehlerei und Betrug."
 tags: ["Rechtsprechung", "ZGB", "abhandengekommen", "Rückforderungsrecht", "Lösungsrecht", "gutgläubiger Erwerb", "Branchenvertrautheit", "Occasionswagen", "Kunsthandel", "Kulturgüter", "KGTG", "Hehlerei"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 6 im Volltext abgerufen (BGE 103 II 186, 105 IV 303, 113 II 397, 121 III 345, 122 III 1, 139 III 305; BGer 5A_925/2013, 5A_962/2017; BGE 121 IV 26; BL KG 460 2025 212 aus der Art. 933-Recherche). Links verbatim aus document_url-Feldern übernommen."
 ---
 

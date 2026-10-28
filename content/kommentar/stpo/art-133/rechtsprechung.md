@@ -5,7 +5,6 @@ date: 2026-06-20
 lastmod: "2026-06-19"
 description: "Übersicht der Rechtsprechung zu Art. 133 StPO — Bestellung der amtlichen Verteidigung (Fassung seit 1.1.2024)"
 tags: ["Rechtsprechung", "StPO", "Bestellung der amtlichen Verteidigung", "amtliche Verteidigung", "Wünsche der beschuldigten Person"]
-agent_verified: true
 ---
 
 ## Wichtiger Hinweis zur Reform 2022/2024

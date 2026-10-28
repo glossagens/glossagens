@@ -5,17 +5,14 @@ date: 2026-10-17
 lastmod: 2026-10-19
 description: "Kommentar zu Art. 10a BankG – Massnahmen im Bereich der Vergütungen bei staatlicher Beihilfe an systemrelevante Banken (Entstehungsgeschichte, TBTF-Materialien, Credit-Suisse-Notfallfusion, irreversible Streichung variabler Vergütungen)."
 tags: ["BankG", "systemrelevante Banken", "variable Vergütungen", "Too-Big-To-Fail", "Credit Suisse", "Gesetzesentstehung", "Materialien", "Verhältnismässigkeit", "Eigentumsgarantie"]
-agent_verified: true
 revisions:
   - date: 2026-10-17
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstkommentierung von Art. 10a BankG. Gesetzestext via Fedlex (SR 952.0, Konsolidierung 2026-10-01). Leitentscheid BGer 2C_322/2025 (Credit-Suisse-Vergütungsstreichung) via OCL verifiziert: cite (existenz), get_decision_structure, get_erwaegung (E. 4.4, 6.2.2, 6.4.5, 6.5, 7.1.2, 7.3.2, 7.4 — alle wörtlich). Begleitschied BVGer B-3655/2023 und BGer 2E_1/2024 via cite bestätigt. Belege gegen den Entscheidtext geprüft. Entscheidsuche-Dokument ohne consideration_-Anker — Pinpoints im Zitattext, Links ohne Anker."
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung um die Gesetzesentstehungsgeschichte gestützt auf die Materialien via OpenCaseLaw (Botschaft BBl 2011 4717, Revisionsbotschaft BBl 2023 2165, BGer 2C_322/2025 E. 6.4)."
 ---
 

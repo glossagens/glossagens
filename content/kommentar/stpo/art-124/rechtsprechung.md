@@ -5,12 +5,10 @@ date: 2026-07-10
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 124 StPO – Zuständigkeit und Verfahren (Zivilanspruch)"
 tags: ["Rechtsprechung", "StPO", "Zivilanspruch", "Zivilklage"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 31 %). Vier Erwägungsangaben korrigiert (BGE 146 IV 211 E. 3 → E. 3.1; 6B_936/2019 E. 12 → E. 7.3.2 und 7.4.1 f.; 6B_1189/2023 E. 2.5 → E. 12.3.3). Fehlender revisions-Block ergänzt."
 ---
 

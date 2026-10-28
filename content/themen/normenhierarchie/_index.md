@@ -16,12 +16,10 @@ normen:
   - { gesetz: bv, art: art-182 }
   - { gesetz: bv, art: art-051 }
 stichworte: ["Normenhierarchie", "Stufenbau der Rechtsordnung", "Bundesrecht bricht kantonales Recht", "Vorrang des Bundesrechts", "Völkerrecht und Landesrecht", "Schubert-Praxis", "PKK-Praxis", "Art. 190 BV", "Anwendungsgebot", "Verfassungsgerichtsbarkeit", "Normenkontrolle", "Lex superior", "Lex posterior", "Lex specialis"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Normenhierarchie im Bundesstaatsrecht. Normtexte Art. 49, 190, 5, 164, 182 und 51 BV per {{< wortlaut >}} aus der amtlichen Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 12 Leitentscheide als Volltext über entscheidsuche.ch geladen; Erwägungsnummern, Anker und jedes wörtliche Zitat gegen den Volltext abgeglichen."
 ---
 

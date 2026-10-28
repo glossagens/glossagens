@@ -5,22 +5,18 @@ date: "2026-07-03"
 lastmod: 2026-10-15
 description: "Praxisorientierter Gesetzeskommentar zu Art. 319 StPO: Vollständige und teilweise Verfahrenseinstellung, Leitprinzip «in dubio pro duriore», Aussage gegen Aussage, Tatverdacht, Rechtfertigungsgründe, Verjährung und Prozesshindernisse, Opportunität, Opferschutz nach Abs. 2, Sperrwirkung von Teileinstellungen (ne bis in idem) und Praxishinweise."
 tags: ["StPO", "Einstellung", "in dubio pro duriore", "Tatverdacht", "Aussage gegen Aussage", "Teileinstellung", "ne bis in idem", "Opferschutz", "Rechtfertigungsgrund", "Verjährung", "Rechtsmittel"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-319.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Ausbau gemäss Leitfaden: Merkmalskatalog, zweiseitige Grenzkasuistik (u.a. BGer 1B_362/2016, 7B_163/2022, 6B_790/2022, 7B_173/2025, 7B_316/2026, BGE 147 I 386, 144 IV 362, 148 IV 124), Kasuistiktabellen, kantonale Praxisfragen (ZH, SG, UR, AG) und Praxishinweise nach Rollen. Sämtliche Urteilsfundstellen über entscheidsuche.ch im Volltext verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

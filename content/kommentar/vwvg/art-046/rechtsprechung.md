@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 46 VwVG – Selbstständige Anfechtbarkeit von Zwischenverfügungen"
 tags: ["Rechtsprechung", "VwVG", "Zwischenverfügung", "Anfechtung"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil A 83%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Pinpoints für BGE 137 V 210 (E. 3.4.2.6) und BGE 138 V 271 (E. 4) korrigiert, Kernaussagen an den tatsächlichen Erwägungstext angepasst."
 ---
 

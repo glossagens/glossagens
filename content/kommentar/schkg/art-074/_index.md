@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 74 SchKG: Frist und Form des Rechtsvorschlags, Erklärung gegenüber dem Überbringer, Übermittlung per Post, Telefax und E-Mail, Teilrechtsvorschlag nach der Revision 1994, strenges Regelbeweismass ohne Beweisnot, Vorankündigung und gebührenfreie Bescheinigung."
 tags: ["SchKG", "Rechtsvorschlag", "Frist", "Formfreiheit", "Teilrechtsvorschlag", "Beweislast", "Empfangsprinzip", "E-Mail", "Telefax", "Überbringer", "Zahlungsbefehl"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung als umfassender praxiskonformer Gesetzeskommentar gemäss Skill praxisorientierter-kommentar: Merkmalskatalog und Prüfschema vorangestellt, authentische Gesetzesmaterialien (BBl 1991 III 1 S. 62 f.) zur Beseitigung der Fussangel beim Teilrechtsvorschlag eingearbeitet, umfangreiche narrative Lebenssachverhalte (BGE 149 III 218, BGE 127 III 181, BGE 108 III 6, BGE 98 III 27, BGE 99 III 58, BGE 84 III 13, BGE 89 III 10, BGE 91 III 1, BGE 140 III 567, BGer 5A_406/2025, ZG OG BA 2025 81, AR OG OG AB-15-5, SO OGer ZZ.1986.8), zweiseitige Grenzkasuistik (wirksam vs. unwirksam/verspätet), Judikaturdivergenz zum Beweismass bei E-Mail-Übermittlung, kantonale Praxisfragen und Praxishinweise nach Rollen; wörtlich verifiziert auf entscheidsuche.ch; kein Eszett."
 ---
 

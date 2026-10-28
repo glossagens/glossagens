@@ -13,12 +13,10 @@ tags:
 - Öffentlichkeitsgesetz
 - Transparenz
 - Verwaltungsrecht
-agent_verified: true
 revisions:
 - date: '2026-10-05'
   by: Antigravity
   model: Gemini 3.8 Flash
-  mcp_verified: true
   note: Initiale Erstellung der Gesetzesseite für das BGÖ
 ---
 

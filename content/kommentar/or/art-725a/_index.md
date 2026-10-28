@@ -5,27 +5,22 @@ date: 2026-08-29
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 725a OR: Hälftiger Kapitalverlust, gesetzliche Berechnungsformel, Schutzreserven vs. freie Kapitaleinlagereserven, Fortgeltung der Judikatur zu aArt. 725 Abs. 1 aOR, Verbot der Einlagenrückgewähr bei Aktivdarlehen, Sanierungsmassnahmen des VR und der GV (Harmonika-Sanierung, Forderungsverzicht à fonds perdu), eingeschränkte Revision bei Opting-out und Organhaftung."
 tags: ["OR", "Aktienrecht", "Kapitalverlust", "Sanierung", "Harmonika", "Unterbilanz", "Verwaltungsrat", "Opting-out", "Eingeschränkte Revision", "aArt. 725 OR"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Umfassende praxisorientierte Überarbeitung und Ausbau: Detaillierte Herausarbeitung der Entstehungsgeschichte aus aArt. 725 Abs. 1 aOR; systematische Vergleichstabelle zur Fortgeltung und Modifikation der Alt-Judikatur (BGE 121 III 420, BGE 138 III 204, BGE 140 III 533, BGE 136 III 322, BGer 4A_236/2015, OG SH 40/2017/30, ZH OG PS170163, ZH HG HE170080); Ausbau der Sachverhalte zu vielschichtigen Lebenssachverhalten; Vertiefung der zweiseitigen Grenzkasuistik (Zulässige vs. unzulässige Harmonika, Forderungsverzicht vs. Rangrücktritt); tabellarische Vergleiche und rollenbasierte Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-725a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach dem Standard von Art. 110 StPO und Art. 336 OR: Vollständiges Prüfschema, Gliederung entlang der abstrakten Tatbestandsmerkmale, dichte Kasuistik mit ausführlichen Lebenssachverhalten (BGE 121 III 420, BGE 138 III 204, BGE 140 III 533, BGE 150 V 57, BGE 136 III 322, BGE 132 III 564, BGer 4A_236/2015, OG SH 40/2017/30, ZH HG HE170080, ZH HG HE200295, ZH OG PS170163), zweiseitige Grenzkasuistik (Angewandt vs. Verworfen), tabellarische Gegenüberstellungen ohne Code-Fences, kantonale Praxisfragen und rollenbasierte Praxishinweise."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung des Kommentars und der Rechtsprechungsübersicht zu Art. 725a OR gemäss revidiertem Aktienrecht (in Kraft seit 1. Jan. 2023)."
 ---
 

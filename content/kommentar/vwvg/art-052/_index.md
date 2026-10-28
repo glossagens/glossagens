@@ -5,27 +5,22 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 52 VwVG: Beschwerdeschrift — Inhalt, Form, Rechtsbegehren, Begründung, Nachfristansetzung nach Abs. 2 und Kasuistik."
 tags: ["VwVG", "Beschwerdeschrift", "Form", "Rechtsbegehren", "Nachfrist", "überspitzter Formalismus", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-052.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Beschwerdeschrift, Streitgegenstand (BGE 136 II 165), Verbot des überspitzten Formalismus (BGE 142 I 10), zwingende Nachfrist (BGE 134 II 244; BGer 2C_770/2021) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Korrekturen"
   - date: 2026-05-23
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau"
 ---
 

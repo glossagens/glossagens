@@ -5,13 +5,10 @@ date: "2026-10-21"
 lastmod: "2026-10-21"
 description: "Rechtsprechungsübersicht zu Art. 164 StGB — Gläubigerschädigung durch Vermögensminderung: Leitentscheide des Bundesgerichts, bundesgerichtliche Urteile und kantonale Praxis."
 tags: ["Rechtsprechung", "StGB", "Konkursdelikte", "Gläubigerschädigung", "Vermögensminderung", "Haftungssubstrat", "Auffanggesellschaft", "Verlustschein"]
-agent_verified: true
-mcp_verified: true
 revisions:
   - date: "2026-10-21"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung: 12 ausgewählte Entscheide mit detaillierten Sachverhalts- und Urteilsabstracts, Erwägungsangaben und Verlinkung auf entscheidsuche.ch."
 ---
 

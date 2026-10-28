@@ -5,7 +5,6 @@ date: 2026-06-06
 lastmod: 2026-06-20
 description: "Übersicht der Entscheide zu Art. 4 AIG — Integration: Integrationsziel, Sprachkenntnisse, Integrationskriterien"
 tags: ["Rechtsprechung", "AIG", "Integration", "Integrationskriterien", "Sprachkenntnisse"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 4 AIG — Integration](./)

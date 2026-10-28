@@ -5,17 +5,14 @@ date: 2026-09-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 839 ZGB: Viermonatige Eintragungsfrist für das Bauhandwerkerpfandrecht, Vollendung der Arbeit, vorläufige Eintragung (Art. 961 ZGB), Sicherheitsleistung und Sonderregelung für Verwaltungsvermögen."
 tags: ["ZGB", "Sachenrecht", "Bauhandwerkerpfandrecht", "Eintragungsfrist", "Vollendung der Arbeit", "Sicherheitsleistung", "Verwaltungsvermögen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-839.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 839 ZGB unter Berücksichtigung der Neufassung von Abs. 3 (in Kraft seit 1. Januar 2026, BG über Baumängel); Einarbeitung von BGer 5A_101/2026 (keine Fristverlängerung durch Nachbesserungen und unbestellte Arbeiten) sowie BGE 125 III 113."
 ---
 

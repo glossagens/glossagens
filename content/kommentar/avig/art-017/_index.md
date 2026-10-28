@@ -5,17 +5,14 @@ date: 2026-07-03
 lastmod: 2026-10-20
 description: "Praxiskommentar zu Art. 17 AVIG: Schadenminderungspflicht, Stellensuche vor und während Arbeitslosigkeit, Rekrutenschule (BGE 152 V 60), Kündigungsausspruch und Wochenenden (BGer 8C_109/2026), Nachweisfristen und Sanktionspraxis."
 tags: ["AVIG", "Arbeitslosenversicherung", "Kontrollpflichten", "Stellensuche", "Schadenminderungspflicht", "Einstellung", "Rekrutenschule", "Rückfall"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollausbau zum Praxiskommentar: Dogmatisches Prüfschema, zweiseitige Grenzkasuistik, Integration der Leitentscheide BGE 152 V 60 (Stellensuche in der Rekrutenschule) und BGer 8C_109/2026 (Beginn ab Kündigungsausspruch, Wochenenden/Feiertage, digitale Bewerbungen), Beweislastregeln zum Postversand (ZH SVG AL.2025.00041), kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode wortlaut umgestellt (Fedlex-Satzbild)."
 ---
 

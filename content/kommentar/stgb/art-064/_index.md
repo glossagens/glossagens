@@ -5,17 +5,14 @@ date: 2026-09-21
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 64 StGB: Ordentliche und lebenslängliche Verwahrung, Anlasstaten, Schwere der Beeinträchtigung, Therapierbarkeit, Vorrang von Art. 59 StGB, Grenzkasuistik und Praxishinweise."
 tags: ["StGB", "Verwahrung", "Lebenslängliche Verwahrung", "Massnahmen", "Therapierbarkeit", "Psychische Störung", "Gutachten", "Strafvollzug"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-064.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "claude-3-7-sonnet"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR: Prüfschema, Anlasstatendogmatik (BGE 139 IV 57, BGE 148 IV 398, SG KGer ST.2021.78-SK3), Vorrang von Art. 59 StGB («Behandeln vor Verwahren», BGE 134 IV 315), Auslegung der lebenslänglichen Verwahrung (BGE 140 IV 1, BGE 141 IV 423 / BGer 6B_217/2015, BGE 146 IV 1), Aktengutachten, kantonale Praxisfragen und Praxishinweise."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-06-02
 lastmod: 2026-08-31
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 9 ATSG: Begriff der Hilflosigkeit, alltägliche Lebensverrichtungen, lebenspraktische Begleitung, Beweiswert von Abklärungsberichten und Schadensminderungspflicht."
 tags: ["Rechtsprechung", "ATSG", "Hilflosigkeit", "Hilflosenentschädigung", "Invalidenversicherung"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "BGer 8C_560/2025 ergänzt: Abgrenzung elementare Lebensverrichtungen vs. lebenspraktische Begleitung; blosse Anstösse durch Angehörige als zumutbare Schadensminderung."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

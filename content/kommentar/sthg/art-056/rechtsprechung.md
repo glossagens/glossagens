@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 56 StHG (SR 642.14) — Steuerhinterziehung, Versuch, straflose Selbstanzeige, Bussenbemessung, Teilnehmer- und Vertreterhaftung, EMRK-Vorgaben."
 tags: ["Rechtsprechung", "StHG", "Steuerhinterziehung", "Selbstanzeige", "Bussenbemessung", "Eventualvorsatz", "Vertreterhaftung", "EMRK"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 56 StHG mit 12 geprüften Leitentscheiden und kantonalen Urteilen. URLs via entscheidsuche.ch verifiziert."
 ---
 

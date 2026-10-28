@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-05-24
 description: "Übersicht der Entscheide zu Art. 173 ZGB – Unterhaltsbeitrag im Eheschutz"
 tags: ["Rechtsprechung", "ZGB", "Eheschutz", "Unterhaltsbeitrag"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

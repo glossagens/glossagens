@@ -5,22 +5,18 @@ date: 2026-07-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 17 StGB: Rechtfertigender Notstand — Voraussetzungen, Güterabwägung, Subsidiarität, Notstandshilfe bei der Fluchthilfe (Art. 116 AIG) und Verhältnis zu Art. 14 und 18 StGB sowie zum entschuldigenden Notstand."
 tags: ["StGB", "Notstand", "Rechtfertigungsgrund", "Güterabwägung", "Subsidiarität", "Notstandshilfe", "Ausländerrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-017.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Umfassend ausgebaut: Gesetzestext via Fedlex-MCP verifiziert; alle neuen Entscheide via opencaselaw (get_case_brief/get_decision) im Volltext geprüft. Ergänzt um Notstandshilfe bei der Fluchthilfe (BGE 146 IV 297 als bisher fehlender Leitentscheid, 6B_368/2017), Abgrenzung zur Wahrung berechtigter Interessen/Whistleblowing (6B_200/2018), Abgrenzung Notstand/Notwehr bei Tierangriffen (6B_495/2016), polizeilicher Waffengebrauch (6B_569/2012), Tauglichkeit der Notstandshandlung bei heimlicher Beweissicherung (6B_1356/2016), Tierrettung im Strassenverkehr (6B_7/2010), Notstand bei Haftbedingungen (6B_882/2021) sowie Bindungswirkung im Verwaltungsverfahren (1C_345/2012)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert (Stand 12.06.2026); alle Zitat-Links HTTP 200; agent_verified korrigiert"
 ---
 

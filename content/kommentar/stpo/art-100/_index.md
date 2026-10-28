@@ -5,22 +5,18 @@ date: "2026-06-20"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 100 StPO: Aktendossier, systematische Ablage und Verzeichnispflicht; Dokumentationspflicht der Strafbehörden als Voraussetzung des rechtlichen Gehörs und der Akteneinsicht."
 tags: ["StPO", "Aktenführung", "Dokumentationspflicht", "Aktendossier", "Verzeichnis", "Akteneinsicht", "rechtliches Gehör"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-100.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 25 %). BGE 147 IV 167 entfernt — der Entscheid betrifft die Unzulässigkeit eines zusätzlichen Schuldspruchs bei im Berufungsverfahren erweitertem Anklagesachverhalt, nicht die Aktenführung. Pinpoint 6B_719/2011 E. 5 auf E. 4.5 korrigiert, 6B_1366/2016 E. 3 entfernt (existiert nicht). Neu belegt mit BGer 6B_1368/2017 E. 2.3, das die Dokumentationspflicht ausformuliert. Erfundene Literaturliste durch die in der Rechtsprechung nachgewiesenen Werke ersetzt; unzulässiges Top-Level-Feld mcp_verified entfernt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1–6: Gesetzestext mit Fedlex verifiziert, alle OCL-Links geprüft (HTTP 200), Frontmatter aktualisiert."
 ---
 

@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 254 StPO – Exhumierung: Ausgrabung bestatteter Leichen, Öffnung von Aschenurnen, Totenruhe und nachträgliche Obduktion."
 tags: ["Rechtsprechung", "StPO", "Exhumierung", "Ausgrabung", "Totenruhe", "Aschenurne", "Rechtsmedizin", "Obduktion", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 254 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

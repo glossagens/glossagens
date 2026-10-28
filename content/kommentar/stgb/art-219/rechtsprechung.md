@@ -5,17 +5,14 @@ date: 2026-05-16
 lastmod: 2026-09-01
 description: "Übersicht der Rechtsprechung zu Art. 219 StGB — Verletzung der Fürsorge- oder Erziehungspflicht: Garantenstellung, fahrlässige Pflichtverletzung, unechte Konkurrenz, Handlungseinheit und Verfahrenseinstellung."
 tags: ["Rechtsprechung", "StGB", "Fürsorgepflicht", "Erziehungspflicht", "Kindeswohlgefährdung", "Garantenstellung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erweiterung auf 10 Praxisentscheide: Einarbeitung von BGer 7B_316/2026 (in dubio pro duriore bei Art. 219 StGB) sowie BGE 120 IV 265, BGE 137 IV 144, BGer 6B_432/2020, BGer 6B_1052/2021 und BGer 6B_745/2019."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: BGE 125 IV 64, BGE 126 IV 136, BGE 149 IV 240, LU OG 21 09 113."
 ---
 

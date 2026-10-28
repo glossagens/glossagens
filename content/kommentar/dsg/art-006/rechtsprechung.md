@@ -5,17 +5,14 @@ date: 2026-08-07
 lastmod: 2026-10-24
 description: "Übersicht der Entscheide zu Art. 6 DSG (Bearbeitungsgrundsätze: Rechtmässigkeit, Verhältnismässigkeit, Zweckbindung, Transparenz, Einwilligung, biometrische Stimmabdrücke)"
 tags: ["Rechtsprechung", "DSG", "Bearbeitungsgrundsätze", "Verhältnismässigkeit", "Einwilligung", "Biometrie"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BVGer A-4467/2025 vom 13.10.2026 als Leitentscheid zur ausdrücklichen Einwilligung bei biometrischen Stimmabdrücken (PostFinance, Opt-out unzulässig)."
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BVGer A-3891/2025 vom 22. Juni 2026; alle Entscheide via opencaselaw-MCP (cite/get_case_brief/get_erwaegung) verifiziert."
 ---
 

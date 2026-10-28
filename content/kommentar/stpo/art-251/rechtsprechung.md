@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 251 StPO – Körperliche Untersuchungen: Eingriffe in die körperliche Integrität, Blutentnahmen, Urinproben und Schranken bei Drittpersonen."
 tags: ["Rechtsprechung", "StPO", "körperliche Untersuchung", "körperliche Integrität", "Blutentnahme", "Schuldunfähigkeit", "Drittpersonen", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 251 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

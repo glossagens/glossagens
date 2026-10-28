@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 24 StGB — Anstiftung (Abs. 1: vorsätzliche Bestimmung zur Haupttat; Abs. 2: versuchte Anstiftung zum Verbrechen), Abgrenzung zu Mittäterschaft (Art. 24 ff.) und Gehilfenschaft (Art. 25), subjektives und objektives Element."
 tags: ["StGB", "Anstiftung", "Teilnahme", "Beteiligung", "Mittäterschaft", "Gehilfenschaft", "versuchte Anstiftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-024.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via Fedlex MCP, 10 Leitentscheide via OCL (find_leading_cases) verifiziert."
 ---
 

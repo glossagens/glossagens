@@ -5,22 +5,18 @@ date: "2026-07-17"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 343 StPO: Gerichtliche Beweisabnahme, beschränktes Unmittelbarkeitsprinzip, neue und unvollständige Beweise (Abs. 1), zwingende Wiederholung mangelhafter Vorverfahrensbeweise nach BGE 150 IV 345 (Abs. 2), Notwendigkeit der unmittelbaren Kenntnis bei Aussage-gegen-Aussage-Konstellationen (Abs. 3) sowie die Schranken der Rückweisung an die Staatsanwaltschaft (BGE 141 IV 39)."
 tags: ["StPO", "Beweisabnahme", "Unmittelbarkeitsprinzip", "Hauptverhandlung", "Aussage gegen Aussage", "Beweiswürdigung", "Teilnahmerechte", "Berufungsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-343.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Benchmark-Standard (Art. 110 StPO / Art. 336 OR): Detaillierte Lebenssachverhalte (BGE 140 IV 196, BGE 150 IV 345, BGE 141 IV 39, BGE 143 IV 288, BGer 6B_1189/2018, 6B_1469/2017, 6B_318/2015, 7B_1331/2024, 6B_17/2026, 6B_558/2025, LU KG 4M 22 105, ZH OG SU220038), zweiseitige Grenzkasuistik (Angewandt vs. Verworfen), Kriterientabelle, kantonale Praxisfragen und adressatenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

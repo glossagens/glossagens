@@ -5,12 +5,10 @@ date: 2026-07-20
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 8 IVG: Grundsatz der Eingliederungsmassnahmen — Anspruchsvoraussetzungen (Abs. 1), Unabhängigkeit von Erwerbstätigkeit (Abs. 1bis), Massnahmenkatalog (Abs. 3); Verhältnis zu ATSG und IVV."
 tags: ["IVG", "Invalidenversicherung", "Eingliederungsmassnahmen", "Hilfsmittel", "Umschulung", "Integrationsmassnahmen"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

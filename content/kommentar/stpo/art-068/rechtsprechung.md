@@ -5,17 +5,14 @@ date: 2026-07-03
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 68 StPO – Übersetzungen im Strafverfahren"
 tags: ["Rechtsprechung", "StPO", "Übersetzung", "Dolmetschen", "Verfahrenssprache", "EMRK"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 25 %). Neu aufgenommen: BGE 143 IV 117 als einschlägiger Leitentscheid und BGE 118 Ia 462; Kernaussage von BGE 145 IV 197 (weder Revisions- noch Nichtigkeitsgrund) ergänzt; Pinpoints präzisiert. Fehlender revisions-Block eingefügt."
   - date: 2026-07-03
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

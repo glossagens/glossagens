@@ -5,12 +5,10 @@ date: 2026-07-31
 lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 18a IVG — Arbeitsversuch, Taggeld, sinngemässe Anwendbarkeit von Arbeitsvertragsrecht, Unfallversicherung, fehlender Unterbruch der beitragspflichtigen Beschäftigung im GAV FAR."
 tags: ["Rechtsprechung", "IVG", "Arbeitsversuch", "Eingliederungsmassnahme", "GAV FAR", "BVG", "Sozialversicherungsrecht"]
-agent_verified: false
 revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — 15 Entscheide via OCL verifiziert."
 ---
 

@@ -5,12 +5,10 @@ date: "2026-08-19"
 lastmod: "2026-08-19"
 description: "Übersicht der Rechtsprechung zu Art. 519 ZGB — Ungültigkeitsklage, Testierfähigkeit, Urteilsunfähigkeit bei Demenz, Willensmängel, Motivirrtum, Sittenwidrigkeit, Aktivlegitimation und Streitgenossenschaft."
 tags: ["Rechtsprechung", "ZGB", "Erbrecht", "Ungültigkeitsklage", "Verfügungsfähigkeit", "Willensmangel", "Motivirrtum", "Streitgenossenschaft"]
-agent_verified: true
 revisions:
   - date: "2026-08-19"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungssammlung auf 16 voll verifizierte Leit- und Kantonalentscheide mit bereinigten Pinpoints."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-09-07
 lastmod: 2026-09-07
 description: "Übersicht der Rechtsprechung zu Art. 53 ATSG: Leitentscheide des Bundesgerichts und kantonale Urteile zu Revision, Wiedererwägung und Wiedererwägung pendente lite."
 tags: ["Rechtsprechung", "ATSG", "Revision", "Wiedererwägung", "Pendente lite"]
-agent_verified: false
 revisions:
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung der Rechtsprechungsübersicht zu Art. 53 ATSG; alle Entscheide im Volltext über entscheidsuche.ch gesichtet und verlinkt."
 ---
 

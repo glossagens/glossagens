@@ -5,22 +5,18 @@ date: 2026-06-12
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 3 EMRK: Verbot von Folter, unmenschlicher und erniedrigender Behandlung. Systematische Prüfung, Schwellenwerte, Mindestflächen und Dauerbeleuchtung in Haft, polizeilicher Zwang und verdeckte Aushorchung, Non-Refoulement bei Krankheit sowie Praxishinweise."
 tags: ["EMRK", "Folterverbot", "unmenschliche Behandlung", "erniedrigende Behandlung", "Haftbedingungen", "Überbelegung", "Champ-Dollon", "Non-Refoulement", "Polizeigewalt", "Verdeckte Ermittlung", "Beweisverwertungsverbot", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zu einem praxisorientierten Praxiskommentar gemäss Leitfaden: Prüfschema-Tabelle, systematische Tatbestandsgliederung, zweiseitige Grenzkasuistik (Polizeigewalt BGE 131 I 455 / Dembele; Haftbedingungen Champ-Dollon BGE 140 I 125, BGE 140 I 246 / Bardali; verdeckte Aushorchung BGE 148 IV 205, BGE 143 I 304; Leibesvisitationen BGE 141 I 141; Non-Refoulement und diplomatische Garantien BGE 148 IV 314, Tarakhel, Paposhvili, E-1070/2016), Kriterientabellen, Offenlegung von Judikaturdivergenzen, kantonale Praxisfragen (ZH/GE) und rollenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch und HUDOC verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 0.101 vom 2022-09-16 (data/wortlaut/emrk/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C, faktisch 0% -> Neuaufbau): alle 6 zitierten BGE (122 II 353, 125 II 273, 134 I 87/087, 140 IV 144, 144 I 177, 146 IV 161) waren fabriziert -- ersetzt durch 5 via check_claim_support verifizierte echte BGE (131 I 455, 143 I 304 E.2.3, 140 I 125, 111 Ib 68, 148 IV 314). EGMR-Zitate liegen ausserhalb des opencaselaw-Parsers (nur BGE/BGer-Zitierlagen erkannt) -- Fallnamen/Aktenzeichen sind echte, bekannte Leitentscheide, aber nicht alle Absatz-Pinpoints waren über den (Schweiz-skopierten) EGMR-Bestand verifizierbar und wurden entfernt statt geraten; Soering §§ 90-91 über Kreuzzitate in Schweiz-EGMR-Entscheiden bestätigt. Mursic-Aktenzeichen war falsch (32573/13 statt 7334/13) -- korrigiert. agent_verified auf false, da EGMR-Pinpoints nicht vollständig MCP-verifizierbar sind."
 ---
 

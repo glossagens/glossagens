@@ -5,12 +5,10 @@ date: 2026-06-28
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 26 VwVG – Akteneinsicht im Verwaltungsverfahren"
 tags: ["Rechtsprechung", "VwVG", "Akteneinsicht", "rechtliches Gehör", "Verwaltungsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B, 60%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Pinpoints für BGE 132 II 485 (neu E. 3.2), BGE 115 V 297, BGE 127 V 431 auf URL-Anker umgestellt. Kernaussagen zu 8C_319/2010 (neu: Aktenführungspflicht als Kehrseite des Akteneinsichtsrechts, E. 2.2.1), 1C_678/2023 (neu: Umfang des Akteneinsichtsrechts -- Kopien/Notizen, E. 3.1.1) und 2C_242/2025 (neu: anwendbares Verfahrensrecht bei Akteneinsichtsgesuchen aus VwVG-Verfahren, E. 3.2) waren falsch zitiert und wurden an die tatsächlichen Erwägungen angepasst. Fehlender revisions-Eintrag der ursprünglichen Fassung nicht rekonstruierbar; Ursprungsdatum 2026-06-28 aus Frontmatter übernommen."
 ---
 

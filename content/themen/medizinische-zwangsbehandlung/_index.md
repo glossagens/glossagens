@@ -23,12 +23,10 @@ normen:
   - { gesetz: emrk, art: art-003 }
   - { gesetz: emrk, art: art-008 }
 stichworte: ["Zwangsmedikation", "Zwangsbehandlung", "Behandlung ohne Zustimmung", "Behandlungsplan", "Depotmedikation", "Neuroleptika", "Zwangsernährung", "Hungerstreik", "Anorexie", "Patientenverfügung", "Notfallbehandlung", "Chefarzt", "FU-Gericht"]
-agent_verified: false
 revisions:
   - date: 2026-10-25
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren, Querschnitt ZGB/StGB/BV). Normtexte Art. 434 und 435 ZGB per scripts/wortlaut.py (Fedlex, Stand 01.07.2026); Art. 377, 380, 433, 438, 439, 450e ZGB und Art. 59 StGB über die Fedlex-MCP geprüft. Entscheide als Volltext über entscheidsuche.ch geladen (MCP nicht erreichbar, Suche über den Elasticsearch-Proxy): BGE 125 III 169, 126 I 112, 127 I 6, 127 IV 154, 130 I 16, 130 IV 49, 134 I 221, 136 IV 97, 143 III 337; BGer 5A_985/2020, 5A_1021/2021, 5A_857/2024, 5A_122/2026, 6B_554/2021, 7B_124/2026. BGE 134 I 221 und 136 IV 97 liegen nur französisch vor, die Darstellung stützt sich auf die deutsche Regeste. Zitate und Links mit pruefen.py geprüft. agent_verified bewusst false (inhaltliche Durchsicht durch Maintainer)."
 ---
 

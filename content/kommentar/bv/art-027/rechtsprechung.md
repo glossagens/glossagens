@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-12
 description: "Übersicht der Entscheide zu Art. 27 BV — Wirtschaftsfreiheit, staatliche Wirtschaftstätigkeit, Regale und Konzessionen, Zulassungsbeschränkungen"
 tags: ["Rechtsprechung", "BV", "Wirtschaftsfreiheit", "Wettbewerbsneutralität", "Konzession"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Sämtliche Entscheidblöcke der Vorfassung entfernt — kein einziges Belegpaar war gestützt. Neu aufgebaut aus einzeln geprüften Entscheiden."
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — beim Audit vom 2026-08-12 vollständig als unbelegt verworfen"
 ---
 

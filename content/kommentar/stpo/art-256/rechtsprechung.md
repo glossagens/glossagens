@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 256 StPO – Massenuntersuchungen bei DNA-Profilen, Phänotypisierung, ZMG-Zuständigkeit und Verwandtschaftsabgleich."
 tags: ["Rechtsprechung", "StPO", "DNA-Profil", "Massenuntersuchung", "Phänotypisierung", "Zwangsmassnahmengericht", "Verwandtenrecherche", "Verhältnismässigkeit"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 256 StPO inkl. Gesetzesrevision per 1.8.2023 mit 20 verifizierten Entscheiden."
 ---
 

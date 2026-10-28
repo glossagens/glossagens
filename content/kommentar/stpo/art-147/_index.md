@@ -5,37 +5,30 @@ date: "2026-05-09"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 147 StPO: Parteiöffentlichkeit der Beweiserhebungen, Konfrontationsanspruch, Rechtsprechungsänderung nach BGE 150 IV 345, materieller Beschuldigtenstatus (Causa Dittli), Verwertungsverbote, Wiederholungsanspruch, Fotowahlkonfrontationen und Kasuistik."
 tags: ["StPO", "Teilnahmerecht", "Parteiöffentlichkeit", "Konfrontationsanspruch", "BGE 150 IV 345", "Beweisverwertungsverbot", "Fotowahlkonfrontation", "Fernwirkung", "Aktenaussonderung", "EMRK", "materieller Beschuldigtenstatus"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-147.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von CREP VD 736 vom 23. September 2026 (Causa Dittli): Vor der Eröffnung erstellte externe Administrativberichte unterliegen nicht Art. 147 StPO und keinem Verwertungsverbot nach Art. 141 StPO; Abgrenzung zu CREP VD 652."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von CREP VD 652 vom 3. September 2026 (Causa Dittli): Materieller Beschuldigtenstatus (Art. 111 StPO) schliesst Umgehung der Teilnahmerechte durch Eröffnung «gegen unbekannt» aus; Bestätigung der absoluten Unverwertbarkeit nach BGE 150 IV 345 und Pflicht zur Aktenaussonderung (Art. 141 Abs. 5 StPO)."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger praxisorientierter Ausbau gemäss Skill-Standard: Auflösung der separaten Fallgruppensammlung und Integration sämtlicher Sachverhaltsschilderungen in das dogmatische Merkmalsraster (Abschnitt A–H). Volltextauswertung von BGE 150 IV 345 (Leitentscheid Porsche Dietikon), BGer 6B_783/2024 vom 31. März 2026 (Hanf-Indooranlage Solothurn, Aussageverweigerung), BGer 6B_801/2024 vom 8. Mai 2025 (Vorverfahren vs. Untersuchung), BGer 6B_506/2024 (Fotowahlkonfrontation Münchwilen), BGer 6B_920/2023 (Appenzell I.Rh., Konfrontationsantrag in Berufung), BGer 6B_14/2021, BGer 6B_135/2018 (Psychiatriehospitalisierung) und BGE 143 IV 397. Einarbeitung zweiseitiger Grenzkasuistik, strukturierter Vergleichstabellen (Muster A und B), Verbot des wörtlichen Vorhalts und taktischer Merksätze. Sämtliche Urteile auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Kasuistik konkreter Fallgruppen, Rechtsprechungsänderung BGE 150 IV 345, Fotowahlkonfrontationen, Verhandlungsunfähigkeit und kantonale Gerichtspraxis."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft, Frontmatter aktualisiert."
 ---
 

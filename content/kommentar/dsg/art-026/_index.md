@@ -5,13 +5,11 @@ date: 2026-08-07
 lastmod: "2026-08-10"
 description: "Kommentar zu Art. 26 DSG: Verweigerung, Einschränkung und Aufschub des Auskunftsrechts durch private Verantwortliche und Bundesorgane, Konzernprivileg und Begründungspflicht."
 tags: ["DSG", "Datenschutz", "Auskunftsrecht", "Nachrichtendienst", "Begründungspflicht", "Bundesorgane", "Öffentliche Sicherheit"]
-agent_verified: true
 revisions:
 
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 10+ weitere BGer-Entscheide zu DSG Art. 26 hinzugefügt"
 ---
 

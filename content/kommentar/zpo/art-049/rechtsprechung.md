@@ -5,12 +5,10 @@ date: 2026-09-02
 lastmod: 2026-09-02
 description: "Übersicht der Entscheide zu Art. 49 ZPO — Ausstandsgesuch, Gebot der Unverzüglichkeit (10-Tage-Regel), Verwirkungsfristen, Glaubhaftmachung und Stellungnahme der abgelehnten Gerichtsperson."
 tags: ["Rechtsprechung", "ZPO", "Ausstand", "Befangenheit", "Unverzüglichkeit", "Stellungnahme"]
-agent_verified: true
 revisions:
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstanlage der Rechtsprechungsseite zu Art. 49 ZPO mit 12 verifizierten Bundesgerichtsentscheiden inkl. Leitentscheid BGer 5A_110/2026."
 ---
 

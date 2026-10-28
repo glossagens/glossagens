@@ -5,27 +5,22 @@ date: 2026-05-16
 lastmod: 2026-09-20
 description: "Übersicht der Rechtsprechung zu Art. 15 StGB — Rechtfertigende Notwehr, Notwehrhilfe, Angriffsbegriff, Angemessenheit der Abwehrmittel, Provokation, Notwehrexzess, Strafzumessung und kantonale Praxis. "
 tags: ["Rechtsprechung", "StGB", "Notwehr", "Rechtfertigungsgrund", "Abwehrhandlung", "Notwehrexzess", "Allgemeiner Teil"]
-agent_verified: false
 revisions:
   - date: 2026-09-20
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "KW38: Ergänzung um 12 neue gegen Entscheidtext geprüfte Entscheide (Issue #34): BGE 101 IV 119, BGE 109 IV 5, 6B_480/2011, 6B_1211/2015, 6B_873/2018, 6B_908/2017, 6B_915/2017, 6B_1454/2020, 6B_667/2024, 6B_113/2025, 6B_622/2025, 6B_836/2025, 6B_464/2025. 1 verworfen (6B_1454/2020 contradict, korrekt als Negativbeispiel integriert)."
   - date: 2026-08-28
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erweiterung der Rechtsprechungsübersicht auf 15 verifizierte Leitentscheide, BGer-Urteile und kantonale Entscheide via Entscheidsuche MCP (alle Belege auf Entscheidsuche verlinkt)."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,7 +5,6 @@ date: 2026-08-22
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 5 JStG — Vorsorgliche Anordnung von Schutzmassnahmen, Organisationshaft, Verhältnis zur Untersuchungshaft"
 tags: ["Rechtsprechung", "JStG", "Schutzmassnahmen", "Organisationshaft", "Untersuchungshaft"]
-agent_verified: false
 ---
 
 ## Leitentscheide

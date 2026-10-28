@@ -5,17 +5,14 @@ date: 2026-06-06
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 1 BewG — Zweck des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland"
 tags: ["BewG", "Lex Koller", "Geltungsbereich", "Ausländischer Grundstückserwerb", "Grundstücke"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.41 vom 2023-07-01 (data/wortlaut/bewg/art-001.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Wöchentliche Ergänzung KW31 — rechtsprechung.md mit BGer 2C_286/2025 und BGer 2C_437/2024 ergänzt (Gesetzeszweck; objektive/subjektive Seite der Bewilligungspflicht)."
 ---
 

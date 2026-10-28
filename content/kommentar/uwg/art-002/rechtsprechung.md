@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Entscheide zu Art. 2 UWG (Generalklausel): Leitentscheide des Bundesgerichts zu Wettbewerbsrelevanz, Verhältnis zu Spezialtatbeständen und Immaterialgüterrecht, Fallgruppen sowie ausgewählte kantonale Entscheide."
 tags: ["UWG", "Lauterkeitsrecht", "Rechtsprechung", "Generalklausel", "Wettbewerbsrelevanz"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstübersicht. Entscheide über entscheidsuche.ch im Volltext gelesen; Links aus den content_url-Feldern. Kein maschineller Audit-Lauf, daher mcp_verified: false."
 ---
 

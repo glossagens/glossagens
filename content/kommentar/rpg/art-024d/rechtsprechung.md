@@ -5,12 +5,10 @@ date: 2026-05-17
 lastmod: "2026-08-29"
 description: "Rechtsprechung zu Art. 24d RPG — Landwirtschaftsfremde Wohnnutzung und schützenswerte Bauten und Anlagen"
 tags: ["Rechtsprechung", "RPG", "schützenswerte Bauten", "Zweckänderung", "Art. 24d"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, Fallbeispiele ergänzt, Revisions-Vermerk hinzugefügt"
 ---
 

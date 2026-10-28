@@ -5,27 +5,22 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 960e OR: Rückstellungen (Verbindlichkeiten zum Nennwert, Bildungspflicht bei drohendem Mittelabfluss, Garantieverpflichtungen, Sanierungen, Restrukturierungen, Gesamtrisiko bei Grossprojekten, Auflösung nicht mehr begründeter Rückstellungen)."
 tags: ["OR", "Rückstellungen", "Buchhaltung", "Rechnungslegung", "Garantieverpflichtungen", "Gesamtrisiko", "Wahrscheinlichkeitsrechnung", "Steuerrecht", "STHG"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-960e.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 56 % (Urteil B); 16 gestützt (+16 teilw.) von 43 beurteilten Paaren (55 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Präzisierung BGer 9C_296/2025 (Gesamtrisiko bei Grossprojekten); Gesetzestext via Fedlex MCP, 15 Entscheide via OCL verifiziert."
 ---
 

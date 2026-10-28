@@ -5,17 +5,14 @@ date: 2026-10-04
 lastmod: 2026-10-22
 description: "Rechtsprechungssammlung zu Art. 416 StPO — Geltungsbereich des Kosten-/Entschädigungstitels: Strafbefehl, nachträgliche Entscheide, selbstständige Zwangsmassnahmenverfahren, Rechtsmittel, Abgrenzungen (BGG, JStPO, VStrR) und Ausschliesslichkeit."
 tags: ["Rechtsprechung", "StPO", "Geltungsbereich", "Verfahrenskosten", "Entschädigung", "Strafbefehl", "Entsiegelung", "Haftprüfung", "Jugendstrafverfahren"]
-agent_verified: false
 revisions:
   - date: 2026-10-22
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Ausbau auf 22 Entscheide, alle im Volltext auf entscheidsuche.ch gelesen (7B_11/2026 nur Eingangsteil). Korrektur: BGE 139 IV 102 ist der Auszug aus 6B_310/2012 (Urteil vom 11. Dezember 2012; bisher fälschlich '18. September 2013'); die beiden Einträge sind zusammengeführt."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage mit 6 BGer-Entscheiden. Belege via OCL get_erwaegung geprueft (alle yes)."
 ---
 

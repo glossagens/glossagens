@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 5 AsylG (Non-Refoulement, flüchtlingsrechtliches Rückschiebungsverbot, Kettenrückschiebung, Sicherheits- und Gemeingefahr nach Abs. 2) mit Grenzkasuistik und Verfahrensleitlinien."
 tags: ["AsylG", "Rückschiebungsverbot", "Non-Refoulement", "Flüchtlingskonvention", "GFK 33", "Gemeingefahr", "Besonders schweres Verbrechen", "Sicherheit der Schweiz", "Folterverbot", "EMRK 3", "BV 25", "Landesverweisung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als vollwertiger Praxiskommentar gemäss Standard-Benchmark (Art. 110 StPO, Art. 336 OR). Merkmalsbezogene Gliederung entlang des Prüfschemas, Einarbeitung der gesetzgeberischen Ratio Legis (BBl 1996 II 1, BBl 1977 III 113), umfassende Grenzkasuistik (BGE 139 II 65, BGE 135 II 110, ZH VG VB.2017.00269, AG OG BE.2004.00046, BGer 7B_466/2023, BVGE 2010/45), tabellarische Grenzziehungs- und Kriterienvergleiche ohne Code-Fences, Analyse des Zusammenspiels mit Art. 66a StGB und absolutem Folterverbot sowie rollenspezifische Praxishinweise."
 ---
 

@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 715 ZGB — Publizitätsgrundsatz für den Eigentumsvorbehalt an beweglichen Sachen: Eintragung im Register des Betreibungsbeamten am Wohnort des Erwerbers (Wirksamkeitserfordernis), Ort der Eintragung (Wohnsitz, AG-Sitz, Wohnsitzwechsel), Zeitpunkt (Eintragung nach Übergabe/Rückfall, nicht nach Konkurseröffnung), Inhalt (nur Gegenleistung, Faustpfandprinzip), formelle Prüfung und einseitige Anmeldung, ausländischer Eigentumsvorbehalt, Konkurs des Erwerbers (Aussonderung), Viehhandel (Abs. 2) und Verhältnis zu Art. 714, 933, 716 ZGB mit Kasuistik aus Bundesgericht und kantonaler Aufsichtspraxis."
 tags: ["ZGB", "Sachenrecht", "Eigentumsvorbehalt", "Publizitätsprinzip", "Eigentumsvorbehaltsregister", "Konkurs", "Aussonderung", "Wohnsitz", "Faustpfandprinzip", "Veruntreuung", "Abzahlungsvertrag", "Viehhandel"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-715.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Art. 715 ZGB via Fedlex-MCP verifiziert (Konsolidierung 2026-07-01; in dieser Session im Rahmen des Art. 933-Kommentars bestätigt). Der Fedlex-Endpoint war beim Abschluss (Art. 716) vorübergehend nicht erreichbar (HTTP 500/leeres Resultat); Art. 716 ZGB wird daher über den verifizierten Entscheid BGE 93 III 96 E. 1 (entscheidsuche) nachgewiesen, ohne den Wortlaut aus dem Gedächtnis zu rekonstruieren. 10 Entscheide via entscheidsuche.ch geprüft, davon 7 im Volltext abgerufen (BGE 82 IV 182, 85 II 580, 93 III 96, 96 II 161, 96 III 51, 102 III 150, 106 II 320; BE OG ABS 2019 96; BGE 121 III 345, 121 IV 26 aus der Art. 933-Recherche). Links verbatim aus document_url-Feldern übernommen."
 ---
 

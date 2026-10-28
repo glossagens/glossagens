@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 936 ZGB — Bösgläubigkeit beim Fahrniserwerb: Herausgabe jederzeit bei fehlendem gutem Glauben (Bösgläubigkeit oder Unaufmerksamkeit/Fahrlässigkeit), Bösgläubigkeit des früheren Besitzers als nemo plus iuris-Schranke (Abs. 2), nachträgliche Bösgläubigkeit, Besitzesrechtsklage und Beweislast, Branchenvertrautheit (Occasionswagen, Antiquitäten, Kunst), Schadenersatz nach Art. 940 ZGB, Verhältnis zu Art. 933/934/935/728 und zur Hehlerei (Art. 144 StGB) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Bösgläubigkeit", "guter Glaube", "Herausgabe", "Besitzesrechtsklage", "nemo plus iuris", "Ersitzung", "Branchenvertrautheit", "Schadenersatz", "Hehlerei", "Kulturgüter"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-936.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 936, 940 ZGB; sowie Art. 3, 641a, 714, 722, 728, 930, 933, 934, 935 ZGB aus den Vorarbeiten. 10 Entscheide via entscheidsuche.ch geprüft, davon 8 im Volltext abgerufen (BGE 94 II 297, 100 II 8, 103 II 186, 105 IV 303, 113 II 397, 120 II 191, 121 III 345, 122 III 1, 139 III 305; GR KG ZK1 2010 6). Links verbatim aus document_url-Feldern übernommen."
 ---
 

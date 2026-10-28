@@ -5,17 +5,14 @@ date: 2026-06-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 63 AIG: Widerrufsgründe der Niederlassungsbewilligung (Täuschung, Freiheitsstrafe > 1 Jahr, schwerwiegende Gefährdung, Sozialhilfe, Bürgerrechtserschleichung), Rückstufung auf eine Aufenthaltsbewilligung bei Integrationsdefiziten (Abs. 2) und Bindungswirkung strafrichterlicher Verzichte auf Landesverweisung (Abs. 3) — mit systematischer Grenzkasuistik (bejaht vs. verneint) und kantonaler Praxis."
 tags: ["AIG", "Niederlassungsbewilligung", "Widerruf", "Rückstufung", "Sozialhilfe", "öffentliche Sicherheit", "Landesverweisung", "Dualismusverbot", "Integration", "Verhältnismässigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 142.20 vom 2026-06-12 (data/wortlaut/aig/art-063.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach dem Standard von Art. 110 StPO und Art. 336 OR. Gesetzeswortlaut verbatim nach Fedlex (SR 142.20, Stand 12. Juni 2026). Volltextabgleich und Verifikation der Rechtsprechung über entscheidsuche.ch: BGE 149 II 1 (Ergänzungsleistungen keine Sozialhilfe), BGE 148 II 1 (Rückstufung altrechtlicher C-Bewilligungen, Verwarnungsgebot), BGE 146 II 1 und BGE 146 II 321 (Dualismusverbot / Bindung an Verzicht auf Landesverweisung), BGE 146 II 49, BGE 144 I 266 (10-Jahres-Regel Art. 8 EMRK), BGE 142 II 265 (Täuschung / Parallelbeziehung), BGE 139 I 145, BGE 139 I 31, BGE 137 II 297 (Verbot der Strafenaddition), BGE 135 II 377 sowie jüngste Bundesgerichtsurteile BGer 2C_362/2025 vom 12. Februar 2026 (Rückstufung bei Konkurs-Schuldenwirtschaft), BGer 2C_96/2025 vom 15. April 2026 (Zusammenspiel Art. 63 Abs. 3 und Rückstufung), BGer 2C_715/2020, BGer 2C_1115/2018 und kantonale Leitentscheide (ZH VG VB.2025.00517, VB.2024.00274, VB.2021.00487, VB.2020.00343; AG OG WBE.2020.8). Sämtliche Urteile verbatim verlinkt auf entscheidsuche.ch."
 ---
 

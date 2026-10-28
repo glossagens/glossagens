@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 265 StPO – Herausgabepflicht, Editionsverfügung, nemo tenetur und Subsidiarität von Zwangsmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Herausgabepflicht", "Edition", "Editionsverfügung", "nemo tenetur", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 265 StPO mit 23 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 

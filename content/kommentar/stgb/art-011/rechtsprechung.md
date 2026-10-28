@@ -5,12 +5,10 @@ date: 2026-07-24
 lastmod: "2026-08-07"
 description: "Übersicht der verifizierten Entscheide zu Art. 11 StGB — unechtes Unterlassungsdelikt, Garantenstellung, Ingerenz, Gleichwertigkeitsklausel"
 tags: ["Rechtsprechung", "StGB", "Unterlassungsdelikt", "Garantenstellung", "Ingerenz"]
-agent_verified: false
 revisions:
   - date: 2026-07-24
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuanlage — alle Entscheide via opencaselaw-MCP (cite, get_case_brief, search_decisions) verifiziert"
 ---
 

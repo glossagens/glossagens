@@ -5,18 +5,15 @@ date: 2026-07-24
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 143bis StGB — Hacking-Tatbestand, Teilsystem-Doktrin, Sicherheitslücken, Privilege Escalation, Passwortverbreitung"
 tags: ["StGB", "Cyberkriminalität", "Hacking", "Datenverarbeitungssystem", "Computerstrafrecht"]
-agent_verified: true
 revisions:
 
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-143bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 15 weitere BGer-Entscheide zu StGB Art. 143bis hinzugefügt"
 ---
 

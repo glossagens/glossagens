@@ -12,12 +12,10 @@ tags:
 - StHG
 - Steuerharmonisierung
 - Steuerrecht
-agent_verified: false
 revisions:
   - date: 2026-09-28
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstanlage der Gesetzesseite im Rahmen der Neuerstellung von Art. 47 StHG."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Entscheide zu Art. 48 OHG — Übergangsbestimmungen, intertemporales Recht, Stichtage"
 tags: ["Rechtsprechung", "OHG", "Opferhilfe", "Übergangsrecht", "aOHG", "Intertemporales Recht", "Stichtag"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht überarbeitet, Links zu entscheidsuche.ch migriert, Entscheide via MCP verifiziert"
 ---
 

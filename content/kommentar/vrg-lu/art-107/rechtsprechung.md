@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Übersicht der Luzerner Rechtsprechung zu § 107 VRG (Voraussetzungen des Sachentscheides, Nichteintreten)."
 tags: ["Rechtsprechung", "VRG", "Luzern", "Nichteintreten", "Sachentscheid"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
-    mcp_verified: true
     note: "Erstanlage. Entscheide über entscheidsuche.ch verifiziert."
 ---
 

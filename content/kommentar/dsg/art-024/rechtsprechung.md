@@ -5,12 +5,10 @@ date: 2026-08-07
 lastmod: 2026-08-07
 description: "Übersicht der Entscheide zu Art. 24 DSG (Meldung von Verletzungen der Datensicherheit, Information der betroffenen Personen, öffentliche Bekanntmachung)"
 tags: ["Rechtsprechung", "DSG", "Data Breach", "Meldepflicht", "EDÖB"]
-agent_verified: false
 revisions:
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BVGer A-3790/2024 vom 8. April 2026; alle Entscheide via opencaselaw-MCP (cite/get_case_brief/get_erwaegung) verifiziert."
 ---
 

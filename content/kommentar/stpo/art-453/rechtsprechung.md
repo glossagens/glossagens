@@ -5,17 +5,14 @@ date: 2026-07-10
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 453 StPO – Vor Inkrafttreten gefällte Entscheide (Übergangsrecht)"
 tags: ["Rechtsprechung", "StPO", "Übergangsrecht", "Übergangsbestimmungen"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 40 %). Alle 14 Entscheide im Volltext geprüft. BGE 145 IV 137 erwähnt Art. 453 StPO nicht (lex mitior nach Art. 2 Abs. 2 StGB) — Zuschreibung berichtigt. BGE 137 IV 189 E. 1 als unveröffentlichte Erwägung gekennzeichnet. BGE 138 IV 248: Pinpoint E. 1.1 → E. 1, Zusammenfassung berichtigt (die StPO war anwendbar, weil das Urteil vom 22. Juni 2011 datierte). Neu aufgenommen: BGer 6B_425/2011 E. 2.2.1 f. — der Leitentscheid zur zeitlichen Reichweite von Abs. 2. Fehlender revisions-Block ergänzt."
   - date: 2026-07-10
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

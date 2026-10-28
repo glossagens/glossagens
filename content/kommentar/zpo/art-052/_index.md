@@ -5,27 +5,22 @@ date: 2026-05-24
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 52 ZPO: Handeln nach Treu und Glauben im Zivilprozess — Verbot des Rechtsmissbrauchs, venire contra factum proprium, Anfechtungsobliegenheiten und Vertrauensschutz bei Rechtsmittelbelehrungen (Abs. 2)."
 tags: ["ZPO", "Treu und Glauben", "Rechtsmissbrauch", "Vertrauensschutz", "Rechtsmittelbelehrung", "Revision 2025", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-052.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von Treu und Glauben, Anfechtungsobliegenheit (BGE 151 III 344), venire contra factum proprium (BGE 141 III 210), Revision 2025 (Abs. 2) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 15 % → 100 %, Urteil A): ungestützte Belege ersetzt; falsche Normverweise korrigiert"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 15 % (Urteil C); 2 von 27 Paaren gestützt; 21 ungestützt; 7 nicht existente Referenzen; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

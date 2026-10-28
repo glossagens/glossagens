@@ -5,7 +5,6 @@ date: 2026-07-02
 lastmod: 2026-07-02
 description: "Übersicht der Entscheide zu Art. 118 AIG (Täuschung der Behörden, Scheinehe)"
 tags: ["Rechtsprechung", "AIG", "Täuschung", "Scheinehe"]
-agent_verified: false
 ---
 
 # Rechtsprechungssammlung zu Art. 118 AIG

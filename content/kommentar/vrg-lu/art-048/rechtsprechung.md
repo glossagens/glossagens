@@ -5,7 +5,6 @@ date: 2026-05-31
 lastmod: 2026-05-31
 description: "Leitentscheide zu § 48 des Gesetzes über die Verwaltungsrechtspflege des Kantons Luzern"
 tags: ["Rechtsprechung", "VRG LU", "Akteneinsicht", "Luzern"]
-agent_verified: false
 ---
 
 # Rechtsprechung zu § 48 VRG LU

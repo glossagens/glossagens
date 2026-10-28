@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 243 ZPO: Geltungsbereich des vereinfachten Verfahrens (Streitwertgrenze CHF 30'000.–, sachbezogener Schutz in Miete, Arbeitsrecht, Gleichstellung, Gewaltschutz und DSG sowie Ausschluss vor Handelsgerichten) — mit Prüfschema, Grenzkasuistik und Verfahrensregeln."
 tags: ["ZPO", "vereinfachtes Verfahren", "Geltungsbereich", "Streitwert", "Kündigungsschutz", "Handelsgericht", "soziale Untersuchungsmaxime", "Teilklage", "Widerklage"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar nach den Skills glossagens-content-creation und praxisorientierter-kommentar. Gesetzeswortlaut über scripts/wortlaut.py amtlich aus data/wortlaut/zpo/art-243.json eingebunden. Gesetzgeberische Zwecke aus den Botschaften BBl 2006 7221, BBl 2017 7307 und BBl 2017 6941 erarbeitet. 14 Leit- und Referenzentscheide im Volltext über entscheidsuche.ch und swiss-caselaw abgeglichen und verlinkt."
 ---
 

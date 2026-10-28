@@ -5,27 +5,22 @@ date: 2026-07-04
 lastmod: 2026-09-10
 description: "Übersicht der Rechtsprechung zu Art. 46 StGB — Widerruf bedingter Strafen: Negative Legalprognose, Gesamtstrafenbildung bei Gleichartigkeit, Verzicht auf Widerruf, Annexzuständigkeit und Verwirkungsfrist."
 tags: ["Rechtsprechung", "StGB", "Widerruf", "Bedingte Strafe", "Gesamtstrafe", "Allgemeiner Teil"]
-agent_verified: false
 revisions:
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Erweiterung auf 14 volltextgeprüfte Entscheide: 6 BGE-Leitentscheide (BGE 145 IV 146, BGE 134 IV 140, BGE 143 IV 441, BGE 147 IV 329, BGE 144 IV 217, BGE 137 IV 249) und 8 weitere Bundesgerichts- und Kantonsentscheide (BGer 6B_733/2019, BGer 6B_443/2014, BStGer SK.2023.31, LU KG 4M 22 70, AG OG SBK.2011.305, BE OG BK 2019 218, BGer 6B_209/2022, BGer 6B_968/2019) mit ausführlichen Sachverhalten und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 7 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

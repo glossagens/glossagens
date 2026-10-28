@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 394 OR — Begriff des Auftrags, Auffangfunktion, Vergütungspflicht, Abgrenzung zu Werkvertrag, Mäklervertrag und Gefälligkeit"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Vergütung", "Gefälligkeit"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Ersterstellung der Rechtsprechungsübersicht"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 37 GwG (Verletzung der Meldepflicht): Leitentscheide des Bundesgerichts, Grundsatzurteile des Bundesstrafgerichts und kantonale Praxis."
 tags: ["Rechtsprechung", "GwG", "Meldepflicht", "Verwaltungsstrafrecht", "Verjährung", "EFD", "Compliance"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Systematische Aufbereitung der Rechtsprechung zu Art. 37 GwG mit 15 verifizierten Entscheiden zu Tatbestand, Dauerdelikt, Verjährungsunterbrechung, EFD-Verfahren und kantonaler Konkurrenz"
 ---
 

@@ -13,12 +13,10 @@ tags:
 - Asylverfahren
 - Flüchtlinge
 - Migrationsrecht
-agent_verified: false
 revisions:
 - date: '2026-08-10'
   by: Claude Code
   model: minimax-m3
-  mcp_verified: false
   note: Frontmatter vereinheitlicht (KW32)
 ---
 

@@ -5,32 +5,26 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 174 SchKG: Beschwerde gegen Konkurseröffnung — Novenrecht, Konkurshinderungsgründe (Tilgung, Hinterlegung, Verzicht), Zahlungsfähigkeit, aufschiebende Wirkung, Grenzkasuistik."
 tags: ["SchKG", "Konkurs", "Konkurseröffnung", "Beschwerde", "Zahlungsfähigkeit", "Tilgung", "Hinterlegung", "Noven", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-174.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-13 überarbeitet und vertieft, Rz. 14-16 Grenzkasuistik (Hinterlegung unter Bedingung, Gesellschaftsorgane, Gläubigerbeschwerde bei Rechtsmissbrauch); BGE 135 III 31, BGE 135 III 509, BGE 149 III 186, BGE 150 III 262 vertieft und auf entscheidsuche.ch verlinkt; Praxisfragen ergänzt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Novenrechts (Art. 174 als lex specialis zur ZPO), Befristung der Konkurshinderungsgründe (BGE 136 III 294), Gerichtskostentilgung (BGE 151 III 574), Zahlungsfähigkeitsnachweis (BGE 139 III 491) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31"
 ---
 

@@ -5,32 +5,26 @@ date: 2026-05-24
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 9 BV — Willkürverbot in Rechtsanwendung und Beweiswürdigung, Grundsatz von Treu und Glauben und Vertrauensschutz"
 tags: ["BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Grundrechte", "Beweiswürdigung", "Unschuldsvermutung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Umfassender Ausbau: 23 neue BGer/BGE-Entscheide zu Beweiswürdigung, Strafverfahren, Verwaltungsrecht, Ausländerrecht, Kognition/Rügeform. Alle Belege gegen den Entscheidtext geprüft (10 persönlich via get_erwaegung verifiziert, 13 via Subagenten). OCL-URLs auf entscheidsuche.ch umgestellt. Gesetzestext via Fedlex bestätigt."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 30 %, Urteil C): Belegapparat neu aufgebaut. Fünf Referenzen existierten nicht (BGE 124 I 199, 125 I 392, 130 I 268, 147 II 161, 148 V 390), neun Pinpoints zeigten ins Leere — darunter die zentrale Willkürdefinition (BGE 140 III 16 E. 1.3.1 statt E. 2.1). Zwei Links trugen ein falsches Präfix (bge_ statt bger_) auf BGer-Dossiernummern."
   - date: 2026-08-11
     by: "Claude Code"
     model: "unbekannt"
-    mcp_verified: false
     note: "bger.ch → opencaselaw.ch Links umgestellt (Commit bc283a7) — kosmetisch; die Zitate selbst blieben ungeprüft"
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — Belegapparat beim Audit vom 2026-08-11 überwiegend verworfen"
 ---
 

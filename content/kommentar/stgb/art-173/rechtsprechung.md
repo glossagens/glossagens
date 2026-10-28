@@ -5,32 +5,26 @@ date: 2026-07-31
 lastmod: 2026-10-11
 description: "Übersicht der Rechtsprechung zu Art. 173 StGB — üble Nachrede, Weiterverbreitung im Internet und auf Social Media, Dritter-Begriff, Anwalt-Mandant-Kommunikation (BGE 148 IV 409), Schranken für unbeteiligte Dritte, vorrangige Rechtfertigungsgründe, Wahrheits- und Gutglaubensbeweis sowie die gerichtliche Ehrenerklärung, einschliesslich kantonaler Rechtsprechung zur Abgrenzung von Berufskritik und Ehrverletzung."
 tags: ["Rechtsprechung", "StGB", "üble Nachrede", "Ehrverletzung", "Wahrheitsbeweis", "Gutglaubensbeweis", "Meinungsäusserungsfreiheit", "Social Media", "prozessuale Privilegierung", "Berufskritik", "Whistleblowing"]
-agent_verified: true
 revisions:
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Kantonaler Entscheid Cour de justice GE, ACPR/790/2026 vom 14.08.2026 (Whistleblowing-Bericht eines Kardiologen — Berufskritik vs. Ehrverletzung) als weiterer Entscheid aufgenommen; via mcp__entscheidsuche__search_by_case_number und fetch_document verifiziert (Volltext)."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung der Rechtsprechung gemäss Leitfaden: 13 Leitentscheide (u.a. BGE 148 IV 409, BGE 146 IV 23, BGE 145 IV 462, BGE 142 IV 18, BGE 137 IV 313, BGE 132 IV 112) und 12 weitere Bundesgerichts- und kantonale Entscheide (u.a. BGer 6B_880/2025, VD TC CREP 692/2026, SO OG STBER.2021.113 [SOG 2023 Nr. 1], LU OG 21 10 58 [LGVE 2010 I Nr. 42], ZH OG SB220264). Alle Links verbatim auf entscheidsuche.ch bzw. opencaselaw verifiziert."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BGE 148 IV 409 (prozessuale Zurückhaltung bei Anwalt-Mandant-Kommunikation) als Leitentscheid aufgenommen; kantonaler Entscheid VD Tribunal cantonal CREP, 14.09.2026, G-Nr. 692 (Art. 52 StGB bei Ehrverletzung durch Dritte) aufgenommen; beide via OCL/entscheidsuche verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; BGer 6B_1270/2017, 6B_176/2013, 6B_30/2008, 6B 8/2014 verifiziert"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

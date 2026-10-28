@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Rechtsprechung zu Art. 8a SchKG: Leitentscheide des Bundesgerichts und kantonale Entscheide zu Einsichtsrecht, Glaubhaftmachung des Interesses, Nichtbekanntgabe ungerechtfertigter Betreibungen und Fristenregime."
 tags: ["Rechtsprechung", "SchKG", "Einsichtsrecht", "Betreibungsregister"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

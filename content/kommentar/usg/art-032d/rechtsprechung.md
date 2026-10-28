@@ -5,12 +5,10 @@ date: 2026-09-01
 lastmod: 2026-09-01
 description: "Übersicht der Leitentscheide zu Art. 32d USG (Kostenverteilung bei Untersuchung, Überwachung und Sanierung belasteter Standorte und Altlasten)."
 tags: ["Rechtsprechung", "USG", "Umweltrecht", "Altlasten", "Kostenverteilung", "Verursacherprinzip", "Verhaltensstörer", "Zustandsstörer"]
-agent_verified: false
 revisions:
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 32d USG mit BGE 144 II 332, BGE 139 II 106, BGE 131 II 743 sowie BGer 1C_589/2025."
 ---
 

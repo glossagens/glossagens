@@ -5,7 +5,6 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts und kantonaler Gerichte zur Vertraulichkeit des Schlichtungs- und Vermittlungsverfahrens (Art. 205 ZPO)."
 tags: ["Rechtsprechung", "ZPO", "Schlichtungsverfahren", "Vertraulichkeit", "Vergleichsverhandlung", "Verwertungsverbot"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

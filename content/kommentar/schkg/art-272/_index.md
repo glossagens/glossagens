@@ -5,12 +5,10 @@ date: 2026-10-22
 lastmod: 2026-10-22
 description: "Kommentar zu Art. 272 SchKG: Voraussetzungen der Arrestbewilligung — Glaubhaftmachung von Forderung, Arrestgrund und Vermögenswerten, Verbot des Sucharrests, örtliche Zuständigkeit und Ex-parte-Verfahren."
 tags: ["SchKG", "Arrest", "Arrestbewilligung", "Glaubhaftmachung", "Sucharrest", "Zuständigkeit", "Arrestsubstrat"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung nach dem Glossagens-Standard: Systematische Kommentierung der drei Glaubhaftmachungserfordernisse, Ausweitung der örtlichen Zuständigkeit auf den Betreibungsort (BBl 2009 1777), Verbot des Sucharrests und kantonale Judikatur zu Bankkonten."
 ---
 

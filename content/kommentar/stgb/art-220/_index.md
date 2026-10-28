@@ -5,17 +5,14 @@ date: 2026-05-16
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 220 StGB (Entziehen und Vorenthalten von Minderjährigen): Zivilrechtliches Aufenthaltsbestimmungsrecht, Kindesentführung und grenzüberschreitende Verbringung (BGE 125 IV 14, 141 IV 205, BGer 6B_123/2014, BL KG 460 23 184), Grenzkasuistik zur Besuchsrechtsvereitelung (AGVE 2004 Nr. 20, ZH OG SB090558, LGVE 2020 II Nr. 6), alternierende Obhut, Dauerdelikt und Antragsfrist — mit Prüfschema, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Entziehen von Minderjährigen", "Vorenthalten", "Aufenthaltsbestimmungsrecht", "Kindesentführung", "Besuchsrechtsmissbrauch", "Besuchsrechtsvereitelung", "alternierende Obhut", "Dauerdelikt", "HKsÜ"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-220.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 91 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum vollwertigen Praxiskommentar gemäss Referenzstandard von praxisorientierter-kommentar/SKILL.md (Art. 110 StPO, Art. 336 OR): Merkmalskatalog als Prüfschema-Tabelle vorangestellt; ausführliche narrative Lebenssachverhalte aus den Gerichtsakten; zweiseitige Grenzkasuistik (angewandt vs. verworfen); Kasuistiktabelle ohne Code-Fences; Aufarbeitung der Leitentscheide BGE 141 IV 205, 136 III 353, 128 IV 154, 125 IV 14, 118 IV 61, 105 IV 229, 104 IV 90, 99 IV 266 und BGer 6B_123/2014, 6B_757/2011, 6B_371/2021, 6B_784/2022; Judikaturanalyse zur Besuchsrechtsvereitelung nach der ZGB-Revision 2014 (LGVE 2020 II Nr. 6, ZH OG SB090558, AGVE 2004 Nr. 20, AG OG SBK.2025.362, TG OG RBOG 2025 Nr. 22); kantonale Praxisfragen und adressatenbezogene Praxishinweise. Sämtliche Urteile im Volltext über entscheidsuche.ch verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"

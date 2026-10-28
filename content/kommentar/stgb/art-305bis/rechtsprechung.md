@@ -5,32 +5,26 @@ date: 2026-06-03
 lastmod: 2026-09-14
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 305bis StGB (Geldwäscherei): Vereitelungshandlung, Selbstgeldwäscherei, Grenzkasuistik (Bareinzahlung, paper trail, Gebrauchsgüter, Konsum vs. Vernichtung), Vortatnachweis, Kasuistik zum subjektiven Tatbestand (Bargeldkurier BGer 6B_363/2026, Money Mules) und Zivilhaftung."
 tags: ["Rechtsprechung", "StGB", "Geldwäscherei", "Einziehung", "Vortat", "Selbstgeldwäscherei", "Finanzintermediär", "Money Mule", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-14
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 6B_363/2026 vom 12. August 2026 (Bargeldkurier für Uhrenkauf, GBP 145'000.-, Abgrenzung von Eventualvorsatz und bewusster Fahrlässigkeit, Grundsatz des bewussten Nichtwissenwollens, versuchte Geldwäscherei bei Zollbeschlagnahme)."
   - date: 2026-09-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau auf 16 strukturierte Entscheide gemäss Benchmark: 10 BGE-Leitentscheide und 6 weitere Bundesgerichts- und kantonale Entscheide (BGer 7B_171/2022 zu Vortatnachweis/Arglist bei Money Mules, BGer 7B_1092/2024 zu Eventualvorsatz vs. Fahrlässigkeit, BGer 6B_199/2022 zu Umsatzschwellen Gewerbsmässigkeit, AG OG SBK.2025.180 zu Verteidigung der ersten Stunde, AG OG SBK.2024.23 zu Bitcoin-Transfers, GE CJ P/18709/2016 zu Cybercrime-Mules); alle URLs auf entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 8 verifizierte BGE-Entscheide via entscheidsuche.ch mit konkreten Sachverhalten; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,7 +5,6 @@ date: "2026-06-27"
 lastmod: "2026-06-27"
 description: "Übersicht der Entscheide zu Art. 353 StPO — Inhalt und Eröffnung des Strafbefehls"
 tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Anklagegrundsatz", "Zivilforderungen"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 353 StPO — Inhalt und Eröffnung des Strafbefehls](./)

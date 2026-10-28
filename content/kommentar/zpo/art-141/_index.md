@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 141 ZPO: Voraussetzungen der Ediktalzustellung (unbekannter Aufenthalt, Unmöglichkeit, ausländisches Zustellungsdomizil), zumutbare Nachforschungen, Zustellfiktion sowie Rechtsfolgen unzulässiger Publikation (Nichtigkeit vs. Anfechtbarkeit)."
 tags: ["ZPO", "Zustellung", "Ediktalzustellung", "Öffentliche Bekanntmachung", "Rechtliches Gehör", "Nichtigkeit", "Fristen"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neukommentierung als umfassender Praxiskommentar gestützt auf BGer 5A_942/2025 vom 1. September 2026 (Anforderungen an Nachforschungen und Nichtigkeit des Scheidungsurteils), BGer 4A_646/2020 (Organisationsmangel, Ultima-ratio-Prinzip, Nichtigkeitsfolge bei Unterlassen bekannter Organadressen), BGE 143 III 28 (Zustellungsdomizil im Ausland), BGE 136 III 571 sowie kantonale Judikatur (SG KG BS.2021.6, SH OG 40/2023/44, SO OG ZKBER.2020.40, BS AppG BEZ.2024.75, ZH OG LB180054)."
 ---
 

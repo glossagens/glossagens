@@ -5,7 +5,6 @@ date: 2026-10-22
 lastmod: 2026-10-22
 description: "Übersicht der Rechtsprechung zu Art. 279 SchKG: Leitentscheide des Bundesgerichts und kantonale Entscheide zur Arrestprosequierung und zum Fristenstillstand."
 tags: ["Rechtsprechung", "SchKG", "Arrest", "Arrestprosequierung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

@@ -5,17 +5,14 @@ date: 2026-09-03
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 165 StGB — Misswirtschaft, Konkursverschleppung, Organhaftung und unternehmerisches Risiko."
 tags: ["Rechtsprechung", "StGB", "Misswirtschaft", "Konkursverschleppung", "Organhaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aktualisierung und Erweiterung auf 16 verifizierte Entscheide mit zweiseitiger Grenzkasuistik (Verurteilungen vs. Freisprüche): Integration von BGer 7B_135/2023 vom 14.08.2026 (entscheidsuche-Link), BGer 6B_774/2025, BGer 6B_775/2020 sowie der kantonalen Leitentscheide BS APG SB.2021.130 und ZH OG SB210481. Alle Links direkt über entscheidsuche.ch belegt."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht mit 12 Leit- und Praxisentscheiden."
 ---
 

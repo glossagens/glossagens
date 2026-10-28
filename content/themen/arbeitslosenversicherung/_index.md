@@ -37,12 +37,10 @@ normen:
   - { gesetz: atsg, art: art-052 }
   - { gesetz: atsg, art: art-056 }
 stichworte: ["Arbeitslosenversicherung", "ALV", "AVIG", "Taggeld", "Rahmenfrist", "Beitragszeit", "Vermittlungsfähigkeit", "Zumutbare Arbeit", "Arbeitsbemühungen", "arbeitgeberähnliche Stellung", "Einstellung in der Anspruchsberechtigung", "Kurzarbeitsentschädigung", "Schlechtwetterentschädigung", "Insolvenzentschädigung", "Arbeitsmarktliche Massnahmen", "AMM", "RAV", "Arbeitslosenkasse", "Einsprache", "Versicherungsgericht"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtext Art. 1a AVIG per {{< wortlaut >}} (scripts/wortlaut.py); AVIG (Stand 1.1.2026) und AVIV in der geltenden Fedlex-Konsolidierung verifiziert. 15 BGE als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und wörtliche Zitate gegen den Volltext abgeglichen. Mechanische Prüfung durch pruefen.py und build-check.sh bestanden."
 ---
 

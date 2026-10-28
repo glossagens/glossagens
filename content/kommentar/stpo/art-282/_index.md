@@ -5,17 +5,14 @@ date: 2026-10-02
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 282 StPO – Voraussetzungen der verdeckten Observation an allgemein zugänglichen Orten mit Bild- und Tonaufzeichnungen: zuständige Behörden, Verdecktheit, allgemein zugängliche Orte, konkrete Anhaltspunkte für Verbrechen oder Vergehen, Aussichtslosigkeit oder unverhältnismässige Erschwerung, Genehmigungspflicht bei monatlicher Dauer sowie die zentrale Funktion als gesetzliches Beweisdispositiv bei der Verwertbarkeit privater Beweismittel."
 tags: ["StPO", "Observation", "verdeckte Ermittlung", "Bildaufzeichnung", "Tonaufzeichnung", "allgemein zugängliche Orte", "Beweisverwertungsverbot", "private Beweismittel", "konkrete Anhaltspunkte", "Sozialversicherungsbetrug"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-282.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-02
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstkommentierung. Gesetzeswortlaut verbatim aus Fedlex (SR 312.0, Konsolidierung 1. April 2025). 13 Entscheide im Volltext uber entscheidsuche.ch geholt und Belegstellen wortlich uberpruft: BGE 151 IV 124, BGE 140 I 353, BGE 136 I 87, BGer 6B_133/2025, 6B_462/2025, 6B_1061/2020, 1C_39/2021, 1C_354/2024, 7B_1059/2023, 7B_80/2025, SG KG ST.2021.60-SK3, BE OG SK 2023 386, BS APG BES.2026.15. Auslosender Entscheid: 6B_133/2025 (privat durchgefuhrte Observation im IV-Verfahren, abstrakter Beurteilungsmassstab nach BGE 151 IV 124)."
 ---
 

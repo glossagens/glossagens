@@ -5,37 +5,30 @@ date: 2026-05-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 85a SchKG: Negative Feststellungsklage des Betriebenen — Feststellung des Nichtbestehens der Schuld, vorläufige Einstellung, Beweismass, Drittpfandsteller-Ausschluss, Konkurs des Klägers, Betreibungsregister, Verhältnis zu Art. 85 und Art. 8a, Grenzkasuistik."
 tags: ["SchKG", "Feststellungsklage", "negative Feststellungsklage", "Betreibung", "Rechtsvorschlag", "Einstellung", "Beweismass", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-085a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17–20 (Verhältnis zu Art. 85, Nichtbekanntgabe nach Art. 8a, Rückzug als Rechtsöffnungstitel, Vorsorgliche Massnahmen) ergänzt; BGE 140 III 41, BGE 147 III 544, BGE 148 III 30, BGer 4A_619/2023 integriert und auf entscheidsuche.ch verlinkt; Praxisfragen erweitert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-6 überarbeitet und vertieft, Rz. 7-9 (Beweismass, zeitliche Schranken, Urteilswirkungen) präzisiert, Rz. 10-16 (Grenzkasuistik: Schikanebetreibung, Konkurs des Klägers, Drittpfandsteller, Betreibungsregister, Betreibungsrückzug, öffentlich-rechtliche Forderungen), Praxisfragen ergänzt; BGE 125 III 149, BGE 127 III 41, BGE 128 III 334, BGE 132 III 89, BGE 136 III 587, BGE 141 III 68, BGE 129 III 197, BGer 4A_580/2019 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der Feststellungsklage, Kasuistik zur Beseitigung von Schikanebetreibungen (BGE 141 III 68), superprovisorische Einstellung im Konkurs (BGE 136 III 587), Drittpfandsteller-Ausschluss (BGE 129 III 197) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG — aufgehobenen Abs. 4 im Gesetzestext ergänzt"
   - date: 2026-05-15
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-07-31
 lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 20 DBG — steuerbare Erträge aus beweglichem Vermögen, verdeckte Gewinnausscheidung, simuliertes Darlehen, geldwerte Vorteile aus Beteiligungen, Aufrechnungen, Vorsorgeprivilegierung"
 tags: ["Rechtsprechung", "DBG", "Einkommensteuer", "Ertrag", "verdeckte Gewinnausscheidung", "Dividende", "Aufrechnung"]
-agent_verified: false
 revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-10-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 7 BGÖ: Die gesetzlichen Ausnahme- und Geheimhaltungstatbestände des Öffentlichkeitsgesetzes (freie Meinungsbildung, behördliche Massnahmen, innere und äussere Sicherheit, Aussenpolitik, Geschäfts- und Fabrikationsgeheimnisse, vertrauliche Drittinformationen und Schutz der Privatsphäre) — mit detaillierter Kasuistik, Schwellenwerten für das Schadensrisiko und taktischen Praxishinweisen."
 tags: ["BGÖ", "Ausnahmen", "Geheimhaltung", "Geschäftsgeheimnis", "Innere Sicherheit", "Aussenpolitik", "Meinungsbildung", "Privatsphäre", "Datenschutz", "Beweislast"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 152.3 vom 2023-11-01 (data/wortlaut/bgoe/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Erstkommentierung im Standard eines praxisorientierten Praxiskommentars. Gesetzeswortlaut verbatim nach Fedlex (SR 152.3, Konsolidierung 1. November 2023). Ausgewertete und verifizierte Urteile: BGE 133 II 209, BGE 136 II 399, BGE 142 II 313, BGE 142 II 324, BGE 142 II 340, BGE 144 II 77, BGE 144 II 91, BGE 146 II 265, BGE 150 II 191, BGer 1C_462/2018, BGer 1C_129/2016, BVGer A-6054/2013, BVGer A-6313/2015, BVGer A-746/2016, BVGer A-700/2015 sowie ZH VG VB.2016.00201 und BE VG 100 2020 443. Sämtliche Fundstellen über entscheidsuche.ch verlinkt."
 ---
 

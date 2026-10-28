@@ -5,17 +5,14 @@ date: 2026-10-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 6 BGÖ: Subjektiver Popularanspruch ohne Interessennachweis, Einsichtnahme und Auskunftserteilung über amtliche Dokumente, Wahlrecht zwischen Einsicht vor Ort und Kopien, Urheberrechtsvorbehalt sowie Erfüllungsfiktion durch aktive Veröffentlichung — mit ausführlicher Grenzkasuistik, Schwellenwerten und adressatenbezogenen Praxishinweisen."
 tags: ["BGÖ", "Öffentlichkeitsprinzip", "Transparenz", "Einsichtsrecht", "Kopien", "Urheberrecht", "Aktive Veröffentlichung", "Popularanspruch", "Beweislast", "Rechtsmissbrauch"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 152.3 vom 2023-11-01 (data/wortlaut/bgoe/art-006.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Erstkommentierung im Standard eines praxisorientierten Praxiskommentars. Gesetzeswortlaut verbatim nach Fedlex (SR 152.3, Konsolidierung 1. November 2023). Ausgewertete und verifizierte Urteile: BGE 133 II 209, BGE 136 II 399, BGE 139 I 114, BGE 142 II 313, BGE 142 II 340, BGE 144 II 77, BGE 144 II 91, BGE 146 II 265, BGer 1C_74/2015, BGer 1C_533/2018, BGer 1C_446/2026, BVGer A-6054/2013, BVGer A-6313/2015 sowie kantonale Gerichtsentscheide ZH VG VB.2022.00146 und BE VG 100 2020 443. Sämtliche Urteilsfundstellen über entscheidsuche.ch verlinkt."
 ---
 

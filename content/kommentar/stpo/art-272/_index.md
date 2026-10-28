@@ -5,17 +5,14 @@ date: 2026-10-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 272 StPO: Genehmigungspflicht der Überwachung des Post- und Fernmeldeverkehrs durch das Zwangsmassnahmengericht, analoge Erstreckung auf technische Überwachungsgeräte und Randdaten, Rahmenbewilligung bei raschem Wechsel des Fernmeldedienstes, Schutz von Berufsgeheimnissen sowie Folgen unterlassener oder verspäteter Genehmigung."
 tags: ["StPO", "Zwangsmassnahmen", "Überwachung", "Fernmeldeverkehr", "Genehmigungspflicht", "Zwangsmassnahmengericht", "Rahmenbewilligung", "Berufsgeheimnis", "Beweisverwertungsverbot", "IMSI-Catcher"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-272.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar zu Art. 272 StPO. Gesetzeswortlaut verbatim nach Fedlex (SR 312.0, Stand 1. April 2025). Sämtliche Entscheide und Volltexte über entscheidsuche.ch und swiss-caselaw verifiziert: BGE 145 IV 42, BGE 141 IV 423, BGE 142 IV 34, BGE 140 IV 40, BGE 144 IV 254, BGE 137 IV 340, BGE 150 IV 139, BGE 142 IV 289, BGer 1B_251/2013, BStGer BB.2026.37, TG OGer RBOG 2017 Nr. 29, BL KG 470 22 107, BL KG 470 16 314, BL ZMG 350 12 114, BL ZMG 350 13 681, BS AppG SB.2013.20."
 ---
 

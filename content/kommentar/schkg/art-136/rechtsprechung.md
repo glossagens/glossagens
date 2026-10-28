@@ -5,12 +5,10 @@ date: 2026-09-12
 lastmod: 2026-09-12
 description: "Übersicht der Entscheide zu Art. 136 SchKG (Zahlungsmodalitäten bei Versteigerung) mit Pinpoint-Zitaten und Verfahrensgang."
 tags: ["Rechtsprechung", "SchKG", "Art. 136", "Versteigerung", "Steigerung", "Zahlungstermin", "Barzahlung", "Bankversprechen"]
-agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
     model: "nemotron-3-ultra"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 136 SchKG mit BGE 91 III 66, 112 III 23, 128 III 104, 128 III 468; Pinpoint-Zitate via entscheidsuche.ch verifiziert."
 ---
 

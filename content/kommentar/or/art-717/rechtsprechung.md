@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 717 OR – Sorgfalts- und Treuepflicht, Business Judgment Rule, Interessenkonflikte, Gleichbehandlungsgebot und kantonale Praxis."
 tags: ["Rechtsprechung", "OR", "Sorgfaltspflicht", "Treuepflicht", "Business Judgment Rule", "Gleichbehandlungsgebot", "Interessenkonflikte"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht zu Art. 717 OR mit Leitentscheiden des Bundesgerichts sowie kantonaler Urteile."
 ---
 

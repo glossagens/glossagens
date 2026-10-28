@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 3 StHG (SR 642.14) — Steuerpflicht aufgrund persönlicher Zugehörigkeit, steuerrechtlicher Wohnsitz, Mittelpunkt der Lebensinteressen, Wochenaufenthalter, leitende Stellung, Weltenbummler, alternierender Wohnsitz und Ehegattenbesteuerung (Faktorenaddition)."
 tags: ["Rechtsprechung", "StHG", "Steuerpflicht", "persönliche Zugehörigkeit", "steuerrechtlicher Wohnsitz", "Lebensmittelpunkt", "Wochenaufenthalter", "Familienbesteuerung", "Faktorenaddition"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 3 StHG mit 11 geprüften Leitentscheiden und kantonalen Praxisurteilen. URLs via entscheidsuche.ch verifiziert."
 ---
 

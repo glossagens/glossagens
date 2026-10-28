@@ -5,7 +5,6 @@ date: 2026-09-25
 lastmod: 2026-09-25
 description: "Übersicht der Rechtsprechung zu Art. 283 ZPO: Leitentscheide des Bundesgerichts und kantonale Praxis zum Grundsatz der Einheit des Scheidungsurteils, zu den Voraussetzungen des Scheidungsteilurteils und zur Verweisung von Nebenfolgen in ein separates Verfahren."
 tags: ["Rechtsprechung", "ZPO", "Familienrecht", "Scheidung", "Teilurteil", "Güterrecht", "Vorsorgeausgleich"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

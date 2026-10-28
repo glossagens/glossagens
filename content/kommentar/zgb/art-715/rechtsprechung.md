@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 715 ZGB — Publizitätsgrundsatz für den Eigentumsvorbehalt: Eintragung als Wirksamkeitserfordernis, Ort (Wohnsitz, AG-Sitz, Wohnsitzwechsel), Zeitpunkt (Rückfall nach Übergabe, Unbeachtlichkeit nach Konkurseröffnung), Inhalt (nur Gegenleistung, Faustpfandprinzip), formelle Prüfung und einseitige Anmeldung, ausländischer Eigentumsvorbehalt, Konkurs des Erwerbers (Aussonderung), Viehhandel und Verhältnis zu Art. 714, 933, 716 ZGB."
 tags: ["Rechtsprechung", "ZGB", "Eigentumsvorbehalt", "Publizitätsprinzip", "Eigentumsvorbehaltsregister", "Konkurs", "Aussonderung", "Wohnsitz", "Faustpfandprinzip", "Veruntreuung", "Abzahlungsvertrag"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 7 im Volltext abgerufen (BGE 82 IV 182, 85 II 580, 93 III 96, 96 II 161, 96 III 51, 102 III 150, 106 II 320; BE OG ABS 2019 96; BGE 121 III 345 und 121 IV 26 aus der Art. 933-Recherche). Links verbatim aus document_url-Feldern übernommen."
 ---
 

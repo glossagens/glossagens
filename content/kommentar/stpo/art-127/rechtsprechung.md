@@ -5,7 +5,6 @@ date: 2026-06-20
 lastmod: "2026-06-19"
 description: "Übersicht der Rechtsprechung zu Art. 127 StPO – Rechtsbeistand: Mehrfachvertretung, Anwaltsmonopol, Vertretungsbefugnis"
 tags: ["Rechtsprechung", "StPO", "Rechtsbeistand", "Wahlverteidigung", "Anwaltsmonopol", "Mehrfachvertretung", "Vertretungsbefugnis", "BGFA"]
-agent_verified: true
 ---
 
 ## Leitentscheide (BGE)

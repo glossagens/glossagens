@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 58a AIG: Gesetzliche Integrationskriterien, Sprachkompetenzen, wirtschaftliche Integration, Ausnahmetatbestände und kantonale Praxis."
 tags: ["Rechtsprechung", "AIG", "Ausländerrecht", "Integrationskriterien", "Sprachnachweis", "Wirtschaftliche Integration", "VZAE", "Rückstufung"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht mit Leitentscheiden des Bundesgerichts und kantonaler Praxis."
 ---
 

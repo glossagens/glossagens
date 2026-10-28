@@ -5,22 +5,18 @@ date: 2026-09-02
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 3 VG: Kausalhaftung des Bundes für amtliches Handeln, Abgrenzung zu Spezialgesetzen, Erfolgs- und Verhaltensunrecht bei reinem Vermögensschaden, wesentliche Amtspflichtverletzung bei Verfügungen und Gerichtsentscheiden, Haftungsmassstab bei Notverordnungen des Bundesrates (CS-Rettung, Pandemie), Garantenstellung bei Unterlassungen (Armeewaffen) sowie das EFD-Vorverfahren — mit ausführlicher Grenzkasuistik und Judikaturvergleichen."
 tags: ["VG", "Staatshaftung", "Widerrechtlichkeit", "Bundesrat", "Kausalhaftung", "Notrecht", "Beamtenhaftung", "Schutznormlehre", "Garantenstellung", "Verwirkungsfristen", "Credit Suisse"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 170.32 vom 2025-06-15 (data/wortlaut/vg/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR: 11-teiliges Prüfschema, vollständige zweiseitige Grenzkasuistik (u.a. BGer 2E_8/2024, BGer 2E_1/2024, BGer 2E_3/2022, BGE 150 II 225, BVGE 2019 I/2, BGE 139 IV 137, BGE 118 Ib 163, BGE 100 Ib 8, BGE 116 Ib 193, BGE 107 Ib 5), Offenlegung der BGer-Divergenz zu Art. 12 VG bei Justizakten, Haftungsmassstabstabelle, kantonale Praxisfragen und adressatenbezogene Praxishinweise. Sämtliche Urteile über entscheidsuche.ch im Volltext verifiziert."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstanlage des Praxiskommentars zu Art. 3 VG mit Fedlex-Wortlaut und Einarbeitung der bundesgerichtlichen Leitpraxis inkl. BGer 2E_5/2024 (Staatshaftung bei CS-Rettungsmassnahmen)."
 ---
 

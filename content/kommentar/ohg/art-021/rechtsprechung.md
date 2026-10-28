@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 21 OHG – Vorschuss auf Entschädigung, Notlage, Beweismass und Verfahrenskoordination"
 tags: ["Rechtsprechung", "OHG", "Vorschuss", "Entschädigung", "Dringlichkeit"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 21 OHG mit 10 verifizierten Leitentscheiden und kantonalen Urteilen."
 ---
 

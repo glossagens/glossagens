@@ -5,57 +5,46 @@ date: 2026-06-07
 lastmod: 2026-10-26
 description: "Praxiskommentar zu Art. 146 StGB: Arglistige Täuschung, Lügengebäude und besondere Machenschaften, zweiseitige Grenzkasuistik zur Opfermitverantwortung, Betrug durch Unterlassen bei Garantenstellung (Retrozessionen), umfassender Exkurs zur COVID-19-Nothilfemassnahmen-Rechtsprechung (Kredite und Kurzarbeitsentschädigung), Motivationszusammenhang und Schadenskongruenz sowie taktische Merksätze für die Praxis."
 tags: ["StGB", "Betrug", "Arglist", "Opfermitverantwortung", "Vermögensdelikte", "Lügengebäude", "Besondere Machenschaften", "Motivationszusammenhang", "Corona-Kreditbetrug", "Covid-19-Solidarbürgschaft", "Kurzarbeitsentschädigung", "Retrozessionen", "Prozessbetrug", "Gewerbsmässigkeit", "Romance Scam", "Online-Handel", "Sanktionsgeschäft", "OFAC"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_403/2025 vom 16.09.2026 (Covid-19-Kurzarbeitsentschädigungsbetrug): Übertragung der Arglist-Dogmatik von BGE 150 IV 169 auf Kurzarbeitsentschädigung nach AVIG/LACI; neuer Unterabschnitt 6 in Abschnitt E mit Sachverhaltsschilderung und Blockzitat aus E. 4.3.5/4.4; Ergänzung Tabelle 1. Entscheid via OCL get_erwaegung verifiziert (E. 4.3.5, 4.4); Link auf bger.ch (entscheidsuche.ch noch nicht indexiert)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-146.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_20/2025 vom 02.09.2026 (Nichteintretungsverfügung bei Betrug im Sanktionsgeschäft mit angeblichem CIA-Agenten): Verneinung von Täuschung und Arglist bei erfahrener Rohstoffhändlerin mit erhöhten Sorgfaltspflichten in internationalen Transaktionen; Aufnahme als Fall 4 in Abschnitt C.1 (Verwerfungsfälle Opfermitverantwortung), Ergänzung von Abschnitt A (Zukunftsangaben) und Abschnitt B (Arglist-Formel) sowie Tabelle 1. Entscheid via entscheidsuche verifiziert (E. 5.4.1, 5.4.2)."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau des Exkurses zur Rechtsprechung zu COVID-19-Nothilfekrediten (aCovid-19-SBüV / Covid-19-SBüG): Einarbeitung des neuesten Leitentscheids BGer 6B_148/2026 vom 02.09.2026 (arglistige Täuschung durch falsche Ursachenzuschreibung der wirtschaftlichen Notlage auf die Pandemie bei vorbestandener Überschuldung; MWST-Abrechnungen als Beweismittel; Konkurrenz zu Falschbeurkundung, betrügerischem Konkurs Art. 163 StGB und Geldwäscherei Art. 305bis StGB); detaillierte Analyse von BGE 150 IV 169 (Arglist im Selbstdeklarationsverfahren), BGE 151 IV 113 (offensichtlich falsche Notlagenerklärung), BGer 6B_75/2026 (keine Opfermitverantwortung der Hausbank) und BGer 6B_826/2024 (Auszahlung als Vermögensschaden)."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung des Motivationszusammenhangs und der Schadenskongruenz anhand von BGer 6B_85/2026, 6B_96/2026 (Lieferkettenverschleierung) sowie BGer 6B_717/2012, BGE 128 IV 255 und BGE 126 IV 113; Rügeobliegenheit im Adhäsionsprozess nach Art. 124 Abs. 2 StPO."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach den Benchmark-Standards von Art. 110 StPO und Art. 336 OR: Dogmatischer Merkmalskatalog als Prüfschema-Tabelle vorab; narrative Sachverhaltserzählungen (SF DRS Fernsehquiz 'Risiko' BGE 126 IV 165; Online-Druckerkauf BGE 142 IV 153; Prostitutionshonorar BGE 147 IV 73; Glückspost-/Blick-Bargeldkredite 6B_497/2014; Arabische Investoren BGE 118 IV 359; Romance-Scam-Grenzfall 7B_891/2024); zweiseitige Grenzkasuistik (bejaht vs. verneint) zur Opfermitverantwortung; Offenlegung von Judikaturwidersprüchen bei Alltagsgeschäften und Banken; zwei Vergleichstabellen; Nachweis des Erfüllungswillens und taktische Merksätze; 15 verifizierte Entscheide auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Sektion Corona-Nothilfekreditbetrug ergänzt (Rn 27–29): Arglist bei einfachen Falschangaben im Selbstdeklarationsverfahren, Opfermitverantwortung, Urkundenfälschung, Abgrenzung zu gewöhnlichem Kreditbetrug; BGE 151 IV 201, BGE 150 IV 169, 6B_75/2026, 6B_268/2025."
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Erhebliche praxisorientierte Ausbaustufe: Tatbestandsmerkmale mit konkreter Kasuistik aus BGer-Rechtsprechung, neue Abschnitte zu Versicherungsbetrug, Anlagebetrug, Sozialleistungsbetrug, Prozessbetrug, Serienbetrug und Abgrenzungen; 14 verifizierte Entscheide via entscheidsuche.ch."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Beseitigung von 1 fehlerhaften Referenz und 3 Pinpoint-Fehlern; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

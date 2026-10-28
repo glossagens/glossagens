@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 13 StGB: Sachverhaltsirrtum — Beurteilung zu Gunsten des Täters (Abs. 1), Fahrlässigkeitshaftung bei Vermeidbarkeit (Abs. 2), Abgrenzung zu Rechtsirrtum und krankheitsbedingtem Irrtum."
 tags: ["StGB", "Sachverhaltsirrtum", "Vorsatzausschluss", "Fahrlässigkeit", "Irrtumslehre", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; dubiose kantonale Zitate entfernt; BGE 147 IV 193 (krankheitsbedingter Irrtum), BGE 135 IV 12 (bewusste Unkenntnis), BGE 129 IV 238 (Abgrenzung Sachverhalts-/Rechtsirrtum), BGer 6B_804/2018 (Fahrlässigkeit) verifiziert; BGer 6B_878/2025 (2026) ergänzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,22 +5,18 @@ date: "2026-05-09"
 lastmod: "2026-10-03"
 description: "Umfassende Rechtsprechungssammlung zu Art. 8 StPO: Leitentscheide des Bundesgerichts, kantonale Rechtsprechungspraxis zu Opportunitätsprinzip, Geringfügigkeit (Art. 52 StGB), Zusatzstrafen, Privatklägerinteressen und Kostenauflage."
 tags: ["Rechtsprechung", "StPO", "Opportunitätsprinzip", "Geringfügigkeit", "Einstellung", "Nichtanhandnahme", "Art. 52 StGB", "Zusatzstrafe"]
-agent_verified: true
 revisions:
   - date: "2026-10-03"
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung: Korrektur und Einbau von BGE 139 IV 220 als Leitentscheid (keine Einstellung durch Sachgericht nach Anklage), BGE 144 IV 202 (Kostenauflage bei Art. 53 StGB), BGE 138 IV 86 (in dubio pro duriore), BGer 1B_222/2016, BGer 6B_791/2023, BGer 6B_282/2013 sowie kantonale Leitentscheide (TG RBOG 2022 Nr. 29, ZH UE170142, SG AK.2014.182, BStGer BB.2018.184). Alle URLs auf entscheidsuche.ch verifiziert."
   - date: "2026-10-01"
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuaufbau: BGE 135 IV 130 und BGer 6B_708/2012 integriert."
   - date: "2026-05-09"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Neuanlage"
 ---
 

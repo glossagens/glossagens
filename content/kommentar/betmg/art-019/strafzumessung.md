@@ -5,7 +5,6 @@ date: 2026-09-06
 lastmod: 2026-09-10
 description: "Empirische Auswertung der publizierten Praxis zur Strafzumessung nach Art. 19 BetmG — 31 im Volltext analysierte Leit- und Berufungsentscheide mit 33 belegten Einsatzstrafen und Asperationszuschlägen, gespiegelt am Dispositiv."
 tags: ["Strafzumessung", "BetmG", "Betäubungsmittelgesetz", "Drogenhandel", "Schwerer Fall", "Praxisauswertung", "Einsatzstrafe"]
-agent_verified: true
 auswertungsstand: 2026-09-10
 entscheide_ausgewertet: 31
 strafwerte_belegt: 33
@@ -13,12 +12,10 @@ revisions:
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung des Kernkorpus um 15 aktuelle kantonale Berufungs- und Leitentscheide (insgesamt 31 Entscheide, 33 Strafzumessungen) aus ZH, GR, SO, AG und BS mit vollständigen Strafzumessungen über entscheidsuche.ch. Volltextanalyse aller Einsatzstrafen, Asperationszuschläge und Täterkomponenten, gespiegelt am Dispositiv."
   - date: 2026-09-06
     by: "Antigravity"
     model: "gemini-2.5-pro"
-    mcp_verified: true
     note: "Volltextauswertung von 16 kantonalen und eidgenössischen Leit- und Referenzentscheiden (18 belegte Strafwerte) über entscheidsuche.ch. Keine unbesehenen Fremddaten-Aggregate; direkte Urteilsbegründungsanalyse."
 ---
 

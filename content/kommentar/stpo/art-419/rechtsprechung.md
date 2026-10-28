@@ -5,17 +5,14 @@ date: 2026-10-04
 lastmod: 2026-10-23
 description: "Rechtsprechungssammlung zu Art. 419 StPO — Kostenpflicht von Schuldunfähigen nach Billigkeitsgrundsätzen (Art. 54 OR), wirtschaftliche Schwellenwerte, Korrelation zur Entschädigung (Art. 429 StPO)."
 tags: ["Rechtsprechung", "StPO", "Kostenpflicht", "Schuldunfähigkeit", "Billigkeitshaftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung der Erfassung: alle zitierten Entscheide im Volltext (entscheidsuche.ch; BGE 112 Ia 371 und 115 Ia 111 über opencaselaw get_regeste/get_erwaegung) abgeglichen. Korrigiert: BGer 6B_1404/2016 (Rückweisung, Sachverhalt), 6B_1395/2017 (Einstellung wegen Rückzugs der Strafanträge, Kosten nach Art. 426 Abs. 2), 6B_505/2014 (betrifft Art. 54 OR, nicht Art. 419 StPO), 6B_564/2018, AG SST.2022.157 (Beträge, Aktionär statt Hauptaktionär, Kostenquote 1/4), BS SB.2017.68 (Frage offengelassen), BS BES.2019.117, KG VS P3 14 188."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage mit 12 strukturierten Entscheiden (5 Leitentscheide BGer/BGE, 7 kantonale Entscheide). Alle Belege via entscheidsuche.ch im Volltext verifiziert."
 ---
 

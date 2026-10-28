@@ -5,17 +5,14 @@ date: 2026-09-01
 lastmod: 2026-10-21
 description: "Übersicht der Leitentscheide zu Art. 5 RPG (Planungsmehrwertausgleich, Um- und Aufzonungen, materielle Enteignung und Entschädigungspflicht)."
 tags: ["Rechtsprechung", "RPG", "Raumplanung", "Mehrwertausgleich", "Planungsvorteil", "Materielle Enteignung"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 1C_571/2025 vom 15.09.2026 (Qualifikation als Nichteinzonung bei Altnutzungsplänen ohne RPG-Konformitätsvermutung)."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 5 RPG mit BGE 147 I 225, BGE 122 II 455, BGE 115 Ia 358 sowie BGer 1C_513/2025."
 ---
 

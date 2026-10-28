@@ -18,12 +18,10 @@ normen:
   - { gesetz: svg, art: art-090 }
   - { gesetz: bgg, art: art-082 }
 stichworte: ["Führerausweisentzug", "Warnungsentzug", "Sicherungsentzug", "Fahreignung", "Kaskadensystem", "Mindestentzugsdauer", "Zweispurigkeit", "Bindungswirkung", "Strafbefehl", "vorsorglicher Entzug", "Strassenverkehrsamt", "Rechtsmittelweg"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren). Normtexte SVG und BGG über Fedlex; Art. 16 SVG per {{< wortlaut >}} eingebunden. Alle zehn Leitentscheide als Volltext von entscheidsuche.ch geladen, Erwägungsnummern, HTML-Anker und jedes wörtliche Zitat gegen den Volltext abgeglichen. Mechanische Prüfung via pruefen.py ohne Befund."
 ---
 

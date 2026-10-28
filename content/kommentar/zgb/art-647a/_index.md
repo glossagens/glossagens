@@ -5,22 +5,18 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 647a ZGB — gewöhnliche Verwaltungshandlungen im Miteigentum: Einzelvertretungsmacht jedes Miteigentümers (Ausbesserungen, Anbau/Ernte, Verwahrung, Verträge, Geld), Abänderung der Zuständigkeit durch Mehrheitsbeschluss (Abs. 2), Stufenmodell der Verwaltungshandlungen (Art. 647a–647e: gewöhnlich/wichtiger/Unterhalt/baulich/Verschönerung) mit steigendem Quorum, Abgrenzung zur Nutzungs- und Verwaltungsordnung (Art. 647 Abs. 1) und Verhältnis zum Stockwerkeigentum mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Miteigentum", "Verwaltung", "gewöhnliche Verwaltungshandlungen", "Vertretungsmacht", "Mehrheitsbeschluss", "Nutzungs- und Verwaltungsordnung", "Stockwerkeigentum", "Verwalter"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-647a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Gesetzeswortlaut gegen Fedlex abgeglichen (Absatznummerierung 1./2. auf amtliche Zählung 1/2 korrigiert)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 647a, 647b, 647c, 647d, 647e ZGB; sowie Art. 646, 647, 648, 655 ZGB aus den Vorarbeiten. 10 Entscheide via entscheidsuche.ch geprüft, davon 1 im Volltext abgerufen (BGer 5A_29/2025; BE OG ZK 2020 538, BS APG ZB.2023.49, ZH OG PF180036, ZH OG UN010093, AG OG ZSU.2022.209, BE VB 32-13-07-139, AG OG ZOR.2022.10, SZ KG STK 2024 36, ZH OG NP200040 via Such-Snippets). Links verbatim aus document_url-Feldern übernommen."
 ---
 

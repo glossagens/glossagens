@@ -5,37 +5,30 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 49 OR: Genugtuungsanspruch bei Persönlichkeitsverletzung, Schwellenwert der qualifizierten Schwere, zweiseitige Grenzkasuistik (angewandt vs. verworfen), Genugtuung juristischer Personen und Angehöriger, Bemessungsmethode, unbezifferte Klage nach Art. 85 ZPO sowie Prozesstaktik mit Kasuistiktabellen und Praxishinweisen."
 tags: ["OR", "Genugtuung", "Persönlichkeitsverletzung", "Haftpflichtrecht", "Schadenersatz", "Bemessung", "Praxiskommentar", "Kantonale Rechtsprechung", "Schmerzensgeld"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-049.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 87 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von JU TC ADM 2024 16 (Tribunal cantonal du Jura, 2.9.2026) in Abschnitt G (Bemessung der Geldsumme): kantonaler Regressfall bei Vergewaltigung durch Pflegefachmann im Spital, Genugtuung CHF 15'000 nach Präjudizienvergleich mit BGer 6B_712/2025 (CHF 15'000) und BGer 6B_559/2024 (CHF 8'000); neue Praxistabellezeile 'Einmalige Vergewaltigung CHF 8'000-15'000'. JU-Entscheid via OCL get_case_brief/get_erwaegung verifiziert (E. 5.1.1-5.1.3), BGer-Präjudizien via OCL case_brief + entscheidsuche document_url verifiziert."
   - date: 2026-09-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (Referenzmuster Art. 110 StPO und Art. 336 OR): Vollständiges Prüfschema, narrative Lebenssachverhalte (BGE 125 III 412, BGE 130 III 699, BGE 138 III 337, BGE 120 II 97, BGE 117 II 50, BGE 125 IV 199, BGE 141 III 97, BGE 125 III 70 u.a.), zweiseitige Grenzkasuistik je Merkmal (angewandt vs. verworfen), Offenlegung von Judikaturdivergenzen (insb. Genugtuung für juristische Personen), tabellarische Vergleiche und Kasuistiktabellen ohne Code-Fences, beschreibende Leitsätze und abschliessende adressatenbezogene Praxishinweise."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiges Audit: Gesetzestext gegen Fedlex (SR 220 Stand 01.01.2026) verifiziert; BGE-Zitate auf kanonische OpenCaseLaw-Referenzen normiert; 22 kantonale Entscheide gegen entscheidsuche.ch geprüft."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung mit über 20 kantonalen Gerichtsentscheiden (ZH, BE, SG, AG, LU, BS, BL, TG, GR, VS, SH, SZ, OW, AR) zu den kantonalen Praxisfragen und der Genugtuungsbemessung."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung des Kommentars zu Art. 49 OR inklusive Praxisteil und Rechtsprechungsübersicht."
 ---
 

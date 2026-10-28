@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 399 OR — Unbefugte und befugte Substitution, Haftungsstandard, Abgrenzung Substitut vs. Hilfsperson, Direktanspruch gegen den Dritten"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Substitution", "Haftung", "Hilfsperson"]
-agent_verified: false
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neu erstellt; 10 Entscheid via entscheidsuche verifiziert"
 ---
 

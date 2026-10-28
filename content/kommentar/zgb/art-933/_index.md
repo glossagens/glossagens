@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 933 ZGB — gutgläubiger Erwerb beweglicher Sachen vom nicht verfügungsberechtigten Besitzer, dem die Sache anvertraut war: Begriff des Anvertrautseins (Miete, Werk, Pfand, Eigentumsvorbehalt, Besitzeskonstitut, Schatz), Abgrenzung zur abhandengekommenen Sache (Art. 934) bei Täuschung und ertrogenen Sachen, guter Glaube und Branchenvertrautheit (Occasionswagen, Kunst/Antiquitäten), die Schenkungs-Schranke (teleologische Reduktion auf entgeltlichen Erwerb), Bösgläubigkeit (Art. 936) und nachträglicher gutgläubiger Erwerb mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "gutgläubiger Erwerb", "anvertraute Sache", "nemo plus iuris", "guter Glaube", "Branchenvertrautheit", "Occasionswagen", "Kunsthandel", "Schenkung", "Eigentumsvorbehalt", "Besitzeskonstitut", "Hehlerei", "Kulturgüter"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-933.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 3, 641a, 714, 715, 922, 924, 930, 933, 934, 935, 936 ZGB. 15 Entscheide via entscheidsuche.ch geprüft, davon 11 im Volltext abgerufen und ausgewertet (BGE 85 II 580, 100 II 8, 103 II 186, 105 IV 303, 113 II 397, 121 III 345, 121 IV 26, 122 III 1, 139 III 305; BGer 5A_71/2022, 5A_925/2013, 5A_962/2017; ZH OG LB230022; GR KG ZK2 21 32; BL KG 460 2025 212). Links verbatim aus document_url-Feldern übernommen."
 ---
 

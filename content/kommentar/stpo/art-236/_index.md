@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 236 StPO: Vorzeitiger Straf- und Massnahmenvollzug — Bewilligungsvoraussetzungen, Stand des Verfahrens, Kollusionsgefahr, Rechtsanspruch und Ermessen, Vollzugsregime und Vollzugslockerungen seit der Revision 2024, Haftprüfung und Entlassungsgesuche nach zwei Dritteln der Strafe."
 tags: ["vorzeitiger Strafvollzug", "Massnahmenvollzug", "Untersuchungshaft", "Sicherheitshaft", "Vollzugsregime", "Vollzugslockerungen", "Hafturlaub", "Kollusionsgefahr", "Haftentlassung", "Zwangsmassnahmen", "Resozialisierung", "Revision 2024"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-236.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger praxiskommentarischer Ausbau gemäss Style-Guide (Referenzmuster Art. 110 StPO, Art. 336 OR): Detaillierte Kasuistik (BGE 143 IV 160, 143 I 241, 139 IV 191, 146 IV 49, 145 IV 65, 142 IV 105, 137 IV 177, 136 IV 70; BGer 7B_1075/2024, 7B_588/2026, 7B_651/2026, 1B_641/2022, 1B_90/2012, 1B_483/2011, 1B_449/2015, 1B_122/2022; kantonale Praxis aus Bern, Basel-Landschaft und Graubünden), Prüfschema-Tabelle, Gegenüberstellungstabellen Anwendungs- vs. Verwerfungsfälle, Judikaturwandel durch Revision per 1.1.2024 bezüglich Vollzugslockerungen, kantonale Praxisfragen und Praxishinweise für Verteidigung, Staatsanwaltschaft, Verfahrensleitung und Vollzugsbehörden."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 

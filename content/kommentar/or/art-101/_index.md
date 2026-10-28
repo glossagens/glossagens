@@ -5,22 +5,18 @@ date: 2026-06-27
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 101 OR: Erfüllungs- und Ausübungsgehilfen, funktioneller Zusammenhang vs. deliktische Exzesstat, Abgrenzung zur Substitution (Art. 399 OR) und zum Organ (Art. 55 ZGB), hypothetische Vorwerfbarkeit, Mitverschulden sowie Freizeichnung (Abs. 2 und 3) — mit ausführlicher Kasuistik und kantonalen Praxisfragen."
 tags: ["OR", "Haftungsrecht", "Hilfspersonen", "Erfüllungsgehilfe", "Ausübungsgehilfe", "Substitution", "Freizeichnung", "Exzesstat", "hypothetische Vorwerfbarkeit", "Arbeitnehmerprivileg"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Praxiskommentar (Referenzmuster Art. 110 StPO / Art. 336 OR): Merkmalskatalog als Prüfschema vorangestellt; detaillierte Lebenssachverhalte aus publizierten Bundesgerichts- und Obergerichtsentscheiden eingearbeitet (BGE 92 II 15, BGE 98 II 288, BGE 112 II 347, BGE 102 II 256, BGE 90 II 15, BGE 130 III 591, BGE 117 II 65, BGE 108 II 419; BGer 4A_209/2017, ZH VG VB.2014.00578, BE OG ZK 2010 174, SG KG BZ.2007.20); Grenzkasuistik- und Kriterientabellen (in Ausübung vs. bei Gelegenheit; Hilfsperson vs. Substitut vs. Organ); drei kantonale Praxisfragen und adressatenbezogene Praxishinweise. Alle Volltexte über entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-101.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 75 % (Urteil B); 6 gestützt (+0 teilw.) von 8 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

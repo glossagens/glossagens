@@ -5,27 +5,22 @@ date: 2026-07-11
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 426 StPO – Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren."
 tags: ["Rechtsprechung", "StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "Freispruch", "Einstellung", "Teilfreispruch"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex. Die Sachverhalte der Kasuistik (BGer 6B_523/2013, 6B_151/2014, 6B_1306/2021, 6B_650/2024, 6B_563/2017, 6B_940/2023, SG KG AK.2023.396, OGer ZH UH150086, 6B_936/2015, 6B_1125/2016, 6B_123/2014, 6B_684/2020) und die Pinpoints wurden bestätigt. Korrigiert: BGE 144 IV 202 (Art.-53-StGB-Fall: die Grundsätze zu Art. 426 Abs. 2 finden dort nach E. 2.3 keine Anwendung; Sachverhalt Genf); BGE 143 IV 373 E. 1.4.2 (Akzessorietät der Kosten bei Verletzung des Beschleunigungsgebots, nicht allgemeine «Strafmilderung»); BGE 116 Ia 162 Pinpoint (E. 2c statt 2g); «Synkope» nicht belegt (nur «medizinisches Problem»); Formulierung zur Staatskasse bei der amtlichen Verteidigung; Literaturliste auf belegte Angaben reduziert; Prüfvermerk aktualisiert. Botschaft nicht zitiert."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Systematische Erweiterung auf 19 strukturierte Entscheide mit Volltext-Verlinkung auf entscheidsuche.ch. Gliederung in Leitentscheide (BGE) und weitere Entscheide von Bundesgericht und kantonalen Obergerichten (SG, ZH, AR) mit präzisen Sachverhalts- und Kernaussagen-Abstracts."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 29 %). Alle Entscheide verifiziert; zwei Erwägungsangaben korrigiert (BGE 143 IV 373 E. 1.4 → E. 1.4.2; BGE 138 IV 248 E. 4.4 → E. 4.4.1), Zitierweise vereinheitlicht, Prüfvermerk ergänzt."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung KW31 — BGer 6B_938/2025 (E.4.1) via OCL case-brief verifiziert."
 ---
 

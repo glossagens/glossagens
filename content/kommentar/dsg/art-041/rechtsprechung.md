@@ -5,22 +5,18 @@ date: 2026-08-07
 lastmod: 2026-10-21
 description: "Übersicht der Entscheide zu Art. 41 DSG (Berichtigung, Löschung, Vernichtung und Bestreitungsvermerk bei Bundesorganen, Rechtsschutz im SYMIC/ZEMIS und Abgrenzung zum Asylverfahren)"
 tags: ["Rechtsprechung", "DSG", "Berichtigung", "Löschung", "Bestreitungsvermerk", "SYMIC", "ZEMIS", "Rechtsverweigerung"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BVGer F-6766/2026 als Leitentscheid (Rechtsschutz bei SYMIC-Mutationen, Pflicht zur anfechtbaren Verfügung, Abgrenzung zum Asylverfahren und Kostenfolgen)."
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 13 weitere BGer-Entscheide zu DSG Art. 41 hinzugefügt"
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BGer 1C_524/2024 vom 22. Juni 2026; alle Entscheide via opencaselaw-MCP (cite/get_case_brief) verifiziert."
 ---
 

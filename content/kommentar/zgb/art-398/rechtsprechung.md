@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-19
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 398 ZGB (Umfassende Beistandschaft)."
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Beistandschaft"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-2.5-pro"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ergänzung von 11 verifizierten Leitentscheiden und kantonalen Urteilen mit OpenCaseLaw-Links."
 ---
 

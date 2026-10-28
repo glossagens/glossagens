@@ -5,17 +5,14 @@ date: 2026-08-17
 lastmod: 2026-08-31
 description: "Übersicht der Rechtsprechung zu Art. 42 IVG — Hilflosenentschädigung, Hilflosigkeitsgrade, alltägliche Lebensverrichtungen, Wartejahr, lebenspraktische Begleitung, Beweiswert von Abklärungsberichten und Leistungsausschluss bei Eingliederungsinstitutionen."
 tags: ["Rechtsprechung", "IVG", "Hilflosenentschädigung", "Hilflosigkeit", "Lebenspraktische Begleitung", "Wartejahr"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "BGer 8C_560/2025 ergänzt: Begleitbedarf bei schizoaffektiver Störung verneint; Alltagsbewährung und Ausschluss von Beistandschaften nach Art. 38 Abs. 3 IVV."
   - date: 2026-08-17
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Audit & Neuerstellung: Alle 13 Leitentscheide und kantonalen Urteile via OpenCaseLaw MCP verifiziert; Daten korrigiert (u.a. BGE 144 V 361 vom 29.11.2018, BGE 137 V 351 vom 11.08.2011, BGE 137 V 424 vom 31.10.2011); BGer 8C_593/2025 zur Publikation vorgesehen eingearbeitet."
 ---
 

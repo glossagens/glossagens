@@ -5,7 +5,6 @@ date: 2026-07-17
 lastmod: 2026-08-09
 description: "Kommentar zu Art. 159 ZGB — Begründung der ehelichen Gemeinschaft durch die Trauung; Pflichten der Ehegatten (Wohl der Gemeinschaft, Fürsorge für Kinder, Treue und Beistand); Prozesskostenvorschuss und Konkubinat"
 tags: ["ZGB", "Ehe", "eheliche-Gemeinschaft", "Treuepflicht", "Beistandspflicht", "Prozesskostenvorschuss", "Eherecht"]
-agent_verified: true
 ---
 
 ## Wortlaut

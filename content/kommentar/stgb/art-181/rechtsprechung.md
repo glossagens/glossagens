@@ -5,27 +5,22 @@ date: 2026-07-17
 lastmod: 2026-10-11
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 181 StGB (Nötigung): Leitentscheide des Bundesgerichts und kantonale Urteile zu Schikanestopps im Strassenverkehr, Drohung mit Strafanzeigen, Klimablockaden, Stalking und Beziehungszwang."
 tags: ["Rechtsprechung", "StGB", "Nötigung", "Schikanestopp", "Stalking", "Klimablockade", "Zweck-Mittel-Relation"]
-agent_verified: true
 revisions:
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_242/2026 (versuchte Nötigung durch missbräuchliche Betreibungen) in den weiteren Bundesgerichtsentscheiden. Volltext via mcp__entscheidsuche__fetch_document abgerufen, document_url verbatim übernommen."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Ergänzung um BGE 101 IV 42 (relativer Massstab der Gewaltanwendung) und BS APG SB.2024.69 vom 04.12.2025 (Schubsen als Gewalt) im Zuge des Umbaus des Hauptkommentars auf das Merkmalsraster; beide im Volltext über entscheidsuche.ch geprüft."
   - date: 2026-09-04
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 14 strukturierten Leit- und Folgeentscheiden (BGE und kantonale Urteile). Sämtliche Entscheide im Volltext über entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-07-17
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstaufnahme Leitentscheide"
 ---
 

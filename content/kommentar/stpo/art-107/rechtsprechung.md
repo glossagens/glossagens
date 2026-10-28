@@ -5,7 +5,6 @@ date: 2026-05-09
 lastmod: "2026-05-15"
 description: "Übersicht der Entscheide zu Art. 107 StPO – Anspruch auf rechtliches Gehör"
 tags: ["Rechtsprechung", "StPO", "rechtliches Gehör", "Akteneinsicht", "Verfahrensfairness"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

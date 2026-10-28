@@ -5,22 +5,18 @@ date: 2026-08-09
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 232 StPO – Sicherheitshaft während eines Verfahrens vor dem Berufungsgericht"
 tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Berufungsverfahren", "Begründungspflicht", "Anfechtbarkeit"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 13 %). Die bisherige Übersicht war auf eine falsche Vorstellung des Normgehalts aufgebaut (allgemeine Haftvoraussetzungen statt erstmalige Haftanordnung im Berufungsverfahren) und enthielt fünf nicht existierende BGE. Vollständig neu erhoben und einzeln verifiziert."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Sofortmassnahme: fünf nicht existierende BGE-Einträge entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ersterstellung der Rechtsprechungsübersicht zu Art. 232 StPO"
 ---
 

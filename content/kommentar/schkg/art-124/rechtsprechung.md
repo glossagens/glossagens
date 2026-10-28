@@ -5,12 +5,10 @@ date: 2026-10-14
 lastmod: 2026-10-14
 description: "Rechtsprechungsübersicht zu Art. 124 SchKG: Vorzeitige Verwertung auf Schuldnerbegehren (Abs. 1) und amtlicher Notverkauf (Abs. 2) — Leitentscheide des Bundesgerichts und kantonale Praxis zu Kraftfahrzeugen, Damenkonfektion, Kryptowährungen, Aufbewahrungskosten und Arrestzuständigkeit."
 tags: ["Rechtsprechung", "SchKG", "Verwertung", "Vorzeitige Verwertung", "Notverkauf", "Arrest", "Fahrnis", "Motorfahrzeuge", "Kryptowährungen"]
-agent_verified: true
 revisions:
   - date: 2026-10-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechung zu Art. 124 SchKG mit 12 strukturierten, verifizierten Entscheiden: Leitentscheide des Bundesgerichts (BGE 101 III 27, BGE 81 III 119, BGE 107 III 122, BGE 148 IV 74, BGer 5A_611/2023, BGer 7B_811/2025, BGE 48 III 107) und kantonale Praxis (BS, ZH, BL, GR) — sämtliche Entscheide auf entscheidsuche.ch verlinkt."
 ---
 

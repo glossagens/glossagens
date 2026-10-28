@@ -5,7 +5,6 @@ date: 2026-10-26
 lastmod: 2026-10-26
 description: "Praxiskommentar zu Art. 86 StGB (bedingte Entlassung aus dem Strafvollzug): Voraussetzungen, negative Legalprognose als Regel-Ausnahme-Verhältnis, Differenzialprognose, Halbstrafenentlassung nach Abs. 4 und kantonale Vollzugspraxis."
 tags: ["StGB", "Strafvollzug", "Bedingte Entlassung", "Legalprognose", "Halbstrafe", "Differenzialprognose", "Vollzugslockerungen"]
-agent_verified: true
 ---
 
 {{< wortlaut >}}

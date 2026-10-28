@@ -5,7 +5,6 @@ date: 2026-09-09
 lastmod: 2026-09-09
 description: "Übersicht der Rechtsprechung zu Art. 95 ZPO: Leitentscheide und kantonale Praxis zu Gerichtskosten, Parteientschädigung, Umtriebsentschädigung, Gebärdensprachdolmetscher und Streitwertfestsetzung."
 tags: ["Rechtsprechung", "ZPO", "Prozesskosten", "Gerichtskosten", "Parteientschädigung", "Umtriebsentschädigung", "Streitwert"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide des Bundesgerichts

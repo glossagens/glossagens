@@ -5,17 +5,14 @@ date: 2026-09-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 298 ZGB: Zuteilung der alleinigen elterlichen Sorge im Scheidungs- und Eheschutzverfahren, Schwellenwert des schwerwiegenden Dauerkonflikts, Beschränkung auf Obhuts- und Betreuungsregelung, Bindungstoleranz, alternierende Obhut (Kriterienkatalog) sowie Konnexität von Sorge und Obhut — mit ausführlicher Kasuistik und Prüfschema."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Elterliche Sorge", "Scheidung", "Eheschutz", "Alleinsorge", "Obhut", "Alternierende Obhut", "Betreuungsanteile", "Kindeswohl", "Bindungstoleranz"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-298.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-17 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-17
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar zu Art. 298 ZGB. Gesetzeswortlaut verbatim nach Fedlex (SR 210, Stand 1. Juli 2026, inkl. Botschaftsverweise BBl 2011 9077 und BBl 2014 529 über get_article_purpose). Rechtsprechung recherchiert und im Volltext (Sachverhalt/Erwägungen) via opencaselaw-MCP verifiziert: BGE 141 III 472, BGE 142 III 197, BGE 142 III 612, BGE 143 III 361, BGE 147 III 121, BGE 150 III 97; BGer 5A_800/2022, 5A_722/2020, 5A_377/2021, 5A_164/2019, 5A_99/2020, 5A_67/2021, 5A_373/2018, 5A_312/2019. Für BGE 150 III 97 zusätzlich via entscheidsuche.ch verlinkt; die übrigen Entscheide sind mangels Treffer auf entscheidsuche.ch (Rückfallregel) auf mcp.opencaselaw.ch verlinkt."
 ---
 

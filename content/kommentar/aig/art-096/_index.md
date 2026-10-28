@@ -5,12 +5,10 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 96 AIG: Pflichtgemässe Ermessensausübung, Kriterien der Interessenabwägung (öffentliche Interessen, persönliche Verhältnisse, Integrationsgrad), Verhältnismässigkeitsprüfung aufenthaltsbeendender Massnahmen sowie die Verwarnung als gesetzliches milderes Mittel mit umfassender Rechtsprechungskasuistik."
 tags: ["AIG", "Migrationsrecht", "Ermessen", "Verhältnismässigkeit", "Verwarnung", "Interessenabwägung", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als Praxiskommentar. Gesetzeswortlaut über Fedlex-Skript (data/wortlaut/aig/art-096.json). Analyse der Gesetzesmaterialien (BBl 2002 3709, BBl 2013 2397). Volltextabgleich sämtlicher Leitentscheide (BGE 148 II 1, BGE 139 I 16, BGE 139 I 31, BGE 139 I 145, BGE 135 II 377, BGE 144 I 266, BGE 144 I 91, BGE 143 I 21) und weiterer Bundesgerichts- sowie Kantonsgerichtsentscheide. Verlinkung auf entscheidsuche.ch."
 ---
 

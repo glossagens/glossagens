@@ -5,17 +5,14 @@ date: 2026-09-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 45 ATSG: Kostenübernahmepflicht der Sozialversicherungsträger für medizinische Abklärungen und Gutachten, Kostenverteilung bei Mehrversichererfällen (Oberexpertise) sowie Kostenauflage bei Verfahrensvereitelung."
 tags: ["ATSG", "Sozialversicherungsrecht", "Abklärungskosten", "Gutachten", "Oberexpertise", "Mehrversicherer", "Untersuchungspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-045.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstkommentierung mit Einarbeitung von BGer 8C_628/2025 vom 18. August 2026 (Kostenübernahme der Oberexpertise durch den für den fraglichen Unfall zuständigen Versicherer). Gesetzeswortlaut verbatim aus Fedlex (SR 830.1, Stand 1. Januar 2024). Entscheide über entscheidsuche.ch belegt."
 ---
 

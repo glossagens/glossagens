@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-18
 description: "Wichtige Entscheide zu Art. 335 OR – Kündigung des unbefristeten Arbeitsverhältnisses"
 tags: ["OR", "Arbeitsrecht", "Kündigung", "Begründungspflicht", "Gestaltungsrecht"]
-agent_verified: false
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 75 % (Urteil B); 10 gestützt (+1 teilw.) von 14 beurteilten Paaren (15 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

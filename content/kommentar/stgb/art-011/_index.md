@@ -5,22 +5,18 @@ date: 2026-07-24
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 11 StGB — unechtes Unterlassungsdelikt, Garantenstellung aus Gesetz, Vertrag, Gefahrengemeinschaft und Ingerenz, Gleichwertigkeitsklausel, fakultative Strafmilderung"
 tags: ["StGB", "Unterlassungsdelikt", "Garantenstellung", "Ingerenz", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-011.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Gesetzestext via Fedlex MCP verifiziert; alle Zitat-Links HTTP 200; agent_verified korrigiert"
   - date: 2026-07-24
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuanlage — Fokusentscheid BGer 6B_760/2024 (teilw. Gutheissung, 5er-Besetzung, zur Publikation vorgesehen); Gesetzestext und alle Entscheide via opencaselaw-MCP (get_law, cite, get_case_brief) verifiziert"
 ---
 

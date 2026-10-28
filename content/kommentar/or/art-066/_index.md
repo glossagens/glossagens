@@ -5,22 +5,18 @@ date: 2026-05-24
 lastmod: 2026-08-18
 description: "Art. 66 OR normiert die condictio ob causam turpem: Was in der Absicht, einen rechtswidrigen oder unsittlichen Erfolg herbeizuführen, gegeben worden ist, kann nicht zurückgefordert werden."
 tags: ["OR", "condictio ob turpem", "Gaunerlohn", "Rückforderungsausschluss", "Sittenwidrigkeit", "ungerechtfertigte Bereicherung"]
-agent_verified: false
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Zitierkorrektur (Close Matches): Fundstellen mit Seiten-Pinpoints auf kanonische BGE-Anfangsseiten korrigiert und Links auf OpenCaseLaw aktualisiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 60 % (Urteil B); 18 gestützt (+11 teilw.) von 39 beurteilten Paaren (53 Paare gesamt); Wortlaut: korrekt; 4 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "6-Punkt-Verifikation: Gesetzestext mit Fedlex abgeglichen (korrekt). OCL-Zitate geprüft: BGE 112 II 1 OCL-resolved zu BGE 112 II 102 (Art. 323 ZGB — nicht BetmG); Originalzitatsinhalt kann nicht verifiziert werden → als *nicht OCL-verifizierbar* markiert. BGer 6B_994/2010 als *Kontextzitat* qualifiziert (kein direkter Bezug zu Art. 66 OR). Ältere BGE (53 II 41, 74 II 27, 76 II 369, 82 II 75) nicht auf OCL digitalisiert (vor 1975). Alle übrigen Zitate bestätigt."
 ---
 

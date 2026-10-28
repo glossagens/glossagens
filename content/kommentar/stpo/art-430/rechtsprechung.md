@@ -5,27 +5,22 @@ date: 2026-07-11
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 430 StPO — Herabsetzung und Verweigerung der Entschädigung oder Genugtuung bei Freispruch oder Verfahrenseinstellung."
 tags: ["Rechtsprechung", "StPO", "Entschädigung", "Genugtuung", "Herabsetzung", "Verweigerung", "Selbstverschulden", "Unschuldsvermutung", "Ausfallhaftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Volltext-Abgleich aller zitierten Entscheide. Korrigiert: BGer 6B_870/2022 (BGer prüfte die Kostenauflage für Untersuchung/erste Instanz nicht; Berufungskosten aufgehoben), BGer 6B_73/2021 (betrifft Angemessenheit des Anwaltsbeizugs nach Art. 429, nicht Art. 430 Abs. 1 lit. a), BGer 6B_1076/2016 (Beschwerde der Oberstaatsanwaltschaft; Kostenauflage unangefochten; Gehörsgewährung bei Neubeurteilung), BGer 6B_672/2021 (Pinpoint E. 5.3.4.3; Falschangabe über Lenker), BGE 137 IV 352 (Sachverhalt, THC-Wert 2–2,7 %, Freisprüche mangels Beweis), BGE 144 IV 202 (Art. 53 StGB: Kostenauflage zulässig, Datum 27.4.2018), BGE 139 IV 282 (nur Analogie, Pinpoint über BGer 6B_1025/2014 E. 2.4.3), BGE 138 IV 197 (Datum, erfundener Sachverhalt, keine Aussage zu lit. c), BGE 142 IV 42, BGer 7B_459/2023 (Flucht als Entschädigungsausschluss nicht belegt), BGer 6B_229/2013 (E. 1.3–1.4), LU KG 2N 14 128 (Sachverhalt, Fahrspesen-Schwellenwert gestrichen), SG KG AK.2023.396 (Art. 426 Abs. 2, nicht lit. a), TG RBOG 2025 Nr. 42 (Privatkläger, Berufungsrückzug); tote Links BGE 139 IV 45 und BGE 125 II 518 ersetzt. Wortlaut Fedlex geprüft; Entscheide via entscheidsuche-Volltexte verifiziert."
   - date: 2026-10-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Neustrukturierung gemäss Praxiskommentar-Standard. Aufteilung in Leitentscheide (5 BGEs) und weitere Entscheide (9 BGer- und kantonale Urteile). Sämtliche Links auf entscheidsuche.ch umgestellt und im Volltext verifiziert. Aufnahme neuerer Rechtsprechung (BGE 147 IV 47, BGer 7B_459/2023, BGer 6B_672/2021, BGer 6B_870/2022, TG OG RBOG 2025 Nr. 42, SG KG AK.2023.396, LU KG 2N 14 128)."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit-Korrekturen der Erwägungsangaben."
   - date: 2026-07-11
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Erstfassung."
 ---
 

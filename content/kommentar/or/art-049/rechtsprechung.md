@@ -5,32 +5,26 @@ date: 2026-08-29
 lastmod: 2026-10-11
 description: "Umfassende Rechtsprechungsübersicht zu Art. 49 OR: Leitentscheide des Bundesgerichts und über 20 kantonale Gerichtsentscheide nach Fallgruppen mit konkreten Betragsangaben in CHF."
 tags: ["Rechtsprechung", "OR", "Genugtuung", "Persönlichkeitsverletzung", "Haftpflichtrecht", "Bemessung", "Kantonale Rechtsprechung", "Sexualdelikte", "Körperverletzung", "Tötung"]
-agent_verified: true
 revisions:
   - date: 2026-10-11
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um JU TC ADM 2024 16 (Tribunal cantonal du Jura, Cour administrative, 2.9.2026): Regress des Hôpital du Jura gegen Pflegefachmann bei Vergewaltigung einer Patientin, Genugtuung CHF 15'000 nach Präjudizienvergleich; BGer 6B_712/2025 (CHF 15'000) und BGer 6B_559/2024 (CHF 8'000) als weitere BGer-Entscheide zu einmaliger Vergewaltigung. JU-Entscheid via OCL verifiziert, BGer via OCL + entscheidsuche."
   - date: 2026-09-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Normierung der Rechtsprechungsübersicht: Alle BGE-Leitentscheide und kantonalen Entscheide auf kanonische entscheidsuche.ch-Dokument-URLs aktualisiert; Ergänzung um BGE 138 III 337, BGE 137 III 303, BGE 125 III 70, BGE 84 II 570 und BGE 140 III 409."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiges Audit: Alle BGE-Leitentscheide und 22 kantonale Entscheide gegen OpenCaseLaw und entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Erweiterung um 22 verifizierte kantonale Entscheide (ZH, BE, SG, AG, LU, BS, BL, TG, GR, VS, SH, SZ, OW, AR) zu sämtlichen Fallgruppen der Genugtuungsbemessung."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Strukturierung der Rechtsprechung nach Praxiskategorien mit CHF-Beträgen."
 ---
 

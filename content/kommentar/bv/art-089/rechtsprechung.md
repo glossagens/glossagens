@@ -5,17 +5,14 @@ date: 2026-08-10
 lastmod: 2026-08-12
 description: "Übersicht der massgeblichen Entscheide zu Art. 89 BV (Energiepolitik: Energieversorgung, Gesetzgebungskompetenz, erneuerbare Energien, StromVG, KEG, CO2-Gesetz)"
 tags: ["Rechtsprechung", "BV", "Energiepolitik", "Energieversorgung", "StromVG", "KEG", "CO2", "EnG"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Kernaussage zu BGE 144 II 454 korrigiert (Kostenüberwälzung der Jodtabletten-Abgabe statt Kooperationspflichten)."
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit-Umbau"
 ---
 

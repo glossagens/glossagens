@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 322 StPO – Genehmigung und Rechtsmittel gegen die Einstellungsverfügung: Genehmigungsvorbehalt, 10-tägige Beschwerdefrist, Grundsatz in dubio pro duriore und Einsprache bei Einziehung."
 tags: ["Rechtsprechung", "StPO", "Einstellung", "Beschwerde", "Genehmigung", "in dubio pro duriore", "Einsprache", "Einziehung", "Vorverfahren"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 322 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

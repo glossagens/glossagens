@@ -5,12 +5,10 @@ date: 2026-10-17
 lastmod: 2026-10-17
 description: "Übersicht der Rechtsprechung zu Art. 10a BankG – Massnahmen im Bereich der Vergütungen bei staatlicher Beihilfe an systemrelevante Banken."
 tags: ["Rechtsprechung", "BankG", "systemrelevante Banken", "variable Vergütungen", "Credit Suisse", "Too-Big-To-Fail"]
-agent_verified: false
 revisions:
   - date: 2026-10-17
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 10a BankG. Leitentscheid BGer 2C_322/2025 via OCL (cite, get_decision_structure, get_erwaegung E. 4.4/6.2.2/6.4.5/6.5/7.1.2/7.3.2/7.4) und entscheidsuche (fetch_document) verifiziert. Begleitschied BVGer B-3655/2023 und BGer 2E_1/2024 via cite bestätigt. Kernaussagen gegen den wörtlichen Entscheidtext geprüft. Entscheidsuche-Dokument ohne consideration_-Anker — Pinpoints im Zitattext, Links ohne Anker."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-05-24
 description: "Übersicht der Entscheide zu Art. 6 StPO — Untersuchungsgrundsatz, Amtsaufklärungspflicht, beidseitige Untersuchung, antizipierte Beweiswürdigung."
 tags: ["Rechtsprechung", "StPO", "Untersuchungsgrundsatz", "Amtsaufklärung", "Beweiswürdigung"]
-agent_verified: false
 ---
 
 [← Zurück zum Kommentar](../)

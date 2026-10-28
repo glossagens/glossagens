@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 190 StGB — Vergewaltigung: Konsensprinzip, Nötigungsmittel, psychischer Druck, Beweiswürdigung und Konkurrenzen."
 tags: ["Rechtsprechung", "StGB", "Vergewaltigung", "Sexualstrafrecht", "Nötigung", "Beweiswürdigung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 9 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 148 IV 234 (Paradigmenwechsel, Istanbul-Konvention), BGE 147 IV 409 (Beweiswürdigung, 13 Monate Anzeigeverzögerung), BGE 127 IV 198 (teleologische Auslegung, aktive Vornahme), BGE 126 IV 124 (Vergewaltigung in der Ehe, Psychoterror), BGE 131 IV 107 (strukturelle Abhängigkeit genügt nicht), BGE 128 IV 97 (relative Gewaltsuffizienz), BGE 124 IV 154 (Konkurrenz zum Kindsmissbrauch), BGer 6B_776/2016 (Vorsatz), BGer 6B_1056/2016 (Zwangslage); ZH SB190472 als Rückfall opencaselaw; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

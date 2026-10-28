@@ -5,7 +5,6 @@ date: "2026-07-17"
 lastmod: "2026-07-17"
 description: "Übersicht der Entscheide zu Art. 357 StPO — Übertretungen"
 tags: ["Rechtsprechung", "StPO", "Übertretungen", "Verwaltungsbehörden", "Strafbefehlsverfahren"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 357 StPO — Übertretungen](./)

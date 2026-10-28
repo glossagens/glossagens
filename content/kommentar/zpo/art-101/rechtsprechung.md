@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 101 ZPO — Fristansetzung, zwingende Nachfrist, Fristwahrung bei Zahlung, Kostenfolgen des Nichteintretens."
 tags: ["Rechtsprechung", "ZPO", "Sicherheitsleistung", "Parteientschädigung", "Vorschuss", "Nachfrist"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 37 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 37 % (Urteil C); 5 von 31 Paaren gestützt; 13 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

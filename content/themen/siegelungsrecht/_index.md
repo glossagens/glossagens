@@ -15,17 +15,14 @@ normen:
   - { gesetz: stpo, art: art-171 }
   - { gesetz: stpo, art: art-197 }
 stichworte: ["Siegelung", "Entsiegelung", "Siegelungsverfahren", "Entsiegelungsverfahren", "Zwangsmassnahmengericht", "Beschlagnahmeverbot", "Beweisverwertungsverbot", "Anwaltsgeheimnis", "Berufsgeheimnis", "Privatgeheimnis", "Datenspiegelung", "Substanziierungsobliegenheit", "Triage"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Nachführung mit Leitentscheid BGer 7B_978/2025 vom 13.10.2026: Verbot der Triage-Delegation an die Polizei gemäss Art. 248a Abs. 6 lit. b StPO (Polizei nur für technischen Zugang/Integrität, keine Inhaltsprüfung), Verbot hybrider Entscheide und zwingende zeitliche Begrenzung der Smartphone-Entsiegelung bei mittelschweren Delikten (BGE 151 IV 350)."
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren). Normtexte Art. 248, 248a und 264 StPO per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 13 Leitentscheide als HTML-Volltext von entscheidsuche.ch verifiziert; Erwägungsnummern, Anker und wörtliche Zitate mit pruefen.py und build-check.sh abgeglichen."
 ---
 

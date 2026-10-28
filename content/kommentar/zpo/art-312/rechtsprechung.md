@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Rechtsprechung zu Art. 312 ZPO: Berufungsantwort, offensichtlich unbegruendete Berufung, Verzicht auf Berufungsantwort, rechtliches Gehoer, Anschlussberufung."
 tags: ["Rechtsprechung", "ZPO", "Berufungsantwort", "offensichtlich unbegruendet", "offensichtlich unzulaessig", "Anschlussberufung", "Berufungsverfahren"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Ersterstellung; 3 BGEs und 5 BGer-Entscheide via entscheidsuche verifiziert und verlinkt."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-07-20
 lastmod: 2026-07-20
 description: "Übersicht der Rechtsprechung zu Art. 11 ELG (anrechenbare Einnahmen; Einkommensverzicht; unentgeltliches Wohnen; Vermögensverschwendung; Reinvermögensanrechnung)"
 tags: ["Rechtsprechung", "ELG", "anrechenbare Einnahmen", "Einkommensverzicht", "Vermögensverschwendung"]
-agent_verified: true
 ---
 
 # Rechtsprechungssammlung zu Art. 11 ELG

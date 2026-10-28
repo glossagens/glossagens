@@ -5,12 +5,10 @@ date: 2026-03-30
 lastmod: 2026-10-04
 description: "Systematische Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 310 StPO (Nichtanhandnahme der Untersuchung): In dubio pro duriore, Vorabklärungen, Parteirechte, Kosten und Wiederaufnahme, Nichteintretensverfügung (Art. 310 Abs. 1 lit. a StPO)."
 tags: ["Rechtsprechung", "StPO", "Nichtanhandnahme", "In dubio pro duriore", "Wiederaufnahme", "Beschwerde", "Nichteintretensverfügung"]
-agent_verified: true
 revisions:
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 7B_20/2025 vom 2. September 2026 (Bestätigung des Nichteintretens- resp. Nichtanhandnahme-Standards nach Art. 310 Abs. 1 lit. a StPO im Kontext eines Betrugsvorwurfs). Link via entscheidsuche.ch verifiziert."
 ---
 

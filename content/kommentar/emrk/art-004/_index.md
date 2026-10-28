@@ -5,12 +5,10 @@ date: 2026-10-20
 lastmod: 2026-10-20
 description: "Praxiskommentar zu Art. 4 EMRK: Verbot von Sklaverei, Leibeigenschaft und Zwangsarbeit. Systematisches Prüfschema, Menschenhandel zur Arbeitsausbeutung (Art. 182 StGB), Arbeitspflicht im Strafvollzug und bei Pensionierung, Wehrpflicht- und Feuerwehrersatzabgaben, Eritrea-Nationaldienst sowie Praxishinweise."
 tags: ["EMRK", "Art. 4 EMRK", "Sklaverei", "Leibeigenschaft", "Zwangsarbeit", "Pflichtarbeit", "Menschenhandel", "Art. 182 StGB", "Arbeitspflicht", "Strafvollzug", "Wehrpflichtersatz", "Feuerwehrersatzabgabe", "Nationaldienst", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Gesetzeskommentar gemäss Leitfaden: Prüfschema-Tabelle, systematische Tatbestandsgliederung entlang der Norm, zweiseitige Grenzkasuistik (Menschenhandel zur Arbeitsausbeutung BGE 152 IV 129 und BGE 151 IV 265; Opferschutz und Asylausschluss BGE 145 I 308; Opferhilfe und Lohnschaden BGE 150 IV 48; Arbeitspflicht im Straf- und Massnahmenvollzug nach Pensionsalter BGE 139 I 180 und EGMR Meier gegen Schweiz; Wehrpflichtersatzabgabe und Geschlechterdifferenzierung EGMR Brun gegen Schweiz und BGE 118 IA 341; eritreischer Nationaldienst und Vollzugshindernis BVGE 2018 VI/5 und BVGE 2017 VI/1), Kasuistiktabellen, Offenlegung von Judikaturdivergenzen, kantonale Praxisfragen (ZH/OW/ZG) und rollenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch verifiziert und verlinkt."
 ---
 

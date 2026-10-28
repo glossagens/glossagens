@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 288a SchKG: Hemmung und Nichtberücksichtigung von Fristen bei der paulianischen Anfechtung — Nachlassstundung, Erbschaftsliquidation und Dauer der vorausgegangenen Betreibung."
 tags: ["SchKG", "Fristberechnung", "Nachlassstundung", "Erbschaftsliquidation", "Betreibungsdauer", "Verdachtsperiode"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der Neutralisierung von Verfahrensverzögerungen, BBl-Materialien (1991 III 1, 2010 6455), Prüfschema, Ziff. 1 (Nachlassstundung), Ziff. 2 (Erbschaftsliquidation), Ziff. 3 (Dauer der Betreibung vom Betreibungsbegehren bis zum Pfändungsvollzug bzw. Konkurs), neuere Judikatur (BGer 5A_58/2024, OGer ZG 2023) und taktische Praxishinweise."
 ---
 

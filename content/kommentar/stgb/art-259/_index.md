@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 259 StGB: Öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit — Schutz des öffentlichen Friedens, Begriff der Öffentlichkeit, Aufforderung zu Auslandstaten (Abs. 1bis) und Meinungsäusserungsfreiheit."
 tags: ["StGB", "Öffentliche Aufforderung", "Gewalttätigkeit", "Öffentlicher Friede", "Meinungsäusserungsfreiheit", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; dubiose kantonale Zitate entfernt; BGE 152 IV 14 (2026 Erdogan-Leitentscheid) aufgenommen; BGer 6B_856/2018 und 6B_288/2019 neu; 7 verifizierte BGE/BGer-Entscheide"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Fedlex-Wortlautstruktur und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

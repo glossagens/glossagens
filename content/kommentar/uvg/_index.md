@@ -13,17 +13,14 @@ tags:
 - Unfallversicherung
 - Sozialversicherung
 - Kausalzusammenhang
-agent_verified: false
 revisions:
 - date: '2026-09-10'
   by: Antigravity Agent
   model: gemini-3.8-flash
-  mcp_verified: true
   note: Art. 24 UVG (Integritätsentschädigung) als Praxiskommentar neu erstellt
 - date: '2026-08-10'
   by: Claude Code
   model: minimax-m3
-  mcp_verified: false
   note: Frontmatter vereinheitlicht (KW32)
 ---
 

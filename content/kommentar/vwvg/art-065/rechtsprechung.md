@@ -5,7 +5,6 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 65 VwVG: Leitentscheide des Bundesgerichts und weitere Entscheide zur unentgeltlichen Rechtspflege, Bedürftigkeit und Rechtsverbeiständung."
 tags: ["Rechtsprechung", "VwVG", "Unentgeltliche Rechtspflege", "Bedürftigkeit", "Aussichtslosigkeit"]
-agent_verified: true
 ---
 
 ### I. Leitentscheide

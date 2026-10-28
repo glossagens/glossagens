@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-18
 description: "Übersicht der Leit- und Kantonsentscheide zu Art. 368 OR — Wandelung, Minderung, Nachbesserung, Ersatzvornahme, Mangelfolgeschaden und Novenrecht."
 tags: ["Rechtsprechung", "OR", "Werkvertrag", "Mängelrechte", "Ersatzvornahme", "Baumängel", "Novenrecht", "Kantonale Rechtsprechung"]
-agent_verified: true
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erweiterung um kantonale Gerichtsentscheide (OG Aargau, OG Solothurn, KG St. Gallen); alle Leitsätze über OpenCaseLaw-MCP geprüft und verifiziert."
 ---
 

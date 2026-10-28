@@ -19,12 +19,10 @@ normen:
   - { gesetz: schkg, art: art-242 }
   - { gesetz: stgb, art: art-138 }
 stichworte: ["Leasing", "Finanzierungsleasing", "Operating Leasing", "Innominatvertrag", "Konsumgüterleasing", "Investitionsgüterleasing", "Konsumkreditgesetz", "KKG", "Amortisationstabelle", "Restwert", "Freizeichnung", "Dreiecksverhältnis"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ grundlage). Normtexte OR per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 12 Entscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und jedes wörtliche Zitat gegen den Volltext abgeglichen (pruefen.py)."
 ---
 

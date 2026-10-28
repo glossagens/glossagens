@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 5 AsylG — Leitentscheide des Bundesgerichts und des Bundesverwaltungsgerichts sowie kantonale Entscheide zum flüchtlingsrechtlichen Rückschiebungsverbot (Non-Refoulement), zur Kettenrückschiebung, zu Ausnahmen bei Gemeingefahr und zum absoluten Folterverbot."
 tags: ["Rechtsprechung", "AsylG", "Non-Refoulement", "Rückschiebungsverbot", "Gemeingefahr", "Folterverbot", "BGE", "BVGE"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

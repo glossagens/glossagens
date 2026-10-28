@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Kommentar zu Art. 16d SVG: Sicherungsentzug bei fehlender Fahreignung (körperliche/geistige Leistungsfähigkeit, Sucht, mangelnde Gewähr), Entzug auf unbestimmte Zeit mit Sperrfrist, Entzug für immer bei unverbesserlichen Personen und bei qualifiziertem Rückfall."
 tags: ["SVG", "Strassenverkehrsrecht", "Führerausweisentzug", "Sicherungsentzug", "Fahreignung", "Sucht", "unverbesserliche Person"]
-agent_verified: true
 revisions:
   - date: 2026-08-08
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung — Gesetzestext via Fedlex MCP (SR 741.01 Art. 16d), Leading Cases via OCL cite verifiziert (BGE 129 II 82, BGE 127 II 122, BGE 133 II 384, BGE 125 II 492, BGE 141 II 220)."
 ---
 

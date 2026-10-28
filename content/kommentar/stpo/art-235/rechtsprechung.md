@@ -5,12 +5,10 @@ date: 2026-10-13
 lastmod: 2026-10-13
 description: "Übersicht der Rechtsprechung zu Art. 235 StPO – Vollzug der Haft: Haftbedingungen, Grundsatz der Verhältnismässigkeit, Besuche und Telefonverkehr, Postkontrolle, freier Verkehr mit der Verteidigung und kantonale Vollzugszuständigkeit."
 tags: ["Rechtsprechung", "StPO", "Haftvollzug", "Untersuchungshaft", "Sicherheitshaft", "Verteidigerverkehr", "Besuchsrecht", "Postkontrolle", "Haftbedingungen"]
-agent_verified: false
 revisions:
   - date: 2026-10-13
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ersterfassung der Rechtsprechung zu Art. 235 StPO: 6 Leitentscheide (BGE 151 IV 316, BGE 143 I 241, BGE 140 I 125, BGE 140 I 246, BGE 139 IV 41, BGE 141 IV 349) und 9 weitere Entscheide (BGer 7B_1050/2026 in Fünferbesetzung, BGer 7B_733/2026, BGer 1B_235/2022, BGer 1B_170/2014, BGer 1B_103/2014, BGer 1B_5/2019, BGer 1B_141/2020, SG KG AK.2024.554-AK, SH OG 60/2018/36)."
 ---
 

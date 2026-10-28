@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 182 StGB: Menschenhandel — Tathandlungen (Anwerben, Handel treiben), Ausbeutungszwecke (sexuelle Ausbeutung, Arbeitskraft, Organentnahme), unwirksame Einwilligung (Abs. 1), Qualifikationen (Abs. 2) und Universaljurisdiktion (Abs. 4)."
 tags: ["StGB", "Menschenhandel", "Ausbeutung", "Arbeitskraft", "Prostitution", "Organhandel", "Einwilligung", "Universaljurisdiktion", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Falsches Zitat BGE 141 IV 1 entfernt (Nötigung, nicht Menschenhandel); dubiose kantonale Zitate entfernt; BGE 151 IV 265 (2025 Leitentscheid zur Arbeitskraftausbeutung) aufgenommen; alle Links auf entscheidsuche.ch umgestellt; 8 verifizierte BGer/BGE-Entscheide"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Fedlex-Wortlautstruktur und Ergänzung auf 10 verifizierte BGE- und Obergerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

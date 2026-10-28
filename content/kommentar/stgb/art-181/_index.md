@@ -5,32 +5,26 @@ date: 2026-07-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 181 StGB entlang der Tatbestandsmerkmale: die drei Nötigungsmittel (Gewalt, Androhung ernstlicher Nachteile, Auffangtatbestand), Nötigungserfolg und Kausalität, Vorsatz, die positiv zu begründende Rechtswidrigkeit (Zweck-Mittel-Relation) und die Rechtfertigungsgründe. Mit zweiseitiger Grenzkasuistik je Merkmal zu Schikanestopps, Drohungen mit Strafanzeige oder Betreibung, Protestblockaden, Stalking und Suiziddrohungen."
 tags: ["StGB", "Nötigung", "Handlungsfreiheit", "Nötigungsmittel", "Gewalt", "Androhung ernstlicher Nachteile", "Strassenverkehr", "Schikanestopp", "Strafanzeige", "Betreibung", "Klimakleber", "Strassenblockade", "Stalking", "Zweck-Mittel-Relation"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-181.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_242/2026 (versuchte Nötigung durch missbräuchliche Betreibungen): neuer Anwendungsfall in Abschnitt C (Betreibung als Auffangtatbestand), Präzisierung in Abschnitt F (Unverhältnismässigkeit gemessen an eigener früherer Bezifferung als objektiver Referenzpunkt), knappe Bestätigungen in Abschnitt D (Versuch) und E (Irrtum Art. 13 StGB). Volltext via mcp__entscheidsuche__fetch_document abgerufen, document_url verbatim übernommen."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Umbau auf das Merkmalsraster nach Skill praxisorientierter-kommentar Abschnitt 3 (Fassung vom 04.09.2026, 15:09): Gliederung neu entlang der Tatbestandsmerkmale statt nach Lebensbereichen (Strassenverkehr / Drohungen / Demonstrationen / Stalking), Prüfschema-Tabelle mit Beweislast je Merkmal als Inhaltsverzeichnis vorangestellt, jede Fallschilderung an das entscheidende Merkmal rückgebunden. Neu aufgenommen und im Volltext verifiziert: BGE 134 IV 216 (Bareggtunnel-Blockade; Unterscheidung Nötigungsmittel / Nötigungszweck / Fernziel nach E. 4.4.1), BGE 101 IV 42 (relativer Massstab der Gewaltanwendung) und BS APG SB.2024.69 vom 04.12.2025 (Schubsen als Gewalt) zur Schliessung der bisherigen Lücke beim Merkmal «Gewalt». Judikaturbruch zwischen der Alt-Praxis (BGE 108 IV 165, BGE 119 IV 301) und der Relativierung von 2023–2026 neu offengelegt statt harmonisiert. Gesetzeswortlaut verbatim aus Fedlex (SR 311.0, Konsolidierung 12.06.2026)."
   - date: 2026-09-04
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark-Standard (Art. 110 StPO, Art. 336 OR). Einarbeitung der jüngsten Bundesgerichtspraxis zu Protestblockaden (BGE 152 IV 73, BGer 6B_639/2024, BGer 6B_138/2023) inkl. ausdrücklicher Relativierung von BGE 108 IV 165 und BGE 119 IV 301. Vertiefte Zweiseitige Grenzkasuistik zu Strassenverkehr (BGE 137 IV 326, BGer 6B_359/2017 vs. BL KG 460 13 235), Drohung mit rechtlichen Schritten (BGE 106 IV 125, BGE 87 IV 13 vs. LU OG 21 98 221) und Beziehungsnötigung (BGE 141 IV 437, BGer 6B_870/2020). Alle Fundstellen im Volltext über entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 

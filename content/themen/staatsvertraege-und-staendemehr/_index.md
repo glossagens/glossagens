@@ -13,12 +13,10 @@ normen:
   - { gesetz: bv, art: art-142 }
   - { gesetz: bv, art: art-189 }
 stichworte: ["Ständemehr", "Staatsvertragsreferendum", "supranationale Gemeinschaften", "Bilaterale Verträge", "Genehmigungsbeschluss", "Referendumsordnung", "Föderalismus", "Stimmkraftgleichheit", "Bundesversammlung", "Justizfreiheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Staatsverträge und Ständemehr. Normtexte Art. 140, 141, 142 und 189 BV per {{< wortlaut >}} aus der amtlichen Fedlex-Konsolidierung (scripts/wortlaut.py). Leitentscheide BGE 147 I 194, BGE 145 I 1, BGE 138 I 61 und BGE 139 II 303 über entscheidsuche.ch verifiziert; Erwägungsnummern, Anker und wörtliche Zitate abgeglichen."
 ---
 

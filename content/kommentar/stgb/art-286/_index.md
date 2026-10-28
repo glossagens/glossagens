@@ -5,22 +5,18 @@ date: 2026-08-07
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 286 StGB: Hinderung einer Amtshandlung — Passiver Widerstand, Erschwerung von Amtshandlungen ohne Gewalt, Beamtenbegriff und Abgrenzung zur straflosen Selbstbegünstigung."
 tags: ["StGB", "Hinderung einer Amtshandlung", "Amtshandlung", "Beamtenbegriff", "Selbstbegünstigung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; dubiose kantonale Zitate entfernt; BGE 120 IV 136 (Erfolgsdelikt), 124 IV 127 (Flucht vor Kontrolle), 127 IV 115 (Anstiftung bei Demonstration), 133 IV 97 (Selbstbegünstigung), 103 IV 186 (Warnen vor Kontrolle), 107 IV 113 (Verweilen in Sitzung) verifiziert; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Gesetzeswortlaut-Überschrift und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

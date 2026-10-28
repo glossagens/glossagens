@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 3 StHG (SR 642.14) — Steuerpflicht natürlicher Personen aufgrund persönlicher Zugehörigkeit (steuerrechtlicher Wohnsitz und qualifizierter Aufenthalt). Behandelt den Mittelpunkt der Lebensinteressen, Wochenaufenthalter und Pendler, die strenge Kader- und Leitungsfigur, den Fortbestand des Wohnsitzes beim Weltenbummler (Art. 24 Abs. 1 ZGB analog), das Spannungsverhältnis zum alternierenden Wohnsitz sowie die Ehegatten- und Familienbesteuerung (Faktorenaddition nach Abs. 3 und 4). Mit plastischer Grenzkasuistik, Schwellenwerttabellen, Beweislastregeln und rollenspezifischen Praxishinweisen."
 tags: ["StHG", "Steuerharmonisierung", "Steuerpflicht", "persönliche Zugehörigkeit", "steuerrechtlicher Wohnsitz", "Lebensmittelpunkt", "Wochenaufenthalter", "leitende Stellung", "Familienbesteuerung", "Faktorenaddition", "interkantonale Doppelbesteuerung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung Praxiskommentar zu Art. 3 StHG. Normtext via Fedlex konsolidiert (Stand 01.01.2025). Gesetzesmaterialien (BBl 1983 III 1, BBl 2003 1288, BBl 2009 4729) und Rechtsprechung (BGE 148 II 285, BGE 143 II 233, BGE 141 II 318, BGE 138 II 300, BGE 132 I 29, BGE 125 I 54) ausgewertet und belegt."
 ---
 

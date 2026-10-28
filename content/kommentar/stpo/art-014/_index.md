@@ -5,22 +5,18 @@ date: 2026-07-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 14 StPO – Bezeichnung und Organisation der Strafbehörden: Kompetenzverteilung zwischen Bund und Kantonen bei der Ausgestaltung der Strafverfolgungsbehörden, organisatorische Gestaltungsfreiheit, Ober- und Generalstaatsanwaltschaften, Aufsicht über Strafbehörden."
 tags: ["StPO", "Strafbehörden", "Organisation", "Bund-Kanton-Kompetenzverteilung", "Aufsicht", "Behördenorganisation"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 37 %). Erhebliche Aktualisierungslücke behoben: Art. 40 Abs. 1 StPO bezeichnet den Entscheid seit dem 1. Januar 2024 nicht mehr als «endgültig», weshalb die auf BGE 138 IV 214 E. 1.2 gestützte Aussage zum direkten Weiterzug ans Bundesgericht überholt ist (BBl 2019 6697, S. 6724). Nicht existierendes «Bundesgesetz über die Bundesanwaltschaft (BAVG)» gestrichen und durch Art. 2 StBOG ersetzt; Zuordnung von Art. 23/24 StPO berichtigt. Grobraster-Zitat aus BGE 142 IV 70 E. 3.1 wörtlich korrigiert (es lautet «obliegt Bund und Kantonen», nicht «bleibt den Kantonen überlassen»). Erfundene Aufzählung der vier Zürcher Besonderen Staatsanwaltschaften entfernt. Pinpoints berichtigt (BGE 138 IV 214 E. 3.3 → E. 3.4 bzw. E. 1.2 bzw. E. 3.6; BGE 142 IV 70 E. 3.2.2 → E. 3.3.1 f.). Neu eingearbeitet: BGE 142 IV 70 E. 4.2 f. (Delegation in analoger Anwendung von Art. 17 Abs. 1 StPO) und die Aufsichtsbehörde über die Bundesanwaltschaft (Art. 23–31 StBOG)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

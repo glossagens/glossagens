@@ -5,12 +5,10 @@ date: 2026-09-11
 lastmod: 2026-09-11
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 264 OR (vorzeitige Rückgabe der Mietsache, Ersatzmietergestellung und Schadenminderungspflicht)."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Vorzeitige Rückgabe", "Ersatzmieter", "Schadenminderung"]
-agent_verified: false
 revisions:
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage der Rechtsprechungsübersicht zu Art. 264 OR mit 16 verifizierten Entscheiden des Bundesgerichts und kantonaler Gerichte (ZH, LU, SG, SO, GR), volltextgeprüft via entscheidsuche.ch."
 ---
 

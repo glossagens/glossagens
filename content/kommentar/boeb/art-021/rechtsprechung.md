@@ -5,17 +5,14 @@ date: 2026-10-11
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 21 BöB – Freihändiges Verfahren"
 tags: ["Rechtsprechung", "BöB", "Freihändiges Verfahren", "Vergaberecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Aufnahme von FR KG 602 2026 16 vom 14.9.2026 (Zulässigkeit freihändiger Software-Wartungsverlängerung nach Art. 21 Abs. 2 lit. e BöB/IVöB bei langjährigem Lock-in in Abgrenzung zu BGE 150 II 105)"
   - date: 2026-10-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Initiale Erstellung der Rechtsprechungsübersicht mit 12 verifizierten Leit- und Kantonalentscheiden"
 ---
 

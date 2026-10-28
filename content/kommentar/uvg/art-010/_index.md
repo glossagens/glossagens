@@ -5,17 +5,14 @@ date: 2026-07-20
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 10 UVG: Heilbehandlung der Unfallfolgen — Anspruchsvoraussetzungen, Leistungskatalog (Abs. 1), freie Arztwahl (Abs. 2), Bundesratskompetenz (Abs. 3); Fallabschluss und Übergang zur Invalidenrente."
 tags: ["UVG", "Unfallversicherung", "Heilbehandlung", "Fallabschluss", "Schleudertrauma", "vorübergehende Leistungen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-010.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikationslauf gegen entscheidsuche.ch und Fedlex; erstmals ueberhaupt ein revisions-Block — der Artikel trug agent_verified: true ohne jeden Revisionsvermerk und ohne Angabe des erzeugenden Modells. Zitate: BGE 137 V 199, 143 V 148, 127 V 102, 140 V 356, 117 V 369, 118 V 286 sowie BGer 8C_637/2013 und 8C_888/2013 existieren und passen zur jeweiligen Aussage. KORRIGIERT: BGE 130 V 380 war fuer das Kriterium der «namhaften Besserung» angefuehrt — der Entscheid betrifft in Wahrheit die Befugnis des Versicherers, eine anerkannte Leistungspflicht ex nunc et pro futuro ohne Rueckkommenstitel einzustellen; die Aussage ist neu dorthin gestellt, das Kriterium der namhaften Besserung nun auf Art. 19 Abs. 1 UVG und BGE 134 V 109 gestuetzt. Weiter berichtigt: Art. 6 Abs. 3 UVG war faelschlich als Kausalitaetsnorm bezeichnet; Versichertenkreis steht in Art. 1a UVG (nicht Art. 2); die UVV ist die Verordnung ueber die Unfallversicherung (nicht «Unfallverhuetungsverordnung»), und fuer Hilfsmittel gilt die HVUV (nicht die HVI der Invalidenversicherung). Gesetzeswortlaut gegen Fedlex (SR 832.20, Stand 1. Januar 2026) geprueft: korrekt. Linkziele auf entscheidsuche.ch umgestellt. Die Literaturangaben liessen sich nicht verifizieren (siehe Vermerk dort)."
 ---
 

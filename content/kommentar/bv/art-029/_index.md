@@ -5,42 +5,34 @@ date: 2026-05-23
 lastmod: 2026-10-20
 description: "Praxiskommentar zu Art. 29 BV: Gleiche und gerechte Behandlung, Verbot der formellen Rechtsverweigerung und Rechtsverzögerung, unbedingtes Replikrecht und 10-Tage-Praxis, antizipierte Beweiswürdigung, Begründungsdichte, Überraschungsverbot, Wiedererwägungsanspruch bei geänderten Verhältnissen sowie unentgeltliche Rechtspflege und Rechtsverbeiständung mit der massgeblichen Rechtsprechung und Kasuistiktabelle."
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit", "Offizialmaxime", "Eingrenzung"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Einarbeitung der jüngsten Rechtsprechung der letzten drei Wochen zu Art. 29 Abs. 2 BV: (1) BGer 1C_396/2026 und 1C_397/2026 (06.10.2026) zur dogmatischen Grenzziehung zwischen unbehandeltem Akteneinsichtsgesuch (formeller Mangel führt zwingend zur Aufhebung) und Replikrecht (Kausalitätserfordernis; Gehör kein Selbstzweck); (2) BGer 1C_411/2026 (01.10.2026) zur eingeschränkten Tragweite des Replikrechts in Verfahren über vorsorgliche Massnahmen/aufschiebende Wirkung sowie zur Begründungsdichte; (3) BGer 1C_524/2026 (29.09.2026) zu den verfassungsrechtlichen Grenzen bandwurmartiger «Dass-Entscheide» unter Art. 29 Abs. 2 BV und Art. 112 BGG; (4) BVGer A-3785/2025 (30.09.2026) zum Überraschungsverbot und der zwingenden Anhörung vor fristloser Kündigung im öffentlich-rechtlichen Dienstverhältnis."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-029.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von VG ZH VB.2026.00244 (15.09.2026): neuer Unterabschnitt K.3 zur Konkretisierung von BGE 130 I 180 E. 3.2 im ausländerrechtlichen Zwangsmassnahmengerichtsverfahren bei Eingrenzung; Offizialmaxime schliesst Verbeiständung nicht per se aus, personengebundene Faktoren (Sprachbarriere, prekäre Wohnsituation) sind zu würdigen. Zitat und Link via entscheidsuche.ch verifiziert."
   - date: 2026-09-26
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 1C_725/2025 (Wiedererwägung betreffend Abbruch eines Gebäudes, 15.09.2026): neuer Abschnitt M zum Wiedererwägungsanspruch aus Art. 29 BV mit Grundsatz der fiktiven Vollstreckung bei rechtskräftigen Abbruchentscheiden; ergänzender Hinweis in Abschnitt D zur Ausstandsrügepflicht aus Treu und Glauben und neue Zeile in der Kasuistiktabelle zu Abschnitt G (antizipierte Beweiswürdigung). Zitate und Links via entscheidsuche.ch verifiziert."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Praxisausbau gemäss dem Skill praxisorientierter-kommentar. Dogmatisches Merkmalsraster (Abs. 1-3) mit Prüfschema-Tabelle, ausführlicher Sachverhaltsschilderung (u.a. BGE 136 I 229, BGE 150 I 174, BGE 138 I 484, BGE 144 IV 57, BGE 144 II 486, BGE 144 III 117, BGE 130 I 180, BGer 9C_278/2026), zweiseitiger Grenzkasuistik (bejaht vs. verworfen), Kasuistiktabellen, taktischen Merksätzen und kantonalen Praxisfragen. Sämtliche Bundesgerichtszitate im Volltext über entscheidsuche.ch validiert und verlinkt."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um BGer 9C_278/2026."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Bereinigung erfundener Referenzen und toter Pinpoints."
 ---
 

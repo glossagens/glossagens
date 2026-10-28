@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der wichtigsten Entscheide zu Art. 73 StGB: Zusprechung eingezogener Vermögenswerte an den Geschädigten, Abtretungspflicht, Versichereraktivlegitimation, Antragsprinzip und kantonales Nachverfahren."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Zusprechung", "Geschädigter", "Abtretung", "Versicherer", "Art. 73"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Ersterstellung der Rechtsprechungsübersicht; alle Entscheide via entscheidsuche verifiziert."
 ---
 

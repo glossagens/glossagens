@@ -5,32 +5,26 @@ date: 2026-06-28
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 22 StGB: Versuch von Verbrechen und Vergehen — Schwellentheorie und Point of no Return, zweiseitige Grenzkasuistik (angewandt vs. verworfen), vollendeter und unvollendeter Versuch, untauglicher Versuch und minimale Gefährlichkeit, grober Unverstand sowie die Methodik der fakultativen Strafmilderung nach Art. 48a StGB."
 tags: ["StGB", "Versuch", "Schwellentheorie", "Point of no Return", "Untauglicher Versuch", "Grober Unverstand", "Strafmilderung", "Tatentschluss", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard praxisorientierter-kommentar (Referenzmuster Art. 110 StPO und Art. 336 OR): Merkmalskatalog vor Kasuistik, Schichten- und Prüfschema-Tabelle mit Beweislastzuordnung, ausführliche Lebenssachverhalte (BGE 131 IV 100, BGer 6B_525/2024, BGer 6S.262/2004, AG OG SST.2023.122, BGE 133 IV 1, BGE 140 IV 150, BGE 124 IV 97, BGer 6B_123/2025, BGE 128 IV 18, BGE 121 IV 49), zweiseitige Grenzkasuistik (angewandt vs. verworfen), strukturierte Kasuistik- und Vergleichstabellen, kantonale Praxisfragen und adressatenbezogene Praxishinweise für Verteidigung, Staatsanwaltschaft und Gericht. Volltexte und Links über entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung und Link-Korrektur: BGE 140 IV 150, BGE 137 IV 113, BGE 131 IV 100, BGE 128 IV 18, BGE 124 IV 97, BGE 136 IV 55, BGE 122 IV 246, BGE 133 IV 1, BGE 121 IV 49; alle Links durch entscheidsuche.ch ersetzt."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

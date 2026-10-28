@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Übersicht der Luzerner Rechtsprechung zu § 133 VRG (Begründungspflicht der Rechtsmittelschrift)."
 tags: ["Rechtsprechung", "VRG", "Luzern", "Begründungspflicht", "Rechtsmittelschrift"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
-    mcp_verified: true
     note: "Erstanlage. Entscheide über entscheidsuche.ch verifiziert."
 ---
 

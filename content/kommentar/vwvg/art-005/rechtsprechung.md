@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-15
 description: "Übersicht der Entscheide zu Art. 5 VwVG – Verfügungsbegriff"
 tags: ["Rechtsprechung", "VwVG", "Verfügung", "Verwaltungsverfahren", "Realakt"]
-agent_verified: false
 revisions:
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C, 47%): BGE 135 I 6 entfernt (Regeste betrifft kantonale Zuständigkeit im Straf-/Massnahmenvollzug, nichts mit dem Verfügungsbegriff); Kernaussage zu BGE 128 II 34 korrigiert (individuelle Kontingentszuteilung = Verfügung, nicht generell-konkreter Erlass); Themenlabel 2C_444/2015 korrigiert; revisions-Block nachgetragen (fehlte)."
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "unknown"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 

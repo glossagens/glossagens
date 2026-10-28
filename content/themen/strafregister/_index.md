@@ -18,12 +18,10 @@ normen:
   - { gesetz: stpo, art: art-352 }
   - { gesetz: stpo, art: art-354 }
 stichworte: ["Strafregister", "VOSTRA", "StRegG", "Privatauszug", "Sonderprivatauszug", "Behördenauszug", "Strafbefehl", "Geldstrafe", "Freiheitsstrafe", "Busse", "Übertretung", "Probezeit", "Löschfrist", "Entfernungsfrist", "Recht auf Vergessen", "Tätigkeitsverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtext Art. 10 StGB per {{< wortlaut >}} eingebunden; StRegG (SR 330) und StRegV über Fedlex verifiziert. Zehn Leitentscheide von entscheidsuche.ch als Volltext abgeglichen, Erwägungsnummern, HTML-Anker und wörtliche Zitate geprüft. Mechanische Prüfung durch pruefen.py bestanden."
 ---
 

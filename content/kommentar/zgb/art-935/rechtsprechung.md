@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: "2026-09-15"
 description: "Übersicht der zentralen Entscheide zu Art. 935 ZGB — Geld und Inhaberpapiere: kategorischer Gutglaubensschutz auch bei Abhandenkommen, Geld vs. Sammlermünzen, Inhaberschuldbrief und lex specialis Art. 862/863 ZGB (früher Art. 865/866), gutgläubiger Dritterwerber und Einreden, Bösgläubigkeit (Art. 936), Kraftloserklärung und Kulturgüter (KGTG)."
 tags: ["Rechtsprechung", "ZGB", "Geld", "Inhaberpapiere", "Inhaberschuldbrief", "gutgläubiger Erwerb", "Schuldbrief", "Kraftloserklärung", "Kulturgüter", "Hehlerei"]
-agent_verified: false
 revisions:
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 8 im Volltext abgerufen (BGE 65 II 62, 89 II 387, 100 II 8, 103 II 186, 105 IV 303, 107 II 440, 139 III 305; GR KG ZK1 2010 6; BGE 115 III 111 und BGer 5A_237/2026 via Such-Snippets). Links verbatim aus document_url-Feldern übernommen. Ältere Entscheide zitieren die Schuldbrief-Publizität als Art. 865/866 ZGB (heute Art. 862/863 ZGB)."
 ---
 

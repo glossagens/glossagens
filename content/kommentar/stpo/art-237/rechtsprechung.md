@@ -5,22 +5,18 @@ date: "2026-07-04"
 lastmod: "2026-10-24"
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 237 StPO: Ersatzmassnahmen an Stelle der Untersuchungs- oder Sicherheitshaft, Electronic Monitoring, Antragsbindung und Widerruf."
 tags: ["Rechtsprechung", "Ersatzmassnahmen", "Untersuchungshaft", "Sicherheitshaft", "Verhältnismässigkeit", "Electronic Monitoring"]
-agent_verified: true
 revisions:
   - date: "2026-10-24"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme des Leitentscheids BGer 7B_1311/2026 vom 15.10.2026 (zwingender Vorrang von Ersatzmassnahmen wie Meldepflicht, Rayonverbot und Schriftensperre bei moderater Fluchtgefahr abgewiesener Asylbewerber; Verbot von Untersuchungshaft als Surrogat für Ausschaffungshaft)."
   - date: "2026-09-18"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau gemäss Leitfaden: 7 BGE-Leitentscheide und 9 weitere Bundesgerichts- und Kantonsentscheide mit Sachverhaltsabstracts und prozessualen Kernaussagen strukturiert."
   - date: "2026-07-17"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Erstfassung Rechtsprechungsübersicht"
 ---
 

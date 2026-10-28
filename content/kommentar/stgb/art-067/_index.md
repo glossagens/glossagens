@@ -5,32 +5,26 @@ date: 2025-06-02
 lastmod: "2026-10-10"
 description: "Praxiskommentar zu Art. 67 StGB (Tätigkeitsverbot): Tatbestandsmerkmale, zweistufiges Prüfschema, zwingende lebenslängliche Verbote, restriktive Ausnahme-Kasuistik (Abs. 4bis), prozessuale Hürden (Verschlechterungsverbot) und adressatenbezogene Praxishinweise."
 tags: ["StGB", "Tätigkeitsverbot", "Berufsverbot", "Massnahmen", "Pädophilie", "Minderjährigenschutz", "Allgemeiner Teil", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Praxiskommentar gemäss Standard: Prüfschema-Tabelle, systematische Tatbestandsmerkmale (Abs. 1 bis 6), detaillierte Sachverhaltskasuistik aus publizierten Gerichtsakten (BGE 149 IV 161, BGer 6B_194/2024, BGer 6B_243/2022, BGer 6B_431/2024, FR 501 2026 92, ZH SB220480, TG RBOG 2021 Nr. 15), Gegenüberstellungstabellen ohne Code-Fences, Judikaturdivergenzen, prozessuale Realität (Verschlechterungsverbot, Beweislast), kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-10-10
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Kantonsgericht FR 501 2026 92 (Cour d'appel pénal, 20.08.2026) eingearbeitet: Bestätigung lebenslängliches Tätigkeitsverbot Art. 67 Abs. 3 lit. b StGB bei Liebesbeziehung mit 14-Jähriger; Ausnahmeklausel Abs. 4bis verneint wegen wiederholter invasiver Akte; Zitat E. 3.3 via OCL get_erwaegung verifiziert, Link via entscheidsuche.ch"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 7 verifizierte Entscheide via entscheidsuche.ch (BGE 149 IV 161 Leitentscheid Abs. 4bis, BGer 7B_143/2022, BGer 7B_479/2023, BGer 6B_1027/2021, BGer 6B_140/2025, BGer 6B_635/2025, BGer 6B_156/2023); falsche Zitate entfernt; Gesetzeswortlaut → Fedlex verifiziert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Beseitigung aller Pinpoint-Fehler und Angleichung an den Fedlex-Wortlaut; 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

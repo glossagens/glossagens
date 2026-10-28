@@ -5,12 +5,10 @@ date: 2026-09-03
 lastmod: 2026-09-03
 description: "Übersicht der Rechtsprechung zu Art. 744 OR — Sicherung der Gläubiger und Hinterlegungspflichten in der Liquidation."
 tags: ["Rechtsprechung", "OR", "Aktienrecht", "Liquidation", "Gläubigerschutz", "Hinterlegung", "Verantwortlichkeit"]
-agent_verified: false
 revisions:
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht mit Leit- und Praxisentscheiden."
 ---
 

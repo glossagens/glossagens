@@ -5,22 +5,18 @@ date: 2026-07-16
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 62c StGB: Aufhebung therapeutischer Massnahmen — Aussichtslosigkeit (Abs. 1 lit. a), Höchstdauer (lit. b), Fehlen einer Einrichtung (lit. c), Reststrafvollzug, Ersatzmassnahme und nachträgliche Verwahrung."
 tags: ["StGB", "Massnahmenrecht", "Aufhebung", "Aussichtslosigkeit", "Reststrafe", "Nachträgliche Verwahrung", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 7 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 134 IV 315, BGE 135 IV 139, BGE 140 IV 1, BGE 141 IV 236, BGE 142 IV 1, BGE 136 IV 156; BGer 6B_242/2012 verifiziert; fehlerhafte Zitate ZH OG SB190011 (BtmG-Widerhandlung) und ZH VG VB.2014.00336 (gemeinnützige Arbeit) entfernt; Gesetzeswortlaut → Wortlaut korrigiert; alle opencaselaw-Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Wortlaut-Überschrift und Ergänzung auf 10 verifizierte Entscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

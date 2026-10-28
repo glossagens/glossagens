@@ -5,22 +5,18 @@ date: 2026-05-30
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 239 StGB: Vorsätzliche (Ziff. 1) und fahrlässige (Ziff. 2) Störung oder Gefährdung des Betriebs öffentlicher Verkehrsanstalten und Versorgungsanlagen — Protestblockaden, Sachbeschädigung, Eisenbahnverkehr."
 tags: ["StGB", "Betriebsstörung", "Verkehrsanstalt", "Versorgungsanlage", "Gemeingefährliche Delikte", "Infrastrukturschutz", "Protest", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 8 verifizierte Entscheide via entscheidsuche.ch; BGE 116 IV 44 (fahrlässige Störung Eisenbahnbetrieb), BGE 119 IV 301 (Nötigung und Betriebsstörung bei Protestblockade), BGer 6B_217/2012 (Versorgungsanlagen), BGer 6B_935/2019 (Hinderung/Störung/Gefährdung), BGer 6B_1173/2023 (Tramblockade Klimaprotest), BGer 6B_1496/2022 (Grundrechtsabwägung), BGer 6B_830/2023 (Intensität der Betriebsbeeinträchtigung); kantonale Zitate auf entscheidsuche.ch verifiziert (SO STAPP.2005.1, SO ZZ.1976.13); Gesetzeswortlaut → Wortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung unzutreffender BGE-Zitate; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

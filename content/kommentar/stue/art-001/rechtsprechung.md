@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 1 des Staatenlosen-Übereinkommens (Begriff des Staatenlosen; Missbrauchsvorbehalt; UNRWA)"
 tags: ["Rechtsprechung", "Staatenlosen-Übereinkommen", "Staatenlosigkeit", "UNRWA"]
-agent_verified: false
 ---
 
 # Rechtsprechungssammlung zu Art. 1 StÜ

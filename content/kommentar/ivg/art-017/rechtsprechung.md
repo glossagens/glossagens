@@ -5,12 +5,10 @@ date: 2026-07-31
 lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 17 IVG — Umschulungsanspruch, Mindesterwerbseinbusse, annähernd gleichwertige Tätigkeit, Wiedereinschulung, Abbruch einer Massnahme, Taggeld"
 tags: ["Rechtsprechung", "IVG", "Umschulung", "Wiedereinschulung", "Eingliederung", "Mindesterwerbseinbusse"]
-agent_verified: false
 revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-07-11
 lastmod: 2026-07-11
 description: "Übersicht der Entscheide zu Art. 149 StPO — Schutzmassnahmen für gefährdete Verfahrensbeteiligte"
 tags: ["Rechtsprechung", "StPO", "Schutzmassnahmen", "Anonymität", "Zeugenschutz"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 149 StPO — Schutzmassnahmen

@@ -5,17 +5,14 @@ date: 2026-09-12
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 93 SchKG — Beschränkt pfändbare Vermögenswerte, Existenzminimum, Notbedarfsberechnung, Krankenkassenprämien, BVG-Leistungen, Säule 3a, IV-Taggelder, Einjahresfrist, Konkubinat, Mitwirkungspflicht."
 tags: ["Rechtsprechung", "SchKG", "Lohnpfändung", "Existenzminimum", "Notbedarf", "Krankenkassenprämien", "BVG-Leistungen", "Säule 3a", "IV-Taggelder", "Konkubinat", "Mitwirkungspflicht"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 3 neue BGE-Leitentscheide (120 III 71, 121 III 285, 130 III 400) und 2 BGer-Entscheide (5A_605/2016, 5A_306/2018) als systematische Ergänzung (Freizügigkeitsleistungen, Säule 3a, IV-Taggelder, Beschwerdelegitimation Drittschuldner, AHV-Renten, gemeinsames Existenzminimum); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung: 5 BGE-Leitentscheide (121 III 20, 134 III 323, 140 III 337, 119 III 70, 113 III 10), 3 weitere BGer-Entscheide (128 III 159, 140 III 485, 5A_131/2026), 1 kantonaler Entscheid (BE Aufsichtsbehörde ABS 2018 180); alle Links auf entscheidsuche.ch verifiziert."
 ---
 # Rechtsprechung zu Art. 93 SchKG

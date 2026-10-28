@@ -5,37 +5,30 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 139 StPO – Grundsätze der Beweiserhebung: Wahrheitsfindungspflicht, antizipierte Beweiswürdigung (mit zweistufiger Prüfung, hypothetischer Ergänzung und Begründungspflicht), Beweisantragsablehnung, Offenkundigkeit, Unerheblichkeit, rechtsgenügend erwiesene Tatsachen und die Grenzziehung zur Wahrunterstellung. Mit Kasuistiktabellen, plastischen Sachverhaltschilderungen und taktischen Merksätzen."
 tags: ["StPO", "Beweisrecht", "Beweismittel", "Wahrheitsfindung", "antizipierte Beweiswürdigung", "Untersuchungsgrundsatz", "Beweisantrag", "Offenkundigkeit", "Gerichtskundigkeit", "In-dubio-pro-reo", "Wahrunterstellung", "Beweisermittlungsantrag", "Willkürprüfung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-139.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau nach dem Merkmalsraster: plastische Sachverhaltschilderungen, zweiseitige Grenzkasuistik, taktische Merksätze; Schwerpunkt antizipierte Beweiswürdigung; alle Zitate via Fedlex und entscheidsuche verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit: Belegapparat und Gesetzeswortlaut gegen Fedlex und entscheidsuche verifiziert; URLs zu 6B_323/2013 und 6B_615/2024 korrigiert; BGE-Links ergänzt."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassender Ausbau mit praxisorientierter Kasuistik; alle Zitate via Fedlex und entscheidsuche verifiziert; opencaselaw-Links durch entscheidsuche.ch ersetzt."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote): BGer 6B_1395/2020 E. 1.2.2 integriert; Verifikation via attest_response ok."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

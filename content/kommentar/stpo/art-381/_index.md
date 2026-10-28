@@ -5,22 +5,18 @@ date: 2026-07-11
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 381 StPO – Legitimation der Staatsanwaltschaft (Rechtsmittel)"
 tags: ["StPO", "Rechtsmittel", "Staatsanwaltschaft", "Beschwerdelegitimation"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-381.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 84 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 35 %). Alle 14 Referenzen existieren und treffen thematisch zu. Die drei gemeldeten Pinpoint-Fehler sind Paarungsartefakte — der Artikel führte diese Erwägungsangaben nirgends. Korrigiert wurde die einzige unzutreffende Angabe: BGE 139 IV 199 E. 5 → E. 5.5 (der Entscheid kennt nur E. 5.1–5.6). Den Übersichtseinträgen wurden fehlende Erwägungsangaben ergänzt. Der Audit-Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut ist ein Fehlalarm: Der aufgehobene Abs. 4 steht mit demselben Hinweis auch im amtlichen Fedlex-Text; der Abgleich scheiterte an der Formatierung. Der Wortlaut ist unverändert."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "BGer 6B_688/2025 ergänzt: Grenzen der Anschlussberufung der Staatsanwaltschaft (Treu und Glauben, Verschlechterungsverbot); neuer Abschnitt IX mit Rz. 24–25; Querverweis auf Art. 401 StPO"
 ---
 

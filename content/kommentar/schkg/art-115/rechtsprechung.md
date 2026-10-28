@@ -5,27 +5,22 @@ date: 2026-09-12
 lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 115 SchKG — Pfändungsurkunde als Verlustschein, provisorischer Verlustschein, Arrestgrund, Anfechtungsklage, Neuauftreibungspfändung, Kosten und Zustellung."
 tags: ["Rechtsprechung", "SchKG", "Verlustschein", "Pfändungsurkunde", "provisorischer Verlustschein", "Neuauftreibungspfändung", "Arrestgrund", "Anfechtungsklage"]
-agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 3 BGE-Leitentscheide (150 III 223, 125 III 337, 115 III 138), 4 weitere BGer-Entscheide (96 III 111, 105 III 60, 88 III 59, 9C_166/2017), 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

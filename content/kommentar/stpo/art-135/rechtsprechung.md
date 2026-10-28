@@ -5,7 +5,6 @@ date: 2026-06-03
 lastmod: "2026-08-10"
 description: "Übersicht der Entscheide zu Art. 135 StPO – Entschädigung der amtlichen Verteidigung"
 tags: ["Rechtsprechung", "StPO", "amtliche Verteidigung", "Entschädigung"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE und BGer)

@@ -5,17 +5,14 @@ date: 2026-09-07
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 53 ATSG: Prozessuale Revision (Abs. 1), Wiedererwägung wegen zweifelloser Unrichtigkeit (Abs. 2) und Wiedererwägung pendente lite (Abs. 3) — mit umfassender Kasuistik, Schwellenwerten (5-Prozentpunkte-Regel), Gegenüberstellungstabellen, kantonalen Praxisfragen und Praxishinweisen."
 tags: ["ATSG", "Revision", "Wiedererwägung", "Zweifellose Unrichtigkeit", "Noven", "Pendente lite", "Vertrauensschutz", "Rückforderung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-053.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als Praxiskommentar nach dem Standard Art. 110 StPO / Art. 336 OR. Gesetzeswortlaut verbatim aus Fedlex (SR 830.1, Stand 1. Januar 2024). Volltextabgleich sämtlicher Bundesgerichts- und kantonaler Leitentscheide über entscheidsuche.ch. Dogmatische Gliederung entlang des Merkmalskatalogs mit zweiseitiger Grenzkasuistik, Kriterientabellen, Divergenzanalysen, kantonalen Praxisfragen und adressatenbezogenen Praxishinweisen."
 ---
 

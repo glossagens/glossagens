@@ -5,7 +5,6 @@ date: 2026-06-07
 lastmod: 2026-06-07
 description: "Übersicht der Entscheide zu Art. 37 GSchG – Eingriffe in oberirdische Gewässer, Verbauungsverbot, ökologische Gestaltung"
 tags: ["Rechtsprechung", "GSchG", "Verbauung", "Gewässerraum", "Revitalisierung", "Hochwasserschutz"]
-agent_verified: false
 ---
 
 ## Verbauungsverbot und Ausnahmebewilligung (Abs. 1)

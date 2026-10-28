@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Entscheide zu Art. 6 BewG — Beherrschende Stellung, Durchbrechung der rechtlichen Selbständigkeit"
 tags: ["Rechtsprechung", "BewG", "Lex Koller", "beherrschende Stellung", "Durchbrechung"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht erstellt, Entscheide via entscheidsuche.ch verknüpft"
 ---
 

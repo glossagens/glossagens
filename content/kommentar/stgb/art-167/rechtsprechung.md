@@ -5,12 +5,10 @@ date: 2026-09-11
 lastmod: 2026-09-11
 description: "Übersicht der Rechtsprechung zu Art. 167 StGB — Bevorzugung eines Gläubigers, Regelbeispiele (nicht verfallene Schulden, unübliche Zahlungsmittel, freiwillige Sicherstellung), Generalklausel, kongruente vs. inkongruente Deckung, Dolus directus 1. Grades und Organhaftung."
 tags: ["Rechtsprechung", "StGB", "Bevorzugung eines Gläubigers", "Gläubigerbevorzugung", "Konkursdelikte", "Organhaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 167 StGB mit 14 verifizierten Leitentscheiden und Praxisurteilen des Bundesgerichts und der kantonalen Gerichte (ZH, BL, GR, FR). Alle Urteilslinks verbatim über entscheidsuche.ch belegt."
 ---
 

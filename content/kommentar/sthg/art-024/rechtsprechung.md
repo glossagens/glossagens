@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 24 StHG (SR 642.14) — Reingewinn juristischer Personen, Massgeblichkeitsprinzip, verdeckte Gewinnausschüttungen (vGA), Drittvergleich, Zinsen auf verdecktem Eigenkapital und steuerneutrale Umstrukturierungen (Betriebserfordernis)."
 tags: ["Rechtsprechung", "StHG", "Gewinnsteuer", "Massgeblichkeitsprinzip", "verdeckte Gewinnausschüttung", "Drittvergleich", "Umstrukturierung", "Betriebserfordernis", "verdecktes Eigenkapital"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 24 StHG mit 11 geprüften Leitentscheiden und kantonalen Urteilen. URLs via entscheidsuche.ch verifiziert."
 ---
 

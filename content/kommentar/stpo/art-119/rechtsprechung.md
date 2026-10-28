@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 119 StPO – Form und Inhalt der Erklärung"
 tags: ["Rechtsprechung", "StPO", "Privatklägerschaft"]
-agent_verified: false
 ---
 
 ## Übersicht

@@ -5,17 +5,14 @@ date: 2026-05-22
 lastmod: 2026-09-10
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 426 ZGB (Fürsorgerische Unterbringung, Leitentscheide des Bundesgerichts und kantonale Praxis mit fundierten Sachverhalten und Kernaussagen)."
 tags: ["Rechtsprechung", "ZGB", "Fürsorgerische Unterbringung", "Erwachsenenschutz", "Leitentscheide", "Selbstgefährdung", "Fremdgefährdung", "Subsidiarität"]
-agent_verified: true
 revisions:
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsseite: Verlinkungen durchgehend auf entscheidsuche.ch mit consideration-Ankern bei BGEs aktualisiert. Einarbeitung von 10 BGE-Leitentscheiden und 9 weiteren Bundesgerichts- und kantonalen Entscheiden inklusive detaillierter Sachverhalte, tragender Erwägungen und Relevanz für die Norm."
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung: Gliederung in Leitentscheide (BGE) und weitere Entscheide (BGer/kantonal); alle Entscheide via OpenCaseLaw verifiziert."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-07-12
 lastmod: "2026-08-22"
 description: "Übersicht der Entscheide zu Art. 82 StPO – Einschränkungen der Begründungspflicht"
 tags: ["Rechtsprechung", "StPO", "Begründungspflicht", "Verweisung"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 39 %). Alle 24 Aktenzeichen und Daten gegen citation_string_de geprüft; alle stimmen. Zitierzahlen auf den heutigen Stand gebracht und datiert. Pinpoints ergänzt und präzisiert (BGE 141 IV 244 E. 1.2.1 und E. 1.2.3; BGE 143 IV 40 E. 3.2–3.6 mit Ergebnis in E. 3.4.4; 6B_409/2018 E. 1.2.2 und E. 2.1; 6B_28/2018 E. 4.3.2 f.). Neu aufgenommen: BGer 6B_570/2019 E. 4.2. Fehlender revisions-Block ergänzt; agent_verified auf true."
   - date: 2026-07-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

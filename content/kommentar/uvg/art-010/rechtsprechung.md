@@ -5,12 +5,10 @@ date: 2026-07-20
 lastmod: 2026-09-04
 description: "Übersicht der Rechtsprechung zu Art. 10 UVG (Heilbehandlung; Fallabschluss; Schleudertrauma-Praxis; Adäquanzprüfung; Pflegeleistungen nach Fallabschluss)"
 tags: ["Rechtsprechung", "UVG", "Heilbehandlung", "Fallabschluss", "Schleudertrauma"]
-agent_verified: true
 revisions:
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikation gegen entscheidsuche.ch; erstmals ein revisions-Block. Alle acht Eintraege existieren mit den angegebenen Daten. KORRIGIERT: Kernaussage zu BGE 130 V 380 (der Entscheid betrifft die Einstellung ex nunc et pro futuro ohne Rueckkommenstitel, nicht das Kriterium der namhaften Besserung); Kernaussage zu BGE 137 V 199 (Regeste: die Rechtsprechung nach BGE 130 V 352 kommt beim Fallabschluss nicht zur Anwendung, auch nicht bei HWS-Distorsionen); Kriterium in BGE 140 V 356 praezisiert. ENTFERNT: die Angaben «Zitate: N» — sie stammten aus opencaselaw und sind nicht nachpruefbar. Linkziele auf entscheidsuche.ch umgestellt; der Link auf BGE 115 V 133 entfaellt, weil entscheidsuche diesen Band nicht fuehrt."
 ---
 

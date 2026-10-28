@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 287 SchKG: Überschuldungsanfechtung, inkongruente Deckung, unübliche Zahlungsmittel und Gutglaubensnachweis."
 tags: ["Rechtsprechung", "SchKG", "Überschuldungsanfechtung", "Inkongruente Deckung", "Datio in solutum", "Gutglaubensnachweis"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 12 StHG (SR 642.14) — Grundstückgewinnsteuer, Ersatzbeschaffung von selbstgenutztem Wohneigentum, absolute Methode, Begriff der dauernden Selbstnutzung, wirtschaftliche Handänderung, monistisches vs. dualistisches System."
 tags: ["Rechtsprechung", "StHG", "Grundstückgewinnsteuer", "Ersatzbeschaffung", "absolute Methode", "wirtschaftliche Handänderung", "Monismus", "Dualismus", "Anlagekosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 12 StHG mit 11 geprüften Leitentscheiden und kantonalen Urteilen. URLs via entscheidsuche.ch verifiziert."
 ---
 

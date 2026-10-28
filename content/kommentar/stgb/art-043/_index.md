@@ -5,17 +5,14 @@ date: 2026-08-02
 lastmod: "2026-10-19"
 description: "Praxiskommentar zu Art. 43 StGB: Teilbedingte Freiheitsstrafe — Stufensystem der Sanktionswahl (1 bis 3 Jahre), Legalprognose und Warnwirkung (BGE 144 IV 277), Begründungspflichten an den Schwellenwerten (BGE 134 IV 17), gesetzliche Schranken (Halbe-Strafe-Grenze, Mindestdauer 6 Monate) und Praxishinweise."
 tags: ["StGB", "Teilbedingte Strafe", "Freiheitsstrafe", "Strafaufschub", "Legalprognose", "Verschulden", "Sanktionenrecht", "Allgemeiner Teil", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach Standard praxisorientierter-kommentar: Umstellung des Wortlauts auf den automatischen Shortcode {{< wortlaut >}} via Fedlex SPARQL (data/wortlaut/stgb/art-043.json); Einführung des 1:1 Prüfschemas A–J; narrative Sachverhaltsschilderungen (BGE 144 IV 277, BGE 134 IV 1, BGE 134 IV 17, BGer 6B_1070/2018, BGer 6B_245/2022, BGer 6B_373/2009, BGer 6B_574/2008, BGE 143 IV 441, BGE 139 IV 270); Schwellenwert- und Berechnungs-Tabellen ohne Codeblöcke; zwei kantonale Praxisfragen (Massnahmen-Nachverfahren Art. 63b Abs. 4 StGB, Zusatzstrafenberechnung Art. 49 Abs. 2 StGB); rollenbezogene Praxishinweise."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuaufbau: Verlinkung via entscheidsuche.ch; Bereinigung von Zitaten"
 ---
 

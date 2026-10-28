@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Entscheide zu Art. 10 UWG (Klageberechtigung von Kunden, Verbänden, Konsumentenorganisationen und Bund): Leitentscheide des Bundesgerichts zur Verbandsklage, zum Konsumentenschutzbegriff und zum Klagerecht des Bundes."
 tags: ["UWG", "Lauterkeitsrecht", "Rechtsprechung", "Klageberechtigung", "Verbandsklage", "Klagerecht des Bundes"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstübersicht. Entscheide über entscheidsuche.ch im Volltext gelesen; Links aus den content_url-Feldern. Kein maschineller Audit-Lauf, daher mcp_verified: false."
 ---
 

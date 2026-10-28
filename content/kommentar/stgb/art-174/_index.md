@@ -5,22 +5,18 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 174 StGB: Verleumdung, Vorwurf ehrverletzender Tatsachen wider besseres Wissen (direkter Vorsatz 2. Grades), Beweislast der Unwahrheit bei den Strafverfolgungsbehörden, planmässige Untergrabung des guten Rufs (Abs. 2) in sozialen Netzwerken und Blogs, Ausschluss des Wahrheitsbeweises, Rücknahme als fakultative Strafmilderung (Abs. 3) sowie gerichtliche Urkunde — mit systematischer Grenzkasuistik."
 tags: ["StGB", "Verleumdung", "Ehrverletzung", "besseres Wissen", "Unwahrheitsbeweis", "planmässige Verleumdung", "Antragsdelikt", "Ehre", "Social Media"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-174.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar: Prüfschema-Tabelle (Merkmalskatalog vor der ersten Zeile Fliesstext); Korrektur des subjektiven Tatbestands (direkter Vorsatz bezüglich Unwahrheit zwingend, Ausschluss von Eventualvorsatz gemäss BGE 136 IV 170, BGE 76 IV 243 und BGer 7B_1284/2025); Kasuistik zu allen Tatbestandsmerkmalen mit narrativen Lebenssachverhalten und zweiseitiger Grenzkasuistik (u.a. Twitter/X-Vorwurf nach Landammannfeier BGer 6B_747/2025, Klagerückzug mit Betrugsvorwurf trotz Freispruchs BGer 6B_1046/2021, Facebook-Sharing mit Pädophilie-Vorwurf ZH OG SB250297, Blog-Hetzkampagne des gekündigten Lehrers BGer 6B_976/2017, Arrestgesuch BGer 7B_542/2023, Gewerkschaftsbrief BGer 6B_1309/2019, Astronautin BGer 6B_8/2014, Anwalt als Dritter BGE 145 IV 462); drei kantonale Praxisfragen; tabellarische Vergleiche und Praxishinweise nach Rollen."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; BGE 115 IV 1 verifiziert und Sachverhalt angereichert; Gesetzeswortlaut via Fedlex verifiziert; Strafrahmenanpassung per 1.7.2023 (Harmonisierungsgesetz) ergänzt"
   - date: 2026-08-13
     by: "Hermes Agent"
@@ -29,7 +25,6 @@ revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 311.0 Art. 174), Leitentscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

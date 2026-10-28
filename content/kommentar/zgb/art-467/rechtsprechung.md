@@ -5,12 +5,10 @@ date: 2026-08-19
 lastmod: 2026-08-19
 description: "Übersicht der Rechtsprechung zu Art. 467 ZGB (Testierfähigkeit, Urteilsfähigkeit, Demenz, Beweislastverteilung)."
 tags: ["Rechtsprechung", "ZGB", "Erbrecht", "Testierfähigkeit", "Urteilsfähigkeit", "Demenz"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht mit 13 geprüften Leitentscheiden und kantonalen Entscheiden vollständig neu aufgebaut und via opencaselaw-MCP verifiziert."
 ---
 

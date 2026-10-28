@@ -5,22 +5,18 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 402 OR — Auslagenersatz samt Zinsen, Befreiung von Verbindlichkeiten, Schadenshaftung mit Verschuldensvermutung; Putativauftrag; Girovertrag"
 tags: ["OR", "Auftragsrecht", "Aufwandersatz", "Schadenshaftung", "Verschuldensvermutung", "Befreiungsanspruch", "Putativauftrag", "Auslagenersatz"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-402.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau; Gesetzeswortlaut gegen Fedlex verifiziert; Prüfschema, Kasuistik und Praxishinweise ergänzt; BGE 110 II 283, BGE 94 II 37, BGer 4A_429/2014 via entscheidsuche verifiziert"
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 38 % (Urteil C); 1 gestützt (+4 teilw.) von 8 beurteilten Paaren (8 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 1 fehlerhafte Pinpoints."
 ---
 

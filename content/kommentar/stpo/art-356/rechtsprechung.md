@@ -5,17 +5,14 @@ date: "2026-06-27"
 lastmod: "2026-08-20"
 description: "Übersicht der Entscheide zu Art. 356 StPO — Verfahren vor dem erstinstanzlichen Gericht: Gültigkeit, Rückzug, Säumnisfiktion, Ungültigkeit, schriftliches Verfahren und Konnexität"
 tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Säumnisfiktion", "Rückzug", "Anklageschrift", "Gültigkeit", "EGMR", "Nejjar", "Konnexität"]
-agent_verified: false
 revisions:
   - date: "2026-08-20"
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Anreicherung der Rechtsprechungssammlung gemäss /loop: 13 Leitentscheide (BGE) und 8 Bundesgerichts- sowie kantonale Gerichtsentscheide mit präzisen Pinpoints und OCL-Verlinkungen via check_claim_support verifiziert."
   - date: "2026-07-31"
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung KW31 — BGer 6B_685/2025 (Säumnisfiktion Art. 356 Abs. 4 StPO bei widersprüchlichen Abwesenheitsgründen, erstmals EGMR Nejjar c. Suisse 11.12.2025) via OCL decisions/citation_string_de verifiziert und angehängt."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 289 SchKG: Örtliche und internationale Zuständigkeit für die paulianische Anfechtungsklage, Wohnsitz des Beklagten, Vollstreckungsort bei Auslandssitz, Konkursausnahme des Lugano-Übereinkommens und vorsorgliche Massnahmen."
 tags: ["SchKG", "Gerichtsstand", "Zuständigkeit", "Wohnsitz", "Auslandssitz", "Lugano-Übereinkommen", "Konkursausnahme", "Vorsorgliche Massnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der örtlichen und internationalen Zuständigkeit, BBl-Materialien (1991 III 1), Verhältnis zur ZPO (Art. 10 ZPO), sachliche Unzuständigkeit des Handelsgerichts (BGE 141 III 527), Konkursausnahme des Lugano-Übereinkommens (BGE 131 III 227, BGE 129 III 683), vorsorgliche Massnahmen (Grundbuchsperre, BGer 5A_853/2013) und Praxishinweise."
 ---
 

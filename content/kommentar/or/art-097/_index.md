@@ -5,32 +5,26 @@ date: 2026-08-01
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 97 OR: Vertragshaftung bei Nicht- und Schlechterfüllung, Schadensbegriff und Differenzhypothese, natürliche und adäquate Kausalität (inkl. hypothetische Kausalität und rechtmässiges Alternativverhalten), Verschuldensvermutung und Entlastungsbeweis sowie Substanziierungsobliegenheiten und Schadenszins — mit der Kasuistik der Gerichte zu jedem Tatbestandsmerkmal."
 tags: ["OR", "Vertragsrecht", "Haftung", "Schadensersatz", "Nichterfüllung", "Schlechterfüllung", "Verschulden", "Beweislast", "Differenzhypothese", "Adäquanz", "Rechtmässiges Alternativverhalten", "Substanziierung", "Schadenszins"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark-Standard (Art. 110 StPO / Art. 336 OR): Merkmalskatalog als Prüfschema-Tabelle, systematische Zuordnung der Kasuistik zu den Tatbestandsmerkmalen, zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) mit narrativen Lebenssachverhalten aus Akten, Rechtsprechungstabelle, Offenlegung von Judikaturdivergenzen (insb. Scheinexkalpation bei Sorgfaltspflichtverletzungen), kantonale Praxisfragen (Handelsgericht Zürich, Obergericht Bern, Appellationsgericht Basel-Stadt) sowie adressatenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch im Volltext verifiziert und direkt verlinkt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-097.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Wortlaut-Abgleich: Gesetzeswortlaut vollständig gegen Fedlex (SR 220, Stand 01.01.2026) abgeglichen und normkonform formatiert."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 66 % (Urteil B); 16 gestützt (+14 teilw.) von 35 beurteilten Paaren (44 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via Fedlex MCP, 10 Leitentscheide via OCL (find_leading_cases) verifiziert."
 ---
 

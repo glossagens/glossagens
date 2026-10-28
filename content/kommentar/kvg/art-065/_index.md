@@ -5,17 +5,14 @@ date: 2026-10-08
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 65 KVG: Kantonale Prämienverbilligung — Anspruchsvoraussetzungen, Mindestverbilligung für Kinder und junge Erwachsene, kantonale Belastungsobergrenzen, Mindestanteile der Bruttokosten, Direktauszahlung, Zahlstellenfunktion der Versicherer, Verrechnungsverbot, Gegenwartsbemessung und Vorschussverbot."
 tags: ["KVG", "Prämienverbilligung", "Bescheidene Verhältnisse", "Mittlere Einkommen", "Zahlstelle", "Gegenwartsbemessung", "Vorschussverbot", "Sozialversicherungsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-065.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Kommentar gemäss Benchmark-Standard; Auswertung der Leitentscheide BGE 149 I 172, BGE 145 I 26, BGE 136 I 220, BGE 147 V 369, BGE 124 V 19, BGE 122 I 343, BGer 9C_442/2019, 8C_345/2015, 8C_359/2019 sowie kantonaler Urteile (AG, LU, SG); Einarbeitung des KVG-Revisionsrechts per 1. Januar 2026 (indirekter Gegenvorschlag zur Prämien-Entlastungs-Initiative)."
 ---
 

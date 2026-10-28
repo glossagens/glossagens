@@ -5,17 +5,14 @@ date: 2026-06-12
 lastmod: 2026-09-15
 description: "Übersicht der Rechtsprechung zu Art. 25 ATSG: Leitentscheide des Bundesgerichts (BGE) und kantonale Urteile zu Rückerstattungspflicht, Wiedererwägungsvorbehalt, Erlassvoraussetzungen (guter Glaube und Härte), Verwirkungsfristen, strafrechtlicher Verjährung und Beitragsrückerstattung."
 tags: ["Rechtsprechung", "ATSG", "Rückerstattung", "Verwirkung", "Erlass", "Guter Glaube", "Grosse Härte", "Praxisänderung", "Zweiter Anlass"]
-agent_verified: false
 revisions:
   - date: 2026-09-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Erweiterung der Rechtsprechungssammlung: 11 Leitentscheide (BGE) und 9 weitere Urteile (BGer und kantonal), Volltexte und Erwägungen auf entscheidsuche.ch verlinkt, detaillierte Sachverhalte und Kernaussagen eingearbeitet."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

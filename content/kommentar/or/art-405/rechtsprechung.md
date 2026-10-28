@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 405 OR — Erlöschen des Auftrags bei Handlungsunfähigkeit, Konkurs, Tod und Verschollenerklärung; Fortführungspflicht"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Erlöschen", "Tod", "Konkurs", "Fortführungspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Ersterstellung der Rechtsprechungsübersicht; ZH OG LI170001 via entscheidsuche verifiziert"
 ---
 

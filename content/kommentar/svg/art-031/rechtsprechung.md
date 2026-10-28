@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: 2026-10-11
 description: "Übersicht der Entscheide zu Art. 31 SVG (Beherrschungsgrundsatz, Aufmerksamkeitspflicht, Ablenkung durch Mobiltelefone, Fahrunfähigkeit aus anderen Gründen)"
 tags: ["Rechtsprechung", "SVG", "Beherrschung des Fahrzeugs", "Ablenkung"]
-agent_verified: false
 revisions:
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_770/2025 (E. 2.3.4/2.3.5) — Sichtbarkeit allein begründet keine Sorgfaltspflichtverletzung; Fundstelle via entscheidsuche verifiziert."
   - date: 2026-08-08
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung; alle Entscheide via opencaselaw-MCP (cite/get_case_brief) verifiziert."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 65 VwVG: Befreiung von den Verfahrenskosten, Bestellung eines unentgeltlichen Rechtsbeistands, Berechnung der prozessualen Bedürftigkeit, Massstab der Nicht-Aussichtslosigkeit und Nachzahlungspflicht."
 tags: ["VwVG", "Verwaltungsverfahren", "Unentgeltliche Rechtspflege", "Rechtsbeistand", "Bedürftigkeit", "Aussichtslosigkeit", "Notbedarf"]
-agent_verified: true
 ---
 
 ### Gesetzeswortlaut

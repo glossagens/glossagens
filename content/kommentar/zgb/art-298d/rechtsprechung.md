@@ -5,12 +5,10 @@ date: 2026-09-10
 lastmod: 2026-09-10
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 298d ZGB: Neuregelung der elterlichen Sorge, Obhut und Betreuung bei unverheirateten Eltern sowie richterliche Kompetenzattraktion bei Unterhaltsstreitigkeiten."
 tags: ["Rechtsprechung", "ZGB", "Elterliche Sorge", "Obhut", "Alternierende Obhut", "KESB", "Kompetenzattraktion", "Kindeswohl"]
-agent_verified: false
 revisions:
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 298d ZGB mit 5 BGE-Leitentscheiden und weiteren Bundesgerichts- sowie kantonalen Entscheiden (SG, BE, BS), sämtlich im Volltext geprüft und auf entscheidsuche.ch verlinkt."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-07-10
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 189 StPO – Ergänzung und Verbesserung des Gutachtens"
 tags: ["Rechtsprechung", "StPO", "Gutachten", "Sachverständigenbeweis", "Zweitgutachten"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 35 %). Alle 19 Referenzen existieren und treffen thematisch zu. Drei Erwägungsangaben korrigiert: BGE 141 IV 369 E. 6 → E. 6.1 (der Entscheid kennt nur E. 6.1 und 6.2); BGer 6B_53/2017 E. 6.1 → E. 1.3; BGer 6B_1363/2019 E. 4.1 → E. 1.2.3 bzw. E. 1.2.5. Die im Audit als «unrelated» gemeldeten Belege sind überwiegend Auswertungsartefakte aus Aufzählungen."
 ---
 

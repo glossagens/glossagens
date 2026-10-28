@@ -16,12 +16,10 @@ normen:
   - { gesetz: zgb, art: art-714 }
   - { gesetz: zgb, art: art-974 }
 stichworte: ["Sachenrecht", "Eigentum", "Alleineigentum", "Miteigentum", "Gesamteigentum", "Stockwerkeigentum", "Fahrniseigentum", "Grundeigentum", "Kausalitätsprinzip", "Traditionsprinzip", "Eintragungsprinzip", "Besitzeskonstitut", "Besitzanweisung", "Vindikation", "actio negatoria", "gutgläubiger Erwerb", "Ersitzung"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Sachenrecht (Eigentum: Formen, Begründung und Übergang). Normtexte zu Art. 641, Art. 646, Art. 652, Art. 656, Art. 712a, Art. 714 und Art. 974 ZGB per {{< wortlaut >}} eingebunden. Alle 14 Leitentscheide als Volltext von entscheidsuche.ch geladen, Erwägungsnummern, Anker und wörtliche Zitate mechanisch verifiziert."
 ---
 

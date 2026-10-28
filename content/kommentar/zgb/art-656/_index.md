@@ -5,22 +5,18 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 656 ZGB — Erwerb des Grundeigentum: absolutes Eintragungsprinzip (Grundbuchprinzip), Trennung von Verpflichtungs- und Verfügungsgeschäft (Art. 657, Art. 216 OR), ausserbuchlicher Erwerb bei Erbgang, gerichtlichem Urteil, Zwangsvollstreckung und Enteignung (Abs. 2) sowie gutgläubiger Erwerb vom Nichtberechtigten (Art. 973 ZGB) mit Kasuistik zu natürlicher Publizität, Eintragungsfähigkeit, Formmangel und Sicherungsübereignung."
 tags: ["ZGB", "Sachenrecht", "Grundeigentum", "Eintragungsprinzip", "Grundbuchprinzip", "Publizitätsprinzip", "gutgläubiger Erwerb", "öffentliche Beurkundung", "ausserbuchlicher Erwerb", "Sicherungsübereignung", "Erbgang", "Zusprechung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-656.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Bereinigung der Zitat-Reihenfolge zur Vermeidung von Fehlzuordnungen unbepinnter Entscheide."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 3, 560, 655, 656, 657, 665, 662, 942, 963, 965, 971, 972, 973, 974 ZGB. 15 Entscheide via entscheidsuche.ch geprüft, davon 11 im Volltext abgerufen und ausgewertet (BGE 86 II 221, 98 II 191, 101 II 235, 102 II 197, 107 II 440, 109 II 99, 111 II 42, 116 II 267, 130 III 306, 135 III 585, 137 III 153; BGer 2C_469/2017, 4A_530/2016; LU KG 1B 15 53; ZH OG LB250006). Links verbatim aus document_url-Feldern übernommen."
 ---
 

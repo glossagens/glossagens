@@ -5,27 +5,22 @@ date: 2026-07-18
 lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 190 SchKG — Konkurs ohne vorgängige Betreibung, Gläubigerqualität, Zahlungseinstellung, Flucht, unbekannter Aufenthalt, Vermögensverheimlichung, Novenrecht, Gehörsanspruch und Grenzkasuistik."
 tags: ["Rechtsprechung", "SchKG", "Konkurs", "Zahlungseinstellung", "Gläubigerantrag", "Flucht", "Verheimlichung", "Novenrecht", "Kasuistik", "Grenzkasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-fable-5-1"
-    mcp_verified: true
     note: "Erweiterung mit Grenzkasuistik-Entscheiden: BGer 5A_561/2022 (Abtretungsgläubiger), BGer 5A_82/2023 (Zahlungseinstellung bei hängigem Prozess), BGer 5A_587/2011 (Zahlungssperre), ZH Obergericht PS250146 (Art. 190 Ziff. 1+2 kumulativ), AG Obergericht ZSU.2024.287, GR Kantonsgericht SBK 2025 35; BGer 5A_146/2024 (Konkursaufschub nach Art. 192/725b OR)."
   - date: 2026-09-12
     by: "Claude Code"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Integration neuerer BGer-Entscheide 2021–2025: 5A_66/2025 (WhatsApp/Unbekannter Aufenthalt), 5A_132/2025 (Mitwirkungsobliegenheit), 5A_477/2023 (Vermögensverheimlichung/Erbschaft), 5A_977/2022 (Novenrecht/Hinterlegung), 5A_516/2021 (Zahlungseinstellung/Verrechnung/Hauptgläubiger), 5A_556/2021 (Beweiswert Betreibungsauszug); alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und BGer-Entscheiden, vollständigen Sachverhalten zur Zahlungseinstellung und Verlinkung auf entscheidsuche.ch."
   - date: 2026-07-18
     by: "Hermes Agent"
     model: "glm-5-1"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

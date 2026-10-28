@@ -5,22 +5,18 @@ date: 2026-08-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 22a VwVG (SR 172.021): Fristenstillstand (Gerichtsferien) — Anwendungsbereich, Oster-, Sommer- und Weihnachtsferien, Ausnahmen."
 tags: ["VwVG", "Fristenstillstand", "Gerichtsferien", "Fristenlauf", "Verwaltungsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-022a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: Bundle war fälschlich als 'Art. 22' angelegt und referenziert, behandelte aber durchgehend Art. 22a VwVG (Fristenstillstand) -- Art. 22 VwVG regelt die Erstreckung von Fristen, ein völlig anderes Thema. Verzeichnis von art-022 nach art-022a umbenannt, alle Art.-22-Referenzen im Text auf Art. 22a korrigiert. Zusätzlich war der Gesetzestext von Abs. 2 lit. b veraltet/falsch (behauptete generische Ausschlussklausel statt der seit 1.1.2021 geltenden 'öffentliche Beschaffungen') -- auf aktuellen Fedlex-Wortlaut korrigiert."
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Neuerstellung VwVG Art. 22 (fälschlich betitelt; Inhalt betraf Art. 22a) — Gesetzestext via Fedlex MCP, Leitentscheide via OpenCaseLaw verifiziert."
 ---
 

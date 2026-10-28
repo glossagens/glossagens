@@ -5,27 +5,22 @@ date: 2026-07-17
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 29 VwVG: Anspruch auf rechtliches Gehör — Teilgehalte, formelle Natur, Heilung im Rechtsmittelverfahren, antizipierte Beweiswürdigung, Replikrecht und Kasuistik."
 tags: ["VwVG", "Rechtliches Gehör", "Gehörsanspruch", "Heilung", "Begründungspflicht", "Replikrecht", "antizipierte Beweiswürdigung", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-029.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 74 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Gehörsanspruchs, formelle Natur (BGE 142 II 218), Heilungsdoktrin (BGE 137 I 195; BGE 152 I 2), antizipierte Beweiswürdigung (BGE 144 II 427), bedingungsloses Replikrecht (BGE 144 III 117) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Korrekturen"
   - date: 2026-07-17
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau"
 ---
 

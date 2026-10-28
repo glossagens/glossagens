@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 214 SchKG: Anfechtung der Verrechnung, Vorteilsabsicht, spekulativer Forderungserwerb und Verhältnis zu Art. 285 ff. SchKG."
 tags: ["Rechtsprechung", "SchKG", "Verrechnung", "Anfechtung", "Zahlungsunfähigkeit", "Vorteilsabsicht", "Zession"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

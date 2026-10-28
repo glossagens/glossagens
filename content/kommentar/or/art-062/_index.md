@@ -5,27 +5,22 @@ date: 2026-07-31
 lastmod: 2026-08-18
 description: "Art. 62 OR normiert die condictio sine causa: Wer in ungerechtfertigter Weise aus dem Vermögen eines andern bereichert worden ist, hat die Bereicherung zurückzuerstatten."
 tags: ["OR", "ungerechtfertigte Bereicherung", "condictio sine causa", "Rückforderung", "Zuwendung", "Bereicherungsrecht"]
-agent_verified: false
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 54 % (Urteil B); 9 gestützt (+11 teilw.) von 27 beurteilten Paaren (43 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "6-Punkt-Verifikation: Gesetzestext geprüft (Fedlex SR 220 Art. 62 — korrekt). 8 OCL-Links HTTP 200. Attest: 42/42 Zitate OK, 0 case/statute-Issues. verify-claim: 4× no, 4× partial, 3× yes — Kontextzitate für no/partial ergänzt, E. 2-Pinpoint korrigiert (BGE 87 II 137). Kein rewrite nötig (< 75% unsupported)."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Supplement KW31 — 3 weitere Leitentscheide (BGE 129 III 646, 126 III 119, 129 III 422) via OCL verifiziert."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law, 7 Entscheide via OCL verifiziert."
 ---
 

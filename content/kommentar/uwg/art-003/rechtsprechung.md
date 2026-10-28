@@ -5,17 +5,14 @@ date: 2026-10-15
 lastmod: 2026-10-16
 description: "Übersicht der Entscheide zu Art. 3 UWG — unlautere Werbe- und Verkaufsmethoden: Leitentscheide des Bundesgerichts zu lit. a–e, h, o, p–r, u sowie ausgewählte kantonale Entscheide."
 tags: ["UWG", "Lauterkeitsrecht", "Rechtsprechung", "irreführende Angaben", "vergleichende Werbung", "Verkaufsmethoden"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Audit-Lauf (siehe Hauptkommentar); keine inhaltliche Änderung an dieser Übersicht erforderlich. Die Negativbefunde zu den Kernaussagen sind Judge-Artefakte (Regeste bei BGer-Entscheiden nur Schlagworte) und an den Volltexten nachgeprüft."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstübersicht. Entscheide über entscheidsuche.ch im Volltext gelesen; Links aus den document_url-Feldern. Maschineller Audit-Lauf wegen der opencaselaw-Sperre (HTTP 403) nicht möglich, daher mcp_verified: false."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-06-06
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 58 StGB: Einrichtungen für den Vollzug therapeutischer Massnahmen — Trennungsgebot (Abs. 2), Ausnahme nach Art. 59 Abs. 3 StGB und Anforderungen an den Massnahmevollzug in einer Strafanstalt."
 tags: ["StGB", "Sanktionenrecht", "Massnahmenvollzug", "Trennungsgebot", "Therapeutische Massnahme", "Strafvollzug", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung und Link-Korrektur: BGE 147 IV 259 (Untersuchungshaft in Strafvollzugsanstalt, Trennungsgebot), BGE 142 IV 1 (Vollzugsfrage, kleine Verwahrung), BGer 6B_708/2015 (JVA Pöschwies, Sachverhalt: Schändung, dissoziale Persönlichkeitsstörung, ROS-Abklärung), BGer 6B_625/2012 (Therapiestunde/Woche ungenügend, Sachverhalt: Raub, organische Persönlichkeitsstörung nach Unfall), BGE 134 IV 315 (altrechtliche Verwahrung, Behandlungschance), ZH Verwaltungsgericht VB.2014.00726 (kleine Verwahrung, triftige Gründe), ZH Verwaltungsgericht VB.2014.00135 (vorzeitiger Massnahmeantritt, fehlende Zustimmung); SG Gericht B 2009/65 entfernt (unverifizierbar); BGE 142 IV 105 korrekt zugeordnet (Art. 59 Abs. 4, nicht Art. 58 Abs. 2); alle Links durch entscheidsuche.ch ersetzt; Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und fiktiver Dossiernummern; 10 verifizierte Bundesgerichts- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

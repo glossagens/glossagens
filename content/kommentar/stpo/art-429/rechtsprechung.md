@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 429 StPO: Entschädigung und Genugtuung der beschuldigten Person, Anwaltskosten, wirtschaftliche Einbussen und Freiheitsentzug."
 tags: ["Rechtsprechung", "Entschädigung", "Genugtuung", "Verteidigungskosten", "Freiheitsentzug", "Wahlverteidigung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide des Bundesgerichts (BGE)

@@ -5,22 +5,18 @@ date: 2026-06-13
 lastmod: 2026-10-26
 description: "Kommentar zu Art. 99 BGG – Novenrecht vor Bundesgericht, unechte und echte Noven, Kognition des Bundesgerichts"
 tags: ["BGG", "Noven", "Beweismittel", "Kognition", "Beschwerde"]
-agent_verified: false
 revisions:
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Korrektur und Nachführung zu echten Noven im Strafrecht anhand von BGer 6B_403/2025 vom 16.09.2026: strikte Unzulässigkeit echter Noven auch im Strafrecht und bei Landesverweisungen (Art. 66a StGB); nachträgliche Tatsachen sind über das Revisionsverfahren (Art. 410 StPO) geltend zu machen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-099.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 

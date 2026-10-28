@@ -20,12 +20,10 @@ normen:
   - { gesetz: bv, art: art-013 }
   - { gesetz: bgg, art: art-083 }
 stichworte: ["Familienasyl", "Art. 51 AsylG", "Flüchtlingseigenschaft", "derivative Flüchtlingseigenschaft", "Einreisebewilligung", "Trennung durch Flucht", "Subjektive Nachfluchtgründe", "Art. 54 AsylG", "Asylunwürdigkeit", "Vorläufige Aufnahme", "Art. 85a AIG", "Dreijährige Wartefrist", "EGMR B.F. v. Switzerland", "Art. 8 EMRK", "Art. 23 Genfer Flüchtlingskonvention", "SEM", "Bundesverwaltungsgericht"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Familienasyl und Familienzusammenführung im Schutzbereich. Normtexte Art. 51, 53, 54 AsylG per {{< wortlaut >}} aus amtlicher Fedlex-Konsolidierung (scripts/wortlaut.py). Alle Leitentscheide (BVGE 2017 VI/4, BVGE 2015/40, BVGE 2020 VI/7, BVGE 2015/29, BVGE 2013/21 sowie BGE 145 II 105, BGE 139 I 330, BGE 141 I 49, BGE 147 I 268, BGE 149 I 66) geladen; Zitate und Erwägungsanker verifiziert; pruefen.py und build-check.sh fehlerfrei."
 ---
 

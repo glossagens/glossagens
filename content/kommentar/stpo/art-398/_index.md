@@ -5,22 +5,18 @@ date: "2026-08-30"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 398 StPO – Zulässigkeit und Berufungsgründe: Anfechtungsobjekte (Abs. 1), umfassende Kognition des Berufungsgerichts (Abs. 2), Berufungsgründe (Abs. 3), Kognitionsbeschränkung bei Übertretungen (Abs. 4) und Zivilpunkt (Abs. 5)."
 tags: ["StPO", "Berufung", "Kognition", "Berufungsgründe", "Sachverhaltsrüge", "Unangemessenheit", "Übertretungen", "Zivilpunkt", "Rechtsmittelverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-398.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-26 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-26"
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_154/2026 (Berufungskognition bei Übertretungen: willkürliche Beiseitelegung von Tatsachenfeststellungen als rechtliche Qualifikation); Gesetzestext via Fedlex, Zitat und Fundstelle via entscheidsuche verifiziert."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung zu Art. 398 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 

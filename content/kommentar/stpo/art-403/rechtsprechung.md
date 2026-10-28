@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 403 StPO – Nichteintreten auf die Berufung, schriftliches Vorprüfungsverfahren, rechtliches Gehör und Prozesshindernisse."
 tags: ["Rechtsprechung", "StPO", "Berufung", "Eintreten", "Nichteintreten", "schriftliches Verfahren", "rechtliches Gehör", "Prozesshindernisse"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 403 StPO mit 20 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 

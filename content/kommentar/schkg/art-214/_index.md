@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 214 SchKG: Anfechtung der Verrechnung im Konkurs — spekulativer Forderungserwerb, Kenntnis der Zahlungsunfähigkeit, Vorteilszuwendungsabsicht ohne Täuschungserfordernis (BGE 122 III 133), Verhältnis zur paulianischen Anfechtung (Art. 285 ff.) und Rechtsfolgen."
 tags: ["SchKG", "Verrechnung", "Anfechtung", "Zahlungsunfähigkeit", "Forderungserwerb", "Zession", "Gläubigerbegünstigung", "Beweislast"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der Verrechnungsanfechtung, Prüfschema, Abkehr vom Täuschungserfordernis gemäss Leitentscheid BGE 122 III 133, Kenntnis der Zahlungsunfähigkeit, Verhältnis zu Art. 287 Abs. 1 Ziff. 2 und Art. 288 SchKG (BGE 95 III 83, BGE 103 III 46), Rechtsfolgen (Barzahlung an die Masse) und Praxishinweise."
 ---
 

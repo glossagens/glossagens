@@ -4,17 +4,14 @@ weight: 134
 date: "2026-06-12"
 description: "Kommentar zu Art. 134 StPO: Widerruf und Wechsel der amtlichen Verteidigung bei Wegfall des Grundes oder gestörtem Vertrauensverhältnis"
 tags: ["StPO", "Widerruf", "Wechsel", "amtliche Verteidigung", "Offizialverteidiger", "Vertrauensverhältnis", "Zerrüttung", "Opferschutz"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-134.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung KW31 — BGer 6B_95/2026 (Verteidigerwechsel Art. 134 Abs. 2 StPO vs. Opferschutz/Beschleunigungsgebot) in rechtsprechung.md ergänzt; lastmod synchronisiert."
   - date: 2026-08-13
     by: "Hermes Agent"

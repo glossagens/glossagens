@@ -5,7 +5,6 @@ date: 2026-06-12
 lastmod: 2026-06-12
 description: "Übersicht der Entscheide zu Art. 38a GSchG – Revitalisierung von Fliessgewässern: strategische Planung, ökologische Aufwertung, Dringlichkeit"
 tags: ["Rechtsprechung", "GSchG", "Revitalisierung", "Fliessgewässer", "Renaturierung", "Ökologischer Zustand"]
-agent_verified: false
 ---
 
 ## Revitalisierungspflicht und strategische Planung

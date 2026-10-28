@@ -22,12 +22,10 @@ normen:
   - { gesetz: zpo, art: art-114 }
   - { gesetz: zpo, art: art-243 }
 stichworte: ["missbräuchliche Kündigung", "fristlose Entlassung", "Kündigung zur Unzeit", "Sperrfrist", "Entschädigung", "Einsprache", "Rachekündigung", "Arbeitslosenentschädigung", "Kündigungsschutz"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung (Pilotthema, Querschnitt OR/Personalrecht/ALV) nach Skill glossagens-themen. Normtexte OR, AVIG, ZPO per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py); Art. 10 GlG, Art. 34b/34c BPG und Art. 44 AVIV über die Fedlex-MCP geprüft und nur sinngemäss wiedergegeben. 16 Entscheide als Volltext von entscheidsuche.ch geladen; Erwägungen, Anker und wörtliche Zitate abgeglichen (pruefen.py). Bei französischsprachigen Entscheiden wird nur aus der deutschen Regeste zitiert."
 ---
 

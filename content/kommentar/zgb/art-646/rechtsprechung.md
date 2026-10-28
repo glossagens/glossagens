@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 646 ZGB — Grundnorm des Miteigentums: Bruchteilseigentum und Quote, Selbständigkeit des Anteils (Veräusserung, Verpfändung, Pfändung), Verwaltung/Verfügung (Art. 647/648), Lasten und Ausgleich (Art. 649), Aufhebung/Teilung (Art. 650/651), gesetzliches Vorkaufsrecht (Art. 682), Miteigentümer-Klage und dinglicher Charakter der Teilungsklage."
 tags: ["Rechtsprechung", "ZGB", "Miteigentum", "Bruchteil", "Quote", "Aufhebung", "Teilung", "Vorkaufsrecht", "Ausgleich", "Eigentumsfreiheitsklage"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 6 im Volltext abgerufen (BGE 80 II 369, 95 II 397, 98 II 341, 101 II 235, 130 III 306; BGer 5A_174/2015; ZH OG LB230022; ZH OG LB120088, ZH HG HG220143, GR KG ZK1 2019 144 via Such-Snippets/Vorarbeiten). Links verbatim aus document_url-Feldern übernommen."
 ---
 

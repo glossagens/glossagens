@@ -5,12 +5,10 @@ date: 2026-05-22
 lastmod: "2026-08-29"
 description: "Übersicht der massgeblichen Entscheide zu Art. 25a RPG — Grundsätze der Koordination"
 tags: ["Rechtsprechung", "RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Nutzungsplan"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, Fallbeispiele ergänzt, Revisions-Vermerk hinzugefügt"
 ---
 

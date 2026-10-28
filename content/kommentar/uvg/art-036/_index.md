@@ -5,17 +5,14 @@ date: 2026-07-17
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 36 UVG: Zusammentreffen verschiedener Schadensursachen; Kürzung von Renten bei teilweise unfallbedingter Gesundheitsschädigung; Vorzustände; status quo sine vel ante; Abgrenzung zu Art. 6 UVG; Beweislast für das Dahinfallen der Kausalität."
 tags: ["UVG", "Unfallversicherung", "Kausalzusammenhang", "Vorzustand", "Status quo sine", "Invalidenrente", "Integritätsentschädigung", "Kürzung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.20 vom 2026-01-01 (data/wortlaut/uvg/art-036.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 86 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikationslauf gegen entscheidsuche.ch und Fedlex. ENTFERNT: der Abschnitt «Abgrenzung zu OAI/KVG (Einkommensvergleich)» samt der ihm zugeschriebenen Aussage — BGer 8C_277/2026 ist ein einzelrichterlicher Nichteintretensentscheid vom 28. Juli 2026 (nicht 14. August) betreffend Ergaenzungsleistungen zur AHV/IV und hat mit Art. 36 UVG, dem Einkommensvergleich und dem UVG ueberhaupt nichts zu tun; zudem bezeichnete der Abschnitt «OAI» (= franzoesisch/italienisch fuer die IVV) faelschlich als Krankenversicherung. KORRIGIERT: die Kasuistik zu BGer 8C_17/2026 gab das Ergebnis in sein Gegenteil verkehrt (angeblich rechtmaessige Leistungseinstellung — tatsaechlich hat das Bundesgericht die Beschwerde gutgeheissen, den kantonalen Entscheid und den Einspracheentscheid der Suva aufgehoben und zurueckgewiesen); Sachverhalt neu aus dem Volltext. KORRIGIERT: Zuschreibung von BGE 148 V 356 (betrifft die Adaequanz eines zweiten, nicht versicherten Folgeunfalls; die allgemeine Kausalitaetsformel steht in BGE 146 V 51 E. 5.1). Fehlerhafte Geschaeftsnummer «8C 816/2009» und fehlerhafter Fedlex-Link auf Art. 10 UVG berichtigt. Erstmals Revisionsvermerk gesetzt — der Artikel trug agent_verified: true ohne jeden revisions-Eintrag. Gesetzeswortlaut gegen Fedlex (SR 832.20, Stand 1. Januar 2026) geprueft: korrekt."
 ---
 

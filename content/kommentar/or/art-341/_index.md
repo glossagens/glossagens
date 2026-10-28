@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 341 OR: Unabdingbarkeit und Verjährung — Verzichtssperre während des Arbeitsverhältnisses und eines Monats danach, Aufhebungsverträge, Saldoklauseln und Verjährungsregeln."
 tags: ["OR", "Arbeitsrecht", "Unabdingbarkeit", "Verzichtssperre", "Verjährung", "Aufhebungsvertrag", "Saldoklausel"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-341.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Sämtliche Zitate und Kernaussagen über OpenCaseLaw verifiziert (Belegquote ≥ 80 %, Urteil A)."
 ---
 

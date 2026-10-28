@@ -5,17 +5,14 @@ date: 2026-05-17
 lastmod: "2026-08-12"
 description: "Kommentar zu Art. 16 BV — Meinungs- und Informationsfreiheit: Meinungsbildung, Meinungsaeusserung, Informationsfreiheit, Zensurverbot und Verhaeltnis zur Versammlungsfreiheit."
 tags: ["BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit", "Grundrechte"]
-agent_verified: false
 revisions:
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 71 %, Urteil B — bester Ausgangswert der BV-Kampagne): Keine erfundene Referenz. Vier tote Pinpoints korrigiert (durchwegs Abschnittszeiger statt Erwägung), mehrere Aussagen an den Wortlaut der Erwägung angeglichen. Erstmals revisions-Block gesetzt; agent_verified von true auf false."
   - date: 2026-06-20
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Übersicht der massgeblichen Entscheide zu Art. 16a SVG (leichte Widerhandlung, Verwarnung, Rückfallentzug, besonders leichte Fälle)"
 tags: ["Rechtsprechung", "SVG", "Führerausweisentzug", "leichte Widerhandlung", "Verwarnung"]
-agent_verified: true
 revisions:
   - date: 2026-08-08
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung — Regesten via OCL cite verifiziert (BGE 135 II 138, BGE 132 II 234, BGE 136 II 447, BGE 139 II 95, BGE 141 II 220, BGE 150 II 505)."
 ---
 

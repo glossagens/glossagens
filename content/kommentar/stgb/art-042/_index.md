@@ -5,32 +5,26 @@ date: 2026-08-07
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 42 StGB: Regelaufschub bei Geld- und Freiheitsstrafen bis zu zwei Jahren, Legalprognose, verschärfte Voraussetzungen bei Vorstrafen, Schadenbehebung und Verbindungsbusse."
 tags: ["StGB", "Sanktionenrecht", "Bedingter Strafvollzug", "Legalprognose", "Verbindungsbusse", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-042.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar (Referenzmuster Art. 110 StPO / Art. 336 OR): Merkmalskatalog, Tatbestandsanalysen A–E, Kasuistiktabelle (angewandt vs. verworfen), Judikaturkontroversen, kantonale Praxisfragen und Praxishinweise für Verteidigung, Anklage und Gerichte."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte Zitate entfernt (BGE 140 IV 150, BGer 6B_776/2016, BGer 6B_1056/2016); dubiose kantonale Zitate entfernt; BGE 149 IV 321 (Verbindungsbusse, 20%-Obergrenze), BGE 128 IV 193 (Prognose, Alkoholabstinenz) ergänzt; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

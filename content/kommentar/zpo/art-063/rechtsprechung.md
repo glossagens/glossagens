@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 63 ZPO — Rückdatierung der Rechtshängigkeit, Erfordernis der identischen Rechtsschrift, Fristbeginn, Schlichtungsgesuch."
 tags: ["Rechtsprechung", "ZPO", "Rechtshängigkeit", "Zuständigkeit", "Verfahrensart", "Neueinreichung"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 43 %, Urteil C, 0 von 15 Paaren der Rechtsprechungsübersicht gestützt): Belegapparat verworfen; jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 40 % (Urteil C); 11 von 41 Paaren gestützt; 19 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

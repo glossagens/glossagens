@@ -5,12 +5,10 @@ date: 2026-09-12
 lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 17 SchKG – Beschwerde an die Aufsichtsbehörde"
 tags: ["Rechtsprechung", "SchKG", "Aufsichtsbeschwerde"]
-agent_verified: false
 revisions:
   - date: 2026-09-12
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme von 14 verifizierten Leit- und kantonalen Entscheiden zu Art. 17 SchKG mit Volltext-Verlinkung auf entscheidsuche.ch"
 ---
 

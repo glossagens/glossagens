@@ -5,7 +5,6 @@ date: 2026-10-20
 lastmod: 2026-10-20
 description: "Übersicht der massgebenden Leitentscheide und weiteren Urteile zu Art. 63 VwVG: Kostenvorschuss (Abs. 4), UMA-Privilegierung (BGE 144 II 56), SYMIC-Schranke (BGer 1C_764/2025), Ausschluss einer Nachfrist, Unterliegerprinzip und Behördenprivileg."
 tags: ["Rechtsprechung", "VwVG", "Verfahrenskosten", "Kostenvorschuss", "UMA", "Nachfrist", "Behördenprivileg"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

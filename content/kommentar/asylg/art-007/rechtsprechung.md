@@ -5,7 +5,6 @@ date: 2026-06-06
 lastmod: 2026-06-06
 description: "Übersicht der Entscheide zu Art. 7 AsylG – Zuständigkeit für die Durchführung des Asylverfahrens"
 tags: ["Rechtsprechung", "AsylG", "Zuständigkeit", "Asylverfahren", "SEM"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 7 AsylG — Zuständigkeit für das Asylverfahren](./)

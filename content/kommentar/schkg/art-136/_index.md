@@ -5,17 +5,14 @@ date: 2026-09-12
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 136 SchKG: Barzahlung, Zahlungstermin (max. 6 Monate), Steigerungsbedingungen, Bank-Zahlungsversprechen, Check-Zahlung, Anwendung auf Freihandverkauf und Pfandverwertung."
 tags: ["SchKG", "Versteigerung", "Steigerung", "Zahlungsmodalitäten", "Barzahlung", "Zahlungstermin", "Bankgarantie", "Check", "Grundpfandrecht", "VZG"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-136.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Claude Code"
     model: "nemotron-3-ultra"
-    mcp_verified: true
     note: "Erstkommentar zu Art. 136 SchKG mit Gesetzeswortlaut (Fedlex), führender BGE-Rechtsprechung (BGE 91 III 66, 112 III 23, 128 III 468, 128 III 104) und Praxis-Hinweisen; Querverweise zu Art. 135, 137, 143 SchKG, Art. 45-47 VZG, Art. 63 VZG."
 ---
 

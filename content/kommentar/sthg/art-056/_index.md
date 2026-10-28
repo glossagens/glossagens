@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 56 StHG (SR 642.14) — Vollendete und versuchte Steuerhinterziehung, subjektiver Tatbestand (Eventualvorsatz und Fahrlässigkeit), straflose Selbstanzeige, Teilnahme- und Vertreterhaftung, Bussenbemessung."
 tags: ["StHG", "Steuerhinterziehung", "Steuerstrafrecht", "Selbstanzeige", "Eventualvorsatz", "Fahrlässigkeit", "Bussenbemessung", "Vertreterhaftung", "Solidarhaftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende und praxisorientierte Kommentierung von Art. 56 StHG mit Prüfschema, Grenzkasuistik, Schwellenwerten, Botschaftsmaterialien, kantonalen Praxisfragen und Rollenhinweisen."
 ---
 

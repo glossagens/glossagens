@@ -5,12 +5,10 @@ date: 2026-10-22
 lastmod: 2026-10-22
 description: "Kommentar zu Art. 271 SchKG: Die gesetzlichen Arrestgründe — Gläubigerberechtigung, Ausländerarrest, Binnenbeziehung, definitiver Rechtsöffnungstitel, Lugano-Exequatur und Fälligkeit."
 tags: ["SchKG", "Arrest", "Arrestgründe", "Ausländerarrest", "Binnenbeziehung", "Rechtsöffnungstitel", "Lugano-Übereinkommen"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung nach dem Glossagens-Standard: Systematische Aufbereitung aller Arrestgründe (Ziff. 1-6), Materialien (BBl 1991 III 1, BBl 2009 1777), Judikatur zu Binnenbeziehung, Lugano-Exequatur und schweizweitem Vollstreckungsraum."
 ---
 

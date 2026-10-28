@@ -5,22 +5,18 @@ date: 2026-08-08
 lastmod: "2026-09-05"
 description: "Kommentar zu Art. 222 StGB: Fahrlässige Verursachung einer Feuersbrunst — Begriff der Feuersbrunst, Gemeingefahr, Fremdschädigung, Qualifikation bei Gefährdung von Leib und Leben und Abgrenzung zur vorsätzlichen Brandstiftung."
 tags: ["StGB", "Feuersbrunst", "Brandstiftung", "Fahrlässigkeit", "Gemeingefahr", "Fremdschädigung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; BGE 117 IV 285 (Leitentscheid Feuersbrunstbegriff), BGE 105 IV 127 (Feuersbrunst in Strafanstalt, Gemeingefahr), BGE 85 IV 224 (Feuersbrunstbegriff, Versicherter), BGE 148 IV 247 (Gemeingefahr Repräsentationstheorie) aufgenommen; LU Obergericht OG 1994 59 (Radarkasten) verifiziert; unverifizierbare kantonale Zitate (GR SK2 2010 23) entfernt; Gesetzeswortlaut → Fedlex verifiziert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: 14 halluzinierte BGE-Zitate und fremde Deliktsbezüge vollständig entfernt; echter Gesetzeswortlaut und 10 verifizierte Entscheide via Fedlex und OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-10-14
 lastmod: 2026-10-14
 description: "Übersicht der Rechtsprechung zu Art. 261bis StGB — Diskriminierung und Aufruf zu Hass wegen Rasse, Ethnie, Religion oder sexueller Orientierung: Leitentscheide des Bundesgerichts sowie kantonale Gerichtsentscheide mit Sachverhalten und Erwägungen."
 tags: ["Rechtsprechung", "StGB", "Rassendiskriminierung", "Diskriminierung und Aufruf zu Hass", "Öffentlichkeit", "Menschenwürde", "Sexuelle Orientierung", "Hitlergruss", "Leistungsverweigerung"]
-agent_verified: true
 revisions:
   - date: 2026-10-14
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Aufnahme von BGer 6B_624/2025 vom 29. September 2026 (Fünferbesetzung): WhatsApp-Gruppen als öffentlicher Raum, Rechtfertigung der Shoah («they deserved it»), Ausschluss des Provokations- und Scherzeinwands sowie verfassungsrechtliche Stufenfolge der Urteilsbegründung (Art. 112 Abs. 3 BGG)."
   - date: 2026-10-14
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Erstanlage der Rechtsprechungsübersicht zu Art. 261bis StGB. Sämtliche Entscheide im Volltext über entscheidsuche.ch gesichtet und mit Original-URLs verlinkt. Kernaussagen und Sachverhalte verbatim auf die massgeblichen Erwägungen abgestützt."
 ---
 

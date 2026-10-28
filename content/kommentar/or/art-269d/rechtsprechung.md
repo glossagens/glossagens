@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Übersicht der Leitentscheide und weiteren Gerichtsentscheide zu Art. 269d OR: Formularpflicht, Begründungsanforderungen, einseitige Vertragsänderungen, relative Empfangstheorie und Revision 2025."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Formularpflicht", "Mietzinserhöhung", "Vertragsänderung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

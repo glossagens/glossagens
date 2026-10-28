@@ -5,22 +5,18 @@ date: 2026-07-18
 lastmod: 2026-09-09
 description: "Übersicht der Rechtsprechung zu Art. 222 ZPO — Klageantwort, substanziierte Bestreitungslast (BGE 144 III 519 vs. 4A_443/2017), Bestreiten mit Nichtwissen (BGer 4A_489/2024), Fristansetzung vor Kostenvorschuss (BGE 140 III 159), Widerklage (BGE 146 III 413) und Säumnisfolgen (BGE 138 III 483)."
 tags: ["Rechtsprechung", "ZPO", "Klageantwort", "Bestreitungslast", "Substanziierung", "Bestreiten mit Nichtwissen", "Widerklage", "Säumnis", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht auf 18 strukturierte Leit- und Kantonalentscheide mit plastischen Sachverhalten, Kernaussagen und verifizierten Links auf entscheidsuche.ch."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und Kantonalentscheiden, vollständigen Sachverhalten zur Bestreitungslast und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 12 %, Urteil C)"
 ---
 

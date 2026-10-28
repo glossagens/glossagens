@@ -5,17 +5,14 @@ date: 2026-09-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 32d USG (LPAmb): Verursacherprinzip bei Untersuchung, Überwachung und Sanierung belasteter Standorte, Kostenverteilung zwischen Verhaltens- und Zustandsstörern, Ausfallhaftung des Gemeinwesens und unechte Rückwirkung."
 tags: ["USG", "Umweltrecht", "Altlasten", "Kostenverteilung", "Verursacherprinzip", "Verhaltensstörer", "Zustandsstörer", "Sanierung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 814.01 vom 2026-08-01 (data/wortlaut/usg/art-032d.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 32d USG mit BGE 144 II 332, BGE 139 II 106 sowie Einarbeitung von BGer 1C_589/2025 (Verhaltensstörerhaftung bei bewilligter Deponie und unechte Rückwirkung)."
 ---
 

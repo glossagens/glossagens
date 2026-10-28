@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 83 BGG: Der exhaustive Negativkatalog zur Beschwerde in öffentlich-rechtlichen Angelegenheiten — Grundsatz der Einheit des Verfahrens, Grenzen der Star-Praxis bei Vorinstanzen, Schwellenwerte und Grundsatzfragen bei Beschaffungen, Disziplinarmassnahmen im öffentlichen Dienstrecht, Noten- vs. Organisationsentscheide bei Prüfungen sowie aktuelle Kasuistik zum Asyl- und Ausländerrecht (inkl. BGer 2C_395/2026 zum Schutzstatus S)."
 tags: ["BGG", "Bundesgericht", "Beschwerdeunzulässigkeit", "Ausnahmekatalog", "Einheit des Verfahrens", "Star-Praxis", "Rechtsverweigerung", "Öffentliche Beschaffungen", "Öffentlich-rechtliche Arbeitsverhältnisse", "Prüfungsentscheide", "Ausländerrecht", "Asylrecht", "Status S"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-083.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-23 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-23
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar: Einarbeitung des Fünfrichterurteils BGer 2C_395/2026 vom 10.09.2026 (Status S, Einheit des Verfahrens bei Revisionsentscheid und Kostenvorschuss, Ausschluss von Art. 94 BGG, Schranken der Star-Praxis bei BVGer-Entscheiden und Weiterleitung an Verwaltungskommission nach Art. 30 Abs. 2 BGG analog). Narrative Sachverhalte zu direkter Anwendung und Verwerfung von Art. 83 BGG (BGer 1C_277/2023, BGE 145 II 168, BGE 144 I 266, BGE 137 II 345, BGE 141 II 14, BGE 146 II 276, BGE 138 I 143, BGE 142 I 135, BGE 147 I 73, BGE 136 I 229). Schichten-Prüfschema, Vergleichstabellen ohne Code-Fences, kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 

@@ -5,27 +5,22 @@ date: 2026-07-17
 lastmod: "2026-08-30"
 description: "Kommentar zu Art. 134 StGB: Angriff — Beteiligung an einem tätlichen Gruppenangriff mit Todes- oder Verletzungsfolge, Abgrenzung zum Raufhandel (Art. 133), Mittäterschaft und Konkurrenzen."
 tags: ["StGB", "Angriff", "Raufhandel", "Körperverletzung", "Mittäterschaft", "Gefährdungsdelikt", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung: BGE 135 IV 152 (zweierlei Angriff auf wehrloses Opfer, Konkurrenz bei einfacher KV vs. weitergehender Gefährdung), BGE 118 IV 227 (Rache-Überfall auf Inder am Zürcher Central, Mittäterschaft und Exzess), BGE 141 IV 454 (Raufhandel und Geschädigteneigenschaft); alle Zitate via entscheidsuche.ch verifiziert"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte Zitate entfernt; dubiose kantonale Zitate entfernt; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Gesetzeswortlaut-Überschrift und Ergänzung auf 10 verifizierte BGE- und Obergerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

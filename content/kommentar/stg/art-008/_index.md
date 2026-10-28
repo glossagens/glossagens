@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Kommentar zu Art. 8 StG: Bemessungsgrundlage der Emissionsabgabe auf Beteiligungsrechten, Nennwertprinzip, Zuzahlungen, Umwandlung von Partizipationskapital und Mantelhandel (Abs. 1 lit. c)."
 tags: ["StG", "Stempelabgabe", "Emissionsabgabe", "Bemessungsgrundlage", "Mantelhandel", "Nennwert", "Beteiligungsrechte", "Steuerrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung zu Art. 8 StG im Stil des Onlinekommentars; Einarbeitung des 5er-Besetzungs-Grundsatzurteils BGer 9C_232/2026 (Mantelhandel bei Verlustvorträgen / Nennwert als Mindestbemessungsgrundlage)."
 ---
 

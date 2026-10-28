@@ -5,7 +5,6 @@ date: 2026-07-11
 lastmod: 2026-07-11
 description: "Übersicht der Entscheide zu Art. 326 StPO: Weitere Angaben und Anträge der Staatsanwaltschaft an das Gericht."
 tags: ["Rechtsprechung", "StPO", "Anklageerhebung", "Sanktionsantrag", "Schlussbericht"]
-agent_verified: false
 ---
 
 ## Bundesgerichtsentscheide (nicht publiziert)

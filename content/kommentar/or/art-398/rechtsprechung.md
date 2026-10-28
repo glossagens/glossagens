@@ -5,17 +5,14 @@ date: 2026-09-05
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 398 OR — Leitentscheide des Bundesgerichts sowie weitere Bundesgerichts- und kantonale Entscheide zu Sorgfaltsmassstab, getreuer Ausführung, Treuhand- und Fachhaftung, persönlicher Besorgung und Gefälligkeiten."
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 4A_93/2026 vom 17.08.2026 (Treuhandhaftung bei MWST-Falschberatung) unter II. Weitere Entscheide; Systematisierung der Rechtsprechungsübersicht in Leitentscheide (mind. 5 BGEs) und weitere Entscheide (BGer und kantonale Obergerichte) mit Sachverhalts- und Kernaussagen-Abstracts gemäss Leitfaden-Standard."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neu erstellt; Entscheide via entscheidsuche verifiziert und verlinkt"
 ---
 

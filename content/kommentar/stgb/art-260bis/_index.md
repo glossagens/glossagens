@@ -5,17 +5,14 @@ date: 2025-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 260bis StGB: Strafbare Vorbereitungshandlungen — planmässige konkrete Vorkehrungen (technisch/organisatorisch), Katalog der Zieltat (lit. a–j), Rücktritt (Abs. 2), Auslandsbezug (Abs. 3) — mit zweiseitiger Grenzkasuistik zu Planmässigkeit, psychologischer Schwelle, Rücktritt aus eigenem Antrieb und Konkurrenz."
 tags: ["StGB", "Vorbereitungshandlung", "planmässig", "Rücktritt", "Konkurrenz", "Besonderer Teil", "Raub", "Mord", "Brandstiftung", "Geiselnahme"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-260bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity"
     model: "Gemini 3.6 Flash (Medium)"
-    mcp_verified: true
     note: "Audit Stufen 0-6: Gesetzeswortlaut zu 100% verifiziert gegen Fedlex (SR 311.0); sämtliche Entscheide im Volltext gegen entscheidsuche.ch geprüft; fehlerhafte URL zu 6B_1317/2022 korrigiert; alle unverlinkten Zitate im Fliesstext hyperlinked."
 ---
 

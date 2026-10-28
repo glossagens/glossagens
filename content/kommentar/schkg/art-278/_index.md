@@ -5,12 +5,10 @@ date: 2026-10-22
 lastmod: 2026-10-22
 description: "Kommentar zu Art. 278 SchKG: Einsprache gegen den Arrestbefehl — Legitimation des Schuldners und Dritter, Fristen, kontradiktorisches Verfahren, Novenrecht im Beschwerdeverfahren und Fehlen der aufschiebenden Wirkung."
 tags: ["SchKG", "Arrest", "Arresteinsprache", "Rechtsmittel", "Novenrecht", "ZPO", "Beschwerde"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung nach dem Glossagens-Standard: Systematische Aufbereitung der Arresteinsprache, Gehörsgewährung, Abgrenzung zum Widerspruchsverfahren, Spezialregelung des Novenrechts (BGE 145 III 324) und Rechtsmittel nach ZPO (BBl 2009 1777)."
 ---
 

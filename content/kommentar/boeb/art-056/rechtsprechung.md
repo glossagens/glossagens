@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 56 BöB (Beschwerdefrist, Ausschluss des Fristenstillstands, Kognitionsbeschränkung und Beschwerdelegitimation)."
 tags: ["Rechtsprechung", "BöB", "Rechtsschutz", "Beschwerdefrist", "Beschwerdelegitimation", "reelle Chance", "doppeltes Rügeerfordernis", "Angemessenheitsprüfung", "Freihändiges Verfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht zu Art. 56 BöB mit 12 verifizierten Bundesgerichts-, Bundesverwaltungsgerichts- und kantonalen Entscheiden auf Basis amtlicher Volltexte."
 ---
 

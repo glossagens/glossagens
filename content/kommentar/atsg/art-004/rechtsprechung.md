@@ -5,12 +5,10 @@ date: 2026-09-25
 lastmod: 2026-09-25
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 4 ATSG: Unfallbegriff, Plötzlichkeit, Unabsichtlichkeit, äusserer Faktor, Ungewöhnlichkeit, Kauschäden, Sportverletzungen, Schreckereignisse und Kausalität."
 tags: ["Rechtsprechung", "ATSG", "Unfallbegriff", "Ungewöhnlicher äusserer Faktor", "Plötzlichkeit", "Kauschaden", "Programmwidrigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht mit 18 im Volltext verifizierten Leitentscheiden und kantonalen Urteilen nach dem Praxiskommentar-Standard, durchgehend verlinkt auf entscheidsuche.ch."
 ---
 

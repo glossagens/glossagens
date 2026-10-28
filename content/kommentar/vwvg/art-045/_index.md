@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 45 VwVG – Anfechtbare Zwischenverfügungen über Zuständigkeit und Ausstand"
 tags: ["VwVG", "Zwischenverfügung", "Zuständigkeit", "Ausstand", "Verwaltungsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-045.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B 50% -> A 88%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. Zitat 'BGE 132 V 093' war ein Formatfehler (führende Null) und wurde vom Parser als fabriziert markiert -- auf 'BGE 132 V 93' korrigiert. 'Art. 45 Abs. 2 lit. g VwVG' war eine fabrizierte Gliederung (Art. 45 VwVG hat nur zwei Absätze ohne Buchstaben) -- entfernt. BGE 124 V 82 Kernaussage war falsch charakterisiert (angebliche 'Abgrenzung Zwischenverfügung/Endentscheid'), tatsächlich zu aufschiebender Wirkung/bundesrechtlicher Grundlage kantonaler Zwischenentscheide -- korrigiert. Tippfehler korrigiert ('verwährt' -> 'verwirkt')."
 ---
 

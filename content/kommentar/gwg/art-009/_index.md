@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxisorientierter Gesetzeskommentar zu Art. 9 GwG: Meldepflicht an die MROS, Legaldefinition des begründeten Verdachts, Abgrenzung zum Melderecht (Art. 305ter Abs. 2 StGB), Gatekeeper-Revision 2026, Anwaltsgeheimnis, Kasuistik, Zivilhaftungsausschluss und Strafbestimmungen."
 tags: ["GwG", "Meldepflicht", "MROS", "Begründeter Verdacht", "Geldwäscherei", "Compliance", "Haftungsausschluss", "Anwaltsgeheimnis", "Berufsverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige, praxisorientierte Erstkommentierung zu Art. 9 GwG einschliesslich der Revision 2026 (Gatekeeper/Beraterinnen und Berater) und Auswertung der bundesgerichtlichen sowie kantonalen Rechtsprechung"
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 53 StHG (SR 642.14) — Ordentliche Nachsteuer, neue Tatsachen und Beweismittel, Abgrenzung zur ungenügenden Bewertung, Verjährungsfristen (10/15 Jahre) und Trennung vom Steuerstrafverfahren (Art. 6 EMRK)."
 tags: ["Rechtsprechung", "StHG", "Nachsteuer", "neue Tatsachen", "Verjährung", "Verwirkungsfrist", "Bewertungsmangel", "EMRK"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 53 StHG mit 12 geprüften Leitentscheiden und kantonalen Urteilen. URLs via entscheidsuche.ch verifiziert."
 ---
 

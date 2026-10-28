@@ -14,12 +14,10 @@ normen:
   - { gesetz: aig, art: art-083 }
   - { gesetz: stgb, art: art-066d }
 stichworte: ["Non-Refoulement", "Rückschiebungsverbot", "Folterverbot", "Flüchtlingskonvention", "Art. 33 FK", "Art. 3 EMRK", "Art. 3 FoK", "real risk", "Kettenrückschiebung", "Landesverweisung", "Vollzugshindernis", "Souveränitätsklausel", "diplomatische Garantien"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas gemäss Typ-Gerüst grundlage. Normtexte Art. 25 BV und Art. 5 AsylG per {{< wortlaut >}} eingebunden. Sämtliche Entscheide im Volltext über entscheidsuche.ch und BVGE-PDF verifiziert; Erwägungsnummern, Anker und wörtliche Zitate mit pruefen.py mechanisch validiert."
 ---
 

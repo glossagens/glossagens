@@ -5,22 +5,18 @@ date: 2026-05-31
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 29a BV – Rechtsweggarantie"
 tags: ["BV", "Rechtsweggarantie", "Justizgewährung", "gerichtliche Behörde"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-029a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 39 %, Urteil C): Keine erfundene Referenz — alle 14 Entscheide existieren. Hauptbefund: Fast alle Pinpoints stammten aus den Regeste-Verweisen «(E. N)» und liessen die Belegprüfung scheitern, obwohl die Aussagen zutreffen. Nach Entfernen der Pinpoints 39 % → 72 %. Zwei tote Pinpoints (BGE 136 I 229 E. 4, BGE 139 I 206 E. 4), drei Fehlzuordnungen bereinigt. Erstmals revisions-Block; agent_verified von true auf false."
   - date: 2026-06-06
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 

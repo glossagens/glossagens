@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 287 SchKG: Überschuldungsanfechtung (Deckungspauliana), inkongruente Deckung, unübliche Zahlungsmittel (Datio in solutum), Tilgung nicht verfallener Schulden und Gutglaubensnachweis (Abs. 2)."
 tags: ["SchKG", "Überschuldungsanfechtung", "Deckungsanfechtung", "inkongruente Deckung", "unübliche Zahlungsmittel", "Sicherheiten", "Gutglaubensnachweis"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der drei Tatbestandsvarianten von Abs. 1 (inkongruente Sicherheiten, unübliche Zahlungsmittel, vorzeitige Tilgung), BBl-Materialien (1991 III 1), Begriff der Überschuldung, Gutglaubensbeweis des Begünstigten (Abs. 2), Finanzmarktausnahme (Abs. 3), Gegenüberstellung zulässiger vs. anfechtbarer Deckungen, kantonale Rechtsprechung (u.a. KGer BL 2025 zur Staatshaftung der Konkursverwaltung bei Unterlassung der Überschuldungspauliana) und Praxishinweise."
 ---
 

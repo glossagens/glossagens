@@ -5,22 +5,18 @@ date: 2026-07-24
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 25a KVG — Pflegefinanzierung, Restfinanzierung der Pflegekosten, Wirtschaftlichkeitsgebot, kantonaler Ermessenspielraum, Hauspflege durch Angehörige"
 tags: ["KVG", "Krankenversicherung", "Pflegefinanzierung", "Restfinanzierung", "Spitex"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 832.10 vom 2026-07-01 (data/wortlaut/kvg/art-025a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 7 weitere BGer-Entscheide zu KVG Art. 25a hinzugefügt (Pflegeleistungen, Hauspflege, Grund- vs. Behandlungspflege, Restfinanzierung, interkantonale Zuständigkeit)"
   - date: 2026-07-24
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuanlage — Fokusentscheid BGer 9C_710/2025 (5er-Besetzung, zur Publikation vorgesehen); Gesetzestext und alle Entscheide via opencaselaw-MCP (get_law, cite, get_case_brief) verifiziert"
 ---
 

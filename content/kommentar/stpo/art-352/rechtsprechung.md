@@ -5,12 +5,10 @@ date: "2026-06-27"
 lastmod: "2026-08-29"
 description: "Übersicht der Rechtsprechung zu Art. 352 StPO – Voraussetzungen des Strafbefehlsverfahrens: Strafbefehlskompetenz, Strafgrenzen, Verbindungsbusse, Ausschluss der Landesverweisung, Sachverhaltsabklärung und Kasuistik."
 tags: ["Rechtsprechung", "StPO", "Strafbefehl", "Strafbefehlskompetenz", "Vereinfachtes Verfahren", "Kasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Erweiterung der Rechtsprechung mit 18 analysierten Leit- und Kantonalentscheiden inkl. Sachverhalt und Kernaussagen (BGE 146 IV 145, BGE 147 IV 329, BGE 149 IV 273, BGE 150 IV 447, BGE 142 IV 11, BGE 142 IV 201, BGE 140 IV 192, BGE 142 IV 70, BGE 141 IV 231, BGE 145 IV 438, BGE 141 IV 39, BGer 6B_432/2016, BGer 6B_367/2012, BGer 1B_66/2013, BGer 7B_83/2022, LU LGVE 2022 V Nr. 1, TG RBOG 2013 Nr. 30, TG RBOG 2011 Nr. 27)."
 ---
 

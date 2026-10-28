@@ -5,12 +5,10 @@ date: 2026-05-24
 lastmod: 2026-08-19
 description: "Übersicht der Rechtsprechung zu Art. 388 ZGB – Wohl, Schutz und Selbstbestimmung als Leitprinzipien des Erwachsenenschutzes."
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Selbstbestimmung", "Beistandschaft"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungssammlung: 14 strukturierte und verifizierte Bundesgerichts- und Kantonsentscheide zu Leitprinzipien, Subsidiarität, Selbstbestimmung und Verfahrensrechten."
 ---
 

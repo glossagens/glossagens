@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 156 ZPO — prozessuale Schutzmassnahmen, strafbewehrte Geheimhaltungspflicht, Reichweite und Glaubhaftmachung."
 tags: ["Rechtsprechung", "ZPO", "schutzwürdige Interessen", "Geschäftsgeheimnis", "Geheimhaltung"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 17 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; die Übersicht ruht neu auf dem einschlägigen Leitentscheid BGE 148 III 84 statt auf 18 thematisch verstreuten Referenzen"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 2 von 24 Paaren gestützt; 18 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

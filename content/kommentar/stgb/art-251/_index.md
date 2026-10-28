@@ -5,37 +5,30 @@ date: 2026-05-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 251 StGB: Urkundenfälschung i.e.S. (Echtheitsdelikt, Geistigkeitstheorie, Namensunterschrift im Vertretungsverhältnis), Blankettfälschung, Falschbeurkundung (qualifizierte schriftliche Lüge, erhöhte Glaubwürdigkeit bei Buchhaltung, Formularen und Verträgen), umfassender Exkurs zur gespaltenen Urkundenqualität bei COVID-19-Krediten (BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Gebrauchsvariante sowie Schädigungs- und Vorteilsabsicht."
 tags: ["StGB", "Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "Erhöhte Glaubwürdigkeit", "Buchführung", "Qualifizierte schriftliche Lüge", "Vertretungstäuschung", "Gebrauch", "Vorteilsabsicht", "Covid-19-Kredit", "Solidarbürgschaft"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-251.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau des Exkurses zu COVID-19-Nothilfekrediten im Urkundenstrafrecht: Dogmatische Systematisierung der gespaltenen Urkundenqualität des Antragsformulars (BGE 151 IV 113 vs. BGE 151 IV 201); Einarbeitung des neuesten Leitentscheids BGer 6B_148/2026 vom 02.09.2026 (Falschbeurkundung durch überhöhten Formularumsatz, MWST-Umsatzabgleich und Ausscheiden unglaubhafter Schutzbilanzen, Konkurrenzen zu Art. 146, 163 und 305bis StGB); detaillierte Übersichtstabelle aller Formularbestandteile."
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (Referenzmuster Art. 110 StPO und Art. 336 OR): Merkmalskatalog als Prüfschema mit deckungsgleicher Gliederung der Abschnitte A bis I; Auswertung der neuesten Rechtsprechung zu Covid-19-Krediten (BGE 151 IV 113, BGer 6B_963/2024 vom 21. Oktober 2025, 6B_95/2024 vom 6. Februar 2025), Mietzinsformularen (BGE 148 IV 288), simulierten Verträgen (BGE 146 IV 258) und Affidavits (BGE 144 IV 13); Integration der Rechtsprechung zur Urkundenfälschung i.e.S. (BGE 137 IV 167, BGE 128 IV 265) sowie zur Falschbeurkundung (BGE 141 IV 369, BGE 138 IV 130, BGE 135 IV 12, BGE 129 IV 130, BGE 120 IV 25, BGE 119 IV 54, BGE 117 IV 35, BGE 117 IV 165); Einarbeitung kantonaler Praxisfragen (ZH OG UE240291, LU KG 4M 16 56); Judikaturdivergenzen zu Rechnungen und Bankbestätigungen offengelegt; Praxishinweise nach Adressatenrollen am Schluss; alle Zitate und URLs über entscheidsuche.ch im Volltext verifiziert; Gesetzeswortlaut verbatim nach Fedlex (Stand 12.06.2026, Hinweis auf Aufhebung von Ziff. 2 per 01.07.2023)."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 9 verifizierte Entscheide via entscheidsuche.ch; Gesetzeswortlaut korrigiert."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und nicht verifizierter Fundstellen."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

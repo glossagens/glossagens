@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Übersicht der Entscheide zu Art. 5 UWG (Verwertung fremder Leistung): Leitentscheide des Bundesgerichts zu Arbeitsergebnis, anvertrauter Verwertung, Übernahme durch technische Reproduktion und Amortisation sowie kantonale Praxis."
 tags: ["UWG", "Lauterkeitsrecht", "Rechtsprechung", "Leistungsschutz", "Arbeitsergebnis", "Datenbank"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstübersicht. Entscheide über entscheidsuche.ch im Volltext gelesen; Links aus den content_url-Feldern. Kein maschineller Audit-Lauf, daher mcp_verified: false."
 ---
 

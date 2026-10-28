@@ -5,17 +5,14 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 59 StGB — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung, Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung."
 tags: ["Rechtsprechung", "StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Allgemeiner Teil"]
-agent_verified: false
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1:cloud"
-    mcp_verified: true
     note: "Praxisorientierter Neuaufbau: 17 verifizierte Entscheide mit entscheidsuche.ch-Links und Erwägungsnummern; alle Zitate via entscheidsuche verifiziert."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: 10 verifizierte Bundesgerichts- und kantonale Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

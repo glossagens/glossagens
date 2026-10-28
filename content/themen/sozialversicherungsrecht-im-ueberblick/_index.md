@@ -33,12 +33,10 @@ normen:
   - { gesetz: kvg, art: art-025 }
   - { gesetz: avig, art: art-008 }
 stichworte: ["Sozialversicherung", "Sozialversicherungsrecht", "versicherte Risiken", "Anspruchsgrundlagen", "Drei-Säulen-Prinzip", "Kausalprinzip", "Finalprinzip", "Leistungskoordination", "Überentschädigung", "Vorleistung", "Einspracheverfahren", "Untersuchungsgrundsatz", "Schadenminderungspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtexte Art. 111 BV, Art. 3, 4 und 8 ATSG per {{< wortlaut >}} (scripts/wortlaut.py); alle übrigen genannten Bestimmungen (BV, ATSG, AHVG, IVG, ELG, BVG, UVG, KVG, AVIG, EOG, FamZG, MVG) über die Fedlex-MCP geprüft. Neun Leitentscheide als Volltext von entscheidsuche.ch geladen (MCP offline, direkt über den ES-Proxy); Erwägungsnummern, Anker und wörtliche Zitate gegen den Volltext abgeglichen. Frankenbeträge (Eintrittsschwelle BVG, Mindestansätze) bewusst weggelassen, weil sie periodisch angepasst werden."
 ---
 

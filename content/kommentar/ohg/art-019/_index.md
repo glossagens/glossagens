@@ -5,17 +5,14 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 19 OHG – Entschädigungsanspruch des Opfers und seiner Angehörigen, Schadensbemessung nach Art. 45/46 OR, Ausschluss von Sachschäden und Soforthilfe, Haushalts- und Betreuungsschaden sowie Kasuistik"
 tags: ["OHG", "Opferhilfe", "Entschädigung", "Schadenersatz", "Körperverletzung", "Tötung", "Haushaltsschaden"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.5 vom 2025-01-01 (data/wortlaut/ohg/art-019.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung des Kommentars zu Art. 19 OHG mit fundierter Aufbereitung der Anspruchsvoraussetzungen, Schadensbemessung, Ausschlussgründe und Praxiskasuistik."
 ---
 

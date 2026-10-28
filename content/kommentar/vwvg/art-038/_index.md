@@ -5,27 +5,22 @@ date: 2026-08-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 38 VwVG: Mangelhafte Eröffnung — Schutz vor Rechtsnachteilen, Vertrauensschutz, fehlerhafte Rechtsmittelbelehrung, Auslandszustellung und Kasuistik."
 tags: ["VwVG", "mangelhafte Eröffnung", "Treu und Glauben", "Rechtsmittelbelehrung", "Vertrauensschutz", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-038.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 78 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Nachteilsverbots, Vertrauensschutz bei fehlerhafter Rechtsmittelbelehrung (BGE 106 V 93), Auslandszustellung (BGE 144 II 401; BGE 124 V 47), Drittbetroffenheit (BGE 116 Ib 321) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Korrekturen"
   - date: 2026-08-02
     by: "Antigravity Agent"
     model: "gemini-3.6-flash"
-    mcp_verified: true
     note: "Erstaufbau"
 ---
 

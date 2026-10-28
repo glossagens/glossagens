@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 111 StGB: Vorsätzliche Tötung als Grundtatbestand — Eventualvorsatz und Abgrenzung zur bewussten Fahrlässigkeit, Auffangfunktion gegenüber Mord (Art. 112) und Totschlag (Art. 113), Notwehrexzess, Versuch und Teilnahme, Strafzumessung — mit zweiseitiger Grenzkasuistik."
 tags: ["StGB", "Vorsätzliche Tötung", "Eventualvorsatz", "Mordabgrenzung", "Totschlag", "Notwehrexzess", "Tötungsdelikte", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-111.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 73 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau als praxisorientierter Kommentar nach SKILL.md v1.3.0. Gesetzeswortlaut verbatim aus Fedlex (SR 311.0). Sämtliche Entscheide im Volltext über entscheidsuche.ch geholt und wörtlich belegt: BGE 144 IV 345, BGer 6B_636/2025, BGer 6B_591/2024, BGE 130 IV 58, BGE 133 IV 1, BGE 142 IV 14, BGE 125 IV 255, BGE 103 IV 65, BGE 121 IV 49, BGE 120 IV 265, BGE 118 IV 227, BGE 136 IV 49, BGer 6B_1059/2019. Merkmalsraster, zweiseitige Grenzkasuistik, Leitsätze und Praxishinweise nach SKILL.md."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung und Link-Korrektur; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

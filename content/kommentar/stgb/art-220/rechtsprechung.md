@@ -5,12 +5,10 @@ date: 2026-05-16
 lastmod: 2026-09-16
 description: "Übersicht der Rechtsprechung zu Art. 220 StGB – Entziehen und Vorenthalten von Minderjährigen, Besuchsrechtsvereitelung, Kindesentführung und Antragsfristen"
 tags: ["Rechtsprechung", "StGB", "Entziehung Minderjähriger", "Vorenthalten", "Kindesentführung", "Besuchsrechtsmissbrauch", "Besuchsrechtsvereitelung", "alternierende Obhut", "Dauerdelikt"]
-agent_verified: true
 revisions:
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht mit 20 ausgewerteten und im Volltext geprüften Leit- und Kantonalentscheiden; Strukturierung in Leitentscheide (BGE) und Weitere Entscheide (BGer & kantonal); wörtliche Kernaussagen, Sachverhalte und verifizierte entscheidsuche.ch-Links."
   - date: 2026-05-16
     by: "Hermes Agent"

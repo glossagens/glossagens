@@ -5,12 +5,10 @@ date: "2026-09-13"
 lastmod: "2026-09-13"
 description: "Übersicht der zentralen Entscheide zu Art. 936 ZGB — Bösgläubigkeit und Herausgabe jederzeit: Begriff der fehlenden Gutgläubigkeit (Bösgläubigkeit/Unaufmerksamkeit, Fahrlässigkeit), Jederzeit-Herausgabe und Ersitzung, Bösgläubigkeit des früheren Besitzers (Abs. 2), nachträgliche Bösgläubigkeit, Branchenvertrautheit, Schadenersatz (Art. 940 ZGB) und Hehlerei."
 tags: ["Rechtsprechung", "ZGB", "Bösgläubigkeit", "guter Glaube", "Herausgabe", "Besitzesrechtsklage", "nemo plus iuris", "Ersitzung", "Branchenvertrautheit", "Schadenersatz", "Hehlerei"]
-agent_verified: false
 revisions:
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung. 10 Entscheide via entscheidsuche.ch geprüft, davon 9 im Volltext abgerufen (BGE 94 II 297, 100 II 8, 103 II 186, 105 IV 303, 113 II 397, 120 II 191, 121 III 345, 122 III 1, 139 III 305; GR KG ZK1 2010 6). Links verbatim aus document_url-Feldern übernommen."
 ---
 

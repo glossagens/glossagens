@@ -5,12 +5,10 @@ date: 2026-10-20
 lastmod: 2026-10-20
 description: "Praxiskommentar zu Art. 63 VwVG: Kostenvorschuss (Abs. 4), UMA-Privilegierung (BGE 144 II 56) und deren Schranken bei Datenberichtigungen (BGer 1C_764/2025), Ausschluss einer Nachfrist, Unterliegerprinzip und Behördenprivileg (Abs. 1–3) sowie Spruchgebühren nach VGKE."
 tags: ["VwVG", "Verfahrenskosten", "Kostenvorschuss", "UMA", "Kindeswohl", "SYMIC", "Nichteintreten", "Nachfrist", "Behördenprivileg", "Spruchgebühr", "VGKE"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme von Art. 63 VwVG als umfassender Praxiskommentar. Schwerpunkte: Kostenvorschuss nach Abs. 4, UMA-Privilegierung nach BGE 144 II 56 und deren Grenzen gemäss BGer 1C_764/2025 (keine Anwendung auf SYMIC-Datenberichtigungen), Ausschluss einer Nachfrist im VwVG (BGer 2C_703/2009), Unterlieger- und Verursacherprinzip (Abs. 1 und 3), Behördenprivileg bei Vermögensinteressen (Abs. 2) und Gebührenrahmen nach Abs. 4bis i.V.m. VGKE. Wortlaut ab Fedlex-Satzbild via wortlaut.py verifiziert. Sämtliche Urteile über entscheidsuche.ch und swiss-caselaw volltextgeprüft."
 ---
 

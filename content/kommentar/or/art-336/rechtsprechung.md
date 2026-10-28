@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-09-04
 description: "Übersicht der Entscheide zu Art. 336 OR — missbräuchliche Kündigung des Arbeitsvertrags: Leitentscheide des Bundesgerichts zu den benannten und ungeschriebenen Missbrauchstatbeständen, zu Motivkausalität, Beweismass und Einspracheobliegenheit sowie ausgewählte kantonale Entscheide."
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht", "Rechtsprechung"]
-agent_verified: true
 revisions:
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Übersicht nach Themenblöcken neu geordnet und um zehn Entscheide ergänzt (BGE 150 III 78, BGE 149 III 304, BGE 130 III 699 präzisiert, BGer 4A_388/2025, 4A_368/2023, 4A_295/2024, 4A_44/2021, 4A_33/2025, 4A_259/2019 sowie SG KG BO.2024.11-K3, AG OG ZOR.2025.11 und ZOR.2025.27). Sämtliche Entscheide über entscheidsuche.ch im Volltext geprüft und dorthin verlinkt; die bisher fehlenden Links nachgetragen. BGer 4A_60/2026 und 4A_612/2025 sind über opencaselaw als existierend bestätigt, auf entscheidsuche.ch aber noch nicht geführt — der bisherige Link auf die Sekundärquelle bger-update.ch wurde durch den opencaselaw-Rückfall ersetzt."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 100 % (Urteil A); 12 gestützt (+0 teilw.) von 12 beurteilten Paaren (12 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

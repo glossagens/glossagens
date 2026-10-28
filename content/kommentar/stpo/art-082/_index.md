@@ -5,22 +5,18 @@ date: 2026-07-12
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 82 StPO – Einschränkungen der Begründungspflicht"
 tags: ["StPO", "Begründungspflicht", "Urteilsbegründung", "Verweisung", "Rechtsmittelverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-082.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 39 %). Unbelegte Aussage gestrichen, die zehntägige Frist nach Art. 82 Abs. 2 lit. a StPO sei eine «materielle Frist, deren Versäumung die Folgen von Art. 94 ff. StPO nach sich zieht» — BGE 143 IV 40 E. 3.6 sagt davon nichts. Rz. 4 und Rz. 6 auf die tragenden Erwägungen umgestellt (BGE 143 IV 40 E. 3.4.3 und E. 3.4.4; BGer 6B_28/2018 E. 4.3.2 f.); die bisherige Zuschreibung an E. 3.4 traf nicht zu. Drei falsche Normbezeichnungen in den Querverweisen berichtigt: Art. 391 StPO (Entscheid, nicht «Berufung»), Art. 105 StPO (Andere Verfahrensbeteiligte, nicht «Kosten des Verfahrens»), Art. 107 StPO (Anspruch auf rechtliches Gehör, nicht «Einschränkungen»). Fehlende Erwägungsangaben ergänzt (6B_409/2018 E. 1.2.2 und E. 2.1; 6B_28/2018 E. 4.3.2 f.). Neu belegt: BGer 6B_570/2019 E. 4.2. Fehlendes Feld mcp_verified im Vorgänger-Revisionseintrag ergänzt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit KW33 StPO"
 ---
 

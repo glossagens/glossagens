@@ -5,17 +5,14 @@ date: 2026-10-04
 lastmod: 2026-10-23
 description: "Rechtsprechungssammlung zu Art. 418 StPO — anteilsmässige Kostentragung, solidarische Haftung, Haftung Dritter."
 tags: ["Rechtsprechung", "StPO", "Kostentragung", "Solidarhaftung", "Anteilsmässig"]
-agent_verified: false
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung: BGer 6B_370/2016 E. 1.2 und 1B_379/2013 E. 2.3.3 im Volltext bestätigt. Basler Entscheid ZS.2024.2 korrekt zitiert (Urteil vom 14. Mai 2025, E. 2.1.3.2; die frühere Angabe «24. Juli 2020 / 14. Mai 2025» vermengte das aufgehobene Ersturteil mit dem Rückweisungsurteil) und inhaltlich berichtigt (die Entschädigungen sind mitumfasst, weil ein bewusster Verzicht aus den Materialien nicht ersichtlich ist). OG BE BK 23 364 (Art. 420 i.V.m. Art. 418 Abs. 2) ergänzt, Sachverhalt der beiden BGer-Entscheide präzisiert."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage mit 2 BGer-Entscheiden. Belege via OCL get_erwaegung geprueft (yes)."
 ---
 

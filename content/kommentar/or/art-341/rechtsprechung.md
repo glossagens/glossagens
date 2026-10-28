@@ -5,12 +5,10 @@ date: 2026-05-23
 lastmod: 2026-08-18
 description: "Übersicht der massgebenden Bundesgerichtsentscheide zu Art. 341 OR — Verzichtssperre, Aufhebungsvertrag, Verjährung und Schiedsfähigkeit."
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Unabdingbarkeit", "Verzichtssperre"]
-agent_verified: true
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau der Rechtsprechungsübersicht nach Audit: Alle Leitsätze gegen OpenCaseLaw-MCP geprüft und verifiziert."
 ---
 

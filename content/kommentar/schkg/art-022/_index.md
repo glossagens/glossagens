@@ -5,27 +5,22 @@ date: 2026-09-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 22 SchKG: Absolute Nichtigkeit von Betreibungshandlungen, Verletzung von Schutzvorschriften im öffentlichen Interesse und Drittschutzvorschriften, amtswegige Feststellung, Selbstkorrektur durch das Amt, Rechtsmissbrauch, Grenzkasuistik."
 tags: ["SchKG", "Betreibungsrecht", "Nichtigkeit", "Aufsichtsbeschwerde", "Zwangsvollstreckung", "Rechtsmissbrauch", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: BGer 5A_497/2026 (rechtsmissbräuchliche Berufung auf Art. 22 SchKG), BGer 5A_131/2026 (Substantiierungspflicht vor Bundesgericht) ergänzt; Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1–6 überarbeitet und vertieft, Rz. 7–9 (Nichtigkeitsfälle im Einzelnen), Rz. 10–13 (Grenzkasuistik), Rz. 14 (Selbstkorrektur und Ersetzung), Rz. 15 (Verhältnis zu Art. 17 SchKG), Praxisfragen erweitert; 12 neue Entscheide integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 22 SchKG mit BGE 131 III 237, BGE 130 III 407 sowie BGer 5A_131/2026."
 ---
 

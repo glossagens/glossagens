@@ -5,22 +5,18 @@ date: 2026-07-09
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 93 BGG: Selbständig eröffnete Vor- und Zwischenentscheide, nicht wieder gutzumachender Nachteil rechtlicher Natur (lit. a), sofortiger Endentscheid bei weitläufigem Beweisverfahren (lit. b), Ausschlussbereiche (Abs. 2) sowie Anfechtung mit dem Endentscheid (Abs. 3) — mit umfassender Kasuistik zu Beweisverwertung, vorsorglichen Massnahmen, Kostenvorschüssen, Rückweisungen und Sistierungen."
 tags: ["BGG", "Zwischenentscheid", "Vorentscheid", "nicht wieder gutzumachender Nachteil", "Verfahrensökonomie", "Rückweisungsentscheid", "Beweisverwertbarkeit", "vorsorgliche Massnahmen", "Sistierung", "Substanziierungspflicht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-093.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR: Gliederung entlang des Tatbestandsschemas, Beseitigung der Rz.-Struktur, Einfügen des Merkmalskatalogs, Ausarbeitung ausführlicher Lebenssachverhalte (BGE 133 III 629, BGE 134 I 83, BGE 141 IV 284, BGE 140 V 282, BGE 144 III 253, BGE 142 III 798, BGE 150 III 248, BGE 151 IV 344 u.a.), zweiseitige Grenzkasuistik nach Rechtsgebieten, Vergleichstabellen, Offenlegung von Judikaturdivergenzen, kantonale Praxisfragen und adressatenspezifische Praxishinweise. Sämtliche Fundstellen und Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: Links auf entscheidsuche.ch umgestellt, Gesetzeswortlaut gegen Fedlex verifiziert, agent_verified korrigiert"
 ---
 

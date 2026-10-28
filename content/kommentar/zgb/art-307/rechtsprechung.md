@@ -5,17 +5,14 @@ date: "2026-08-19"
 lastmod: "2026-10-16"
 description: "Übersicht der Rechtsprechung zu Art. 307 ZGB – Kindesschutzmassnahmen, Kindeswohlgefährdung, Ermahnung, Weisungen und Erziehungsaufsicht."
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Kindeswohl", "Weisung", "KESB"]
-agent_verified: false
 revisions:
   - date: "2026-10-16"
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung BGer 5A_808/2026 vom 30.09.2026: Ausreisebeschränkung/Reisefreiheit bei Krisenland, abstraktes Risiko genügt nicht. Erwägung E. 3.4.2 via OCL get_erwaegung verifiziert."
   - date: "2026-08-19"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstüberarbeitung Rechtsprechungsübersicht; alle Entscheide und Kernaussagen via opencaselaw-MCP verifiziert"
 ---
 

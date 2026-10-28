@@ -5,7 +5,6 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 62 VwVG: Leitentscheide des Bundesgerichts und weitere Entscheide zu reformatio in peius, reformatio in melius, Hinweispflicht auf Beschwerderückzug und Rechtsanwendung von Amtes wegen."
 tags: ["Rechtsprechung", "VwVG", "Reformatio in peius", "Reformatio in melius", "Rechtliches Gehör", "Beschwerderückzug", "Rechtsanwendung von Amtes wegen"]
-agent_verified: true
 ---
 
 ### I. Leitentscheide

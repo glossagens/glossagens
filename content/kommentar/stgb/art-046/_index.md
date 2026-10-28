@@ -5,32 +5,26 @@ date: 2026-07-04
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 46 StGB: Widerruf bedingter Strafen bei Probezeitdelinquenz, Gesamtstrafenbildung (Asperation), Verzicht auf Widerruf (Prognoseentscheid, Verwarnung, Verlängerung), Weisungsverletzung, Zuständigkeit und absolute Dreijahresfrist — mit umfassender Kasuistik."
 tags: ["StGB", "Sanktionenrecht", "Bedingte Strafe", "Widerruf", "Nichtbewährung", "Probezeit", "Gesamtstrafe", "Asperation", "Prognose", "Verwarnung", "Verwirkung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-046.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO / Art. 336 OR: Dogmatischer Merkmalskatalog, umfassende Sachverhaltsdarstellungen (BGE 134 IV 140, BGE 145 IV 146, BGE 143 IV 441, BGE 147 IV 329, BGer 6B_733/2019, BGer 6B_443/2014, BStGer SK.2023.31), Fallvergleichstabellen, Offenlegung der Plafonierungsfalle bei Geldstrafen (LU KG 4M 22 70), drei kantonale Praxisfragen und rollenbezogene Praxishinweise; Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Leitentscheide BGE 134 IV 140 und BGE 145 IV 146; 7 verifizierte Entscheide via entscheidsuche.ch; Gesetzeswortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Zitate und URLs; 10 verifizierte BGE- und Bundesgerichtsurteile via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

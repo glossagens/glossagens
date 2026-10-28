@@ -5,17 +5,14 @@ date: 2026-08-10
 lastmod: 2026-08-12
 description: "Übersicht der Entscheide zu Art. 50 BV — Begriff der Gemeindeautonomie, geschützter Autonomiebereich, Beschwerdebefugnis der Gemeinde"
 tags: ["Rechtsprechung", "BV", "Gemeindeautonomie", "Föderalismus", "Gemeinden"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Von 69 Belegpaaren war keines gestützt (25 %, Urteil C), obwohl alle Referenzen existieren und kein Pinpoint ins Leere zeigte. Durchgehende Fehlzuordnung. Neu aufgebaut auf BGE 147 I 136 E. 2.1, BGE 141 I 36 und BGE 138 I 143."
   - date: 2026-08-10
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit-Umbau «alle unsupported Zitate ersetzt durch verifizierte Rechtsprechung»; das Ergebnis war zu 25 % belegt"
 ---
 

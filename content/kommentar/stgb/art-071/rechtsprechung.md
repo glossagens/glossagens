@@ -5,27 +5,22 @@ date: "2026-08-08"
 lastmod: "2026-10-07"
 description: "Rechtsprechungsübersicht zu Art. 71 StGB (Ersatzforderungen): Leitentscheide des Bundesgerichts, aktuelle BGer-Urteile und kantonale Gerichtsentscheide zu Surrogatfunktion, Bruttoprinzip, Ausschluss der Solidarhaftung, Resozialisierung und SchKG-Vollstreckung."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Allgemeiner Teil", "Kasuistik", "SchKG"]
-agent_verified: false
 revisions:
   - date: "2026-10-07"
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 7B_183/2026 vom 22. September 2026: Zivilrechtliche Vergleiche reduzieren Deliktsumme nicht; Rückerstattungsvorbehalt bei provisorischer Beschlagnahme zwingend. Volltext via entscheidsuche.ch verifiziert."
   - date: "2026-09-08"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Aktualisierung und Erweiterung auf 26 strukturierte Entscheide: Einarbeitung neuester Leit- und Praxisentscheide (BGer 6B_1279/2023 vom 13. Februar 2026 zur Unzulässigkeit der Restbetragsrückerstattung an den Täter, BGer 6B_803/2025 vom 11. Februar 2026 zum Bruttoprinzip und zur Schätzung, BS APG BEZ.2026.10 vom 24. April 2026 zur definitiven Rechtsöffnung, ZH OG NE230005 vom 11. Juni 2026 zur Widerspruchsklage bei umgekehrtem Durchgriff); alle Zitate via entscheidsuche.ch verifiziert."
   - date: "2026-08-29"
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau: 14 detaillierte Leit- und Praxisentscheide eingepflegt mit Sachverhalt, Kernaussage und Verlinkung auf entscheidsuche.ch."
   - date: "2026-08-23"
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: Alle historischen Fehlzitate korrigiert; 10 verifizierte Bundesgerichtsentscheide eingepflegt."
 ---
 

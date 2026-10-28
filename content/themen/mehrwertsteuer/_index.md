@@ -25,12 +25,10 @@ normen:
   - { gesetz: mwstg, art: art-065 }
   - { gesetz: mwstg, art: art-069 }
 stichworte: ["Mehrwertsteuer", "MWST", "Netto-Allphasensteuer", "Vorsteuerabzug", "Inlandsteuer", "Bezugsteuer", "Einfuhrsteuer", "Selbstveranlagung", "Subjektive Steuerpflicht", "Steuersätze", "Leistungsverhältnis", "Option", "Nichtentgelt", "Saldosteuersatz", "Taxe occulte", "Wettbewerbsneutralität"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtexte Art. 130 BV sowie Art. 1, 10, 18, 25 und 28 MWSTG per {{< wortlaut >}} (scripts/wortlaut.py); übrige Bestimmungen über Fedlex geprüft. Dreizehn Leitentscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker (#consideration_...) und wörtliche Zitate abgeglichen. Verlinkung auf Kommentare zu Art. 20 MWSTG."
 ---
 

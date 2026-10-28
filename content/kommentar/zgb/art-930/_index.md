@@ -5,22 +5,18 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 930 ZGB — Eigentumsvermutung des Besitzers beweglicher Sachen: Vermutungsbasis (Besitz, selbständiger Besitz, unzweideutiger Besitz), Zweideutigkeit als Grenze (Bargeld, Börsenagent/Kommissionär), Widerlegbarkeit durch Nachweis gültigen Eigentumserwerbs, Beweislast bei der Vindikation, Wirkung gegenüber dem unmittelbaren Vorbesitzer, rückwirkende Vermutung für frühere Besitzer (Abs. 2) und Verhältnis zu Art. 714, 931, 933–936, 641 Abs. 2 mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Eigentumsvermutung", "Besitz", "Beweislast", "Vindikation", "unzweideutiger Besitz", "Vermutungsbasis", "Rechtsschein", "Gutglaubensschutz", "selbständiger Besitz"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-930.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Ungültigen Pinpoint E. 2 bei BGE 65 II 62 entfernt (Entscheid von 1939 besitzt keine nummerierten Erwägungen)."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 920, 930, 931 ZGB; sowie Art. 3, 641a, 714, 722, 728, 933, 934, 935, 936, 940 ZGB aus den Vorarbeiten. 10 Entscheide via entscheidsuche.ch geprüft, davon 9 im Volltext abgerufen (BGE 65 II 62, 84 II 253, 94 II 297, 100 II 8, 113 II 397, 121 III 345, 139 III 305, 141 III 7; BGer 5C.236/2004; BL KG 410 23 305). Links verbatim aus document_url-Feldern übernommen."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-08-30
 lastmod: 2026-09-22
 description: "Übersicht der Rechtsprechung zu Art. 222 StPO – Rechtsmittel gegen Haftentscheide: Exklusive Beschwerdelegitimation der verhafteten Person (BGE 149 IV 135), Ausschluss der Staatsanwaltschaft und Dritter, Novenrecht, Überhaftprüfung und Fristen."
 tags: ["Rechtsprechung", "StPO", "Haft", "Beschwerde", "Haftentscheid", "Untersuchungshaft", "Sicherheitshaft", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 21 verifizierten Leit- und Kantonalentscheiden (Bereinigung fehlerhafter Zuordnungen, Aufnahme von BGE 149 IV 135, BGer 7B_238/2025, BGer 1B_7/2013, BGer 1B_51/2015, BGE 145 IV 179, BGE 150 IV 239 u.a.)."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 222 StPO."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxisorientierter Gesetzeskommentar zu Art. 10 GwG: Die Vermögenssperre des Finanzintermediärs, zweistufiges Melde- und Sperrsystem (Art. 9a vs. Art. 10 Abs. 1), Sofortsperre bei Terror- und Sanktionslisten (Abs. 1bis), 5-tägige Höchstdauer (Abs. 2), Fristenberechnung (Werktage), Abgrenzung zur strafprozessualen Kontosperre (Art. 266 StPO), zivilrechtlicher Haftungsausschluss (Art. 11 GwG, BGE 143 III 653), Schutznormcharakter (BGE 134 III 529), Kasuistik und kantonale Praxis."
 tags: ["GwG", "Vermögenssperre", "Meldepflicht", "MROS", "Kontosperre", "Strafprozessrecht", "Haftungsausschluss", "Bankenrecht", "Compliance"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige, praxisorientierte Erstkommentierung zu Art. 10 GwG nach den Vorgaben für Praxiskommentare, inkl. Auswertung der Rechtsprechung zu BGE 143 III 653, BGE 134 III 529, BGer 1B_195/2018 sowie kantonaler Obergerichtspraxis (ZH, BE, GR)."
 ---
 

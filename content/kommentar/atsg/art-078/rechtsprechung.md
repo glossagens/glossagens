@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-28
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 78 ATSG: Staatshaftung, Organhaftung der Sozialversicherer, qualifizierte Widerrechtlichkeit und Verwaltungsverfahren."
 tags: ["Rechtsprechung", "ATSG", "Verantwortlichkeit", "Organhaftung", "Staatshaftung", "Ersatzforderung"]
-agent_verified: true
 revisions:
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: Mindestens 10 Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

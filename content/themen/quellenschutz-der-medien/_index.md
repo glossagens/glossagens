@@ -17,12 +17,10 @@ normen:
   - { gesetz: zpo, art: art-166 }
   - { gesetz: vwvg, art: art-016 }
 stichworte: ["Quellenschutz", "Redaktionsgeheimnis", "Informantenschutz", "Medienfreiheit", "Zeugnisverweigerungsrecht", "Beschlagnahmeverbot", "Wächteramt", "Hilfspersonen", "Entsiegelung", "Überwachungsmassnahmen", "Amtsgeheimnisverletzung"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ grundlage). Normtexte Art. 17 BV, Art. 10 EMRK, Art. 28a StGB, Art. 172, 264, 271 StPO, Art. 166 ZPO und Art. 16 VwVG per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). Alle Leitentscheide (BGE 151 IV 153, BGE 140 IV 108, BGE 136 IV 145, BGE 132 I 181, BGE 143 IV 214, BGE 123 IV 236, BGE 126 IV 236, BGE 115 IV 75, BGE 147 I 280) als HTML-Volltext von entscheidsuche.ch verifiziert; Erwägungsnummern, Anker und Zitate mit pruefen.py und build-check.sh abgeglichen."
 ---
 

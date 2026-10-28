@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-10-17
 description: "Begründungspflicht der Strafzumessung: das Gericht muss die für die Strafzumessung erheblichen Umstände und deren Gewichtung im Urteil festhalten. Kommentierung mit Prüfschema, Anforderungslagen (Grenzwertfragen, Gesamtstrafe, verminderte Schuldfähigkeit) und Kasuistik."
 tags: ["Strafzumessung", "Begründungspflicht", "Art. 50 StGB", "Strafrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erweiterung um BGer 6B_710/2025 v. 5.10.2026 (5er-Besetzung): Anforderungen an die Begründung bei Gesamtstrafen (keine globale Verschuldensbewertung) und beim Vollzugsaufschub (Ameliorationsprognose bei Art. 42/43 StGB); Umstellung des Gesetzeswortlauts auf Shortcode wortlaut."
   - date: 2026-09-11
     by: "Claude Code"
     model: "deepseek-v4-flash"
-    mcp_verified: true
     note: "Erstkommentar zu Art. 50 StGB. Gesetzestext verifiziert via Fedlex SR 311.0 (Konsolidierung 12.06.2026). Alle namentlich zitierten Entscheide maschinell geprüft: BGE und BGer via entscheidsuche.ch (search_by_case_number/fetch_document), der Anlass-Entscheid 6B_814/2025 v. 26.08.2026 via opencaselaw (get_decision, Volltext), weil er auf entscheidsuche.ch noch nicht indexiert ist (Verlinkung daher über die opencaselaw-Rückfallebene)."
 ---
 

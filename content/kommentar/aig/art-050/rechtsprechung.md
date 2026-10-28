@@ -5,17 +5,14 @@ date: 2026-05-15
 lastmod: 2026-10-01
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Urteile zu Art. 50 AIG (Nachaufenthaltsrecht, Dreijahresfrist, häusliche Gewalt und nachehelicher Härtefall)."
 tags: ["Rechtsprechung", "Aufenthaltsbewilligung", "AIG", "Nachaufenthaltsrecht", "häusliche Gewalt", "Härtefall"]
-agent_verified: true
 revisions:
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergaenzung BGer 2C_93/2026 (Schweizer Ehemann, Gewalt durch Schwiegerfamilie) und BGer 2C_555/2025 (EU/EFTA-Widerruf, Zug): einmaliger Schubser genuegt nicht fuer haeusliche Gewalt nach Art. 50 Abs. 2 lit. a AIG. Belege via OCL get_erwaegung geprueft."
   - date: 2026-09-23
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar"
 ---
 

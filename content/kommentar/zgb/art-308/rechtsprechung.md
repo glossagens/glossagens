@@ -5,12 +5,10 @@ date: 2026-05-22
 lastmod: 2026-08-20
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 308 ZGB (Kindesschutzbeistandschaft, Erziehungsbeistandschaft, Besuchsrechtsbeistandschaft)."
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung"]
-agent_verified: false
 revisions:
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit geprüften Leitentscheiden und kantonalen Entscheiden via swiss-caselaw MCP"
 ---
 

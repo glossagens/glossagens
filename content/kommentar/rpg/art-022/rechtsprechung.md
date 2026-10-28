@@ -5,22 +5,18 @@ date: 2026-07-16
 lastmod: 2026-10-02
 description: "Übersicht der massgeblichen Leitentscheide und Praxisurteile zu Art. 22 RPG (Baubewilligungspflicht, Bauten und Anlagen, Unterhaltsabgrenzung, Erschliessung, Wiederherstellung)."
 tags: ["Rechtsprechung", "RPG", "Baubewilligung", "Unterhalt", "Wiederherstellung", "Erschliessung", "Fahrnisbauten"]
-agent_verified: true
 revisions:
   - date: 2026-10-02
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergaenzung um BGer 1C_324/2026 (Umnutzung Bueros in Wohnungen, Genfer Entwicklungszone 3): Nutzungsänderung ohne bauliche Massnahmen bewilligungspflichtig; kantonale LDTR-Freistellung unterschreitet RPG nicht; Wiederherstellung bei nicht erfuellten Barrierefreiheitsvorschriften verhaeltnismaessig."
   - date: 2026-09-17
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Erweiterung der Rechtsprechungssammlung: Leitentscheide zu Anlagenbegriff (BGE 119 Ib 222, 139 II 134, 150 II 489), Erschliessung (BGE 121 I 65), Wiederherstellung und Verwirkung (BGE 151 II 850, 136 II 359, 107 Ia 121, BGer 1C_280/2022) sowie Kasuistikentscheide zu Fahrnisbauten (1C_37/2013), Terrainveränderungen (1C_580/2021), Stegen (1C_239/2025, 1C_601/2022), Umnutzungen (1C_120/2012) und Airbnb (ZH BRGE IV Nr. 0025/2025)."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erweiterung um BGer 1C_239/2025 und kantonale Praxis"
 ---
 

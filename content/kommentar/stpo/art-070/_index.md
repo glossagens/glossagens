@@ -5,17 +5,14 @@ date: 2026-10-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 70 StPO: Ausschluss der Öffentlichkeit aus Gründen der öffentlichen Sicherheit oder Ordnung sowie schutzwürdiger Interessen (Opferschutz); Raumkapazität und grosser Andrang; Begleitung durch Vertrauenspersonen (Abs. 2); Zulassung akkreditierter Gerichtsberichterstatter unter Auflagen (Abs. 3, Art. 292 StGB); Urteilseröffnung und Surrogatinformation (Abs. 4); funktionelle Zuständigkeit des Kollegialgerichts."
 tags: ["StPO", "Justizöffentlichkeit", "Öffentlichkeitsausschluss", "Opferschutz", "Medienfreiheit", "Gerichtsberichterstattung", "Vertrauenspersonen", "Verfahrensrechte"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-070.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 75 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung als praxisorientierter Kommentar gemäss Benchmark Art. 110 StPO / Art. 336 OR. Einarbeitung von BGE 147 IV 145 (Auflagen an Medien unter Strafdrohung nach Art. 292 StGB), BGE 147 IV 297 (Grenzen der Begleitung durch Vertrauenspersonen bei Platzmangel), BGE 143 I 194 (Unzulässigkeit des Totalausschlusses von Medien bei nicht einvernommenen Jugendlichen), BGE 137 I 209 (Weigerung von Anonymisierungszusagen durch Boulevardmedien), BGer 7B_1258/2025 vom 24.04.2026 (Saalgrössen, Vorlaufzeiten bei Andrang), BGer 7B_61/2022 vom 25.06.2024 (Zuständigkeit des Kollegiums vs. Verfahrensleitung) sowie der kantonalen Praxis (BE OG BK 2025 436, ZH OG UH150001, ZH OG SB130359)."
 ---
 

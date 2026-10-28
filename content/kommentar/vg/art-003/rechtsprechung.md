@@ -5,17 +5,14 @@ date: 2026-09-02
 lastmod: 2026-09-09
 description: "Umfassende Rechtsprechungsübersicht zu Art. 3 VG: Bundesgerichtliche Leitentscheide (BGE) und Direktprozess-Urteile (BGer 2E_ / BVGE) zu Kausalhaftung, Schutznormlehre, Notverordnungen des Bundesrates, wesentlicher Amtspflichtverletzung, Garantenstellung bei Armeewaffen und dem Verhältnis zu Spezialgesetzen."
 tags: ["Rechtsprechung", "VG", "Staatshaftung", "Kausalhaftung", "Widerrechtlichkeit", "Bundesrat", "Credit Suisse", "Armeewaffen", "Aufsichtshaftung", "Justizhaftung"]
-agent_verified: true
 revisions:
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht zu Art. 3 VG auf 16 fundierte Entscheide mit detaillierten Lebenssachverhalten, Kernaussagen und Praxisfolgen gemäss Standard Art. 110 StPO / Art. 336 OR."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstanlage der Rechtsprechungsseite zu Art. 3 VG."
 ---
 

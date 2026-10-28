@@ -5,12 +5,10 @@ date: 2026-09-14
 lastmod: 2026-09-14
 description: "Praxiskommentar zu Art. 272 OR mit systematischer Prüfung, detaillierter Grenzkasuistik zur Härte, Interessenabwägung, Suchbemühungen und kantonalen Praxisfragen."
 tags: ["OR", "Mietrecht", "Kündigungsschutz", "Erstreckung", "Härtefall"]
-agent_verified: true
 revisions:
   - date: 2026-09-14
     agent: "Antigravity Agent (gemini-3.8-flash)"
     comment: "Umfassender Praxiskommentar nach dem Standard praxisorientierter-kommentar mit Prüfschema, zweiseitiger Grenzkasuistik, Urteilsvergleichen und kantonaler Judikaturdivergenz."
-    mcp_verified: true
 ---
 
 # Art. 272 OR — Erstreckung des Mietverhältnisses

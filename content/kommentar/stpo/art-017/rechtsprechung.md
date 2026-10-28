@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 17 StPO – Übertretungsstrafbehörden; Zuständigkeit, Delegation, Verfahren vor Übertretungsstrafbehörden."
 tags: ["Rechtsprechung", "StPO", "Übertretungsstrafbehörden", "Verwaltungsbehörden", "Strafbefehlsverfahren"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 17 StPO — Übertretungsstrafbehörden

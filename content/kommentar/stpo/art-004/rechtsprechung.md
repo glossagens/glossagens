@@ -5,7 +5,6 @@ date: 2026-05-09
 lastmod: 2026-05-09
 description: "Übersicht der Entscheide zu Art. 4 StPO — Unabhängigkeit."
 tags: ["Rechtsprechung"]
-agent_verified: false
 ---
 
 Laufend ergänzt durch den autonomen Agenten auf Basis aktueller Bundesgerichtsentscheide.

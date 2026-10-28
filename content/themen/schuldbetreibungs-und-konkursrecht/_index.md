@@ -50,12 +50,10 @@ normen:
   - { gesetz: schkg, art: art-305 }
   - { gesetz: schkg, art: art-333 }
 stichworte: ["Schuldbetreibung", "Betreibungsamt", "Konkursamt", "Aufsichtsbehörde", "Betreibungsbegehren", "Zahlungsbefehl", "Rechtsvorschlag", "Rechtsöffnung", "Anerkennungsklage", "Aberkennungsklage", "Fortsetzungsbegehren", "Pfändung", "Existenzminimum", "Widerspruchsverfahren", "Verlustschein", "Konkursandrohung", "Konkurseröffnung", "Insolvenzerklärung", "Kollokationsplan", "Abtretung nach Art. 260 SchKG", "neues Vermögen", "Arrest", "paulianische Anfechtung", "Nachlassstundung", "Nachlassvertrag", "Betreibungsregister"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren). Normtext Art. 38 SchKG per {{< wortlaut >}} (scripts/wortlaut.py); SchKG (Stand 1.1.2026) in der geltenden Fedlex-Konsolidierung gelesen, Art. 43 SchKG zusätzlich in der Fassung vom 1.7.2024; Art. 72 und 74 BGG sowie Art. 198 und 251 ZPO über die Fedlex-MCP geprüft. 15 BGE als Volltext von entscheidsuche.ch geladen (MCP offline, direkt über den ES-Proxy); Erwägungsnummern, Anker, Dispositiv und wörtliche Zitate gegen den Volltext abgeglichen. Zitate nur aus deutschsprachigen Entscheiden; französischsprachige sind sinngemäss wiedergegeben."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-06-18
 lastmod: 2026-06-18
 description: "Kommentar zu aArt. 9 VVG (aufgehoben per 1.1.2022) — Nichtigkeit der Rückwärtsversicherung, historische Bedeutung für die Vertragsauslegung von Prior-Acts-Klauseln"
 tags: ["VVG", "Rückwärtsversicherung", "Vertragsauslegung", "Prior-Acts-Klausel", "Versicherungsvertragsrecht", "aArt. 9 VVG"]
-agent_verified: true
 ---
 
 ## aArt. 9 VVG — Rückwärtsversicherung (aufgehoben)

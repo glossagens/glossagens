@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 123 StGB: einfache Körperverletzung, Abgrenzung zur Tätlichkeit (Art. 126) und schweren Körperverletzung (Art. 122), Qualifikationstatbestände (Gebrauch gefährlicher Gegenstände, Wehrlose, häusliche Gewalt) sowie Rechtfertigung durch Einwilligung (BDSM, Sport, Heileingriff) mit umfassender Grenzkasuistik."
 tags: ["StGB", "Körperverletzung", "Tätlichkeit", "Gefährlicher Gegenstand", "Häusliche Gewalt", "Wehrlosigkeit", "Einwilligung", "Sadomasochismus", "Sport"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-123.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Praxisausbau nach dem Standard von praxisorientierter-kommentar (Benchmarks Art. 110 StPO, Art. 336 OR). Merkmalskatalog vorangestellt, narrative Sachverhaltserzählungen (BGE 119 IV 25, 134 IV 189, 101 IV 285, 124 IV 53, 129 IV 1, 152 IV 1, 124 IV 258, BGer 6P.232/2006, Appellationsgericht BS SB.2022.19, OG AR OG O1S 19 2, OG ZH UE130035, OG SH 51/2016/21). Volltextabgleich über entscheidsuche.ch; zweiseitige Grenzkasuistik, Judikaturdivergenzen offengelegt, Kasuistiktabelle und rollenbasierte Praxishinweise implementiert. Gesetzestext verbatim nach Fedlex (SR 311.0, Stand 12. Juni 2026)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 

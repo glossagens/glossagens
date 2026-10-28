@@ -5,13 +5,10 @@ date: "2026-10-21"
 lastmod: "2026-10-21"
 description: "Praxiskommentar zu Art. 164 StGB: Echte Verminderung des Haftungssubstrats, Tatmodalitäten, Bewertungsgrenzen bei unterpreisigen Veräusserungen, Auffanggesellschaften, Nichtigkeit von Verlustscheinen und Straflosigkeit des Erwerbers bei notwendiger Teilnahme."
 tags: ["StGB", "Konkursdelikte", "Gläubigerschädigung", "Vermögensminderung", "Haftungssubstrat", "Schuldner", "Auffanggesellschaft", "Verlustschein", "Pauliana", "Notwendige Teilnahme"]
-agent_verified: true
-mcp_verified: true
 revisions:
   - date: "2026-10-21"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar: Merkmalsraster, zweiseitige Grenzkasuistik (u.a. BGer 6S.349/2006, OG BE SK 2023 532, BGE 131 IV 49, BGE 126 IV 5, OG AR O1S-14-16), Gegenüberstellungstabellen, kantonale Praxisfragen und rollenbezogene Praxishinweise."
 ---
 

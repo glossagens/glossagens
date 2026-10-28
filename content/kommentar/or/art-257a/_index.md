@@ -5,17 +5,14 @@ date: 2026-10-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 257a OR: Begriff und Konnexität der Nebenkosten, zwingendes Ausscheidungsprinzip (Ausschluss von Eigentümerlasten), Bestimmtheitsgebot, unzulässige AGB- und Formularklauseln, Akontozahlungen und Lockvogel-Nebenkosten, Formularpflicht bei nachträglicher Überwälzung sowie Bereicherungsanspruch und Verjährung."
 tags: ["OR", "Mietrecht", "Nebenkosten", "Ausscheidungsgrundsatz", "Betriebskosten", "Heizkosten", "Akontozahlung", "Pauschalmiete", "AGB", "Rückforderung", "Verjährung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-257a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als Praxiskommentar gemäss Benchmark-Standard Art. 336 OR / Art. 110 StPO. Gesetzeswortlaut verbatim gegen Fedlex (SR 220, Stand 1. Oktober 2026) abgeglichen. Volltexte ausgewertet und verifiziert über entscheidsuche.ch: BGE 137 I 135, BGE 135 III 591, BGE 132 III 24, BGE 121 III 460, BGE 137 III 362, BGE 124 III 201 sowie BGer 4C.250/2006, 4A_185/2009, 4A_622/2015, 4A_149/2019, 4A_339/2018 und die kantonalen Urteile AG OG ZVE.2026.16 vom 14. Juli 2026, ZH MG MJ240027-L vom 30. Oktober 2024 (ZMP 2024 Nr. 11), ZH MG MJ240061-L vom 31. März 2025 (ZMP 2025 Nr. 6) sowie SG KG BE.2020.13 vom 30. November 2020."
 ---
 

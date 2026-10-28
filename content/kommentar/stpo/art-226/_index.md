@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 226 StPO – Entscheid des Zwangsmassnahmengerichts: 48-Stunden-Entscheidfrist (Abs. 1), Eröffnung und Begründung (Abs. 2), Hinweis auf Haftentlassungsgesuche (Abs. 3), Höchstdauer und Ersatzmassnahmen (Abs. 4), unverzügliche Freilassung (Abs. 5)."
 tags: ["StPO", "Zwangsmassnahmengericht", "Untersuchungshaft", "48-Stunden-Frist", "Ersatzmassnahmen", "Freilassung", "Haftdauer", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-226.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung zu Art. 226 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 

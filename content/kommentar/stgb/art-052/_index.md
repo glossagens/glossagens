@@ -5,22 +5,18 @@ date: 2026-10-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 52 StGB (SR 311.0): Strafbefreiung bei Geringfügigkeit von Schuld und Tatfolgen — zwingender Charakter, Quervergleich, Kasuistik (angewandt vs. verworfen), prozessuale Durchsetzung via Art. 8 StPO und Kostenfolgen."
 tags: ["StGB", "Strafbefreiung", "Geringfügigkeit", "Schuld", "Tatfolgen", "Opportunitätsprinzip", "Strafverzicht", "Quervergleich", "Strafbedürfnis"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-052.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 85 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage praxisorientiert — Gesetzestext via Fedlex get_article (SR 311.0 Art. 52), Leitentscheid BGE 135 IV 130 E. 5."
   - date: 2026-10-03
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach dem Praxiskommentar-Standard: Umfassende Kasuistik mit narrativen Sachverhalten (BGE 135 IV 130, BGE 138 IV 13, BGE 146 IV 297, BGer 6B_519/2020, BGer 6B_477/2022), Schwellenwert-Gegenüberstellungstabellen, zwei kantonale Praxisfragen (OG ZG, KG SG) und prozessuale Realität (BGE 139 IV 220, Kostenauflage gemäss Art. 426 Abs. 2 StPO)."
 ---
 

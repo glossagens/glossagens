@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der massgeblichen Entscheide zu Art. 4 BGBB (Geltungsbereich landwirtschaftlicher Gewerbe) — juristische Personen, Anteilsveräusserung, Begriff des landwirtschaftlichen Gewerbes, Vorkaufsrecht, Erbenzuweisung."
 tags: ["Rechtsprechung", "BGBB", "landwirtschaftliches Gewerbe", "juristische Person", "Bewilligungspflicht", "Vorkaufsrecht", "Erbenzuweisung"]
-agent_verified: true
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 140 II 233, BGE 129 III 693, BGE 134 III 1, BGE 125 III 175)."
 ---
 

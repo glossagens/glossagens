@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: "2026-09-05"
 description: "Übersicht der massgeblichen Entscheide zu Art. 240 StGB (Geldfälschung) — Absichtsbegriff, Übergabe an Eingeweihte, besonders leichter Fall, Konkurrenz zu Art. 242 und 146 StGB."
 tags: ["Rechtsprechung", "StGB", "Geldfälschung", "Falschgeld", "Absicht", "Konkurrenz"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; kantonale Praxis (VS, AG) ergänzt; alle BGE-Links verifiziert"
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 119 IV 154, 133 IV 256, 123 IV 55, 123 IV 9)."
 ---
 

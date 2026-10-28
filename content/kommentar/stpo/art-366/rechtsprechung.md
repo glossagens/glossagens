@@ -5,7 +5,6 @@ date: "2026-07-17"
 lastmod: "2026-07-17"
 description: "Übersicht der Entscheide zu Art. 366 StPO: Voraussetzungen des Abwesenheitsverfahrens."
 tags: ["Rechtsprechung", "Abwesenheitsverfahren", "Säumnis", "Art. 6 EMRK"]
-agent_verified: false
 ---
 
 ## Bundesgerichtsentscheide (BGE)

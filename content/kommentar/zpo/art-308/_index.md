@@ -5,27 +5,22 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 308 ZPO: Anfechtbare Entscheide im Berufungsverfahren — End- und Zwischenentscheide, vorsorgliche Massnahmen, Streitwertgrenze von CHF 10'000 und Kasuistik."
 tags: ["ZPO", "Berufung", "Rechtsmittel", "Streitwertgrenze", "Endentscheid", "Zwischenentscheid", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-308.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von End- und Zwischenentscheiden (BGE 148 III 186), vorsorglichen Massnahmen (BGE 137 III 417), Streitwertgrenze von CHF 10'000 (ZPO-Revision 2025) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 18 % → 100 %, Urteil A); BGE 138 III 620 stand für die Abgrenzung Zwischen-/Endentscheid und betrifft Art. 257 ZPO (contradicts); Literaturangabe von einem nicht belegbaren Zitiervermerk befreit"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 18 % (Urteil C); 0 von 14 Paaren gestützt; 9 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

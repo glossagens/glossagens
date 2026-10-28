@@ -5,22 +5,18 @@ date: 2026-09-01
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 176 ZGB (Eheschutz/Getrenntleben): Leitentscheide zu Unterhaltsbemessung, hypothetischem Einkommen, Schulstufenmodell, Erwerbsobliegenheit, Konkubinat, Mankotragung, Wohnungs- und Hausratzuteilung, Gütertrennung sowie Kinderbelangen und alternierender Obhut, mit kantonalen Entscheiden zu Hausrat, Auszugsfrist und Verfahrensfragen."
 tags: ["Rechtsprechung", "ZGB", "Eheschutz", "Getrenntleben", "Unterhalt", "Schulstufenmodell", "Wohnungszuteilung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 5A_254/2026 vom 30.09.2026 (unter II. Weitere Bundesgerichtsentscheide): Anrechnung eines hypothetischen Einkommens und strikte Begründungspflicht (Art. 29 Abs. 2 BV) bei Abweichung vom Schulstufenmodell im Eheschutz (Art. 176 Abs. 1 Ziff. 1 ZGB)."
   - date: 2026-09-24
     by: "Hermes Agent"
     model: "deepseek-v4.1-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau von 5 auf 54 strukturierte Entscheide, gegliedert in Leitentscheide (BGE), weitere Bundesgerichtsentscheide und kantonale Entscheide. Alle Entscheide im Volltext geprüft (opencaselaw get_case_brief/get_erwaegung; entscheidsuche.ch-Dokumente über die Such-API _searchV2.php aufgelöst und im Volltext gelesen). Jeder Eintrag mit Thema, Abstract und, wo belegbar, wörtlichem Zitat. Linkziele als verbatim attachment.content_url aus entscheidsuche.ch übernommen und auf HTTP 200 geprüft. Zwei Entscheide (OGer ZG Z2 2014 18, BG Winterthur EE250040) über opencaselaw, da entscheidsuche.ch sie nicht führt. Offengelegte Divergenzen: Erwerbsobliegenheit, Gütertrennung, Eigentum als Zuteilungskriterium. Korrekturen gegenüber der Vorversion: BGE 130 III 537 ist ein Scheidungsfall (Art. 125 ZGB) und BGE 144 III 502 ein Kindesunterhaltsfall (Art. 276/276a/285 ZGB); BGE 120 II 1 und BGE 114 II 18 betreffen die inhaltsgleichen vorsorglichen Massnahmen bzw. die Hausratszuteilung. BGE 135 III 66 liegt nur als publizierter Auszug (E. 2–10) vor, ohne Einzelfall-Dispositiv; OGer TG RBOG 2002 Nr. 07 und OGer BE ZK 2008 645 sind nur als Leitsatz bzw. Auszug publiziert."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 176 ZGB mit BGE 142 III 518, BGE 128 III 4, BGE 115 II 297 sowie BGer 5A_639/2025 und kantonaler Praxis."
 ---
 

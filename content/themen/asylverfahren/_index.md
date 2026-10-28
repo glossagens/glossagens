@@ -23,12 +23,10 @@ normen:
   - { gesetz: aig, art: art-083 }
   - { gesetz: bgg, art: art-083 }
 stichworte: ["Asylgesuch", "Flüchtlingsbegriff", "Verfolgungsmotiv", "begründete Furcht", "Schutztheorie", "innerstaatliche Schutzalternative", "Kollektivverfolgung", "Nachfluchtgründe", "Asylunwürdigkeit", "Bundesasylzentrum", "Vorbereitungsphase", "Dublin", "AMM-Verordnung", "Rechtsvertretung", "Nichteintretensentscheid", "Wegweisung", "vorläufige Aufnahme", "Mehrfachgesuch"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ verfahren). Normtexte AsylG (Stand 12.06.2026, inkl. Übernahme der Verordnungen [EU] 2024/1351 und 2024/1356), Art. 83 AIG und Art. 83 BGG über die Fedlex-MCP; Art. 3 und 7 AsylG per {{< wortlaut >}}. Neun BVGE als amtliche PDF von entscheidsuche.ch geladen (entscheidsuche-MCP nicht erreichbar, Suche über den ES-Proxy); Erwägungsnummern und jedes wörtliche Zitat gegen den Volltext abgeglichen, pruefen.py ohne Befund. Keine Literatur."
 ---
 

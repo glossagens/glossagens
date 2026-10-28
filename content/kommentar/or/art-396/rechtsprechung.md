@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 396 OR — Umfang des Auftrags, implizite Ermächtigung, besondere Ermächtigung für Vergleich, Schiedsgericht, Wechsel, Grundstücke und Schenkungen"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Umfang", "Ermächtigung"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neu erstellt; Entscheide via entscheidsuche verifiziert und verlinkt"
 ---
 

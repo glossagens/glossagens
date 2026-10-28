@@ -5,22 +5,18 @@ date: 2026-07-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 369 StPO: Verfahren der neuen Beurteilung — summarische Vorprüfung und Ansetzung der neuen Hauptverhandlung, einphasige Verhandlung und Spruchkörper, zwingende Sistierung von Rechtsmitteln und Verjährungshemmung, resolutiv bedingte Rechtskraft und Sicherheitshaft bis zur Verhandlung, Verwirkung bei erneutem unentschuldigtem Fernbleiben samt Beschwerdeweg sowie Rückzug unter Kostenfolge."
 tags: ["StPO", "Abwesenheitsverfahren", "neue Beurteilung", "Hauptverhandlung", "Sicherheitshaft", "aufschiebende Wirkung", "Sistierung", "Verwirkung", "Verjährung", "Rückzug"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-369.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 368 StPO). Volltextrecherche und Verifikation über entscheidsuche.ch: BGE 146 IV 59, BGE 116 Ia 32, BGer 1B_478/2021, 6B_438/2017, 6B_453/2020, 6B_45/2021, 6B_1175/2016 sowie kantonale Leit- und Praxisentscheide aus BE (BK 25 432, BK 16 550, BK 26 131), AG (SBK.2025.141), BL (470 19 159), GR (SK1 20 12) und TPF (SK.2017.60). Merkmalsbezogene Gliederung nach dem Prüfschema, Gegenüberstellung von Anwendungs- und Verwerfungsfällen, tabellarische Kasuistik, Offenlegung der Praxisfehler kantonaler Behörden bei der Haftzuständigkeit und adressatenbezogene Praxishinweise."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

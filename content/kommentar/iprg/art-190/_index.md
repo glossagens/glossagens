@@ -5,17 +5,14 @@ date: '2026-09-20'
 lastmod: 2026-10-15
 description: "Umfassender Praxiskommentar zu Art. 190 IPRG: Endgültigkeit des Schiedsspruchs, abschliessende Beschwerdegründe vor Bundesgericht, materieller und verfahrensrechtlicher Ordre public (Matuzalém, Semenya, Pechstein), Zwischenentscheide und Praxishinweise."
 tags: ["IPRG", "Schiedsgerichtsbarkeit", "Ordre public", "Rechtliches Gehör", "Schiedsentscheid", "Zuständigkeit", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 291 vom 2026-01-01 (data/wortlaut/iprg/art-190.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: '2026-09-20'
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung Art. 190 IPRG als umfassender Praxiskommentar gemäss Standard des Skills praxisorientierter-kommentar; alle Zitate und Entscheide via Fedlex und OpenCaseLaw verifiziert"
 ---
 

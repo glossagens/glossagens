@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-24
 description: "Kommentar zu Art. 18 ZGB — Rechtsfolgen fehlender Urteilsfähigkeit, Nichtigkeit von Rechtshandlungen, Beweislastverteilung und gesetzliche Ausnahmen."
 tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Nichtigkeit", "Beweislast", "Erwachsenenschutz", "Gesellschaftsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung der Nichtigkeit auf gesellschaftsrechtliche Generalversammlungsbeschlüsse bei Stimmrechtsausübung durch Urteilsunfähige gemäss AG Handelsgericht HSU.2026.22 vom 13.10.2026 (Art. 706b OR); Verlinkung auf neu erstellten Kommentar zu Art. 16 ZGB."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-018.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 92 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-20 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Kompletter Overhaul: 13 Entscheide verifiziert, Belegprüfung via check_claim_support durchgeführt, kantonale Praxisfragen ergänzt, attest_response ok"
 ---
 

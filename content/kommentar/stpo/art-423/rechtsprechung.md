@@ -5,17 +5,14 @@ date: 2026-10-05
 lastmod: 2026-10-23
 description: "Rechtsprechungsübersicht zu Art. 423 StPO: Leitentscheide des Bundesgerichts, des Bundesstrafgerichts und kantonale Gerichtspraxis zum Grundsatz der staatlichen Kostentragung in der Strafrechtspflege, zum Verbot der Überwälzung von Haft- und Polizeikosten, zu den Kosten der amtlichen Verteidigung, zu Gerichtsstandskonflikten sowie zu Sonderverfahren."
 tags: ["Rechtsprechung", "StPO", "Verfahrenskosten", "Kostentragung", "Gemeinwesen", "Bund", "Kanton", "Haftkosten", "Amtliche Verteidigung", "Gerichtsstand"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex (Art. 25, 40, 135, 417, 420, 423, 426–428). Korrigiert: BGer 7B_206/2024 (Sachverhalt: betrügerischer Konkurs, Verfügung ZMG Schwyz vom 9. Februar 2024, Kosten Fr. 700; Behauptung eines «verfassungsrechtlichen Verbots der Lückenfüllung» entfernt); BGE 145 IV 90 (Sachverhalt Neuenburg, 6B_369/2018; Zitat stammt aus der Regeste); BGer 6B_16/2020 (Rückweisung, Pinpoint); BGer 6B_1127/2014 (Veruntreuung, Freispruch im Berufungsverfahren, Rückweisung); BGE 139 IV 45 nur noch als dort zitiert; UH130339 nicht mehr als Beleg für das Rechtsschutzinteresse; BStGer BG.2014.7/10 (Sachverhalt, Ausgang); KG LU 4P 14 1 («Jahrzehnte» → «Jahre»); OG BE SK 2012 254 (Kausalität durch Verhalten, nicht Disziplinarverstösse); unbelegte «Luzerner/Berner Modelle» und «Gegenpraxis ZH/LU/SO» gestrichen; Art. 25 Abs. 3 StPO existiert nicht (entfernt); Art. 37 StBOG-Verweise entfernt; BGE 132 I 117 und 139 IV 45 Links berichtigt. Beibehalten und bestätigt: BGE 141 IV 465 E. 9.5.2 (Parlament, St. Gallen/Thurgau/Waadt, Art. 380 Abs. 2 StGB). Botschaft BBl 2006 1085 nicht direkt abgerufen."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Systematische Aufbereitung von 15 wegweisenden Entscheiden zu Art. 423 StPO. Sämtliche Urteile über entscheidsuche.ch im Volltext geprüft und verbatim verlinkt."
 ---
 

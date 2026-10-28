@@ -5,17 +5,14 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 331 StPO — Beweisbestimmung, Beweisantragsablehnung, Fristansetzung, Verschiebungsgesuche und Nichtanfechtbarkeit."
 tags: ["Rechtsprechung", "StPO", "Hauptverhandlung", "Beweisanträge", "Verschiebungsgesuch", "Verfahrensleitung"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Redaktionelle Bereinigung und Angleichung an den wissenschaftlichen Kommentarstil."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Ersterstellung. Sämtliche Entscheide über entscheidsuche.ch verifiziert."
 ---
 

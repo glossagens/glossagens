@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 226 StPO – Entscheid des Zwangsmassnahmengerichts, 48-Stunden-Entscheidfrist, Ersatzmassnahmen und Freilassung."
 tags: ["Rechtsprechung", "StPO", "Zwangsmassnahmengericht", "Untersuchungshaft", "48-Stunden-Frist", "Ersatzmassnahmen", "Freilassung", "Begründungspflicht"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 226 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonale Gerichte)."
 ---
 

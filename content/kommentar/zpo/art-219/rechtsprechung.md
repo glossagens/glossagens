@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 219 ZPO — sinngemässe Anwendung der Bestimmungen des ordentlichen Verfahrens und ihre Grenzen."
 tags: ["Rechtsprechung", "ZPO", "ordentliches Verfahren", "sinngemässe Anwendung", "summarisches Verfahren"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 25 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 25 % (Urteil C); 3 von 36 Paaren gestützt; 21 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

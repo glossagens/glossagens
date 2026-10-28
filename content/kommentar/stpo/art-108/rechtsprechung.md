@@ -5,17 +5,14 @@ date: 2026-06-20
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 108 StPO – Einschränkungen des rechtlichen Gehörs"
 tags: ["Rechtsprechung", "StPO", "rechtliches Gehör", "Einschränkung", "Parteiöffentlichkeit", "Akteneinsicht"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 29 %). Sämtliche Kernaussagen der Vorgängerfassung waren Paraphrasen des Gesetzestexts mit angehängter Fundstelle; im Volltext der Entscheide stehen sie nicht. BGer 1B_467/2016 entfernt (erwähnt Art. 108 StPO nicht). Die übrigen Einträge sind nach dem tatsächlichen Inhalt neu gefasst und die Erwägungsangaben korrigiert."
   - date: 2026-06-20
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

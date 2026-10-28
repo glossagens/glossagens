@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-09-12
 description: "Übersicht der Leitentscheide des Bundesgerichts und ausgewählter kantonaler Entscheide zu Art. 18 OR – Vertragsauslegung, subjektiver Konsens, Vertrauensprinzip, Simulation, Umgehungsgeschäfte und Gutglaubensschutz nach Art. 18 Abs. 2 OR."
 tags: ["Rechtsprechung", "OR", "Vertragsauslegung", "Simulation", "Scheingeschäft", "Vertrauensprinzip", "Falsa demonstratio"]
-agent_verified: true
 revisions:
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "BGer 4A_262/2026 ergänzt: Präzisierung zu Art. 18 Abs. 1 OR — ohne tatsächlichen und normativen Konsens entfällt die Passivlegitimation. Erwägungen E. 2.1 und E. 2.4 via opencaselaw geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Zusammenstellung der Leitentscheide zu Art. 18 OR (BGE 144 III 93, BGE 142 III 239, BGE 148 III 57, BGE 151 II 794, BGE 116 II 685 u.a.) sowie kantonaler Judikatur zu Simulation, Scheinarbeitsverträgen und Umgehungskonstruktionen."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-09-17
 lastmod: 2026-09-17
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 75 AIG (Vorbereitungshaft): Leitentscheide des Bundesgerichts und kantonale Gerichtsentscheide (ZH, BS, SG, AG)."
 tags: ["Rechtsprechung", "AIG", "Vorbereitungshaft", "Zwangsmassnahmen", "Ausländerrecht"]
-agent_verified: false
 revisions:
   - date: 2026-09-17
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung Rechtsprechungsübersicht mit 14 geprüften Entscheiden (BGE, BGer, ZH, BS, SG, AG) via entscheidsuche.ch und opencaselaw."
 ---
 

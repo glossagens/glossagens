@@ -5,12 +5,10 @@ date: 2026-08-31
 lastmod: 2026-08-31
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 15a SVG: Zweiphasenausbildung, Führerausweis auf Probe, Probezeitverlängerung, Verfall von Gesetzes wegen und Sperrfrist."
 tags: ["Rechtsprechung", "SVG", "Führerausweis auf Probe", "Verfall", "Annullierung", "Probezeit", "Sperrfrist"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht strukturiert: 12 Leitentscheide und kantonale Urteile mit Abstracts und Links auf entscheidsuche.ch; BGer 1C_246/2026 (zur Publikation vorgesehen) und BGE 146 II 300 integriert."
 ---
 

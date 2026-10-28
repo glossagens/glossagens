@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 697 OR: Auskunftsrecht des Aktionärs an der Generalversammlung und ausserhalb der Generalversammlung (10 % Quorum), Schranken der Geschäftsgeheimnisse, Auskunft im Konzern, Fristenlauf und Beweislast nach Art. 697b OR mit ausführlicher Kasuistik."
 tags: ["OR", "Aktienrecht", "Auskunftsrecht", "Aktionärsrechte", "Generalversammlung", "Verwaltungsrat", "Revisionsstelle", "Geschäftsgeheimnisse", "Konzernrecht", "Handelsgericht", "Klagefrist", "Sonderuntersuchung"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als umfassender Praxiskommentar zu Art. 697 OR (Aktienrecht 2020 in Kraft seit 01.01.2023) mit vollständigem Prüfschema, Gegenüberstellungstabellen zur Rechtsprechung, ausführlicher Lebenssachverhaltskasuistik aus BGE und kantonalen Handelsgerichten (ZH, AG) sowie Praxishinweisen."
 ---
 

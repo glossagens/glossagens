@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 16 StPO – Staatsanwaltschaft"
 tags: ["Rechtsprechung", "StPO", "Staatsanwaltschaft"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

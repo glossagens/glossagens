@@ -5,22 +5,18 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 728 ZGB — Ersitzung als originärer Eigentumserwerb an beweglichen Sachen durch fünfjährigen ununterbrochenen, unangefochtenen und gutgläubigen Eigenbesitz: Tatbestandsmerkmale (Eigenbesitz, Ununterbrochenheit, Unangefochtensein, guter Glaube), Fristen (5 Jahre, 2 Monate für häusliche Tiere, 30 Jahre für Kulturgüter/KGTG), unfreiwilliger Besitzverlust (Abs. 2), Fristberechnung/Unterbrechung/Stillstand nach Verjährungsrecht (Abs. 3), Ersitzung als Ausschlussgrund der Vindikation und Verhältnis zu Art. 934, 936, 930, 662, 641 Abs. 2 mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Ersitzung", "originärer Eigentumserwerb", "guter Glaube", "Eigenbesitz", "unangefochten", "Kulturgüter", "KGTG", "Tiere", "Verjährung", "Vindikation"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-728.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-15"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Audit: Bereinigung Pinpoint BGE 65 II 62 in Rechtsprechung."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 728, 662 ZGB; sowie Art. 3, 641a, 714, 715, 722, 920, 930, 931, 933, 934, 935, 936, 940 ZGB aus den Vorarbeiten. 10 Entscheide via entscheidsuche.ch geprüft, davon 9 im Volltext abgerufen (BGE 65 II 62, 94 II 297, 100 II 8, 103 II 186, 105 IV 303, 113 II 397, 116 II 267, 121 III 345, 139 III 305; BL KG 410 23 305). Links verbatim aus document_url-Feldern übernommen."
 ---
 

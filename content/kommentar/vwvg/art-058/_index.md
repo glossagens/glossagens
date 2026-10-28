@@ -5,7 +5,6 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 58 VwVG: Vorinstanzliche Wiedererwägung pendente lite, Durchbrechung des Devolutiveffekts, Begünstigungsschranke (keine reformatio in peius), Rechtsnatur und Eröffnung der neuen Verfügung, Fortsetzung des Beschwerdeverfahrens bei Teilentsprechung und Kostenfolgen."
 tags: ["VwVG", "Verwaltungsverfahren", "Wiedererwägung", "pendente lite", "Devolutiveffekt", "Gegenstandslosigkeit", "Parteientschädigung"]
-agent_verified: true
 ---
 
 ### Gesetzeswortlaut

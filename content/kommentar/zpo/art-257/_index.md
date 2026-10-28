@@ -5,27 +5,22 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen im summarischen Verfahren — unbestrittener/liquider Sachverhalt, klare Rechtslage, Kasuistik bei Mieterausweisungen und Nichteintreten."
 tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz in klaren Fällen", "Mieterausweisung", "Liquider Beweis", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-257.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Vertiefte Kasuistik (Zahlungsverzugskündigung, Kündigungsschutz vs. Ausweisung, Verrechnungseinreden, Arbeitsrecht), kantonale Praxisfragen und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 17 % → 100 %, Urteil A); die beiden Leitentscheide zur Norm (BGE 138 III 123 zur klaren Rechtslage, BGE 138 III 620 zu den Einwendungen) fehlten bzw. waren falsch zugeordnet und sind jetzt mit Erwägung belegt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 17 % (Urteil C); 0 von 18 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

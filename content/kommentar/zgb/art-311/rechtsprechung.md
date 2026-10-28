@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-19
 description: "Übersicht der Entscheide zu Art. 311 ZGB – Entzug der elterlichen Sorge"
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "elterliche Sorge", "Sorgeentzug"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "claude-opus-4-6-20250819"
-    mcp_verified: true
     note: "Kompletter Overhaul; halluziniertes Urteil 5C.207/2004 entfernt; alle Kernaussagen via check_claim_support geprüft; EGMR und kantonale Entscheide ergänzt"
   - date: 2026-05-23
     by: "Glossagens Agent"
     model: "unknown"
-    mcp_verified: false
     note: "Erstfassung"
 ---
 

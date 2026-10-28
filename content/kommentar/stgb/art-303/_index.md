@@ -5,22 +5,18 @@ date: 2026-05-22
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 303 StGB: Falsche Anschuldigung — direkte und mittelbare Begehungsform, Nichtschuldiger, wider besseres Wissen, Eventualabsicht und Konsumtion von Ehrverletzungsdelikten."
 tags: ["StGB", "falsche Anschuldigung", "Rechtspflegedelikt", "Ehrdelikt", "wider besseres Wissen", "Eventualabsicht", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: BGE 136 IV 170 (Solothurner Hausdurchsuchungs-Kontroverse, Nichtschuldiger nicht durch Einstellung festgestellt), BGE 132 IV 20 (falsche Identität bei Festnahme, mittelbare falsche Anschuldigung), BGE 85 IV 80 (kein Arglist-Erfordernis bei Abs. 1), BGE 80 IV 117 (Eventualabsicht genügt), BGE 89 IV 204 (ausländische Behörde), BGE 115 IV 1 (Konsumtion von Ehrverletzungsdelikten), BGer 6B_662/2022 (Vergeltungsmassnahme gegen Richter), BGer 6B_955/2024 (ins Blaue hinaus erhobener Vorwurf), BGer 6B_1189/2023 (Eventualvorsatz vs. Eventualabsicht), BGer 1B_555/2019 (Konsumtion Art. 174), BGer 7B_1041/2023 (Eventualabsicht im KESB-Verfahren), BGer 6B_189/2024 (Nichteintreten); alle Links durch entscheidsuche.ch ersetzt; Gesetzeswortlaut → Wortlaut korrigiert; Tabellenformat durch Marginalien ersetzt"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Attest-Audit KW33: 9 eurosp-Links zu OCL umgestellt"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 Schritte 1-3+6"
 ---
 

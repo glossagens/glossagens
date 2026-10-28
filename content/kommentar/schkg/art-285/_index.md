@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 285 SchKG: Zweck der paulianischen Anfechtung, Vollstreckungssubstrat, Aktivlegitimation des Verlustscheingläubigers und der Konkursmasse (Art. 260 SchKG), anfechtungsfeste Sanierungshandlungen in der Nachlassstundung (Abs. 3 und 4)."
 tags: ["SchKG", "Anfechtungsklage", "Pauliana", "Aktivlegitimation", "Verlustschein", "Konkursverwaltung", "Abtretung", "Nachlassstundung", "Sanierungsdarlehen"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der teleologischen Grundlagen, BBl-Materialien (1991 III 1, 2010 6455, 2017 399), Prüfschema, Abgrenzung von Zivil- und Vollstreckungsrecht (BGE 134 III 52), Aktivlegitimation im Pfändungs- und Konkursverfahren, Ausnahmebestimmungen für Sanierungshandlungen in der Nachlassstundung (Abs. 3 und 4), Kasuistik und taktische Praxishinweise."
 ---
 

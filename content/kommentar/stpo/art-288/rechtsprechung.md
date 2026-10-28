@@ -5,7 +5,6 @@ date: 2026-07-11
 lastmod: 2026-07-11
 description: "Übersicht der Entscheide zu Art. 288 StPO – Legende und Zusicherung der Anonymität verdeckter Ermittlerinnen und Ermittler."
 tags: ["Rechtsprechung", "StPO", "verdeckte Ermittlung", "Legende", "Anonymität", "Identitätsschutz"]
-agent_verified: false
 ---
 
 ## Leitentscheide

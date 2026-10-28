@@ -5,32 +5,26 @@ date: "2026-06-08"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 333 StPO – Änderung und Erweiterung der Anklage im gerichtlichen Hauptverfahren"
 tags: ["StPO", "Anklageprinzip", "Anklageänderung", "Anklageerweiterung", "Immutabilitätsprinzip"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-333.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Nachführung auf die Skill-Fassungen vom 04.09.2026 (11:06 Judikaturwidersprüche, 15:09 Tatbestandsmerkmale als Grundgerüst): Prüfschema-Tabelle mit neun Merkmalen und Lastverteilung als deckungsgleiches Inhaltsverzeichnis an den Anfang gestellt; die bisher am Schluss stehende Übersicht «Anwendbarkeit auf einen Blick» dorthin verschoben; Abschnittsüberschriften nach Merkmalen statt nach Stichworten benannt; die bislang vollständig fehlenden Merksätze (Skill Regel 6) ergänzt — je einer am Schluss der Abschnitte II bis V sowie Rollen-Merksätze für Verteidigung, Staatsanwaltschaft und Gericht. Gesetzeswortlaut erneut verbatim gegen Fedlex (SR 312.0, Konsolidierung 01.04.2025) geprüft. Bestand an Entscheiden und Zitaten unverändert."
   - date: "2026-09-04"
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau analog Art. 110 StPO / Art. 336 OR: Überblick und Bedeutung, Toleranzgrenze zum Sachverhalt, Rückweisungspraxis, Dispositionsmaxime, erweiterte Rechtsmittel-Kasuistik (Beschleunigungsgebot), Praxishinweise mit Übersichtstabelle sowie Literaturverzeichnis ergänzt; 17 neue Entscheide (8 BGer, 9 kantonal/BStGer) über entscheidsuche.ch verifiziert; Zitierfehler aus Vorversion korrigiert: BGer 6B_171/2022 vom 29.11.2022 ist dieselbe Entscheidung wie BGE 149 IV 42 (Geschäftsnummer statt separater Entscheid), nicht ein bestätigender Zweitentscheid"
   - date: "2026-08-30"
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erschöpfende Rechtsprechungsanalyse eingearbeitet; alle Links auf entscheidsuche.ch aktualisiert und kantonale Praxisfragen ausgebaut"
   - date: "2026-08-18"
     by: "Glossagens Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständiges Audit und Neubelegung: Alle Urteilsnachweise und Pinpoints über opencaselaw-MCP verifiziert"
 ---
 

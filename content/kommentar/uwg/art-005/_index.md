@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 5 UWG: Verwertung anvertrauter oder unbefugt zugänglich gemachter Arbeitsergebnisse (lit. a und b) und Übernahme marktreifer Arbeitsergebnisse durch technische Reproduktionsverfahren ohne angemessenen eigenen Aufwand (lit. c) — mit Sachverhalten aus der Praxis des Bundesgerichts und kantonaler Gerichte."
 tags: ["UWG", "Lauterkeitsrecht", "Leistungsschutz", "Arbeitsergebnis", "Nachahmungsfreiheit", "Datenbank", "Kundendaten", "Art. 6 UWG", "Art. 23 UWG"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstkommentar als Praxiskommentar. Gesetzeswortlaut per Shortcode aus Fedlex (SR 241, Stand 2025-01-01; data/wortlaut/uwg/art-005.json). Die zitierten Entscheide wurden über entscheidsuche.ch im Volltext gelesen und auf die Aussage geprüft, für die sie angeführt sind; Links aus den Feldern content_url der Treffer, Anker nur bei BGE mit vorhandener Erwägungsnummer. Ältere BGE (vor 2011) sind nur für materielle Aussagen verwendet. Kein Audit-Lauf (Judge-Ledger) und keine Prüfung der Literatur; daher mcp_verified: false."
 ---
 

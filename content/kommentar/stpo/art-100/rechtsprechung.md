@@ -5,17 +5,14 @@ date: 2026-06-20
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 100 StPO – Aktenführung und Dokumentationspflicht"
 tags: ["Rechtsprechung", "StPO", "Aktenführung", "Dokumentationspflicht", "Akteneinsicht"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 25 %). BGE 147 IV 167 entfernt (betrifft die Anklageerweiterung im Berufungsverfahren, nicht die Aktenführung); Pinpoints 6B_719/2011 E. 5 → E. 4.5 und 6B_1366/2016 E. 3 korrigiert bzw. entfernt. Neu aufgenommen: BGer 6B_1368/2017 E. 2.3 als zentrale Darstellung der Dokumentationspflicht. Fehlender revisions-Block ergänzt."
   - date: 2026-06-20
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

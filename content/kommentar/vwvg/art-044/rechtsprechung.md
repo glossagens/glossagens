@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-17"
 description: "Übersicht der Entscheide zu Art. 44 VwVG – Anfechtbarkeit der Verfügung"
 tags: ["Rechtsprechung", "VwVG", "Anfechtbarkeit", "Verfügung", "Beschwerde"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C 42% -> B, 0 offene Befunde): BGE 140 II 315 (tatsaechlich ein Art.-25a-VwVG-Realakt-Fall) und BGE 132 II 47 (tatsaechlich zu Verwaltungsgebuehr/Parteientschaedigung im Interkonnektionsverfahren, kein Bezug zur Subsidiaritaet von Art. 44 VwVG) als nicht passende Zitate entfernt. Pinpoints fuer BGE 110 V 48 (E. 3 statt E. 2) und BGE 142 V 337 (E. 3.2.3 statt E. 3/4.2, dort steht die tatsaechliche Kernaussage) korrigiert, Kernaussagen an den verifizierten Wortlaut angepasst."
   - date: 2026-05-23
     by: "unknown"
     model: "unknown"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 

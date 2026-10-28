@@ -5,7 +5,6 @@ date: 2026-05-24
 lastmod: 2026-05-24
 description: "Übersicht der Entscheide zu § 198 VRG LU – Grundsätze der Kostenverlegung"
 tags: ["Rechtsprechung", "VRG", "Kostenverlegung", "Luzern"]
-agent_verified: false
 ---
 
 ## Leitentscheide

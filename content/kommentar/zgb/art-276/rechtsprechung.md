@@ -5,17 +5,14 @@ date: 2026-05-15
 lastmod: 2026-08-20
 description: "Übersicht der Rechtsprechung zu Art. 276 ZGB – Grundsatz der Unterhaltspflicht, Natural- und Geldunterhalt, Betreuungsunterhalt, Kindesschutzmassnahmen und kantonale Praxis."
 tags: ["Rechtsprechung", "ZGB", "Kindesunterhalt", "Unterhaltspflicht", "Betreuungsunterhalt", "Kindesschutzmassnahmen"]
-agent_verified: false
 revisions:
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3-7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul der Rechtsprechungsübersicht mit verifizierten Leitentscheiden und kantonaler Praxis zu Art. 276 ZGB."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Erstfassung mit unzutreffenden Entscheiden"
 ---
 

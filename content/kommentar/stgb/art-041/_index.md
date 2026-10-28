@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-09-05"
 description: "Kommentar zu Art. 41 StGB: Freiheitsstrafe anstelle der Geldstrafe — Negativprognose (Abs. 1 lit. a), Uneinbringlichkeit (Abs. 1 lit. b), Begründungspflicht (Abs. 2), Vorbehalt der Ersatzfreiheitsstrafe (Abs. 3)."
 tags: ["StGB", "Freiheitsstrafe", "Geldstrafe", "Sanktionswahl", "Strafzumessung", "Negativprognose", "Uneinbringlichkeit", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; Sachverhalte aus BGE 134 IV 97, BGE 117 IV 112 angereichert; BGer-Verweise auf unveröffentlichte Entscheide entfernt; Gesetzeswortlaut via Fedlex verifiziert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Attest-Audit KW33: BGE 144 IV 313 E.2→E.1 korrigiert"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33: Art. 41: Audit KW33; Gesetzestext via Fedlex verifiziert; alle Zitat-Links HTTP 200"
 ---
 

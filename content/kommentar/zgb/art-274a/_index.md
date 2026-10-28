@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Kommentar zu Art. 274a ZGB: Persönlicher Verkehr dritter Personen mit dem Kind — Voraussetzungen, ausserordentliche Umstände, Kindeswohl, Regenbogenfamilien, Grosseltern und Pflegeeltern."
 tags: ["ZGB", "Familienrecht", "Kindesrecht", "Besuchsrecht", "Persönlicher Verkehr", "Dritte", "Regenbogenfamilie", "Kindeswohl", "Kindesschutz"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung zu Art. 274a ZGB im Stil des Onlinekommentars; Einarbeitung von BGer 5A_165/2026 (Regenbogenfamilien / Besuchsrecht der Ex-Partnerin) und massgeblicher Leitentscheide."
 ---
 

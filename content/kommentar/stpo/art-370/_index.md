@@ -5,22 +5,18 @@ date: 2026-07-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 370 StPO: Das neue Urteil nach Neubeurteilung — De-novo-Kognition, Anfechtbarkeit mit den üblichen Rechtsmitteln (Berufung/Beschwerde), Rechtskraft als Zäsur sowie das Dahinfallen des Abwesenheitsurteils ex tunc mit den massgeblichen Konsequenzen für Verfolgungsverjährung (BGE 146 IV 59), Haftregime (BGer 1B_478/2021), retrospektive Konkurrenz und Verfahrenskosten."
 tags: ["Abwesenheitsverfahren", "Neubeurteilung", "Neues Urteil", "Rechtsmittel", "Berufung", "Rechtskraft", "Dahinfallen", "Verfolgungsverjährung", "Resolutive Bedingung", "Sicherheitshaft", "Zäsurwirkung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-370.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-25 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar nach dem Standard praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR). Gesetzestext verbatim nach Fedlex (Stand 1. April 2025). Systematische Strukturierung entlang der abstrakten Tatbestandsmerkmale mit Prüfschema-Tabelle. Detaillierte Kasuistik mit plastischen Lebenssachverhalten: Leitentscheid BGE 146 IV 59 (Aufgabe der Ruhetheorie, Verjährung), BGer 1B_478/2021 (Sicherheitshaft statt Strafvollzug), BGer 6B_438/2017 (Rechtsmittelweg, Verwirkung des Neubeurteilungsrechts). Kantonale Praxisfragen zur Vorbefassung (BE OG BK 2025 432 / BGE 148 IV 137), Sistierungs- und Zuwartungspflicht der Berufungsinstanz (BE OG BK 2026 131), Kostenliquidation bei Dahinfallen (GR KG SK1 2020 12) und retrospektiven Konkurrenz (ZH OG SB130394). Sämtliche Entscheide über entscheidsuche.ch verlinkt. Keine Code-Fences bei Tabellen; rollenbezogene Praxishinweise für Verteidigung, Staatsanwaltschaft, Privatklägerschaft und Verfahrensleitung."
   - date: 2026-07-17
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstfassung des Kurzkommentars zu Art. 370 StPO."
 ---
 

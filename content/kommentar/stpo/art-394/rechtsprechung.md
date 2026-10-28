@@ -5,22 +5,18 @@ date: 2026-05-30
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 394 StPO – Ausschluss der Beschwerde"
 tags: ["Rechtsprechung", "StPO", "Beschwerde", "Rechtsmittel", "Berufung", "Beweisantrag", "Rechtsnachteil"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 31 %). Alle Einträge gegen die amtlichen Regesten geprüft. Entfernt: BGE 137 III 67 (Vormundschaftsbeschwerde nach Art. 420 ZGB), BGer 1B_442/2018 (Ausstandsbegehren) und BGer 6B_1005/2025 (Verkehrsregelverletzung) — keiner betrifft Art. 394 StPO. Neu aufgenommen: BGE 143 IV 475, BGer 1B_73/2014, BGE 141 IV 289."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Sofortmassnahme: drei nicht existierende Fundstellen entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

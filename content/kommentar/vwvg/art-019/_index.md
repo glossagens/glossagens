@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 19 VwVG – Ergänzende Anwendung des BZP-Beweisrechts"
 tags: ["VwVG", "Beweis", "BZP", "Beweiswürdigung", "Verwaltungsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-019.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B, 72%, 0 offene Befunde): Wortlaut-Fehlalarm behoben (Fussnoten-Syntax 'BZP^[SR 273]' durch exakten Fedlex-Wortlaut 'BZP SR 273' ersetzt). Belegapparat war bereits sauber -- keine inhaltlichen Korrekturen nötig."
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "unknown"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 

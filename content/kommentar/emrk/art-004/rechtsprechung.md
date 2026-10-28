@@ -5,12 +5,10 @@ date: 2026-10-20
 lastmod: 2026-10-20
 description: "Umfassende Übersicht der Rechtsprechung zu Art. 4 EMRK: Leitentscheide des Schweizerischen Bundesgerichts (BGE), massgebende Urteile des EGMR mit Schweizer Bezug sowie des Bundesverwaltungsgerichts und kantonaler Gerichte."
 tags: ["Rechtsprechung", "EMRK", "Art. 4 EMRK", "Sklaverei", "Zwangsarbeit", "Menschenhandel", "Art. 182 StGB", "Arbeitspflicht", "Wehrpflichtersatz", "Nationaldienst", "Eritrea"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung der Rechtsprechungsübersicht zu Art. 4 EMRK: 7 Leitentscheide des Bundesgerichts (BGE 152 IV 129, BGE 151 IV 265, BGE 145 I 308, BGE 150 IV 48, BGE 139 I 180, BGE 118 IA 341, BGE 128 IV 117), 2 EGMR-Urteile gegen die Schweiz (Meier gegen Schweiz 2016, Brun gegen Schweiz 2026), 2 Grundsatzurteile des Bundesverwaltungsgerichts (BVGE 2018 VI/5, BVGE 2016/27) sowie 3 kantonale Entscheide (ZH VG VB.2017.00181, OW VG VVGE 2003/04 Nr. 33, BGer 2C_1051/2016 zu ZG). Alle Urteile auf entscheidsuche.ch verifiziert und verlinkt."
 ---
 

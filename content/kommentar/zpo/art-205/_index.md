@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 205 ZPO: Protokollierungsverbot und absolutes Verwertungsverbot von Parteiaussagen im Schlichtungsverfahren, Ausnahme bei Urteilsvorschlag und Entscheid (Abs. 2), analoge Geltung bei gerichtlichen Vergleichsverhandlungen sowie Streitfragen um Schlichtungsgesuch, Klagbeilagen, Schweigen und Vergleichsvollstreckung."
 tags: ["ZPO", "Schlichtungsverfahren", "Vertraulichkeit", "Protokollierungsverbot", "Verwertungsverbot", "Vergleichsverhandlung", "Entscheidvorschlag", "Entscheid der Schlichtungsbehörde", "Beweisverwertungsverbot", "Amtsgeheimnis"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung als umfassender Praxiskommentar gemäss Benchmark-Standard Art. 110 StPO / Art. 336 OR. Gesetzeswortlaut verbatim aus Fedlex via scripts/wortlaut.py (Stand 1. Juli 2026). Volltextauswertung von 16 Leit- und kantonalen Entscheiden (u.a. BGE 152 III 61, BGE 146 III 265, BGE 140 III 70, BGer 4A_597/2025, OGer ZH NP230029, AppGer BS BEZ.2014.18, OGer BE ZK 2015 12, OGer ZG BZ 2023 77, KantGer SG BE.2012.48, OGer LU 1C 11 37, OGer SO ZKBES.2015.63, OGer AR ARGVP 2012 Nr. 3594, MietG ZH MJ220026, ArbG ZH AN220012, OGer ZH RU110009). Sämtliche Entscheide über entscheidsuche.ch im Volltext verifiziert und direkt verlinkt."
 ---
 

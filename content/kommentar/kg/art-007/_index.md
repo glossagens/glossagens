@@ -5,17 +5,14 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 7 KG: Missbrauch von Marktbeherrschung und relativer Marktmacht, Prüfschema, Verdrängungs- und Ausbeutungsmissbrauch (Geschäftsverweigerung, Diskriminierung, Erzwingung, Unterbieten, Einschränkung, Koppelung, Geoblocking/Auslandsbeschaffung), Margin Squeeze, Ausweichmöglichkeiten, Rechtfertigungsgründe, kantonale Zivil- und Vorsorglichverfahren sowie Praxishinweise."
 tags: ["KG", "Kartellrecht", "Marktbeherrschung", "Relative Marktmacht", "Missbrauch", "Margin Squeeze", "Kontrahierungszwang", "Diskriminierung", "Zivilrechtliche Kartellklage"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 251 vom 2023-07-01 (data/wortlaut/kg/art-007.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 84 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung nach dem Standard für praxisorientierte Kommentare (Muster Art. 110 StPO / Art. 336 OR): Vollständiges Prüfschema, Gegenüberstellung von Anwendungs- und Verwerfungsfällen, plastische Sachverhaltsschilderungen (Swisscom ADSL, Swisscom WAN, Swisscom Terminierung, Documed/HCI Solutions, Hallenstadion/Ticketcorner, SIX DCC, Autogarage vs. Importeur), Behandeln kantonaler Praxisfragen (Gerichtsstandsklausel vs. Kartellzivilklage, Art. 261 ZPO Kontrahierungszwang) und rollenspezifische Praxishinweise. Verifikation aller Zitate und Entscheide via entscheidsuche.ch."
 ---
 

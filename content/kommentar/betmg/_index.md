@@ -12,12 +12,10 @@ tags:
 - BetmG
 - Betäubungsmittel
 - Nebenstrafrecht
-agent_verified: true
 revisions:
 - date: '2026-09-06'
   by: Antigravity Agent
   model: gemini-3.8-flash
-  mcp_verified: true
   note: Neuanlage Gesetzesübersicht BetmG (SR 812.121)
 ---
 

@@ -5,22 +5,18 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Wissenschaftlicher Praxiskommentar zu Art. 331 StPO: Vorbereitung der Hauptverhandlung, Beweisbestimmung und Mitteilung der Gerichtsbesetzung (Abs. 1), Fristansetzung für Beweisanträge und Zivilklagebezifferung (Abs. 2), Nichtanfechtbarkeit abgelehnter Beweisanträge mit Wiederholungsrecht vor dem Gesamtgericht (Abs. 3), Ladung und Terminfestsetzung (Abs. 4) sowie Endgültigkeit von Verschiebungsentscheiden (Abs. 5) im Spannungsfeld zum Fairnessgebot und Art. 65 Abs. 2 StPO."
 tags: ["StPO", "Hauptverhandlung", "Beweisanträge", "Verfahrensleitung", "Verschiebungsgesuch", "Zivilklage", "Privatklägerschaft", "Bezifferung", "Nichtanfechtbarkeit", "Fristansetzung", "Ladung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-331.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Stilistische und dogmatische Überarbeitung: Reisserische und feuilletonistische Wendungen eliminiert, Diktion auf den wissenschaftlichen Standard von Onlinekommentar und Basler/Berner Kommentar gehoben. Dogmatische Präzisierung des Spannungsfelds zwischen Beschleunigungsgebot (Art. 5 StPO) und Gehörs-/Verteidigungsrechten (Art. 3 Abs. 2 lit. c StPO, Art. 29 Abs. 2 BV, Art. 6 EMRK), der Rechtsnatur vorprozessualer Beweisabweisungen, der Intertemporalität und Bezifferungspflicht von Zivilansprüchen (Art. 126 Abs. 2 lit. b StPO) sowie der Schranken der Endgültigkeit nach Abs. 5 durch das Willkür- und Rechtsmissbrauchsverbot."
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Erstkommentierung. Gesetzeswortlaut verbatim aus Fedlex (SR 312.0, Konsolidierung 1. April 2025). Sämtliche Entscheide im Volltext über entscheidsuche.ch geholt und Belegstellen geprüft: BGer 6B_167/2017, 6B_696/2018, 6B_1200/2022, 6B_830/2023, 6B_389/2019, 6B_532/2025, 6B_1189/2023, 6B_1262/2015, 6B_149/2022, 1B_549/2017, 7B_780/2024, BGE 150 IV 225, AG OG SBK.2024.132, BL KG 470 18 379, ZH OG DG240003, BE OG SK 2025 292, BS APG BES.2022.89, FR TC 502 2016 255, GL OG OG.2015.00045, VS BZG P1-11-32, GR KG SR2-2024-51, SZ KG BEK 2025 29, BStGer BB.2026.4, BStGer CA.2019.10, SO OG BKBES.2012.74. Entscheide auf entscheidsuche.ch verlinkt."
 ---
 

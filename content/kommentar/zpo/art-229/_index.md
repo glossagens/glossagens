@@ -5,27 +5,22 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 229 ZPO: Erstinstanzliches Novenrecht nach der ZPO-Revision 2025 — unbeschränkte Noven im ersten Parteivortrag (Abs. 1), Aktenschluss nach zweitem Schriftenwechsel oder Instruktionsverhandlung (Abs. 2), echte und unechte Noven, Potestativ- und Dupliknoven, Noven nach ersten Parteivorträgen (Abs. 2bis) sowie Tragweite bei Untersuchungsmaxime (Abs. 3) und Summarverfahren."
 tags: ["ZPO", "Ordentliches Verfahren", "Noven", "Aktenschluss", "Revision 2025", "Echte Noven", "Unechte Noven", "Dupliknoven", "Potestativnoven", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-229.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark Art. 110 StPO / Art. 336 OR: Dogmatisches Prüfschema als Inhaltsverzeichnis vorangestellt, Schilderung der authentischen Lebenssachverhalte aus den amtlichen Volltexten (u.a. BGE 147 III 475 / 4A_50/2021, BGE 140 III 312 / 4A_73/2014, BGE 146 III 55, BGE 146 III 416, BGE 144 III 67, BGer 4A_261/2017, ZH OG NP160044, ZH OG RT180120), Gegenüberstellungstabellen zur Grenzkasuistik, Ausarbeitung der ZPO-Revision 2025 als Korrektur der Rechtsprechung, drei kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung der ZPO-Revision 2025 (Abs. 1, 2, 2bis), vertiefte Kasuistik (Arztberichte, Dupliknoven, Buchhaltungsunterlagen, Beweiseinheit), kantonale Praxisfragen und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 17 % → 100 %, Urteil A); Novenschranke für die Entgegnung auf Dupliknoven ergänzt (BGE 146 III 55 E. 2.5.2); Behauptung, die materielle Wahrheit stehe über der formellen Präklusion, durch den Normtext von Art. 229 Abs. 3 ZPO ersetzt; kantonale Entscheide entlinkt."
 ---
 

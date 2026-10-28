@@ -5,27 +5,22 @@ date: 2026-06-28
 lastmod: "2026-08-14"
 description: "Übersicht der Entscheide zu Art. 227 ZPO – Klageänderung"
 tags: ["Rechtsprechung", "ZPO", "Klageänderung", "Verfahrensrecht"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 39 %, Urteil C): jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; vier fehlerhafte Pinpoints entfernt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 39 % (Urteil C); 11 von 76 Paaren gestützt; 27 ungestützt; 4 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung mit 6 neuen OCL-verifizierten Entscheid (BGE 119 II 333, BGE 137 III 617, BGE 142 III 364, BGE 142 III 413, BGE 144 III 394, BGer 5A_140/2026, BGer 4A_62/2026); Erweiterung Übersichtstabelle auf 21 Entscheide"
   - date: 2026-06-28
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterstellung"
 ---
 

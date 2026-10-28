@@ -5,22 +5,18 @@ date: "2026-06-28"
 lastmod: "2026-10-14"
 description: "Übersicht der Rechtsprechung zu Art. 158 ZPO – Vorsorgliche Beweisführung: Leitentscheide des Bundesgerichts und kantonale Judikatur"
 tags: ["Rechtsprechung", "ZPO", "vorsorgliche Beweisführung", "Beweissicherung", "Prozessaussichten", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau gemäss Leitfaden: 8 BGE-Leitentscheide und 6 kantonale Leitentscheide (SH, LU, ZH, BE, GR) mit Lebenssachverhalten, Kernaussagen und verifizierten entscheidsuche.ch-Links."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit: jede Kernaussage per check_claim_support geprüft; BGE 143 III 113 als ablehnenden Entscheid korrekt erfasst"
   - date: 2026-06-28
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterstellung"
 ---
 

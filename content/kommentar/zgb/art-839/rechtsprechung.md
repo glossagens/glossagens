@@ -5,12 +5,10 @@ date: 2026-09-01
 lastmod: 2026-09-01
 description: "Übersicht der Rechtsprechung zu Art. 839 ZGB (Eintragungsfristen Bauhandwerkerpfandrecht, Vollendung der Arbeit, Sicherheitsleistung und Verwaltungsvermögen)."
 tags: ["Rechtsprechung", "ZGB", "Bauhandwerkerpfandrecht", "Eintragungsfrist", "Vollendung der Arbeit", "Sicherheitsleistung"]
-agent_verified: false
 revisions:
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 839 ZGB mit BGE 125 III 113, BGE 102 II 206, BGE 119 III 124 sowie BGer 5A_101/2026."
 ---
 

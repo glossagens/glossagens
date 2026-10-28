@@ -5,7 +5,6 @@ date: 2026-07-12
 lastmod: 2026-07-12
 description: "Übersicht der Entscheide zu Art. 81 StPO – Inhalt der Endentscheide"
 tags: ["Rechtsprechung", "StPO", "Endentscheid"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 81 StPO — Inhalt der Endentscheide

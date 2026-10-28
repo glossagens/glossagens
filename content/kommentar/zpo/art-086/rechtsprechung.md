@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Rechtsprechung zu Art. 86 ZPO (Teilklage): BGE-Leitentscheide und kantonale Gerichtsentscheide."
 tags: ["Rechtsprechung", "ZPO", "Teilklage", "Rechtskraft", "Streitgegenstand", "Widerklage", "Kasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 86 ZPO mit 14 verifizierten BGE-Leitentscheiden, Bundesgerichtsurteilen und kantonalen Entscheiden; Verlinkungen auf entscheidsuche.ch umgestellt."
 ---
 

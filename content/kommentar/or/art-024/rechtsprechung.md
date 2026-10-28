@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-08-18
 description: "Übersicht der Entscheide zu Art. 24 OR – Wesentlicher Irrtum"
 tags: ["Rechtsprechung", "OR", "Irrtum", "Willensmangel", "Anfechtung"]
-agent_verified: false
 revisions:
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 70 % (Urteil B); 11 gestützt (+10 teilw.) von 23 beurteilten Paaren (25 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
   - date: 2026-05-23
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "KW31 — Ergänzung BGer 4A_29/2022 (Grundlagenirrtum Kaufvertrag) via OCL (get_erwaegung) verifiziert."
 ---
 

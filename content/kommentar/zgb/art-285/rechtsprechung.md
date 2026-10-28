@@ -5,7 +5,6 @@ date: 2026-05-15
 lastmod: 2026-08-20
 description: "Übersicht der Rechtsprechung zu Art. 285 ZGB – Kindesunterhalt, zweistufige Methode mit Überschussverteilung, Betreuungsunterhalt und Schulstufenmodell."
 tags: ["Rechtsprechung", "ZGB", "Kindesunterhalt", "Unterhalt", "Betreuungsunterhalt", "Schulstufenmodell"]
-agent_verified: true
 ---
 
 # Rechtsprechung zu Art. 285 ZGB

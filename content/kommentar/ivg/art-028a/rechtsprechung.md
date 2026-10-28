@@ -5,12 +5,10 @@ date: 2026-08-31
 lastmod: "2026-08-31"
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 28a IVG: Einkommensvergleich, Tabellenlohnabzüge, spezifische Methode, gemischte Methode und EMRK-Rechtsprechung."
 tags: ["Rechtsprechung", "IVG", "Invaliditätsbemessung", "Einkommensvergleich", "Gemischte Methode", "EMRK"]
-agent_verified: false
 revisions:
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung der Rechtsprechungsseite zu Art. 28a IVG mit 10 verifizierten Leit- und kantonalen Entscheiden."
 ---
 

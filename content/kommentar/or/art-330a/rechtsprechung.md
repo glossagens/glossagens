@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 330a OR – Arbeitszeugnis und Arbeitsbestätigung"
 tags: ["Rechtsprechung", "OR", "Arbeitsrecht", "Arbeitszeugnis", "Vollzeugnis", "Zeugnisberichtigung"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstellung der Rechtsprechungsübersicht zu Art. 330a OR mit BGEs, BGer-Urteilen und kantonalen Entscheiden auf entscheidsuche.ch."
 ---
 

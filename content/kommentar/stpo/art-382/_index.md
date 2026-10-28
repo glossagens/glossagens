@@ -5,17 +5,14 @@ date: "2026-07-04"
 lastmod: 2026-10-16
 description: "Kommentar zu Art. 382 StPO: Rechtsmittellegitimation der Parteien — rechtlich geschütztes Interesse, Privatklägerschaft, Sanktionsanfechtungsverbot, Rechtsnachfolge beim Tod."
 tags: ["Rechtsmittel", "Legitimation", "Privatklägerschaft", "Geschädigter", "rechtlich geschütztes Interesse", "Berufung", "Beschwerde", "Rechtsnachfolge", "gesetzliche Vertretung", "minderjähriger Geschädigter"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BGer 7B_22/2026 vom 9. September 2026 eingearbeitet in Abschnitt III.3 (Dritte und Familienangehörige): gesetzliche Vertretung minderjähriger Geschädigter — Vertreterlegitimation nach Art. 106 Abs. 2 StPO muss im Beschwerdeverfahren ausdrücklich dargetan werden; Verneinung der Legitimation kein überspitzter Formalismus. Zitate und Fundstelle via entscheidsuche (search_by_case_number, fetch_document) und opencaselaw (get_erwaegung E. 2.2.3 und E. 2.3.2) verifiziert. rechtsprechung.md ergänzt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-382.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

@@ -5,7 +5,6 @@ date: 2026-05-17
 lastmod: 2026-05-17
 description: "Uebersicht der Rechtsprechung zu Art. 77b StGB -- Halbgefangenschaft"
 tags: ["Rechtsprechung", "StGB", "Halbgefangenschaft", "Arbeit", "Vollzug"]
-agent_verified: false
 ---
 
 ## Rechtsprechung zu Art. 77b StGB -- Halbgefangenschaft

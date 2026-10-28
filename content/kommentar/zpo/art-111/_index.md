@@ -5,12 +5,10 @@ date: "2026-08-16"
 lastmod: "2026-08-16"
 description: "Kommentar zu Art. 111 ZPO: Liquidation der Prozesskosten, Systemwechsel per 1.1.2025 zur Rückerstattung des Kostenvorschusses an die obsiegende Partei und Verhältnis zu Art. 68 SchKG."
 tags: ["ZPO", "Prozesskosten", "Kostenvorschuss", "Liquidation", "Verrechnung", "Rückerstattung", "Parteientschädigung", "SchKG"]
-agent_verified: true
 revisions:
   - date: "2026-08-16"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Ersterstellung des Kommentars nach Inkrafttreten der ZPO-Revision per 1.1.2025 und Einarbeitung des Grundsatzentscheids BGE 152 III 154 (Verhältnis ZPO / Art. 68 SchKG)"
 ---
 

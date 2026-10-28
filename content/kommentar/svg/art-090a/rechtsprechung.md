@@ -5,17 +5,14 @@ date: 2026-09-03
 lastmod: 2026-09-12
 description: "Übersicht der Rechtsprechung zu Art. 90a SVG — Einziehung und Beschlagnahme von Tatfahrzeugen."
 tags: ["Rechtsprechung", "SVG", "Strassenverkehrsrecht", "Einziehung", "Beschlagnahme", "Raserdelikte", "Leasing"]
-agent_verified: false
 revisions:
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht mit Leit- und Praxisentscheiden."
   - date: 2026-09-12
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung BGer 6B_772/2025 (Vorstrafe nach Art. 90 Abs. 2 SVG schliesst Ersttäterprivileg aus; Bedeutung für Art. 90a-Einziehungsvoraussetzungen)."
 ---
 

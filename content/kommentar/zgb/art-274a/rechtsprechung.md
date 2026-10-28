@@ -5,7 +5,6 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 274a ZGB – Ausserordentliche Umstände, persönlicher Verkehr Dritter, Grosseltern, faktische Eltern und Regenbogenfamilien."
 tags: ["Rechtsprechung", "ZGB", "Besuchsrecht", "Persönlicher Verkehr", "Kindesschutz"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

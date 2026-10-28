@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 144 StGB: Grundtatbestand (Abs. 1), Verfolgung von Amtes wegen bei Zusammenrottung (Abs. 2) und Qualifikation bei grossem Schaden (Abs. 3) — mit praxisorientierter Abgrenzung zwischen tatbestandsmässiger Sachbeschädigung und straflosen Bagatellen."
 tags: ["StGB", "Sachbeschädigung", "Eigentumsdelikte", "Grosser Schaden", "Antragsdelikt", "Unbrauchbarmachen", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 11 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 144 IV 49 (Strafantragsrecht, Delle in Motorhaube), BGE 128 IV 250 (Leitentscheid: Unbrauchbarmachen durch Verstopfen, Bauschaum in Abwasserleitung), BGE 123 IV 113 (echte Konkurrenz Einbruchdiebstahl), BGer 6B_471/2007 (Brunnstube, Selbsthilfe unzulässig), BGer 6B_778/2008 (Eternitdach, Eventualvorsatz, Selbsthilfe), BGer 6B_91/2021 (Schutzzweck, Strafbefreiung), BGer 6B_978/2014 (Kleber auf Windschutzscheibe), LU 2N 16 97 (kurzweilige Beeinträchtigung: Strassenschild), SO STAPA.2004.1 (grosser Schaden, Sprayereien, keine Addition), ZH SB040270 (CHF 10'000 Grenze); Gesetzeswortlaut → Wortlaut korrigiert; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung von 2 fehlerhaften Referenzen; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

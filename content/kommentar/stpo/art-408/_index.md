@@ -5,22 +5,18 @@ date: 2026-07-10
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 408 StPO – Neues Urteil im Berufungsverfahren: Reformatorischer Grundsatz, Urteilswirkung, Pflicht zur eigenständigen Strafzumessung und 12-Monats-Frist."
 tags: ["StPO", "Berufungsverfahren", "Rechtsmittel", "Berufungsgericht", "Reformatorisches Urteil", "Strafzumessung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-408.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Bereinigung Gesetzeswortlaut und Sanierung Belegquote): BGE 141 IV 244 E. 1.3.3, BGE 139 IV 199 E. 5.6, BGE 142 IV 378 E. 1.3, BGE 143 IV 408 E. 6.1 und BGer 6B_91/2022 E. 3.2.4 integriert; Verifikation via attest_response ok."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

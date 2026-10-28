@@ -5,17 +5,14 @@ date: 2026-09-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 19 BetmG: Grundtatbestände des Betäubungsmittelhandels, Anstaltentreffen, Mengenschwellen und Kumulationsprinzip bei wiederholten Einzelhandlungen (BGE 150 IV 213), Banden- und Gewerbsmässigkeit, gesetzliche Strafmilderung bei Eigenkonsumfinanzierung sowie Konkurrenzen und obligatorische Landesverweisung."
 tags: ["BetmG", "Betäubungsmittel", "Drogenhandel", "Mengenschwelle", "Gewerbsmässigkeit", "Bandenmässigkeit", "Anstaltentreffen", "Schwerer Fall", "Landesverweisung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 812.121 vom 2023-09-01 (data/wortlaut/betmg/art-019.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Praxiskommentar zu Art. 19 BetmG im Glossagens-Standard. Gesetzeswortlaut verbatim nach Fedlex (SR 812.121, Konsolidierung 1. September 2023). Volltextauswertung von BGE 150 IV 213 (2024) zur Mengenkumulation, BGE 145 IV 312 zu Methamphetamin und Grenzwerterhaltung, BGE 129 IV 188/253 zur Gewerbsmässigkeit, BGE 124 IV 86/135 IV 158 zur Bande sowie kantonaler Judikatur (u.a. KGer GR SK1 21 85 zur Beweislast bei unklarer Reinheit und OGer ZH SB140522). Alle Entscheide auf entscheidsuche.ch verlinkt."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-06-06
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 14 EMRK – Diskriminierungsverbot"
 tags: ["Rechtsprechung", "EMRK", "Diskriminierungsverbot", "Gleichbehandlung", "EGMR"]
-agent_verified: false
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: BGE 146 I 49/139 I 16 (thematisch falsch zugeordnet) ersetzt durch 143 I 50/136 II 120; BGer 1C_573/2024 (real: Opferhilfegesetz-Entschaedigung, nicht Ehe/Partnerschaft) entfernt."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-06-20
 lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 431 StPO – Entschädigung und Genugtuung wegen rechtswidrig angewandter Zwangsmassnahmen und überlanger Haft: Leitentscheide zu Haftbedingungen (Art. 3 EMRK), fehlendem Hafttitel, Strafmassreduktion vs. Barabgeltung, Verrechnungsverbot mit Gerichtskosten, Überhaft und Haftanrechnung auf Massnahmen."
 tags: ["Rechtsprechung", "StPO", "Entschädigung", "Genugtuung", "Zwangsmassnahmen", "Überhaft", "Untersuchungshaft", "Sicherheitshaft", "Haftbedingungen", "EMRK"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Volltext-Abgleich der zitierten Entscheide. Korrigiert: Befragungszeit zählt bei der 3-Stunden-Regel nicht mit (BGE 143 IV 339 E. 3.2, BGE 146 IV 231 E. 2.3.2; zuvor gegenteilig), 18½ Stunden ist kein «in jedem Fall»-Schwellenwert (BGE 146 IV 231 E. 2.4), BGer 7B_459/2023 (Sachverhalt, kein Hinweis auf Art. 5 EMRK/Art. 31 BV, Flucht nicht entschieden), BGer 6B_672/2021 (Teilrückweisung; Falschangaben nur für verhältnismässigen Teil relevant), BGE 140 I 125 (Feststellung im Haftprüfungsverfahren, Wiedergutmachung durch Sachgericht), BGE 140 I 246 (Fr. 50.– pro Tag statt «zusätzlich 25–50»), BGE 142 IV 245 (8 Tage Strafabzug), BGE 147 IV 55 (Verrechnung nur ohne Zustimmung ausgeschlossen), BGE 141 IV 236 (E. 3.8; Sachverhalt), BGer 6B_888/2021 und 6B_990/2013 (Sachverhalte berichtigt). Wortlaut Fedlex (Abs. 1–3) geprüft; Entscheide via entscheidsuche-Volltexte verifiziert."
   - date: 2026-10-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 17 verifizierten Entscheiden (8 Leitentscheide BGE, 6 BGer-Entscheide, 3 kantonale Entscheide). Sämtliche Urteile im Volltext über entscheidsuche.ch geprüft und verbatim verlinkt."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Überarbeitung Rechtsprechungsübersicht mit 11 Entscheiden."
 ---
 

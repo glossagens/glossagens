@@ -20,12 +20,10 @@ normen:
   - { gesetz: bv, art: art-016 }
   - { gesetz: bv, art: art-017 }
 stichworte: ["Öffentlichkeitsprinzip", "Öffentlichkeitsgesetz", "BGÖ", "Transparenz", "Amtsgeheimnis", "Popularanspruch", "amtliches Dokument", "EDÖB", "Schlichtungsverfahren", "Gebührenfreiheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Erstfassung des Themas. Normtexte Art. 1, 6, 7, 9, 13, 17 BGÖ und Art. 16, 17 BV per Shortcode wortlaut aus amtlicher Fedlex-Quelle (scripts/wortlaut.py). Alle Entscheide (BGE 133 II 209, 136 II 399, 139 I 114, 142 II 313, 142 II 340, 144 II 77, 144 II 91, 146 II 265, 148 II 92) über entscheidsuche.ch verlinkt; Erwägungsanker und Zitate gegen die Volltexte verifiziert."
 ---
 

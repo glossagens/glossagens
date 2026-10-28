@@ -17,12 +17,10 @@ normen:
   - { gesetz: bv, art: art-121 }
   - { gesetz: emrk, art: art-008 }
 stichworte: ["Entfernungsmassnahme", "Fernhaltemassnahme", "Wegweisung", "Ausweisung", "Landesverweisung", "Einreiseverbot", "Ausschaffung", "Verweisungsbruch", "Härtefallklausel", "Schengener Informationssystem", "SIS"]
-agent_verified: false
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ grundlage). Systematik, Abgrenzung und Rechtsentwicklung der Entfernungs- und Fernhaltemassnahmen (Wegweisung nach Art. 64 AIG, Ausweisung nach Art. 68 AIG, strafrechtliche Landesverweisung nach Art. 66a ff. StGB, Einreiseverbot nach Art. 67 AIG). Verifikation aller Entscheide und Anker via entscheidsuche.ch und pruefen.py."
 ---
 

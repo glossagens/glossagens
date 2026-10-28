@@ -5,12 +5,10 @@ date: 2026-08-07
 lastmod: 2026-08-15
 description: "Kommentar zu Art. 25 DSG: das allgemeine Auskunftsrecht als Grundpfeiler des Datenschutzrechts, Mindestinhalt der Auskunft, Kostenlosigkeit, 30-Tage-Frist und Grenzen bei rechtsmissbräuchlicher (zweckwidriger) Geltendmachung."
 tags: ["DSG", "Datenschutz", "Auskunftsrecht", "Transparenz", "Rechtsmissbrauch", "Fishing Expedition"]
-agent_verified: false
 revisions:
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung, ergänzt die bereits bestehende Kommentierung von Art. 26 DSG (Einschränkungen); alle Gesetzestexte und Entscheide via opencaselaw-MCP (get_law/cite/get_case_brief/get_erwaegung) verifiziert."
 ---
 

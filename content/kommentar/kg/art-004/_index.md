@@ -5,12 +5,10 @@ date: 2026-10-19
 lastmod: 2026-10-19
 description: "Praxiskommentar zu Art. 4 KG: Die Grundbegriffe des Kartellrechts — Wettbewerbsabrede (Vereinbarung, abgestimmte Verhaltensweise vs. Parallelverhalten, Konzernprivileg), Marktbeherrschung (sachliche, räumliche und zeitliche Marktabgrenzung, Bedarfsmarktkonzept, 50%-Marktanteilsschwelle, potenzieller Wettbewerb), relative Marktmacht (Abhängigkeitstatbestände nach Sortiment, Unternehmen und Mangel, Zumutbarkeit des Ausweichens, Beschaffungsobliegenheiten) sowie Unternehmenszusammenschluss (Fusion, Kontrollerwerb, Vetorechte und Joint Ventures) mit umfassender Grenzkasuistik."
 tags: ["KG", "Kartellrecht", "Begriffe", "Wettbewerbsabrede", "Abgestimmte Verhaltensweise", "Konzernprivileg", "Marktbeherrschung", "Marktabgrenzung", "Relative Marktmacht", "Unternehmenszusammenschluss", "Kontrollerwerb"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstkommentierung nach dem Standard für praxisorientierte Kommentare (Muster Art. 110 StPO / Art. 336 OR / Art. 5 KG). Gesetzeswortlaut über Fedlex (data/wortlaut/kg/art-004.json via scripts/wortlaut.py). Volltextverifikation sämtlicher Entscheide auf entscheidsuche.ch (BGE 148 II 521, BGE 147 II 72, BGE 139 I 72, BGE 137 II 199; BGer 2C_244/2022, BGer 2C_698/2021; BVGer B-3871/2017; BL KG 430 23 144, BL KG 430 2024 229; ZH HG HE250025; LU KG 1F 19 2; WEKO BMW Schweiz)."
 ---
 

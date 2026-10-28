@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der Leitentscheide und weiteren Gerichtsentscheide zu Art. 20 MWSTG — Zuordnung von Leistungen, Aussenauftritt, direkte Stellvertretung, Dreiparteienverhältnisse und kantonale Praxisfragen."
 tags: ["Rechtsprechung", "MWSTG", "Leistungszuordnung", "Stellvertretung", "Aussenauftritt", "Vermittlung"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity"
     model: "claude-3-7-sonnet"
-    mcp_verified: true
     note: "Erstanlage des Praxiskommentars zu Art. 20 MWSTG. Vollständige Analyse der bundesgerichtlichen Leitentscheide (BGE 151 II 569, BGE 145 II 270, 9C_522/2025, 2C_727/2021, 2C_206/2015, 9C_67/2024) sowie weiterer Praxisentscheide des Bundesgerichts, des Bundesverwaltungsgerichts und kantonaler Steuerjustizbehörden. URLs direkt über entscheidsuche.ch verifiziert."
 ---
 

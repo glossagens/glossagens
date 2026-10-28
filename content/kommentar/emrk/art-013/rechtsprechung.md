@@ -5,12 +5,10 @@ date: 2026-06-06
 lastmod: 2026-08-16
 description: "Übersicht der massgeblichen Entscheide zu Art. 13 EMRK: wirksame Beschwerde, arguable claim, nationale Rechtsbehelfe"
 tags: ["Rechtsprechung", "EMRK", "Beschwerde", "wirksamer Rechtsbehelf", "Konventionsbeschwerde"]
-agent_verified: false
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit: BGE 143 I 181 (fabriziert) und BGE 145 I 73/136 I 229/146 IV 297 (thematisch falsch zugeordnet bzw. nicht tragfaehig) entfernt; Pinpoint BGE 136 I 274 von E.2 auf E.1.3 korrigiert (passt zur Kernaussage)."
 ---
 

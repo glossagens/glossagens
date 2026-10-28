@@ -5,12 +5,10 @@ date: 2026-10-14
 lastmod: 2026-10-14
 description: "Übersicht der Rechtsprechung zu Art. 9 UVG (Berufskrankheiten): Leitentscheide zu Listenstoffen, Generalklausel, Kausalitätsstufen und Ausbruchszeitpunkt."
 tags: ["Rechtsprechung", "UVG", "Berufskrankheiten", "Kausalität", "Suva"]
-agent_verified: false
 revisions:
   - date: 2026-10-14
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufnahme der Rechtsprechungsübersicht zu Art. 9 UVG mit 14 ausgewerteten Entscheiden (BGE-Leitentscheide zu Listenstoffen, 75%-Kriterium der Generalklausel, Kausalitätsvermutung, Covid-19, Asbestose sowie Bundesgerichts- und kantonale Praxis)."
 ---
 

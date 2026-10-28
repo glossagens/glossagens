@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 288 SchKG: Absichtsanfechtung (Deliktspauliana), Gläubigerschädigung, Eventualvorsatz, Erkennbarkeit der Benachteiligung und gesetzliche Beweislastumkehr bei nahestehenden Personen und im Konzern (Abs. 2)."
 tags: ["SchKG", "Absichtsanfechtung", "Deliktspauliana", "Gläubigerbenachteiligung", "Eventualvorsatz", "Erkennbarkeit", "Beweislastumkehr", "Konzern"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Umfassende dogmatische und kasuistische Aufbereitung der fünfjährigen Absichtsanfechtung, BBl-Materialien (2010 6455), Abgrenzung von Erfüllungshandlungen und Begünstigung (BGE 134 III 452, BGE 135 III 265, BGE 136 III 247), Eventualvorsatz des Schuldners, Erkennbarkeitsmassstab des Begünstigten, gesetzliche Beweislastumkehr nach Abs. 2, Kasuistik-Gegenüberstellungen und Praxishinweise."
 ---
 

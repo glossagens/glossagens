@@ -5,12 +5,10 @@ date: 2026-08-30
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 134 StGB — Angriff: Konkurrenzverhältnisse, Mittäterschaft und Exzess, Abgrenzung zum Raufhandel und Sachverhaltsanreicherung."
 tags: ["Rechtsprechung", "StGB", "Angriff", "Raufhandel", "Körperverletzung", "Mittäterschaft", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung: BGE 135 IV 152 (zweierlei Angriff mit Bierflasche und Schuh, Konkurrenz bei einfacher KV), BGE 118 IV 227 (Rache-Überfall am Zürcher Central, Mittäterschaft und Exzess), BGE 141 IV 454 (Raufhandel und Geschädigteneigenschaft nach Art. 115 StPO)"
 ---
 

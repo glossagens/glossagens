@@ -5,32 +5,26 @@ date: 2026-09-05
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 139 StGB: Diebstahl — Gewahrsamsbruch und Aneignung (Ziff. 1), Gewerbsmässigkeit, Bande, Waffen und besondere Gefährlichkeit (Ziff. 3 lit. a–d), Strafantragsregelung (Ziff. 4) — mit zweiseitiger Grenzkasuistik zu Gewahrsamsbegriff, Mitgewahrsam und Diebstahl vs. Veruntreuung."
 tags: ["StGB", "Diebstahl", "Vermögensdelikt", "Gewahrsamsbruch", "Aneignung", "Gewerbsmässigkeit", "Bande", "Waffe", "Mitgewahrsam", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-139.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau als praxisorientierter Kommentar nach SKILL.md v1.3.0. Gesetzeswortlaut verbatim aus Fedlex (SR 311.0). Sämtliche Entscheide im Volltext über entscheidsuche.ch geholt und wörtlich belegt: BGE 132 IV 108, BGE 135 IV 158, BGE 123 IV 113, BGE 129 IV 223, BGE 118 IV 142, BGer 6B_1360/2019 (Mitgewahrsam, Diebstahl vs. Veruntreuung), BGer 6B_100/2012 (Drehtür-Fall), BGer 7B_291/2022, BGE 147 IV 176 (Gewerbsmässigkeit). Merkmalsraster, zweiseitige Grenzkasuistik, Leitsätze und Praxishinweise nach SKILL.md."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung der bestehenden BGE-Einträge; Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit"
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

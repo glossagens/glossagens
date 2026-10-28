@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 286 SchKG: Schenkungsanfechtung, gemischte Schenkung, Wohnrechte und Beweislastumkehr."
 tags: ["Rechtsprechung", "SchKG", "Schenkungspauliana", "Missverhältnis", "Wohnrecht", "Beweislastumkehr"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

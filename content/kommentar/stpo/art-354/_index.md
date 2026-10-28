@@ -5,27 +5,22 @@ date: "2026-06-27"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 354 StPO: Einsprache gegen den Strafbefehl — Einspracheberechtigung (Beschuldigte Person, Privatklägerschaft nF, Betroffene), Formstrenge vs. überspitzter Formalismus (Telefax, E-Mail, Scan, anwaltliche Vertretung), Fristberechnung, Auslandszustellung und Zustellfiktion, Begründungsanforderungen, kein Verschlechterungsverbot (reformatio in peius) sowie Rechtskraft und Verjährung."
 tags: ["StPO", "Strafbefehl", "Einsprache", "Rechtskraft", "Privatklägerschaft", "Formvorschriften", "Fristen", "Zustellfiktion", "Verschlechterungsverbot", "Reformatio in peius", "Übertretungsstrafbehörden"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-354.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung Art. 354 Abs. 1 lit. b StPO um AG OG SBK.2026.208 vom 16. September 2026: Fehlende Einsprachelegitimation einer Mitbeschuldigten gegen den separaten Strafbefehl einer anderen beschuldigten Person im gleichen Sachverhalt (Bestätigung der restriktiven Linie von BGE 141 IV 231; keine Bindungswirkung nach Art. 343 f. StPO; Schutz vor Widersprüchen via Art. 356 Abs. 7 i.V.m. Art. 392 StPO); Integration in Lehre/Kasuistik, kantonale Praxisfragen, Praxishinweise und Querverweise."
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Praxiskommentar gemäss Standard Art. 110 StPO. Gesetzeswortlaut verbatim nach Fedlex (Stand 1. April 2025, inkl. Revision 2024 mit Abs. 1 lit. a^bis^ und Abs. 1^bis^ StPO). Einarbeitung der BGer-Leitentscheide BGE 142 IV 201, BGE 142 IV 299, BGE 149 IV 50, BGE 145 IV 438, BGE 144 IV 57, BGE 146 IV 30, BGE 147 IV 518, BGE 140 IV 188, BGE 140 IV 192, BGE 141 IV 231, BGE 139 IV 102, BGE 148 IV 445, BGE 142 IV 11 und des neuen Leitentscheids BGE 152 IV 96 zur Medienöffentlichkeit und Rechtskraft; Kasuistik zu E-Mail- und Auslandsversand (6B_522/2021), mündlicher Aushändigung (6B_860/2020) und Nachforschungspflichten bei Zustellfiktion (6B_70/2018); sämtliche Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

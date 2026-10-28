@@ -5,17 +5,14 @@ date: 2026-05-15
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 1 StGB — Legalitätsprinzip, Bestimmtheitsgebot, Analogieverbot, Blankettstrafrecht und kantonale Praxis mit Sachverhaltsanreicherung."
 tags: ["Rechtsprechung", "StGB", "Legalitätsprinzip", "Bestimmtheitsgebot", "Analogieverbot", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 7 verifizierte BGE-Leitentscheide via entscheidsuche.ch; BGE 138 IV 13, BGE 127 IV 198, BGE 137 IV 99, BGE 145 IV 185, BGE 147 IV 439, BGE 139 I 72, BGE 128 I 327; BGer 6B_1025/2014 auf entscheidsuche.ch verifiziert; fehlerhaftes Zitat ZH OG SB160005 (Art. 219, nicht Art. 1) entfernt; alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach C-Audit: Tabellenstruktur in Standard-Abschnitte überführt; 10 verifizierte Entscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

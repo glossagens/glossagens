@@ -5,22 +5,18 @@ date: "2026-06-27"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 352 StPO – Voraussetzungen des Strafbefehlsverfahrens: Eingeständnis, ausreichende Klärung des Sachverhalts, Strafgrenzen, Verbindungsbusse, Ausschluss der Landesverweisung, Kasuistik und kantonale Praxis."
 tags: ["StPO", "Strafbefehl", "Strafbefehlsverfahren", "Staatsanwaltschaft", "Strafbefehlskompetenz", "Verbindungsbusse", "Landesverweisung", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-352.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erheblicher und praxisorientierter Ausbau: Detaillierte Kasuistik (BGE 146 IV 145, BGE 147 IV 329, BGE 149 IV 273, BGE 150 IV 447, BGer 6B_432/2016, BGer 6B_367/2012, BGer 1B_66/2013, BGer 7B_83/2022) und kantonale Praxisfragen (LU LGVE 2022 V Nr. 1, TG RBOG 2013 Nr. 30, TG RBOG 2011 Nr. 27); Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

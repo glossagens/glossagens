@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 725 OR – Leitentscheide und kantonale Urteile zu drohender Zahlungsunfähigkeit, Zahlungseinstellung, Liquiditätsüberwachung und Konkursverschleppung."
 tags: ["Rechtsprechung", "OR", "Zahlungsunfähigkeit", "Liquidität", "Aktienrecht", "Sanierung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Überprüfung und Verifikation der Rechtsprechungsübersicht zu Art. 725 OR: 13 strukturierte Entscheide mit Leitentscheiden des Bundesgerichts und kantonalen Urteilen zur Übernahme der Alt-Judikatur (aArt. 725 aOR / Art. 190 SchKG) unter neuem Aktienrecht."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht zu Art. 725 OR (n.F. seit 1. Jan. 2023) mit strukturierter Zuweisung der Grundsatzjudikatur zu Zahlungsunfähigkeit, Zahlungseinstellung, Liquiditätsplanung und Konkursverschleppung."
 ---
 

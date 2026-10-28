@@ -5,22 +5,18 @@ date: 2026-09-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 81 BGG: Legitimation zur Beschwerde in Strafsachen, formelle und materielle Beschwer, Zivilansprüche der Privatklägerschaft, Star-Praxis, Ausschluss der Staatsanwaltschaft bei Haftsachen (Revision 2024), Strafantragsrecht und Dritte Betroffene."
 tags: ["BGG", "Bundesgericht", "Beschwerderecht", "Legitimation", "Strafverfahren", "Privatklägerschaft", "Staatsanwaltschaft", "Star-Praxis", "Zivilansprüche", "Strafantrag", "Staatshaftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 173.110 vom 2026-04-01 (data/wortlaut/bgg/art-081.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-24 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger praxisorientierter Ausbau zum Praxiskommentar nach dem Standard Art. 110 StPO / Art. 336 OR: Dogmatisches Prüfschema als Inhaltsraster, Einarbeitung der BGG- und StPO-Revision 2024 (Ausschluss der staatsanwaltschaftlichen Haftbeschwerde gemäss BGE 149 IV 135), BGE 151 IV 98 (keine Legitimation der StA zur Gültigkeit des Strafantrags), BGE 146 IV 76 (Staatshaftung und Zivilanspruchsausschluss), BGE 148 IV 256 (nachrangige Erben), BGE 140 IV 57 (Vermögensbeschlagnahme und Ersatzforderungen), BGer 7B_132/2025 (Strafantragsfrist und E-Mail-Übermittlung), BGer 7B_105/2026 und 7B_219/2026, kantonale Rechtsprechung aus Bern (BE OG BK.2020.10) und Aargau (AG OG SST.2023.105) sowie umfassende Grenzkasuistiktabellen und adressatenspezifische Praxishinweise."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 81 BGG mit Einarbeitung von BGer 7B_105/2026 (fehlendes Rechtsschutzinteresse bei reinen Organisationsgründen) und BGer 7B_219/2026 (Verbot der Geltendmachung fremder Rechte) sowie BGE 149 IV 213, BGE 143 IV 434 und BGE 136 IV 29."
 ---
 

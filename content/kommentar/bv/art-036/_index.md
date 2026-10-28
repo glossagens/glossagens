@@ -5,37 +5,30 @@ date: 2026-05-17
 lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 36 BV: Voraussetzungen der Grundrechtseinschränkung (Normdichte, qualifizierter Gesetzesvorbehalt, polizeiliche Generalklausel, öffentliches Interesse, Verhältnismässigkeit mit Eignung, Erforderlichkeit und Zumutbarkeit sowie Kerngehaltsgarantie) — mit plastischen Sachverhalten angewandter und verworfener Beschränkungen, Schwellenwert-Gegenüberstellungen und Praxishinweisen."
 tags: ["BV", "Grundrechte", "Grundrechtseinschränkung", "Gesetzliche Grundlage", "Qualifizierter Gesetzesvorbehalt", "Polizeiliche Generalklausel", "Öffentliches Interesse", "Verhältnismässigkeit", "Eignung", "Erforderlichkeit", "Zumutbarkeit", "Kerngehalt", "Chilling Effect", "Bettelverbot", "Kundgebungen", "AFV"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_445/2025 vom 17. September 2026 (Mendicité genèvevoise, Art. 11A LPG/GE — Freispruch wegen fehlender administrativer Vorstufen und ungenügender Information). Entscheid via mcp__opencaselaw__cite, get_decision_structure und get_erwaegung (E. 1.2, 2, 4) verifiziert; Zitate gegen den Wortlaut geprüft. Ergänzung in Abschnitt G.3 (Zumutbarkeit — Verwerfungsfälle) als Fortführung von BGE 149 I 248 und BGE 152 I 38. Auf entscheidsuche.ch noch nicht verfügbar, daher OCL-Link als Rückfall."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-036.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von AG VG WBE.2026.306 (Zwangsmedikation im Massnahmenvollzug, kantonale Rechtsprechung). Entscheid via mcp__entscheidsuche__search_by_case_number und fetch_document verifiziert; Volltext gesichtet, Zitate gegen den Wortlaut geprüft. Ergänzung in Abschnitt B.2 (gesetzliche Grundlage — kantonales formelles Gesetz § 47 EG StPO AG), Querverweis in Abschnitt G (Zumutbarkeit) und Tabellenzeile in B.4."
   - date: 2026-09-22
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar im Stil von Art. 110 StPO und Art. 336 OR. Gliederung entlang des dogmatischen Prüfschemas von Art. 36 Abs. 1-4 BV; Anreicherung mit plastischen Lebenssachverhalten angewandter und verworfener Beschränkungen; Schwellenwert-Gegenüberstellungen (u. a. BGE 148 I 19 vs. BGE 148 I 33; BGer 1C_586/2019 / BGE 137 II 431 vs. BGE 126 I 112 / ZH VG VB.2009.00485); Kognitionsspaltung, Rügeobliegenheiten nach Art. 106 Abs. 2 BGG, kantonale Praxisfragen (AFV, Kundgebungsrouten, Bettelverbote) sowie adressatenbezogene Praxishinweise. Alle Entscheide über entscheidsuche.ch im Volltext gesichtet und verlinkt; Wortlaut verbatim gegen Fedlex (SR 101, Konsolidierung 3. März 2024) geprüft; agent_verified auf true gesetzt."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 61 %, Urteil B): Keine erfundene Referenz, keine toten Pinpoints. Drei Fehlzuordnungen korrigiert (BGE 147 I 450 zur harmonisierenden Konkretisierung, BGE 146 I 70 zum Kerngehalt, BGE 132 II 485 zur Erforderlichkeit); Kernaussage zur Verhältnismässigkeit auf den Wortlaut von BGE 147 I 450 E. 3.2.3/3.2.4 umgestellt. Erstmals revisions-Block; agent_verified von true auf false."
   - date: 2026-05-18
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 

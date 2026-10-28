@@ -5,22 +5,18 @@ date: 2026-08-30
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 406 StPO: Mündlichkeit als Grundsatz (Art. 405 Abs. 1 StPO) und enge Schranken des schriftlichen Berufungsverfahrens; Katalogfälle von Amtes wegen (Abs. 1), Parteizustimmung und deren Wirksamkeit (Abs. 2), Fristansetzung zur Begründung (Abs. 3) sowie Schriftenwechsel und Beweisverfahren (Abs. 4) — mit ausführlicher Kasuistik, Schwellenwert-Gegenüberstellungen und taktischen Hinweisen für Verteidigung, Privatklägerschaft und Strafbehörden."
 tags: ["StPO", "Berufung", "Schriftliches Verfahren", "Mündlichkeitsprinzip", "Parteizustimmung", "Rechtsfragen", "Übertretungen", "Zivilpunkt", "Kostenfolgen", "Landesverweisung", "Rückzugsfiktion", "Replikrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-406.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender praxisorientierter Ausbau nach dem Benchmark-Standard von Art. 110 StPO und Art. 336 OR (Skill praxisorientierter-kommentar). Sämtliche Urteile im Volltext über entscheidsuche.ch gesichtet und belegt (u.a. BGE 150 IV 417, BGE 147 IV 127, BGE 143 IV 483, BGE 139 IV 290, BGE 139 IV 199, BGer 6B_606/2018, 6B_242/2023, 6B_684/2017, 6B_1418/2017, 6B_131/2021, 6B_1025/2014, BGE 138 I 484). Prüfschema-Tabelle, zweiseitige Grenzkasuistik (Angewandt vs. Verworfen), Kasuistiktabellen, Judikaturdivergenzen (Aargauer Praxis, Zuständigkeitsstreit Kollegium vs. Verfahrensleitung) und Praxishinweise nach Adressatenrollen eingefügt. Verlinkungen durchgehend auf entscheidsuche.ch gesetzt."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialkommentierung zu Art. 406 StPO."
 ---
 

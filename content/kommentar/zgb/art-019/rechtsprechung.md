@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-20
 description: "Rechtsprechungsübersicht zu Art. 19 ZGB — Urteilsfähige Handlungsunfähige, Zustimmungsvorbehalt, Alltagsgeschäfte, Deliktsfähigkeit und kantonale Praxis."
 tags: ["Rechtsprechung", "ZGB", "Handlungsfähigkeit", "Zustimmungsvorbehalt", "Deliktsfähigkeit", "Minderjährige", "Urteilsfähigkeit"]
-agent_verified: false
 revisions:
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul der Rechtsprechungsübersicht: 12 verifizierte Entscheide (7 BGE Leitentscheide, 2 Bundesgerichts-/Bundesstrafgerichtsentscheide, 5 kantonale Entscheide) mit vollständigen Verlinkungen und Belegprüfung."
   - date: 2026-06-06
     by: "Hermes Agent"
     model: "hermes-3"
-    mcp_verified: false
     note: "Alte Fassung"
 ---
 

@@ -5,7 +5,6 @@ date: 2026-07-03
 lastmod: 2026-07-03
 description: "Übersicht der Entscheide zu Art. 5 AHVG (massgebender Lohn; Abgrenzung Spesen; Pauschalspesen; Nachforderung; Verhältnis Steuerrecht)"
 tags: ["Rechtsprechung", "AHVG", "AHV", "massgebender Lohn", "Spesen", "Beiträge"]
-agent_verified: false
 ---
 
 # Rechtsprechungssammlung zu Art. 5 AHVG

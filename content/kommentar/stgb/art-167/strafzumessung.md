@@ -5,7 +5,6 @@ date: 2026-08-28
 lastmod: 2026-08-28
 description: "Empirische Auswertung der publizierten Praxis zur Strafzumessung nach Art. 167 StGB — 32 im Volltext ausgewertete Entscheide, 12 belegte Strafwerte, gespiegelt am Dispositiv."
 tags: ["Strafzumessung", "StGB", "Bevorzugung eines Gläubigers", "Praxisauswertung"]
-agent_verified: true
 auswertungsstand: 2026-08-28
 entscheide_ausgewertet: 32
 strafwerte_belegt: 12
@@ -13,7 +12,6 @@ revisions:
   - date: 2026-08-28
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Übernahme des Praxiskommentars von strafzumessung.ch: 32 im Volltext ausgewertete Entscheide, 12 belegte Strafwerte, gespiegelt am Dispositiv."
 ---
 

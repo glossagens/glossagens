@@ -5,17 +5,14 @@ date: 2026-07-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 21a VwVG: Elektronische Eingaben an Bundesbehörden, qualifizierte elektronische Signatur, Fristwahrung und Verhältnis zum Sozialversicherungsrecht."
 tags: ["VwVG", "Elektronische Eingabe", "Qualifizierte Signatur", "ZertES", "ATSG", "TAF"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-021a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit-Verifikation — agent_verified auf true gesetzt"
 ---
 

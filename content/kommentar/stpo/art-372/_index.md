@@ -5,12 +5,10 @@ date: 2026-10-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 372 StPO: Voraussetzungen und örtliche Zuständigkeit des selbstständigen Verfahrens zur Anordnung einer Friedensbürgschaft (Art. 66 StGB) — Subsidiarität zum ordentlichen Strafverfahren, absolute Haft-Ausschlussklausel, Gerichtsstand am Äusserungsort, Verhältnis zum Zwangsmassnahmengericht und zivilrechtlichen Schutzmassnahmen."
 tags: ["Friedensbürgschaft", "selbstständiges Massnahmeverfahren", "Zwangsmassnahmengericht", "Subsidiarität", "Gerichtsstand", "Haft", "Wiederholungsgefahr", "Ausführungsgefahr", "Art. 66 StGB", "Ersatzmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-372.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     author: "Glossagens Agent"

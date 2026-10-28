@@ -5,22 +5,18 @@ date: 2026-08-01
 lastmod: 2026-10-21
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 30 AVIG (Einstellung in der Anspruchsberechtigung): Leitentscheide des Bundesgerichts sowie wegweisende kantonale Entscheide zu Selbstverschulden, Kündigung auf Druck, Arbeitsbemühungen, Fristen und Vollzugsverwirkung."
 tags: ["Rechtsprechung", "AVIG", "Einstellung in der Anspruchsberechtigung", "Selbstverschuldete Arbeitslosigkeit", "Arbeitsbemühungen", "Meldepflicht", "Verwirkungsfrist", "IAO-168"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsseite: Aufteilung in 9 Leitentscheide (BGE) und 9 weitere Entscheide (BGer und kantonale Sozialversicherungsgerichte), inkl. detaillierter Sachverhaltsschilderungen und Kernaussagen. Sämtliche Entscheide über entscheidsuche.ch verifiziert und dorthin verlinkt."
   - date: 2026-08-02
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Supplement KW31 — 8C_709/2025 (Verschulden an Arbeitslosigkeit) via OCL case-brief verifiziert."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 123 V 150, 124 V 234, 124 V 225, 122 V 34, 125 V 193, 112 V 242, 139 V 524, 141 V 365)."
 ---
 

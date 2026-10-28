@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 72 StGB — Einziehung bei kriminellen und terroristischen Organisationen, Verfügungsmacht, Vermutung und schweizerische Zuständigkeit."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Kriminelle Organisation", "Terroristische Organisation", "Verfügungsmacht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 12 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 134 IV 185 (fehlende Schweizer Zuständigkeit, Drogenhändler ohne Inlandsbezug), BGE 138 IV 1 (Geldwäscherei, absichtlich lockerer Zusammenhang), BGer 6B_238/2013 ('Ndrangheta, Unterstützung und Einziehung), BGer 6B_924/2020 (Verfügungsmacht), BGer 1B_79/2007 (Beweislastumkehr), BStGer BB.2020.62 (Einziehung bei Verfahrenseinstellung), BStGer TPF 2011 18 (Verfassungsmässigkeit), BStGer SN.2008.41 (Freigabe), BStGer BB.2008.26 (Vermutungswirkung), BStGer BB.2011.145 (Einziehungsbeschlagnahme), BStGer BB.2012.102 (komplexe Finanzstrukturen), BStGer BB.2006.72 (Drittbeteiligte); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung fehlerhafter Fragment-Links; 10 verifizierte Bundesgerichts- und Bundesstrafgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
 ---
 

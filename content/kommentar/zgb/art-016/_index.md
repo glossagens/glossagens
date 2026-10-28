@@ -5,12 +5,10 @@ date: 2026-10-24
 lastmod: 2026-10-24
 description: "Kommentar zu Art. 16 ZGB: Voraussetzungen der Urteilsfähigkeit (intellektuelles und voluntatives Element), Schwächezustände, Relativität (zeitlich und sachlich), Vermutung und Beweislastumkehr bei Demenz sowie gesellschaftsrechtliche Stimmrechtsausübung (AG HSU.2026.22)."
 tags: ["ZGB", "Urteilsfähigkeit", "Handlungsfähigkeit", "Personenrecht", "Erwachsenenschutz", "Demenz", "Beweislast", "Stimmrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung des Kommentar-Bundles zu Art. 16 ZGB. Einarbeitung der Gesetzesmaterialien (BBl 2006 7001, S. 7094), der bundesgerichtlichen Leitentscheide (BGE 144 III 264, BGE 134 II 235, BGE 124 III 5) sowie der kantonalen Praxisentscheidung AG Handelsgericht HSU.2026.22 vom 13.10.2026 zur relativen Urteilsunfähigkeit bei der gesellschaftsrechtlichen Stimmrechtsausübung."
 ---
 

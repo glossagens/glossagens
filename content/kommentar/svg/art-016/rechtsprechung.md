@@ -5,12 +5,10 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der massgeblichen Entscheide zu Art. 16 SVG (Entzug von Ausweisen und Bewilligungen) — Sicherungsentzug bei Trunksucht/Drogen, Abgrenzung leichte/mittelschwere Widerhandlung, Kaskadensystem der Mindestentzugsdauern, internationaler Warnungsentzug, Mindestentzugsdauer und Verfahrensdauer."
 tags: ["Rechtsprechung", "SVG", "Führerausweisentzug", "Sicherungsentzug", "Warnungsentzug", "Mindestentzugsdauer", "Fahreignung"]
-agent_verified: true
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 135 II 138, 123 II 97, 129 II 82, 127 II 122, 133 II 384, 141 II 220, 135 II 334)."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-10-11
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 29 BöB: Zuschlagskriterien, Paradigmenwechsel zum vorteilhaftesten Angebot, Preisbewertungsformeln (lineare Kurve, Dreisatz, T-Formel, Bandbreiten), Mehreignung, Transparenzgebot bei Subkriterien sowie Rügeobliegenheiten."
 tags: ["BöB", "Zuschlagskriterien", "Vorteilhaftestes Angebot", "Preisbewertung", "Preisspannen", "Mehreignung", "Transparenzgebot", "Nachhaltigkeit", "Vergaberecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung als praxisorientierter Kommentar gemäss neuem Skill-Standard: Wortlaut auf Shortcode `wortlaut` umgestellt (Konsolidierung Stand 1. Januar 2026 via scripts/wortlaut.py); historische Materialien aus der Botschaft zur Totalrevision (BBl 2017 1851) eingearbeitet; Prüfschema strikt an den Tatbestandsmerkmalen ausgerichtet; vertiefte Kasuistik mit realen Sachverhalten aus Leit- und Kantonalentscheiden (BGE 143 II 553, BGE 139 II 489, BGE 140 I 285, BGE 130 I 241, BVGE 2018 IV/2, ZH VG VB.2024.00253, ZH VG VB.2024.00155, BL KG 810 2025 277, AG OG WBE.2025.8, BVGer B-2117/2024, VS KG A1 24 139); Gegenüberstellungstabellen ohne Code-Fences und rollenbasierte Praxishinweise am Schluss."
   - date: 2026-10-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Initiale Erstellung des Kommentars zu Art. 29 BöB"
 ---
 

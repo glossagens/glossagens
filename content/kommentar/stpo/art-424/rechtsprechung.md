@@ -5,17 +5,14 @@ date: 2026-10-05
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 424 StPO: Gebührenbemessung, Verbot der Verknüpfung mit dem Strafmass (BGE 146 IV 196), Gesetzmässigkeit und Äquivalenzprinzip (BGE 141 IV 465, BGE 141 I 105), Pauschalgebühren für einfache Fälle (Abs. 2) und Kognition des Bundesgerichts."
 tags: ["Rechtsprechung", "StPO", "Verfahrenskosten", "Gerichtsgebühren", "Äquivalenzprinzip", "Kostendeckungsprinzip", "Pauschalgebühren", "Polizeikosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung gegen Volltexte (entscheidsuche.ch) und Fedlex. Korrigiert: BGE 141 I 105 (Sachverhalt Basel-Stadt, gewerbsmässiger Betrug, Urteilsgebühr Fr. 5'500 → 11'000; Urteil 6B_307/2014 – nicht Bülach/Fr. 38'000/6B_77/2014); BGE 141 IV 465 (nur belegte Sachverhaltsangaben, Beträge als Rügen des Beschwerdeführers; Erzählung zum Tatgeschehen entfernt); BGE 146 IV 196 (Sachverhalt, offengelassene Frage Verschulden als Höchstgrenze; E. 1.2 nur im Urteil 6B_1430/2019, nicht publ.); BGer 7B_220/2022 (Zitat stammt von der Vorinstanz, Kosten Fr. 2'074); BGer 6B_11/2020 (kein METAS/16,2 km/h belegt); BGer 6B_1376/2021 statt BGE 134 I 159 für die Begründungspflicht; OGer ZH UH120130 (Kanzleigebühr Fr. 60 zulässig, nicht unzulässig); OGer ZH SB130321 (GebV StrV LS 323.1 statt «GebV StPO LS 211.13»); BE-Dekret BSG 161.12; unbelegte Verallgemeinerungen (ASCII-Schema, «Verdoppelungsautomatismus verfassungswidrig», Art. 5 Abs. 1 BV) entfernt. Botschaft BBl 2006 1085 nicht direkt abrufbar und nicht mehr zitiert."
   - date: 2026-10-05
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Vollständige Rechtsprechungsübersicht mit 14 strukturierten Entscheiden zu Art. 424 StPO (5 Leitentscheide des Bundesgerichts sowie 9 weitere Entscheide des Bundesgerichts, des Bundesstrafgerichts und kantonaler Obergerichte). Sämtliche Entscheide im Volltext verifiziert und direkt auf entscheidsuche.ch verlinkt."
 ---
 

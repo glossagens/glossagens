@@ -5,22 +5,18 @@ date: 2026-10-04
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 418 StPO (SR 312.0): anteilsmässige Kostentragung bei mehreren kostenpflichtigen Personen, solidarische Haftung für gemeinsam verursachte Kosten, Haftung Dritter nach zivilrechtlichen Grundsätzen."
 tags: ["StPO", "Kostentragung", "Solidarhaftung", "Anteilsmässig", "Haftung Dritter", "Zivilrecht", "Kosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überprüfung der Erfassung: Wortlaut (data/wortlaut/stpo/art-418.json, Fedlex Stand 2025-04-01) unverändert; BGer 6B_370/2016 E. 1.2 und 1B_379/2013 E. 2.3.3 im Volltext (entscheidsuche) abgeglichen und bestätigt. Korrigiert: nicht belegte Beispiele zu Abs. 3 (Erbenhaftung, Vicarius-Haftung) durch die Beispiele der Botschaft (BBl 2006 1085, 1324, abgerufen via opencaselaw get_article_purpose) ersetzt; Behauptung «kein Ermessen» bei Abs. 1 relativiert; Hinweis auf Art. 420 i.V.m. Art. 418 Abs. 2 (OG BE BK 23 364) ergänzt; Botschaftsdatum in der Literaturangabe berichtigt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-418.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 93 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage praxisorientiert — Gesetzestext via Fedlex get_article (SR 312.0 Art. 418), 2 BGer-Entscheide via OCL get_erwaegung geprueft (yes). Prüfschema, Kasuistik-Tabelle, Praxishinweise."
 ---
 

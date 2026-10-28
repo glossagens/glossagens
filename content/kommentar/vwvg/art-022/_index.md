@@ -5,22 +5,18 @@ date: 2026-08-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 22 VwVG (SR 172.021): Gesetzliche vs. behördliche Fristen, Erstreckungsvoraussetzungen, zureichende Gründe, Postaufgabe und Praxisfragen."
 tags: ["VwVG", "Fristerstreckung", "Fristen", "Verwaltungsverfahren", "Kostenvorschuss"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-022.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und wissenschaftliche Vertiefung nach dem Standard von onlinekommentar.ch: Systematische Kommentierung von Abs. 1 und Abs. 2, Belegprüfung anhand wörtlicher Entscheiderwägungen, Integration von 14 verifizierten Leit- und Kantonalentscheiden sowie vertieften kantonalen Praxisfragen."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuanlage (Urteil B, 75%, 0 offene Befunde): Das bisher unter diesem Verzeichnis liegende Bundle behandelte durchgehend Art. 22a VwVG (Fristenstillstand) und wurde nach content/kommentar/vwvg/art-022a/ verschoben. Dieser Artikel zu Art. 22 VwVG (Erstreckung von Fristen) ist eine Neuerstellung mit über check_claim_support verifizierten Belegen."
 ---
 

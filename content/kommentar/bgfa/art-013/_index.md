@@ -5,27 +5,22 @@ date: 2026-08-29
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 13 BGFA — Berufsgeheimnis der Anwältinnen und Anwälte: zeitlich unbegrenzt, gegenüber jedermann, Entbindung, Voraus-Entbindung, Entsiegelung von Anwaltsakten, fahrlässige Verletzung, Hilfspersonen."
 tags: ["BGFA", "Berufsgeheimnis", "Anwaltsrecht", "Entbindung", "Art. 321 StGB", "Entsiegelung", "Honorarstreitigkeit", "Hilfspersonen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 935.61 vom 2025-07-01 (data/wortlaut/bgfa/art-013.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-08 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung zur Interessenabwägung bei Honorareintreibung gestützt auf BGer 2C_224/2026 vom 10.9.2026: Substanziierungslast für individuelles Geheimhaltungsinteresse des Klienten und Auswirkung unterlassener Kostenvorschüsse nach Todesfall."
   - date: 2026-08-29
     by: "Claude Code"
     model: claude-opus-4-8
-    mcp_verified: true
     note: "Erhebliche Ausarbeitung mit Praxisfällen; alle Zitate via Fedlex und entscheidsuche verifiziert; Links auf entscheidsuche.ch umgestellt"
   - date: 2026-07-18
     by: "Claude Code"
     model: claude-sonnet-4-20250514
-    mcp_verified: false
     note: "Erstkommentar"
 ---
 

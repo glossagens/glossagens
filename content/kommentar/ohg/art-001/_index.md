@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Kommentar zu Art. 1 OHG — Grundsätze: Opferbegriff, Angehörigenbegriff, Unabhängigkeit vom Täterverschulden"
 tags: ["OHG", "Opferhilfe", "Opferbegriff", "Angehörige", "Integritätsverletzung", "Täterverschulden"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitung: Frontmatter-Upgrade, Links zu entscheidsuche.ch migriert, Fedlex-Wortlaut geprüft, Praxisbeispiele ergänzt"
 ---
 

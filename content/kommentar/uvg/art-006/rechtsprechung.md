@@ -5,17 +5,14 @@ date: 2026-07-03
 lastmod: 2026-09-04
 description: "Übersicht der Entscheide zu Art. 6 UVG: Unfallbegriff und ungewöhnlicher äusserer Faktor, Schreckereignis, ärztlicher Eingriff, Listenverletzung nach Abs. 2 und Entlastungsbeweis, Behandlungsschäden nach Abs. 3, Status quo sine sowie Beweiswert versicherungsinterner Berichte."
 tags: ["Rechtsprechung", "UVG", "Unfallversicherung", "Unfallbegriff", "Ungewöhnlichkeit", "Listenverletzung", "Entlastungsbeweis", "Status quo sine", "Schreckereignis", "Behandlungsschaden", "Beweiswert"]
-agent_verified: true
 revisions:
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Nachtrag 04.09.2026: BGE 115 V 133 wird von entscheidsuche.ch entgegen der ursprünglichen Annahme geführt (CH_BGE_007_BGE-115-V-133_1989-06-16) und ist neu verlinkt. — Vollständige Neufassung nach Volltextverifikation sämtlicher Einträge über entscheidsuche.ch. Neu aufgenommen: BGE 146 V 51, BGE 151 V 244, BGE 134 V 72, BGE 142 V 435, BGE 142 V 219, BGE 130 V 117, BGE 129 V 402, BGE 128 V 169, BGE 118 V 286, BGE 116 V 145, BGE 121 V 35, BGE 135 V 465, BGE 125 V 351, BGE 119 V 335, BGE 119 V 200 sowie BGer 8C_679/2022, 8C_571/2025, 8C_142/2026, SG VSG UV 2021/70 und ZH SVG UV.2022.00027. ENTFERNT, weil die Verifikation die Zuschreibung widerlegt hat: «BGE 148 V 409» (existiert nicht — entscheidsuche liefert null Treffer); BGE 147 V 342 (Regeste betrifft die Arbeitslosenversicherung, nicht Berufskrankheiten); BGE 142 V 325 (Regeste betrifft den Off-Label-Use eines Migränemittels im KVG, nicht «post hoc ergo propter hoc»); BGE 145 V 97 (Regeste betrifft Geburtsgebrechen im IVG, nicht den Beweiswert versicherungsinterner Berichte — Leitentscheid ist BGE 135 V 465); BGE 144 V 361 (Regeste betrifft die Hilflosenentschädigung im IVG, nicht die antizipierte Beweiswürdigung); BGer 8C_628/2025 (von entscheidsuche nicht geführt; der bisherige Link zeigte auf die Sekundärquelle bger-update.ch). BGE 129 V 177 wird beibehalten, aber richtig zugeordnet: Der Entscheid betrifft die Adäquanz bei Schreckereignissen, nicht den Unfallbegriff und nicht die richtunggebende Verschlimmerung. Die Kernaussagen zu BGer 8C_571/2025 und 8C_142/2026 sind gegen den Volltext korrigiert (8C_142/2026 betrifft ein Knie nach Sturz auf vereister Strasse, nicht die Halswirbelsäule nach Auffahrunfall, und datiert vom 13. August 2026)."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erweiterung auf 10 Praxisentscheide."
   - date: 2026-07-03
     by: "Antigravity"

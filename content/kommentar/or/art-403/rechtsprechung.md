@@ -5,12 +5,10 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Entscheide zu Art. 403 OR — Solidarhaftung mehrerer Auftraggeber, Solidarhaftung und gemeinschaftliches Handeln mehrerer Beauftragter"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Solidarhaftung", "Mitbeauftragte", "Sozietät"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neuerstellung; BGE 124 III 363, BGer 4A_94/2014, SG KG HG.2007.51 via entscheidsuche verifiziert"
 ---
 

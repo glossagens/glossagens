@@ -5,22 +5,18 @@ date: 2026-07-11
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 118 StPO: Konstituierung der Privatklägerschaft, Abgrenzung zur blossen Geschädigtenstellung, ausdrückliche Erklärung und Formularpraxis der Polizei, Kostenprivileg des passiven Strafantragstellers, Präklusionsfrist bis Abschluss des Vorverfahrens, Heilung der unterlassenen Hinweispflicht durch nachträgliche gerichtliche Belehrung (BGer 6B_95/2025) sowie Rechtsnachfolge und Rechtsmittellegitimation."
 tags: ["StPO", "Privatklägerschaft", "Geschädigte Person", "Parteistellung", "Strafklage", "Zivilklage", "Strafantrag", "Abschluss des Vorverfahrens", "Hinweispflicht", "Kostenpflicht", "Rechtsmittellegitimation", "Rechtsnachfolge"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-118.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-14
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Praxisorientierter Vollausbau gemäss Leitfaden praxisorientierter-kommentar (Referenzmuster Art. 110 StPO und Art. 336 OR). Gesetzestext verbatim nach Fedlex (SR 312.0) verifiziert. Volltextrecherche und Verifikation sämtlicher Entscheide über entscheidsuche.ch und swiss-caselaw: BGE 140 IV 155, BGE 141 IV 454, BGE 143 IV 77, BGE 145 IV 491, BGE 138 IV 258, BGE 138 IV 248, BGE 139 IV 102, BGE 137 IV 246, BGE 141 IV 380, BGE 142 IV 82, BGE 140 IV 162 sowie BGer 6B_95/2025 (nachträglicher gerichtlicher Hinweis), 1B_446/2018 (Formularpraxis / Zivilklage nach Strafklage), 6B_481/2014 (Vorbehalt von Zivilansprüchen vs. Zivilklage), 1B_298/2012 (Verwirkungsfolge und Erben), 6B_700/2020, 6B_299/2013, SG KG AK.2023.558-AK und BE OG BK 2025 403. Gliederung strikt entlang der Tatbestandsmerkmale, zweiseitige Grenzkasuistik, strukturierte Vergleichstabellen, Leitsätze und rollenbezogene Praxishinweise."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-05-17
 lastmod: 2026-09-22
 description: "Rechtsprechungsübersicht zu Art. 31 BV — Freiheitsentzug: Leitentscheide und weitere Urteile zu Begriff des Freiheitsentzugs, Vorführungsfristen (48h/96h), Haftgründen, Überhaft sowie Habeas-Corpus-Garantie."
 tags: ["Rechtsprechung", "BV", "Freiheitsentzug", "Habeas Corpus", "Untersuchungshaft", "Polizeigewahrsam", "Art. 31"]
-agent_verified: true
 revisions:
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht gemäss Leitfaden. Gliederung in Leitentscheide und weitere Entscheide. Aufnahme der neuen Leitentscheide BGE 151 I 219 (2025), BGE 151 IV 185 (2025), BGE 150 IV 149 (2024), BGE 145 IV 503, BGE 142 I 121, BGE 137 IV 118 sowie kantonaler Entscheide. Sämtliche Links auf entscheidsuche.ch verifiziert; durchgehende Korrektur der Schweizer Rechtschreibung (Umlaute bereinigt, kein Eszett)."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Korrektur zu BGE 134 I 140 (Gewaltschutzmassnahmen sind keine Freiheitsentziehung) und BGE 133 I 270 (Begründungspflicht aus Art. 29 Abs. 2 BV)."
   - date: 2026-06-20
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

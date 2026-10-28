@@ -5,12 +5,10 @@ date: 2026-07-31
 lastmod: 2026-07-31
 description: "Übersicht der Entscheide zu Art. 23 AHVG — Witwen- und Witwerrente, Anspruchsvoraussetzungen, Gleichstellung von Stief- und Pflegekindern, Entstehen und Erlöschen, Wieder aufleben bei Scheidung, Verhältnis zum Verwitwetenzuschlag und zur Rentenplafonierung"
 tags: ["Rechtsprechung", "AHVG", "Witwenrente", "Hinterlassenenrente", "Verwitwetenzuschlag", "Rentenplafonierung", "Verwirkung"]
-agent_verified: false
 revisions:
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

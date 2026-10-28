@@ -5,12 +5,10 @@ date: 2026-07-17
 lastmod: 2026-09-04
 description: "Übersicht der massgeblichen Entscheide zu Art. 36 UVG (Zusammentreffen verschiedener Schadensursachen; Kürzung bei Vorzuständen; status quo sine vel ante)"
 tags: ["Rechtsprechung", "UVG", "Unfallversicherung", "Kausalzusammenhang", "Vorzustand", "Status quo sine", "Kürzung"]
-agent_verified: false
 revisions:
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Verifikation gegen entscheidsuche.ch. ENTFERNT: Eintrag zu BGer 8C_277/2026 — der Entscheid existiert, ist aber ein einzelrichterlicher Nichteintretensentscheid vom 28. Juli 2026 (nicht 14.08.2026) betreffend Ergaenzungsleistungen zur AHV/IV; die ihm zugeschriebene Aussage zum Einkommensvergleich im UVG ist frei erfunden. KORRIGIERT: Kernaussage zu BGer 8C_17/2026 — sie behauptete eine rechtmaessige Leistungseinstellung, waehrend das Bundesgericht die Beschwerde gutgeheissen und den Einspracheentscheid aufgehoben hat (das Feld «Verfahrensergebnis: Gutheissung» stand bereits richtig daneben); Sachverhalt und Erwaegungen neu aus dem Volltext. Erstmals Revisionsvermerk gesetzt."
 ---
 

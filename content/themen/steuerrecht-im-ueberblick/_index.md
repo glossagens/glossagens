@@ -32,12 +32,10 @@ normen:
   - { gesetz: mwstg, art: art-025 }
   - { gesetz: stg, art: art-001 }
 stichworte: ["Steuerrecht", "Finanzverfassung", "Steuerhoheit", "Steuerföderalismus", "Steuerwettbewerb", "Tarifautonomie", "Leistungsfähigkeitsprinzip", "Legalitätsprinzip im Abgaberecht", "Kausalabgabe", "Reinvermögenszugangstheorie", "Massgeblichkeitsprinzip", "Allphasensteuer", "Vorsteuerabzug", "Defraudantensteuer", "interkantonale Doppelbesteuerung", "Steuerumgehung", "Nachsteuer", "straflose Selbstanzeige"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtexte Art. 127 und 129 BV per {{< wortlaut >}} (scripts/wortlaut.py); alle übrigen genannten Bestimmungen (BV, DBG, StHG, MWSTG, VStG, StG) über die Fedlex-MCP geprüft. Elf Leitentscheide als Volltext von entscheidsuche.ch geladen (MCP offline, direkt über den ES-Proxy); Erwägungsnummern, Anker und wörtliche Zitate gegen den Volltext abgeglichen. Kantonale Tarife und Frankenbeträge bewusst weggelassen; Reformvorhaben (Individualbesteuerung, Eigenmietwert) nicht dargestellt, solange sie nicht in Kraft sind."
 ---
 

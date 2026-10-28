@@ -5,27 +5,22 @@ date: 2026-05-17
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 30 BV: Gesetzlicher Richter und Spruchkörperbildung, Unabhängigkeit und Amtskumulation, Unparteiischkeit und Befangenheitskasuistik (soziale Medien, Nahestehende, Vergleichsverhandlungen gemäss BGE 152 III 61, Vorbefassung und Parteizugehörigkeit), Ausnahmegerichtsverbot, Wohnsitzrichter bei Zivilklagen sowie Justizöffentlichkeit — mit umfassender Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
 tags: ["BV", "Gerichtliche Verfahren", "Gesetzlicher Richter", "Unabhängigkeit", "Unparteiischkeit", "Befangenheit", "Ausnahmegericht", "Wohnsitzrichter", "Justizöffentlichkeit", "Vergleichsverhandlung", "Art. 30"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-030.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard (praxisorientierter-kommentar). Merkmalskatalog als Prüfschema, zweiseitige Grenzkasuistik (Angewandt vs. Verworfen), tabellarische Gegenüberstellungen, Offenlegung von Judikaturdivergenzen (Vergleichsverhandlungen vs. Voreingenommenheit; Spruchkörperbildung via Software vs. Präsidialermessen; Vorbefassung im Vorverfahren), Einarbeitung der Leitentscheide BGE 152 III 61 (2026), BGE 144 I 159, BGE 144 I 70, BGE 141 IV 178, BGE 140 III 221, BGE 140 I 271, BGE 137 I 227, BGE 143 I 194, kantonale Praxisfragen und adressatenbezogene Praxishinweise. Sämtliche Urteile über entscheidsuche.ch im Volltext verifiziert."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 74 %, Urteil B): Keine erfundene Referenz, keine toten Pinpoints. Zwei Fehlzuordnungen korrigiert (BGE 126 II 377 zum Wohnsitzrichter; BGE 137 V 210 zur EMRK-Auslegung), Kreuzverweise im Fliesstext entschärft. Erstmals revisions-Block; agent_verified von true auf false."
   - date: 2026-05-18
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 

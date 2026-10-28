@@ -5,17 +5,14 @@ date: "2026-07-12"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 34 StPO: Zuständigkeitsbestimmung bei mehreren Straftaten an verschiedenen Orten (Schwerste-Tat-Prinzip), Verfahrenstrennung bei bereits erhobener Anklage, gerichtliche Gesamtstrafenfestsetzung."
 tags: ["StPO", "Zuständigkeit", "Gerichtsstand", "Verfahrenseinheit", "Gesamtstrafe", "Gerichtsstandskonflikt", "Asperation"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-034.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-22 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 34 %). Alle 25 Referenzen existieren und treffen thematisch zu. Drei Erwägungsangaben korrigiert: BGE 138 IV 214 E. 3 → E. 3.6 (Spezialisierung der Staatsanwaltschaften darf die Verfahrenseinheit nicht zur Ausnahme machen), E. 1 → E. 1.2 ff. (Zulässigkeit der Beschwerde ans Bundesgericht), BGE 144 IV 217 E. 2 → E. 2.2 (Geld- und Freiheitsstrafe sind keine gleichartigen Strafen). Die im Audit als «unrelated» gemeldeten BStGer-Entscheide sind Artefakte der Auswertung einer Aufzählung; sie sind sämtlich einschlägig."
   - date: 2026-08-13
     by: "Hermes Agent"

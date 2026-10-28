@@ -5,7 +5,6 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 8 StG – Bemessungsgrundlage der Emissionsabgabe, Nennwert, Zuschüsse, Mantelhandel und Sanierungsfreibetrag."
 tags: ["Rechtsprechung", "StG", "Emissionsabgabe", "Mantelhandel", "Steuerrecht"]
-agent_verified: true
 ---
 
 # Rechtsprechungssammlung zu Art. 8 StG

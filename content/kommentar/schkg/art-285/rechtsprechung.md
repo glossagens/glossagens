@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 285 SchKG: Zweck, Aktivlegitimation, Gläubigerschädigung und Zuständigkeit."
 tags: ["Rechtsprechung", "SchKG", "Anfechtung", "Aktivlegitimation", "Verlustschein", "Zuständigkeit"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

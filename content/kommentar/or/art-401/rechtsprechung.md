@@ -5,17 +5,14 @@ date: 2026-09-05
 lastmod: 2026-09-05
 description: "Übersicht der Rechtsprechung zu Art. 401 OR — Forderungs- und Sachenübergang bei Konkurs, Legalzession, Treuhand, Aussonderung"
 tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Konkurs", "Legalzession", "Treuhand", "Aussonderung"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Erweiterung auf 12 Entscheide; URLs via entscheidsuche verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "claude-5-1"
-    mcp_verified: true
     note: "Neu erstellt; Entscheide via entscheidsuche verifiziert und verlinkt"
 ---
 

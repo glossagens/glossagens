@@ -5,12 +5,10 @@ date: 2026-09-21
 lastmod: "2026-09-21"
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 64 StGB: Leitentscheide des Bundesgerichts und kantonale Urteile zu ordentlicher und lebenslänglicher Verwahrung, Therapierbarkeit und Gutachtenanforderungen."
 tags: ["Rechtsprechung", "StGB", "Verwahrung", "Lebenslängliche Verwahrung", "Gutachten", "Therapierbarkeit"]
-agent_verified: true
 revisions:
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "claude-3-7-sonnet"
-    mcp_verified: true
     note: "Vollständige Neuerstellung der Rechtsprechungsseite zu Art. 64 StGB mit 8 BGE-Leitentscheiden und 7 weiteren/kantonalen Entscheiden."
 ---
 

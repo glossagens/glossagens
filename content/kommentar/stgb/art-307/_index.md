@@ -5,22 +5,18 @@ date: 2026-06-05
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 307 StGB: Falschaussage vor Gericht durch Zeugen, Sachverständige, Übersetzer oder Dolmetscher — Sonderdelikt, Erheblichkeit, Zeugeneigenschaft und Privatklägerschaft."
 tags: ["StGB", "Falschaussage", "Falsches Zeugnis", "Sachverständigengutachten", "Rechtspflegedelikte", "Privatklägerschaft", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung: BGE 141 IV 444 (falsches Zeugnis vor parlamentarischer Untersuchungskommission, Ehre als sekundär geschütztes Rechtsgut), BGE 147 IV 373 / BGer 6B_1022/2020 (fehlende Zeugeneigenschaft = strafloses untaugliches Tatsubjekt), BGE 148 IV 170 (Geschädigtenstellung bei Vermögensdelikten), BGE 133 IV 324 (Falschaussage bei Rechtshilfe-Einvernahme); alle Links durch entscheidsuche.ch ersetzt; Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und fiktiver Dossiernummern; Gesetzeswortlaut nach Fedlex und 10 verifizierte Entscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-08-01
 description: "Übersicht der massgeblichen Entscheide zu Art. 2 BehiG (Begriffe) — Behinderungsbegriff, Benachteiligung, Zugangsbegriff, Assistenz in Aus- und Weiterbildung."
 tags: ["Rechtsprechung", "BehiG", "Behinderungsbegriff", "Benachteiligung", "Zugänglichkeit", "Assistenz", "BRK"]
-agent_verified: true
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Wöchentliche Ergänzung KW31 — BGer 2C_79/2025 (Studienzeitverlängerung/Nachteilsausgleich) via OCL case-brief verifiziert und ergänzt."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 134 II 249, BGE 139 II 289, BGE 151 I 73, BGer 2C 930/2011, BGer 1C_160/2023, BGer 2C_248/2023)."
 ---
 

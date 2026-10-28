@@ -5,12 +5,10 @@ date: 2026-07-10
 lastmod: "2026-09-24"
 description: "Übersicht der Rechtsprechung zu Art. 293 StPO – Mass der zulässigen Einwirkung verdeckter Ermittlerinnen und Ermittler, agent provocateur-Verbot, Grenzen der Tatprovokation und Beweisverwertungsverbote."
 tags: ["Rechtsprechung", "StPO", "verdeckte Ermittlung", "agent provocateur", "Tatprovokation", "Beweisverwertungsverbot", "Konfrontationsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ergänzung der Rechtsprechungsübersicht mit mindestens 10 fundierten Entscheiden (Leitentscheide BGE 148 IV 205, BGE 143 I 304, BGE 124 IV 34, BGE 143 IV 27, BGE 140 I 353 sowie kantonale und bundesgerichtliche Praxis BGer 7B_247/2022, BGer 7B_689/2023, BGer 6B_646/2017, BGer 7B_1046/2023, OGer ZH SB240076, OGer AG SBK.2024.89, AppGer BS SB.2024.30) mit vollständigen Sachverhalten und Kernüberlegungen."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-06
 lastmod: "2026-10-06"
 description: "Übersicht der Rechtsprechung zu Art. 247 ZPO: Richterliche Fragepflicht (Abs. 1) und soziale Untersuchungsmaxime (Abs. 2) im vereinfachten Verfahren."
 tags: ["Rechtsprechung", "ZPO", "Vereinfachtes Verfahren", "richterliche Fragepflicht", "soziale Untersuchungsmaxime", "Mietrecht", "Arbeitsrecht"]
-agent_verified: false
 revisions:
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ersterstellung der Rechtsprechungsübersicht mit 18 strukturierten Leitentscheiden und kantonalen Entscheiden zur richterlichen Fragepflicht und sozialen Untersuchungsmaxime."
 ---
 

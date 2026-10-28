@@ -5,32 +5,26 @@ date: 2026-06-20
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 431 StPO: Entschädigung und Genugtuung bei rechtswidrigen Zwangsmassnahmen (Abs. 1) und Überhaft (Abs. 2) — Formelle Rechtswidrigkeit bei fehlendem Hafttitel, konventionswidrige Haftbedingungen (Art. 3 EMRK), Schwellenwerte bei Vorführung und Festhaltung, Primat des Realersatzes bei Massnahmen (Art. 59 und 63 StGB), absolutes Verrechnungsverbot mit Gerichtskosten sowie gesetzliche Ausschlussgründe nach Abs. 3."
 tags: ["StPO", "Entschädigung", "Genugtuung", "Zwangsmassnahmen", "Überhaft", "Untersuchungshaft", "Sicherheitshaft", "Freiheitsentzug", "Haftbedingungen", "EMRK", "Massnahmenvollzug", "Verrechnungsverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Volltext-Abgleich der zitierten Entscheide. Korrigiert: Befragungszeit zählt bei der 3-Stunden-Regel nicht mit (BGE 143 IV 339 E. 3.2, BGE 146 IV 231 E. 2.3.2; zuvor gegenteilig), 18½ Stunden ist kein «in jedem Fall»-Schwellenwert (BGE 146 IV 231 E. 2.4), BGer 7B_459/2023 (Sachverhalt, kein Hinweis auf Art. 5 EMRK/Art. 31 BV, Flucht nicht entschieden), BGer 6B_672/2021 (Teilrückweisung; Falschangaben nur für verhältnismässigen Teil relevant), BGE 140 I 125 (Feststellung im Haftprüfungsverfahren, Wiedergutmachung durch Sachgericht), BGE 140 I 246 (Fr. 50.– pro Tag statt «zusätzlich 25–50»), BGE 142 IV 245 (8 Tage Strafabzug), BGE 147 IV 55 (Verrechnung nur ohne Zustimmung ausgeschlossen), BGE 141 IV 236 (E. 3.8; Sachverhalt), BGer 6B_888/2021 und 6B_990/2013 (Sachverhalte berichtigt). Wortlaut Fedlex (Abs. 1–3) geprüft; Entscheide via entscheidsuche-Volltexte verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-431.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden. Sämtliche Urteile im Volltext über entscheidsuche.ch verifiziert: BGE 147 IV 55 (Aufrechnungsverbot mit Verfahrenskosten nach Art. 125 Ziff. 2 OR), BGE 146 IV 231 (Eingriffsschwellen bei Festnahme und Gewahrsam), BGE 143 IV 339 (Drei-Stunden-Regel bei Anhaltung), BGE 142 IV 245 (Wahlrecht des Gerichts zwischen Strafreduktion und Barersatz), BGE 141 IV 236 (Anrechnung von Haft auf Art. 59 StGB und Subsidiarität der Entschädigung), BGE 140 I 246 (Fensterlose Zelle unter Dauerlicht und zwingende Geldgenugtuung), BGE 140 I 125 (Überbelegung in Champ-Dollon und Mindestraum), BGE 133 IV 150 (Anrechnungsgrundsatz), BGer 7B_459/2023 (Fehlender Hafttitel bei Massnahmenverlängerung, Flucht und Unanwendbarkeit von Art. 430 StPO), BGer 6B_672/2021 (Überlange Festhaltung nach Vorführung und Ausschluss des Selbstverschuldenseinwands), BGer 6B_375/2018 (Überhaft bei Schuldunfähigkeit und ambulanten Massnahmen im Verfahren nach Art. 363 StPO), BGer 6B_888/2021 (Abgrenzung zu Art. 429 StPO), BGer 6B_1076/2016 (Rechtsnatur der Überhaft) sowie kantonale Entscheide BS AppGer ZS.2024.8 (Bemessung des Tagessatzes bei unrechtmässigem Massnahmenvollzug), SG KG ST.2014.116 (rechtswidrige Gefängnisbedingungen) und ZH VG VB.2025.00828 (Haftanrechnung und Fünfjahresfrist). Gesetzeswortlaut verbatim nach Fedlex (SR 312.0, Stand 1. April 2025 inkl. Revision vom 17. Juni 2022)."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Erstüberarbeitung"
 ---
 

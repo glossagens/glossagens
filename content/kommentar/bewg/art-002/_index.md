@@ -5,17 +5,14 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 2 BewG — Bewilligungspflicht für den Grundstückserwerb durch Personen im Ausland und Ausnahmen davon (Betriebsstättengrundstück, Hauptwohnung am Wohnsitz, Art. 7 BewG); Begriff des Betriebsstättengrundstücks, Widerruf von Auflagen, Wohnanteilvorschriften."
 tags: ["BewG", "Lex Koller", "Bewilligungspflicht", "Betriebsstätte", "Hauptwohnung", "Personen im Ausland", "Grundstückserwerb", "Widerruf"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.41 vom 2023-07-01 (data/wortlaut/bewg/art-002.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 86 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law (SR 211.412.41 Art. 2), Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

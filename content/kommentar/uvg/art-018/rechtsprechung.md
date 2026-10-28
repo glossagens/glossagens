@@ -5,17 +5,14 @@ date: 2026-07-18
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 18 UVG — Invalidenrente, Kausalzusammenhang, Bemessung des Invaliditätsgrades, Beweiswert medizinischer Gutachten und Ausschluss der analogen Anwendung von Art. 26/26bis IVV (BGer 8C_65/2026, 8C_188/2026, 8C_254/2025)."
 tags: ["Rechtsprechung", "UVG", "Invalidenrente", "Invalidität", "Beweiswert", "Status quo sine"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "8C_65/2026 vom 06.08.2026 (publ. 31.08.2026) integriert: Konsolidierung der Rechtsprechung zum qualifizierten Schweigen des Gesetzgebers gegen IVV-Analogie im UVG und Abweisung der Art. 8 BV-Rüge"
   - date: 2026-08-22
     by: "Glossagens Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "8C_188/2026 und 8C_165/2026 integriert; Belege via check_claim_support geprüft"
 ---
 

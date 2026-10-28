@@ -5,17 +5,14 @@ date: 2026-06-28
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 30 VwVG – Anhörung der Parteien vor Verfügungserlass und Ausnahmen von der Anhörungspflicht"
 tags: ["VwVG", "rechtliches Gehör", "Anhörung", "Verwaltungsverfahren", "Parteianhörung", "Verfügung", "Art. 29 BV"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-030.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B, 72%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 131 II 670 war durchgängig als Beleg für Art. 30 Abs. 2 lit. e VwVG (Gefahr im Verzuge) zitiert, betrifft tatsächlich eine Gehörsverletzung durch fehlende Protokollierung (Art. 29 Abs. 2 BV, E. 4.3) -- korrigiert. BGer 1C_437/2016 war mit unzutreffender 'restriktive Auslegung'-Behauptung zitiert; tatsächlich bejahte das Gericht die Anwendung der Ausnahme -- Kernaussage auf die tatsächlichen kumulativen Voraussetzungen (E. 2.2/2.3) umgestellt. BGer 1C_737/2025 war komplett themenfremd zitiert (tatsächlich zu vorsorglichen Massnahmen/aufschiebender Wirkung in einem kantonalen Verfahren, kein Art.-30-VwVG-Bezug) -- entfernt. BGer 1C_435/2024 Kernaussage an die tatsächliche Erwägung (E. 4.4) angepasst. Mehrere Pinpoints (BGE 128 V 272, 121 V 150, 127 V 431) auf URL-Anker mit korrekten Erwägungsnummern umgestellt."
 ---
 

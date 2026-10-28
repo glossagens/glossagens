@@ -5,12 +5,10 @@ date: "2026-07-10"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 28 ArG – Geringfügige Abweichungen in Arbeitszeitbewilligungen (Ausnahmeermächtigung, ausserordentliche Schwierigkeiten, Mehrheitseinverständnis der Arbeitnehmer)"
 tags: ["ArG", "Arbeitszeitbewilligung", "Ausnahme", "Arbeitnehmerschutz", "Geringfügige Abweichung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 822.11 vom 2023-09-01 (data/wortlaut/arg/art-028.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

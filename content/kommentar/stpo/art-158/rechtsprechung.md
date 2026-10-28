@@ -5,7 +5,6 @@ date: 2026-05-17
 lastmod: "2026-10-21"
 description: "Übersicht der Entscheide zu Art. 158 StPO — Hinweise bei der ersten Einvernahme, nemo-tenetur-Grundsatz, PIN-Code, Verwertungsverbot"
 tags: ["Rechtsprechung", "StPO", "Belehrungspflicht", "Einvernahme", "Aussageverweigerungsrecht", "nemo tenetur", "Verwertungsverbot"]
-agent_verified: true
 ---
 
 ## I. Materieller Einvernahmebegriff und PIN-Code

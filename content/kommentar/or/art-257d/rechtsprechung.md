@@ -5,17 +5,14 @@ date: 2026-10-08
 lastmod: 2026-10-08
 description: "Systematische Übersicht der Rechtsprechung zu Art. 257d OR: Zahlungsrückstand des Mieters — Bundesgerichtliche Leitentscheide (BGE) und kantonale Gerichtspraxis zu Zahlungsansetzung, relativer Empfangstheorie, Verrechnung, Hinterlegung, verfrühter Kündigung und Mieterausweisung (Art. 257 ZPO)."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Zahlungsrückstand", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung"]
-agent_verified: true
 revisions:
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau der Rechtsprechungsübersicht mit 10 BGE-Leitentscheiden, 4 BGer-Urteilen (inkl. 4A_239/2025, 4A_585/2010, 4A_306/2015, 4A_421/2026) und 6 kantonalen Entscheiden (AR, SG, AG, TG, LU, GR); alle Zitate und Volltext-URLs via entscheidsuche.ch verifiziert."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstaufbau der Rechtsprechungsübersicht zu Art. 257d OR mit 7 BGE-Leitentscheiden, 3 BGer-Entscheiden und 4 kantonalen Entscheiden; alle Links via entscheidsuche.ch verifiziert."
 ---
 

@@ -13,12 +13,10 @@ normen:
   - { gesetz: stgb, art: art-001 }
   - { gesetz: or, art: art-018 }
 stichworte: ["Methodenpluralismus", "Gesetzesauslegung", "Auslegungselemente", "grammatikalische Auslegung", "historische Auslegung", "teleologische Auslegung", "systematische Auslegung", "teleologische Reduktion", "Gesetzeslücke", "qualifiziertes Schweigen", "verfassungskonforme Auslegung", "Analogie"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung (Pilotthema). Normtexte Art. 1 ZGB, Art. 1 StGB und Art. 190 BV per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 15 Entscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und jedes wörtliche Zitat gegen den Volltext abgeglichen. Literatur nur, soweit in BGE 121 III 219 selbst angeführt."
 ---
 

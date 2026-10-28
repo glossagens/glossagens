@@ -5,22 +5,18 @@ date: 2026-07-11
 lastmod: 2026-10-21
 description: "Kommentar zu Art. 177 StPO: Belehrung der Zeuginnen und Zeugen — Zeugnispflicht, Wahrheitspflicht, Glaubwürdigkeitsbefragung, Zeugnisverweigerungsrechte, Unverwertbarkeit"
 tags: ["StPO", "Zeugeneinvernahme", "Belehrungspflicht", "Zeugnispflicht", "Zeugnisverweigerungsrecht", "Glaubwürdigkeit", "Verwertungsverbot"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_677/2024 vom 09.09.2026: Präzisierung des relativen Verwertungsverbots nach Art. 177 Abs. 3 StPO (unterbliebene Belehrung über das Zeugnisverweigerungsrecht des Opfers nach Art. 169 Abs. 4 StPO führt nur bei tatsächlicher Geltendmachung durch die berechtigte Person zur Unverwertbarkeit; kein Rügerecht der beschuldigten Person)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-177.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 

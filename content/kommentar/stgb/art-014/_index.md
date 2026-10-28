@@ -5,32 +5,26 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 14 StGB: Rechtfertigung durch gesetzlich gebotene oder erlaubte Handlungen — Amts- und Berufspflichten bei ehrverletzenden Äusserungen, polizeilicher Waffengebrauch und Nachfahrkontrollen, zivilrechtliche Besitzwehr sowie investigativer Journalismus nach Art. 10 EMRK (BGE 151 IV 135) mit ausführlicher Sachverhaltskasuistik, Schwellenwerttabellen und Praxishinweisen."
 tags: ["StGB", "Rechtfertigung", "rechtmässiges Verhalten", "gesetzlich erlaubte Handlung", "Amtspflicht", "Berufspflicht", "Verhältnismässigkeit", "Ehrverletzung", "Waffengebrauch", "Nachfahrkontrolle", "Besitzwehr", "Journalismus"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-014.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-10 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR: Dogmatisches Grundgerüst entlang der Tatbestandsmerkmale, Prüfschema-Tabelle, Einarbeitung von BGE 151 IV 135 (3D-Waffendruck durch Journalistin / Art. 10 EMRK), BGE 148 IV 409 (Vertraulichkeit Klient-Anwalt) sowie VD Tribunal cantonal Arrêt Nr. 692 v. 14.09.2026 (Grenze der prozessualen Privilegierung für unaufgefordert intervenierende Dritte), vergleichende Sachverhaltskasuistik (Waffengebrauch: BGE 94 IV 5 vs. BGE 111 IV 113; Nachfahrkontrollen: BGE 141 IV 417 vs. BGer 6B_20/2009; Prozessäusserungen: BGE 131 IV 154 vs. BGer 6B_584/2016; Besitzwehr: LU KG 2N 13 44), Leitsätze, Judikaturdivergenzen, kantonale Praxisfragen und rollenbezogene Praxishinweise."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "VD Tribunal cantonal Arrêt Nr. 692 v. 14.09.2026 eingearbeitet (Grenze der prozessualen Privilegierung bei Ehrverletzungen für Dritte ohne Parteistellung); BGE 148 IV 409 als Leitentscheid ergänzt; Volltext via opencaselaw, BGE-Link via entscheidsuche verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; 12 verifizierte Entscheide; Sachverhalte aus BGE 141 IV 417, BGE 135 IV 177, BGE 106 IV 179, BGE 111 IV 113 angereichert; Gesetzeswortlaut via Fedlex verifiziert"
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via OCL/Fedlex MCP, 12 Leitentscheide via OCL find_leading_cases + doctrine verifiziert (4099 Gesamtzitationen)."
 ---
 

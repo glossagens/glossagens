@@ -5,17 +5,14 @@ date: 2026-09-11
 lastmod: 2026-10-23
 description: "Übersicht der Rechtsprechung zu Art. 725b OR (und aArt. 725 Abs. 2 OR) – Leitentscheide und kantonale Urteile zur Überschuldung, Zwischenabschlüssen, Rangrücktritt, 90-Tage-Regel und Richterbenachrichtigung."
 tags: ["Rechtsprechung", "OR", "Überschuldung", "Rangrücktritt", "Konkurs", "Aktienrecht", "Sanierung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Überprüfung und Aktualisierung der Rechtsprechungsübersicht zu Art. 725b OR: 12 strukturierte Entscheide mit Leitentscheiden des Bundesgerichts (BGE 150 III 315, BGE 151 III 440, BGE 136 III 322, BGE 129 III 129, BGE 116 II 533) und kantonalen Urteilen zu aArt. 725 Abs. 2 aOR und Art. 725b OR."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Erstellung der Rechtsprechungsübersicht zu Art. 725b OR (revidiertes Aktienrecht seit 1. Jan. 2023) mit strukturierter Zuweisung der Grundsatzjudikatur zu Überschuldung, Rangrücktritt (BGE 150 III 315; BGE 151 III 440), Zwischenbilanzen und Organhaftung."
 ---
 

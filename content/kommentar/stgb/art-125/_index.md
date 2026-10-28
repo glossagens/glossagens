@@ -5,27 +5,22 @@ date: 2026-07-04
 lastmod: "2026-10-19"
 description: "Kommentar zu Art. 125 StGB: Fahrlässige Körperverletzung — Einfache und schwere Schädigung, Sorgfaltspflichtverletzung, erlaubtes Risiko, Pflichtwidrigkeitszusammenhang, Zurechnung bei alternativer Kausalität und Unterlassung."
 tags: ["StGB", "Fahrlässige Körperverletzung", "Körperverletzung", "Sorgfaltspflicht", "Strafantrag", "Schwere Schädigung", "Erlaubtes Risiko", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-19
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BGer 6B_266/2026 (Laderampen-Unfall, Garantenstellung des Sicherheitsverantwortlichen, Mitverschulden/Unterbrechung) in Abschnitte III.1 (Pflichtwidrigkeitszusammenhang), III.2 (unechte Unterlassung), II.3a (Sorgfaltspflicht/Gefahrensatz) und II.3b (subjektiver Sorgfaltsmassstab) eingearbeitet; Zitate via OCL fetch verifiziert; BGE 148 III 343 und BGE 148 IV 39 via entscheidsuche verlinkt"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: Opencaselaw-Links durch entscheidsuche.ch ersetzt; fabrizierte/irrelevante Zitate entfernt (BGer 6B_1056/2016, BGE 134 IV 255 = Art. 237, ZH Obergericht SB090433); Sachverhalte aus BGE 133 IV 9, 135 IV 56, 134 IV 193, 143 IV 138, 122 IV 145, 109 IV 18 angereichert; Abschnittsüberschrift korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Beseitigung von Pinpoint-Bleed-Fehlern; 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

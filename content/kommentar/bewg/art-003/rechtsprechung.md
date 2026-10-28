@@ -5,7 +5,6 @@ date: 2026-06-06
 lastmod: 2026-06-06
 description: "Übersicht der Entscheide zu Art. 3 BewG — Bundesrecht und kantonales Recht"
 tags: ["Rechtsprechung", "BewG", "Lex Koller", "Bewilligungspflicht", "kantonales Recht"]
-agent_verified: false
 ---
 
 ## I. Bundesrechtliche Bewilligungsgründe

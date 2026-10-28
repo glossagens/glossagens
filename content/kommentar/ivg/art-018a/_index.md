@@ -5,17 +5,14 @@ date: 2026-07-31
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 18a IVG: Arbeitsversuch der Invalidenversicherung, Taggeldanspruch, sinngemässe Anwendbarkeit von Arbeitsvertragsrecht, fehlender Unterbruch beitragspflichtiger Beschäftigung im GAV-FAR-Betrieb."
 tags: ["IVG", "Arbeitsversuch", "Eingliederungsmassnahme", "Taggeld", "Arbeitsvertragsrecht", "GAV FAR", "Sozialversicherungsrecht", "BVG"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 831.20 vom 2026-01-01 (data/wortlaut/ivg/art-018a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-07-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — neue Auslegung BGer 9C_610/2025 (Art. 18a IVG / GAV FAR); Gesetzestext via Fedlex MCP, 15 Entscheide via OCL verifiziert."
 ---
 

@@ -5,37 +5,30 @@ date: 2026-07-10
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 115 StPO entlang der Tatbestandsmerkmale: Schutzzweck der verletzten Strafnorm (Rechtsgutstheorie), Trägerschaft des geschützten Rechtsguts, Unmittelbarkeit der Verletzung und Abgrenzung zum Reflexschaden, Zurechnung bei Rechtsnachfolge (Zession, Legalzession, Art. 260 SchKG), die Strafantragsfiktion von Abs. 2 sowie die Substanziierungslast. Mit merkmalsbezogener Grenzkasuistik, Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Geschädigte Person", "Rechtsgutstheorie", "Privatklägerschaft", "Reflexschaden", "Kollektivdelikte", "Urkundendelikte", "Konkursdelikte", "Strafantrag", "Abtretung", "Zession", "Legitimation", "Parteirechte"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 6B_840/2025 vom 9. September 2026 (Schadloshaltung durch den Täter als Ausschlussgrund für die Geschädigtenstellung): Ergänzung des Abschnitts zu Vermögensdelikten im Bankgeschäftsbereich (Merkmal 2) um die Fallkonstellation der eigenmächtigen Schadloshaltung sowie Präzisierung der Massgeblichkeit des Anklagesachverhalts (Abschnitt C und Kasuistiktabelle). Volltext via opencaselaw (get_decision) verifiziert; entscheidsuche.ch führt den Entscheid noch nicht (Publikation 23.10.2026), daher OCL als Rückfall-Link gemäss Repo-Regel."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-115.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Umbau auf das Merkmalsraster nach Skill praxisorientierter-kommentar Abschnitt 3 (Fassung vom 04.09.2026, 15:09): Gliederung neu entlang der Tatbestandsmerkmale von Art. 115 StPO (Schutzzweck der Norm / Rechtsgutsträgerschaft / Unmittelbarkeit / Zurechnung bei Rechtsnachfolge / Fiktion nach Abs. 2 / Substanziierung) statt nach Deliktsgruppen (Kollektivdelikte, Urkundendelikte, Rassendiskriminierung); Prüfschema-Tabelle mit Beweislast je Merkmal als Inhaltsverzeichnis, jede Fallschilderung an das tragende Merkmal rückgebunden. Bestand an Entscheiden und Zitaten unverändert übernommen; Gesetzeswortlaut erneut verbatim gegen Fedlex (SR 312.0, Konsolidierung 01.04.2025) geprüft."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO und Skill praxisorientierter-kommentar: Vollständige Einarbeitung der bundesgerichtlichen Rechtsgutstheorie; narrative Lebenssachverhalte (BGE 148 IV 170 [Bauprojekt Italien, Bilanzfälschung und Konkursdelikte], BGE 145 IV 491 [Gleisüberquerung HB Zürich und SBB AG], BGE 141 IV 380 [Erbengemeinschaft vs. AG], BGE 138 IV 258 [Blechschaden bei Art. 90 SVG], BGer 7B_411/2025 vom 3. August 2026 [Substanziierung von Zivilansprüchen und Grenzen der Star-Praxis], BGer 6B_1208/2019 [Zession und zeitliche Grenze bei Konkursdelikten], ZH OG UE240310 vom 12. Mai 2026 [Zürcher Theaterfall: Aufspaltung bei Art. 261bis Abs. 4 vs. Abs. 2 StGB] und LU KG 2N 17 104 [falsche Parteiaussage Art. 306 StGB]); zweiseitige Grenzkasuistik (Angewandt vs. Verworfen); strukturierte Kasuistiktabellen; SchKG- und Zessionsgrenzen (BGE 140 IV 155, BGE 140 IV 162); Tragweite der Strafantragsfiktion von Abs. 2; prozessuale Klippen und taktische Merksätze für Verteidigung und Geschädigtenvertretung. Sämtliche Entscheide über entscheidsuche.ch im Volltext verifiziert."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote): BGE 143 IV 77 E. 2.2, BGE 141 IV 380 E. 2.3.1, BGE 141 IV 454 E. 2.3.1 und BGE 140 IV 155 E. 3.2 integriert; Verifikation via attest_response ok."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

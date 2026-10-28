@@ -5,37 +5,30 @@ date: 2026-08-07
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 417 StPO (SR 312.0): Verursacherprinzip bei Säumnis und anderen fehlerhaften Verfahrenshandlungen — Kannvorschrift unabhängig vom Verfahrensausgang, objektive Pflichtverletzung und Kausalität, Kostenauflage an Rechtsbeistand, Beschuldigte, Anzeigeerstatter und Staat, Abgrenzung zu Art. 420, 426 Abs. 3 lit. a, 427 und 428 StPO, selbstständige Zwangsmassnahmenverfahren, Verwaltungsstrafrecht."
 tags: ["StPO", "Kostentragung", "Verursacherprinzip", "Verfahrenskosten", "Kannvorschrift", "Säumnis", "Rechtsbeistand", "Verteidiger", "Kostenauflage", "Entsiegelung", "Strafbefehl", "rechtsmissbräuchlich"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überarbeitung und Ausbau zum Praxiskommentar. Korrigiert: Sachverhalte bzw. Aussagen zu BGer 7B_164/2022 (Anwalt ohne Vollmachten, nicht Haftbeschwerde), 7B_686/2023 (unentschuldigtes Fernbleiben von der Berufungsverhandlung, nicht inhaltsgleiche Beschwerden), 6B_181/2023 (Verteidiger, Beschwerde gutgeheissen; nicht Art. 66 Abs. 3 BGG), 7B_58/2025 (Rechtsbeistand, teils rechtsmissbräuchliche Beschwerdeführung), 1B_534/2018 (Kostenpflicht auch der Staatsanwaltschaft, nicht Entsiegelung), 6B_934/2016 (= BGE 143 IV 373, Beschleunigungsgebot, nicht Art. 420), 6B_434/2020 und 7B_918/2025 (Gutheissung, kein Beleg für 'Kostenpflicht trotz Unterliegens'). Entfernt: BGer 6B_1255/2016, 6B_1290/2021 und 6B_1062/2018 als Belege für Art. 417 StPO (erwähnen die Norm nicht bzw. nicht in einer tragenden Erwägung), ungestützter Art.-420-Praxishinweis, Literaturangaben (Donatsch/Hansjakob/Hug, Schwander) ohne Beleg. Wiederhergestellt: BGer 6B_5/2013 vom 19. Februar 2013 (frühere Entfernung beruhte auf einer falsch datierten URL). Neu: BGE 147 IV 526, 6B_5/2013, 1B_202/2014, 6B_738/2015 E. 1.4.1 (Ermessen), 7B_1297/2025, 1B_45/2019, 1B_275/2018, 6B_773/2017, 7B_450/2025, 7B_206/2024, BStGer SK.2024.57 und CR.2023.4. Alle Entscheide im Volltext auf entscheidsuche.ch gelesen (7B_11/2026 vollständig); Gesetzestexte via Fedlex-MCP; keine Botschaftsstelle direkt verifiziert (nur zitiert nach BGer)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-417.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 87 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau: Prüfschema, Kasuistik-Tabelle, 5 Praxishinweise, alle Links von opencaselaw.ch auf entscheidsuche.ch korrigiert (15/15 verifiziert 200). Gesetzeswortlaut mit {: .gesetzeszitat} formatiert. Kommentar-Link auf glossagens.ch ergänzt."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 30 %). BGer 6B_5/2013 entfernt — der Entscheid erwähnt Art. 417 StPO kein einziges Mal. Fünf Erwägungsangaben korrigiert. Fehlende Überschrift «Gesetzeswortlaut» ergänzt. Neu dokumentiert: die Divergenz in der Rechtsprechung zum Verschuldenserfordernis."
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 10 weitere BGer-Entscheide zu Art. 417 StPO hinzugefügt"
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BGer 7B_11/2026; alle Gesetzestexte und Entscheide via opencaselaw-MCP verifiziert."
 ---
 

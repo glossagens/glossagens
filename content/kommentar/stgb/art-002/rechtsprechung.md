@@ -5,12 +5,10 @@ date: 2026-08-30
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 2 StGB — Zeitlicher Geltungsbereich: Tatzeitprinzip, Rückwirkungsverbot, lex mitior, Schnittstellenproblematik und Massnahmen."
 tags: ["Rechtsprechung", "StGB", "Zeitlicher Geltungsbereich", "Rückwirkungsverbot", "Lex mitior", "Intertemporales Strafrecht", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neu erstellt: 6 verifizierte BGE-Entscheide via entscheidsuche.ch; BGE 134 IV 82 (Leitentscheid: lex mitior, Schnittstellenproblematik), BGE 147 IV 471 (Übertretungsbusse vs. Geldstrafe), BGE 148 IV 374 (konkreter Günstigkeitsvergleich), BGE 145 IV 137 (Prüfungszeitpunkt), BGE 134 IV 121 (Rückwirkungsverbot für Massnahmen), BGE 146 IV 311 (Landesverweisung)"
 ---
 

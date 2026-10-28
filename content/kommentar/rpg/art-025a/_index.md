@@ -5,12 +5,10 @@ date: 2026-05-22
 lastmod: "2026-08-29"
 description: "Kommentar zu Art. 25a RPG: Grundsätze der Koordination bei Verfügungen mehrerer Behörden, Vermeidung von Widersprüchen, gemeinsame Auflage und Eröffnung"
 tags: ["RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Bauplanungsrecht", "Verfahrenskoordinierung"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Entscheide mit entscheidsuche.ch-Links verknüpft, Fallbeispiele ergänzt, Fedlex-Wortlaut verifiziert, Revisions-Vermerk hinzugefügt"
 ---
 

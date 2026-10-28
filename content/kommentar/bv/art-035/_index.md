@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 35 BV: Verwirklichung der Grundrechte in der ganzen Rechtsordnung — Grundrechtsbindung von Aufgabenträgern, Wirkung unter Privaten, Einbürgerungsverfahren."
 tags: ["BV", "Grundrechte", "Grundrechtsbindung", "Drittwirkung", "Verwirklichung", "objektive Wertordnung", "Horizontalwirkung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-035.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 20 %, Urteil C): Kein einziges Belegpaar war gestützt, obwohl alle Referenzen existieren — reine Fehlzuordnung. Belegapparat neu aufgebaut auf die tatsächlichen Art.-35-Leitentscheide (BGE 139 I 306, 138 I 274, 129 III 35, 129 I 217, 135 I 265). agent_verified von true auf false; erstmals revisions-Block."
   - date: 2026-06-06
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 

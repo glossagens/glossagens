@@ -5,27 +5,22 @@ date: "2026-05-09"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 8 StPO: Opportunitätsprinzip als Ausnahme vom Legalitätsprinzip, Verweis auf Art. 52–54 StGB, Nebendelikte, Zusatzstrafen, ausländische Verfolgung, kantonale Praxisfragen und Rechtsschutz der Privatklägerschaft."
 tags: ["StPO", "Opportunitätsprinzip", "Einstellung", "Nichtanhandnahme", "Privatklägerschaft", "Geringfügigkeit", "Schadenswiedergutmachung", "Zusatzstrafe", "Legalitätsprinzip"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-10-03"
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung: Korrektur der Rechtsprechung zu BGE 139 IV 220 (keine Einstellung durch das Sachgericht nach Anklageerhebung), Einbau von zwei kantonalen Praxisfragen (TG RBOG 2022 Nr. 29 zu Art. 177 Abs. 2/3 StGB; ZH UE170142 zu überwiegenden Interessen der Privatklägerschaft), Prüfschema ohne Code-Fences, Ausbau von Rechtsprechung und Praxishinweisen."
   - date: "2026-10-01"
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau: Prüfschema, Kasuistiktabellen, Fallgruppen (Art. 52-54 StGB, Zusatzstrafen, ausländische Verfolgung), Praxishinweise."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

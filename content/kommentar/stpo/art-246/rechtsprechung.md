@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 246 StPO – Durchsuchung von Schriftstücken, Aufzeichnungen, Datenträgern, Smartphones und IT-Systemen."
 tags: ["Rechtsprechung", "StPO", "Aufzeichnungen", "Datenträger", "Durchsuchung", "Smartphones", "Siegelung", "Geheimnisschutz"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 246 StPO mit 20 verifizierten Entscheiden (BGE, BGer, TPF, kantonal)."
 ---
 

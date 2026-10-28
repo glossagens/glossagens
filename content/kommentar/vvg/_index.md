@@ -12,12 +12,10 @@ tags:
 - VVG
 - Versicherungsvertragsrecht
 - Privatversicherung
-agent_verified: false
 revisions:
 - date: '2026-08-11'
   by: Claude Code
   model: claude-opus-5
-  mcp_verified: true
   note: Fehlende Gesetzesübersicht angelegt; Titel und SR-Nummer via opencaselaw-MCP gegen Fedlex verifiziert
 ---
 

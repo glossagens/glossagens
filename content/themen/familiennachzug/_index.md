@@ -22,12 +22,10 @@ normen:
   - { gesetz: bv, art: art-014 }
   - { gesetz: bgg, art: art-083 }
 stichworte: ["Familiennachzug", "AIG", "Rechtsanspruch", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Ehegattennachzug", "Kindernachzug", "Zusammenwohnen", "Bedarfsgerechte Wohnung", "Sozialhilfeabhängigkeit", "Ergänzungsleistungen", "Sprachnachweis", "Nachzugsfristen", "Nachträglicher Familiennachzug", "wichtige familiäre Gründe", "Art. 47 AIG", "Rechtsmissbrauch", "Scheinehe", "Art. 51 AIG", "Umgekehrter Familiennachzug", "Inländerdiskriminierung", "Art. 8 EMRK", "Art. 13 BV"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung des Themas Familiennachzug nach dem Ausländer- und Integrationsgesetz (AIG). Normtexte Art. 42, 43, 44, 47, 51 AIG per {{< wortlaut >}} aus amtlicher Fedlex-Konsolidierung (scripts/wortlaut.py). Alle 10 Leitentscheide als Volltext über entscheidsuche.ch geladen; Erwägungsnummern, Anker und jedes wörtliche Zitat gegen Volltext abgeglichen; pruefen.py und build-check.sh ohne Befund."
 ---
 

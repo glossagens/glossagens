@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxisorientierter Gesetzeskommentar zu Art. 4 GwG: Pflicht zur Feststellung und Identitätsüberprüfung der wirtschaftlich berechtigten Person, Formular A und Textformerklärung, Sitzgesellschaften und operative juristische Personen (Revision 2026 durch TJPG), Urkundenqualität und Falschbeurkundung (Art. 251 StGB), strafrechtliche Sorgfaltspflichten (Art. 305ter StGB) und Kasuistik (u.a. Roldugin/Gazprombank)."
 tags: ["GwG", "Sorgfaltspflichten", "Wirtschaftlich berechtigte Person", "Formular A", "Urkundenfälschung", "Falschbeurkundung", "Strohmann", "Compliance", "TJPG", "VSB"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige, praxisorientierte Erstkommentierung zu Art. 4 GwG einschliesslich der Revision 2026 (TJPG / operative juristische Personen), Auswertung der Leitpraxis des Bundesgerichts (u.a. BGer 6B_942/2024, BGer 6B_731/2021, BGE 125 IV 139) und kantonaler Urteile"
 ---
 

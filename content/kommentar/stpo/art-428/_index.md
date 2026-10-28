@@ -5,32 +5,26 @@ date: 2026-06-20
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 428 StPO: Kostentragung nach Obsiegen und Unterliegen (Abs. 1), Ausnahmen bei nachträglicher Tatbestandsverwirklichung (Abs. 2 lit. a) und unwesentlicher Abänderung (Abs. 2 lit. b), Neuregelung der erstinstanzlichen Kosten (Abs. 3), Kostenfolge bei Rückweisung (Abs. 4) und Revision (Abs. 5) — mit Kasuistik, Schwellenwerten und Praxishinweisen."
 tags: ["StPO", "Kosten", "Rechtsmittelverfahren", "Obsiegen", "Unterliegen", "Berufung", "Beschwerde", "Rückweisung", "Revision", "Reformatio in peius", "Parteientschädigung", "Kausalität", "Noven"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Volltext-Abgleich aller zitierten Entscheide. Korrigiert: Darstellung von BGE 147 IV 36 (kein Kostenentscheid, Umwandlung Berufung/Anschlussberufung; Rückzug), Abschnitt C zur Privatklägerschaft (BGE 143 IV 434 E. 1.2.3: erstinstanzliche Anträge bleiben beachtlich, Schweigen im Berufungsverfahren schützt nicht; BGE 138 IV 248 nur bei völliger Nichtbeteiligung), Sachverhalt BGer 6B_290/2024 (Tagessatz/Verbindungsbusse, Abs. 2 lit. a und b), BGer 1B_525/2021 (Nichteintreten, nur Anwendung durch das Obergericht), BGE 139 IV 282 (betrifft Art. 391 Abs. 2, nicht Art. 428; Schranke bei milderer Qualifikation neu auf BGer 6B_1025/2014 E. 2.4.3 gestützt), Kasuistikzeilen (erfundene Zeile zur fahrlässigen Körperverletzung ersetzt durch BGer 6B_707/2010; BE OG SK 15 250 richtig: 60 auf 40 Tagessätze), BGer 6B_707/2010 durch 6B_1046/2013 E. 3.3 als Beleg für Abs. 1 ersetzt, Abs. 5 (BE OG SK 22171: Revisionsgericht entscheidet bei eigenem Sachentscheid selbst; Art. 442 Abs. 3 nur fakultative Verrechnung), SH OGE 50/2014/3 (Datum 16.6.2015), 6B_900/2017 (versuchte einfache Körperverletzung), 6B_866/2016 (Begründungssubstitution), 6B_1211/2013 (Kostenfolgen), Art. 427 Abs. 3/4 StPO; erfundener Schwellenwert 10–15 % gestrichen. Wortlaut Fedlex geprüft; Entscheide via entscheidsuche-Volltexte verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-428.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-05 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-05
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard (Referenzmuster Art. 110 StPO / Art. 336 OR): Merkmalskatalog als Prüfschema-Tabelle, ausführliche Sachverhalte konkreter Entscheide (BGer 6B_290/2024, 6B_1025/2014, 6B_900/2017, 6B_866/2016, 1B_525/2021, 6B_1118/2016, 6B_1496/2020, 6B_655/2018, 6B_482/2018, 6B_1046/2013, 6B_1211/2013, SH OGE 50/2014/3), Gegenüberstellungstabelle wesentlich vs. unwesentlich nach Abs. 2 lit. b, kantonale Praxisfragen, Leitsätze und rollenbasierte Praxishinweise. Sämtliche Urteils-Links auf entscheidsuche.ch umgestellt und validiert."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 

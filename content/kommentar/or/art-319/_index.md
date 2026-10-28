@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 319 OR entlang der Tatbestandsmerkmale: Arbeitsleistung, Dauerschuldverhältnis, Subordination (persönlich, betrieblich, zeitlich, wirtschaftlich), Entgeltlichkeit (Zeit- und Akkordlohn), Teilzeitarbeit und Arbeit auf Abruf (Abs. 2) sowie Organverhältnis, Scheinselbständigkeit und Beweislast — mit der Kasuistik der Gerichte zu Abgrenzung, Plattformarbeit und atypischen Arbeitsformen."
 tags: ["OR", "Arbeitsvertrag", "Einzelarbeitsvertrag", "Subordination", "Weisungsgebundenheit", "Eingliederung", "Scheinselbständigkeit", "Plattformarbeit", "Uber", "Teilzeitarbeit", "Arbeit auf Abruf", "Kettenarbeitsvertrag", "Organstellung", "Doppelrelevanz", "Beweislast"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-319.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 94 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden praxisorientierter-kommentar (Muster Art. 110 StPO, Art. 336 OR): Gliederung entlang des Merkmalsrasters der Norm (Arbeitsleistung, Dauerschuldverhältnis, Subordination, Entgeltlichkeit, Organstellung, Teilzeitarbeit/Abrufarbeit, Scheinselbständigkeit, Beweislast/Zuständigkeit); Prüfschema-Tabelle mit Beweislast deckungsgleich zum Inhaltsverzeichnis; narrative Lebenssachverhalte realer Leitentscheide (BGer 2C_34/2021, BGE 148 II 426 und BGE 149 V 57 zu Uber/Plattformarbeit; BGer 4C.276/2006 zum Finanzberater; BGer 4A_64/2020 zur delegierten Psychotherapeutin; BGer 4A_500/2018 zum Uhrenmanufaktur-CEO; BGer 4A_592/2016 zum Logistik-Consultant; BGE 125 III 78 zur Ein-Personen-AG; BGE 130 III 213 zum GL-Organ; BGE 128 III 129 zum Vizedirektor; BGE 125 III 65 und BGE 124 III 249 zur Arbeit auf Abruf; BGE 119 II 449 und BGE 129 III 124 zu Kettenarbeitsverträgen; BGE 137 III 32 zur Doppelrelevanz; BGE 136 III 467 zur Schiedsklausel; SG KG BE.2017.30 und ZH OG AH250049-L zur Abrufarbeit). Sämtliche Fundstellen und Verlinkungen über entscheidsuche.ch verifiziert; Gesetzeswortlaut verbatim nach Fedlex (SR 220, Stand 1. Januar 2026)."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 85 % (Urteil A); 7 gestützt (+3 teilw.) von 10 beurteilten Paaren (10 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

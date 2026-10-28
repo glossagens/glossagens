@@ -5,32 +5,26 @@ date: 2026-09-01
 lastmod: 2026-10-21
 description: "Übersicht der massgebenden Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 56 StPO: Leitentscheide zu persönlichem Interesse, Vorbefassung, Verwandtschaft und Befangenheitsanschein."
 tags: ["Rechtsprechung", "StPO", "Strafprozess", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteilichkeit", "Gerichtsschreiber"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 7B_129/2026 vom 9. September 2026 (Orientiertere Haltung der Staatsanwaltschaft im Vorverfahren zulässig; pointierte oder ungeschickte Äusserungen in Rechtsschriften begründen keinen Befangenheitsanschein; Grenzziehung zur Kumulationsdoktrin aus 7B_890/2026)."
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von BGer 7B_890/2026 vom 2. September 2026 (Ausstand der Staatsanwaltschaft wegen Kumulation rechtskräftig festgestellter Verfahrensfehler und mangelnder Ergebnisoffenheit; Rechtzeitigkeit ab dem Moment, in dem der letzte Tropfen das Fass zum Überlaufen bringt)."
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung von BGer 7B_397/2026 vom 7. August 2026 (Ausstand eines a.o. Gerichtsschreibers wegen persönlicher Feindschaft durch Strafverweis auf privatem Briefpapier). Entscheid via opencaselaw verifiziert (entscheidsuche führt ihn noch nicht); E. 2.4 via get_erwaegung belegt."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht zu Art. 56 StPO gemäss Standard des Onlinekommentars. Aufnahme von 7 Leitentscheiden (BGE) und 12 weiteren Bundesgerichts- sowie kantonalen Entscheiden. Sämtliche Links auf entscheidsuche.ch validiert, fehlerhafte Vorbefassungszitate aus Vorversionen bereinigt."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "BGer-Update: Ergänzung von BGer 7B_1237/2025 zur Aktenbeizugs- und Gehörspflicht der kantonalen Ausstandsinstanz."
 ---
 

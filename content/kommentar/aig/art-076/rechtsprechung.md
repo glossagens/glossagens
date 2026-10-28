@@ -5,12 +5,10 @@ date: 2026-09-17
 lastmod: 2026-09-17
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 76 AIG (Ausschaffungshaft): Leitentscheide des Bundesgerichts (BGE) sowie Urteile des Bundesgerichts und kantonaler Gerichte (ZH, BE, AG, AR)."
 tags: ["Rechtsprechung", "AIG", "Ausschaffungshaft", "Zwangsmassnahmen", "Ausländerrecht", "Landesverweisung"]
-agent_verified: false
 revisions:
   - date: 2026-09-17
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung Rechtsprechungsübersicht mit 12 geprüften Entscheiden (BGE, BGer, ZH, BE, AG, AR) via swiss-caselaw und entscheidsuche.ch."
 ---
 

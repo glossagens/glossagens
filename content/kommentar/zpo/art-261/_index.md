@@ -5,32 +5,26 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 261 ZPO: Voraussetzungen für vorsorgliche Massnahmen im Zivilprozess — Verfügungsanspruch, nicht leicht wiedergutzumachender Nachteil, Glaubhaftmachung, superprovisorische Praxis, Kasuistik und kantonale Praxis."
 tags: ["ZPO", "Summarisches Verfahren", "Vorsorgliche Massnahmen", "Glaubhaftmachung", "Superprovisorium", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-261.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ergänzung der superprovisorischen Praxis aus ZH Handelsgericht HE260058 vom 16. September 2026 (Entscheid #144 auf bger-update.ch): Dahinfallen superprovisorischer Massnahmen bei Gesuchsabweisung, Ausschluss des Verfügungsgrundes durch vorprozessuale Unterlassungszusage, Behauptungs- und Substantiierungslast bei Glaubhaftmachung, Gesuchsänderung nach Art. 227 ZPO und Kasuistik (USA Hockey vs. IIHF)."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Umfassende Kasuistik konkreter Lebenssachverhalte (Marken, Patente, Konkurrenzverbote, Vertriebsverträge, Bauhandwerkerpfandrecht), kantonale Praxisfragen und Verifikation gegen entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 35 % → 100 %, Urteil A); BGE 138 III 378 stand für das Beweismass der Glaubhaftmachung, betrifft aber die aufschiebende Wirkung nach Art. 315 Abs. 5 ZPO; nicht tragende Belege entfernt, die dogmatischen Aussagen bleiben"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 35 % (Urteil C); 3 von 27 Paaren gestützt; 11 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

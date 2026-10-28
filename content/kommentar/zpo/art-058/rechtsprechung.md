@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 58 ZPO — Dispositionsgrundsatz, Bestimmtheit der Rechtsbegehren, Streitgegenstand, Zusammenspiel mit der Untersuchungsmaxime im Familienrecht."
 tags: ["Rechtsprechung", "ZPO", "Dispositionsgrundsatz", "Offizialgrundsatz", "Untersuchungsmaxime"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 21 %, Urteil C): Belegapparat verworfen; jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; 31 unterschiedliche Referenzen der alten Fassung waren echt, trugen aber die zugeschriebenen Aussagen nicht"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 21 % (Urteil C); 9 von 64 Paaren gestützt; 46 ungestützt; 3 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

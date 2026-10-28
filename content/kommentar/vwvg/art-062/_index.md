@@ -5,7 +5,6 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 62 VwVG: Reformatio in melius, reformatio in peius, Voraussetzungen und Schranken, Gehörsanspruch und Hinweis auf Beschwerderückzug sowie Rechtsanwendung von Amtes wegen."
 tags: ["VwVG", "Verwaltungsverfahren", "Reformatio in peius", "Reformatio in melius", "Rechtliches Gehör", "Beschwerderückzug", "Rechtsanwendung von Amtes wegen", "Streitgegenstand", "Dispositivprinzip"]
-agent_verified: true
 ---
 
 ### Gesetzeswortlaut

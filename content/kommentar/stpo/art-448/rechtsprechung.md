@@ -5,12 +5,10 @@ date: 2026-07-10
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 448 StPO – Anwendbares Recht: Leitentscheide zur intertemporalen Fortführung hängiger Verfahren, Bestandsschutz und kantonale Praxis."
 tags: ["Rechtsprechung", "StPO", "Übergangsrecht", "Intertemporales Recht"]
-agent_verified: false
 revisions:
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 12 verifizierten Entscheiden (5 Leitentscheide BGE, 7 BGer/Kantone), alle Pinpoints über check_claim_support und attest_response validiert."
 ---
 

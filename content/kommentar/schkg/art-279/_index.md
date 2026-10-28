@@ -5,12 +5,10 @@ date: 2026-10-22
 lastmod: 2026-10-22
 description: "Kommentar zu Art. 279 SchKG: Arrestprosequierung — Fristen zur Einleitung von Betreibung und Klage, Rechtsöffnung, Fortsetzungsbegehren, Fristenstillstand nach Abs. 5 und Dahinfallen des Arrestes."
 tags: ["SchKG", "Arrest", "Arrestprosequierung", "Fristen", "Rechtsöffnung", "Anerkennungsklage", "Fristenstillstand"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung nach dem Glossagens-Standard: Systematische Kommentierung der Prosequierungsobliegenheit (Abs. 1-4), Fristenstillstand während Einsprache und Lugano-Exequatur (Abs. 5; BBl 2009 1777), Judikatur zu Verwirkung (BGE 138 III 528) und Verhältnis zu ZPO-Klagefristen."
 ---
 

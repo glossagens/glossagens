@@ -5,22 +5,18 @@ date: "2026-08-30"
 lastmod: 2026-10-21
 description: "Kommentar zu Art. 215 StPO – Polizeiliche Anhaltung: Identitätsfeststellung, Mitwirkungspflichten (Abs. 2), Verbringung auf den Polizeiposten, Abgrenzung zur Festnahme und Gebietsabsperrungen (Abs. 4)."
 tags: ["StPO", "Anhaltung", "Polizei", "Identitätsfeststellung", "Ausweiskontrolle", "Freiheitsbeschränkung", "Zwangsmassnahmen", "Verhältnismässigkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Leitentscheids BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung): Schranken der polizeilichen Anhaltung, Anforderungen an den sachlichen Anfangsverdacht, Verbot von Vorwandskontrollen/Fishing Expeditions, Racial Profiling und absolutes Beweisverwertungsverbot nach Art. 141 Abs. 2 StPO."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-215.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung zu Art. 215 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 

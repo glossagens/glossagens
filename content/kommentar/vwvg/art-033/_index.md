@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 33 VwVG – Beweisabnahme und Kostenvorschuss"
 tags: ["VwVG", "Beweis", "Beweisabnahme", "Kostenvorschuss", "Verwaltungsverfahren"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 172.021 vom 2022-07-01 (data/wortlaut/vwvg/art-033.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C 36% -> B 79%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 127 V 431 und BGE 137 II 266 fehlten Pinpoints, wodurch die Prüfung gegen die zu allgemeine Regeste statt der einschlägigen Erwägung erfolgte -- Anker auf E. 3 bzw. E. 3.2 ergänzt (letztere enthält den Wortlaut der Abnahmepflicht fast verbatim: 'Die Behörde ist grundsätzlich verpflichtet, die ihr angebotenen Beweismittel abzunehmen, wenn sie zur Abklärung des Sachverhalts tauglich erscheinen')."
 ---
 

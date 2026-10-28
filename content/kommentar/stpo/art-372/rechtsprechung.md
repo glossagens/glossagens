@@ -5,7 +5,6 @@ date: 2026-10-06
 lastmod: 2026-10-06
 description: "Übersicht der Rechtsprechung zu Art. 372 StPO: Leitentscheide des Bundesgerichts und kantonale Rechtsprechung zur Friedensbürgschaft und zum selbstständigen Massnahmeverfahren."
 tags: ["Rechtsprechung", "StPO", "Friedensbürgschaft", "Art. 66 StGB", "Zwangsmassnahmengericht", "Subsidiarität", "Gerichtsstand", "Haftausschluss"]
-agent_verified: true
 ---
 
 # Rechtsprechung zu Art. 372 StPO

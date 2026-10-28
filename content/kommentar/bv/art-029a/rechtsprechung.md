@@ -5,17 +5,14 @@ date: 2026-05-31
 lastmod: 2026-08-12
 description: "Übersicht der Entscheide zu Art. 29a BV – Rechtsweggarantie"
 tags: ["Rechtsprechung", "BV", "Rechtsweggarantie", "Justizgewährung"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Regeste-abgeleitete Pinpoints entfernt, Fehlzuordnung bei BGE 133 I 185 korrigiert. Erstmals revisions-Block gesetzt."
   - date: 2026-06-06
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

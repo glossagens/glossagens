@@ -5,17 +5,14 @@ date: 2026-07-12
 lastmod: "2026-10-12"
 description: "Übersicht der Entscheide zu Art. 61 StPO – Zuständigkeit (Verfahrensleitung)"
 tags: ["Rechtsprechung", "StPO", "Verfahrensleitung", "Zuständigkeit"]
-agent_verified: false
 revisions:
   - date: 2026-10-12
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "7B_1050/2026: Link von relevancy.bger.ch auf entscheidsuche.ch korrigiert; document_url via mcp__entscheidsuche__search_by_case_number verifiziert"
   - date: 2026-10-08
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "7B_1050/2026 hinzugefügt: Zuständigkeit für Sicherheitsvollzug; negativer Kompetenzkonflikt; kantonale Organisationskompetenz"
 ---
 

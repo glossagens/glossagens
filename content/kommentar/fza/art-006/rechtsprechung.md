@@ -10,7 +10,6 @@ tags:
   - Arbeitnehmer
   - Personenfreizügigkeit
   - Aufenthaltsbewilligung
-agent_verified: true
 ---
 
 ### I. Leitentscheide {#leitentscheide}

@@ -5,32 +5,26 @@ date: 2026-09-12
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 72 SchKG — Zustellung von Betreibungsurkunden, Beweiskraft der Zustellbescheinigung, Gegenbeweis, Briefkasteneinwurfverbot, Heilung fehlerhafter Zustellung, Ersatzzustellung, öffentliche Bekanntmachung, Abholungsgebühren."
 tags: ["Rechtsprechung", "SchKG", "Zustellung", "Zahlungsbefehl", "Beweiskraft", "Gegenbeweis", "Briefkasteneinwurfverbot", "Ersatzzustellung", "Öffentliche Bekanntmachung", "Gebühren"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 117 III 7 (Briefkasteneinwurfverbot) als Leitentscheid neu aufgenommen, BGer 5A_418/2017 (Zustellbescheinigung/Zweifel), BGE 138 III 25 (Abholungsgebühren), BGE 136 III 155 (Gebühren bei Abholung), BGer 5A_859/2020 (Ersatzzustellung), BE Obergericht ABS 2023 454 (Zustellbescheinigung) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: 3 BGE-Leitentscheide (120 III 117, 128 III 101, 127 III 173), 6 BGer-Entscheide (2023–2026), 3 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 SchKG"
   - date: 2026-07-03
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechung"
 ---
 

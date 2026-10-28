@@ -5,7 +5,6 @@ date: 2026-05-10
 lastmod: 2026-05-10
 description: "Übersicht der Entscheide zu Art. 344 StPO – Abweichende rechtliche Würdigung"
 tags: ["Rechtsprechung", "StPO", "Anklagegrundsatz", "Würdigungsvorbehalt", "Umqualifikation"]
-agent_verified: false
 ---
 
 ## Leitentscheide

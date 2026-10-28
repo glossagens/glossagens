@@ -5,17 +5,14 @@ date: 2026-07-31
 lastmod: "2026-09-05"
 description: "Kommentar zu Art. 127 StGB: Aussetzung eines Hilflosen in Lebens- oder Gesundheitsgefahr — Obhut, Sorgepflicht, aktives Aussetzen und Unterlassen, eventualvorsätzliche und fahrlässige Aussetzung, Konkurrenzen."
 tags: ["StGB", "Aussetzung", "Hilfloser", "Obhut", "Garantenstellung", "Unterlassung", "Lebensgefährdung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 6 verifizierte Entscheide via entscheidsuche.ch (BGer 6B_40/2008, BGer 6P_85/2004, BGer 6B_1109/2020, BGer 6B_1055/2020, SZ Kantonsgericht STK 2023 63, BE Obergericht BK 2020 186); Gesetzeswortlaut via Fedlex verifiziert; opencaselaw-Links ersetzt; agent_verified auf true gesetzt"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via get_law, Entscheide via OCL verifiziert."
 ---
 

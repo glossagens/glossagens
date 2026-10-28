@@ -5,12 +5,10 @@ date: 2026-08-08
 lastmod: 2026-08-08
 description: "Übersicht der massgeblichen Entscheide zu Art. 16d SVG (Sicherungsentzug, Sucht, mangelnde Gewähr, Sperrfrist, Entzug für immer, unverbesserliche Person)"
 tags: ["Rechtsprechung", "SVG", "Führerausweisentzug", "Sicherungsentzug", "Fahreignung", "Sucht", "unverbesserliche Person"]
-agent_verified: true
 revisions:
   - date: 2026-08-08
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Neuerstellung — Regesten via OCL cite verifiziert (BGE 129 II 82, BGE 127 II 122, BGE 133 II 384, BGE 125 II 492, BGE 141 II 220, BGE 135 II 334, BGE 135 II 138)."
 ---
 

@@ -5,27 +5,22 @@ date: 2026-08-01
 lastmod: 2026-10-10
 description: "Übersicht der Entscheide zu Art. 14 StGB — rechtmässiges Verhalten kraft gesetzlicher Pflicht oder Erlaubnis, Amts- und Berufspflicht bei ehrverletzenden Äusserungen, polizeilicher Waffengebrauch und Nachfahrkontrollen, Besitzwehr und Medienfreiheit nach Art. 10 EMRK."
 tags: ["Rechtsprechung", "StGB", "Rechtfertigung", "Amtspflicht", "Berufspflicht", "Ehrverletzung", "Waffengebrauch", "Nachfahrkontrolle", "Besitzwehr"]
-agent_verified: true
 revisions:
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau auf 19 verifizierte Entscheide; Neuaufnahme von BGE 151 IV 135 (3D-Waffendruck / Journalistin), BGE 148 IV 409 (Vertraulichkeit Mandatsverhältnis) sowie VD Tribunal cantonal Arrêt Nr. 692 v. 14.09.2026 (Grenze der prozessualen Privilegierung für unaufgefordert intervenierende Dritte) neben BGer 6B_20/2009, LU OG KA 09 135, LU KG 2N 13 44 und SG KG AK.2012.341; alle Links und Erwägungen verifiziert."
   - date: 2026-10-10
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "BGE 148 IV 409 als Leitentscheid ergänzt (Ehrverletzung gegenüber Anwalt, prozessuale Zurückhaltung); VD Tribunal cantonal Arrêt Nr. 692 v. 14.09.2026 als kantonaler Entscheid eingearbeitet (Grenze der prozessualen Privilegierung für Dritte ohne Parteistellung)"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; alle BGE- und BGer-Links verifiziert"
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — 12 Leitentscheide via OCL find_leading_cases + doctrine verifiziert (4099 Gesamtzitationen)."
 ---
 

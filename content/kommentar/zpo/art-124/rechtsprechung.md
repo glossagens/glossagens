@@ -5,12 +5,10 @@ date: 2026-09-06
 lastmod: 2026-09-06
 description: "Rechtsprechung zu Art. 124 ZPO: Prozessleitung, qualifizierte prozessleitende Verfügungen, Anfechtungsobliegenheit, Delegation, Beschwerdefristen."
 tags: ["Rechtsprechung", "ZPO", "Prozessleitung", "prozessleitende Verfügung", "qualifizierte prozessleitende Verfügung", "Anfechtungsobliegenheit", "Beschwerdefrist"]
-agent_verified: false
 revisions:
   - date: 2026-09-06
     by: "Claude Code"
     model: "claude-5-sonnet-20250902"
-    mcp_verified: true
     note: "Ersterstellung; 3 BGEs via entscheidsuche verifiziert und verlinkt."
 ---
 

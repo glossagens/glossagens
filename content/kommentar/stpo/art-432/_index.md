@@ -5,12 +5,10 @@ date: 2026-07-11
 lastmod: 2026-10-23
 description: "Kommentar zu Art. 432 StPO – Ansprüche der obsiegenden beschuldigten Person gegenüber der Privatklägerschaft (Zivilpunkt, Abs. 1) und gegenüber der antragstellenden Person oder der Privatklägerschaft bei Antragsdelikten (Schuldpunkt, Abs. 2), Offizial- und Antragsdelikte im Rechtsmittelverfahren."
 tags: ["StPO", "Kosten", "Entschädigung", "Privatklägerschaft", "Antragsdelikte", "Rechtsmittelverfahren", "Ausfallhaftung"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Neufassung nach Volltext-Abgleich der Entscheide (entscheidsuche) und des Wortlauts (Fedlex): Das Erfordernis der Mutwilligkeit oder groben Fahrlässigkeit betrifft nach BGE 147 IV 47 E. 4.2.2 nur die antragstellende Person, nicht die Privatklägerschaft (frühere Fassung hatte dies auf beide bezogen und den Zweck von Abs. 2 umgekehrt). Wortlaut auf den Shortcode `wortlaut` umgestellt; BGE 139 IV 102 richtig als Entscheid zu Art. 433 eingeordnet; nicht belegte Entscheidhinweise gestrichen; Links auf entscheidsuche.ch umgestellt; Revisionsvermerk nachgetragen."
 ---
 

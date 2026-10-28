@@ -5,17 +5,14 @@ date: 2026-07-11
 lastmod: 2026-08-22
 description: "Übersicht der Entscheide zu Art. 381 StPO – Legitimation der Staatsanwaltschaft"
 tags: ["Rechtsprechung", "StPO", "Rechtsmittel", "Staatsanwaltschaft"]
-agent_verified: true
 revisions:
   - date: 2026-08-22
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 35 %). Alle 14 Referenzen existieren und treffen thematisch zu. Die drei gemeldeten Pinpoint-Fehler sind Paarungsartefakte. Fehlende Erwägungsangaben in den Überschriften ergänzt; BGE 139 IV 199 E. 5 → E. 5.5 korrigiert. Der Audit-Befund «halluziniert_oder_veraltet» zum Gesetzeswortlaut ist ein Fehlalarm: Der aufgehobene Abs. 4 steht mit demselben Hinweis auch im amtlichen Fedlex-Text; der Abgleich scheiterte an der Formatierung. Der Wortlaut ist unverändert."
   - date: 2026-08-14
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "BGer 6B_688/2025 ergänzt: Grenzen der Anschlussberufung der Staatsanwaltschaft (Treu und Glauben)"
 ---
 

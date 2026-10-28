@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-29
 description: "Übersicht der Rechtsprechung zu Art. 308 ZPO — Anfechtbare Entscheide, End- und Zwischenentscheide, vorsorgliche Massnahmen und Streitwertgrenzen."
 tags: ["Rechtsprechung", "ZPO", "Berufung", "Streitwert", "Endentscheid", "Zwischenentscheid", "Kasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und Kantonalentscheiden, vollständigen Sachverhalten zur Berufungsfähigkeit und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 18 %, Urteil C)"
 ---
 

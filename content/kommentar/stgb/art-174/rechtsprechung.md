@@ -5,22 +5,18 @@ date: 2026-07-31
 lastmod: 2026-10-10
 description: "Übersicht der Rechtsprechung zu Art. 174 StGB — Verleumdung: Besseres Wissen (direkter Vorsatz 2. Grades), Beweislast der Unwahrheit durch den Staat, Qualifikation der planmässigen Untergrabung auf Social Media und Blogs, Urkundenbeweis für Screenshots sowie Umfang des Strafantrags."
 tags: ["Rechtsprechung", "StGB", "Verleumdung", "Ehrverletzung", "besseres Wissen", "Unwahrheit", "planmässige Verleumdung", "Strafantrag"]
-agent_verified: true
 revisions:
   - date: 2026-10-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Aktualisierung und Strukturierung der Rechtsprechung gemäss Leitfaden: 15 verifizierte Entscheide mit funktionierenden entscheidsuche.ch-Links, unterteilt in Leitentscheide und weitere Entscheide (u.a. BGer 6B_747/2025, BGer 6B_1046/2021, BGE 145 IV 462, BGE 136 IV 170, BGE 93 IV 93, BGer 6B_976/2017, ZH OG SB250297, BGer 7B_542/2023, BGer 6B_1309/2019, LU OG KA 07 121)."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; alle BGer-Links und BGE 115 IV 1, BGE 102 IV 176, BGer 76 IV 243 verifiziert"
   - date: 2026-07-31
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Entscheide via OCL (find_leading_cases/get_regeste) verifiziert."
 ---
 

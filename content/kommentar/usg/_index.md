@@ -12,12 +12,10 @@ tags:
   - USG
   - Umweltschutz
   - Altlasten
-agent_verified: false
 revisions:
   - date: '2026-09-01'
     by: Antigravity
     model: gemini-3.7-flash
-    mcp_verified: true
     note: Erstaufnahme des USG-Index
 ---
 

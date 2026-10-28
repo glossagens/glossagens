@@ -5,27 +5,22 @@ date: 2026-07-17
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 44 SchKG — Verwertung beschlagnahmter Gegenstände, Kollisionsnorm, Vorrang der Beschlagnahme, Ersatzforderungen, Grundbuchsperre, Aufsichtsbeschwerde, fiskalische Beschlagnahme, bundesrätliche Guthabensperrung, Sanktionsrecht, Ukraine-Verordnung."
 tags: ["Rechtsprechung", "SchKG", "Beschlagnahme", "Verwertung", "Fiskalische Beschlagnahme", "Guthabensperrung", "Sanktionen", "Ukraine-Verordnung", "Ersatzforderung", "Grundbuchsperre", "VStrR"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGer 5A_18/2024 (Vorrang, VStrR, Ersatzforderungen, Aufsichtsbeschwerde) als Leittentscheid neu aufgenommen, BGE 142 III 174 (Ersatzforderung/Pfändungszutritt) neu, BGE 134 I 293 (Hundeeinzug) neu, ZH Obergericht RT240048 (Ersatzforderung) neu; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 151 III 553 (Ukraine-Sanktionen) als neuer Leitentscheid aufgenommen; BGE 131 III 652, BGE 115 III 1, BGE 107 III 113, BGE 139 III 44, BGE 120 IV 365 vertieft; irrelevante Zitate entfernt; alle Links auf entscheidsuche.ch verifiziert."
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um 8 weitere OCL-verifizierte BGE-Entscheide (jetzt ≥15 Zitationen); neue Sektionen D–G"
   - date: 2026-07-17
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterstellung"
 ---
 

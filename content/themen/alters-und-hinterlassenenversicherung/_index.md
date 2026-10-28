@@ -19,12 +19,10 @@ normen:
   - { gesetz: ahvg, art: art-040b }
   - { gesetz: ahvg, art: art-052 }
 stichworte: ["AHV", "AHVG", "Umlageverfahren", "Referenzalter", "Rentenflexibilisierung", "Beitragspflicht", "Selbständigerwerbende", "Nichterwerbstätige", "Einkommenssplitting", "Erziehungsgutschriften", "Plafonierung", "Witwerrente", "13. AHV-Rente", "Beeler"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Verfassungs- und Gesetzeswortlaute per {{< wortlaut >}} aus amtlicher Fedlex-Quelle eingebunden (scripts/wortlaut.py). Zwölf Leitentscheide von entscheidsuche.ch im Volltext verifiziert; Erwägungsnummern, Anker (#consideration_...) und wörtliche Zitate «...» vollständig mechanisch abgeglichen (pruefen.py ohne Befund)."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-07-17
 lastmod: 2026-09-09
 description: "Umfassende Rechtsprechungsübersicht zu Art. 368 StPO (Gesuch um neue Beurteilung): Leitentscheide des Bundesgerichts sowie ausgewählte Urteile des Bundesgerichts, des Bundesstrafgerichts und kantonaler Obergerichte zu Vorladungsmängeln, Entschuldbarkeit von Krankheit und Schmerzen, freiem Geleit, Beweislast und Fristen."
 tags: ["Rechtsprechung", "StPO", "Abwesenheitsverfahren", "Abwesenheitsurteil", "Neubeurteilung", "unentschuldigtes Fernbleiben", "Beweislast", "Freies Geleit"]
-agent_verified: true
 revisions:
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau der Rechtsprechungsübersicht gemäss Standard praxisorientierter-kommentar. Integration von 5 BGE-Leitentscheiden und 14 weiteren Bundesgerichts-, TPF- und kantonalen Entscheiden (AG, BE, ZH, BS, FR, SG) mit ausführlichen Sachverhalten, Kernaussagen und direkten entscheidsuche.ch-Verlinkungen."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 10 verifizierten Entscheiden (5 Leitentscheide BGE, 5 BGer-Entscheide); alle Nachweise via attest_response validiert."
 ---
 

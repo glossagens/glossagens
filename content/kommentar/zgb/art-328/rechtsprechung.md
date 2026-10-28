@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-09-04
 description: "Übersicht der Rechtsprechung zu Art. 328 ZGB (Verwandtenunterstützung): Leitentscheide des Bundesgerichts sowie ausgewählte Urteile kantonaler Obergerichte und Kantonsgerichte zu günstigen Verhältnissen, Notlage, Alterssicherung, Subrogation und Verfahrensart."
 tags: ["Rechtsprechung", "ZGB", "Verwandtenunterstützung", "Notlage", "Günstige Verhältnisse", "Subrogation", "Sozialhilfe", "Ordentliches Verfahren"]
-agent_verified: true
 revisions:
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau auf 13 verifizierte Entscheide (6 BGE-Leitentscheide, 7 weitere Bundesgerichts- und kantonale Entscheide). Sämtliche Links auf entscheidsuche.ch verlinkt (Erwägungsanker bei BGE gesetzt)."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Regesten via OCL /regeste verifiziert (BGE 133 III 507, 132 III 97, 106 II 287, 121 III 441, 136 III 1, 139 III 368)."
 ---
 

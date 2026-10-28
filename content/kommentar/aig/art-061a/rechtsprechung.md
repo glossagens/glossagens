@@ -5,7 +5,6 @@ date: 2026-10-26
 lastmod: 2026-10-26
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Gerichtsentscheide zu Art. 61a AIG (Erlöschen des Aufenthaltsrechts von EU- und EFTA-Staatsangehörigen bei unfreiwilliger Arbeitslosigkeit)."
 tags: ["Rechtsprechung", "AIG", "Personenfreizügigkeit", "FZA", "Arbeitslosigkeit", "Arbeitnehmerstatus", "Verbleiberecht"]
-agent_verified: true
 ---
 
 ### I. Leitentscheide

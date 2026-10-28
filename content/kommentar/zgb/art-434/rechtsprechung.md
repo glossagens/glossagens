@@ -5,12 +5,10 @@ date: 2026-10-25
 lastmod: 2026-10-25
 description: "Rechtsprechungsübersicht zu Art. 434 ZGB: medizinische Massnahmen bei psychischer Störung ohne Zustimmung. BGer-Leitentscheide zum Begriff der Anordnung, zur Formvorschrift, zu den drei Tatbestandsmerkmalen und zur Verhältnismässigkeit der Zwangsbehandlung; kantonale Praxis und EGMR-Bezug."
 tags: ["Rechtsprechung", "Erwachsenenschutz", "Zwangsmedikation", "Behandlung ohne Zustimmung", "fürsorgerische Unterbringung"]
-agent_verified: true
 revisions:
   - date: 2026-10-25
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Erstfassung. BGer-Volltexte über opencaselaw-MCP, kantonale Volltexte über Subagenten-Recherche (VWBES.2016.322 SO, PA160003 ZH u. a.). Jedes Zitat gegen den Volltext abgeglichen."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-06-20
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 24bis RPG — Bündelung von Infrastrukturanlagen und Mobilfunkanlagen ausserhalb der Bauzonen (nF per 1.1.2026)"
 tags: ["RPG", "Raumplanung", "Infrastrukturanlagen", "Mobilfunkanlagen", "Bündelung", "Standortgebundenheit", "Nichtbaugebiet"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 700 vom 2026-07-01 (data/wortlaut/rpg/art-024bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-02 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Einarbeitung von BGer 1C_710/2025 vom 17. August 2026 (publiziert 02.09.2026): Direkte Anwendung der gesetzlichen Fiktion der Standortgebundenheit (Art. 24bis Abs. 3 RPG) auf Mobilfunkerweiterungen im hängigen Verfahren."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Fabriziate Zitate entfernt, Entscheide mit entscheidsuche.ch verifiziert und verlinkt, Fallbeispiele ergänzt, Revisions-Vermerk hinzugefügt"
 ---
 

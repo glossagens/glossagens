@@ -5,17 +5,14 @@ date: 2026-09-03
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 744 OR: Hinterlegungspflichten für nicht angemeldete, nicht fällige und streitige Verbindlichkeiten in der Liquidation der Aktiengesellschaft sowie Rechtsfolgen von Pflichtverletzungen (Verantwortlichkeit statt Nichtigkeit)."
 tags: ["OR", "Aktienrecht", "Liquidation", "Gläubigerschutz", "Hinterlegung", "Sicherstellung", "Schuldenruf", "Verantwortlichkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-744.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-03 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstkommentierung mit Einarbeitung des Grundsatzurteils BGer 4A_46/2026 vom 9. Juli 2026 (5er-Besetzung: keine Nichtigkeit von Zessionen bei Verletzung von Art. 744 Abs. 2 OR). Gesetzeswortlaut verbatim aus Fedlex (SR 220, Stand 1. Januar 2026). Entscheide über entscheidsuche.ch belegt."
 ---
 

@@ -5,27 +5,22 @@ date: "2026-07-04"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 309 StPO: Eröffnung der Strafuntersuchung — Eröffnungsgründe, deklaratorische Eröffnungsverfügung, materieller Beschuldigtenstatus, Rücküberweisung an die Polizei, Verzicht auf Eröffnung."
 tags: ["Untersuchung", "Eröffnung", "Vorverfahren", "Tatverdacht", "Staatsanwaltschaft", "Eröffnungsverfügung", "materieller Beschuldigtenstatus", "polizeiliches Ermittlungsverfahren", "Nichtanhandnahme"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-309.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-15 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von CREP VD 736 vom 23. September 2026 (Causa Dittli / Mandate): Verwertbarkeit administrativer Untersuchungsberichte vor Untersuchungseröffnung als Eröffnungsgrundlage (Abs. 1 lit. a); dogmatische Abgrenzung zur unzulässigen Eröffnung «gegen unbekannt» (CREP VD 652)."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung von CREP VD 652 vom 3. September 2026 (Causa Dittli): Unzulässigkeit der Eröffnung «gegen unbekannt» zur Umgehung von Teilnahmerechten bei namentlich verdächtigter Person; materieller Beschuldigtenstatus und deklaratorische Eröffnung."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

@@ -5,27 +5,22 @@ date: "2026-07-04"
 lastmod: 2026-10-24
 description: "Praxiskommentar zu Art. 237 StPO: Ersatzmassnahmen an Stelle der Untersuchungs- oder Sicherheitshaft — Subsidiarität, Massnahmenkatalog, Electronic Monitoring, Antragsbindung des ZMG und Widerrufspraxis mit umfassender Grenzkasuistik."
 tags: ["StPO", "Ersatzmassnahmen", "Untersuchungshaft", "Sicherheitshaft", "Verhältnismässigkeit", "Sicherheitsleistung", "Kaution", "Rayonverbot", "Kontaktverbot", "Electronic Monitoring", "Widerruf", "Antragsbindung"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung des Leitentscheids BGer 7B_1311/2026 vom 15.10.2026: Zwingender Vorrang von Ersatzmassnahmen (Meldepflicht, Schriftensperre, Rayonverbot) bei abgewiesenen Asylsuchenden mit moderater Fluchtgefahr und geringer Straferwartung; Verbot der Untersuchungshaft als Surrogat für Ausschaffungshaft."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-237.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-18"
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Skill praxisorientierter-kommentar: Prüfschema-Raster, ausführliche Sachverhaltskasuistik (BGE 142 IV 29, BGE 140 IV 19, BGE 145 IV 503, BGE 140 IV 74, BGE 141 IV 190, BGer 7B_174/2025, 7B_59/2025, 7B_1169/2025), Kausalitäts- und Kriterientabellen, kantonale Praxisfragen und rollenspezifische Praxishinweise."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit: Gesetzestext mit Fedlex SR 312.0 abgeglichen, frontmatter aktualisiert"
 ---
 

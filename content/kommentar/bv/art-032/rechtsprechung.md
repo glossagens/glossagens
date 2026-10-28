@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-12
 description: "Übersicht der wichtigen Entscheide zu Art. 32 BV: Unschuldsvermutung, in dubio pro reo, Selbstbelastungsprivileg, Verteidigungsrechte, ne bis in idem, Rechtsmittelgarantie."
 tags: ["Rechtsprechung", "BV", "Unschuldsvermutung", "in dubio pro reo", "nemo tenetur", "ne bis in idem", "Strafverfahren"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Belege gegen die Entscheidtexte geprüft; Fehlzuordnungen im Kommentartext korrigiert. Erstmals revisions-Block gesetzt."
   - date: 2026-06-12
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

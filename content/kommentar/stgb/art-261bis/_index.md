@@ -5,22 +5,18 @@ date: 2026-10-14
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 261bis StGB: Diskriminierung und Aufruf zu Hass wegen Rasse, Ethnie, Religion oder sexueller Orientierung — Schutzbereich und abschliessende Merkmale, Begriff der Öffentlichkeit, Aufruf zu Hass (Abs. 1), Verbreiten von Ideologien vs. Bekenntnis (Abs. 2, Hitlergruss), Propaganda (Abs. 3), Herabsetzung in menschenwürdewidriger Weise und Holocaust-/Genozidleugnung (Abs. 4), Leistungsverweigerung (Abs. 5) sowie Schranken der Meinungsäusserungsfreiheit im politischen Meinungskampf."
 tags: ["StGB", "Rassendiskriminierung", "Diskriminierung und Aufruf zu Hass", "Öffentlichkeit", "Menschenwürde", "Sexuelle Orientierung", "Hitlergruss", "Holocaustleugnung", "Genozid", "Leistungsverweigerung", "Meinungsäusserungsfreiheit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-261bis.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-14 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-14
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Einarbeitung des Grundsatzentscheids BGer 6B_624/2025 vom 29. September 2026 (Fünferbesetzung): Holocaust-Rechtfertigung und -Leugnung in WhatsApp-Gruppen («they deserved it» / «it never happened»); Ausschluss der Schutzbehauptung «blosse Provokation» oder «Amüsement» unter Verweis auf BGE 149 IV 170; Bestätigung der Öffentlichkeit grosser Messenger-Gruppen nach BGE 130 IV 111; strikte richterliche Prüfungsreihenfolge (Art. 112 Abs. 3 BGG)."
   - date: 2026-10-14
     by: "Antigravity"
     model: "Gemini 3.8 Flash (Medium)"
-    mcp_verified: true
     note: "Erstkommentierung als Praxiskommentar. Gesetzeswortlaut verbatim nach Fedlex (SR 311.0, Stand 1. Oktober 2026). Volltextrecherche und Verifikation aller Leit- und Praxisentscheide über entscheidsuche.ch. Sämtliche Bundesgerichts- und kantonalen Entscheide mit Original-URLs verlinkt. Zweiseitige Grenzkasuistik (Angewandt vs. Verworfen) für alle Kerntatbestände sowie empirische Vergleiche und Praxishinweise für Verteidigung, Privatklägerschaft und Strafverfolgungsbehörden eingearbeitet."
 ---
 

@@ -39,12 +39,10 @@ normen:
   - { gesetz: atsg, art: art-043 }
   - { gesetz: atsg, art: art-044 }
 stichworte: ["Invalidenversicherung", "IV", "Eingliederung vor Rente", "Früherfassung", "Frühintervention", "Integrationsmassnahmen", "berufliche Massnahmen", "Wartejahr", "Invaliditätsgrad", "Einkommensvergleich", "Tabellenlohn", "stufenloses Rentensystem", "Hilflosenentschädigung", "Assistenzbeitrag", "Vorbescheid", "IV-Stelle", "RAD", "Gutachten", "Rentenrevision", "Neuanmeldung", "Selbsteingliederung"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtexte Art. 1a und 28 IVG per {{< wortlaut >}} (scripts/wortlaut.py); IVG (Stand 1.1.2026), ATSG und IVV (Stand 1.6.2025) in der geltenden Fedlex-Konsolidierung gelesen, alle genannten Bestimmungen daran geprüft. 17 BGE und ein BGer-Urteil als Volltext von entscheidsuche.ch geladen (MCP offline, direkt über den ES-Proxy); Erwägungsnummern, Anker und wörtliche Zitate gegen den Volltext abgeglichen. Frankenbeträge bewusst weggelassen, weil sie periodisch angepasst werden."
 ---
 

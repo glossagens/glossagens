@@ -5,12 +5,10 @@ date: "2026-07-03"
 lastmod: "2026-09-09"
 description: "Umfassende Rechtsprechungsübersicht zu Art. 319 StPO: Leitentscheide des Bundesgerichts und kantonale Rechtsprechung zu in dubio pro duriore, Aussage gegen Aussage, Tatverdacht, Rechtfertigungsgründen, Verjährung, Opportunität, ne bis in idem und Opferschutz."
 tags: ["Rechtsprechung", "Einstellung", "in dubio pro duriore", "Tatverdacht", "Teileinstellung", "ne bis in idem", "Opferschutz", "Rechtsmittel"]
-agent_verified: true
 revisions:
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsdokumentation auf 20 strukturierte Bundesgerichts- und kantonale Leitentscheide mit Sachverhalten, Kernaussagen und entscheidsuche.ch-Verlinkung."
 ---
 

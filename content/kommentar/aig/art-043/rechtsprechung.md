@@ -5,12 +5,10 @@ date: 2026-07-03
 lastmod: 2026-09-10
 description: "Übersicht der Leitentscheide und kantonalen Praxis zu Art. 43 AIG: Familiennachzug von Ehegatten und Kindern zu Niedergelassenen, bedarfsgerechte Wohnung, Sozialhilfe- und Ergänzungsleistungsbezug, Nachzugsfristen, Erlöschen und Wiedererteilung."
 tags: ["Rechtsprechung", "AIG", "Familiennachzug", "Niederlassungsbewilligung", "Aufenthaltsbewilligung", "Sozialhilfe", "Ergänzungsleistungen", "Kindeswohl", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-09-10
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zur systematischen Rechtsprechungssammlung gemäss Standard für praxisorientierte Kommentare. Alle Urteile im Volltext über entscheidsuche.ch verifiziert und mit offiziellen URLs verlinkt. 7 Leitentscheide des Bundesgerichts (BGE 136 II 113, 139 I 330, 146 I 185, 137 I 284, 135 II 377, 144 I 266, 136 II 177) sowie 9 weitere bundesgerichtliche und kantonale Entscheide (BGer 2C_309/2021, 2C_626/2023, 2C_48/2026, 2C_344/2023, ZH VG VB.2014.00675, VB.2022.00522, VB.2023.00420, VB.2020.00398, SG VG B 2025/182) mit detaillierten Sachverhaltsschilderungen und Kernaussagen aufbereitet."
 ---
 

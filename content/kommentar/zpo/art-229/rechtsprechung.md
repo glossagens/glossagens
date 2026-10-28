@@ -5,22 +5,18 @@ date: 2026-07-18
 lastmod: 2026-09-06
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 229 ZPO: Leitentscheide des Bundesgerichts und kantonale Praxis zu Aktenschluss, echten und unechten Noven, Duplik- und Potestativnoven, Beweiseinheit und Summarverfahren."
 tags: ["Rechtsprechung", "ZPO", "Noven", "Aktenschluss", "Dupliknoven", "Potestativnoven", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-09-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Anreicherung auf 14 strukturierte Leit- und Kantonalentscheide: Konkrete Sachverhalte mit Parteien und Streitgegenstand, präzise Kernaussagen, Angabe der Tragweite für die ZPO-Revision 2025 und direkte Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Umfassende Anreicherung der Rechtsprechungsübersicht mit 10 Leit- und Kantonalentscheiden, vollständigen Sachverhalten zum Novenrecht und Verlinkung auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 17 %, Urteil C)."
 ---
 

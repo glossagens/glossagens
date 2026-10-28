@@ -5,37 +5,30 @@ date: "2026-08-08"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 71 StGB: Ersatzforderung des Staates als Surrogat der Vermögenseinziehung, Subsidiarität und Nicht-mehr-Vorhandensein, Berechnung nach Brutto- und Nettoprinzip, strikter Ausschluss der Solidarhaftung bei Mittäterschaft, Schätzung (Art. 70 Abs. 5), Konkurrenz mit Zivilansprüchen und Doppelbelastungsverbot, Zuweisung nach Art. 73 StGB, Verzicht und Herabsetzung wegen Uneinbringlichkeit oder Gefährdung der Resozialisierung (Abs. 2), Zwangsvollstreckung über das SchKG sowie Praxishinweise."
 tags: ["StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Zivilklage", "Resozialisierung", "Kasuistik", "SchKG", "Praxiskommentar"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-071.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-10-07 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-10-07"
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Einarbeitung von BGer 7B_183/2026 vom 22. September 2026 in Abschnitt E.3 (Auswirkung von Zivilvergleichen): Mehrere Geschädigte mit unterschiedlichen zivilrechtlichen Vereinbarungen (Desinteresseerklärung, Ratenzahlungsvereinbarung, Saldovereinbarung im Scheidungsverfahren); Bestätigung von BGE 139 IV 209; Präzisierung, dass der Rückerstattungsvorbehalt bereits bei der provisorischen Beschlagnahme zwingend ist und nachzuholen ist; Kostenverteilung nach Art. 428 Abs. 1 StPO. Volltext via entscheidsuche.ch verifiziert."
   - date: "2026-09-08"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar nach den Referenzstandards Art. 110 StPO und Art. 336 OR: Dogmatisches Prüfschema als Inhaltsverzeichnis vorangestellt; Integration der Kasuistik direkt in die Tatbestandsmerkmale (A–G); zweiseitige Grenzkasuistik (angewandt vs. verworfen); Tabellen zu Schwellenwerten und Fallvergleichen; Einarbeitung neuester Leitentscheide (BGer 6B_1279/2023 vom 13. Februar 2026 zum Verbot der Restbetragsrückerstattung an den Täter, BGer 6B_803/2025 vom 11. Februar 2026 zum Bruttoprinzip bei Serienbetrug, BS APG BEZ.2026.10 vom 24. April 2026 zur definitiven Rechtsöffnung und ZH OG NE230005 vom 11. Juni 2026 zur Widerspruchsklage bei umgekehrtem Durchgriff); Schlussabschnitt Praxishinweise nach Adressatenrollen; alle Zitate und Links via entscheidsuche.ch verifiziert."
   - date: "2026-08-29"
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erheblicher und praxisorientierter Ausbau: Detaillierte Kasuistik konkreter Gerichtsentscheide (Drogenhandel, Wirtschaftsdelikte, Betrug, Raub, illegales Glücksspiel, Denkmalabbruch, Bestechung), vertiefte Dogmatik zu Bruttoprinzip, Ausschluss der Solidarhaftung, Doppelbelastungsverbot, Resozialisierungsprüfung nach Abs. 2 und Schätzungsbefugnis; alle Zitate via entscheidsuche.ch verifiziert."
   - date: "2026-08-23"
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Gesetzeswortlaut nach Fedlex bereinigt; saubere Pinpoint-Verlinkung und kantonale Praxisfragen eingepflegt."
   - date: "2026-08-13"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

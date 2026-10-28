@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 247 StPO – Durchführung der Durchsuchung von Aufzeichnungen: Vorgängige Äusserung des Inhabers (Abs. 1), Beizug von Sachverständigen zur Triage (Abs. 2) und Zurverfügungstellung von Kopien (Abs. 3)."
 tags: ["StPO", "Aufzeichnungen", "Datenträger", "Durchsuchung", "Sachverständige", "Triage", "Geheimnisschutz", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-247.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-30 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neukommentierung zu Art. 247 StPO; Gesetzestext via Fedlex abgeglichen, Rechtsprechung und Belege via entscheidsuche verifiziert."
 ---
 

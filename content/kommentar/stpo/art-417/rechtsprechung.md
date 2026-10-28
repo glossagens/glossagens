@@ -5,32 +5,26 @@ date: 2026-08-07
 lastmod: 2026-10-23
 description: "Rechtsprechungssammlung zu Art. 417 StPO — Verursacherprinzip bei Säumnis und fehlerhaften Verfahrenshandlungen: Grundsätze, Kostenauflage an Rechtsbeistände, Fallgruppen, selbstständige Zwangsmassnahmenverfahren, Verwaltungsstrafrecht und Abgrenzungen."
 tags: ["Rechtsprechung", "StPO", "Kostentragung", "Verursacherprinzip", "Rechtsbeistand", "Kostenauflage"]
-agent_verified: false
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Neuaufbau nach Volltextlektüre aller aufgeführten Entscheide auf entscheidsuche.ch. Entfernt bzw. korrigiert: Sachverhalt und Leitsatz von 7B_164/2022, 7B_686/2023, 6B_181/2023, 7B_58/2025, 1B_534/2018, 6B_434/2020, 7B_918/2025 und 6B_934/2016 (= BGE 143 IV 373); 6B_1255/2016, 6B_1290/2021 und 6B_1062/2018 nicht mehr als Belege für Art. 417 StPO geführt (erwähnen die Norm nicht bzw. nicht in einer tragenden Erwägung). Wiederhergestellt: BGer 6B_5/2013 vom 19. Februar 2013 (frühere Entfernung beruhte auf falsch datierter URL). Neu: BGE 147 IV 526, 1B_202/2014, 6B_738/2015 E. 1.4.1, 7B_1297/2025, 1B_45/2019, 6B_773/2017, 7B_206/2024, 7B_450/2025 u. a. Agent_verified bleibt false (separate Verifikation)."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Alle Links von opencaselaw.ch auf entscheidsuche.ch korrigiert (15/15 verifiziert 200)."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 30 %). BGer 6B_5/2013 entfernt. Fünf Erwägungsangaben korrigiert. Divergenz zum Verschuldenserfordernis dokumentiert."
   - date: 2026-08-07
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung: 10 weitere BGer-Entscheide zu Art. 417 StPO hinzugefügt"
   - date: 2026-08-07
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Neuerstellung anlässlich BGer 7B_11/2026; alle Entscheide via opencaselaw-MCP verifiziert."
 ---
 

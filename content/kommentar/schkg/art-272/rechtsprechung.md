@@ -5,7 +5,6 @@ date: 2026-10-22
 lastmod: 2026-10-22
 description: "Übersicht der Rechtsprechung zu Art. 272 SchKG: Leitentscheide des Bundesgerichts und kantonale Entscheide zur Arrestbewilligung und Glaubhaftmachung."
 tags: ["Rechtsprechung", "SchKG", "Arrest", "Arrestbewilligung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

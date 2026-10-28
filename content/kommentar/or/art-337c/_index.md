@@ -5,22 +5,18 @@ date: 2026-06-06
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 337c OR: Schadenersatz (positives Erfüllungsinteresse, Fixlohn, variabler Lohn, Ferien, Sperrfristen), Anrechnungspflicht (Beweislast, Zwischenverdienst, zumutbare Arbeit, absichtliches Unterlassen) und richterliche Straf-/Genugtuungsentschädigung (Abs. 3, Bemessungskriterien bis 6 Monatslöhne, Verschulden, Mitverschulden) — mit umfassender Rechtsprechung und Kasuistik."
 tags: ["OR", "Arbeitsrecht", "fristlose Entlassung", "ungerechtfertigte Entlassung", "Schadenersatz", "Billigkeitsentschädigung", "Pönale", "Anrechnungspflicht", "Zwischenverdienst", "Sperrfristen", "Fälligkeit", "Verzugszins"]
-agent_verified: true
 revisions:
   - date: 2026-10-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum praxisorientierten Gesetzeskommentar nach dem Standard von Art. 110 StPO und Art. 336 OR: Dogmatisches Merkmalsraster als Prüfschema mit vollständiger Deckungsgleichheit aller Abschnitte; umfassende Aufarbeitung von Abs. 1 (positives Erfüllungsinteresse, Fixlohn, variabler Lohn, Ferienabgeltung, Sperrfristen gemäss Art. 336c OR, Ausschluss der Mitverschuldenskürzung nach Art. 44 OR), Abs. 2 (Anrechnung von Ersparnissen und tatsächlichem bzw. absichtlich unterlassenem Zwischenverdienst, Beweislastverteilung, Verbot von Fishing Expeditions) sowie Abs. 3 (Regelanspruch auf Pönale/Genugtuung bis zu 6 Monatslöhnen, Kriterienkatalog, Berücksichtigung von Mitverschulden und Vorverhalten). Volltextauswertung von BGE 152 II 19, BGE 135 III 405, BGE 133 III 657, BGE 128 III 271, BGE 125 III 14, BGE 123 V 5, BGE 121 III 64, BGE 120 II 243, BGE 116 II 300, BGer 4A_56/2026, 4A_353/2024, 4A_546/2023, 4A_126/2021 sowie kantonaler Leitpraxis (TG OG TVR 2025 Nr. 33, ZH AGer AN240008-L / AGer-Z 2025 Nr. 5, SG KG BO.2016.47). Sämtliche Entscheide verbatim auf entscheidsuche.ch verifiziert und verlinkt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-337c.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Audit gegen opencaselaw-MCP: Belegquote 42 % (Urteil C); 2 gestützt (+1 teilw.) von 6 beurteilten Paaren (6 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 

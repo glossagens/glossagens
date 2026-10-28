@@ -5,22 +5,18 @@ date: 2026-05-16
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 122 StGB: Lebensgefährliche Verletzung, Organunbrauchbarkeit, Entstellung, andere schwere Schädigung, Kasuistik zu Kopf- und Fusstritten, Grenzkasuistik, Konkurrenzen und Praxishinweise."
 tags: ["StGB", "Schwere Körperverletzung", "Körperverletzung", "Versuch", "Notwehr", "Notwehrexzess", "Konkurrenzen", "Strafzumessung", "Landesverweisung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-122.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-21
     by: "Antigravity Agent"
     model: "claude-3-7-sonnet"
-    mcp_verified: true
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Standard Art. 110 StPO / Art. 336 OR: Prüfschema, narrative Kasuistik (BGE 109 IV 18, 124 IV 53, 129 IV 1, 141 IV 97, 137 IV 113, 134 IV 26; BGer 6B_760/2017, 6B_1180/2015, 6B_1250/2013; KG BL 2019-01-08-sr-3; OGer ZH SB140249; AppGer BS SB.2016.120; OGer TG RBOG 2012 Nr. 22), kantonale Praxisfragen, Leitsätze und Praxishinweise."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 

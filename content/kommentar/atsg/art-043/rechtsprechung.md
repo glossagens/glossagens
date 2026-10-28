@@ -5,12 +5,10 @@ date: 2026-07-31
 lastmod: 2026-08-28
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 43 ATSG: Amtsermittlungsprinzip, Beweiswürdigung, Mitwirkungspflichten und Mahnverfahren."
 tags: ["Rechtsprechung", "ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht ausgebaut auf 10+ Entscheide mit thematischen Blöcken, Abstracts und Links auf entscheidsuche.ch."
 ---
 

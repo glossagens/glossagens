@@ -5,17 +5,14 @@ date: "2026-08-30"
 lastmod: 2026-10-21
 description: "Übersicht der Rechtsprechung zu Art. 215 StPO – Polizeiliche Anhaltung, Identitätsfeststellung, Mitwirkungspflichten und Abgrenzung zur Festnahme."
 tags: ["Rechtsprechung", "StPO", "Anhaltung", "Polizei", "Identitätsfeststellung", "Ausweiskontrolle", "Verhältnismässigkeit", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme des Leitentscheids BGer 6B_153/2026 vom 22.09.2026 (5er-Besetzung): Schlafen auf Parkbank kein Tatverdacht, Verbot von Fishing Expeditions, Racial Profiling und absolutes Beweisverwertungsverbot nach Art. 141 Abs. 2 StPO."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 215 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

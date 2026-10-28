@@ -5,27 +5,22 @@ date: 2026-08-30
 lastmod: 2026-10-11
 description: "Übersicht der Rechtsprechung zu Art. 49 StGB — Konkurrenzen: Asperationsprinzip, konkrete Methode, Einsatzstrafe, dreistufige Gesamtstrafenbildung, Verbot der Einheitsstrafe, Kumulationsgebot bei Ungleichartigkeit, Zäsurwirkung des Ersturteils, Differenzmethode bei Zusatzstrafen und Abgrenzungskasuistik."
 tags: ["Rechtsprechung", "StGB", "Konkurrenz", "Gesamtstrafe", "Asperationsprinzip", "Zusatzstrafe", "Retrospektive Konkurrenz", "Dreistufigkeit", "Täterkomponenten", "Begründungspflicht", "Allgemeiner Teil", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-11
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Ergänzung um BGer 6B_287/2026 (Strafzumessung bei Konkurrenzen, dreistufige Gesamtstrafenbildung, Vermengung von Tat- und Täterkomponenten); Volltext via entscheidsuche.ch verifiziert."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau auf 18 fundierte Leit- und Kantonalentscheide: Aufteilung in I. Leitentscheide des Bundesgerichts (BGE 144 IV 313, BGE 144 IV 217, BGE 143 IV 145, BGE 142 IV 265, BGE 145 IV 1, BGE 138 IV 113, BGE 137 IV 57, BGE 141 IV 61) und II. Weitere Bundesgerichts- und Kantonalentscheide (BGE 123 IV 113, BGE 129 IV 53, BGE 141 IV 437, BGE 126 IV 80, BGE 138 IV 120; ZH OG SB250457 vom 02.02.2026, AG OG SST.2025.237 vom 19.05.2026, BE OG SK 2025 203 vom 11.12.2025, BS APG SB.2025.39 vom 09.01.2026, SO OG STBER.2025.19 vom 03.12.2025); alle Sachverhalte und Kernaussagen detailliert narrativ dargestellt und direkt via entscheidsuche.ch belegt."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 5 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuaufbau nach Audit."
 ---
 

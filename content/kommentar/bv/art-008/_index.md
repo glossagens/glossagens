@@ -5,22 +5,18 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 8 BV — allgemeiner Gleichheitssatz, Diskriminierungsverbot, Gleichstellung von Mann und Frau, Beseitigung von Benachteiligungen Behinderter"
 tags: ["BV", "Rechtsgleichheit", "Diskriminierungsverbot", "Lohngleichheit", "Gleichstellung", "Behindertengleichstellung"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 101 vom 2024-03-03 (data/wortlaut/bv/art-008.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 44 %, Urteil C): Alle Referenzen existierten, aber nur 9 von 45 Paaren waren gestützt. Belege neu zugeordnet und an verifizierte Pinpoints verankert; drei Pinpoints zeigten ins Leere; BGE 134 V 131 betrifft Gesetzesauslegung, nicht Lohngleichheit. Erstmals revisions-Block gesetzt — er fehlte ganz."
   - date: 2026-07-17
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block; Zuordnung der Belege beim Audit vom 2026-08-11 überwiegend verworfen"
 ---
 

@@ -5,22 +5,18 @@ date: 2026-09-11
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 725 OR: Pflicht des Verwaltungsrats zur Liquiditätsüberwachung und rollenden 12-Monats-Planung, Tatbestand der drohenden Zahlungsunfähigkeit, Abgrenzung zur Zahlungsstockung, Fortgeltung der Judikatur zu aArt. 725 OR, Sofort- und Sanierungsmassnahmen, Vorrang der Nachlassstundung vor der Insolvenzerklärung und Haftung für den Konkursverschleppungsschaden nach Art. 754 OR."
 tags: ["OR", "Aktienrecht", "Zahlungsunfähigkeit", "Liquiditätsplanung", "Liquidität", "Sanierung", "Nachlassstundung", "Verwaltungsrat", "Konkursverschleppung", "aArt. 725 OR"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    mcp_verified: true
     note: "Umfassende praxisorientierte Überarbeitung und Ausbau: Vertiefte Aufbereitung der historischen Herleitung aus aArt. 725 aOR sowie Art. 716a/717 aOR und Art. 190 SchKG; systematische Gegenüberstellungstabelle zur Fortgeltung der Alt-Judikatur unter neuem Recht; Anreicherung der Urteilssachverhalte mit plastischen Details der Lebenssachverhalte (BGE 137 III 460, BGE 136 III 322, BGE 132 III 564, BGE 137 III 268, BGE 125 III 86, BGer 5A_82/2023, BGer 4A_675/2014, BGer 4A_601/2020, ZH OG PS240233, ZG OG BZ 2022 78, BS APG BEZ.2014.89); Ausbau der zweiseitigen Grenzkasuistik, kantonale Praxisfragen und adressatenbezogene Praxishinweise."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-725.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-11 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Neuerstellung des Praxiskommentars zu Art. 725 OR gemäss revidiertem Aktienrecht (in Kraft seit 1. Jan. 2023) nach dem Referenzstandard von Art. 110 StPO und Art. 336 OR: Vollständiges Prüfschema, abstrakte Tatbestandsmerkmale als Gliederungsgerüst, plastische Kasuistik aus Bundesgerichts- und kantonalen Entscheiden (BGE 137 III 460, BGE 136 III 322, BGE 132 III 564, BGE 137 III 268, BGE 127 III 374, BGE 125 III 86, BGer 5A_82/2023, BGer 4A_601/2020, BGer 4A_675/2014, ZH OG PS240233, ZG OG BZ 2022 78), zweiseitige Grenzkasuistik, Gegenüberstellungstabellen ohne Code-Fences, Offenlegung echter Judikaturdivergenzen zur Dauer von Zahlungsstockungen, kantonale Praxisfragen und rollenbezogene Praxishinweise."
 ---
 

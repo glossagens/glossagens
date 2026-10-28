@@ -5,17 +5,14 @@ date: 2026-09-18
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 117 StPO: Rechtekatalog des Opfers (lit. a–g), Schutz von Kindern (Abs. 2) und Stellung der Angehörigen mit Zivilansprüchen (Abs. 3) — inklusive der Reichweitenkontroverse zur Gleichstellung der Angehörigen und des neuen Rechts auf unentgeltliche Erhaltung der Entscheide seit 1.1.2024."
 tags: ["Opfer", "Opferrechte", "Persönlichkeitsschutz", "Angehörige", "Privatklägerschaft", "OHG", "Beteiligungsrechte"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-117.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-18 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-18
     by: "Claude Code"
     model: "glm-5.3-flash"
-    mcp_verified: true
     note: "Erstkommentar. Art. 117 samt sämtlichen Querverweisen (70, 74, 116, 121, 136, 149, 152–154, 169, 214, 305, 319, 330, 335) via Fedlex-MCP verifiziert (Konsolidierung 1. April 2025); 11 Entscheide (BGE, BGer, BStGer, kantonale) via opencaselaw-MCP an Regeste/Erwägungen verifiziert; Entscheide-Links verbatim von entscheidsuche.ch, Anker geprüft; Botschaft BBl 2019 6697, S. 32 (lit. g) verbatim über Materialienkorpus."
 ---
 

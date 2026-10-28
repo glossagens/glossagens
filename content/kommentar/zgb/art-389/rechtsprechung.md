@@ -5,12 +5,10 @@ date: 2026-05-24
 lastmod: 2026-08-19
 description: "Übersicht der massgeblichen Entscheide zu Art. 389 ZGB – Subsidiarität und Verhältnismässigkeit im Erwachsenenschutzrecht"
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Subsidiarität", "Verhältnismässigkeit", "Beistandschaft", "Vorsorgeauftrag"]
-agent_verified: false
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung: 5 Leitentscheide (BGE), 10+ weitere Bundesgerichtsurteile und kantonale Entscheide mit korrigierten Verlinkungen und verifizierten Kernaussagen."
 ---
 

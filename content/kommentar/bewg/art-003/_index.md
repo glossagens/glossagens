@@ -5,12 +5,10 @@ date: 2026-06-06
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 3 BewG — Bewilligungspflicht nach Bundesrecht und Ermächtigung der Kantone zu weitergehenden Beschränkungen"
 tags: ["BewG", "Lex Koller", "Grundstückskauf", "Bewilligungspflicht", "kantonales Recht", "Ausländergrundstückrecht"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: false
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 211.412.41 vom 2023-07-01 (data/wortlaut/bewg/art-003.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
 ---
 

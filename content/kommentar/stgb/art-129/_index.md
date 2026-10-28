@@ -5,27 +5,22 @@ date: 2026-05-16
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 129 StGB (Gefährdung des Lebens): Unmittelbare Lebensgefahr, Skrupellosigkeit und direkter Gefährdungsvorsatz, Grenzkasuistik zu Würgen und Strangulation, verkehrsrechtlichen Gefährdungen (Schikanestopp, Rammen) sowie Waffen- und Messereinsatz — mit Prüfschema, Judikaturdivergenzen und Praxishinweisen."
 tags: ["StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Würgen", "Strangulation", "Schikanestopp", "Konkurrenz", "Abgrenzung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-129.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 90 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-16 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassender Ausbau zum vollwertigen Praxiskommentar gemäss dem Referenzstandard von praxisorientierter-kommentar/SKILL.md (Art. 110 StPO, Art. 336 OR): Merkmalskatalog als Prüfschema-Tabelle vorangestellt; detaillierte narrative Sachverhaltsschilderungen zu allen Fallgruppen; zweiseitige Grenzkasuistik (angewandt vs. verworfen, u.a. Würgen in BGer 6B_758/2018 vs. ZH OG SB200086; Strassenverkehr in BGer 6B_260/2012 / BGE 133 IV 1 vs. BGer 6B_1017/2019); Grenzziehungs- und Vergleichstabellen ohne Code-Fences; Herausarbeitung der echten Judikaturdivergenzen (Reichweite der Skrupellosigkeit; Konkurrenz zu Art. 90 Abs. 3 SVG in GR KG PKG 2023 11 vs. BStGer SK.2020.25); kantonale Praxisfragen ZH und GR; adressatenbezogene Praxishinweise. Sämtliche Urteile im Volltext über entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau mit Sachverhaltsanreicherung: 6 verifizierte BGE/BGer-Entscheide via entscheidsuche.ch; BGE 106 IV 12, BGE 124 IV 53, BGE 133 IV 1, BGE 136 IV 76, BGE 137 IV 326, BGer 6B_108/2026; BGer 6B_75/2025 und BGer 7B_1375/2024 auf entscheidsuche.ch verifiziert; Gesetzeswortlaut → Wortlaut korrigiert; alle opencaselaw-Links durch entscheidsuche.ch ersetzt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit: Gesetzestext via Fedlex verifiziert, Frontmatter korrigiert"
 ---
 

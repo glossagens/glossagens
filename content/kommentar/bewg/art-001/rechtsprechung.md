@@ -5,12 +5,10 @@ date: 2026-06-06
 lastmod: 2026-08-01
 description: "Übersicht der Entscheide zu Art. 1 BewG — Geltungsbereich des Lex Koller"
 tags: ["Rechtsprechung", "BewG", "Lex Koller", "Geltungsbereich", "Ausländischer Grundstückserwerb"]
-agent_verified: false
 revisions:
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Wöchentliche Ergänzung KW31 — BGer 2C_286/2025 und BGer 2C_437/2024 (Gesetzeszweck, objektive/subjektive Seite der Bewilligungspflicht) via OCL case-brief verifiziert und ergänzt."
 ---
 

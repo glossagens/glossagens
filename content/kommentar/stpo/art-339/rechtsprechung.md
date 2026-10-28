@@ -5,7 +5,6 @@ date: 2026-07-11
 lastmod: 2026-07-11
 description: "Übersicht der Entscheide zu Art. 339 StPO – Eröffnung; Vor- und Zwischenfragen"
 tags: ["Rechtsprechung", "StPO", "Vorfragen", "Beweisverwertbarkeit", "Verfahrenshindernisse"]
-agent_verified: false
 ---
 
 ## Leitentscheide (BGE)

@@ -5,12 +5,10 @@ date: 2026-08-29
 lastmod: "2026-08-29"
 description: "Übersicht der Entscheide zu Art. 5 BewG — Personen im Ausland, Wohnsitzbegriff, beherrschende Stellung"
 tags: ["Rechtsprechung", "BewG", "Lex Koller", "Personen im Ausland", "Wohnsitz", "beherrschende Stellung"]
-agent_verified: true
 revisions:
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht erstellt, Entscheide via entscheidsuche.ch verifiziert"
 ---
 

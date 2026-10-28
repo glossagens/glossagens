@@ -5,22 +5,18 @@ date: 2026-06-05
 lastmod: "2026-08-31"
 description: "Übersicht der Rechtsprechung zu Art. 307 StGB — Falsches Zeugnis: Schutzgut, Sonderdeliktsnatur, Zeugeneigenschaft, Rechtshilfeverfahren und Privatklägerschaft."
 tags: ["Rechtsprechung", "StGB", "Falschaussage", "Falsches Zeugnis", "Rechtspflegedelikte", "Privatklägerschaft", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 8 verifizierte Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 141 IV 444 (falsches Zeugnis vor parlamentarischer Untersuchungskommission, Ehre als sekundäres Schutzgut), BGE 147 IV 373 / BGer 6B_1022/2020 (fehlende Zeugeneigenschaft = strafloses untaugliches Tatsubjekt), BGE 148 IV 170 (Geschädigtenstellung bei Vermögensdelikten), BGE 145 IV 491 (mittelbare Beeinträchtigung, SBB), BGE 133 IV 324 (Falschaussage bei Rechtshilfe-Einvernahme), BGE 93 IV 24 (Aussage zur Sache), BGE 85 IV 30 (Rücknahme), BGE 118 IV 175 (Angehörigenprivileg); Obergericht ZH SB190541 entfernt (unverifizierbar); alle Links durch entscheidsuche.ch ersetzt"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung ungenauer URLs und Pinpoint-Zuordnungen; 10 verifizierte BGE- und Kantonsgerichtsentscheide mit korrekten OCL-Links und Erwägungen eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

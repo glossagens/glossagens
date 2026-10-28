@@ -5,12 +5,10 @@ date: 2026-10-21
 lastmod: 2026-10-21
 description: "Praxiskommentar zu Art. 14 AVIG: Befreiung von der Beitragszeit, Ausschluss des Konkubinats (BGE 137 V 133, VD TC CASSO 854), Betreuung von Pflegebedürftigen (Art. 13 Abs. 1bis AVIV), Ehetrennung, Scheidung und Kausalitätsmassstäbe."
 tags: ["AVIG", "Arbeitslosenversicherung", "Beitragszeit", "Beitragszeitbefreiung", "Konkubinat", "Pflegebedürftige", "Scheidung", "Invalidenrente"]
-agent_verified: true
 revisions:
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuaufnahme als Praxiskommentar: Dogmatisches Prüfschema, lückenlose Auslegung aller Tatbestandsmerkmale, zweiseitige Grenzkasuistik, Integration des Waadtländer Entscheids VD TC CASSO 854 vom 30. September 2026 zum qualifizierten Konkubinat und zur Angehörigenpflege, Bundesgerichtspraxis (BGE 137 V 133, BGE 131 V 279, BGE 141 V 674, BGE 125 V 123, BGE 120 V 145), kantonale Praxisfragen und adressatenbezogene Praxishinweise."
 ---
 

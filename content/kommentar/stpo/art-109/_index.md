@@ -5,22 +5,18 @@ date: "2026-06-20"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 109 StPO: jederzeitiges Eingaberecht der Parteien und seine Grenze bei fristgebundenen Verfahrenshandlungen; Prüfungs- und Stellungnahmepflicht der Verfahrensleitung; Durchsetzung über die Rechtsverweigerungsbeschwerde."
 tags: ["StPO", "Eingaben", "Verfahrensleitung", "Parteirechte", "Stellungnahme", "Beweisantrag", "Rechtsverweigerung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-109.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 21 %). Die Kernaussagen waren durchweg frei formuliert und von den zitierten Entscheiden nicht gedeckt; namentlich stammt die Aussage zur «formelhaften Ablehnung» nicht aus BGer 1B_124/2016. Neu belegt mit BGer 1B_55/2017 E. 3.2, BGer 1B_124/2016 E. 4.2, BGer 6B_1007/2021 E. 4.3 (Grenze des jederzeitigen Eingaberechts bei Fristen) und BGer 1B_331/2016 E. 1.7. Unzutreffende Pinpoint-Angabe bei 6B_140/2016 entfernt; BGer 6B_493/2014 gestrichen. Erfundene Literaturliste entfernt; unzulässiges Top-Level-Feld mcp_verified aus dem Frontmatter entfernt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 ---
 

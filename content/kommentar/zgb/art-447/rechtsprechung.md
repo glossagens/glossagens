@@ -5,12 +5,10 @@ date: 2026-08-19
 lastmod: 2026-08-19
 description: "Übersicht der Rechtsprechung zu Art. 447 ZGB: Grundsatzentscheide des Bundesgerichts zur persönlichen Anhörung, Kollegiumsprinzip bei fürsorgerischer Unterbringung und kantonale Praxis."
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Persönliche Anhörung", "Fürsorgerische Unterbringung", "KESB"]
-agent_verified: true
 revisions:
   - date: 2026-08-19
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit verifizierten Leitentscheiden, Bundesgerichtsurteilen und kantonalen Entscheiden via opencaselaw-MCP."
 ---
 

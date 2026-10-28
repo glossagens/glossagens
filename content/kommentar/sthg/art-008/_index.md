@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 8 StHG (SR 642.14) — Einkünfte aus selbständiger Erwerbstätigkeit und Besteuerung von Kapitalgewinnen auf Geschäftsvermögen. Behandelt die Abgrenzung von Geschäfts- und Privatvermögen (Präponderanzmethode), gewerbsmässigen Liegenschafts- und Wertschriftenhandel, den Steueraufschub bei Überführung von Liegenschaften (Abs. 2bis) und die Beendigung des Aufschubs durch Schenkung (BGE 148 II 299), Betriebsverpachtung (Abs. 2ter), Teilbesteuerung von Beteiligungen (Abs. 2quinquies) sowie steuerneutrale Umstrukturierungen mit Betriebserfordernis (BGE 142 II 283) und die 5-Jahres-Sperrfrist (Abs. 3bis). Mit Grenzkasuistik, Kriterientabellen und rollenspezifischen Praxishinweisen."
 tags: ["StHG", "Steuerharmonisierung", "selbständige Erwerbstätigkeit", "Geschäftsvermögen", "Präponderanzmethode", "Kapitalgewinn", "Liegenschaftshandel", "Wertschriftenhandel", "Umstrukturierung", "Betriebserfordernis", "Sperrfrist", "Steueraufschub", "Privatentnahme"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuerstellung Praxiskommentar zu Art. 8 StHG. Gesetzestext auf Stand 01.01.2025 via Fedlex konsolidiert. Amtliche Materialien (BBl 1983 III 1, BBl 2000 4337, BBl 2005 4733, BBl 2018 2527) und Rechtsprechung (BGE 148 II 299, BGE 142 II 283, BGE 138 II 32, BGE 125 II 113, BGE 122 II 446) ausgewertet und eingearbeitet."
 ---
 

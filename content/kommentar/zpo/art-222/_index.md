@@ -5,32 +5,26 @@ date: 2026-07-18
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 222 ZPO: Fristansetzung und Fristerstreckung zur Klageantwort, substanziierte Bestreitungslast im Wechselspiel zur Klageschrift (BGE 144 III 519), Grenzen des Bestreitens mit Nichtwissen (BGer 4A_489/2024), Beschränkung auf Einzelfragen (Art. 125 ZPO, BGE 146 III 55), Widerklageerhebung (BGE 146 III 413) sowie Säumnisfolgen und Nachfrist (BGE 138 III 483) — mit umfassender Kasuistik zu Werklohn-, Bau- und Honorarstreitigkeiten."
 tags: ["ZPO", "Ordentliches Verfahren", "Klageantwort", "Bestreitungslast", "Substanziierung", "Bestreiten mit Nichtwissen", "Widerklage", "Beschränkung", "Säumnis", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-222.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Leitfaden: Prüfschema mit 7 Merkmalen, detaillierte Auswertung der Leitentscheide BGE 144 III 519 (Bauunternehmer-Schlussrechnung über CHF 84'507.45) vs. BGer 4A_443/2017 (Architektenhonorar über CHF 39'594.95; Diskrepanzen genügen zur Bestreitung), BGer 4A_489/2024 zum Bestreiten mit Nichtwissen, BGE 140 III 159 (Fristansetzung vor Kostenvorschuss), BGE 146 III 413 (Widerklage-Verwirkung), BGE 146 III 55 (Verfahrensbeschränkung und Novenrecht), BGE 144 III 67 und BGE 138 III 483 (Säumnisnachfrist). Einarbeitung kantonaler Praxis (SG KG BO.2023.40-K3, LU KG 3B 21 16, ZH OG RB230001, ZH HG HG180206 und HG190142) sowie strukturierter Kasuistiktabellen und adressatenbezogener Praxishinweise."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Umfassende Einarbeitung des Leitentscheids BGE 144 III 519 zur Bestreitungslast, Kasuistik zu Werklohn- und Honorarabrechnungen, Widerklage (BGE 146 III 413), Säumnis (BGE 138 III 483) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Belegapparat saniert (Belegquote 12 % → 92 %, Urteil A); Aussage zur Bestreitungslast auf die tragende Erwägung (4A_443/2017 E. 4.1) umgestellt und um die Wechselwirkung zwischen Substanziierungs- und Bestreitungsgrad ergänzt; nicht tragende Belege entfernt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 12 % (Urteil C); 1 von 21 Paaren gestützt; 17 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

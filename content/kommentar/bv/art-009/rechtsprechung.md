@@ -5,27 +5,22 @@ date: 2026-05-24
 lastmod: "2026-09-25"
 description: "Übersicht der Entscheide zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz"
 tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Beweiswürdigung", "Unschuldsvermutung"]
-agent_verified: false
 revisions:
   - date: 2026-09-25
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Umfassender Ausbau: 23 neue BGer/BGE-Entscheide aus 6 Recherche-Subagenten. Belege gegen den Entscheidtext geprüft. OCL-URLs auf entscheidsuche.ch umgestellt."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Entscheidblöcke der Vorfassung überwiegend entfernt — fünf Referenzen existierten nicht, neun Pinpoints zeigten ins Leere, zwei Links trugen ein falsches Präfix. Neu aufgebaut aus einzeln geprüften Entscheiden."
   - date: 2026-08-11
     by: "Claude Code"
     model: "unbekannt"
-    mcp_verified: false
     note: "bger.ch → opencaselaw.ch Links umgestellt (Commit bc283a7) — kosmetisch, ohne Prüfung der Zitate"
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — beim Audit vom 2026-08-11 überwiegend als unbelegt verworfen"
 ---
 

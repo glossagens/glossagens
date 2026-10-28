@@ -5,22 +5,18 @@ date: 2026-06-20
 lastmod: 2026-08-21
 description: "Übersicht der via opencaselaw-MCP verifizierten Entscheide zu Art. 136 StPO – unentgeltliche Rechtspflege für Privatklägerschaft und Opfer"
 tags: ["Rechtsprechung", "StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Opferhilfegesetz"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 21 %). Der einleitende «Wichtige Hinweis» war falsch: Art. 136 betraf schon vor der Revision 2024 die unentgeltliche Rechtspflege der Privatklägerschaft, nicht den Widerruf der amtlichen Verteidigung. Die darauf aufbauende Rubrik «Alt-Art. 136 → Art. 134» ist entfallen. BGE 141 I 49 (Familiennachzug nach AuG) entfernt; BGE 131 I 350 und BGE 143 I 164 neu als Abgrenzung zur Verteidigung des Beschuldigten eingeordnet. Neu aufgenommen: BGE 143 IV 154 und BGE 141 IV 262."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Sofortmassnahme: drei nicht existierende BGE und vier fehlerhafte Pinpoints entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-06-20
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

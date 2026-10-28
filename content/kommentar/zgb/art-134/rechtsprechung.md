@@ -5,12 +5,10 @@ date: "2026-08-28"
 lastmod: "2026-08-28"
 description: "Übersicht der Rechtsprechung zu Art. 134 ZGB – Abänderung von Scheidungsurteilen betreffend elterliche Sorge, Obhut, Kindesunterhalt und Besuchsrecht sowie Zuständigkeit zwischen Zivilgericht und KESB"
 tags: ["Rechtsprechung", "ZGB", "Elterliche Sorge", "Obhut", "Kindesunterhalt", "Besuchsrecht", "KESB", "Scheidung"]
-agent_verified: false
 revisions:
   - date: 2026-08-28
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung der Rechtsprechungsübersicht zu Art. 134 ZGB mit 6 BGE-Leitentscheiden und 8 weiteren Bundesgerichts- und kantonalen Entscheiden"
 ---
 

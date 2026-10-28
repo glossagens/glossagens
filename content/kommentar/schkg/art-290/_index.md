@@ -5,12 +5,10 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Praxiskommentar zu Art. 290 SchKG: Passivlegitimation der Anfechtungsklage — Vertragspartner, materiell Begünstigte, Gesamtnachfolger (Erben/Fusion), bösgläubige Sonderrechtsnachfolger und Schutz gutgläubiger Dritter."
 tags: ["SchKG", "Passivlegitimation", "Begünstigter", "Erben", "Rechtsnachfolger", "Bösgläubige Dritte", "Gutglaubensschutz"]
-agent_verified: true
 revisions:
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung als praxisorientierter Praxiskommentar: Systematische Aufbereitung der Passivlegitimation, BBl-Materialien (1991 III 1), Unterscheidung zwischen formellem Vertragspartner und tatsächlich Begünstigtem (BGE 135 III 265), Universalsukzession, Kriterien für die Bösgläubigkeit dritter Einzelerwerber (BGE 130 III 235, BGE 135 III 513), absoluter Schutz gutgläubiger Dritter und Praxishinweise."
 ---
 

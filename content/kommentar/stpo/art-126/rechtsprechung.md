@@ -5,17 +5,14 @@ date: 2026-07-11
 lastmod: 2026-08-21
 description: "Übersicht der Entscheide zu Art. 126 StPO – Entscheid (Zivilklage)"
 tags: ["Rechtsprechung", "StPO", "Zivilklage", "Adhäsionsverfahren", "Verweisung Zivilweg"]
-agent_verified: true
 revisions:
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit (Belegquote 27 %). Alle Referenzen existieren und treffen thematisch zu; sechs Erwägungsangaben verwiesen auf Elternnummern ohne Entsprechung im Volltext und sind auf die zutreffenden Untererwägungen präzisiert. Fehlender revisions-Block ergänzt; Prüfvermerk dokumentiert."
   - date: 2026-07-11
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Ursprüngliche Fassung (nachträglich dokumentiert)."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-10-16
 lastmod: 2026-10-16
 description: "Praxiskommentar zu Art. 6 UWG: Geheimnisbegriff, unrechtmässiges Erfahren (Auskundschaften), Verwerten und Mitteilen, Abgrenzung zur freien Nutzung von Arbeitnehmerwissen und Kundenbeziehungen, Verhältnis zu Art. 4 lit. c UWG und Art. 162 StGB — mit Sachverhalten aus der Praxis des Bundesgerichts."
 tags: ["UWG", "Lauterkeitsrecht", "Geschäftsgeheimnis", "Fabrikationsgeheimnis", "Arbeitnehmer", "Kundendaten", "Art. 5 UWG", "Art. 321a OR", "Art. 162 StGB"]
-agent_verified: false
 revisions:
   - date: 2026-10-16
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Erstkommentar als Praxiskommentar. Gesetzeswortlaut per Shortcode aus Fedlex (SR 241, Stand 2025-01-01; data/wortlaut/uwg/art-006.json). Die zitierten Entscheide wurden über entscheidsuche.ch im Volltext gelesen und auf die Aussage geprüft, für die sie angeführt sind; Links aus den Feldern content_url der Treffer, Anker nur bei BGE mit vorhandener Erwägungsnummer. Ältere BGE (vor 2011) sind nur für materielle Aussagen verwendet. Kein Audit-Lauf (Judge-Ledger) und keine Prüfung der Literatur; daher mcp_verified: false."
 ---
 

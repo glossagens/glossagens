@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 642 ZGB — Bestandteile der Sache und Accessionsprinzip: Eigentümer der Hauptsache hat Eigentum an allen Bestandteilen; Bestandteilsbegriff (äussere und innere dauernde Verbindung, Nicht-Trennbarkeit ohne Zerstörung), Abgrenzung zu Zubehör (Art. 644) und natürlichen Früchten (Art. 643), Grundstück-Bestandteile (Art. 667, 655) und Fahrnisbaute (Art. 677), Verbindung/Vermischung/Verarbeitung (Art. 725-727), Tiere (Art. 641a) und Bauhandwerkerpfandrecht (Art. 837) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Bestandteil", "Accessionsprinzip", "Einheitsprinzip", "Zubehör", "Früchte", "Fahrnisbaute", "Grundstück", "Verbindung", "Bauhandwerkerpfandrecht", "Tiere"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-642.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 642, 643, 644, 667, 677, 725, 726, 727 ZGB; sowie Art. 641, 641a, 655 ZGB aus den Vorarbeiten. 10 Entscheide via entscheidsuche.ch geprüft, davon 6 im Volltext abgerufen (BGE 92 II 227, 100 II 8, 102 II 197, 106 II 333, 109 II 99, 132 III 651; BE SRK 100 2016 75, AG OG ZOR.2026.5, ZH OG NG220003, LU VWG V 12 98 via Such-Snippets). Links verbatim aus document_url-Feldern übernommen."
 ---
 

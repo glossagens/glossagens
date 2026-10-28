@@ -21,12 +21,10 @@ normen:
   - { gesetz: zgb, art: art-389 }
   - { gesetz: zgb, art: art-390 }
 stichworte: ["Vorsorgeauftrag", "Erwachsenenschutz", "Selbstbestimmungsrecht", "Urteilsunfähigkeit", "Personensorge", "Vermögenssorge", "Vertretung im Rechtsverkehr", "Validierung", "KESB", "Formvorschriften", "Eigenhändigkeit", "öffentliche Beurkundung", "Eignungsprüfung", "Behördliche Massnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung Querschnittsthema Vorsorgeauftrag nach Skill glossagens-themen (Typ grundlage). Normtexte des ZGB per {{< wortlaut >}} aus der Fedlex-Konsolidierung (scripts/wortlaut.py). Volltexte von entscheidsuche.ch geladen; Erwägungsnummern, Anker und Zitate maschinell abgeglichen (pruefen.py)."
 ---
 

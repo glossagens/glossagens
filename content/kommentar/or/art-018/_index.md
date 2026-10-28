@@ -5,22 +5,18 @@ date: 2026-09-11
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 18 OR: Vertragsauslegung (subjektive Auslegung, Vertrauensprinzip, falsa demonstratio non nocet, Lückenfüllung, AGB-Kontrolle) und Simulation (Scheingeschäft, dissimulierter Vertrag, Falschbeurkundung, Abgrenzung zu Treuhand und Umgehung, Schutz gutgläubiger Dritter nach Abs. 2) mit ausführlicher Kasuistik der Gerichte."
 tags: ["OR", "Vertragsrecht", "Vertragsauslegung", "Simulation", "Scheingeschäft", "Vertrauensprinzip", "falsa demonstratio", "dissimuliertes Geschäft", "Beweislast", "Grundstückkauf", "AGB"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 220 vom 2026-10-01 (data/wortlaut/or/art-018.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 96 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-09-12 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-12
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "BGer 4A_262/2026 in rechtsprechung.md ergänzt: Präzisierung zu Art. 18 Abs. 1 OR — ohne tatsächlichen und normativen Konsens entfällt die Passivlegitimation."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Ersterstellung als Praxiskommentar gemäss Standard Art. 110 StPO und Art. 336 OR: Vollständiges Prüfschema der Tatbestandsmerkmale, zweiseitige Kasuistik, narrative Sachverhalte (u.a. BGE 151 II 794, BGE 148 III 57, BGE 144 III 93, BGE 112 II 337, BGer 4A_356/2023, BGer 4C.54/2002, SH OG 10/2023/3, ZH OG NE210005, SZ KG ZK1 2023 26), Kasuistiktabellen und Praxishinweise."
 ---
 

@@ -5,17 +5,14 @@ date: 2026-09-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 187 StGB: Sexuelle Handlungen mit Kindern unter 16 Jahren, Qualifikation unter 12 Jahren, Altersdifferenz-Klausel (3 Jahre), Irrtumsregelung und Konkurrenzen."
 tags: ["StGB", "Sexualstrafrecht", "Kindesschutz", "Sexuelle Integrität", "Schutzalter"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 311.0 vom 2026-10-01 (data/wortlaut/stgb/art-187.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 187 StGB auf Basis der Revision des Sexualstrafrechts (in Kraft seit 1. Juli 2024); Einarbeitung von BGer 7B_316/2026 vom 14. Juli 2026 / 1. September 2026 sowie der Leitentscheide BGE 146 IV 153 und BGE 131 IV 107."
 ---
 

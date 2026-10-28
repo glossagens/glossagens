@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 646 ZGB — Grundnorm des Miteigentums: Eigentum mehrerer Personen an einer Sache nach Bruchteilen (Quoten), gleiche Teile bei Fehlen anderweitiger Feststellung, Rechte und Pflichten am Anteil (veräusserbar, verpfändbar, pfändbar), Verwaltung und Benutzung (Art. 647), Verfügung einstimmig (Art. 648), Lasten und Ausgleich (Art. 649), Aufhebung/Teilung (Art. 650/651), gesetzliches Vorkaufsrecht der Miteigentümer (Art. 682), Miteigentum vs. Gesamteigentum, Miteigentum an Grundstücken/Stockwerkeigentum und Miteigentümer-Klage mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Miteigentum", "Bruchteil", "Quote", "Anteil", "Aufhebung", "Teilung", "Vorkaufsrecht", "Verwaltung", "Ausgleich", "Eigentumsfreiheitsklage", "Stockwerkeigentum"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-646.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestexte via Fedlex-MCP (Konsolidierung 2026-07-01) verifiziert: Art. 646, 647, 648, 649, 650, 651, 682 ZGB; sowie Art. 641, 642, 655, 714 ZGB aus den Vorarbeiten. 10 Entscheide via entscheidsuche.ch geprüft, davon 6 im Volltext abgerufen (BGE 80 II 369, 95 II 397, 98 II 341, 101 II 235, 130 III 306; BGer 5A_174/2015; ZH OG LB230022; ZH OG LB120088, ZH HG HG220143, GR KG ZK1 2019 144 via Such-Snippets/Vorarbeiten). Links verbatim aus document_url-Feldern übernommen."
 ---
 

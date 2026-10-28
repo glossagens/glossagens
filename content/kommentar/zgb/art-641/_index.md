@@ -5,17 +5,14 @@ date: "2026-09-13"
 lastmod: 2026-10-15
 description: "Praxisorientierter Kommentar zu Art. 641 ZGB — Inhalt des Eigentums (Verfügung und Benutzung), Schranken der Rechtsordnung und Eigentumsgarantie (Art. 26 BV), Herausgabeanspruch (Vindikation) und Abwehr ungerechtfertigter Einwirkungen (actio negatoria) mit Kasuistik aus Bundesgericht und kantonaler Praxis."
 tags: ["ZGB", "Sachenrecht", "Eigentum", "Vindikation", "actio negatoria", "Eigentumsfreiheitsklage", "Eigentumsgarantie", "Nachbarrecht", "Beweislast", "Tiere"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 210 vom 2026-07-01 (data/wortlaut/zgb/art-641.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: "2026-09-13"
     by: "Claude Code"
     model: "glm-5.2:cloud"
-    mcp_verified: true
     note: "Ersterstellung als praxisorientierter Kommentar. Gesetzestext via Fedlex-MCP (Konsolidierung 2026-07-01), 12 Entscheide via opencaselaw (Regesten/Erwägungen) und entscheidsuche.ch (Links) verifiziert. Art. 641a und Art. 26 BV fedlexverifizigt. Botschaft zu Art. 641 im digitalen Korpus nicht vorhanden (ZGB 1907, Huber-Botschaft 1904) — ehrlich ausgewiesen. Grounding-Audit (attest_response, audit_grounding=true): alle Zitate und Normreferenzen resolviert, 0 Issues; vier verbatim-Erwägungen nach get_erwaegung-Abgleich korrigiert (editorische Auslassungen entfernt)."
 ---
 

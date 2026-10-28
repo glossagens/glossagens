@@ -5,22 +5,18 @@ date: 2026-05-24
 lastmod: "2026-10-23"
 description: "Übersicht der Entscheide zu Art. 5 BV — Legalitätsprinzip, Verhältnismässigkeit, Treu und Glauben, Völkerrecht"
 tags: ["Rechtsprechung", "BV", "Legalitätsprinzip", "Verhältnismässigkeit", "Treu und Glauben", "Völkerrecht"]
-agent_verified: false
 revisions:
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: false
     note: "Ausbau: 14 Entscheide neu aufgenommen (Normstufe, Bestimmtheit, Polizeigeneralklausel, Vertrauensschutz, Rügeobliegenheit, Vorrang des Völkerrechts); Kernaussagen gegen den Volltext auf entscheidsuche.ch abgeglichen, Links auf entscheidsuche.ch. Datumsangaben zu BGE 139 I 16 und BGE 138 I 97 korrigiert."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: elf Entscheidblöcke der Erstfassung entfernt — sechs Referenzen existierten nicht, die übrigen trugen die zugeschriebenen Kernaussagen nicht (check_claim_support: 0× yes, 7× unrelated). Neu aufgebaut aus einzeln geprüften Entscheiden."
   - date: 2026-05-24
     by: "Hermes Agent"
     model: "unbekannt"
-    mcp_verified: false
     note: "Erstfassung — beim Audit vom 2026-08-11 als unbelegt verworfen"
 ---
 

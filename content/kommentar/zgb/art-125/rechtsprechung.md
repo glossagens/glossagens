@@ -5,12 +5,10 @@ date: "2026-05-24"
 lastmod: "2026-08-28"
 description: "Übersicht der massgeblichen Entscheide des Bundesgerichts und der kantonalen Gerichte zu Art. 125 ZGB – Nachehelicher Unterhalt."
 tags: ["Rechtsprechung", "ZGB", "Familienrecht", "Unterhalt", "Nachehelicher Unterhalt"]
-agent_verified: false
 revisions:
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Systematische Ergänzung von BGer-Leitentscheiden (BGE 147 III 249/293/308, 150 III 305, 151 III 9) und kantonalen Leiturteilen (SG, BL, LU, ZH)."
 ---
 

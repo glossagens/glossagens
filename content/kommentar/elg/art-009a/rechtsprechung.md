@@ -5,7 +5,6 @@ date: 2026-07-17
 lastmod: "2026-07-18"
 description: "Leitentscheide und weitere Rechtsprechung zu Art. 9a ELG — Vermögensschwelle, anrechenbares Vermögen, Nutzniessung am Nachlass, Verzichtsvermögen."
 tags: ["Rechtsprechung", "ELG", "Vermögensschwelle", "anrechenbares Vermögen", "Nutzniessung"]
-agent_verified: true
 ---
 
 # Rechtsprechung zu Art. 9a ELG — Voraussetzungen hinsichtlich des Vermögens

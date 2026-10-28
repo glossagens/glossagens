@@ -5,12 +5,10 @@ date: "2026-08-30"
 lastmod: "2026-08-30"
 description: "Übersicht der Rechtsprechung zu Art. 315 StPO – Wiederanhandnahme einer sistierten Strafuntersuchung, Pflicht zur Fortführung von Amtes wegen und Ausschluss von Rechtsmitteln."
 tags: ["Rechtsprechung", "StPO", "Wiederanhandnahme", "Staatsanwaltschaft", "Sistierung", "Verfahrensfortsetzung", "Beschleunigungsgebot", "Vorverfahren"]
-agent_verified: true
 revisions:
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 315 StPO mit 20 verifizierten Entscheiden (BGE, BGer, kantonal)."
 ---
 

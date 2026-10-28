@@ -5,27 +5,22 @@ date: 2026-07-19
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 150 ZPO: Beweisgegenstand im Zivilprozess — Rechtserhebliche und streitige Tatsachen, Verbot der Beweisausforschung, Privatgutachten und ausländisches Recht."
 tags: ["ZPO", "Beweisgegenstand", "Beweisrecht", "Tatsachen", "Beweisausforschung", "Kasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-150.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 95 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung von Rechtserheblichkeit und Streitigkeit, Verbot der Beweisausforschung (BGE 147 III 139), Privatgutachten (BGE 141 III 433), ausländisches Recht (Art. 150 Abs. 2) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 25 % → 100 %, Urteil A); Pinpoint für BGE 141 III 433 von «E. 2» (Regeste-Abschnittszeiger) auf E. 2.5.2 korrigiert; kantonale Entscheide entlinkt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 25 % (Urteil C); 0 von 14 Paaren gestützt; 7 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-10-24
 description: "Übersicht der Entscheide zu Art. 18 ZGB — Urteilsunfähigkeit und Handlungsfähigkeit."
 tags: ["Rechtsprechung", "ZGB", "Urteilsfähigkeit", "Nichtigkeit", "Beweislast", "Gesellschaftsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme von AG Handelsgericht HSU.2026.22 vom 13.10.2026 zur Nichtigkeit von GV-Beschlüssen bei relativer Urteilsunfähigkeit des Nutzniessers von Aktien."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht mit 12 geprüften Leit- und weiteren Bundesgerichts- sowie kantonalen Entscheiden"
 ---
 

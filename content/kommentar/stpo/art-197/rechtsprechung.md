@@ -5,17 +5,14 @@ date: "2026-07-04"
 lastmod: "2026-08-09"
 description: "Übersicht der Entscheide zu Art. 197 StPO: Grundsätze der Zwangsmassnahmen."
 tags: ["Rechtsprechung", "Zwangsmassnahmen", "Verhältnismässigkeit", "Tatverdacht", "gesetzliche Grundlage", "Subsidiarität", "Drittbetroffene"]
-agent_verified: true
 revisions:
   - date: "2026-08-09"
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Ergänzung um 8 weitere OCL-verifizierte Entscheide (total 18 BGE + 2 BGer = 20)"
   - date: "2026-07-04"
     by: "Hermes Agent"
     model: "claude-opus-4-8"
-    mcp_verified: true
     note: "Ersterstellung mit 10 Entscheiden"
 ---
 

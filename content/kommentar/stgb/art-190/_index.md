@@ -5,22 +5,18 @@ date: 2026-07-04
 lastmod: "2026-08-31"
 description: "Kommentar zu Art. 190 StGB: Vergewaltigung nach neuem Sexualstrafrecht (seit 1. Juli 2024) — Grundtatbestand (Widerspruchsprinzip Nein heisst Nein / Schockzustand, Abs. 1), Nötigungsqualifikation (Abs. 2) und schwere Qualifikation (Grausamkeit / Waffen, Abs. 3)."
 tags: ["StGB", "Vergewaltigung", "Sexualstrafrecht", "Konsensprinzip", "Nein heisst Nein", "Schockzustand", "Nötigung", "Besonderer Teil"]
-agent_verified: true
 revisions:
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Sachverhaltsanreicherung und Link-Korrektur: BGE 148 IV 234 (Paradigmenwechsel, Istanbul-Konvention), BGE 147 IV 409 (Beweiswürdigung, Aussage gegen Aussage, 13 Monate Anzeigeverzögerung), BGE 127 IV 198 (teleologische Auslegung, aktive Vornahme), BGE 126 IV 124 (Vergewaltigung in der Ehe, Psychoterror), BGE 131 IV 107 (strukturelle Abhängigkeit allein genügt nicht), BGE 124 IV 154 (Konkurrenz zum Kindsmissbrauch), BGE 128 IV 97 (relative Gewaltsuffizienz), BGer 6B_776/2016 (Vorsatz bezüglich fehlenden Einverständnisses), BGer 6B_1056/2016 (Zwangslage und situatives Überraschungsmoment); alle Links durch entscheidsuche.ch ersetzt (ZH SB190472 als Rückfall opencaselaw); Gesetzeswortlaut → Wortlaut korrigiert"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung der Überschriftenstruktur im Gesetzeswortlaut-Block und Behebung von Pinpoint-Bleed-Fehlern; 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP eingepflegt."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

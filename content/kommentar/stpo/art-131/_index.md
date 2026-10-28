@@ -5,17 +5,14 @@ date: "2026-08-29"
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 131 StPO: Sicherstellung der notwendigen Verteidigung, Zeitpunkt der Bestellung (Revision 2024), Erkennbarkeit, Verwertungsverbote bei Beweiserhebungen vor Beizug, Fernwirkung und kantonale Gerichtspraxis."
 tags: ["StPO", "notwendige Verteidigung", "Sicherstellung", "Verwertungsverbot", "Erkennbarkeit", "Einvernahme", "Waffengleichheit", "Fernwirkung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-131.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-29 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Neuerstellung und praxisorientierter Ausbau: Detaillierte Kommentierung von Abs. 1–3, StPO-Revision per 1.1.2024, Kasuistik mit konkreten Gerichtsentscheiden (BGE 141 IV 289, BGE 143 I 164, BGE 138 IV 35, BGer 6B_178/2017, BGer 6B_75/2019, BGer 6B_1069/2015, BGer 7B_759/2023) sowie kantonale Praxisfragen (SG, TG, SO, BL)."
 ---
 

@@ -5,12 +5,10 @@ date: 2026-06-28
 lastmod: 2026-08-16
 description: "Übersicht der Entscheide zu Art. 30 VwVG – Anhörung der Parteien"
 tags: ["Rechtsprechung", "VwVG", "rechtliches Gehör", "Anhörung", "Parteianhörung"]
-agent_verified: true
 revisions:
   - date: 2026-08-16
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil B, 72%, 0 offene Befunde): revisions-Block fehlte vollständig (Strukturfehler), ergänzt. BGE 131 II 670 Kernaussage korrigiert (tatsächlich Gehörsverletzung durch fehlende Protokollierung, Art. 29 Abs. 2 BV, E. 4.3, nicht Art. 30 Abs. 2 lit. e VwVG). 1C_437/2016 Kernaussage korrigiert (kumulative Voraussetzungen von lit. e, tatsächlich bejaht statt 'restriktiv ausgelegt'). 1C_737/2025 als themenfremdes Fehlzitat entfernt. 1C_435/2024 Kernaussage an E. 4.4 angepasst. Mehrere Pinpoints auf korrekte Erwägungsnummern mit URL-Anker umgestellt."
 ---
 

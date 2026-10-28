@@ -22,12 +22,10 @@ normen:
   - { gesetz: fzg, art: art-002 }
   - { gesetz: fzg, art: art-005 }
 stichworte: ["Berufliche Vorsorge", "BVG", "FZG", "Pensionskasse", "2. Säule", "Eintrittsschwelle", "Koordinierter Lohn", "Umwandlungssatz", "Kapitalbezug", "Kapitalabfindung", "Barauszahlung", "Altersgutschriften", "Freizügigkeitsleistung", "Art. 73 BVG"]
-agent_verified: true
 revisions:
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Verfassungs- und Gesetzeswortlaute (Art. 113 BV; Art. 2, 7, 8, 13, 14, 15, 16, 37, 37a, 73 BVG; Art. 2, 5 FZG) per {{< wortlaut >}} aus amtlicher Fedlex-Quelle eingebunden (scripts/wortlaut.py). 14 Leitentscheide von entscheidsuche.ch im Volltext verifiziert; Erwägungsnummern, Anker (#consideration_...) und wörtliche Zitate «...» vollständig mechanisch abgeglichen (pruefen.py ohne Befund)."
 ---
 

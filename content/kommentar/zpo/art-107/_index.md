@@ -5,27 +5,22 @@ date: 2026-05-23
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 107 ZPO: Ermessensweise Verteilung der Prozesskosten in Abweichung vom Unterliegerprinzip — teilweises Obsiegen bei Schätzungsansprüchen (lit. a), Gutglaubensprozesse (lit. b), Familienrecht (lit. c/d), Gegenstandslosigkeit (lit. e), Billigkeitskorrektiv bei vorsorglicher Beweisführung und Notwegrecht (lit. f), gesellschaftsrechtliche Minderheitsklagen (Abs. 1bis) sowie Kostenauflage an den Kanton (Abs. 2) mit detaillierter Grenzkasuistik und taktischen Praxishinweisen."
 tags: ["ZPO", "Prozesskosten", "Ermessensverteilung", "Unterliegerprinzip", "Familienrecht", "Gegenstandslosigkeit", "Vorsorgliche Beweisführung", "Billigkeit", "Kantonale Gerichtskosten", "Gesellschaftsrecht"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 272 vom 2026-07-01 (data/wortlaut/zpo/art-107.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger praxisorientierter Ausbau gemäss Skill praxisorientierter-kommentar (Referenzmuster Art. 110 StPO und Art. 336 OR). Gesetzestext verbatim aus Fedlex (SR 272, Stand 1. Juli 2026) inkl. Abs. 1bis und Fussnote 65. Sämtliche Entscheide im Volltext über entscheidsuche.ch gesichtet und belegt: BGE 140 III 30, BGE 139 III 358, BGE 141 III 426, BGE 143 III 46, BGE 138 III 471, BGE 143 III 261, BGE 142 III 110, BGE 148 III 182, BGE 139 III 33 sowie BGer 4A_576/2025, 4A_430/2019, 4A_207/2015, 4A_24/2019, 4A_222/2022, 5D_55/2015 und kantonale Entscheide (ZH, GR). Grenzkasuistik, Judikaturwidersprüche, Fallvergleichstabellen, zwei kantonale Praxisfragen und adressatenbezogene Praxishinweise integriert."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Rechtsprechungsübersicht neu aufgebaut (Bundle-Belegquote 33 % → 100 %, Urteil A); in der systematischen Einordnung die unzutreffende Herleitung aus Art. 29 BV (rechtliches Gehör) und dem diskriminierungsfreien Zugang zum Recht durch den tatsächlichen Normzweck ersetzt"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 33 % (Urteil C); 3 von 27 Paaren gestützt; 12 ungestützt; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

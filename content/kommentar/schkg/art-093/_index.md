@@ -5,27 +5,22 @@ date: 2026-09-01
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 93 SchKG: Lohn- und Erwerbseinkommenspfändung, Existenzminimum, Notbedarfsberechnung, Einjahresfrist, Anpassung bei veränderten Verhältnissen, Direktüberweisung von Krankenkassenprämien (Abs. 4), Säule 3a, BVG-Freizügigkeitsleistungen, IV-Taggelder, Grenzkasuistik."
 tags: ["SchKG", "Lohnpfändung", "Existenzminimum", "Notbedarf", "Erwerbseinkommen", "Krankenkassenprämien", "Einkommenspfändung", "Säule 3a", "BVG", "IV-Taggelder", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-093.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17–22 neu (Säule 3a und BVG-Freizügigkeitsleistungen BGE 121 III 285/BGE 120 III 71, IV-Taggelder BGE 130 III 400, Beschwerdelegitimation Drittschuldner, AHV-Renten und pfändbare Quote BGer 5A_605/2016, gemeinsames Existenzminimum BGer 5A_306/2018); rechtsprechung.md um 3 neue BGE-Leitentscheide und 2 BGer-Entscheide ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-9 überarbeitet und vertieft (Erfasste Einkünfte, Notbedarfsberechnung, Einjahresfrist, Anpassung, Direktüberweisung), Rz. 10-16 Grenzkasuistik (tatsächlich bezahlte Beträge, Steuern im Notbedarf, Krankenkassenprämien, BVG-Leistungen, Konkubinat, Mitwirkungspflicht, Privatschule); BGE 121 III 20, BGE 134 III 323, BGE 140 III 337, BGE 119 III 70, BGE 113 III 10, BGE 128 III 159, BGE 140 III 485 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Neuerstellung des Praxiskommentars zu Art. 93 SchKG unter Einschluss von Abs. 4 (in Kraft seit 1. Juli 2024); Einarbeitung von BGer 5A_131/2026 sowie BGE 128 III 159 und BGE 113 III 10."
 ---
 

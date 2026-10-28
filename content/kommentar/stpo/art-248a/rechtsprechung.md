@@ -5,37 +5,30 @@ date: "2024-01-01"
 lastmod: "2026-10-26"
 description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug, Triage-Pflichten)."
 tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "BGer 7B_815/2026", "BGer 7B_978/2025"]
-agent_verified: false
 revisions:
   - date: "2026-10-26"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme des Leitentscheids BGer 7B_978/2025 vom 13.10.2026 (publiziert 26.10.2026): Verbot der Auslagerung der inhaltlichen Triage an die Polizei gemäss Art. 248a Abs. 6 lit. b StPO, Unzulässigkeit hybrider Entsiegelungsentscheide sowie zeitliche Beschränkung der Entsiegelung bei Smartphones bei mittelschwerer Kriminalität (BGE 151 IV 350)."
   - date: "2026-10-22"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme des Leitentscheids BGer 7B_815/2026 vom 07.10.2026: Substanziierungsobliegenheit beim Anwaltsgeheimnis (Namens- und E-Mail-Nennung genügt für gerichtliche Triage, Verbot unbegründeter zeitlicher Begrenzungen durch das ZMG), Abgrenzung beim Arztgeheimnis sowie Triage-Pflichten."
   - date: "2026-09-22"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Nachführung mit BGer 7B_270/2025 und 7B_271/2025 vom 02.09.2026 (zweite Rückweisung im I.________ Funds-Verfahren nach 7B_486/2024): Gehörsverletzungen bei der Datentriage durch unzureichende Individualisierung/Auflistung der freigegebenen Dateien (E. 4.3), fehlende Fristansetzung zur Stellungnahme zu Sachverständigenberichten gemäss Art. 188 StPO (E. 4.4) und unbegründetes Abweichen von der mündlichen Triageverhandlung nach Art. 248a Abs. 5 StPO (E. 4.5)."
   - date: "2026-09-10"
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Praxisorientierter Ausbau des Hauptkommentars: dabei zwei Einträge korrigiert, die ein falsches Ergebnis bzw. einen falschen Sachverhalt trugen. Block 8 (BGer 7B_486/2024) behauptete eine 'Triageverhandlung unter Beizug eines externen IT-Forensikers' — der Entscheid betrifft tatsächlich eine Gehörsverletzung mangels Akteneinsicht in 54 Mio. sichergestellte Objekte (E. 4.4); neu mit korrektem Kernsatz/Sachverhalt dokumentiert. Block 9 (BGer 7B_245/2026) behauptete 'Das Bundesgericht wies die Rüge ab' — tatsächlich wurde die Beschwerde gutgeheissen, weil das ZMG ein Kompetenzzentrum statt einer natürlichen Person als Sachverständige bezeichnet und Entsiegelung/Triage unzulässig vermengt hatte (E. 4.3, E. 5.2); neu dokumentiert. Beide Fehler betrafen unlinked Sachverhalts-/Kernsatz-Zusammenfassungen, denen die frühere Audit-Runde mangels prüfbarem Behauptungssatz-Beleg-Paar kein Grounding-Urteil zugeordnet hatte — sie wurden erst beim Nachlesen des Volltexts für den praxisorientierten Ausbau entdeckt."
   - date: "2026-09-10"
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit-Nachbesserung: Fälschlich unter BGer 7B_419/2025 aufgeführte Erwägung E. 1.1 entfernt (Inhalt gehört zu BGer 7B_1170/2025, dort bereits korrekt dokumentiert). Datum/Link von BGer 7B_165/2026 (Block 15, vgl. auch 7B_133/2026) korrigiert: war 15.07.2026 auf mcp.opencaselaw.ch, korrekt 05.08.2026 auf entscheidsuche.ch (per search_by_case_number/fetch_document verifiziert). Die 6 vom Grounding-Judge als 'no'/'unrelated' markierten Kernsätze (BGE 151 IV 175 Regeste, BGE 151 IV 344, BGE 151 IV 350, BGE 151 IV 30, BGE 152 IV 107, BGE 148 IV 221) wurden einzeln geprüft: es sind durchweg Parser-Artefakte (unverlinkte 'Datum/Signatur'-Metadatenzeilen als Fallback-Behauptungssatz bzw. bei BGE 148 IV 221 ein Sachverhaltssatz aus Block 5, der die Praxisänderung nennt, aber gegen den abgelösten Präjudiz-Text statt gegen BGE 152 IV 107 E. 5.7 geprüft wurde) — kein inhaltlicher Fehlbeleg. agent_verified bleibt auf false, da das Gesamturteil des Bundles B (nicht A) ist; Details siehe audit-report.json."
   - date: "2026-09-02"
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungssammlung zu Art. 248a StPO; Gliederung in Leitentscheide und weitere Entscheide; 100% verifizierte entscheidsuche.ch-Links mit präzisen Erwägungen."
 ---
 

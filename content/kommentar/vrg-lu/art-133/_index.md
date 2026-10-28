@@ -5,17 +5,14 @@ date: 2026-09-06
 lastmod: 2026-10-15
 description: "Praxiskommentar zu § 133 VRG (Luzern): Begründungspflicht und Antragserfordernis der Rechtsmittelschrift, Grenzen der Nachholung im Schriftenwechsel, Verhältnis zum Rügegrundsatz und zur Untersuchungsmaxime, mit der Kasuistik der Luzerner Gerichte zu ausreichender und ungenügender Begründung."
 tags: ["VRG", "Luzern", "Begründungspflicht", "Rechtsmittelschrift", "Rügegrundsatz", "Nichteintreten", "Untersuchungsgrundsatz"]
-agent_verified: false
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus der LexWork-API der kantonalen Gesetzessammlung (SRL 40, Stand 2021-09-01; data/wortlaut/vrg-lu/art-133.json), inkl. Fassungsvermerken aus der Änderungstabelle. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-06 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-06
     by: Claude Code
     model: claude-opus-5
-    mcp_verified: true
     note: "Erstkommentierung. Gesetzeswortlaut aus SRL 40 (Stand 1.9.2021, srl.lu.ch). Sämtliche Entscheide über entscheidsuche.ch im Volltext gesichtet und verifiziert."
 ---
 

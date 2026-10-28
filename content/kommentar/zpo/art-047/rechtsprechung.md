@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: "2026-08-13"
 description: "Übersicht der Rechtsprechung zu Art. 47 ZPO — Anschein der Befangenheit, nebenamtliche und beisitzende Richter, pauschale Ausstandsgesuche, Entdeckung des Ausstandsgrunds nach Verfahrensabschluss."
 tags: ["Rechtsprechung", "ZPO", "Ausstand", "Befangenheit", "Art. 30 BV"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 29 %, Urteil C): Belegapparat verworfen und aus dem Zitiergraph neu aufgebaut; jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; ausgebaute Entscheide im Audit-Protokoll dokumentiert"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 29 % (Urteil C); 5 von 45 Paaren gestützt; 24 ungestützt; 3 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

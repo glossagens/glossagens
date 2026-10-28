@@ -5,33 +5,27 @@ date: 2026-05-24
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 106 SchKG: Drittrechte an gepfändeten Vermögenswerten — Vormerkung, Anmeldefrist, Verwirkung, Forderungspfändung, Eigentumsvorbehalt, Vermieterretention, Pfandverwertung, Vindikation nach Verwertung, Durchgriff, Grenzkasuistik."
 tags: ["SchKG", "Pfändung", "Drittanspruch", "Widerspruchsverfahren", "Eigentum", "Gewahrsam", "Durchgriff", "Vindikation", "Forderungspfändung", "Verwirkung", "Grenzkasuistik"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 281.1 vom 2026-01-01 (data/wortlaut/schkg/art-106.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-13 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 17–22 neu (Forderungspfändung und Verwirkung BGE 88 III 109/BGE 97 III 60, Pfandverwertung Analogie BGE 123 III 367, Grenzen der Vormerkung BGE 119 III 22, Vermieterretention BGE 81 III 7, Drittansprecher und Beschwerde BGE 112 III 75, Verrechnungseinrede BGE 120 III 18); rechtsprechung.md um 6 neue BGE-Leitentscheide ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: Rz. 1-7 überarbeitet, Rz. 8-12 (Kasuistik) zu Grenzkasuistik Rz. 8-16 umstrukturiert (Durchgriff, Arrest, Zwangsvollstreckungsimmunität, Leasing, Simulation, Fristansetzung), Praxisfragen ergänzt; BGE 134 III 122, BGE 144 III 541, BGE 135 III 663, BGE 114 III 92, BGE 120 III 123, BGer 5A_743/2021, BGer 5A_342/2020, BGer 5A_53/2020, BGer 5A_864/2013, BGer 5A_338/2017 integriert und auf entscheidsuche.ch verlinkt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisorientierte Anreicherung: Systematische Aufbereitung des Widerspruchsverfahrens, Vormerkungspflicht bei zweifelhaftem Eigentum (BGE 134 III 122), Durchgriff bei Strohmanngesellschaften (BGE 144 III 541), Vindikation nach Verwertung (Art. 934 ZGB) und 10+ verifizierte Entscheide auf entscheidsuche.ch."
   - date: "2026-08-13"
   - date: "2026-05-24"
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung"
 ---
 

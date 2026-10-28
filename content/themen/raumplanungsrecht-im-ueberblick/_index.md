@@ -20,12 +20,10 @@ normen:
   - { gesetz: rpg, art: art-024c }
   - { gesetz: rpg, art: art-025a }
 stichworte: ["Raumplanungsrecht", "Raumplanung", "Trennungsgrundsatz", "Bauzone", "Nichtbaugebiet", "Nutzungsplan", "Richtplan", "Sachplan", "Baubewilligung", "Erschliessung", "Standortgebundenheit", "Besitzstandsschutz", "Mehrwertabgabe", "Materielle Enteignung", "Verfahrenskoordination", "Gemeindeautonomie"]
-agent_verified: true
 revisions:
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Erstfassung nach Skill glossagens-themen (Typ institution). Normtexte Art. 75 BV sowie Art. 1, 14, 22 und 24 RPG per {{< wortlaut >}} (scripts/wortlaut.py). Elf Leitentscheide als Volltext von entscheidsuche.ch geladen; Erwägungsnummern, Anker und wörtliche Zitate gegen die HTML-Volltexte abgeglichen."
 ---
 

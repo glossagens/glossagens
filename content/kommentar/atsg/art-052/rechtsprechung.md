@@ -5,12 +5,10 @@ date: 2026-10-20
 lastmod: 2026-10-20
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 52 ATSG: Einspracheverfahren, Nachfristgrenzen bei Vertretung, Rechtsmissbrauchsverbot und Parteientschädigung."
 tags: ["Rechtsprechung", "ATSG", "Einsprache", "Nachfrist", "Rechtsmissbrauch"]
-agent_verified: true
 revisions:
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Systematische Aufbereitung der Rechtsprechung zu Art. 52 ATSG: 6 Leitentscheide des Bundesgerichts und 6 weitere Urteile (BGer und kantonal), alle verifiziert und mit Volltext verlinkt."
 ---
 

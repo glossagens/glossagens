@@ -5,7 +5,6 @@ date: 2026-05-17
 lastmod: 2026-09-09
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 123 StGB (einfache Körperverletzung): Leitentscheide des Bundesgerichts und kantonale Praxis zu Tatbestandsmerkmalen, Abgrenzung zur Tätlichkeit, Qualifikationen und Rechtfertigungsgründen."
 tags: ["Rechtsprechung", "StGB", "Körperverletzung", "Einwilligung"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

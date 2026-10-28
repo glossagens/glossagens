@@ -5,7 +5,6 @@ date: 2026-06-07
 lastmod: "2026-07-31"
 description: "Übersicht der Entscheide zu Art. 410 StPO — Zulässigkeit und Revisionsgründe"
 tags: ["Rechtsprechung", "StPO", "Revision", "Rechtskraft", "EMRK"]
-agent_verified: false
 ---
 
 Zurück zum Kommentar: [Art. 410 StPO — Zulässigkeit und Revisionsgründe](./)

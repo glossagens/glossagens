@@ -14,12 +14,10 @@ tags:
   - Verantwortlichkeit
   - Beamtenhaftung
   - Bund
-agent_verified: true
 revisions:
   - date: "2026-09-02"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Erstanlage der Gesetzesseite zum VG (SR 170.32)."
 ---
 

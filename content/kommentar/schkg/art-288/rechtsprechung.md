@@ -5,7 +5,6 @@ date: 2026-10-23
 lastmod: 2026-10-23
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 288 SchKG: Absichtsanfechtung, Gläubigerschädigung, Eventualvorsatz und Beweislastumkehr im Konzern."
 tags: ["Rechtsprechung", "SchKG", "Absichtsanfechtung", "Deliktspauliana", "Gläubigerbegünstigung", "Eventualabsicht", "Beweislastumkehr"]
-agent_verified: true
 ---
 
 ## I. Leitentscheide

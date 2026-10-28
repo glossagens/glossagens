@@ -5,17 +5,14 @@ date: 2026-08-08
 lastmod: "2026-08-14"
 description: "Übersicht der Rechtsprechung zu Art. 57 ZPO — Rechtsanwendung von Amtes wegen (iura novit curia), Grenzen durch Rügeprinzip, Dispositionsmaxime und Verhandlungsmaxime, Verhältnis zum rechtlichen Gehör."
 tags: ["Rechtsprechung", "ZPO", "iura novit curia", "Rechtsanwendung", "Amtes wegen", "Rügeprinzip", "Dispositionsmaxime"]
-agent_verified: false
 revisions:
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Neuaufbau nach Audit (Belegquote 19 %, Urteil C, 0 von 42 Paaren gestützt): Belegapparat verworfen; jede Kernaussage vor dem Schreiben per check_claim_support gegen die benannte Erwägung geprüft; die 19 Einträge der alten Fassung bestanden aus einem Sachgebiets-Label und einer den Entscheiden nicht entnehmbaren iura-novit-curia-Glosse"
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Audit des Bundles gegen opencaselaw-MCP: Belegquote 19 % (Urteil C); 0 von 42 Paaren gestützt; 26 ungestützt; 5 fehlerhafte Pinpoints; agent_verified zurückgesetzt; Belegapparat wird überarbeitet"
 ---
 

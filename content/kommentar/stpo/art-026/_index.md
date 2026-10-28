@@ -5,17 +5,14 @@ date: 2026-08-01
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 26 StPO — mehrfache Zuständigkeit: Abs. 1 Entscheidung der Bundesstaatsanwaltschaft bei Tatbegehung in mehreren Kantonen / im Ausland oder bei Wohnsitz der Beteiligten in verschiedenen Kantonen; Abs. 2 Vereinigung von Bundes- und kantonaler Gerichtsbarkeit; Abs. 3 Fortbestand der Gerichtsbarkeit; Abs. 4 Aktenaustausch bei Delegation. Verhältnis zu Art. 25 (Delegation), Art. 27 (erste Ermittlungen), Art. 28 (sachliche Zuständigkeit)."
 tags: ["StPO", "Zuständigkeit", "mehrfache Zuständigkeit", "Bundesgerichtsbarkeit", "Staatsanwaltschaft des Bundes", "Vereinigung von Verfahren", "Bundesstrafgericht", "kantonale Gerichtsbarkeit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-026.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-01 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-01
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuerstellung KW31 — Gesetzestext via OCL/Fedlex MCP, 12 Leitentscheide via OCL find_leading_cases + doctrine verifiziert (303 Gesamtzitationen; Schwerpunkt Bundesstrafgericht)."
   - date: 2026-08-13
     by: "Hermes Agent"

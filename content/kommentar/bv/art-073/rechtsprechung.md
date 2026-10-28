@@ -5,17 +5,14 @@ date: 2026-08-09
 lastmod: 2026-08-12
 description: "Übersicht der Entscheide zu Art. 73 BV — Nachhaltigkeit als Staatsziel; Prüfung kantonaler und kommunaler Volksinitiativen"
 tags: ["Rechtsprechung", "BV", "Nachhaltigkeit", "Staatsziel", "Volksinitiative", "Energiepolitik"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit (Belegquote 27 %, Urteil C): Dreizehn erfundene Referenzen entfernt — eine lückenlose Reihe BGE 134 II 332 bis 148 II 389, je eine pro Band. Neu aufgebaut auf die beiden verifizierten Art.-73-Entscheide BGE 149 I 291 und BGE 149 I 182."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Überarbeitet; das Ergebnis trug mcp_verified: true und enthielt dreizehn erfundene Referenzen"
 ---
 

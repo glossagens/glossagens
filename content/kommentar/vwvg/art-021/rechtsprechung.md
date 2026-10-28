@@ -5,12 +5,10 @@ date: 2026-10-15
 lastmod: 2026-10-15
 description: "Übersicht der massgebenden Rechtsprechung zu Art. 21 VwVG — Einhaltung von Fristen, Postaufgabe, Briefkasteneinwurf, Beweislast, unzuständige Behörden und Kostenvorschüsse."
 tags: ["Rechtsprechung", "VwVG", "Fristwahrung", "Postaufgabe", "Kostenvorschuss", "Unzuständige Behörde"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Neuanlage der Rechtsprechungsübersicht mit 13 ausgewerteten und volltextverifizierten Leitentscheiden (BGE) sowie Bundesgerichts-, BVGer- und kantonalen Entscheiden zu Art. 21 VwVG."
 ---
 

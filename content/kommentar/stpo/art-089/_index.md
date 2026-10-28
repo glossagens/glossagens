@@ -5,27 +5,22 @@ date: "2026-06-20"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 89 StPO: Unabänderlichkeit der gesetzlichen Fristen, Abgrenzung zu den behördlich angesetzten Fristen nach Art. 92 StPO und Verbot von Gerichtsferien im Strafverfahren."
 tags: ["StPO", "Fristen", "Gerichtsferien", "Fristerstreckung", "Rechtsmittelfrist", "Nachfrist", "Wiederherstellung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-089.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 97 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 3 %). Zwei themenfremde BGE entfernt: BGE 141 IV 61 betrifft Mord und Konkurrenz (Art. 112/49 StGB), BGE 142 IV 105 die stationäre Massnahme (Art. 59 Abs. 4 StGB) — beide wurden für fristenrechtliche Aussagen zitiert. BGE 143 IV 5 richtig gefasst (Art. 91 Abs. 5 StPO, Nachweis der Kontobelastung). BGer 1B_232/2017 betrifft die Begründungsanforderungen, nicht die Gerichtsferien. Falsche Angabe zum Fristenstillstand im Zivilprozess korrigiert (Art. 145 ZPO, nicht Art. 41). Neu belegt mit 6B_319/2021, 6B_182/2020, 6B_8/2025, 6B_265/2014 und TPF 2008 167."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Sofortmassnahme: sechs nicht existierende BGE-Referenzen und die erfundene Literaturliste entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit KW33 StPO"
 ---
 

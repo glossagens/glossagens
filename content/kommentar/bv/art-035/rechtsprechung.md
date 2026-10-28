@@ -5,17 +5,14 @@ date: 2026-05-23
 lastmod: 2026-08-12
 description: "Übersicht der Entscheide zu Art. 35 BV — Grundrechtsbindung von Aufgabenträgern, Grenzen der Bindung, Einbürgerungsverfahren"
 tags: ["Rechtsprechung", "BV", "Grundrechtsbindung", "Drittwirkung", "Einbürgerung"]
-agent_verified: false
 revisions:
   - date: 2026-08-12
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Audit: Sämtliche Entscheidblöcke der Vorfassung entfernt — kein einziges Belegpaar war gestützt, obwohl alle Referenzen existieren. Neu aufgebaut aus einzeln geprüften Art.-35-Entscheiden."
   - date: 2026-06-06
     by: "unbekannt"
     model: "unbekannt"
-    mcp_verified: false
     note: "Vorfassung ohne revisions-Block"
 ---
 

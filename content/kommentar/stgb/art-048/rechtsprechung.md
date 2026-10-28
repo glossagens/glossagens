@@ -5,27 +5,22 @@ date: 2026-06-28
 lastmod: 2026-10-04
 description: "Übersicht der Rechtsprechung zu Art. 48 StGB — Strafmilderungsgründe: achtenswerte Beweggründe bei Klimaaktivisten, Greenpeace-Blockaden, Bedrängnis, seelische Belastung, aufrichtige Reue, Zeitablauf und unverjährbare Straftaten, Zwei-Drittel-Regel und 'gutes Verhalten' (BGer 6B_326/2026)."
 tags: ["Rechtsprechung", "StGB", "Strafmilderung", "Achtenswerte Beweggründe", "Klimaaktivisten", "Reue", "Zeitablauf", "Gutes Verhalten", "Zwei-Drittel-Regel", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Aufnahme von BGer 6B_326/2026 vom 27. August 2026 (5er-Kammer, Mord): Art. 48 lit. e StGB setzt kumulativ sensiblen Rückgang des Strafinteresses durch Zeitablauf UND gutes Verhalten voraus; 2/3 der Verjährungsfrist = 'relativ lange Zeit'; schwere Verkehrsregelverletzung in der Zwischenzeit schliesst 'gutes Verhalten' aus. Link via entscheidsuche.ch verifiziert."
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau: 5 verifizierte BGE-Entscheide via entscheidsuche.ch mit Sachverhaltsanreicherung; BGE 149 IV 217 (Klimaaktivisten: achtenswerte Beweggründe, Bedrängnis, seelische Belastung), BGE 129 IV 6 (Greenpeace-Blockaden), BGE 140 IV 145 (Zeitablauf, unverjährbare Straftaten), BGE 143 IV 469 (aufrichtige Reue, reformatio in peius), BGE 136 IV 55 (Strafzumessungsmethodik); fabrizierte und irrelevante Zitate entfernt (BGE 140 IV 150 = Betrug, BGer 6B_776/2016 = Raub, BGer 6B_1056/2016 = fahrlässige KV, ZH Obergericht SB180414/SB190089 = unverifizierbar)"
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Neuaufbau nach Audit: Bereinigung aller Pinpoint-Fehler und Ergänzung auf 10 verifizierte BGE- und Kantonsgerichtsentscheide via OpenCaseLaw MCP."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Audit KW33"
 ---
 

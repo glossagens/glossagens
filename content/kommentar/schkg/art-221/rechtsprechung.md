@@ -5,17 +5,14 @@ date: 2026-09-12
 lastmod: 2026-09-13
 description: "Übersicht der Rechtsprechung zu Art. 221 SchKG — Inventaraufnahme im Konkurs, Sicherungsmassnahmen, Siegelung, Drittschutz, Rechtshilfe, Konkurs mangels Aktiven, unentgeltliche Rechtspflege, Verbindlichkeit des Konkursdekrets, Grenzkasuistik."
 tags: ["Rechtsprechung", "SchKG", "Inventaraufnahme", "Konkurs", "Sicherungsmassnahmen", "Siegelung", "Drittschutz", "Konkurs mangels Aktiven", "Grenzkasuistik"]
-agent_verified: false
 revisions:
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Umfassende Erweiterung: BGE 119 III 28 (Konkurs mangels Aktiven), BGE 119 III 113 (Unentgeltliche Rechtspflege), BGE 98 III 31 (Unpfändbarkeit, Zeitpunkt der Inventaraufnahme), BGE 100 III 19 (Verbindlichkeit des Konkursdekrets), BGE 141 III 590 (Kostensicherheit), BGE 117 III 67 (Kostenvorschuss), BGer 5A_624/2009 (Sicherungsmassnahmen/Siegelung), BGer 5A_218/2010 (Aussonderung/Admassierung), BGer 5A_235/2007 (Konkurs ohne vorgängige Betreibung), BGer 5A_956/2025 (Kontosperre) ergänzt; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-09-12
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstaufbau Rechtsprechungsübersicht: 4 Leitentscheide (BGE), 6 weitere BGer-Entscheide (2010–2024), 4 kantonale Entscheide; alle Links auf entscheidsuche.ch verifiziert."
 ---
 

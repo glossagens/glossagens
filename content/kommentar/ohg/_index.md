@@ -12,17 +12,14 @@ tags:
 - OHG
 - Opferhilfe
 - Strafrecht
-agent_verified: true
 revisions:
 - date: '2026-08-29'
   by: Antigravity Agent
   model: gemini-3.7-flash
-  mcp_verified: true
   note: Kommentierung und Rechtsprechungsausbau zu Art. 19–22 OHG
 - date: '2026-08-10'
   by: Claude Code
   model: minimax-m3
-  mcp_verified: false
   note: Frontmatter vereinheitlicht (KW32)
 ---
 

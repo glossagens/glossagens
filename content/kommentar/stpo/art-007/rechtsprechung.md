@@ -5,17 +5,14 @@ date: 2026-05-24
 lastmod: "2026-09-24"
 description: "Leitentscheide und systematische Rechtsprechung zu Art. 7 StPO: Verfolgungszwang, Ermächtigungsvorbehalt, parlamentarische Immunität, in dubio pro duriore und kantonale Praxis."
 tags: ["Rechtsprechung", "StPO", "Verfolgungszwang", "Offizialmaxime", "Ermächtigungsvorbehalt", "in dubio pro duriore", "Nichtanhandnahme"]
-agent_verified: false
 revisions:
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Umfassende Erweiterung der Rechtsprechungsübersicht: Vollständige Gliederung in Leitentscheide (BGE), weitere Bundesgerichtsentscheide und kantonale Entscheide. Einarbeitung der Urteile BGE 149 IV 183, BGE 147 I 494, BGE 137 IV 269, BGer 1C_57/2018, BGer 1C_84/2026, SG AK.2022.115-AK, SG AK.2022.326-AK, SG AK.2023.184-AK, BL 470 15 253 und BE BK 2018 386."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Voll-Audit KW33 StPO"
 ---
 

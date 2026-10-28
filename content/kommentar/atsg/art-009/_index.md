@@ -5,22 +5,18 @@ date: 2026-06-02
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 9 ATSG: Begriff der Hilflosigkeit, alltägliche Lebensverrichtungen, persönliche Überwachung, lebenspraktische Begleitung, Schweregrade und Abklärungsverfahren."
 tags: ["ATSG", "Hilflosigkeit", "Hilflosenentschädigung", "Sozialversicherungsrecht", "Invalidenversicherung"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 830.1 vom 2024-01-01 (data/wortlaut/atsg/art-009.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-31 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-31
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "BGer 8C_560/2025 vom 11.08.2026 (publ. 31.08.2026) integriert: Bestätigung, dass blosse Anstösse/Erinnerungen durch Angehörige keine Hilflosigkeit begründen und der Schadensminderungspflicht unterliegen; Beweiswert von Abklärungsberichten."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Vollständiger Overhaul: Systematische Gliederung, kantonale Praxisfragen, Standardisierung der Rechtsprechung und Verlinkung auf entscheidsuche.ch."
 ---
 

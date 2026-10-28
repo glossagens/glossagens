@@ -5,27 +5,22 @@ date: "2026-06-20"
 lastmod: 2026-10-15
 description: "Kommentar zu Art. 136 StPO: unentgeltliche Rechtspflege für die Privatklägerschaft und — seit der Revision 2024 — für das Opfer zur Durchsetzung der Strafklage; Mittellosigkeit, Nichtaussichtslosigkeit, Umfang und Neuantrag im Rechtsmittelverfahren."
 tags: ["StPO", "unentgeltliche Rechtspflege", "Privatklägerschaft", "Opfer", "Strafklage", "Aussichtslosigkeit", "Rechtsbeistand"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-136.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-08-21 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Vollständiger Overhaul nach Audit (Belegquote 21 %). Zentraler Sachfehler korrigiert: Der Artikel behauptete, die frühere Fassung von Art. 136 habe den Widerruf der amtlichen Verteidigung geregelt und sei in Art. 134 StPO überführt worden. Tatsächlich betraf Art. 136 schon vor der Revision die unentgeltliche Rechtspflege der Privatklägerschaft; Art. 134 trug seinen Inhalt immer schon. BGE 141 I 49 (Familiennachzug, AuG) entfernt; BGE 131 I 350 und BGE 143 I 164 betreffen die notwendige Verteidigung des Beschuldigten und sind neu als Abgrenzung eingeordnet. Neu belegt mit der Botschaft BBl 2019 6697, BGE 143 IV 154, BGE 141 IV 262 und BGE 145 IV 90."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: false
     note: "Sofortmassnahme: drei nicht existierende BGE und vier fehlerhafte Pinpoints entfernt (MCP zu diesem Zeitpunkt nicht erreichbar)."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: false
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
 ---
 

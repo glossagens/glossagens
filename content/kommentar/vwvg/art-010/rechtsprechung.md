@@ -5,17 +5,14 @@ date: 2026-06-28
 lastmod: "2026-08-15"
 description: "Übersicht der Entscheide zu Art. 10 VwVG – Ausstand und Befangenheit"
 tags: ["Rechtsprechung", "VwVG", "Ausstand", "Befangenheit", "Verwaltungsverfahren", "Organmangel", "Fairness"]
-agent_verified: false
 revisions:
   - date: 2026-08-15
     by: "Claude Code"
     model: "claude-sonnet-5"
-    mcp_verified: true
     note: "Audit (Urteil C 41% -> B 60%): BGE 130 II 530 (Quadrant AG) entfernt -- der echte Entscheid betrifft die Übernahmepflicht nach BEHG, nicht Ausstand; durch BGE 119 V 456 (EAK) ersetzt. 2C_305/2011 entfernt (trug die zugeschriebene Verwirkungsaussage nicht). Kernaussagen zu 1C_52/2025 und 8C_659/2020 an die tatsächlichen Sachverhalte angepasst. 2C_909/2020 (Vorbefassung PostFinance/FINMA) neu aufgenommen. Redundante Übersichtstabelle entfernt. Pinpoint-Anker ergänzt."
   - date: 2026-08-09
     by: "Hermes Agent"
     model: "unknown"
-    mcp_verified: true
     note: "Ursprüngliche Fassung (rekonstruiert; kein revisions-Block im Original vorhanden)"
 ---
 

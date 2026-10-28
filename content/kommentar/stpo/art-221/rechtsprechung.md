@@ -5,27 +5,22 @@ date: 2026-08-30
 lastmod: 2026-10-28
 description: "Übersicht der Rechtsprechung zu Art. 221 StPO – Dringender Tatverdacht, Fluchtgefahr, Kollusionsgefahr, einfache und qualifizierte Wiederholungsgefahr (Abs. 1bis n.F.), Ausführungsgefahr und Ersatzmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen"]
-agent_verified: true
 revisions:
   - date: 2026-10-28
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Korrektur zu BGer 7B_1311/2026 nach Audit: Aus den Leitentscheiden (BGE) in Abschnitt II (Weitere Bundesgerichtsentscheide) verschoben; Dispositiv präzisiert (teilweise Gutheissung und Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung, Abweisung des Antrags auf sofortige Entlassung); Bereinigung überzeichneter Wendungen gemäss E. 3.3 (Zuständigkeit der Migrationsbehörden für das Ausschaffungsrisiko statt «Surrogatverbot»); Verlinkung auf Volltext auf entscheidsuche.ch umgestellt."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Aufnahme des Leitentscheids BGer 7B_1311/2026 vom 15.10.2026 zu Art. 221 Abs. 1 lit. a und Art. 237 StPO (moderate Fluchtgefahr bei abgewiesenen Asylsuchenden, Nothilfe als Verankerungsfaktor, Verbot strafprozessualer Haft als Surrogat für Ausschaffungshaft, Vorrang von Ersatzmassnahmen)."
   - date: 2026-09-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Einarbeitung der gesetzgeberischen Invalidierung von BGE 137 IV 84 / BGE 143 IV 9 durch die StPO-Revision 2024 und das Grundsatzurteil BGer 7B_1035/2024 (zwingendes Erfordernis von mindestens zwei rechtskräftigen Vorstrafen bei Abs. 1 lit. c)."
   - date: 2026-08-30
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Initialerstellung."
 ---
 

@@ -5,22 +5,18 @@ date: 2026-10-04
 lastmod: 2026-10-22
 description: "Praxiskommentar zu Art. 416 StPO (SR 312.0): Geltungsbereich des zehnten Titels (Kosten, Entschädigung und Genugtuung) — Strafbefehl, nachträgliche Entscheide, selbstständige Zwangsmassnahmenverfahren (Haftprüfung, Entsiegelung), Rechtsmittel und Wiederherstellung; Abgrenzung zu BGG, JStPO, VStrR und Vollzug; Ausschliesslichkeit gegenüber Zivil- und Staatshaftungsweg; kantonale Gebührenhoheit."
 tags: ["StPO", "Geltungsbereich", "Verfahrenskosten", "Entschädigung", "Genugtuung", "Strafbefehl", "nachträgliche Entscheide", "Entsiegelung", "Haftprüfung", "Jugendstrafverfahren", "Verwaltungsstrafrecht", "Kostenauflage", "Kosten"]
-agent_verified: true
 revisions:
   - date: 2026-10-22
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    mcp_verified: true
     note: "Überarbeitung und Ausbau zum Praxiskommentar. Korrigiert: falsche Verfahrensbezeichnungen (beschleunigtes/vereinfachtes/Massnahmeverfahren), ungestützte Praxishinweise (Nichterwähnung der Entschädigung; nachträgliche Geltendmachung), fehlerhafte Botschaftsdaten und nicht belegbare Literaturangabe (Grodecki) gestrichen, Tippfehler, Identität BGE 139 IV 102 = 6B_310/2012 vermerkt. Neu aufgenommen und im Volltext (entscheidsuche.ch) geprüft: BGE 138 IV 225 E. 8, BGE 141 IV 465 E. 9.5.1, BGE 139 IV 206 E. 1 sowie BGer 7B_206/2024, 7B_450/2025, 7B_11/2026, 7B_221/2023, 1B_179/2014, 1B_291/2013, 1B_449/2020, 6B_265/2016, 6B_738/2015, 6B_811/2014, 6B_472/2020, 6B_250/2021, 6B_675/2018, 6B_1200/2017, 6B_834/2013, 6B_566/2015, 6B_923/2015, 2C_214/2015, 2C_908/2021. Gesetzestexte (StPO 421, 424, 439; JStPO 3, 44) via Fedlex-MCP. Botschaft zu Art. 416 E-StPO: kein Beleg im Korpus gefunden, daher nicht zitiert. 7B_11/2026 nur im Eingangsteil (E. 1–2.4) ausgewertet."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-416.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: abweichend (Übereinstimmung 75 %); der bisherige Text wurde durch die geltende Fedlex-Fassung ersetzt. mcp_verified unverändert aus der Revision vom 2026-10-04 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-10-04
     by: "Glossagens Agent"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Neuanlage praxisorientiert — Gesetzestext via Fedlex get_article (SR 312.0 Art. 416), 6 BGer-Entscheide via OCL get_erwaegung geprueft (alle yes, 0.85–0.95). Belegstellen wörtlich aus Erwägungstext."
 ---
 

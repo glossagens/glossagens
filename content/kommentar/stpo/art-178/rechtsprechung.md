@@ -5,7 +5,6 @@ date: 2026-07-11
 lastmod: 2026-07-11
 description: "Übersicht der Entscheide zu Art. 178 StPO — Begriff der Auskunftsperson, Verfahrensstellung nach rechtskräftiger Verurteilung, Teilnahmerechte bei Einvernahme von Mitbeschuldigten, Belehrungspflichten bei polizeilicher Einvernahme"
 tags: ["Rechtsprechung", "StPO", "Auskunftsperson", "Mitbeschuldigung", "Zeugeneinvernahme", "Belehrungspflicht"]
-agent_verified: false
 ---
 
 ## I. Verfahrensstellung nach rechtskräftiger Verurteilung (Art. 178 lit. f StPO)

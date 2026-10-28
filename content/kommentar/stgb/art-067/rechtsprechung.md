@@ -5,22 +5,18 @@ date: 2025-06-02
 lastmod: "2026-10-10"
 description: "Übersicht der Rechtsprechung zu Art. 67 StGB — Tätigkeitsverbot: fakultative und zwingende lebenslängliche Verbote, Ausnahmeklausel (Abs. 4bis), intertemporales Strafrecht und kantonale Verfahrensfragen."
 tags: ["Rechtsprechung", "StGB", "Tätigkeitsverbot", "Pädophilie", "Massnahmen", "Minderjährigenschutz", "Allgemeiner Teil"]
-agent_verified: true
 revisions:
   - date: 2026-10-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung der Rechtsprechungsübersicht: 14 verifizierte Entscheide eingepflegt (7 BGer-Leitentscheide inkl. BGE 149 IV 161, BGer 6B_194/2024, BGer 6B_243/2022, BGE 137 II 425; 7 kantonale und weitere Entscheide inkl. TG RBOG 2021 Nr. 15, FR 501 2026 92, ZH SB220480, BL 460 16 48, BE 2025.GSI.1103); Bereinigung irrelevanter Fremdeinträge; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-10-10
     by: "Hermes"
     model: "glm-5.2"
-    mcp_verified: true
     note: "Kantonsgericht FR 501 2026 92 (Cour d'appel pénal, 20.08.2026) aufgenommen: Bestätigung lebenslängliches Tätigkeitsverbot Art. 67 Abs. 3 lit. b StGB, Ausnahmeklausel Abs. 4bis verneint bei wiederholten invasiven Akten; via OCL get_erwaegung und entscheidsuche.ch verifiziert"
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Opencaselaw-Links durch entscheidsuche.ch ersetzt; BGE 146 IV 105 entfernt; BGer 6B_635/2025 und BGer 6B_140/2025 aufgenommen; BGer 6B_156/2023 aufgenommen"
 ---
 

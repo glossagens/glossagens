@@ -5,32 +5,26 @@ date: 2025-07-16
 lastmod: 2026-09-12
 description: "Übersicht der verifizierten Entscheide zu Art. 264 StPO – Einschränkungen der Beschlagnahme, Siegelungsverfahren und Berufsgeheimnisse"
 tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Siegelung", "Quellenschutz", "Smartphones", "Triage"]
-agent_verified: true
 revisions:
   - date: 2026-09-12
     by: "Antigravity"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Nachgetragen: BGer 7B_165/2026 (Entsiegelungsgesuch per E-Mail ohne qualifizierte Signatur erfüllt Schriftlichkeit nicht; Art. 110 StPO analog anwendbar) und BGer 7B_219/2026 (Rechtsprechungsänderung: Kein absolutes Entsiegelungsverbot für Verteidigerkorrespondenz; Art. 264 Abs. 1 lit. a StPO schützt beschuldigte Verteidiger nicht mehr absolut)."
   - date: 2026-09-10
     by: "Antigravity"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung und Ausbau der Rechtsprechungsübersicht auf 23 strukturierte Entscheide mit Sachverhaltskernen, Verfahrensgang und Erwägungs-Verlinkungen auf entscheidsuche.ch (u.a. BGer 7B_219/2026 zur Praxisänderung bei mitbeschuldigtem Verteidiger, BGE 151 IV 153 Corona-Leaks, BGE 151 IV 350 & 344 Smartphone-Doktrin, BGE 150 IV 470 Fact-Finding/Anhänge, BGer 7B_734/2025 Sarco-Suizidkapsel, BGer 7B_523/2025 In-House Counsel Graubünden, BGE 148 IV 221 Datenspiegelung)."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Praxisänderung aufgenommen: BGer 7B_219/2026 vom 20. August 2026 (zur Publ. vorgesehen, 5er-Besetzung) zur Aufgabe der Doktrin des absoluten Entsiegelungsverbots nach Art. 264 Abs. 1 lit. a StPO bei Mitbeschuldigung des Verteidigers und Gebot des Informationswalls."
   - date: 2026-09-01
     by: "Antigravity"
     model: "gemini-3.7-flash"
-    mcp_verified: true
     note: "Loop-Iteration: Umstellung aller Urteilslinks auf entscheidsuche.ch, Aufnahme neuer BGEs (BGE 151 IV 175, BGE 151 IV 350, BGE 148 IV 221, BGE 143 IV 462) sowie kantonaler Entscheide."
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
-    mcp_verified: true
     note: "Overhaul nach Audit."
 ---
 

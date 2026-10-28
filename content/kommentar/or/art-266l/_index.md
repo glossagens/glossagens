@@ -5,7 +5,6 @@ date: 2026-10-27
 lastmod: 2026-10-27
 description: "Praxiskommentar zu Art. 266l OR: Formvorschriften der Kündigung bei Wohn- und Geschäftsräumen, einfache Schriftlichkeit des Mieters, amtlicher Formularzwang des Vermieters, Unterschriftserfordernis und Kasuistik zu Telefax, altem Formular und Begleitbrief."
 tags: ["OR", "Mietrecht", "Kündigung", "Formvorschrift", "Amtliches Formular", "Schriftlichkeit", "Nichtigkeit", "Wohn- und Geschäftsräume"]
-agent_verified: true
 ---
 
 ## Gesetzeswortlaut

@@ -5,27 +5,22 @@ date: 2026-07-10
 lastmod: 2026-10-15
 description: "Praxiskommentar zu Art. 368 StPO: Gesuch um neue Beurteilung nach Abwesenheitsurteil, persönliche Zustellung, Begründungsobliegenheit, amtliche Prüfung der Vorladung, Entschuldbarkeit des Fernbleibens (Krankheit, Verhandlungsunfähigkeit vs. Arbeitsunfähigkeit, freies Geleit und Einreiseverbote), Beweislastverteilung, Judikaturdivergenz zum Verhältnis zur Berufung sowie adressatenbezogene Praxishinweise."
 tags: ["StPO", "Abwesenheitsverfahren", "Abwesenheitsurteil", "Neubeurteilung", "Säumnis", "Verhandlungsunfähigkeit", "Vorladung", "Rechtliches Gehör", "Fristen", "Beweislast", "Freies Geleit"]
-agent_verified: true
 revisions:
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    mcp_verified: true
     note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 312.0 vom 2025-04-01 (data/wortlaut/stpo/art-368.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. mcp_verified unverändert aus der Revision vom 2026-09-09 übernommen; Kommentartext und Entscheide nicht erneut geprüft."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
-    mcp_verified: true
     note: "Vollständiger Ausbau zum Praxiskommentar gemäss Standard praxisorientierter-kommentar (Muster Art. 110 StPO). Volltextrecherche und Verifikation über entscheidsuche.ch: BGE 146 IV 59, BGE 129 II 56, BGE 127 I 213, BGE 126 I 36, BGer 6B_581/2024, 6B_1175/2016, 6B_438/2017, 6B_208/2012, 6B_1293/2018, 6B_1105/2023, 7B_283/2023 sowie kantonale Entscheide aus AG (SBK.2025.141), BE (BK 2021 542, BK 2024 73), ZH (UP160034), BS (SB.2024.4), FR (501 2017 68), SG (B 2013/65) und TPF (SN.2020.8, TPF 2023 87)."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
-    mcp_verified: true
     note: "Vollständige Überarbeitung nach Audit (Sanierung Belegquote): BGer 6B_1175/2016 E. 9.3, BGer 6B_438/2017 E. 4.3, BGer 6B_208/2012 E. 3.3.2 und BGE 127 I 213 E. 3 integriert."
   - date: 2026-08-13
     by: "Hermes Agent"
     model: "glm-5.1"
-    mcp_verified: true
     note: "Erstüberarbeitung"
 ---
 
