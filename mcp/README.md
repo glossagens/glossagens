@@ -18,6 +18,7 @@ einreichen. Eingereicht wird als Draft-PR; veröffentlicht erst nach dem Merge.
 | `thema_lesen` | ein Querschnittsthema als Markdown, ebenfalls mit `format: "quelltext"` |
 | `beitrag_pruefen` | prüft einen Entwurf (neue Datei, ganze Datei oder ein Abschnitt) und meldet Fehler, Warnungen und Änderungen; schreibt nichts |
 | `beitrag_einreichen` | prüft wie `beitrag_pruefen` und legt bei fehlerfreier Prüfung einen Draft-PR an (nur sichtbar, wenn `EINREICHEN = "an"`) |
+| `einreichung_status` | Stand eines Chat-PRs (offen, gemerged mit Link, geschlossen) mit Reviews, Kommentaren und Zeilenanmerkungen der Redaktion; auch bei Not-Aus verfügbar |
 
 ## Beitrag prüfen (`src/pruefen.js`)
 
@@ -120,6 +121,14 @@ npx wrangler secret put GITHUB_APP_KEY < app.pem
 ```
 
 Zähler und Doppelerkennung liegen im KV-Namespace `EINREICHUNGEN`.
+
+`einreichung_status` gibt nur Chat-PRs aus (Branch `chat/…` im eigenen Repo) und davon
+nur, was Personen mit Schreibrecht am Repo schreiben (abgefragt über
+`/collaborators/{login}/permission`; `author_association` taugt nicht, weil die App ein
+Mitglied mit nicht öffentlicher Mitgliedschaft als NONE sieht). Kommentieren kann auf
+GitHub jede Person mit Konto; deren Text wird gezählt, nicht wiedergegeben — sonst
+stünde er im Chat wie eine Antwort der Redaktion.
+Den Build-Status zeigt das Tool nicht (die App hat kein Recht auf Checks).
 
 **Not-Aus:** `EINREICHEN = "aus"` in `wrangler.toml` und deployen — das Tool
 verschwindet aus der Liste. Bei einem Schlüssel-Leck zusätzlich den Schlüssel in den

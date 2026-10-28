@@ -493,7 +493,8 @@ Connector einbindet. Tools zum Lesen (`glossagens_suchen`, `gesetze_auflisten`,
 die Regeln dieser Datei prüft, ohne zu schreiben (`mcp/src/pruefen.js`). Dazu
 `beitrag_einreichen`: dieselbe Prüfung, dann ein Draft-PR auf einem Branch `chat/…` als
 GitHub App «Glossagens Chat-Einreichung» (`mcp/src/github.js`), ohne GitHub-Konto der
-einreichenden Person. Die App kann `main` nicht ändern (Ruleset «main schützen»: PR mit
+einreichenden Person; `einreichung_status` zeigt den Stand und die Rückmeldungen der
+Redaktion im Chat. Die App kann `main` nicht ändern (Ruleset «main schützen»: PR mit
 einer Freigabe, Admins ausgenommen). Einrichtung, Deploy, Limits, Not-Aus und
 Prüfregeln: `mcp/README.md`.
 
@@ -536,7 +537,9 @@ Gemerged wird nie automatisch. Ein grüner Build ist kein Qualitätsnachweis.
 Wortlaut-Daten ergänzt `pr-build.yml` (Job `wortlaut`). Der Text stammt von unbekannten
 Personen und ihren Modellen — Prüfung von Hand oder mit einem Audit **ohne
 Schreibrechte**; kein Agent, der danach pusht, liest ihn. Vor dem Merge den Entwurf als
-bereit markieren.
+bereit markieren. Rückmeldungen als Review oder Kommentar schreiben: Die einreichende
+Person sieht sie über `einreichung_status` im Chat (wiedergegeben werden nur Kommentare
+von Personen mit Schreibrecht am Repo).
 
 ## Build-Check vor dem Push
 
@@ -557,6 +560,7 @@ Beim Anheben der Hugo-Version genügt es, `.hugo-version` zu ändern; CI zieht a
 - [ ] Beiträge ohne GitHub-Konto (Gateway vor GitHub, siehe `plan-kontofreie-einreichung.md`)
 - [x] MCP-Server deployt und als Connector getestet (`mcp/README.md`)
 - [x] Einreichen als Tool (`beitrag_einreichen`: GitHub App, Ruleset auf `main`, Draft-PR, Wortlaut-Workflow)
-- [ ] `einreichung_status`: Stand und Review-Kommentare eines Chat-PRs im Chat abrufen
+- [x] `einreichung_status`: Stand und Review-Kommentare eines Chat-PRs im Chat abrufen
+- [ ] Überarbeitung eines offenen Chat-PRs (statt neuem PR) aus dem Chat
 - [x] Handgepflegte Artikellisten aus den Bodies entfernt; Systematik nach `data/systematik/` überführt
 - [x] Hugo-Build-Check für PRs (`pr-build.yml`, vorher in `_execute_pr_merge`)

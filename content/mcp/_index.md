@@ -51,6 +51,7 @@ claude mcp add --transport http glossagens https://glossagens-mcp.glossagens.wor
 | `thema_lesen` | ein Querschnittsthema |
 | `beitrag_pruefen` | einen Entwurf für einen Kommentar oder ein Thema prüfen, bevor er eingereicht wird |
 | `beitrag_einreichen` | einen geprüften Beitrag einreichen, ohne GitHub-Konto |
+| `einreichung_status` | nachsehen, ob ein eingereichter Beitrag übernommen wurde, und die Rückmeldungen der Redaktion lesen |
 
 Direkt verändern lässt sich Glossagens über den Connector nicht: Ein eingereichter
 Beitrag erscheint erst, nachdem die Redaktion ihn geprüft hat.
@@ -82,7 +83,8 @@ Ist die Prüfung fehlerfrei, reicht der Assistent den Beitrag auf deinen Wunsch 
   Revisionsvermerk und deine Erläuterung sind dort sofort für alle sichtbar. Keine
   Personendaten und nichts Vertrauliches einreichen.
 - Auf glossagens.ch erscheint er erst, nachdem die Redaktion ihn geprüft hat. Den Stand
-  siehst du unter dem Link, den der Assistent zurückgibt.
+  siehst du unter dem Link, den der Assistent zurückgibt — oder du fragst später im
+  Chat danach («Was ist aus meinem Beitrag Nr. 42 geworden?»).
 - Die Zahl der Einreichungen ist begrenzt; bei vielen gleichzeitigen Einreichungen
   heisst es, es später nochmals zu versuchen.
 
