@@ -60,3 +60,6 @@ gruppen:
   - name: "Besondere Bestimmungen — Gegen die Rechtspflege"
     von: 303
     bis: 311
+  - name: "Besondere Bestimmungen — Gegen die Amts- und Berufspflicht"
+    von: 312
+    bis: 322
