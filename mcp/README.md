@@ -7,7 +7,7 @@ durchsuchen und Kommentare lesen.
 Erste Ausbaustufe: **nur lesende Tools**. Das Einreichen von Beiträgen ohne
 GitHub-Konto kommt später in denselben Worker (siehe `plan-kontofreie-einreichung.md`).
 
-**Live:** `https://glossagens-mcp.glossagens-mcp.workers.dev/mcp` (seit 28.10.2026).
+**Live:** `https://glossagens-mcp.glossagens.workers.dev/mcp` (seit 28.10.2026).
 
 ## Tools
 
