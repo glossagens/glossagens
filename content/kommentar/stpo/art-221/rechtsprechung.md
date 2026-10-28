@@ -2,11 +2,16 @@
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-10-24
+lastmod: 2026-10-28
 description: "Übersicht der Rechtsprechung zu Art. 221 StPO – Dringender Tatverdacht, Fluchtgefahr, Kollusionsgefahr, einfache und qualifizierte Wiederholungsgefahr (Abs. 1bis n.F.), Ausführungsgefahr und Ersatzmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen"]
 agent_verified: true
 revisions:
+  - date: 2026-10-28
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    mcp_verified: true
+    note: "Korrektur zu BGer 7B_1311/2026 nach Audit: Aus den Leitentscheiden (BGE) in Abschnitt II (Weitere Bundesgerichtsentscheide) verschoben; Dispositiv präzisiert (teilweise Gutheissung und Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung, Abweisung des Antrags auf sofortige Entlassung); Bereinigung überzeichneter Wendungen gemäss E. 3.3 (Zuständigkeit der Migrationsbehörden für das Ausschaffungsrisiko statt «Surrogatverbot»); Verlinkung auf Volltext auf entscheidsuche.ch umgestellt."
   - date: 2026-10-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -25,15 +30,6 @@ revisions:
 ---
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
-
-### [BGer 7B_1311/2026 vom 15.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=15.10.2026_7B_1311/2026) (II. strafrechtliche Abteilung, Abrecht, Kölz, Hofmann, Gerichtsschreiberin Kern)
-- **Thema**: Fluchtgefahr bei abgewiesenen Asylbewerbern, existenzielle Abhängigkeit von Nothilfe als Verankerungsfaktor, Verbot der Untersuchungshaft als Surrogat für Ausschaffungshaft und zwingender Vorrang von Ersatzmassnahmen
-- **Sachverhalt**: Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche mit kurzer Straferwartung). Das Zwangsmassnahmengericht und das Obergericht des Kantons Zürich ordneten Untersuchungshaft wegen angeblich «ausgeprägter» Fluchtgefahr an, gestützt auf das abgewiesene Asylgesuch und das Fehlen familiärer Beziehungen in der Schweiz.
-- **Kernaussage**:
-  1. *Moderate Fluchtgefahr*: Das Fehlen familiärer Bindungen und ein abgewiesenes Asylgesuch begründen für sich allein keine ausgeprägte Fluchtgefahr, wenn keine konkreten Fluchtvorbereitungen vorliegen und die Straferwartung gering ist. Die existenzielle Angewiesenheit auf behördliche Unterstützung (Nothilfe / Betreuung im Asylwesen) wirkt in solchen Konstellationen als tauglicher Verankerungsfaktor; die Fluchtgefahr ist lediglich als moderat einzustufen.
-  2. *Strikte Trennung von Straf- und Migrationsverfahren (Surrogatverbot)*: Strafprozessuale Untersuchungshaft (Art. 221 StPO) dient ausschliesslich der Sicherung des hängigen Strafverfahrens. Sie darf niemals als Surrogat oder Vorwegnahme für ausländerrechtliche Ausschaffungs- oder Vorbereitungshaft (Art. 75 ff. AIG) zweckentfremdet werden. Die Befürchtung, der Betroffene könnte sich einer Wegweisung entziehen, begründet ein migrationsrechtliches Vollzugsproblem und rechtfertigt keine strafprozessuale Haft.
-  3. *Vorrang von Ersatzmassnahmen (Art. 237 StPO)*: Bei lediglich moderater Fluchtgefahr gebietet das Verhältnismässigkeitsprinzip zwingend die Prüfung und Anordnung milderer Ersatzmassnahmen (wie periodische polizeiliche Meldepflichten, Rayonverbote oder Schriftensperren). Die Aufrechterhaltung der Untersuchungshaft war bundesrechtswidrig.
-- **Einschlägig für**: Abs. 1 lit. a und Art. 237 StPO
 
 ### [BGer 7B_1035/2024 vom 19.11.2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1035-2024_2024-11-19.html) E. 2.9–2.11 (zur Publikation als BGE bestimmt)
 - **Thema**: Gesetzgeberische Invalidierung der bisherigen Rechtsprechung zu den Vortaten bei einfacher Wiederholungsgefahr (Abs. 1 lit. c)
@@ -91,6 +87,16 @@ revisions:
 - **Thema**: Flucht- und Kollusionsgefahr verneint trotz abgewiesenem Asylgesuch und drohender Landesverweisung
 - **Kernaussage**: Ein abgewiesener Asylbewerber ohne familiäre Bindungen, dem Einschleichdiebstähle und 6 Monate unbedingte Freiheitsstrafe drohen, begründet keine Fluchtgefahr, wenn er zuvor bereits fünf Freiheitsstrafen stets widerstandslos angetreten hat und mangels Erwerbsmöglichkeit auf Nothilfe angewiesen ist (ökonomische Bindung). Die blosse theoretische Möglichkeit, der Beschuldigte könne Deliktsgut beiseiteschaffen oder Zeugen beeinflussen, genügt nicht für Kollusionsgefahr. Das Bundesgericht ordnete die **sofortige Haftentlassung** an.
 - **Einschlägig für**: Abs. 1 lit. a und lit. b
+
+### [BGer 7B_1311/2026 vom 15.10.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html) E. 2 f.
+- **Thema**: Fluchtgefahr bei abgewiesenen Asylsuchenden, Verbleib im Asylzentrum bei geringer Straferwartung und Tauglichkeit beantragter Ersatzmassnahmen
+- **Sachverhalt**: Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche mit kurzer Straferwartung). Die kantonalen Instanzen ordneten Untersuchungshaft wegen angeblich «ausgeprägter» Fluchtgefahr an und schlossen Ersatzmassnahmen aus.
+- **Kernaussage**:
+  1. *Keine ausgeprägte Fluchtgefahr*: Fehlende familiäre Bindungen und ein abgewiesenes Asylgesuch begründen für sich allein keine ausgeprägte Fluchtgefahr, wenn keine schweren Delikte vorliegen, eine kurze Strafe kaum einen Fluchtanreiz darstellt und der Beschwerdeführer mangels anderer Kontakte auf behördliche Unterstützung (Unterkunft im Bundesasylzentrum) angewiesen ist.
+  2. *Zuständigkeit der Migrationsbehörden*: Dem Risiko, dass sich der Betroffene einer Ausschaffung oder Rückführung entziehen könnte, ist durch die Migrationsbehörden und nicht durch die Strafjustiz zu begegnen (E. 3.3).
+  3. *Tauglichkeit von Ersatzmassnahmen*: Da keine Hinweise auf eine Missachtung behördlicher Anweisungen vorlagen, waren Ersatzmassnahmen anzuordnen. Die vom Beschwerdeführer beantragten Massnahmen (Aufenthalt in zugewiesener Unterkunft, Meldepflichten, Schriftensperre, Eingrenzung) sind grundsätzlich tauglich; über deren konkrete Festlegung entscheidet die Vorinstanz.
+- **Ergebnis**: Teilweise Gutheissung der Beschwerde und Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung; Abweisung des Antrags auf unverzügliche Haftentlassung.
+- **Einschlägig für**: Abs. 1 lit. a und Art. 237 StPO
 
 ### [BGer 7B_708/2026 vom 17.06.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html) E. 3–5
 - **Thema**: Qualifizierte Wiederholungsgefahr bei Sexualdelikten (Abs. 1bis) und Voraussetzungen für Ersatzmassnahmen
@@ -155,4 +161,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-09-04*
+*Letzte Aktualisierung: 2026-10-28*
