@@ -2,10 +2,14 @@
 title: "Art. 336c OR — Kündigung zur Unzeit durch den Arbeitgeber"
 weight: 336
 date: 2026-08-29
-lastmod: 2026-10-15
+lastmod: 2026-10-28
 description: "Kommentar zu Art. 336c OR – Zeitlicher Kündigungsschutz, Sperrfristen bei Krankheit, Unfall, Schwangerschaft, Nichtigkeit und Fristverlängerung"
 tags: ["OR", "Arbeitsrecht", "Kündigungsschutz", "Sperrfrist", "Kündigung zur Unzeit", "Krankheit", "Schwangerschaft"]
 revisions:
+  - date: 2026-10-28
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    note: "TEST der Einreichung aus dem Chat — wird nicht gemerged"
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -19,6 +23,10 @@ revisions:
 ## Gesetzeswortlaut
 
 {{< wortlaut >}}
+
+TEST — Bezugsnorm zur Prüfung des Wortlaut-Workflows:
+
+{{< wortlaut gesetz="or" art="art-336d" >}}
 
 ## Überblick und Bedeutung
 
