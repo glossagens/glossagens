@@ -57,10 +57,13 @@ Mehr zum Glossagens-Connector: [MCP](/mcp/).
 - **Öffentlich**: Ein Beitrag wird als öffentlicher Pull Request auf GitHub angelegt. Text,
   Revisionsvermerk und deine Erläuterung sind dort sofort sichtbar. Keine Personendaten
   und nichts Vertrauliches einreichen.
-- **Geprüft**: Glossagens prüft jeden Entwurf automatisch — Aufbau, unzulässige Inhalte,
-  ob verlinkte Urteile existieren und zum Zitat passen. Ob der Inhalt juristisch stimmt,
-  prüft danach die Redaktion. Den Stand fragst du später im Chat ab («Was ist aus meinem
-  Beitrag Nr. 42 geworden?»).
+- **Geprüft**: Bevor ein Beitrag eingereicht wird, prüft Glossagens automatisch die Form:
+  Aufbau, Revisionsvermerk, unzulässige Inhalte. Links auf Entscheide werden abgerufen — wer
+  auf ein Urteil verlinkt, das es nicht gibt, kann nicht einreichen; nennt der Linktext ein
+  anderes Urteil als das verlinkte, gibt es eine Warnung. **Nicht** automatisch geprüft
+  wird, ob ein Urteil sagt, was der Text behauptet, und ob ein Zitat wörtlich stimmt. Das
+  und die juristische Richtigkeit prüft die Redaktion. Den Stand fragst du später im Chat
+  ab («Was ist aus meinem Beitrag Nr. 42 geworden?»).
 - **Tokens**: Ein ganzer neuer Kommentar braucht viel Recherche und kann einen grossen Teil
   eines Tageskontingents aufbrauchen. Ein einzelner Abschnitt, eine Korrektur oder ein
   ergänzter Entscheid ist ein guter Anfang.
