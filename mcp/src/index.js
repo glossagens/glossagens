@@ -914,8 +914,13 @@ export async function beitragPruefen(args, ctx, { protokollPflicht = false } = {
   fehler.push(...jetzt.fehler);
   warnungen.push(...jetzt.warnungen);
 
+  // Ein Beitrag ist eine Datei. Die Rechtsprechungsübersicht zu einem neuen Kommentar legt
+  // deshalb die Redaktion bei der Übernahme an, aus den im Kommentar zitierten Entscheiden.
+  const hinweise = [];
   if (ziel.art === "kommentar" && !ziel.a && ziel.teil !== "kommentar") {
-    warnungen.push(`Zu ${ziel.slug} gibt es noch keinen Kommentar; die ${ziel.teil}-Seite braucht den Kommentar (_index.md) im selben Beitrag.`);
+    fehler.push(`Zu ${ziel.slug} gibt es noch keinen Kommentar. Zuerst den Kommentar einreichen (teil "kommentar"); die ${ziel.teil}-Seite setzt ihn voraus.`);
+  } else if (ziel.art === "kommentar" && ziel.teil === "kommentar" && alt == null) {
+    hinweise.push("Neuer Kommentar: Die Rechtsprechungsübersicht (rechtsprechung.md) legt die Redaktion bei der Übernahme aus den hier zitierten Entscheiden an. Nicht separat einreichen.");
   }
 
   // Wortlaut-Daten: fehlen sie, erzeugt sie scripts/wortlaut.py vor dem Merge.
@@ -976,7 +981,7 @@ export async function beitragPruefen(args, ctx, { protokollPflicht = false } = {
   }
 
   return {
-    ziel, neu: alt == null, datei, fehler, warnungen, aenderungen, bestehend, stellen, protokoll,
+    ziel, neu: alt == null, datei, fehler, warnungen, hinweise, aenderungen, bestehend, stellen, protokoll,
     links: { abgerufen: abgerufen.length, ausgelassen: extern.length - abgerufen.length, andere: links.length - extern.length },
     revision: fm != null ? revisionenLesen(fm)[0] : null,
   };
@@ -989,6 +994,7 @@ function bericht(e) {
   ];
   if (e.fehler.length) zeilen.push("", "Fehler:", ...e.fehler.map((f) => `- ${f}`));
   if (e.warnungen.length) zeilen.push("", "Warnungen (prüfen; sie blockieren nicht):", ...e.warnungen.map((w) => `- ${w}`));
+  if (e.hinweise.length) zeilen.push("", "Hinweise:", ...e.hinweise.map((h) => `- ${h}`));
   if (e.aenderungen.length) zeilen.push("", "Änderungen gegenüber dem aktuellen Stand:", ...e.aenderungen.map((a) => `- ${a}`));
   if (e.revision) zeilen.push("", `Revision: ${e.revision.date} · ${e.revision.by} · ${e.revision.model} — ${e.revision.note ?? ""}`);
   const l = e.links;

@@ -268,7 +268,7 @@ If contributing ready-to-merge files, fork the repository and create a PR:
 ```text
 content/kommentar/{gesetz}/art-{nr}/
   ├── _index.md                    ← Hauptkommentar (Branch Bundle)
-  ├── rechtsprechung.md            ← Rechtsprechungsübersicht (mind. 10 Entscheide)
+  ├── rechtsprechung.md            ← Rechtsprechungsübersicht (alle im Kommentar zitierten Entscheide)
   ├── strafzumessung.md            ← optional: Strafzumessung (nur Straftatbestände)
   └── strafzumessung-daten.json    ← optional: Ledger zur Strafzumessung
 ```

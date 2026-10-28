@@ -131,10 +131,16 @@ tags: ["{Kürzel}", "{Stichwort}", "{Stichwort}"]
 ## III. Praxishinweise
 ```
 
-Den Revisionseintrag setzt der Server (Parameter `revision`). Eine Rechtsprechungsübersicht
-ist eine eigene Datei (`teil: "rechtsprechung"`, `weight: 99`, Titel «Rechtsprechung zu
-Art. {nr} {Kürzel}») mit Leitentscheiden und weiteren Entscheiden, je mit Link, Sachverhalt
-und Kernaussage.
+Den Revisionseintrag setzt der Server (Parameter `revision`).
+
+**Rechtsprechungsübersicht** — eigene Datei (`teil: "rechtsprechung"`, `weight: 99`, Titel
+«Rechtsprechung zu Art. {nr} {Kürzel}») mit Leitentscheiden und weiteren Entscheiden, je mit
+Link, Sachverhalt und Kernaussage. Ein Beitrag ist immer genau eine Datei:
+
+- Zu einem **neuen Kommentar** reichst du nur `_index.md` ein. Die Rechtsprechungsübersicht
+  legt die Redaktion bei der Übernahme aus den Entscheiden an, die du zitiert und belegt hast.
+- Zu einem **bestehenden Kommentar** kannst du die Rechtsprechungsübersicht ergänzen oder
+  neu anlegen, wenn sie fehlt. Ohne Kommentar wird sie nicht angenommen.
 
 ## 5. Prüfen
 

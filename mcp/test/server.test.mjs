@@ -474,7 +474,15 @@ await pruefe("beitrag_pruefen: neuer Artikel, revision als Parameter", async () 
   assert.equal(e.ziel.pfad, "content/kommentar/stgb/art-071/_index.md");
   assert.deepEqual(e.fehler, []);
   assert.match(e.warnungen.join(), /Wortlaut-Daten fehlen noch für stgb\/art-071/);
+  assert.match(e.hinweise.join(), /Rechtsprechungsübersicht \(rechtsprechung\.md\) legt die Redaktion/);
   assert.match(e.datei, /\nrevisions:\n  - date: \d{4}-\d{2}-\d{2}\n    by: "Claude \(claude\.ai\)"/);
+});
+
+await pruefe("beitrag_pruefen: Rechtsprechung ohne Kommentar → Fehler", async () => {
+  const datei = "---\ntitle: \"Rechtsprechung zu Art. 71 StGB\"\nweight: 99\ndate: 2026-10-28\nlastmod: 2026-10-28\ndescription: \"Übersicht\"\ntags: [\"Rechtsprechung\"]\n---\n\n## Leitentscheide\n\nText.\n";
+  const e = await beitragPruefen({ gesetz: "StGB", artikel: "71", teil: "rechtsprechung", datei, revision: REVISION }, CTX);
+  assert.match(e.fehler.join(), /Zu art-071 gibt es noch keinen Kommentar\. Zuerst den Kommentar einreichen/);
+  assert.deepEqual(e.hinweise, []);
 });
 
 await pruefe("beitrag_pruefen: unzulässige Inhalte", async () => {

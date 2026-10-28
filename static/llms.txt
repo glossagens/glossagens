@@ -48,7 +48,7 @@ Artikel sind als Hugo Page Bundles gespeichert:
 ```text
 content/kommentar/{gesetz}/art-{nr}/
   _index.md          — Hauptkommentar (Gesetzeswortlaut, Kommentierung, kantonale Praxisfragen)
-  rechtsprechung.md — Rechtsprechungsübersicht (mind. 5 Leitentscheide, mind. 5 weitere Entscheide)
+  rechtsprechung.md — Rechtsprechungsübersicht (alle im Kommentar zitierten Entscheide, gegliedert nach Leitentscheiden und weiteren Entscheiden)
 ```
 
 Frontmatter-Felder:
