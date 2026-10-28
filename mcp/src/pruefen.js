@@ -382,11 +382,13 @@ export function normalisieren(s) {
 
 // Ein Zitat passt, wenn alle Stücke zwischen Auslassungen ([…], (…), ...) und
 // eigenen Einfügungen ([der Täter]) in dieser Reihenfolge im Trägersatz stehen.
+// Gross- und Kleinschreibung zählt nicht: Am Zitatanfang wird sie üblicherweise
+// dem eigenen Satz angepasst.
 export function zitatEnthalten(zitat, traeger) {
-  const t = normalisieren(traeger);
+  const t = normalisieren(traeger).toLowerCase();
   const stuecke = zitat
     .split(/\[[^\]]*\]|\(\s*(?:…|\.\.\.)\s*\)|…|\.\.\./)
-    .map((x) => normalisieren(x).replace(/^[\s.,;:]+|[\s.,;:]+$/g, ""))
+    .map((x) => normalisieren(x).toLowerCase().replace(/^[\s.,;:]+|[\s.,;:]+$/g, ""))
     .filter((x) => x.length > 3);
   let ab = 0;
   for (const s of stuecke) {
