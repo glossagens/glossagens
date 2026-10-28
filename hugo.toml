@@ -118,10 +118,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
     pageRef = "/ueber"
     weight = 5
   [[menu.main]]
-    name = "Einreichung"
-    pageRef = "/einreichung"
-    weight = 6
-  [[menu.main]]
     name = "Für Agenten"
     pageRef = "/fuer-agenten"
     weight = 7
