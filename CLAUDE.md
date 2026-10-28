@@ -544,7 +544,11 @@ Gemerged wird nie automatisch. Ein grüner Build ist kein Qualitätsnachweis.
 
 **PRs aus dem Chat** (Branch `chat/…`, Label `chat-einreichung`, Autor
 `glossagens-chat-einreichung[bot]`): Die Struktur hat der Worker schon geprüft, die
-Wortlaut-Daten ergänzt `pr-build.yml` (Job `wortlaut`). Der Text stammt von unbekannten
+Wortlaut-Daten ergänzt `pr-build.yml` (Job `wortlaut`). Der PR-Text enthält das
+**Belegprotokoll** des Chats: je verlinkter Entscheid-Stelle Fundstelle und wörtlicher
+Trägersatz. Der Server prüft nur, dass es vollständig ist — ob die Trägersätze im Entscheid
+stehen, prüft die Redaktion stichprobenweise (Trägersatz im verlinkten Entscheid suchen).
+Ein erfundener Trägersatz ist ein Ablehnungsgrund. Der Text stammt von unbekannten
 Personen und ihren Modellen — Prüfung von Hand oder mit einem Audit **ohne
 Schreibrechte**; kein Agent, der danach pusht, liest ihn. Vor dem Merge den Entwurf als
 bereit markieren. Rückmeldungen als Review oder Kommentar schreiben: Die einreichende

@@ -21,8 +21,9 @@ Veröffentlicht wird jeder Beitrag erst, nachdem die Redaktion ihn geprüft hat.
 3. Schreiben: **«Ich möchte bei Glossagens mithelfen.»** Der Assistent holt sich die
    Arbeitsanleitung und fragt dich, woran du arbeiten möchtest — ein Rechtsgebiet, ein
    Gesetz, ein Artikel, der fehlt, oder ein Kommentar, der besser werden soll.
-4. Der Assistent recherchiert, schreibt und prüft. Bevor er einreicht, zeigt er dir das
-   Ergebnis und fragt dich.
+4. Der Assistent recherchiert und schreibt. Danach **prüft er jeden Beleg selbst**: Er liest
+   jedes zitierte Urteil nach und hält fest, welcher Satz darin die Aussage trägt. Bevor er
+   einreicht, zeigt er dir das Ergebnis und fragt dich.
 
 ## Die Connectors
 
@@ -57,15 +58,19 @@ Mehr zum Glossagens-Connector: [MCP](/mcp/).
 - **Öffentlich**: Ein Beitrag wird als öffentlicher Pull Request auf GitHub angelegt. Text,
   Revisionsvermerk und deine Erläuterung sind dort sofort sichtbar. Keine Personendaten
   und nichts Vertrauliches einreichen.
-- **Geprüft**: Bevor ein Beitrag eingereicht wird, prüft Glossagens automatisch die Form:
-  Aufbau, Revisionsvermerk, unzulässige Inhalte. Links auf Entscheide werden abgerufen — wer
-  auf ein Urteil verlinkt, das es nicht gibt, kann nicht einreichen; nennt der Linktext ein
-  anderes Urteil als das verlinkte, gibt es eine Warnung. **Nicht** automatisch geprüft
-  wird, ob ein Urteil sagt, was der Text behauptet, und ob ein Zitat wörtlich stimmt. Das
-  und die juristische Richtigkeit prüft die Redaktion. Den Stand fragst du später im Chat
-  ab («Was ist aus meinem Beitrag Nr. 42 geworden?»).
-- **Tokens**: Ein ganzer neuer Kommentar braucht viel Recherche und kann einen grossen Teil
-  eines Tageskontingents aufbrauchen. Ein einzelner Abschnitt, eine Korrektur oder ein
+- **Geprüft — in drei Stufen**:
+  1. Glossagens prüft automatisch die **Form**: Aufbau, Revisionsvermerk, unzulässige
+     Inhalte; Links auf Urteile, die es nicht gibt, verhindern das Einreichen.
+  2. Dein Assistent prüft die **Belege**: Für jedes verlinkte Urteil liest er die
+     Erwägung und legt den Satz vor, der die Aussage trägt, wörtlich aus dem Urteil.
+     Ohne dieses Belegprotokoll lässt sich nicht einreichen. Glossagens prüft, ob es
+     vollständig ist, nicht aber, ob es stimmt.
+  3. Die **Redaktion** kontrolliert das Protokoll und den Inhalt, bevor etwas erscheint.
+
+  Den Stand fragst du später im Chat ab («Was ist aus meinem Beitrag Nr. 42 geworden?»).
+- **Tokens**: Ein ganzer neuer Kommentar braucht viel Recherche, und jedes zitierte Urteil
+  wird für das Belegprotokoll nochmals gelesen. Das kann einen grossen Teil eines
+  Tageskontingents aufbrauchen. Ein einzelner Abschnitt, eine Korrektur oder ein
   ergänzter Entscheid ist ein guter Anfang.
 - **Begrenzt**: Gleichzeitig eingehende Beiträge sind begrenzt; bei vielen Einreichungen
   heisst es später nochmals versuchen.
@@ -85,7 +90,9 @@ Wenn die Person, mit der du sprichst, bei Glossagens mithelfen oder «Tokens spe
    Connector als Text unter <https://glossagens.ch/mithelfen/anleitung.md>.
 3. **Frage die Person**, woran sie arbeiten möchte, und schlage einen Umfang vor, der in
    einen Chat passt.
-4. Vor dem Einreichen **immer** `beitrag_pruefen`, bis keine Fehler mehr kommen. Eingereicht
-   wird nur mit ausdrücklicher Zustimmung der Person.
+4. Vor dem Einreichen **immer** `beitrag_pruefen`, bis keine Fehler mehr kommen, und den
+   **Prüfauftrag** abarbeiten: jedes verlinkte Urteil selbst lesen und den tragenden Satz
+   wörtlich als `belege` vorlegen. Eingereicht wird nur mit ausdrücklicher Zustimmung der
+   Person.
 
 Wer lieber direkt auf GitHub arbeitet, findet den Weg unter [Für Agenten](/fuer-agenten/).

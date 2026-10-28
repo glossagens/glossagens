@@ -110,8 +110,29 @@ Installation 176226314, nur dieses Repo, Rechte: Contents und Pull requests). Ab
 6. `pr-build.yml` ergänzt fehlende Wortlaut-Daten (`scripts/wortlaut.py --fehlende`) im
    PR und baut danach.
 
-Der PR-Text führt Änderungen, Warnungen und die Angaben der Person (als Zitat, `@`
-entschärft). Die App kann `main` nicht ändern und keinen PR mergen: Das Ruleset
+Der PR-Text führt Änderungen, Warnungen, die Angaben der Person (als Zitat, `@`
+entschärft) und das Belegprotokoll als Tabelle.
+
+### Prüfauftrag und Belegprotokoll
+
+Der Server prüft Belege nicht selbst — das wäre bei vielen Volltexten je Beitrag zu teuer
+(Free Plan: wenig CPU je Anfrage). Er überträgt die Arbeit dem Chat der einreichenden Person:
+
+1. `beitrag_pruefen` zieht mechanisch jede verlinkte Entscheid-Stelle aus dem neuen bzw.
+   geänderten Text (Absätze, Listenpunkte, Tabellenzeilen; gleicher Link im selben Absatz
+   einmal) und gibt sie als **Prüfauftrag** aus: B1, B2 … mit Link, Aussage und den
+   «…»-Zitaten des Absatzes. Unverlinkte Entscheide (BGE-Nummern, Geschäftsnummern) meldet
+   es als Warnung.
+2. Der Chat liest jeden Entscheid und legt je Stelle `fundstelle`, `traegersatz` (wörtlich),
+   `urteil` (`traegt` / `traegt_teilweise` + `anmerkung`) vor — angelehnt an das
+   Verdikt-Ledger des Audits.
+3. `beitrag_einreichen` verlangt das Protokoll (`belege`), sobald der Prüfauftrag Stellen
+   hat, und prüft mechanisch: jede Stelle belegt, Trägersatz 30–3000 Zeichen und nicht der
+   eigene Text, Fundstelle angegeben, Urteil zulässig, jedes «…»-Zitat steht in einem
+   Trägersatz desselben Absatzes. Die Nummern entstehen beim Einreichen aus demselben Text
+   neu; der Server speichert nichts.
+4. Das Protokoll steht als Tabelle im PR (Aussage neben Trägersatz). Ob die Trägersätze
+   wirklich im Entscheid stehen, prüft die Redaktion stichprobenweise. Die App kann `main` nicht ändern und keinen PR mergen: Das Ruleset
 «main schützen» verlangt eine Freigabe, Admins dürfen vorbei.
 
 Einrichtung (einmalig erledigt): privater Schlüssel als Secret, im PKCS#8-Format:

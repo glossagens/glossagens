@@ -146,12 +146,55 @@ und Kernaussage.
 Korrigiere, bis keine **Fehler** mehr kommen. **Warnungen** prüfst du einzeln: Meldet die
 Prüfung, dass Linktext und Ziel verschiedene Urteile nennen, ist fast immer das Zitat falsch.
 
+### Prüfauftrag: jeden Beleg selbst prüfen
+
+Glossagens prüft die Belege nicht für dich — das ist deine Arbeit, und sie ist der wichtigste
+Teil des Beitrags. `beitrag_pruefen` gibt einen **Prüfauftrag** aus: jede verlinkte
+Entscheid-Stelle im neuen Text mit Nummer (B1, B2 …), Link, der Aussage, die daran hängt, und
+den wörtlichen Zitaten des Absatzes. Für **jede** Nummer:
+
+1. Den Entscheid mit `fetch_document` (entscheidsuche) öffnen — auch wenn du ihn schon zu
+   kennen glaubst.
+2. Die genannte Erwägung lesen, bei Bedarf Regeste und Dispositiv.
+3. Den Satz oder die Sätze finden, die die Aussage tragen, und **wörtlich kopieren**.
+4. Urteilen:
+   - `traegt` — der Entscheid sagt das.
+   - `traegt_teilweise` — er sagt es nur eingeschränkt; Aussage im Text entsprechend
+     einschränken und in `anmerkung` festhalten, was nicht getragen ist.
+   - trägt nicht, betrifft etwas anderes oder sagt das Gegenteil — **die Aussage korrigieren
+     oder den Beleg streichen**, dann neu prüfen. Ein solcher Beleg darf nicht stehen bleiben.
+5. Jedes «…»-Zitat im Absatz muss wörtlich im Trägersatz stehen. Steht es dort anders, das
+   Zitat dem Original angleichen oder in eigene Worte fassen.
+6. Stimmt die Erwägung im Link nicht, den Anker korrigieren.
+
+Das Ergebnis gibst du als `belege` mit:
+
+```
+belege: [
+  { "id": "B1", "fundstelle": "E. 2.2", "urteil": "traegt",
+    "traegersatz": "<wörtlich aus dem Entscheid>" },
+  { "id": "B2", "fundstelle": "E. 3.1", "urteil": "traegt_teilweise",
+    "traegersatz": "<wörtlich>", "anmerkung": "<was nicht getragen ist>" }
+]
+```
+
+`beitrag_pruefen` mit `belege` meldet, ob das Protokoll vollständig und stimmig ist.
+Ändert sich der Text danach, ändern sich womöglich auch die Nummern: neu prüfen. Das
+Protokoll erscheint im Pull Request neben dem Text; die Redaktion vergleicht dort
+Trägersätze mit den Entscheiden. Einen Trägersatz, der nicht im Entscheid steht, erkennt sie
+— und der Beitrag wird abgelehnt.
+
+Die Prüfung braucht Tokens, bei vielen Belegen viele. Sag das der Person; lieber weniger
+Belege, die stimmen, als viele ungeprüfte. Entscheide **ohne Link** kommen nicht in den
+Prüfauftrag — verlinke jeden Entscheid, den du nennst.
+
 ## 6. Einreichen
 
 1. Zeige der Person, was du einreichst: die Änderungen in Kürze, bei kurzen Texten den Text.
 2. Sag ihr, dass der Beitrag als öffentlicher Pull Request auf GitHub erscheint.
 3. Frage ausdrücklich, ob du einreichen sollst. Nur bei Ja: `beitrag_einreichen` mit
-   denselben Angaben wie beim Prüfen, optional `beschreibung` für die Redaktion.
+   denselben Angaben wie beim Prüfen **samt `belege`**, optional `beschreibung` für die
+   Redaktion. Ohne vollständiges Belegprotokoll nimmt Glossagens nichts an.
 4. Gib den Link weiter. Den Stand zeigt später `einreichung_status` (Nummer oder Link).
 
 Verlangt die Redaktion Änderungen, überarbeite den Beitrag und reiche ihn neu ein; in
@@ -161,5 +204,6 @@ Verlangt die Redaktion Änderungen, überarbeite den Beitrag und reiche ihn neu 
 
 - Gesetzestext abschreiben, Urteile oder Zitate aus dem Gedächtnis, URLs selbst bauen.
 - Einen Entscheid zitieren, dessen Erwägung du nicht gelesen hast.
+- Einen Trägersatz umformulieren, kürzen oder erfinden — er wird wörtlich kopiert.
 - Ohne Zustimmung der Person einreichen, Personendaten einreichen.
 - `agent_verified` oder `mcp_verified` setzen (abgeschafft).

@@ -6,7 +6,7 @@ import assert from "node:assert/strict";
 import { createHash, createVerify, generateKeyPairSync } from "node:crypto";
 import worker, { _speicherLeeren, artikelSlug, beitragPruefen, gesetzFinden, letzteRevision, normErkennen, wortlautText } from "../src/index.js";
 import { _tokenVergessen } from "../src/github.js";
-import { gitSha, heute, inhaltPruefen, linkAbgleich } from "../src/pruefen.js";
+import { belegeAbgleichen, belegstellenFinden, gitSha, heute, inhaltPruefen, linkAbgleich, zitatEnthalten } from "../src/pruefen.js";
 
 const SITE = "https://site.test";
 const RAW = "https://raw.test";
@@ -691,6 +691,112 @@ await pruefe("einreichung_status: kein Chat-PR, unbekannt, ungültig; auch bei N
   const d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "tools/list" }, { env: { ...ENV_EIN, EINREICHEN: "aus" } })).json();
   const namen = d.result.tools.map((t) => t.name);
   assert.ok(namen.includes("einreichung_status") && !namen.includes("beitrag_einreichen"));
+});
+
+// --- Prüfauftrag und Belegprotokoll -------------------------------------------
+
+const U1 = "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-136_2020.html#consideration_2.2";
+const U2 = "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1-2024_2024-05-01.html";
+const BELEGTEXT = [
+  "## Fluchtgefahr",
+  "",
+  `Massgebend ist eine Gesamtwürdigung; die Schwere der Tat allein genügt nicht ([BGE 146 IV 136 E. 2.2](${U1})). Das Gericht hält fest, es bedürfe «konkreter Anhaltspunkte für eine Flucht» ([BGE 146 IV 136 E. 2.2](${U1})).`,
+  "",
+  `- Verneint bei fester Arbeitsstelle ([BGer 7B_1/2024](${U2})), vgl. auch BGE 143 IV 160.`,
+  "",
+  `| Konstellation | Ergebnis | Entscheid |`,
+  `|---|---|---|`,
+  `| Auslandbeziehungen | bejaht | [BGE 146 IV 136](${U1.split("#")[0]}) |`,
+].join("\n");
+
+await pruefe("belegstellenFinden: Absätze, Listen, Tabellen, unverlinkte Entscheide", () => {
+  const { stellen, ohneLink } = belegstellenFinden(BELEGTEXT);
+  assert.deepEqual(stellen.map((x) => [x.id, x.zeile, x.entscheid, x.pinpoint]), [
+    ["B1", 3, "BGE 146 IV 136 E. 2.2", "E. 2.2"],
+    ["B2", 5, "BGer 7B_1/2024", null],
+    ["B3", 9, "BGE 146 IV 136", null],
+  ]);
+  assert.match(stellen[0].aussage, /^Massgebend ist eine Gesamtwürdigung.*\(BGE 146 IV 136 E\. 2\.2\)\.$/);
+  assert.deepEqual(stellen[0].zitate, ["konkreter Anhaltspunkte für eine Flucht"]);
+  assert.equal(stellen[0].einheit, 1);
+  assert.deepEqual(ohneLink, [{ zeile: 5, entscheid: "BGE 143 IV 160" }]);
+  // Bei Änderungen nur neue Einheiten
+  const neu = BELEGTEXT.replace("Verneint bei fester Arbeitsstelle", "Verneint bei unbefristeter Arbeitsstelle");
+  assert.deepEqual(belegstellenFinden(neu, BELEGTEXT).stellen.map((x) => x.entscheid), ["BGer 7B_1/2024"]);
+});
+
+await pruefe("zitatEnthalten: Auslassungen, Einfügungen, Typografie", () => {
+  const t = "Es bedarf konkreter Anhaltspunkte für eine Flucht; die blosse Möglichkeit genügt nicht.";
+  assert.ok(zitatEnthalten("konkreter Anhaltspunkte für eine Flucht", t));
+  assert.ok(zitatEnthalten("konkreter Anhaltspunkte […]; die blosse Möglichkeit genügt nicht.", t));
+  assert.ok(zitatEnthalten("[Es bedarf] konkreter Anhaltspunkte für eine Flucht", t));
+  assert.ok(zitatEnthalten("konkreter  Anhalts­punkte für eine Flucht", t));
+  assert.ok(!zitatEnthalten("konkreter Hinweise für eine Flucht", t));
+  assert.ok(!zitatEnthalten("die blosse Möglichkeit genügt nicht […] konkreter Anhaltspunkte", t), "Reihenfolge");
+});
+
+const TRAEGER = "Es bedarf konkreter Anhaltspunkte für eine Flucht; die Schwere der Tat allein genügt nicht (E. 2.2).";
+const BELEGE = [
+  { id: "B1", fundstelle: "E. 2.2", traegersatz: TRAEGER, urteil: "traegt" },
+  { id: "B2", fundstelle: "E. 3.1", traegersatz: "Der Beschwerdeführer verfügt über eine feste Arbeitsstelle in der Schweiz.", urteil: "traegt_teilweise", anmerkung: "Arbeitsstelle nur ein Element." },
+  { id: "B3", fundstelle: "E. 2.4", traegersatz: "Die Beziehungen ins Ausland begründen Fluchtgefahr.", urteil: "traegt" },
+];
+
+await pruefe("belegeAbgleichen: vollständig und stimmig", () => {
+  const { stellen } = belegstellenFinden(BELEGTEXT);
+  const r = belegeAbgleichen(stellen, BELEGE);
+  assert.deepEqual(r.fehler, []);
+  assert.equal(r.eintraege.get("B2").fundstelle, "E. 3.1");
+});
+
+await pruefe("belegeAbgleichen: Lücken und Widersprüche", () => {
+  const { stellen } = belegstellenFinden(BELEGTEXT);
+  const r = belegeAbgleichen(stellen, [
+    { id: "b1", fundstelle: "E. 2.2", traegersatz: "Es bedarf konkreter Hinweise auf eine Flucht, wie das Gericht festhält.", urteil: "traegt" },
+    { id: "B2", fundstelle: "", traegersatz: "kurz", urteil: "traegt_teilweise" },
+    { id: "B9", fundstelle: "E. 1", traegersatz: "x".repeat(40), urteil: "traegt" },
+  ]);
+  const f = r.fehler.join("\n");
+  assert.match(f, /Es fehlen B3/);
+  assert.match(f, /B2: `traegersatz` fehlt oder ist zu kurz/);
+  assert.match(f, /B2: `fundstelle` fehlt/);
+  assert.match(f, /B2: Bei "traegt_teilweise"/);
+  assert.match(f, /Das Zitat «konkreter Anhaltspunkte für eine Flucht» steht in keinem Trägersatz/);
+  assert.match(r.warnungen.join(), /B9 gibt es im Prüfauftrag nicht/);
+  const r2 = belegeAbgleichen(stellen, [...BELEGE.slice(1), { ...BELEGE[0], urteil: "traegt_nicht" }]);
+  assert.match(r2.fehler.join(), /B1: `urteil` "traegt_nicht" ist nicht zulässig/);
+  const eigen = stellen[2].aussage;
+  const r3 = belegeAbgleichen(stellen, [...BELEGE.slice(0, 2), { ...BELEGE[2], traegersatz: eigen }]);
+  assert.match(r3.fehler.join(), /B3: Der Trägersatz ist der eigene Text/);
+});
+
+await pruefe("beitrag_pruefen: Prüfauftrag im Bericht, Protokoll wird geprüft", async () => {
+  DATEIEN[U1.split("#")[0]] = "<html></html>";
+  DATEIEN[U2] = "<html></html>";
+  const datei = NEU_071.replace("Text.", BELEGTEXT.replace("## Fluchtgefahr\n\n", ""));
+  let r = await tool("beitrag_pruefen", { gesetz: "StGB", artikel: "71", datei, revision: REVISION });
+  assert.match(r.text, /^Ergebnis: keine Fehler\./m, "ohne Protokoll beim Prüfen kein Fehler");
+  assert.match(r.text, /## Prüfauftrag: 3 Belegstelle\(n\)/);
+  assert.match(r.text, /B1 · Zeile \d+ · BGE 146 IV 136 E\. 2\.2\n   https:\/\/entscheidsuche\.ch\/.*#consideration_2\.2\n   Aussage: Massgebend/);
+  assert.match(r.text, /Zitate: «konkreter Anhaltspunkte für eine Flucht»/);
+  assert.match(r.text, /Entscheide ohne Link: BGE 143 IV 160/);
+  r = await tool("beitrag_pruefen", { gesetz: "StGB", artikel: "71", datei, revision: REVISION, belege: BELEGE });
+  assert.match(r.text, /Belegprotokoll: vollständig und stimmig\./);
+  assert.ok(!r.text.includes("Aussage: Massgebend"), "vollständig: Liste nicht wiederholt");
+});
+
+await pruefe("beitrag_einreichen: ohne Protokoll nicht, mit Protokoll als Tabelle im PR", async () => {
+  const angelegt = githubStandard();
+  const datei = NEU_071.replace("Text.", BELEGTEXT.replace("## Fluchtgefahr\n\n", ""));
+  let r = await tool("beitrag_einreichen", { gesetz: "StGB", artikel: "71", datei, revision: REVISION }, ENV_EIN);
+  assert.match(r.text, /^Nicht eingereicht/);
+  assert.match(r.text, /Belegprotokoll fehlt \(`belege`\): Der Text verlinkt 3 Entscheid-Stelle\(n\)/);
+  assert.ok(!angelegt.pr, "kein PR ohne Protokoll");
+  r = await tool("beitrag_einreichen", { gesetz: "StGB", artikel: "71", datei, revision: REVISION, belege: BELEGE }, ENV_EIN);
+  assert.match(r.text, /^Eingereicht:/, r.text);
+  assert.match(angelegt.pr.body, /### Belegprotokoll \(vom Chat erstellt, ungeprüft\)/);
+  assert.match(angelegt.pr.body, /\| B1 \| \[BGE 146 IV 136 E\. 2\.2\]\(https:\/\/entscheidsuche[^)]*\) \| E\. 2\.2 \| trägt \| Massgebend .* \| Es bedarf konkreter Anhaltspunkte/);
+  assert.match(angelegt.pr.body, /\| B2 \| .* \| teilweise: Arbeitsstelle nur ein Element\. \|/);
 });
 
 await pruefe("Zwischenspeicher: Katalog nur einmal geholt", async () => {

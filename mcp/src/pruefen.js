@@ -314,6 +314,174 @@ export function linkAbgleich(text, url) {
   return null;
 }
 
+// --- Prüfauftrag und Belegprotokoll ---------------------------------------------
+//
+// Der Server prüft Belege nicht selbst — das wäre bei Dutzenden Volltexten je
+// Beitrag zu teuer. Er zieht die Belegstellen mechanisch aus dem Text, und der
+// Chat der einreichenden Person liest jeden Entscheid und legt je Stelle den
+// tragenden Satz vor (Format angelehnt an das Verdikt-Ledger des Audits). Der
+// Server prüft nur, ob das Protokoll vollständig und in sich stimmig ist; die
+// Redaktion kontrolliert die Trägersätze im Pull Request.
+
+const ENTSCHEID_URL = /entscheidsuche\.ch\/docs\/|bger\.ch\/|opencaselaw\.ch\/entscheid/;
+const ENTSCHEID_TEXT = /\bBGE\s+\d{2,3}\s+[IV]+[ab]?\s+\d+|\b\d{1,2}[A-Z]{1,2}_\d+\/\d{4}\b/g;
+export const URTEILE = ["traegt", "traegt_teilweise"];
+
+// Einheiten, an denen Belege hängen: Absätze; Listenpunkte und Tabellenzeilen
+// je für sich. Überschriften und Code-Blöcke tragen keine Belege.
+function einheiten(text) {
+  const zeilen = text.split("\n");
+  const liste = [];
+  let aktuell = null;
+  let imCode = false;
+  const abschliessen = () => {
+    if (aktuell) liste.push(aktuell);
+    aktuell = null;
+  };
+  zeilen.forEach((z, i) => {
+    if (/^(```|~~~)/.test(z)) {
+      imCode = !imCode;
+      abschliessen();
+      return;
+    }
+    if (imCode || !z.trim() || /^#{1,6}\s/.test(z)) {
+      abschliessen();
+      return;
+    }
+    const eigen = /^\s*([-*+]|\d+\.)\s|^\s*\|/.test(z);
+    if (eigen || !aktuell) {
+      abschliessen();
+      aktuell = { zeile: i + 1, text: z };
+      if (eigen) abschliessen();
+    } else {
+      aktuell.text += `\n${z}`;
+    }
+  });
+  abschliessen();
+  return liste;
+}
+
+function ohneLinks(s) {
+  return s.replace(/!?\[((?:[^\[\]]|\[[^\]]*\])*)\]\([^)]*\)/g, "$1");
+}
+
+function zitateIn(s) {
+  return [...s.matchAll(/«([^«»]+)»/g)].map((m) => m[1].trim()).filter((z) => z.split(/\s+/).length >= 3);
+}
+
+// Vereinheitlicht Leerraum, Striche, Anführungszeichen und weiche Trennstriche,
+// damit ein wörtliches Zitat auch bei typografischen Unterschieden passt.
+export function normalisieren(s) {
+  return String(s)
+    .replace(/­/g, "")
+    .replace(/[‐-―−]/g, "-")
+    .replace(/[„“”"«»‹›‚‘’']/g, "'")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+// Ein Zitat passt, wenn alle Stücke zwischen Auslassungen ([…], (…), ...) und
+// eigenen Einfügungen ([der Täter]) in dieser Reihenfolge im Trägersatz stehen.
+export function zitatEnthalten(zitat, traeger) {
+  const t = normalisieren(traeger);
+  const stuecke = zitat
+    .split(/\[[^\]]*\]|\(\s*(?:…|\.\.\.)\s*\)|…|\.\.\./)
+    .map((x) => normalisieren(x).replace(/^[\s.,;:]+|[\s.,;:]+$/g, ""))
+    .filter((x) => x.length > 3);
+  let ab = 0;
+  for (const s of stuecke) {
+    const i = t.indexOf(s, ab);
+    if (i < 0) return false;
+    ab = i + s.length;
+  }
+  return stuecke.length > 0;
+}
+
+// Belegstellen im (neuen) Text; bei Änderungen nur in Einheiten, die es im
+// bisherigen Text nicht gab. Nummern B1, B2 … in Textreihenfolge — beim
+// Einreichen entstehen aus demselben Text dieselben Nummern.
+export function belegstellenFinden(text, altText = null) {
+  const alt = new Set(altText == null ? [] : einheiten(altText).map((e) => normalisieren(e.text)));
+  const stellen = [];
+  const ohneLink = [];
+  let einheitNr = 0;
+  for (const e of einheiten(text)) {
+    if (alt.has(normalisieren(e.text))) continue;
+    einheitNr++;
+    const links = linksFinden(e.text).filter((l) => !l.bild && ENTSCHEID_URL.test(l.url));
+    const rest = e.text.replace(/!?\[((?:[^\[\]]|\[[^\]]*\])*)\]\([^)]*\)/g, "");
+    for (const m of rest.matchAll(ENTSCHEID_TEXT)) ohneLink.push({ zeile: e.zeile, entscheid: m[0] });
+    const gesehen = new Set();
+    for (const l of links) {
+      if (gesehen.has(l.url)) continue;
+      gesehen.add(l.url);
+      const anker = l.url.match(/#consideration_([\d.]+)/)?.[1];
+      stellen.push({
+        id: `B${stellen.length + 1}`,
+        einheit: einheitNr,
+        zeile: e.zeile + l.zeile - 1,
+        entscheid: ohneLinks(l.text).replace(/\s+/g, " ").trim(),
+        url: l.url,
+        pinpoint: anker ? `E. ${anker.replace(/\.$/, "")}` : null,
+        aussage: ohneLinks(e.text).replace(/^\s*([-*+]|\d+\.)\s+|^\s*\|\s*/, "").replace(/\s+/g, " ").trim(),
+        zitate: zitateIn(ohneLinks(e.text)),
+      });
+    }
+  }
+  return { stellen, ohneLink };
+}
+
+// Mechanische Prüfung des Protokolls: vollständig, Trägersatz vorhanden, jedes
+// Zitat steht im Trägersatz, nichts Unbelegtes stehen gelassen.
+export function belegeAbgleichen(stellen, belege) {
+  const fehler = [];
+  const warnungen = [];
+  if (!Array.isArray(belege)) return { fehler: ["`belege` muss eine Liste sein: ein Eintrag je Punkt des Prüfauftrags."], warnungen, eintraege: new Map() };
+  const eintraege = new Map();
+  for (const b of belege) {
+    const id = String(b?.id ?? "").trim().toUpperCase();
+    if (!id) continue;
+    if (eintraege.has(id)) warnungen.push(`Belegprotokoll: ${id} doppelt; der erste Eintrag gilt.`);
+    else eintraege.set(id, b);
+  }
+  const bekannt = new Set(stellen.map((s) => s.id));
+  const fremd = [...eintraege.keys()].filter((id) => !bekannt.has(id));
+  if (fremd.length) warnungen.push(`Belegprotokoll: ${fremd.join(", ")} gibt es im Prüfauftrag nicht (Text seit der Prüfung geändert?) — ignoriert.`);
+  const fehlend = stellen.filter((s) => !eintraege.has(s.id)).map((s) => s.id);
+  if (fehlend.length) fehler.push(`Belegprotokoll unvollständig: Es fehlen ${fehlend.join(", ")}.`);
+
+  const traegerJeEinheit = new Map();
+  for (const s of stellen) {
+    const b = eintraege.get(s.id);
+    if (!b) continue;
+    const traeger = typeof b.traegersatz === "string" ? b.traegersatz.trim() : "";
+    if (traeger.length < 30) fehler.push(`${s.id}: \`traegersatz\` fehlt oder ist zu kurz — den tragenden Satz wörtlich aus dem Entscheid kopieren.`);
+    else if (traeger.length > 3000) fehler.push(`${s.id}: \`traegersatz\` ist zu lang (höchstens 3000 Zeichen); nur die tragenden Sätze.`);
+    else if (normalisieren(traeger) === normalisieren(s.aussage)) fehler.push(`${s.id}: Der Trägersatz ist der eigene Text. Er muss aus dem Entscheid stammen.`);
+    if (!String(b.fundstelle ?? "").trim()) fehler.push(`${s.id}: \`fundstelle\` fehlt (z. B. "E. 2.3", "Regeste").`);
+    if (!URTEILE.includes(b.urteil)) {
+      fehler.push(`${s.id}: \`urteil\` "${b.urteil ?? ""}" ist nicht zulässig. Trägt der Entscheid die Aussage nicht, die Aussage korrigieren oder den Beleg streichen und neu prüfen.`);
+    } else if (b.urteil === "traegt_teilweise" && !String(b.anmerkung ?? "").trim()) {
+      fehler.push(`${s.id}: Bei "traegt_teilweise" in \`anmerkung\` festhalten, was der Entscheid nicht trägt und wie die Aussage eingeschränkt ist.`);
+    }
+    if (traeger) traegerJeEinheit.set(s.einheit, [...(traegerJeEinheit.get(s.einheit) ?? []), traeger]);
+  }
+  // Ein Zitat gehört zu einem der Entscheide seines Absatzes.
+  const geprueft = new Set();
+  for (const s of stellen) {
+    for (const z of s.zitate) {
+      const schluessel = `${s.einheit}\u0000${z}`;
+      if (geprueft.has(schluessel)) continue;
+      geprueft.add(schluessel);
+      const traeger = traegerJeEinheit.get(s.einheit) ?? [];
+      if (traeger.length && !traeger.some((t) => zitatEnthalten(z, t))) {
+        fehler.push(`Zeile ${s.zeile}: Das Zitat «${kurz(z, 80)}» steht in keinem Trägersatz dieses Absatzes. Wörtliche Zitate genau so aus dem Entscheid übernehmen und den Satz als Trägersatz angeben — oder das Zitat in eigene Worte fassen.`);
+      }
+    }
+  }
+  return { fehler, warnungen, eintraege };
+}
+
 // --- Abschnitte -----------------------------------------------------------------
 
 function ueberschriftOhneAnker(z) {
