@@ -13,6 +13,18 @@ workers_dev = true
 SITE_URL = "https://glossagens.ch"
 # Text der Kommentare und Wortlaut-Daten: das Repo, Stand main.
 RAW_URL = "https://raw.githubusercontent.com/glossagens/glossagens/main"
+# Einreichen (beitrag_einreichen) als GitHub App «Glossagens Chat-Einreichung».
+# Der private Schlüssel liegt als Secret GITHUB_APP_KEY beim Worker, nicht hier.
+GITHUB_REPO = "glossagens/glossagens"
+GITHUB_APP_ID = "5512533"
+GITHUB_INSTALLATION_ID = "176226314"
+# Not-Aus: alles ausser "an" blendet beitrag_einreichen aus.
+EINREICHEN = "an"
+
+# Zähler für die Obergrenzen und Erkennung doppelter Einreichungen.
+[[kv_namespaces]]
+binding = "EINREICHUNGEN"
+id = "37665ea63be0478eaca0366fe1a4a8ad"
 
 [observability]
 enabled = true

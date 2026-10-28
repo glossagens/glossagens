@@ -4,6 +4,7 @@
     scripts/wortlaut.py content/kommentar/stpo/art-110 [weitere Bundles …]
     scripts/wortlaut.py --stand 2025-04-01 content/kommentar/stpo/art-110
     scripts/wortlaut.py content/kommentar/stpo/art-*      # ganzes Gesetz
+    scripts/wortlaut.py --fehlende content/themen/x/_index.md   # was die Shortcodes darin brauchen
 
 Ergebnis: data/wortlaut/{gesetz}/art-{nr}.json, gerendert vom Shortcode
 `{{< wortlaut >}}` (layouts/_shortcodes/wortlaut.html).
@@ -459,12 +460,42 @@ def sr_aus_frontmatter(fm):
     return m.group(1)
 
 
+def fehlende_bundles(dateien):
+    """Bundles, deren Daten die `{{< wortlaut >}}`-Shortcodes in `dateien` brauchen,
+    die es aber noch nicht gibt. Für Beiträge, die ohne Daten kommen (pr-build.yml,
+    Branches chat/…); ein Bundle muss dafür nicht existieren, nur das Gesetz."""
+    bundles = []
+    for datei in dateien:
+        datei = (REPO / datei).resolve() if not Path(datei).is_absolute() else Path(datei)
+        teile = datei.relative_to(REPO).parts
+        eigen = teile[2:4] if teile[:2] == ("content", "kommentar") and len(teile) == 5 else (None, None)
+        for m in re.finditer(r"\{\{<\s*wortlaut\b([^>]*)>\}\}", datei.read_text(encoding="utf-8")):
+            g = re.search(r'gesetz="([a-z0-9-]+)"', m[1])
+            a = re.search(r'art="(art-[0-9a-z]+)"', m[1])
+            gesetz, slug = (g[1] if g else eigen[0]), (a[1] if a else eigen[1])
+            if not gesetz or not slug or (REPO / "data" / "wortlaut" / gesetz / f"{slug}.json").exists():
+                continue
+            bundle = Path("content/kommentar") / gesetz / slug
+            if bundle not in bundles:
+                bundles.append(bundle)
+    return bundles
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("bundles", nargs="+", type=Path)
+    ap.add_argument("bundles", nargs="*", type=Path)
+    ap.add_argument("--fehlende", nargs="+", type=Path, metavar="DATEI",
+                    help="statt Bundles: Markdown-Dateien, deren Shortcodes fehlende Daten brauchen")
     ap.add_argument("--stand", default=dt.date.today().isoformat(),
                     help="geltende Fassung an diesem Tag (Default: heute)")
     args = ap.parse_args()
+    if args.fehlende:
+        args.bundles += fehlende_bundles(args.fehlende)
+        if not args.bundles:
+            print("Keine Wortlaut-Daten fehlen.")
+            return
+    elif not args.bundles:
+        ap.error("Bundles oder --fehlende angeben")
 
     fassungen, docs, fehler = {}, {}, []
     for bundle in args.bundles:

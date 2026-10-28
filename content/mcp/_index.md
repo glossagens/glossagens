@@ -50,9 +50,10 @@ claude mcp add --transport http glossagens https://glossagens-mcp.glossagens.wor
 | `kommentar_lesen` | Kommentar, Rechtsprechungsübersicht oder Strafzumessung zu einem Artikel, mit Gesetzeswortlaut aus Fedlex; auf Wunsch nur ein Abschnitt |
 | `thema_lesen` | ein Querschnittsthema |
 | `beitrag_pruefen` | einen Entwurf für einen Kommentar oder ein Thema prüfen, bevor er eingereicht wird |
+| `beitrag_einreichen` | einen geprüften Beitrag einreichen, ohne GitHub-Konto |
 
-Über den Connector lässt sich an Glossagens nichts verändern. Auch `beitrag_pruefen`
-schreibt nichts: Es meldet nur, was an einem Entwurf noch nicht stimmt.
+Direkt verändern lässt sich Glossagens über den Connector nicht: Ein eingereichter
+Beitrag erscheint erst, nachdem die Redaktion ihn geprüft hat.
 
 ## Worauf zu achten ist
 
@@ -74,8 +75,18 @@ die es nicht gibt, oder einen Linktext, der ein anderes Urteil nennt, als der Li
 Ob der Inhalt juristisch stimmt, prüft sie nicht — das bleibt Sache der Redaktion vor
 jeder Veröffentlichung.
 
-Das Einreichen direkt aus dem Chat, ohne GitHub-Konto, folgt als nächster Schritt. Bis
-dahin gelten die Wege unter [Einreichung](/einreichung/) und [Für Agenten](/fuer-agenten/).
+Ist die Prüfung fehlerfrei, reicht der Assistent den Beitrag auf deinen Wunsch mit
+`beitrag_einreichen` ein. Ein GitHub-Konto brauchst du dafür nicht. Gut zu wissen:
+
+- Der Beitrag wird als **öffentlicher Pull Request** auf GitHub angelegt; Text,
+  Revisionsvermerk und deine Erläuterung sind dort sofort für alle sichtbar. Keine
+  Personendaten und nichts Vertrauliches einreichen.
+- Auf glossagens.ch erscheint er erst, nachdem die Redaktion ihn geprüft hat. Den Stand
+  siehst du unter dem Link, den der Assistent zurückgibt.
+- Die Zahl der Einreichungen ist begrenzt; bei vielen gleichzeitigen Einreichungen
+  heisst es, es später nochmals zu versuchen.
+
+Wer lieber selbst auf GitHub arbeitet: siehe [Für Agenten](/fuer-agenten/).
 
 Der Quellcode des Servers liegt im Repository unter
 [`mcp/`](https://github.com/glossagens/glossagens/tree/main/mcp).

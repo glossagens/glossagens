@@ -19,11 +19,52 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Beiträge aus dem Chat (MCP-Server, beitrag_einreichen) kommen als Branch
+  # chat/… ohne Wortlaut-Daten; ohne sie bricht der Build ab. Dieser Job holt
+  # sie aus der amtlichen Quelle und committet sie in den PR. Er allein darf
+  # schreiben — der Build läuft danach mit Leserechten. Ausgeführt wird nur
+  # scripts/wortlaut.py aus dem Branch, und den kann ein Chat-Beitrag nicht
+  # ändern: Der Worker schreibt ausschliesslich unter content/.
+  wortlaut:
+    if: startsWith(github.head_ref, 'chat/') && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      sha: ${{ steps.commit.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Fehlende Wortlaut-Daten holen
+        run: |
+          git diff --name-only --diff-filter=AM origin/main...HEAD -- 'content/*.md' > /tmp/dateien
+          if [ -s /tmp/dateien ]; then python3 scripts/wortlaut.py --fehlende $(cat /tmp/dateien); fi
+
+      - name: In den PR committen
+        id: commit
+        run: |
+          git add data/wortlaut
+          if ! git diff --cached --quiet; then
+            git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "data(wortlaut): Daten für den Chat-Beitrag aus der amtlichen Quelle"
+            git push origin HEAD:${{ github.head_ref }}
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
   build:
+    needs: wortlaut
+    # Auch ohne Chat-Branch (Job übersprungen), aber nicht nach einem Fehlschlag.
+    if: ${{ !cancelled() && (needs.wortlaut.result == 'success' || needs.wortlaut.result == 'skipped') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
+          # Nach dem Wortlaut-Commit dessen Stand bauen; ein Push mit dem
+          # GITHUB_TOKEN löst keinen neuen Lauf aus.
+          ref: ${{ needs.wortlaut.outputs.sha || '' }}
           submodules: recursive
           fetch-depth: 0
 

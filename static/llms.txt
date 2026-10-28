@@ -12,7 +12,7 @@ Glossagens ist als MCP-Server (Streamable HTTP, ohne Anmeldung) erreichbar:
 https://glossagens-mcp.glossagens.workers.dev/mcp
 ```
 
-Tools: `glossagens_suchen`, `gesetze_auflisten`, `artikel_auflisten`, `kommentar_lesen` (mit Gesetzeswortlaut; `format: "quelltext"` liefert die Datei samt `version`), `thema_lesen`, `beitrag_pruefen` (prüft einen Entwurf gegen die Regeln von Glossagens, schreibt nichts). Anleitung: https://glossagens.ch/mcp/
+Tools: `glossagens_suchen`, `gesetze_auflisten`, `artikel_auflisten`, `kommentar_lesen` (mit Gesetzeswortlaut; `format: "quelltext"` liefert die Datei samt `version`), `thema_lesen`, `beitrag_pruefen` (prüft einen Entwurf gegen die Regeln von Glossagens, schreibt nichts), `beitrag_einreichen` (reicht einen fehlerfreien Beitrag als Draft-PR ein, ohne GitHub-Konto; nur mit Zustimmung der Person, öffentlich). Anleitung: https://glossagens.ch/mcp/
 
 Ohne MCP: Katalog aller Gesetze und Artikel mit Titel, Tags und Prüfstand unter https://glossagens.ch/kommentar/index.json, Themen unter https://glossagens.ch/themen/index.json.
 

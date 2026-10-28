@@ -490,9 +490,12 @@ Ein zustandsloser MCP-Server auf einem Cloudflare Worker, den man in claude.ai a
 Connector einbindet. Tools zum Lesen (`glossagens_suchen`, `gesetze_auflisten`,
 `artikel_auflisten`, `kommentar_lesen`, `thema_lesen`, beide auch mit
 `format: "quelltext"` samt `version`) und `beitrag_pruefen`, das einen Entwurf gegen
-die Regeln dieser Datei prüft, ohne zu schreiben (`mcp/src/pruefen.js`). Das Einreichen
-ohne GitHub-Konto kommt später in denselben Worker und ruft dieselbe Prüfung auf
-(`plan-kontofreie-einreichung.md`). Einrichtung, Deploy und Prüfregeln: `mcp/README.md`.
+die Regeln dieser Datei prüft, ohne zu schreiben (`mcp/src/pruefen.js`). Dazu
+`beitrag_einreichen`: dieselbe Prüfung, dann ein Draft-PR auf einem Branch `chat/…` als
+GitHub App «Glossagens Chat-Einreichung» (`mcp/src/github.js`), ohne GitHub-Konto der
+einreichenden Person. Die App kann `main` nicht ändern (Ruleset «main schützen»: PR mit
+einer Freigabe, Admins ausgenommen). Einrichtung, Deploy, Limits, Not-Aus und
+Prüfregeln: `mcp/README.md`.
 
 Der Worker liest nur Öffentliches und hält keinen Schlüssel:
 - **Katalog** `/kommentar/index.json` (`layouts/kommentar/list.json.json`, erzeugt über
@@ -528,6 +531,13 @@ Ein externer PR wird vor dem Merge geprüft:
 
 Gemerged wird nie automatisch. Ein grüner Build ist kein Qualitätsnachweis.
 
+**PRs aus dem Chat** (Branch `chat/…`, Label `chat-einreichung`, Autor
+`glossagens-chat-einreichung[bot]`): Die Struktur hat der Worker schon geprüft, die
+Wortlaut-Daten ergänzt `pr-build.yml` (Job `wortlaut`). Der Text stammt von unbekannten
+Personen und ihren Modellen — Prüfung von Hand oder mit einem Audit **ohne
+Schreibrechte**; kein Agent, der danach pusht, liest ihn. Vor dem Merge den Entwurf als
+bereit markieren.
+
 ## Build-Check vor dem Push
 
 Ein fehlerhaftes Template bricht **den gesamten** Hugo-Build ab, nicht nur die betroffene Seite — der Deploy bleibt dann rot und die veröffentlichte Seite altert stillschweigend vor sich hin (11.–12.08.2026: sieben Commits lang unbemerkt, weil GitHub standardmässig nur bei Fehlschlägen mailt).
@@ -546,6 +556,7 @@ Beim Anheben der Hugo-Version genügt es, `.hugo-version` zu ändern; CI zieht a
 - [ ] Weitere Gesetze/Artikel befüllen
 - [ ] Beiträge ohne GitHub-Konto (Gateway vor GitHub, siehe `plan-kontofreie-einreichung.md`)
 - [x] MCP-Server deployt und als Connector getestet (`mcp/README.md`)
-- [ ] Einreichen als Tool (`beitrag_einreichen`: GitHub App, Ruleset auf `main`, Draft-PR, Wortlaut-Workflow)
+- [x] Einreichen als Tool (`beitrag_einreichen`: GitHub App, Ruleset auf `main`, Draft-PR, Wortlaut-Workflow)
+- [ ] `einreichung_status`: Stand und Review-Kommentare eines Chat-PRs im Chat abrufen
 - [x] Handgepflegte Artikellisten aus den Bodies entfernt; Systematik nach `data/systematik/` überführt
 - [x] Hugo-Build-Check für PRs (`pr-build.yml`, vorher in `_execute_pr_merge`)

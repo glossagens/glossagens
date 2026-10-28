@@ -2,11 +2,8 @@
 
 Ein MCP-Server auf einem Cloudflare Worker. Wer ihn in claude.ai als Connector
 hinzufügt (oder in Claude Code, Cursor, jedem MCP-Client), kann Glossagens im Chat
-durchsuchen und Kommentare lesen.
-
-Ausbaustufe 2: lesen und **Entwürfe prüfen**. Geschrieben wird noch nichts; das
-Einreichen ohne GitHub-Konto kommt später in denselben Worker (siehe
-`plan-kontofreie-einreichung.md`) und ruft dieselbe Prüfung auf.
+durchsuchen, Kommentare lesen, Entwürfe prüfen und Beiträge ohne GitHub-Konto
+einreichen. Eingereicht wird als Draft-PR; veröffentlicht erst nach dem Merge.
 
 **Live:** `https://glossagens-mcp.glossagens.workers.dev/mcp` (seit 28.10.2026).
 
@@ -20,6 +17,7 @@ Einreichen ohne GitHub-Konto kommt später in denselben Worker (siehe
 | `kommentar_lesen` | Kommentar, Rechtsprechung oder Strafzumessung als Markdown, Gesetzeswortlaut eingesetzt; mit `abschnitt` nur ein Abschnitt. `format: "quelltext"`: Datei unverändert samt Frontmatter und `version` |
 | `thema_lesen` | ein Querschnittsthema als Markdown, ebenfalls mit `format: "quelltext"` |
 | `beitrag_pruefen` | prüft einen Entwurf (neue Datei, ganze Datei oder ein Abschnitt) und meldet Fehler, Warnungen und Änderungen; schreibt nichts |
+| `beitrag_einreichen` | prüft wie `beitrag_pruefen` und legt bei fehlerfreier Prüfung einen Draft-PR an (nur sichtbar, wenn `EINREICHEN = "an"`) |
 
 ## Beitrag prüfen (`src/pruefen.js`)
 
@@ -93,6 +91,40 @@ curl -s http://localhost:8787/mcp -H 'Content-Type: application/json' \
 Oder mit dem MCP Inspector: `npx @modelcontextprotocol/inspector`, Transport
 «Streamable HTTP», URL `http://localhost:8787/mcp`.
 
+## Beitrag einreichen (`beitrag_einreichen`, `src/github.js`)
+
+Der Worker schreibt als GitHub App **Glossagens Chat-Einreichung** (App-ID 5512533,
+Installation 176226314, nur dieses Repo, Rechte: Contents und Pull requests). Ablauf:
+
+1. Dieselbe Prüfung wie `beitrag_pruefen`; mit Fehlern wird nichts angelegt.
+2. Doppelte Einreichung (gleicher Pfad und Inhalt, 7 Tage) → Link auf den bestehenden PR.
+3. Obergrenzen: 10 pro Stunde und 40 pro Tag insgesamt, 5 pro Stunde je IP. Die
+   globalen Grenzen sind die eigentlichen: claude.ai ruft Connectors über die Server
+   von Anthropic auf, alle Nutzer teilen sich wenige IPs.
+4. `version` gegen den `sha` der Datei auf `main` (GitHub-API, nicht raw).
+5. Branch `chat/{gesetz}-{art}[-teil]-{datum}-{zufall}` ab `main`, ein Commit mit der
+   einen Datei, Draft-PR mit Label `chat-einreichung`. Scheitert ein Schritt, wird der
+   Branch wieder gelöscht.
+6. `pr-build.yml` ergänzt fehlende Wortlaut-Daten (`scripts/wortlaut.py --fehlende`) im
+   PR und baut danach.
+
+Der PR-Text führt Änderungen, Warnungen und die Angaben der Person (als Zitat, `@`
+entschärft). Die App kann `main` nicht ändern und keinen PR mergen: Das Ruleset
+«main schützen» verlangt eine Freigabe, Admins dürfen vorbei.
+
+Einrichtung (einmalig erledigt): privater Schlüssel als Secret, im PKCS#8-Format:
+
+```sh
+openssl pkcs8 -topk8 -nocrypt -in <download>.private-key.pem -out app.pem
+npx wrangler secret put GITHUB_APP_KEY < app.pem
+```
+
+Zähler und Doppelerkennung liegen im KV-Namespace `EINREICHUNGEN`.
+
+**Not-Aus:** `EINREICHEN = "aus"` in `wrangler.toml` und deployen — das Tool
+verschwindet aus der Liste. Bei einem Schlüssel-Leck zusätzlich den Schlüssel in den
+App-Einstellungen auf GitHub löschen.
+
 ## Deployen
 
 Voraussetzung: ein Cloudflare-Konto (Free Plan genügt).
@@ -116,9 +148,14 @@ Art. 221 StPO?»
 
 ## Sicherheit
 
-- Die Tools lesen nur öffentlich zugängliche Daten; es gibt nichts zu stehlen und
-  nichts zu verändern. `beitrag_pruefen` ruft fremde URLs nur auf einer festen
-  Liste von Hosts ab, nie beliebige.
+- Die Lese- und Prüftools lesen nur öffentlich zugängliche Daten. `beitrag_pruefen`
+  ruft fremde URLs nur auf einer festen Liste von Hosts ab, nie beliebige.
+- Schreiben kann nur `beitrag_einreichen`, und nur einen Branch `chat/…` mit einer
+  Datei unter `content/kommentar/` oder `content/themen/` (der Pfad entsteht im Worker,
+  nicht aus der Eingabe). Rohes HTML, fremde Shortcodes und Attribut-Blöcke weist die
+  Prüfung ab — hugo.toml rendert HTML ungefiltert.
+- Eingereichter Text ist fremder Text: kein Agent mit Schreibrechten verarbeitet ihn
+  (CLAUDE.md, «PR-Prüfung»).
 - Gelesen wird nur unter festen Präfixen (`content/kommentar/{gesetz}/{artikel}/`,
   `content/themen/{slug}/`, `data/wortlaut/`); Gesetz und Artikel müssen im Katalog
   stehen, Slugs sind auf `[a-z0-9-]` beschränkt.

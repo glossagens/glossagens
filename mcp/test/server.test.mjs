@@ -3,8 +3,9 @@
 // im Format von /kommentar/index.json, /themen/index.json und data/wortlaut/.
 
 import assert from "node:assert/strict";
-import { createHash } from "node:crypto";
+import { createHash, createVerify, generateKeyPairSync } from "node:crypto";
 import worker, { _speicherLeeren, artikelSlug, beitragPruefen, gesetzFinden, letzteRevision, normErkennen, wortlautText } from "../src/index.js";
+import { _tokenVergessen } from "../src/github.js";
 import { gitSha, heute, inhaltPruefen, linkAbgleich } from "../src/pruefen.js";
 
 const SITE = "https://site.test";
@@ -89,24 +90,38 @@ const DATEIEN = {
 };
 
 let abrufe = [];
-globalThis.fetch = async (url) => {
+// GitHub-API: Handler je "METHODE /pfad", gesetzt von den Einreichen-Tests.
+let githubApi = {};
+const githubAufrufe = [];
+
+globalThis.fetch = async (url, init = {}) => {
   abrufe.push(String(url));
+  if (String(url).startsWith("https://api.github.com/")) {
+    const methode = init.method || "GET";
+    const pfad = String(url).slice("https://api.github.com".length);
+    const body = init.body ? JSON.parse(init.body) : undefined;
+    githubAufrufe.push({ methode, pfad, body, auth: init.headers?.Authorization });
+    const h = githubApi[`${methode} ${pfad.split("?")[0]}`];
+    if (!h) return new Response("{}", { status: 404 });
+    const [status, daten] = await h(body, pfad, init);
+    return new Response(JSON.stringify(daten), { status });
+  }
   const d = DATEIEN[String(url)];
   if (d === undefined) return new Response("nicht gefunden", { status: 404 });
   return new Response(typeof d === "string" ? d : JSON.stringify(d), { status: 200 });
 };
 
-async function rpc(nachricht, { methode = "POST", pfad = "/mcp" } = {}) {
+async function rpc(nachricht, { methode = "POST", pfad = "/mcp", env = ENV } = {}) {
   const req = new Request(`https://mcp.test${pfad}`, {
     method: methode,
     headers: { "Content-Type": "application/json", Accept: "application/json, text/event-stream" },
     body: methode === "POST" ? (typeof nachricht === "string" ? nachricht : JSON.stringify(nachricht)) : undefined,
   });
-  return worker.fetch(req, ENV);
+  return worker.fetch(req, env);
 }
 
-async function tool(name, args) {
-  const r = await rpc({ jsonrpc: "2.0", id: 1, method: "tools/call", params: { name, arguments: args } });
+async function tool(name, args, env = ENV) {
+  const r = await rpc({ jsonrpc: "2.0", id: 1, method: "tools/call", params: { name, arguments: args } }, { env });
   assert.equal(r.status, 200);
   const d = await r.json();
   return { text: d.result.content[0].text, fehler: Boolean(d.result.isError) };
@@ -490,6 +505,110 @@ await pruefe("linkAbgleich", () => {
 await pruefe("inhaltPruefen: Code-Blöcke und Autolinks", () => {
   const { fehler } = inhaltPruefen("`<div>` im Code\n\n```\n<div>\n```\n\n<https://glossagens.ch>", { art: "kommentar", teil: "rechtsprechung" });
   assert.deepEqual(fehler, []);
+});
+
+// --- beitrag_einreichen --------------------------------------------------------
+
+const { privateKey, publicKey } = generateKeyPairSync("rsa", { modulusLength: 2048, privateKeyEncoding: { type: "pkcs8", format: "pem" }, publicKeyEncoding: { type: "spki", format: "pem" } });
+const kvSpeicher = new Map();
+const KV = { get: async (k) => kvSpeicher.get(k) ?? null, put: async (k, v) => void kvSpeicher.set(k, v) };
+const ENV_EIN = { ...ENV, EINREICHEN: "an", GITHUB_APP_KEY: privateKey, GITHUB_APP_ID: "42", GITHUB_INSTALLATION_ID: "7", GITHUB_REPO: "o/r", EINREICHUNGEN: KV };
+const MAIN_SHA = "a".repeat(40);
+
+function githubStandard() {
+  const angelegt = {};
+  githubApi = {
+    "POST /app/installations/7/access_tokens": (_b, _p, init) => {
+      const [kopf, last, sig] = init.headers.Authorization.replace("Bearer ", "").split(".");
+      const ok = createVerify("RSA-SHA256").update(`${kopf}.${last}`).verify(publicKey, Buffer.from(sig, "base64url"));
+      const iss = JSON.parse(Buffer.from(last, "base64url")).iss;
+      return ok && iss === "42" ? [201, { token: "ghs_test", expires_at: new Date(Date.now() + 3600e3).toISOString() }] : [401, {}];
+    },
+    "GET /repos/o/r/git/ref/heads/main": () => [200, { object: { sha: MAIN_SHA } }],
+    "GET /repos/o/r/contents/content/kommentar/stgb/art-070/_index.md": () => [200, { sha: sha(ART_070) }],
+    "POST /repos/o/r/git/refs": (b) => ((angelegt.branch = b.ref), [201, {}]),
+    "PUT /repos/o/r/contents/content/kommentar/stgb/art-070/_index.md": (b) => ((angelegt.datei = b), [201, {}]),
+    "PUT /repos/o/r/contents/content/kommentar/stgb/art-071/_index.md": (b) => ((angelegt.datei = b), [201, {}]),
+    "POST /repos/o/r/pulls": (b) => ((angelegt.pr = b), [201, { number: 99, html_url: "https://github.com/o/r/pull/99" }]),
+    "POST /repos/o/r/issues/99/labels": (b) => ((angelegt.label = b), [200, []]),
+  };
+  githubAufrufe.length = 0;
+  kvSpeicher.clear();
+  _tokenVergessen();
+  return angelegt;
+}
+
+await pruefe("beitrag_einreichen nur sichtbar, wenn eingeschaltet", async () => {
+  let d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "tools/list" })).json();
+  assert.ok(!d.result.tools.some((t) => t.name === "beitrag_einreichen"));
+  d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "tools/call", params: { name: "beitrag_einreichen", arguments: {} } })).json();
+  assert.equal(d.error.code, -32602, "ausgeschaltet nicht aufrufbar");
+  d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "tools/list" }, { env: ENV_EIN })).json();
+  const t = d.result.tools.find((x) => x.name === "beitrag_einreichen");
+  assert.equal(t.annotations.readOnlyHint, false);
+  assert.ok(t.inputSchema.properties.beschreibung && t.inputSchema.properties.revision);
+});
+
+await pruefe("beitrag_einreichen: Abschnitt → Branch, Commit, Draft-PR, Label", async () => {
+  const angelegt = githubStandard();
+  const { text, fehler } = await tool("beitrag_einreichen", { gesetz: "StGB", artikel: "70", version: sha(ART_070), abschnitt: "Bruttoprinzip", text: "Neu.", revision: REVISION, beschreibung: "Bitte @jemand ansehen" }, ENV_EIN);
+  assert.ok(!fehler, text);
+  assert.match(text, /^Eingereicht: https:\/\/github\.com\/o\/r\/pull\/99 \(Pull Request Nr\. 99, Entwurf\)/);
+  assert.match(angelegt.branch, /^refs\/heads\/chat\/stgb-art-070-\d{4}-\d{2}-\d{2}-[0-9a-f]{8}$/);
+  assert.equal(angelegt.datei.sha, sha(ART_070));
+  assert.equal(angelegt.datei.branch, angelegt.branch.replace("refs/heads/", ""));
+  const inhalt = Buffer.from(angelegt.datei.content, "base64").toString("utf8");
+  assert.ok(inhalt.includes("### Bruttoprinzip\n\nNeu.\n") && inhalt.includes('by: "Claude (claude.ai)"'));
+  assert.equal(angelegt.pr.draft, true);
+  assert.equal(angelegt.pr.base, "main");
+  assert.match(angelegt.pr.title, /^Chat: Art\. 70 StGB — Abschnitt «Bruttoprinzip»$/);
+  assert.match(angelegt.pr.body, /> Bitte @​jemand ansehen/, "keine Benachrichtigung über @");
+  assert.deepEqual(angelegt.label.labels, ["chat-einreichung"]);
+  assert.ok(githubAufrufe.filter((a) => a.pfad.startsWith("/repos")).every((a) => a.auth === "Bearer ghs_test"));
+});
+
+await pruefe("beitrag_einreichen: doppelt, Prüffehler, veraltet, Limit", async () => {
+  githubStandard();
+  const args = { gesetz: "StGB", artikel: "70", version: sha(ART_070), abschnitt: "Bruttoprinzip", text: "Neu.", revision: REVISION };
+  await tool("beitrag_einreichen", args, ENV_EIN);
+  let r = await tool("beitrag_einreichen", args, ENV_EIN);
+  assert.match(r.text, /schon eingereicht: https:\/\/github\.com\/o\/r\/pull\/99/);
+
+  r = await tool("beitrag_einreichen", { ...args, text: "<script>x</script>" }, ENV_EIN);
+  assert.match(r.text, /^Nicht eingereicht/);
+
+  githubStandard();
+  githubApi["GET /repos/o/r/contents/content/kommentar/stgb/art-070/_index.md"] = () => [200, { sha: "b".repeat(40) }];
+  r = await tool("beitrag_einreichen", args, ENV_EIN);
+  assert.ok(r.fehler);
+  assert.match(r.text, /inzwischen auf GitHub geändert/);
+  assert.ok(!githubAufrufe.some((a) => a.methode === "POST" && a.pfad.endsWith("/git/refs")), "kein Branch angelegt");
+
+  githubStandard();
+  for (let i = 0; i < 5; i++) await tool("beitrag_einreichen", { ...args, text: `Neu ${i}.` }, ENV_EIN);
+  r = await tool("beitrag_einreichen", { ...args, text: "Neu 6." }, ENV_EIN);
+  assert.ok(r.fehler);
+  assert.match(r.text, /zu viele Einreichungen/);
+});
+
+await pruefe("beitrag_einreichen: Fehler nach dem Branch räumt ihn weg", async () => {
+  githubStandard();
+  githubApi["POST /repos/o/r/pulls"] = () => [422, { message: "kaputt" }];
+  let geloescht = null;
+  githubApi["DELETE /repos/o/r/git/refs/heads/chat"] = () => [204, null];
+  const echt = globalThis.fetch;
+  globalThis.fetch = async (url, init = {}) => {
+    if (init.method === "DELETE") geloescht = String(url);
+    return echt(url, init);
+  };
+  try {
+    const r = await tool("beitrag_einreichen", { gesetz: "StGB", artikel: "71", datei: NEU_071, revision: REVISION }, ENV_EIN);
+    assert.ok(r.fehler);
+    assert.match(r.text, /Einreichen fehlgeschlagen; nichts wurde angelegt/);
+    assert.match(geloescht, /\/git\/refs\/heads\/chat\/stgb-art-071-/);
+  } finally {
+    globalThis.fetch = echt;
+  }
 });
 
 await pruefe("Zwischenspeicher: Katalog nur einmal geholt", async () => {
