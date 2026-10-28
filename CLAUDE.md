@@ -487,10 +487,12 @@ Liste.
 ## MCP-Server (`mcp/`)
 
 Ein zustandsloser MCP-Server auf einem Cloudflare Worker, den man in claude.ai als
-Connector einbindet. Erste Ausbaustufe: nur lesende Tools (`glossagens_suchen`,
-`gesetze_auflisten`, `artikel_auflisten`, `kommentar_lesen`, `thema_lesen`); das
-Einreichen ohne GitHub-Konto kommt später in denselben Worker
-(`plan-kontofreie-einreichung.md`). Einrichtung und Deploy: `mcp/README.md`.
+Connector einbindet. Tools zum Lesen (`glossagens_suchen`, `gesetze_auflisten`,
+`artikel_auflisten`, `kommentar_lesen`, `thema_lesen`, beide auch mit
+`format: "quelltext"` samt `version`) und `beitrag_pruefen`, das einen Entwurf gegen
+die Regeln dieser Datei prüft, ohne zu schreiben (`mcp/src/pruefen.js`). Das Einreichen
+ohne GitHub-Konto kommt später in denselben Worker und ruft dieselbe Prüfung auf
+(`plan-kontofreie-einreichung.md`). Einrichtung, Deploy und Prüfregeln: `mcp/README.md`.
 
 Der Worker liest nur Öffentliches und hält keinen Schlüssel:
 - **Katalog** `/kommentar/index.json` (`layouts/kommentar/list.json.json`, erzeugt über
@@ -502,8 +504,11 @@ Der Worker liest nur Öffentliches und hält keinen Schlüssel:
 - **Text** aus `raw.githubusercontent.com`, Stand `main`; `{{< wortlaut >}}` setzt er als
   Zitatblock aus `data/wortlaut/` ein.
 
-Wer Felder im Frontmatter umbenennt oder den Aufbau der Kataloge ändert, prüft den
-Worker mit (`node mcp/test/server.test.mjs`).
+Wer Felder im Frontmatter umbenennt, den Aufbau der Kataloge ändert oder Regeln in
+dieser Datei ändert (Pflichtfelder, erlaubte Shortcodes, Revisions-Vermerk), zieht
+`mcp/src/pruefen.js` nach und prüft den Worker mit (`node mcp/test/server.test.mjs`).
+Ein neuer Shortcode oder ein neues HTML-Tag im Content muss dort freigegeben werden,
+sonst weist die Prüfung Beiträge damit ab.
 
 ## PR-Prüfung
 
@@ -540,6 +545,7 @@ Beim Anheben der Hugo-Version genügt es, `.hugo-version` zu ändern; CI zieht a
 
 - [ ] Weitere Gesetze/Artikel befüllen
 - [ ] Beiträge ohne GitHub-Konto (Gateway vor GitHub, siehe `plan-kontofreie-einreichung.md`)
-- [ ] MCP-Server deployen und als Connector testen (`mcp/README.md`); danach Einreichen als Tool ergänzen
+- [x] MCP-Server deployt und als Connector getestet (`mcp/README.md`)
+- [ ] Einreichen als Tool (`beitrag_einreichen`: GitHub App, Ruleset auf `main`, Draft-PR, Wortlaut-Workflow)
 - [x] Handgepflegte Artikellisten aus den Bodies entfernt; Systematik nach `data/systematik/` überführt
 - [x] Hugo-Build-Check für PRs (`pr-build.yml`, vorher in `_execute_pr_merge`)

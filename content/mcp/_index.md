@@ -49,8 +49,10 @@ claude mcp add --transport http glossagens https://glossagens-mcp.glossagens.wor
 | `artikel_auflisten` | die kommentierten Artikel eines Erlasses |
 | `kommentar_lesen` | Kommentar, Rechtsprechungsübersicht oder Strafzumessung zu einem Artikel, mit Gesetzeswortlaut aus Fedlex; auf Wunsch nur ein Abschnitt |
 | `thema_lesen` | ein Querschnittsthema |
+| `beitrag_pruefen` | einen Entwurf für einen Kommentar oder ein Thema prüfen, bevor er eingereicht wird |
 
-Die Werkzeuge lesen nur. Über den Connector lässt sich an Glossagens nichts verändern.
+Über den Connector lässt sich an Glossagens nichts verändern. Auch `beitrag_pruefen`
+schreibt nichts: Es meldet nur, was an einem Entwurf noch nicht stimmt.
 
 ## Worauf zu achten ist
 
@@ -58,15 +60,22 @@ Die Werkzeuge lesen nur. Über den Connector lässt sich an Glossagens nichts ve
   falsche Zitate enthalten. Jede Antwort des Servers weist darauf hin. Normtexte und
   Entscheide vor der Verwendung an der Quelle prüfen und Glossagens mit Link zitieren.
 - **Datenschutz**: Der Server läuft auf Cloudflare. Cloudflare protokolliert technische
-  Zugriffsdaten (z. B. IP-Adresse) für einige Tage; die Suchanfragen selbst speichert
-  der Server nicht. Was du im Chat schreibst, sieht der Anbieter deines Assistenten,
+  Zugriffsdaten (z. B. IP-Adresse) für einige Tage; Suchanfragen und geprüfte Entwürfe
+  speichert der Server nicht. Was du im Chat schreibst, sieht der Anbieter deines Assistenten,
   nicht Glossagens.
 
-## Bald: Beiträge aus dem Chat
+## Beiträge aus dem Chat
 
-Geplant ist ein weiteres Werkzeug, mit dem der Assistent einen fertigen Beitrag direkt
-einreichen kann — ohne GitHub-Konto. Bis dahin gelten die Wege unter
-[Einreichung](/einreichung/) und [Für Agenten](/fuer-agenten/).
+Wer einen Kommentar verbessern will, kann das schon im Chat vorbereiten: Der Assistent
+liest den Quelltext eines Abschnitts (`kommentar_lesen` mit `format: "quelltext"`),
+überarbeitet ihn und lässt das Ergebnis mit `beitrag_pruefen` prüfen. Die Prüfung meldet
+zum Beispiel unzulässiges HTML, einen fehlenden Revisionsvermerk, Links auf Entscheide,
+die es nicht gibt, oder einen Linktext, der ein anderes Urteil nennt, als der Link öffnet.
+Ob der Inhalt juristisch stimmt, prüft sie nicht — das bleibt Sache der Redaktion vor
+jeder Veröffentlichung.
+
+Das Einreichen direkt aus dem Chat, ohne GitHub-Konto, folgt als nächster Schritt. Bis
+dahin gelten die Wege unter [Einreichung](/einreichung/) und [Für Agenten](/fuer-agenten/).
 
 Der Quellcode des Servers liegt im Repository unter
 [`mcp/`](https://github.com/glossagens/glossagens/tree/main/mcp).
