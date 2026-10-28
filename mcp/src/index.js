@@ -23,7 +23,7 @@ import {
 } from "./pruefen.js";
 import { base64, github } from "./github.js";
 
-const SERVER = { name: "glossagens", version: "0.6.0" };
+const SERVER = { name: "glossagens", version: "0.7.0" };
 
 // Neueste zuerst; eine unbekannte Version des Clients wird mit der neuesten
 // beantwortet (so verlangt es die Spezifikation).
@@ -115,6 +115,22 @@ const TOOLS = [
       "Aufrufen, wenn die Person bei Glossagens mithelfen, beitragen, einen Kommentar schreiben oder verbessern oder «Tokens spenden» möchte. " +
       "Liefert die verbindliche Arbeitsanleitung: nötige Connectors (Fedlex, entscheidsuche), Aufgabe wählen, Recherche, Stil, Prüfen und Einreichen.",
     inputSchema: { type: "object", properties: {} },
+    annotations: NUR_LESEN,
+  },
+  {
+    name: "offene_aufgaben",
+    title: "Offene Aufgaben",
+    description:
+      "Zeigt, wo bei Glossagens Hilfe gebraucht wird: Bestimmungen, die in Themen vorkommen, aber noch keinen Kommentar haben — " +
+      "zuerst die, die mehrere Themen brauchen. Filter nach Gesetz oder Stichwort (Rechtsgebiet, Thema). Für Personen, die mithelfen wollen und noch nicht wissen, woran.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        gesetz: { type: "string", description: 'optional: Kürzel oder SR-Nummer, z. B. "AHVG"' },
+        stichwort: { type: "string", description: 'optional: z. B. "Familiennachzug", "Sozialversicherung", "Arbeitsrecht"' },
+        limit: { type: "integer", minimum: 1, maximum: 100, description: "Höchstzahl (Standard 20)" },
+      },
+    },
     annotations: NUR_LESEN,
   },
   {
@@ -383,8 +399,11 @@ async function katalog(ctx) {
 }
 
 async function themenIndex(ctx) {
-  const t = await holen(`${ctx.site}/themen/index.json`, "json");
-  return t?.themen ?? {};
+  return (await themenDaten(ctx)).themen ?? {};
+}
+
+async function themenDaten(ctx) {
+  return (await holen(`${ctx.site}/themen/index.json`, "json")) ?? {};
 }
 
 // Für Tests: Zwischenspeicher leeren.
@@ -1296,8 +1315,64 @@ async function mithelfen(_args, ctx) {
   return text.trim() + status;
 }
 
+// --- Offene Aufgaben -----------------------------------------------------------
+
+// Quelle wie die Seite /mithelfen/aufgaben/ (layouts/_shortcodes/offene-aufgaben.html):
+// Normen, die ein Thema führt, ohne Kommentar. Reihenfolge: Zahl der Themen, dann Norm.
+async function offeneAufgaben({ gesetz, stichwort, limit = 20 }, ctx) {
+  limit = Math.min(Math.max(parseInt(limit, 10) || 20, 1), 100);
+  const [daten, gesetze] = await Promise.all([themenDaten(ctx), katalog(ctx)]);
+  const themen = daten.themen ?? {};
+  let luecken = Object.entries(daten.normen ?? {})
+    .filter(([, n]) => !n.kommentar)
+    .map(([key, n]) => ({ key, dir: key.split("/")[0], slug: key.split("/")[1], titel: n.titel, themen: n.themen ?? [] }));
+  const gesamt = luecken.length;
+
+  let filter = [];
+  if (gesetz) {
+    const dir = gesetzOderFehler(gesetze, gesetz);
+    luecken = luecken.filter((l) => l.dir === dir);
+    filter.push(gesetze[dir].kuerzel);
+  }
+  if (stichwort && String(stichwort).trim()) {
+    const w = woerter(stichwort);
+    const text = (l) => [
+      l.titel, gesetze[l.dir]?.kuerzel, gesetze[l.dir]?.name,
+      ...l.themen.flatMap((slug) => [themen[slug]?.titel, themen[slug]?.kurz, ...(themen[slug]?.stichworte ?? []), ...(themen[slug]?.sachgebiete ?? [])]),
+    ].filter(Boolean).join(" ").toLowerCase();
+    luecken = luecken.filter((l) => {
+      const t = text(l);
+      return w.every((x) => t.includes(x));
+    });
+    filter.push(`«${stichwort}»`);
+  }
+  luecken.sort((a, b) => b.themen.length - a.themen.length || a.key.localeCompare(b.key));
+
+  const kopf = `${gesamt} Bestimmungen kommen in Themen von Glossagens vor, haben aber noch keinen Kommentar.` +
+    (filter.length ? ` Gefiltert nach ${filter.join(" und ")}: ${luecken.length}.` : "");
+  if (!luecken.length) {
+    return `${kopf}\n\nKeine offene Aufgabe zu diesem Filter. Ohne Filter oder mit einem allgemeineren Stichwort versuchen — oder einen bestehenden Kommentar verbessern (glossagens_suchen).`;
+  }
+  const zeilen = luecken.slice(0, limit).map((l) => {
+    const namen = l.themen.map((slug) => `${themen[slug]?.titel ?? slug} (slug="${slug}")`);
+    return `- ${l.titel} — neuer Kommentar (gesetz="${l.dir}" artikel="${l.slug}")\n  behandelt in ${l.themen.length === 1 ? "Thema" : `${l.themen.length} Themen`}: ${namen.join("; ")}`;
+  });
+  const mehr = luecken.length > limit ? `\n\n(${luecken.length - limit} weitere; mit \`limit\` oder einem Filter mehr anzeigen. Ganze Liste: ${ctx.site}/mithelfen/aufgaben/)` : "";
+  return [
+    kopf,
+    "",
+    ...zeilen,
+    mehr,
+    "",
+    "Vorgehen: Die Person eine Bestimmung wählen lassen, zuerst das Thema lesen (thema_lesen: Zusammenhang und oft schon die wichtigen Entscheide), " +
+      "dann nach der Anleitung (mithelfen) recherchieren und schreiben. Ein neuer Kommentar braucht viele Tokens; kleinere Beiträge — " +
+      "Rechtsprechung ergänzen, einen Abschnitt vertiefen, ein Zitat korrigieren — sind ebenso willkommen.",
+  ].join("\n");
+}
+
 const HANDLER = {
   mithelfen,
+  offene_aufgaben: offeneAufgaben,
   glossagens_suchen: suchen,
   gesetze_auflisten: gesetzeAuflisten,
   artikel_auflisten: artikelAuflisten,

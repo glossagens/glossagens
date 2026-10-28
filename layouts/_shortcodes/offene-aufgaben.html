@@ -1,0 +1,53 @@
+{{- /*
+  Offene Aufgaben für /mithelfen/aufgaben/: Bestimmungen, die ein Thema in
+  `normen` führt, zu denen es aber noch keinen Kommentar gibt. Dieselbe Quelle
+  liest das MCP-Tool `offene_aufgaben` (über /themen/index.json).
+
+  Zuoberst die Bestimmungen, die mehrere Themen brauchen; darunter alle nach
+  Gesetz in SR-Reihenfolge (weight der Gesetzesseite), Artikel nach Verzeichnisname.
+*/ -}}
+{{- $idx := partialCached "themen/index.html" . -}}
+{{- $luecken := dict -}}
+{{- range $idx.themen -}}
+  {{- $t := . -}}
+  {{- range .normen -}}
+    {{- if not .kommentar -}}
+      {{- $alt := index $luecken .key -}}
+      {{- $themen := cond (ne $alt nil) $alt.themen slice -}}
+      {{- $luecken = merge $luecken (dict .key (dict "key" .key "gesetz" .gesetz "art" .art "label" .label "themen" ($themen | append $t.page))) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $liste := slice -}}
+{{- range $luecken -}}{{- $liste = $liste | append (merge . (dict "anzahl" (len .themen))) -}}{{- end -}}
+{{- $mehrfach := where $liste "anzahl" "ge" 2 -}}
+
+<p><strong>{{ len $liste }}</strong> Bestimmungen kommen in Themen vor, haben aber noch keinen Kommentar
+  (Stand dieses Builds).</p>
+
+{{- with $mehrfach }}
+<h2 id="mehrfach">Von mehreren Themen gebraucht</h2>
+<ul>
+  {{- range first 25 (sort (sort . "key") "anzahl" "desc") }}
+  <li><strong>{{ .label }}</strong> — {{ .anzahl }} Themen:
+    {{ range $i, $p := .themen }}{{ if $i }}, {{ end }}<a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a>{{ end }}</li>
+  {{- end }}
+</ul>
+{{- end }}
+
+<h2 id="nach-gesetz">Nach Gesetz</h2>
+{{- $gesetze := slice -}}
+{{- range $liste -}}{{- $gesetze = $gesetze | append .gesetz -}}{{- end -}}
+{{- $seiten := slice -}}
+{{- range uniq $gesetze -}}{{- with site.GetPage (printf "/kommentar/%s" .) -}}{{- $seiten = $seiten | append . -}}{{- end -}}{{- end -}}
+{{- range sort $seiten "Weight" -}}
+  {{- $dir := path.Base .Path -}}
+  {{- $eintraege := sort (where $liste "gesetz" $dir) "key" }}
+<h3 id="gesetz-{{ $dir }}">{{ .Params.kuerzel }}{{ with .Params.kanton }} {{ . }}{{ end }} — {{ .Params.gesetz_name }} ({{ len $eintraege }})</h3>
+<ul>
+  {{- range $eintraege }}
+  <li>{{ .label }} — {{ range $i, $p := .themen }}{{ if $i }}, {{ end }}<a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a>{{ end }}</li>
+  {{- end }}
+</ul>
+{{- end -}}

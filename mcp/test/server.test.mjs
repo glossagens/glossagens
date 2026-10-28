@@ -39,7 +39,14 @@ const KATALOG = {
 
 const THEMEN = {
   themen: {
-    "folgen-ungerechtfertigte-kuendigung": { titel: "Folgen einer ungerechtfertigten Kündigung", url: `${SITE}/themen/folgen-ungerechtfertigte-kuendigung/`, kurz: "Was gilt, wenn die Kündigung missbräuchlich oder zur Unzeit erfolgt.", typ: "rechtsfolgen", normen: ["or/art-336c"], stichworte: [] },
+    "folgen-ungerechtfertigte-kuendigung": { titel: "Folgen einer ungerechtfertigten Kündigung", url: `${SITE}/themen/folgen-ungerechtfertigte-kuendigung/`, kurz: "Was gilt, wenn die Kündigung missbräuchlich oder zur Unzeit erfolgt.", typ: "rechtsfolgen", normen: ["or/art-336c"], stichworte: [], sachgebiete: ["schuldrecht.arbeit"] },
+    "einziehung-im-ueberblick": { titel: "Einziehung im Überblick", url: `${SITE}/themen/einziehung-im-ueberblick/`, kurz: "Vermögenseinziehung und Ersatzforderung.", typ: "rechtsfolgen", normen: ["stgb/art-070", "stgb/art-071"], stichworte: ["Vermögensabschöpfung"], sachgebiete: ["strafrecht"] },
+  },
+  normen: {
+    "or/art-336c": { kommentar: `${SITE}/kommentar/or/art-336c/`, themen: ["folgen-ungerechtfertigte-kuendigung"], titel: "Art. 336c OR" },
+    "or/art-337": { kommentar: null, themen: ["folgen-ungerechtfertigte-kuendigung"], titel: "Art. 337 OR" },
+    "stgb/art-070": { kommentar: `${SITE}/kommentar/stgb/art-070/`, themen: ["einziehung-im-ueberblick"], titel: "Art. 70 StGB" },
+    "stgb/art-071": { kommentar: null, themen: ["einziehung-im-ueberblick", "folgen-ungerechtfertigte-kuendigung"], titel: "Art. 71 StGB" },
   },
 };
 
@@ -211,7 +218,7 @@ await pruefe("Notification → 202 ohne Inhalt", async () => {
 await pruefe("tools/list: nur lesende Tools", async () => {
   const d = await (await rpc({ jsonrpc: "2.0", id: 2, method: "tools/list" })).json();
   const namen = d.result.tools.map((t) => t.name);
-  assert.deepEqual(namen, ["mithelfen", "glossagens_suchen", "gesetze_auflisten", "artikel_auflisten", "kommentar_lesen", "thema_lesen", "beitrag_pruefen"]);
+  assert.deepEqual(namen, ["mithelfen", "offene_aufgaben", "glossagens_suchen", "gesetze_auflisten", "artikel_auflisten", "kommentar_lesen", "thema_lesen", "beitrag_pruefen"]);
   for (const t of d.result.tools) assert.equal(t.annotations.readOnlyHint, true, t.name);
 });
 
@@ -798,6 +805,33 @@ await pruefe("beitrag_einreichen: ohne Protokoll nicht, mit Protokoll als Tabell
   assert.match(angelegt.pr.body, /### Belegprotokoll \(vom Chat erstellt, ungeprüft\)/);
   assert.match(angelegt.pr.body, /\| B1 \| \[BGE 146 IV 136 E\. 2\.2\]\(https:\/\/entscheidsuche[^)]*\) \| E\. 2\.2 \| trägt \| Massgebend .* \| Es bedarf konkreter Anhaltspunkte/);
   assert.match(angelegt.pr.body, /\| B2 \| .* \| teilweise: Arbeitsstelle nur ein Element\. \|/);
+});
+
+// --- offene_aufgaben ------------------------------------------------------------
+
+await pruefe("offene_aufgaben: Lücken aus den Themen, mehrfach gebrauchte zuerst", async () => {
+  const { text, fehler } = await tool("offene_aufgaben", {});
+  assert.ok(!fehler, text);
+  assert.match(text, /^2 Bestimmungen kommen in Themen von Glossagens vor, haben aber noch keinen Kommentar\./);
+  const reihe = [...text.matchAll(/^- (Art\. [^—]+) —/gm)].map((m) => m[1].trim());
+  assert.deepEqual(reihe, ["Art. 71 StGB", "Art. 337 OR"]);
+  assert.match(text, /- Art\. 71 StGB — neuer Kommentar \(gesetz="stgb" artikel="art-071"\)\n  behandelt in 2 Themen: Einziehung im Überblick \(slug="einziehung-im-ueberblick"\); Folgen/);
+  assert.ok(!text.includes("Art. 70 StGB"), "kommentierte Normen sind keine Aufgabe");
+});
+
+await pruefe("offene_aufgaben: Filter nach Gesetz und Stichwort", async () => {
+  let r = await tool("offene_aufgaben", { gesetz: "OR" });
+  assert.match(r.text, /Gefiltert nach OR: 1\./);
+  assert.match(r.text, /Art\. 337 OR/);
+  r = await tool("offene_aufgaben", { stichwort: "Vermögensabschöpfung" });
+  assert.match(r.text, /Gefiltert nach «Vermögensabschöpfung»: 1\./);
+  assert.match(r.text, /Art\. 71 StGB/);
+  r = await tool("offene_aufgaben", { stichwort: "Arbeit" });
+  assert.match(r.text, /: 2\./, "Sachgebiet schuldrecht.arbeit trifft beide über das Kündigungsthema");
+  r = await tool("offene_aufgaben", { stichwort: "Mietrecht" });
+  assert.match(r.text, /Keine offene Aufgabe zu diesem Filter/);
+  r = await tool("offene_aufgaben", { gesetz: "ZGB" });
+  assert.ok(r.fehler);
 });
 
 await pruefe("Zwischenspeicher: Katalog nur einmal geholt", async () => {

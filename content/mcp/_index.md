@@ -48,6 +48,7 @@ claude mcp add --transport http glossagens https://glossagens-mcp.glossagens.wor
 | Werkzeug | Zweck |
 |---|---|
 | `mithelfen` | die Arbeitsanleitung für Beiträge aus dem Chat |
+| `offene_aufgaben` | wo Kommentare fehlen: Bestimmungen, die in Themen vorkommen ([Liste](/mithelfen/aufgaben/)) |
 | `glossagens_suchen` | Kommentare und Themen nach Stichworten finden; Normangaben wie «StGB 70» oder «Art. 336c OR» führen direkt zum Kommentar |
 | `gesetze_auflisten` | alle kommentierten Erlasse |
 | `artikel_auflisten` | die kommentierten Artikel eines Erlasses |

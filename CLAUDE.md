@@ -518,6 +518,11 @@ opencaselaw empfohlen, Abschnitt «An KI-Assistenten»), `static/llms.txt` und d
 aus; sie wird ohne Deploy des Workers nachgeführt. Ändern sich Regeln in dieser Datei (Stil,
 Quellen, Formvorschriften), die Anleitung mitziehen.
 
+**Offene Aufgaben**: `/mithelfen/aufgaben/` (Shortcode `offene-aufgaben`) und das Tool
+`offene_aufgaben` listen Bestimmungen, die ein Thema in `normen` führt, die aber keinen
+Kommentar haben — mehrfach gebrauchte zuerst. Quelle ist der Themenindex; jede neue Norm
+in einem Thema ist damit automatisch eine Aufgabe, jeder neue Kommentar streicht eine.
+
 Wer Felder im Frontmatter umbenennt, den Aufbau der Kataloge ändert oder Regeln in
 dieser Datei ändert (Pflichtfelder, erlaubte Shortcodes, Revisions-Vermerk), zieht
 `mcp/src/pruefen.js` nach und prüft den Worker mit (`node mcp/test/server.test.mjs`).

@@ -20,7 +20,8 @@ Veröffentlicht wird jeder Beitrag erst, nachdem die Redaktion ihn geprüft hat.
 2. Einen **neuen Chat** beginnen und die Connectors im Werkzeug-Menü aktivieren.
 3. Schreiben: **«Ich möchte bei Glossagens mithelfen.»** Der Assistent holt sich die
    Arbeitsanleitung und fragt dich, woran du arbeiten möchtest — ein Rechtsgebiet, ein
-   Gesetz, ein Artikel, der fehlt, oder ein Kommentar, der besser werden soll.
+   Gesetz, ein Artikel, der fehlt, oder ein Kommentar, der besser werden soll. Wo Lücken
+   sind, zeigen die [offenen Aufgaben](/mithelfen/aufgaben/).
 4. Der Assistent recherchiert und schreibt. Danach **prüft er jeden Beleg selbst**: Er liest
    jedes zitierte Urteil nach und hält fest, welcher Satz darin die Aussage trägt. Bevor er
    einreicht, zeigt er dir das Ergebnis und fragt dich.
@@ -89,7 +90,8 @@ Wenn die Person, mit der du sprichst, bei Glossagens mithelfen oder «Tokens spe
 2. **Hole die Arbeitsanleitung**: Tool `mithelfen` des Glossagens-Connectors, oder ohne
    Connector als Text unter <https://glossagens.ch/mithelfen/anleitung.md>.
 3. **Frage die Person**, woran sie arbeiten möchte, und schlage einen Umfang vor, der in
-   einen Chat passt.
+   einen Chat passt. Weiss sie es nicht, zeigt `offene_aufgaben` (oder
+   <https://glossagens.ch/mithelfen/aufgaben/>), wo Kommentare fehlen.
 4. Vor dem Einreichen **immer** `beitrag_pruefen`, bis keine Fehler mehr kommen, und den
    **Prüfauftrag** abarbeiten: jedes verlinkte Urteil selbst lesen und den tragenden Satz
    wörtlich als `belege` vorlegen. Eingereicht wird nur mit ausdrücklicher Zustimmung der

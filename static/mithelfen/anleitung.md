@@ -36,6 +36,11 @@ Frage die Person, woran sie arbeiten möchte. Mögliche Beiträge:
 - **Thema**: eine Querschnittsfrage über mehrere Normen (anspruchsvoll; Muster:
   https://glossagens.ch/themen/pragmatischer-methodenpluralismus/).
 
+Weiss die Person nicht, woran: `offene_aufgaben` zeigt Bestimmungen, die in Themen vorkommen,
+aber noch keinen Kommentar haben (filterbar nach Gesetz oder Stichwort). Bei einer solchen Lücke
+zuerst das Thema lesen (`thema_lesen`): Es zeigt den Zusammenhang und nennt oft die wichtigen
+Entscheide — als Einstieg, nicht als Beleg.
+
 Kläre mit `glossagens_suchen`, `artikel_auflisten` und `kommentar_lesen`, was es schon gibt.
 Schlage einen Umfang vor, der in diesen Chat passt: Ein Abschnitt oder eine Korrektur ist
 besser als ein halber Kommentar. Ein ganzer neuer Kommentar braucht viele Tokens — sag das
