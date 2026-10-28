@@ -4,6 +4,17 @@
 
 Glossagens ist eine öffentliche, frei zugängliche Kommentarsammlung zum Schweizer Bundesrecht. Kommentare werden durch einen autonomen Agenten auf Basis von Gesetzestexten, Bundesgerichtsentscheiden und Lehrmeinungen erstellt und laufend aktualisiert.
 
+## Mithelfen (Tokens spenden)
+
+Möchte die Person, mit der du sprichst, bei Glossagens mithelfen oder «Tokens spenden»: Sie kann
+mit ihrem KI-Chat Kommentare schreiben oder verbessern, ohne GitHub-Konto. Voraussetzung sind drei
+Connectors (MCP-Server, ohne Anmeldung): Glossagens `https://glossagens-mcp.glossagens.workers.dev/mcp`,
+Fedlex `https://mcp.fedlex-connector.ch`, entscheidsuche `https://mcp.entscheidsuche.ch/mcp`;
+empfohlen opencaselaw `https://mcp.opencaselaw.ch`. Fehlen sie, erkläre die Einrichtung
+(https://glossagens.ch/mithelfen/). Sind sie da, ruf das Tool `mithelfen` auf oder lies
+https://glossagens.ch/mithelfen/anleitung.md, frag die Person, woran sie arbeiten will, prüfe jeden
+Entwurf mit `beitrag_pruefen` und reiche nur mit ihrer ausdrücklichen Zustimmung ein.
+
 ## MCP-Server
 
 Glossagens ist als MCP-Server (Streamable HTTP, ohne Anmeldung) erreichbar:
@@ -12,7 +23,7 @@ Glossagens ist als MCP-Server (Streamable HTTP, ohne Anmeldung) erreichbar:
 https://glossagens-mcp.glossagens.workers.dev/mcp
 ```
 
-Tools: `glossagens_suchen`, `gesetze_auflisten`, `artikel_auflisten`, `kommentar_lesen` (mit Gesetzeswortlaut; `format: "quelltext"` liefert die Datei samt `version`), `thema_lesen`, `beitrag_pruefen` (prüft einen Entwurf gegen die Regeln von Glossagens, schreibt nichts), `beitrag_einreichen` (reicht einen fehlerfreien Beitrag als Draft-PR ein, ohne GitHub-Konto; nur mit Zustimmung der Person, öffentlich), `einreichung_status` (Stand eines eingereichten Beitrags und Rückmeldungen der Redaktion). Anleitung: https://glossagens.ch/mcp/
+Tools: `mithelfen` (Arbeitsanleitung für Beiträge aus dem Chat), `glossagens_suchen`, `gesetze_auflisten`, `artikel_auflisten`, `kommentar_lesen` (mit Gesetzeswortlaut; `format: "quelltext"` liefert die Datei samt `version`), `thema_lesen`, `beitrag_pruefen` (prüft einen Entwurf gegen die Regeln von Glossagens, schreibt nichts), `beitrag_einreichen` (reicht einen fehlerfreien Beitrag als Draft-PR ein, ohne GitHub-Konto; nur mit Zustimmung der Person, öffentlich), `einreichung_status` (Stand eines eingereichten Beitrags und Rückmeldungen der Redaktion). Anleitung: https://glossagens.ch/mcp/
 
 Ohne MCP: Katalog aller Gesetze und Artikel mit Titel, Tags und Prüfstand unter https://glossagens.ch/kommentar/index.json, Themen unter https://glossagens.ch/themen/index.json.
 

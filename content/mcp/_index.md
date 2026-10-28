@@ -13,6 +13,9 @@ Technisch ist das ein Server nach dem [Model Context Protocol](https://modelcont
 (MCP), einem offenen Standard, den Claude, ChatGPT und viele andere Assistenten verstehen.
 Eine Anmeldung braucht es nicht.
 
+Wer mit dem Chat **mithelfen** möchte, findet alles Nötige — auch die weiteren Connectors für
+Gesetzestexte und Urteile — unter [Mithelfen](/mithelfen/).
+
 ## Adresse
 
 ```text
@@ -44,6 +47,7 @@ claude mcp add --transport http glossagens https://glossagens-mcp.glossagens.wor
 
 | Werkzeug | Zweck |
 |---|---|
+| `mithelfen` | die Arbeitsanleitung für Beiträge aus dem Chat |
 | `glossagens_suchen` | Kommentare und Themen nach Stichworten finden; Normangaben wie «StGB 70» oder «Art. 336c OR» führen direkt zum Kommentar |
 | `gesetze_auflisten` | alle kommentierten Erlasse |
 | `artikel_auflisten` | die kommentierten Artikel eines Erlasses |

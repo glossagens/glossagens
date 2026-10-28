@@ -508,6 +508,16 @@ Der Worker liest nur Öffentliches und hält keinen Schlüssel:
 - **Text** aus `raw.githubusercontent.com`, Stand `main`; `{{< wortlaut >}}` setzt er als
   Zitatblock aus `data/wortlaut/` ein.
 
+**Einstieg «Mithelfen»**: Wer im Chat sagt, er wolle mithelfen oder «Tokens spenden», soll
+ohne Vorwissen ans Ziel kommen. Dafür sorgen vier Stellen mit gleichem Inhalt: die Startseite
+(`layouts/index.html` — leitet Browser weiter, zeigt Chats aber Text, weil deren
+Abruf-Werkzeuge weder Skript noch meta refresh folgen), die Seite `/mithelfen/`
+(`content/mithelfen/_index.md`, Connectors Glossagens/Fedlex/entscheidsuche als Pflicht,
+opencaselaw empfohlen, Abschnitt «An KI-Assistenten»), `static/llms.txt` und das Tool
+`mithelfen`. Es liefert die Arbeitsanleitung `static/mithelfen/anleitung.md` von der Seite
+aus; sie wird ohne Deploy des Workers nachgeführt. Ändern sich Regeln in dieser Datei (Stil,
+Quellen, Formvorschriften), die Anleitung mitziehen.
+
 Wer Felder im Frontmatter umbenennt, den Aufbau der Kataloge ändert oder Regeln in
 dieser Datei ändert (Pflichtfelder, erlaubte Shortcodes, Revisions-Vermerk), zieht
 `mcp/src/pruefen.js` nach und prüft den Worker mit (`node mcp/test/server.test.mjs`).

@@ -23,7 +23,7 @@ import {
 } from "./pruefen.js";
 import { base64, github } from "./github.js";
 
-const SERVER = { name: "glossagens", version: "0.4.0" };
+const SERVER = { name: "glossagens", version: "0.5.0" };
 
 // Neueste zuerst; eine unbekannte Version des Clients wird mit der neuesten
 // beantwortet (so verlangt es die Spezifikation).
@@ -51,6 +51,8 @@ const ANLEITUNG = `Glossagens (https://glossagens.ch) ist ein öffentlicher, von
 Vorgehen: Mit \`glossagens_suchen\` den passenden Kommentar oder das Thema finden (auch direkt: "StGB 70", "Art. 336c OR"), dann mit \`kommentar_lesen\` bzw. \`thema_lesen\` den Text holen. \`gesetze_auflisten\` und \`artikel_auflisten\` zeigen, was es gibt.
 
 Die Texte sind KI-erstellt und können falsche Zitate enthalten: Normtexte und Entscheide vor der Verwendung an der Quelle prüfen und Glossagens mit Link zitieren.
+
+Möchte die Person bei Glossagens mithelfen, beitragen oder «Tokens spenden»: zuerst \`mithelfen\` aufrufen und der Anleitung folgen.
 
 Beitragen: Für eine Änderung zuerst \`kommentar_lesen\` (bzw. \`thema_lesen\`) mit format "quelltext" — das liefert den Markdown-Quelltext und die \`version\`. Dann den Entwurf mit \`beitrag_pruefen\` prüfen, am besten abschnittsweise (\`abschnitt\` + \`text\`), mit \`revision\` (wer, Modell, was geändert und wie die Belege geprüft wurden). Normtexte nie abschreiben: \`{{< wortlaut >}}\` setzt sie ein. Entscheide auf entscheidsuche.ch verlinken, mit der URL aus einer Suche dort, nie konstruiert. Ist die Prüfung fehlerfrei und hat die Person ausdrücklich zugestimmt, reicht \`beitrag_einreichen\` mit denselben Angaben den Beitrag ein (öffentlicher Pull Request auf GitHub, veröffentlicht erst nach Prüfung durch die Redaktion).
 
@@ -89,6 +91,15 @@ const BEITRAG = {
 };
 
 const TOOLS = [
+  {
+    name: "mithelfen",
+    title: "Bei Glossagens mithelfen",
+    description:
+      "Aufrufen, wenn die Person bei Glossagens mithelfen, beitragen, einen Kommentar schreiben oder verbessern oder «Tokens spenden» möchte. " +
+      "Liefert die verbindliche Arbeitsanleitung: nötige Connectors (Fedlex, entscheidsuche), Aufgabe wählen, Recherche, Stil, Prüfen und Einreichen.",
+    inputSchema: { type: "object", properties: {} },
+    annotations: NUR_LESEN,
+  },
   {
     name: "glossagens_suchen",
     title: "Glossagens durchsuchen",
@@ -1174,7 +1185,27 @@ async function einreichungStatus({ pr }, ctx) {
   return zeilen.join("\n");
 }
 
+// Die Anleitung liegt auf der Seite (static/mithelfen/anleitung.md), damit sie
+// sich ohne Deploy des Workers nachführen lässt und Chats ohne Connector sie
+// ebenfalls lesen können.
+async function mithelfen(_args, ctx) {
+  let text = null;
+  try {
+    text = await holen(`${ctx.site}/mithelfen/anleitung.md`, "text");
+  } catch {
+    // unten der Rückfall
+  }
+  if (!text) {
+    return `Die Arbeitsanleitung ist gerade nicht abrufbar. Kurzfassung: Fedlex- und entscheidsuche-Connector müssen verbunden sein (${ctx.site}/mithelfen/); ` +
+      "die Person fragen, woran sie arbeiten will; Gesetzestext nur per {{< wortlaut >}}, Entscheide mit entscheidsuche lesen und verlinken; " +
+      "jeden Entwurf mit beitrag_pruefen prüfen; nur mit ausdrücklicher Zustimmung beitrag_einreichen.";
+  }
+  const status = einreichenAktiv(ctx) ? "" : "\n\nHinweis: Das Einreichen aus dem Chat ist gerade ausgeschaltet. Prüfen geht; fertige Beiträge vorerst als Pull Request (siehe /fuer-agenten/).";
+  return text.trim() + status;
+}
+
 const HANDLER = {
+  mithelfen,
   glossagens_suchen: suchen,
   gesetze_auflisten: gesetzeAuflisten,
   artikel_auflisten: artikelAuflisten,

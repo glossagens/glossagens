@@ -11,6 +11,7 @@ einreichen. Eingereicht wird als Draft-PR; veröffentlicht erst nach dem Merge.
 
 | Tool | Zweck |
 |---|---|
+| `mithelfen` | Arbeitsanleitung für Beiträge aus dem Chat; holt `/mithelfen/anleitung.md` von der Seite (Quelle `static/mithelfen/anleitung.md`) |
 | `glossagens_suchen` | Stichwortsuche über Kommentare und Themen; erkennt Normangaben wie `StGB 70`, `Art. 336c OR` |
 | `gesetze_auflisten` | alle kommentierten Erlasse mit Kürzel, SR-Nummer, Artikelzahl |
 | `artikel_auflisten` | die Artikel eines Erlasses |
