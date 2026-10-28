@@ -731,6 +731,7 @@ await pruefe("zitatEnthalten: Auslassungen, Einfügungen, Typografie", () => {
   assert.ok(zitatEnthalten("konkreter Anhaltspunkte […]; die blosse Möglichkeit genügt nicht.", t));
   assert.ok(zitatEnthalten("[Es bedarf] konkreter Anhaltspunkte für eine Flucht", t));
   assert.ok(zitatEnthalten("konkreter  Anhalts­punkte für eine Flucht", t));
+  assert.ok(zitatEnthalten("es bedarf konkreter Anhaltspunkte", t), "Grossschreibung am Zitatanfang angepasst");
   assert.ok(!zitatEnthalten("konkreter Hinweise für eine Flucht", t));
   assert.ok(!zitatEnthalten("die blosse Möglichkeit genügt nicht […] konkreter Anhaltspunkte", t), "Reihenfolge");
 });
