@@ -1,6 +1,7 @@
 ---
 title: Kommentar
 weight: 1
+outputs: ["html", "json"]
 sidebar:
   open: true
 ---

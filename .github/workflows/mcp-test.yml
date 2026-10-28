@@ -1,0 +1,22 @@
+# Prüft den MCP-Server (mcp/) bei jeder Änderung daran. Ohne Netz, ohne wrangler.
+name: MCP-Test
+
+on:
+  pull_request:
+    paths: ["mcp/**", ".github/workflows/mcp-test.yml"]
+  push:
+    branches: [main]
+    paths: ["mcp/**", ".github/workflows/mcp-test.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node mcp/test/server.test.mjs

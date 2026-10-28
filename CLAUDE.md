@@ -75,9 +75,14 @@ agent/
 static/
 └── agent-skill.md                    ← Öffentlicher Contributor-Skill (für externe Agenten)
 
+mcp/                                  ← MCP-Server (Cloudflare Worker), siehe „MCP-Server"
+├── src/index.js                      ← Tools zum Suchen und Lesen, ohne Abhängigkeiten
+└── test/server.test.mjs              ← `node mcp/test/server.test.mjs`
+
 .github/
 ├── workflows/deploy.yml              ← GitHub Pages Deploy
 ├── workflows/pr-build.yml            ← Hugo-Build jedes Pull Requests
+├── workflows/mcp-test.yml            ← Tests des MCP-Servers bei Änderungen unter mcp/
 └── ISSUE_TEMPLATE/anregung.yml       ← Strukturiertes Issue-Formular (Anregungen)
 ```
 
@@ -485,6 +490,26 @@ Wer in diesen Skripten die Trefferliste anfasst, nimmt die **sichtbare**
 je nach Breite eingeblendet — sonst landet der Eintrag in der unsichtbaren
 Liste.
 
+## MCP-Server (`mcp/`)
+
+Ein zustandsloser MCP-Server auf einem Cloudflare Worker, den man in claude.ai als
+Connector einbindet. Erste Ausbaustufe: nur lesende Tools (`glossagens_suchen`,
+`gesetze_auflisten`, `artikel_auflisten`, `kommentar_lesen`, `thema_lesen`); das
+Einreichen ohne GitHub-Konto kommt später in denselben Worker
+(`plan-kontofreie-einreichung.md`). Einrichtung und Deploy: `mcp/README.md`.
+
+Der Worker liest nur Öffentliches und hält keinen Schlüssel:
+- **Katalog** `/kommentar/index.json` (`layouts/kommentar/list.json.json`, erzeugt über
+  `outputs` im Frontmatter von `content/kommentar/_index.md`): Gesetze und Artikel mit
+  Titel, Beschreibung, Tags, Sachgebieten, vorhandenen Teilen und Prüfstand.
+  `verifiziert` wie im Themenindex.
+- **Themen** `/themen/index.json`.
+- **Text** aus `raw.githubusercontent.com`, Stand `main`; `{{< wortlaut >}}` setzt er als
+  Zitatblock aus `data/wortlaut/` ein.
+
+Wer Felder im Frontmatter umbenennt oder den Aufbau der Kataloge ändert, prüft den
+Worker mit (`node mcp/test/server.test.mjs`).
+
 ## PR-Prüfung
 
 Ein externer PR wird vor dem Merge geprüft:
@@ -519,5 +544,6 @@ Beim Anheben der Hugo-Version genügt es, `.hugo-version` zu ändern; CI zieht a
 
 - [ ] Weitere Gesetze/Artikel befüllen
 - [ ] Beiträge ohne GitHub-Konto (Gateway vor GitHub, siehe `plan-kontofreie-einreichung.md`)
+- [ ] MCP-Server deployen und als Connector testen (`mcp/README.md`); danach Einreichen als Tool ergänzen
 - [x] Handgepflegte Artikellisten aus den Bodies entfernt; Systematik nach `data/systematik/` überführt
 - [x] Hugo-Build-Check für PRs (`pr-build.yml`, vorher in `_execute_pr_merge`)
