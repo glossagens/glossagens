@@ -20,8 +20,7 @@
   - "sidebar" — in der rechten TOC-Spalte (toc.html). Die trägt selbst
     `hx:hidden hx:xl:block`, ist also erst ab 1280px da.
   - "inline"  — am Ende der Gesetzesliste (kommentar/list.html), als schmale
-    Spalten. Auf /kommentar/ bleibt sie auf jeder Breite sichtbar (die TOC zeigt
-    dort nichts); auf /themen/ nur unter 1280px. Deckt genau den Bereich unter 1280px ab, in dem es die
+    Doppelspalte. Deckt genau den Bereich unter 1280px ab, in dem es die
     TOC-Spalte nicht gibt, und blendet sich darüber wieder aus. Beide Fassungen
     stehen im DOM; welche sichtbar ist, entscheidet allein die Media Query, denn
     der Umschaltpunkt der TOC ist CSS und nicht im Template abfragbar.
@@ -219,7 +218,7 @@
 }
 /* Ab 1280px zeigt die TOC-Spalte dieselbe Liste (hx:xl:block). */
 @media (min-width: 1280px) {
-  .gl-akt-mobil:not(.gl-akt-immer) { display: none; }
+  .gl-akt-mobil { display: none; }
 }
 
 /* Dark mode */
@@ -318,7 +317,7 @@
 {{- end -}}
 
 {{- if eq $variant "inline" -}}
-  <section class="gl-akt-mobil not-prose{{ if eq $bereich "kommentar" }} gl-akt-immer{{ end }}">
+  <section class="gl-akt-mobil not-prose">
     <h2 class="gl-akt-titel">Letzte Änderungen</h2>
     <div class="gl-toc-aktivitaet gl-akt-inline">
       {{- template "gl-akt-spalten" $spalten -}}
