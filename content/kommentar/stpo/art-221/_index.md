@@ -183,6 +183,8 @@ Das Bundesgericht hiess die Beschwerde teilweise gut, hob den Beschluss des Ober
 
 > **Merksatz.** Fehlende familiäre Bindungen und ein abgewiesenes Asylgesuch begründen für sich allein keine ausgeprägte Fluchtgefahr, wenn nur eine verhältnismässig kurze Freiheitsstrafe droht und der Betroffene auf behördliche Unterstützung angewiesen ist. Dem Risiko, dass sich die Person einer Ausschaffung entziehen könnte, haben die Migrationsbehörden zu begegnen, nicht die Strafjustiz via Haft. Liegen keine Hinweise auf Missachtung von Auflagen vor, sind grundsätzlich taugliche Ersatzmassnahmen (z.B. Meldepflichten, Schriftensperre, Eingrenzung) anzuordnen.
 
+---
+
 ### D. Merkmal 3b: Kollusionsgefahr (Abs. 1 lit. b)
 
 #### 1. Begriff und strikter Massstab
