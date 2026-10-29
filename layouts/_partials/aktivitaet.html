@@ -45,7 +45,7 @@
     unrevidierten Eintrag ist das die Anlage. Revidierte reihen sich innerhalb
     ihres Tages zuletzt ein (ihr letzter Commit sagt über die Anlage nichts).
 
-  Auf /kommentar/ steht eine dritte Spalte „Neueste Einreichungen": die jüngsten
+  Auf /kommentar/ steht eine dritte Spalte „Neueste Dritteinreichungen": die jüngsten
   Pull Requests mit Titel und Badge (offen / übernommen / abgelehnt). Sie kommt
   nicht aus dem Build, sondern wird im Browser von der öffentlichen GitHub-API
   geholt (`repos/{repo}/pulls`) — sonst erschiene eine Einreichung erst nach dem
@@ -177,7 +177,7 @@
   margin: 0;
 }
 
-/* Neueste Einreichungen (Pull Requests, per JS befüllt) */
+/* Neueste Dritteinreichungen (Pull Requests, per JS befüllt) */
 .gl-toc-azeile .gl-toc-atitel { display: flex; align-items: baseline; gap: .4rem; }
 .gl-pr-badge {
   flex: none;
@@ -256,7 +256,7 @@
     "eintraege" (first $anzahl (sort $artikel "neu" "desc")) "feld" "datum")
 -}}
 {{- if eq $bereich "kommentar" -}}
-  {{- $spalten = $spalten | append (dict "titel" "Neueste Einreichungen" "einreichungen" true) -}}
+  {{- $spalten = $spalten | append (dict "titel" "Neueste Dritteinreichungen" "einreichungen" true) -}}
 {{- end -}}
 
 {{- if and (eq $bereich "kommentar") (not ($ctx.Store.Get "glEinreichungenJS")) -}}

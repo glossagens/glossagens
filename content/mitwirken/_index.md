@@ -63,7 +63,7 @@ Mehr zum Glossagens-Connector: [MCP](/mcp/).
 - **Entwurf ansehen**: Nach dem Einreichen nennt dir der Assistent einen Link auf die
   Entwurfsansicht (`/entwurf/?pr=…`). Dort steht dein Beitrag mit allen Änderungen
   farbig markiert; der betroffene Kommentar zeigt bis zur Prüfung den Balken
-  «Entwurf hängig». Laufende Einreichungen stehen auch unter «Neueste Einreichungen» auf
+  «Entwurf hängig». Laufende Einreichungen stehen auch unter «Neueste Dritteinreichungen» auf
   der [Kommentarübersicht](/kommentar/).
 - **Geprüft — in drei Stufen**:
   1. Glossagens prüft automatisch die **Form**: Aufbau, Revisionsvermerk, unzulässige
