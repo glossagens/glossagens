@@ -37,6 +37,11 @@ enableGitInfo = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  # Farben über Klassen (Hextra: chroma/light.css + dark.css), nicht inline.
+  # Inline schrieb Hugo Monokai (#f8f8f2 auf #272822); custom.css setzt den
+  # Hintergrund auf Papier — die Adresse auf /mcp/ war hell auf hell.
+  [markup.highlight]
+    noClasses = false
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
