@@ -41,7 +41,8 @@
         {{- end -}}
       {{- end -}}
 
-      {{- $aktivitaet := index (dict "/kommentar/" "kommentar" "/themen/" "themen") .RelPermalink -}}
+      {{- /* /kommentar/ trägt die Aktivität am Seitenende (kommentar/list.html), nicht in der TOC: Dort scrollte sie unter „Diese Seite auf GitHub bearbeiten". */ -}}
+      {{- $aktivitaet := index (dict "/themen/" "themen") .RelPermalink -}}
       {{- with $aktivitaet -}}
         {{ partial "aktivitaet.html" (dict "context" $ "variant" "sidebar" "bereich" .) }}
       {{- end -}}

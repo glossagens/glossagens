@@ -20,7 +20,8 @@
   - "sidebar" — in der rechten TOC-Spalte (toc.html). Die trägt selbst
     `hx:hidden hx:xl:block`, ist also erst ab 1280px da.
   - "inline"  — am Ende der Gesetzesliste (kommentar/list.html), als schmale
-    Doppelspalte. Deckt genau den Bereich unter 1280px ab, in dem es die
+    Spalten. Auf /kommentar/ bleibt sie auf jeder Breite sichtbar (die TOC zeigt
+    dort nichts); auf /themen/ nur unter 1280px. Deckt genau den Bereich unter 1280px ab, in dem es die
     TOC-Spalte nicht gibt, und blendet sich darüber wieder aus. Beide Fassungen
     stehen im DOM; welche sichtbar ist, entscheidet allein die Media Query, denn
     der Umschaltpunkt der TOC ist CSS und nicht im Template abfragbar.
@@ -45,7 +46,7 @@
     unrevidierten Eintrag ist das die Anlage. Revidierte reihen sich innerhalb
     ihres Tages zuletzt ein (ihr letzter Commit sagt über die Anlage nichts).
 
-  Auf /kommentar/ steht eine dritte Spalte „Letzte Einreichungen": die jüngsten
+  Auf /kommentar/ steht eine dritte Spalte „Neueste Einreichungen": die jüngsten
   Pull Requests mit Titel und Badge (offen / übernommen / abgelehnt). Sie kommt
   nicht aus dem Build, sondern wird im Browser von der öffentlichen GitHub-API
   geholt (`repos/{repo}/pulls`) — sonst erschiene eine Einreichung erst nach dem
@@ -177,7 +178,7 @@
   margin: 0;
 }
 
-/* Letzte Einreichungen (Pull Requests, per JS befüllt) */
+/* Neueste Einreichungen (Pull Requests, per JS befüllt) */
 .gl-toc-azeile .gl-toc-atitel { display: flex; align-items: baseline; gap: .4rem; }
 .gl-pr-badge {
   flex: none;
@@ -218,7 +219,7 @@
 }
 /* Ab 1280px zeigt die TOC-Spalte dieselbe Liste (hx:xl:block). */
 @media (min-width: 1280px) {
-  .gl-akt-mobil { display: none; }
+  .gl-akt-mobil:not(.gl-akt-immer) { display: none; }
 }
 
 /* Dark mode */
@@ -256,7 +257,7 @@
     "eintraege" (first $anzahl (sort $artikel "neu" "desc")) "feld" "datum")
 -}}
 {{- if eq $bereich "kommentar" -}}
-  {{- $spalten = $spalten | append (dict "titel" "Letzte Einreichungen" "einreichungen" true) -}}
+  {{- $spalten = $spalten | append (dict "titel" "Neueste Einreichungen" "einreichungen" true) -}}
 {{- end -}}
 
 {{- if and (eq $bereich "kommentar") (not ($ctx.Store.Get "glEinreichungenJS")) -}}
@@ -317,7 +318,7 @@
 {{- end -}}
 
 {{- if eq $variant "inline" -}}
-  <section class="gl-akt-mobil not-prose">
+  <section class="gl-akt-mobil not-prose{{ if eq $bereich "kommentar" }} gl-akt-immer{{ end }}">
     <h2 class="gl-akt-titel">Letzte Änderungen</h2>
     <div class="gl-toc-aktivitaet gl-akt-inline">
       {{- template "gl-akt-spalten" $spalten -}}
