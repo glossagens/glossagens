@@ -52,8 +52,17 @@
         {{- $borderClass = "" -}}
       {{- end -}}
 
+      {{- /* Startseite /kommentar/: Die Aktivität soll nicht unter die angeheftete
+             Leiste („Diese Seite auf GitHub bearbeiten") scrollen, sondern die
+             Leiste hängt sich unten an. Auf Artikelseiten bleibt sie angeheftet. */ -}}
+      {{- $sticky := "hx:sticky hx:bottom-0" -}}
+      {{- if eq $aktivitaet "kommentar" -}}
+        {{- $sticky = "" -}}
+        {{- $borderClass = "hx:mt-8 hx:border-t hx:pt-8" -}}
+      {{- end -}}
+
       {{/* TOC bottom part */}}
-      <div class="{{ $borderClass }} hx:sticky hx:bottom-0 hx:flex hx:flex-col hx:items-start hx:gap-2 hx:pb-8 hx:border-gray-200 hx:dark:border-neutral-800 hx:contrast-more:border-t hx:contrast-more:border-neutral-400 hx:contrast-more:shadow-none hx:contrast-more:dark:border-neutral-400">
+      <div class="{{ $borderClass }} {{ $sticky }} hx:flex hx:flex-col hx:items-start hx:gap-2 hx:pb-8 hx:border-gray-200 hx:dark:border-neutral-800 hx:contrast-more:border-t hx:contrast-more:border-neutral-400 hx:contrast-more:shadow-none hx:contrast-more:dark:border-neutral-400">
         {{- if and site.Params.toc.displayTags .Params.tags -}}
           <div class="hx:flex hx:items-start hx:gap-x-2 hx:font-medium hx:text-xs">
             <div class="hx:text-gray-500 hx:dark:text-gray-400 hx:contrast-more:text-gray-800 hx:contrast-more:dark:text-gray-50">{{ $tags }}</div>

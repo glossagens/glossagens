@@ -11,7 +11,7 @@
           {{ if .Title }}<h1>{{ .Title }}</h1>{{ end }}
           {{/* Artikelseite: Sachgebiete (data/sachgebiete/zuordnung.yaml) und
                Themen, die den Artikel in `normen` führen */}}
-          {{ if gt $depth 2 }}{{ partial "sachgebiete/badges.html" . }}{{ partial "themen/in-themen.html" . }}{{ end }}
+          {{ if gt $depth 2 }}{{ partial "sachgebiete/badges.html" . }}{{ partial "themen/in-themen.html" . }}<div class="gl-entwurf-balken" hidden></div>{{ end }}
           {{ .Content }}
 
           {{/* ============ /kommentar/ — Gesetzes-Übersicht ============ */}}

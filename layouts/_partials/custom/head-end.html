@@ -1,3 +1,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+{{- /* Balken «Entwurf hängig» auf Kommentar- und Themenseiten (assets/js/entwurf-hinweis.js) */ -}}
+{{- $tiefe := len (split (strings.Trim .Path "/") "/") -}}
+{{- if or (and (eq .Section "kommentar") (gt $tiefe 2)) (and (eq .Section "themen") (gt $tiefe 1)) }}
+{{- with resources.Get "js/entwurf-hinweis.js" | minify | fingerprint }}
+<script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" data-worker="{{ site.Params.mcpWorker }}"></script>
+{{- end }}
+{{- end }}

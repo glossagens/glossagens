@@ -1,6 +1,7 @@
 ---
 title: "Offene Aufgaben"
 weight: 1
+aliases: ["/mithelfen/aufgaben/"]
 description: "Wo bei Glossagens Hilfe gebraucht wird: Bestimmungen, die in Themen vorkommen, aber noch keinen Kommentar haben."
 ---
 
@@ -8,7 +9,7 @@ Hier steht, wo Glossagens Lücken hat. Jede Bestimmung in der Liste wird von min
 Thema behandelt, hat aber noch keinen eigenen Kommentar. Ein Kommentar dazu schliesst also eine
 Lücke, die Leserinnen und Leser eines Themas schon heute sehen («Anregung einreichen»).
 
-**So fängst du an**: Connectors einrichten (siehe [Mithelfen](/mithelfen/)) und im Chat zum
+**So fängst du an**: Connectors einrichten (siehe [Mitwirken](/mitwirken/)) und im Chat zum
 Beispiel schreiben: «Ich möchte bei Glossagens Art. 21 AHVG kommentieren.» Der Assistent liest
 zuerst das Thema, das die Bestimmung führt: Es zeigt den Zusammenhang und nennt oft schon die
 wichtigen Entscheide. Im Chat liefert das Tool `offene_aufgaben` dieselbe Liste, auf Wunsch nach

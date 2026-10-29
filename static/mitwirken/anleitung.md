@@ -21,7 +21,7 @@ Prüfe zuerst, ob du diese Werkzeuge hast:
 | opencaselaw | `find_leading_cases`, `get_erwaegung`, `get_regeste`, `cite` | empfohlen |
 
 Fehlt Fedlex oder entscheidsuche: nicht weiterarbeiten. Erkläre die Einrichtung
-(https://glossagens.ch/mithelfen/, Abschnitt «Die Connectors») und bitte die Person, danach
+(https://glossagens.ch/mitwirken/, Abschnitt «Die Connectors») und bitte die Person, danach
 einen neuen Chat zu beginnen. Gesetzestexte und Urteile aus dem Gedächtnis sind unzulässig.
 
 ## 1. Aufgabe wählen
@@ -206,7 +206,10 @@ Prüfauftrag — verlinke jeden Entscheid, den du nennst.
 3. Frage ausdrücklich, ob du einreichen sollst. Nur bei Ja: `beitrag_einreichen` mit
    denselben Angaben wie beim Prüfen **samt `belege`**, optional `beschreibung` für die
    Redaktion. Ohne vollständiges Belegprotokoll nimmt Glossagens nichts an.
-4. Gib den Link weiter. Den Stand zeigt später `einreichung_status` (Nummer oder Link).
+4. Gib beide Links weiter: den Pull Request und die **Entwurfsansicht**
+   (`https://glossagens.ch/entwurf/?pr={Nummer}`). Dort sieht die Person ihren Beitrag mit
+   den Änderungen gegenüber dem veröffentlichten Text farbig markiert, ohne GitHub-Konto.
+   Den Stand zeigt später `einreichung_status` (Nummer oder Link).
 
 Verlangt die Redaktion Änderungen, überarbeite den Beitrag und reiche ihn neu ein; in
 `beschreibung` auf die frühere Nummer verweisen.

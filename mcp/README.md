@@ -11,8 +11,8 @@ einreichen. Eingereicht wird als Draft-PR; veröffentlicht erst nach dem Merge.
 
 | Tool | Zweck |
 |---|---|
-| `mithelfen` | Arbeitsanleitung für Beiträge aus dem Chat; holt `/mithelfen/anleitung.md` von der Seite (Quelle `static/mithelfen/anleitung.md`) |
-| `offene_aufgaben` | Bestimmungen aus Themen (`normen`) ohne Kommentar, mehrfach gebrauchte zuerst; Filter nach Gesetz/Stichwort. Gleiche Quelle wie die Seite `/mithelfen/aufgaben/` (`layouts/_shortcodes/offene-aufgaben.html`) |
+| `mitwirken` | Arbeitsanleitung für Beiträge aus dem Chat; holt `/mitwirken/anleitung.md` von der Seite (Quelle `static/mitwirken/anleitung.md`) |
+| `offene_aufgaben` | Bestimmungen aus Themen (`normen`) ohne Kommentar, mehrfach gebrauchte zuerst; Filter nach Gesetz/Stichwort. Gleiche Quelle wie die Seite `/mitwirken/aufgaben/` (`layouts/_shortcodes/offene-aufgaben.html`) |
 | `glossagens_suchen` | Stichwortsuche über Kommentare und Themen; erkennt Normangaben wie `StGB 70`, `Art. 336c OR` |
 | `gesetze_auflisten` | alle kommentierten Erlasse mit Kürzel, SR-Nummer, Artikelzahl |
 | `artikel_auflisten` | die Artikel eines Erlasses |
@@ -156,6 +156,20 @@ Den Build-Status zeigt das Tool nicht (die App hat kein Recht auf Checks).
 **Not-Aus:** `EINREICHEN = "aus"` in `wrangler.toml` und deployen — das Tool
 verschwindet aus der Liste. Bei einem Schlüssel-Leck zusätzlich den Schlüssel in den
 App-Einstellungen auf GitHub löschen.
+
+## Offene Entwürfe (`GET /entwuerfe.json`)
+
+Kein MCP-Tool, sondern ein öffentlicher Endpunkt für die Seite: offene Pull Requests
+mit den Seiten unter `content/`, die sie ändern (`{ nr, titel, erstellt, seiten }`).
+Kommentar- und Themenseiten zeigen damit den Balken «Entwurf hängig»
+(`assets/js/entwurf-hinweis.js`, Adresse in `hugo.toml` unter `params.mcpWorker`).
+Über den Worker statt direkt aus dem Browser, weil GitHub unangemeldet nur 60
+Anfragen pro Stunde und IP erlaubt. Die Dateiliste eines PR hält KV je Head-Commit
+(`dateien:{nr}:{sha}`), die ganze Antwort der Cache zwei Minuten. Ohne GitHub App
+liefert er eine leere Liste.
+
+`beitrag_einreichen` und `einreichung_status` nennen ausserdem den Link auf die
+Entwurfsansicht der Seite (`/entwurf/?pr=N`).
 
 ## Deployen
 
