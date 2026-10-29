@@ -9,6 +9,10 @@ revisions:
   - date: 2026-10-29
     by: "Claude (claude.ai)"
     model: "claude-haiku-5-5"
+    note: "Begriff Nothilfe ersetzt: Das Urteil 1B_323/2023 E. 3.3.3 spricht von der Unterstützung der Behörden zur Bestreitung des Lebensunterhalts, nicht von Nothilfe; die Bindung wird dort als ökonomische Bindung zumindest insoweit beschrieben, nicht als existenziell. Sachverhalt und Dispositiv gegen den Volltext geprüft."
+  - date: 2026-10-29
+    by: "Claude (claude.ai)"
+    model: "claude-haiku-5-5"
     note: "Zitat zur Fluchtgefahr: Wortlaut und Fundstelle auf BGer 1B_323/2023 E. 3.1 umgestellt (Volltext via entscheidsuche geprüft); BGE 145 IV 503 E. 2.2 nur noch mit vgl.; Verweis auf BGer 7B_1311/2026 E. 2.1 entfernt, da dort anderer Wortlaut steht."
   - date: 2026-10-29
     by: "Claude (claude.ai)"
@@ -156,13 +160,14 @@ Nachdem ihn das erstinstanzliche Kriminalgericht jedoch wegen Mordes zu **18 Jah
 3. **Scheitern von Ersatzmassnahmen**: Der Beschuldigte bot Hausarrest bei seiner Schwester in Versoix (GE), tägliche Meldung bei der Polizei und eine **elektronische Fussfessel (Electronic Monitoring)** an. Das Bundesgericht verwarf dies: Versoix liegt unmittelbar an der offenen französischen Grenze im Schengen-Raum. Die elektronische Fussfessel überwacht nicht in Echtzeit mit präventivem Eingriff, sondern alarmiert nur *ex post*. Wer die Grenze in wenigen Minuten überqueren kann, lässt sich durch eine Fussfessel nicht aufhalten ([BGE 145 IV 503 E. 3.2 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html)).
 
 #### 3. Verwerfungsfall: Abgewiesener Asylbewerber mit klagloser Vollzugshistorie (BGer 1B_323/2023)
+
 Den diametralen Gegenfall beurteilte das Bundesgericht bei einem Asylbewerber im Kanton Schaffhausen:
 
-Dem Beschuldigten, dessen Asylgesuch rechtskräftig abgewiesen war, wurden Einschleichdiebstähle vorgeworfen; zudem lag ein Strafbefehl über 6 Monate unbedingte Freiheitsstrafe vor. Er verfügte über keinerlei familiäre oder berufliche Bindungen in der Schweiz, lebte von Nothilfe und sah sich der obligatorischen Landesverweisung (Art. 66a StGB) gegenüber. Das Obergericht Schaffhausen bejahte Fluchtgefahr.
+Dem Beschuldigten, dessen Asylgesuch rechtskräftig abgewiesen war, wurden Einschleichdiebstähle vorgeworfen; zudem lag ein Strafbefehl über 6 Monate unbedingte Freiheitsstrafe vor. Er verfügte über keinerlei familiäre oder berufliche Bindungen in der Schweiz, war für seinen Lebensunterhalt auf behördliche Unterstützung angewiesen und sah sich der obligatorischen Landesverweisung (Art. 66a StGB) gegenüber. Das Obergericht Schaffhausen bejahte Fluchtgefahr.
 
 Das Bundesgericht hob den Entscheid auf und **ordnete die sofortige Haftentlassung an**:
 - Der Beschuldigte war in den zwei Vorjahren bereits fünfmal zu unbedingten Freiheitsstrafen zwischen 1 und 4 Monaten verurteilt worden und hatte **jede einzelne Strafe widerstandslos angetreten**, ohne jemals unterzutauchen.
-- Weil er auf Nothilfe angewiesen war, bestand eine existenzielle ökonomische Bindung an die Schweiz.
+- Weil er für seinen Lebensunterhalt auf die Unterstützung der Behörden angewiesen war, bestand zumindest eine ökonomische Bindung an die Schweiz.
 - Wer ein derart diszipliniertes Vollzugsverhalten an den Tag legt, begründet keine Fluchtgefahr, nur weil die neue Strafe mit 6 Monaten etwas höher ausfällt als die früheren ([BGer 1B_323/2023 vom 4. Juli 2023 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html)).
 
 #### 4. Moderate Fluchtgefahr bei Asylsuchenden und Vorrang von Ersatzmassnahmen (BGer 7B_1311/2026)
