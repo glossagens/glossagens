@@ -52,7 +52,7 @@ Vorgehen: Mit \`glossagens_suchen\` den passenden Kommentar oder das Thema finde
 
 Die Texte sind KI-erstellt und können falsche Zitate enthalten: Normtexte und Entscheide vor der Verwendung an der Quelle prüfen und Glossagens mit Link zitieren.
 
-Möchte die Person bei Glossagens mithelfen, beitragen oder «Tokens spenden»: zuerst \`mithelfen\` aufrufen und der Anleitung folgen.
+Möchte die Person bei Glossagens mitwirken, beitragen oder «Tokens spenden»: zuerst \`mitwirken\` aufrufen und der Anleitung folgen.
 
 Beitragen: Für eine Änderung zuerst \`kommentar_lesen\` (bzw. \`thema_lesen\`) mit format "quelltext" — das liefert den Markdown-Quelltext und die \`version\`. Dann den Entwurf mit \`beitrag_pruefen\` prüfen, am besten abschnittsweise (\`abschnitt\` + \`text\`), mit \`revision\` (wer, Modell, was geändert und wie die Belege geprüft wurden). Normtexte nie abschreiben: \`{{< wortlaut >}}\` setzt sie ein. Entscheide auf entscheidsuche.ch verlinken, mit der URL aus einer Suche dort, nie konstruiert. \`beitrag_pruefen\` gibt einen Prüfauftrag aus: Jede verlinkte Entscheid-Stelle prüfst du selbst (Entscheid mit fetch_document lesen, tragenden Satz wörtlich kopieren) und legst das Protokoll als \`belege\` vor. Ist die Prüfung fehlerfrei, das Protokoll vollständig und hat die Person ausdrücklich zugestimmt, reicht \`beitrag_einreichen\` mit denselben Angaben den Beitrag ein (öffentlicher Pull Request auf GitHub, veröffentlicht erst nach Prüfung durch die Redaktion).
 
@@ -109,10 +109,10 @@ const BEITRAG = {
 
 const TOOLS = [
   {
-    name: "mithelfen",
-    title: "Bei Glossagens mithelfen",
+    name: "mitwirken",
+    title: "Bei Glossagens mitwirken",
     description:
-      "Aufrufen, wenn die Person bei Glossagens mithelfen, beitragen, einen Kommentar schreiben oder verbessern oder «Tokens spenden» möchte. " +
+      "Aufrufen, wenn die Person bei Glossagens mitwirken, beitragen, einen Kommentar schreiben oder verbessern oder «Tokens spenden» möchte. " +
       "Liefert die verbindliche Arbeitsanleitung: nötige Connectors (Fedlex, entscheidsuche), Aufgabe wählen, Recherche, Stil, Prüfen und Einreichen.",
     inputSchema: { type: "object", properties: {} },
     annotations: NUR_LESEN,
@@ -122,7 +122,7 @@ const TOOLS = [
     title: "Offene Aufgaben",
     description:
       "Zeigt, wo bei Glossagens Hilfe gebraucht wird: Bestimmungen, die in Themen vorkommen, aber noch keinen Kommentar haben — " +
-      "zuerst die, die mehrere Themen brauchen. Filter nach Gesetz oder Stichwort (Rechtsgebiet, Thema). Für Personen, die mithelfen wollen und noch nicht wissen, woran.",
+      "zuerst die, die mehrere Themen brauchen. Filter nach Gesetz oder Stichwort (Rechtsgebiet, Thema). Für Personen, die mitwirken wollen und noch nicht wissen, woran.",
     inputSchema: {
       type: "object",
       properties: {
@@ -1302,18 +1302,18 @@ async function einreichungStatus({ pr }, ctx) {
   return zeilen.join("\n");
 }
 
-// Die Anleitung liegt auf der Seite (static/mithelfen/anleitung.md), damit sie
+// Die Anleitung liegt auf der Seite (static/mitwirken/anleitung.md), damit sie
 // sich ohne Deploy des Workers nachführen lässt und Chats ohne Connector sie
 // ebenfalls lesen können.
-async function mithelfen(_args, ctx) {
+async function mitwirken(_args, ctx) {
   let text = null;
   try {
-    text = await holen(`${ctx.site}/mithelfen/anleitung.md`, "text");
+    text = await holen(`${ctx.site}/mitwirken/anleitung.md`, "text");
   } catch {
     // unten der Rückfall
   }
   if (!text) {
-    return `Die Arbeitsanleitung ist gerade nicht abrufbar. Kurzfassung: Fedlex- und entscheidsuche-Connector müssen verbunden sein (${ctx.site}/mithelfen/); ` +
+    return `Die Arbeitsanleitung ist gerade nicht abrufbar. Kurzfassung: Fedlex- und entscheidsuche-Connector müssen verbunden sein (${ctx.site}/mitwirken/); ` +
       "die Person fragen, woran sie arbeiten will; Gesetzestext nur per {{< wortlaut >}}, Entscheide mit entscheidsuche lesen und verlinken; " +
       "jeden Entwurf mit beitrag_pruefen prüfen; nur mit ausdrücklicher Zustimmung beitrag_einreichen.";
   }
@@ -1323,7 +1323,7 @@ async function mithelfen(_args, ctx) {
 
 // --- Offene Aufgaben -----------------------------------------------------------
 
-// Quelle wie die Seite /mithelfen/aufgaben/ (layouts/_shortcodes/offene-aufgaben.html):
+// Quelle wie die Seite /mitwirken/aufgaben/ (layouts/_shortcodes/offene-aufgaben.html):
 // Normen, die ein Thema führt, ohne Kommentar. Reihenfolge: Zahl der Themen, dann Norm.
 async function offeneAufgaben({ gesetz, stichwort, limit = 20 }, ctx) {
   limit = Math.min(Math.max(parseInt(limit, 10) || 20, 1), 100);
@@ -1363,7 +1363,7 @@ async function offeneAufgaben({ gesetz, stichwort, limit = 20 }, ctx) {
     const namen = l.themen.map((slug) => `${themen[slug]?.titel ?? slug} (slug="${slug}")`);
     return `- ${l.titel} — neuer Kommentar (gesetz="${l.dir}" artikel="${l.slug}")\n  behandelt in ${l.themen.length === 1 ? "Thema" : `${l.themen.length} Themen`}: ${namen.join("; ")}`;
   });
-  const mehr = luecken.length > limit ? `\n\n(${luecken.length - limit} weitere; mit \`limit\` oder einem Filter mehr anzeigen. Ganze Liste: ${ctx.site}/mithelfen/aufgaben/)` : "";
+  const mehr = luecken.length > limit ? `\n\n(${luecken.length - limit} weitere; mit \`limit\` oder einem Filter mehr anzeigen. Ganze Liste: ${ctx.site}/mitwirken/aufgaben/)` : "";
   return [
     kopf,
     "",
@@ -1371,13 +1371,13 @@ async function offeneAufgaben({ gesetz, stichwort, limit = 20 }, ctx) {
     mehr,
     "",
     "Vorgehen: Die Person eine Bestimmung wählen lassen, zuerst das Thema lesen (thema_lesen: Zusammenhang und oft schon die wichtigen Entscheide), " +
-      "dann nach der Anleitung (mithelfen) recherchieren und schreiben. Ein neuer Kommentar braucht viele Tokens; kleinere Beiträge — " +
+      "dann nach der Anleitung (mitwirken) recherchieren und schreiben. Ein neuer Kommentar braucht viele Tokens; kleinere Beiträge — " +
       "Rechtsprechung ergänzen, einen Abschnitt vertiefen, ein Zitat korrigieren — sind ebenso willkommen.",
   ].join("\n");
 }
 
 const HANDLER = {
-  mithelfen,
+  mitwirken,
   offene_aufgaben: offeneAufgaben,
   glossagens_suchen: suchen,
   gesetze_auflisten: gesetzeAuflisten,

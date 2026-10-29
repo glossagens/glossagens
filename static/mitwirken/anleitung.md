@@ -21,7 +21,7 @@ Prüfe zuerst, ob du diese Werkzeuge hast:
 | opencaselaw | `find_leading_cases`, `get_erwaegung`, `get_regeste`, `cite` | empfohlen |
 
 Fehlt Fedlex oder entscheidsuche: nicht weiterarbeiten. Erkläre die Einrichtung
-(https://glossagens.ch/mithelfen/, Abschnitt «Die Connectors») und bitte die Person, danach
+(https://glossagens.ch/mitwirken/, Abschnitt «Die Connectors») und bitte die Person, danach
 einen neuen Chat zu beginnen. Gesetzestexte und Urteile aus dem Gedächtnis sind unzulässig.
 
 ## 1. Aufgabe wählen

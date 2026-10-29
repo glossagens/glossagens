@@ -218,7 +218,7 @@ await pruefe("Notification → 202 ohne Inhalt", async () => {
 await pruefe("tools/list: nur lesende Tools", async () => {
   const d = await (await rpc({ jsonrpc: "2.0", id: 2, method: "tools/list" })).json();
   const namen = d.result.tools.map((t) => t.name);
-  assert.deepEqual(namen, ["mithelfen", "offene_aufgaben", "glossagens_suchen", "gesetze_auflisten", "artikel_auflisten", "kommentar_lesen", "thema_lesen", "beitrag_pruefen"]);
+  assert.deepEqual(namen, ["mitwirken", "offene_aufgaben", "glossagens_suchen", "gesetze_auflisten", "artikel_auflisten", "kommentar_lesen", "thema_lesen", "beitrag_pruefen"]);
   for (const t of d.result.tools) assert.equal(t.annotations.readOnlyHint, true, t.name);
 });
 
@@ -361,15 +361,15 @@ await pruefe("thema_lesen: ungültiger Slug greift nicht auf fremde Pfade", asyn
 // Einreichen eingeschaltet, ohne die Mocks der Einreichen-Tests.
 const ENV_EIN_FRUEH = { ...ENV, EINREICHEN: "an", GITHUB_APP_KEY: "x", GITHUB_APP_ID: "1", GITHUB_INSTALLATION_ID: "1", GITHUB_REPO: "o/r", EINREICHUNGEN: {} };
 
-await pruefe("mithelfen: Anleitung von der Seite, mit Rückfall", async () => {
-  DATEIEN[`${SITE}/mithelfen/anleitung.md`] = "# Glossagens — Arbeitsanleitung\n\nText.\n";
-  let r = await tool("mithelfen", {});
+await pruefe("mitwirken: Anleitung von der Seite, mit Rückfall", async () => {
+  DATEIEN[`${SITE}/mitwirken/anleitung.md`] = "# Glossagens — Arbeitsanleitung\n\nText.\n";
+  let r = await tool("mitwirken", {});
   assert.match(r.text, /^# Glossagens — Arbeitsanleitung\n\nText\.\n\nHinweis: Das Einreichen aus dem Chat ist gerade ausgeschaltet/);
-  r = await tool("mithelfen", {}, ENV_EIN_FRUEH);
+  r = await tool("mitwirken", {}, ENV_EIN_FRUEH);
   assert.equal(r.text, "# Glossagens — Arbeitsanleitung\n\nText.");
-  delete DATEIEN[`${SITE}/mithelfen/anleitung.md`];
+  delete DATEIEN[`${SITE}/mitwirken/anleitung.md`];
   _speicherLeeren();
-  r = await tool("mithelfen", {});
+  r = await tool("mitwirken", {});
   assert.ok(!r.fehler);
   assert.match(r.text, /gerade nicht abrufbar\. Kurzfassung/);
 });

@@ -508,17 +508,17 @@ Der Worker liest nur Öffentliches und hält keinen Schlüssel:
 - **Text** aus `raw.githubusercontent.com`, Stand `main`; `{{< wortlaut >}}` setzt er als
   Zitatblock aus `data/wortlaut/` ein.
 
-**Einstieg «Mithelfen»**: Wer im Chat sagt, er wolle mithelfen oder «Tokens spenden», soll
+**Einstieg «Mitwirken»**: Wer im Chat sagt, er wolle mitwirken oder «Tokens spenden», soll
 ohne Vorwissen ans Ziel kommen. Dafür sorgen vier Stellen mit gleichem Inhalt: die Startseite
 (`layouts/index.html` — leitet Browser weiter, zeigt Chats aber Text, weil deren
-Abruf-Werkzeuge weder Skript noch meta refresh folgen), die Seite `/mithelfen/`
-(`content/mithelfen/_index.md`, Connectors Glossagens/Fedlex/entscheidsuche als Pflicht,
+Abruf-Werkzeuge weder Skript noch meta refresh folgen), die Seite `/mitwirken/`
+(`content/mitwirken/_index.md`, Connectors Glossagens/Fedlex/entscheidsuche als Pflicht,
 opencaselaw empfohlen, Abschnitt «An KI-Assistenten»), `static/llms.txt` und das Tool
-`mithelfen`. Es liefert die Arbeitsanleitung `static/mithelfen/anleitung.md` von der Seite
+`mitwirken`. Es liefert die Arbeitsanleitung `static/mitwirken/anleitung.md` von der Seite
 aus; sie wird ohne Deploy des Workers nachgeführt. Ändern sich Regeln in dieser Datei (Stil,
 Quellen, Formvorschriften), die Anleitung mitziehen.
 
-**Offene Aufgaben**: `/mithelfen/aufgaben/` (Shortcode `offene-aufgaben`) und das Tool
+**Offene Aufgaben**: `/mitwirken/aufgaben/` (Shortcode `offene-aufgaben`) und das Tool
 `offene_aufgaben` listen Bestimmungen, die ein Thema in `normen` führt, die aber keinen
 Kommentar haben — mehrfach gebrauchte zuerst. Quelle ist der Themenindex; jede neue Norm
 in einem Thema ist damit automatisch eine Aufgabe, jeder neue Kommentar streicht eine.

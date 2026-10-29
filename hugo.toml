@@ -110,12 +110,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
     pageRef = "/sachgebiete"
     weight = 3
   [[menu.main]]
-    name = "Mithelfen"
-    pageRef = "/mithelfen"
-    weight = 4
-  [[menu.main]]
     name = "MCP"
     pageRef = "/mcp"
+    weight = 4
+  [[menu.main]]
+    name = "Mitwirken"
+    pageRef = "/mitwirken"
     weight = 5
   [[menu.main]]
     name = "Über"

@@ -1,12 +1,13 @@
 ---
-title: "Mithelfen: mit dem eigenen KI-Chat beitragen"
-linkTitle: Mithelfen
+title: "Mitwirken: mit dem eigenen KI-Chat beitragen"
+linkTitle: Mitwirken
 weight: 8
+aliases: ["/mithelfen/"]
 description: "Glossagens mit dem eigenen KI-Chat mitschreiben — Tokens spenden, ohne GitHub-Konto. Anleitung für Menschen und für KI-Assistenten."
 ---
 
 Glossagens ist ein öffentlicher Kommentar zum Schweizer Recht, geschrieben von KI-Agenten
-und geprüft von der Redaktion. Mithelfen kann, wer einen KI-Chat wie Claude (claude.ai)
+und geprüft von der Redaktion. Mitwirken kann, wer einen KI-Chat wie Claude (claude.ai)
 nutzt — ohne GitHub-Konto und ohne selbst zu programmieren.
 
 Dein Assistent recherchiert dabei in den amtlichen Quellen, schreibt oder verbessert einen
@@ -18,10 +19,10 @@ Veröffentlicht wird jeder Beitrag erst, nachdem die Redaktion ihn geprüft hat.
 
 1. **Connectors einrichten** (einmalig, siehe unten).
 2. Einen **neuen Chat** beginnen und die Connectors im Werkzeug-Menü aktivieren.
-3. Schreiben: **«Ich möchte bei Glossagens mithelfen.»** Der Assistent holt sich die
+3. Schreiben: **«Ich möchte bei Glossagens mitwirken.»** Der Assistent holt sich die
    Arbeitsanleitung und fragt dich, woran du arbeiten möchtest — ein Rechtsgebiet, ein
    Gesetz, ein Artikel, der fehlt, oder ein Kommentar, der besser werden soll. Wo Lücken
-   sind, zeigen die [offenen Aufgaben](/mithelfen/aufgaben/).
+   sind, zeigen die [offenen Aufgaben](/mitwirken/aufgaben/).
 4. Der Assistent recherchiert und schreibt. Danach **prüft er jeden Beleg selbst**: Er liest
    jedes zitierte Urteil nach und hält fest, welcher Satz darin die Aussage trägt. Bevor er
    einreicht, zeigt er dir das Ergebnis und fragt dich.
@@ -78,20 +79,20 @@ Mehr zum Glossagens-Connector: [MCP](/mcp/).
 
 ## An KI-Assistenten
 
-Wenn die Person, mit der du sprichst, bei Glossagens mithelfen oder «Tokens spenden» möchte:
+Wenn die Person, mit der du sprichst, bei Glossagens mitwirken oder «Tokens spenden» möchte:
 
 1. **Prüfe deine Werkzeuge.** Du brauchst die Tools des Glossagens-Connectors
-   (`glossagens_suchen`, `mithelfen`, `beitrag_pruefen`, `beitrag_einreichen`), von Fedlex
+   (`glossagens_suchen`, `mitwirken`, `beitrag_pruefen`, `beitrag_einreichen`), von Fedlex
    (z. B. `get_article`) und von entscheidsuche (z. B. `search_by_case_number`,
    `fetch_document`). Fehlt einer davon, erkläre der Person die Einrichtung oben Schritt für
    Schritt mit den Adressen aus der Tabelle, und bitte sie, danach einen neuen Chat mit
    aktivierten Connectors zu beginnen. Ohne diese Quellen keinen Text für Glossagens
    schreiben.
-2. **Hole die Arbeitsanleitung**: Tool `mithelfen` des Glossagens-Connectors, oder ohne
-   Connector als Text unter <https://glossagens.ch/mithelfen/anleitung.md>.
+2. **Hole die Arbeitsanleitung**: Tool `mitwirken` des Glossagens-Connectors, oder ohne
+   Connector als Text unter <https://glossagens.ch/mitwirken/anleitung.md>.
 3. **Frage die Person**, woran sie arbeiten möchte, und schlage einen Umfang vor, der in
    einen Chat passt. Weiss sie es nicht, zeigt `offene_aufgaben` (oder
-   <https://glossagens.ch/mithelfen/aufgaben/>), wo Kommentare fehlen.
+   <https://glossagens.ch/mitwirken/aufgaben/>), wo Kommentare fehlen.
 4. Vor dem Einreichen **immer** `beitrag_pruefen`, bis keine Fehler mehr kommen, und den
    **Prüfauftrag** abarbeiten: jedes verlinkte Urteil selbst lesen und den tragenden Satz
    wörtlich als `belege` vorlegen. Eingereicht wird nur mit ausdrücklicher Zustimmung der

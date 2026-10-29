@@ -11,8 +11,8 @@ einreichen. Eingereicht wird als Draft-PR; veröffentlicht erst nach dem Merge.
 
 | Tool | Zweck |
 |---|---|
-| `mithelfen` | Arbeitsanleitung für Beiträge aus dem Chat; holt `/mithelfen/anleitung.md` von der Seite (Quelle `static/mithelfen/anleitung.md`) |
-| `offene_aufgaben` | Bestimmungen aus Themen (`normen`) ohne Kommentar, mehrfach gebrauchte zuerst; Filter nach Gesetz/Stichwort. Gleiche Quelle wie die Seite `/mithelfen/aufgaben/` (`layouts/_shortcodes/offene-aufgaben.html`) |
+| `mitwirken` | Arbeitsanleitung für Beiträge aus dem Chat; holt `/mitwirken/anleitung.md` von der Seite (Quelle `static/mitwirken/anleitung.md`) |
+| `offene_aufgaben` | Bestimmungen aus Themen (`normen`) ohne Kommentar, mehrfach gebrauchte zuerst; Filter nach Gesetz/Stichwort. Gleiche Quelle wie die Seite `/mitwirken/aufgaben/` (`layouts/_shortcodes/offene-aufgaben.html`) |
 | `glossagens_suchen` | Stichwortsuche über Kommentare und Themen; erkennt Normangaben wie `StGB 70`, `Art. 336c OR` |
 | `gesetze_auflisten` | alle kommentierten Erlasse mit Kürzel, SR-Nummer, Artikelzahl |
 | `artikel_auflisten` | die Artikel eines Erlasses |
