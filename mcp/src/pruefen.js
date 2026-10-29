@@ -500,9 +500,30 @@ function ueberschriftenIndizes(zeilen) {
   return idx;
 }
 
+// Eine Trennlinie («---») nach einer Leerzeile; ohne Leerzeile davor macht
+// «---» die Zeile darüber zur Überschrift und ist keine Trennlinie.
+const TRENNLINIE = /^ {0,3}([-*_])( *\1){2,} *$/;
+function trennlinieAm(zeilen, i) {
+  return TRENNLINIE.test(zeilen[i]) && (i === 0 || !zeilen[i - 1].trim());
+}
+
+// Ende eines Abschnitts ohne die Trennlinie vor der nächsten Überschrift: Sie
+// gehört zum Übergang, nicht zum Abschnitt. Ging sie mit, liess das Modell sie
+// im neuen Text weg und sie verschwand (Chat-PRs #46 und #48, Oktober 2026).
+export function abschnittKernEnde(zeilen, start, ende) {
+  let i = ende;
+  let linie = false;
+  while (i > start + 1 && (!zeilen[i - 1].trim() || trennlinieAm(zeilen, i - 1))) {
+    if (zeilen[i - 1].trim()) linie = true;
+    i--;
+  }
+  return linie ? i : ende;
+}
+
 // Ersetzt den Abschnitt, dessen Überschrift `abschnitt` enthält, bis zur
 // nächsten Überschrift gleicher oder höherer Ebene — denselben Bereich, den
-// das Lesen mit `abschnitt` liefert. Ohne Überschrift im neuen Text bleibt die
+// das Lesen mit `abschnitt` liefert. Eine Trennlinie davor bleibt stehen
+// (`abschnittKernEnde`). Ohne Überschrift im neuen Text bleibt die
 // alte stehen. `entfernt` nennt Unterabschnitte, die im neuen Text fehlen: Ein
 // Modell, das nur einen Absatz schickt, soll nicht stillschweigend die
 // Unterabschnitte löschen.
@@ -520,13 +541,20 @@ export function abschnittErsetzen(text, abschnitt, neu) {
   const start = treffer[0];
   const ebene = zeilen[start].match(/^#+/)[0].length;
   const ende = idx.find((i) => i > start && zeilen[i].match(/^#+/)[0].length <= ebene) ?? zeilen.length;
+  const kern = abschnittKernEnde(zeilen, start, ende);
   let ersatz = String(neu).replace(/\r\n/g, "\n").trim().split("\n");
   if (!/^#{1,6}\s/.test(ersatz[0])) ersatz = [zeilen[start], "", ...ersatz];
-  const vorEnde = ende < zeilen.length ? [""] : [];
+  // Schickt das Modell die Trennlinie doch mit, steht sie sonst doppelt.
+  if (kern < ende) {
+    while (ersatz.length > 1 && (!ersatz.at(-1).trim() || trennlinieAm(ersatz, ersatz.length - 1))) ersatz.pop();
+  }
+  const rest = zeilen.slice(kern);
+  while (rest.length && !rest[0].trim()) rest.shift();
+  const vorEnde = rest.length ? [""] : [];
   const neuTitel = new Set(ueberschriftenIndizes(ersatz).map((i) => ueberschriftOhneAnker(ersatz[i])));
   const entfernt = idx.filter((i) => i > start && i < ende).map((i) => ueberschriftOhneAnker(zeilen[i])).filter((t) => !neuTitel.has(t));
   return {
-    text: [...zeilen.slice(0, start), ...ersatz, ...vorEnde, ...zeilen.slice(ende)].join("\n").replace(/\n*$/, "\n"),
+    text: [...zeilen.slice(0, start), ...ersatz, ...vorEnde, ...rest].join("\n").replace(/\n*$/, "\n"),
     entfernt,
   };
 }

@@ -17,7 +17,7 @@
 // Der Worker hält keinen Schlüssel und schreibt nirgends hin.
 
 import {
-  GEPRUEFTE_HOSTS, MAX_DATEI, abschnittErsetzen, abschnitteVergleichen, frontmatterPruefen, frontmatterTrennen,
+  GEPRUEFTE_HOSTS, MAX_DATEI, abschnittErsetzen, abschnittKernEnde,abschnitteVergleichen, frontmatterPruefen, frontmatterTrennen,
   frontmatterVergleichen, frontmatterZusammen, gitSha, heute, inhaltPruefen, koerperMitVersatz, linkAbgleich, linksFinden, revisionEinfuegen, revisionenLesen,
   revisionenVergleichen, shortcodesFinden, belegstellenFinden, belegeAbgleichen, URTEILE,
 } from "./pruefen.js";
@@ -678,7 +678,7 @@ function abschnittWaehlen(text, abschnitt) {
       break;
     }
   }
-  return zeilen.slice(start, ende).join("\n").trimEnd();
+  return zeilen.slice(start, abschnittKernEnde(zeilen, start, ende)).join("\n").trimEnd();
 }
 
 function begrenzen(text) {

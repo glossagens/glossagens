@@ -6,7 +6,7 @@ import assert from "node:assert/strict";
 import { createHash, createVerify, generateKeyPairSync } from "node:crypto";
 import worker, { _speicherLeeren, artikelSlug, beitragPruefen, gesetzFinden, letzteRevision, normErkennen, wortlautText } from "../src/index.js";
 import { _tokenVergessen } from "../src/github.js";
-import { belegeAbgleichen, belegstellenFinden, gitSha, heute, inhaltPruefen, linkAbgleich, zitatEnthalten } from "../src/pruefen.js";
+import { abschnittErsetzen, abschnittKernEnde, belegeAbgleichen, belegstellenFinden, gitSha, heute, inhaltPruefen, linkAbgleich, zitatEnthalten } from "../src/pruefen.js";
 
 const SITE = "https://site.test";
 const RAW = "https://raw.test";
@@ -435,6 +435,18 @@ await pruefe("beitrag_pruefen: Unterabschnitte gehen nicht stillschweigend verlo
   assert.match(e.fehler.join(), /lässt Unterabschnitte weg: «Bruttoprinzip», «Kasuistik»/);
   e = await beitragPruefen({ gesetz: "StGB", artikel: "70", version: sha(ART_070), abschnitt: "Kommentierung", text: "Einleitung.\n\n### Bruttoprinzip\n\nNeu.\n\n### Kasuistik\n\nFälle.", revision: REVISION }, CTX);
   assert.deepEqual(e.fehler, []);
+});
+
+await pruefe("abschnittErsetzen: Trennlinie vor der nächsten Überschrift bleibt stehen", async () => {
+  const text = "### C\n\n#### 1. Kriterien\n\nAlt.\n\n#### 5. Tabelle\n\nAlt.\n\n---\n\n### D\n\nText D.\n";
+  const erwartet = "### C\n\n#### 1. Kriterien\n\nAlt.\n\n#### 5. Tabelle\n\nNeu.\n\n---\n\n### D\n\nText D.\n";
+  assert.equal(abschnittErsetzen(text, "Tabelle", "Neu.").text, erwartet, "Modell lässt die Linie weg");
+  assert.equal(abschnittErsetzen(text, "Tabelle", "Neu.\n\n---").text, erwartet, "Modell schickt sie mit: nicht doppelt");
+  assert.equal(abschnittErsetzen(text, "Kriterien", "Neu.").text, text.replace("Alt.", "Neu."), "Abschnitt ohne Linie unverändert");
+  const z = text.split("\n");
+  assert.equal(z.slice(6, abschnittKernEnde(z, 6, 12)).join("\n").trimEnd(), "#### 5. Tabelle\n\nAlt.", "Lesen liefert die Linie nicht mit");
+  const setext = "## A\n\nZeile\n---\n\n## B\n";
+  assert.equal(abschnittErsetzen(setext, "## A", "Neu.").text, "## A\n\nNeu.\n\n## B\n", "«---» direkt unter Text ist keine Trennlinie");
 });
 
 await pruefe("beitrag_pruefen: Zeilennummern beziehen sich auf die ganze Datei", async () => {
