@@ -45,6 +45,13 @@
     unrevidierten Eintrag ist das die Anlage. Revidierte reihen sich innerhalb
     ihres Tages zuletzt ein (ihr letzter Commit sagt über die Anlage nichts).
 
+  Auf /kommentar/ steht eine dritte Spalte „Neueste Einreichungen": die jüngsten
+  Pull Requests mit Titel und Badge (offen / übernommen / abgelehnt). Sie kommt
+  nicht aus dem Build, sondern wird im Browser von der öffentlichen GitHub-API
+  geholt (`repos/{repo}/pulls`) — sonst erschiene eine Einreichung erst nach dem
+  nächsten Deploy. Jede Zeile führt in die Entwurfsansicht (`/entwurf/?pr=N`). Schlägt der Abruf fehl (Rate-Limit, offline), bleibt ein Link
+  auf die PR-Liste stehen.
+
   Eigenes CSS statt Hextra-Utilities: die `hx:`-Klassen werden nur aus dem
   Theme heraus kompiliert, hier erfundene Varianten fehlen im Bundle.
 */ -}}
@@ -170,6 +177,27 @@
   margin: 0;
 }
 
+/* Neueste Einreichungen (Pull Requests, per JS befüllt) */
+.gl-toc-azeile .gl-toc-atitel { display: flex; align-items: baseline; gap: .4rem; }
+.gl-pr-badge {
+  flex: none;
+  padding: 0 .4rem;
+  border-radius: 9999px;
+  font-size: .625rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: .02em;
+  white-space: nowrap;
+}
+.gl-pr-offen { background: #dcfce7; color: #166534; }
+.gl-pr-entwurf { background: #f3f4f6; color: #4b5563; }
+.gl-pr-uebernommen { background: #ede9fe; color: #5b21b6; }
+.gl-pr-abgelehnt { background: #fee2e2; color: #991b1b; }
+.dark .gl-pr-offen { background: #14532d; color: #bbf7d0; }
+.dark .gl-pr-entwurf { background: #262626; color: #d1d5db; }
+.dark .gl-pr-uebernommen { background: #4c1d95; color: #ddd6fe; }
+.dark .gl-pr-abgelehnt { background: #7f1d1d; color: #fecaca; }
+
 /* Inline-Fassung am Ende der Übersicht — siehe Kopfkommentar. */
 .gl-akt-mobil {
   margin-top: 2.75rem;
@@ -227,6 +255,65 @@
   (dict "titel" $neu "leer" "Noch nichts erfasst."
     "eintraege" (first $anzahl (sort $artikel "neu" "desc")) "feld" "datum")
 -}}
+{{- if eq $bereich "kommentar" -}}
+  {{- $spalten = $spalten | append (dict "titel" "Neueste Einreichungen" "einreichungen" true) -}}
+{{- end -}}
+
+{{- if and (eq $bereich "kommentar") (not ($ctx.Store.Get "glEinreichungenJS")) -}}
+{{- $ctx.Store.Set "glEinreichungenJS" true -}}
+<script>
+(function () {
+  var boxen = [];
+  function suche() { boxen = document.querySelectorAll('.gl-einreichungen'); return boxen.length; }
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text) e.textContent = text;
+    return e;
+  }
+  function badge(pr) {
+    if (pr.merged_at) return ['Übernommen', 'gl-pr-uebernommen'];
+    if (pr.state === 'closed') return ['Abgelehnt', 'gl-pr-abgelehnt'];
+    if (pr.draft) return ['Entwurf', 'gl-pr-entwurf'];
+    return ['Offen', 'gl-pr-offen'];
+  }
+  function fuelle(box, prs) {
+    var ul = el('ul', 'gl-toc-aliste');
+    prs.forEach(function (pr) {
+      var b = badge(pr);
+      var a = el('a', 'gl-toc-azeile');
+      a.href = '/entwurf/?pr=' + pr.number;
+      var titel = el('span', 'gl-toc-atitel');
+      titel.appendChild(el('span', 'gl-pr-badge ' + b[1], b[0]));
+      titel.appendChild(el('span', '', pr.title));
+      var meta = el('span', 'gl-toc-ameta');
+      meta.appendChild(el('span', 'gl-toc-gesetz', '#' + pr.number));
+      meta.appendChild(el('span', 'gl-toc-datum', new Date(pr.created_at).toLocaleDateString('de-CH')));
+      a.appendChild(titel);
+      a.appendChild(meta);
+      var li = el('li');
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+    var alt = box.querySelector('.gl-toc-leer');
+    if (alt) box.replaceChild(ul, alt); else box.appendChild(ul);
+  }
+  function start() {
+    if (!suche()) return;
+    var repo = boxen[0].getAttribute('data-repo');
+    fetch('https://api.github.com/repos/' + repo + '/pulls?state=all&sort=created&direction=desc&per_page=5',
+      { headers: { Accept: 'application/vnd.github+json' } })
+      .then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); })
+      .then(function (prs) {
+        if (!prs.length) return;
+        boxen.forEach(function (box) { fuelle(box, prs); });
+      })
+      .catch(function () {});
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();
+})();
+</script>
+{{- end -}}
 
 {{- if eq $variant "inline" -}}
   <section class="gl-akt-mobil not-prose">
@@ -246,6 +333,12 @@
 {{- define "gl-akt-spalten" -}}
   {{- range . -}}
     {{- $feld := .feld -}}
+    {{- if .einreichungen -}}
+    <div class="gl-einreichungen" data-repo="glossagens/glossagens">
+      <div class="gl-toc-agruppe">{{ .titel }}</div>
+      <p class="gl-toc-leer"><a href="https://github.com/glossagens/glossagens/pulls?q=is%3Apr" rel="noopener">Pull Requests auf GitHub</a></p>
+    </div>
+    {{- else -}}
     <div>
       <div class="gl-toc-agruppe">{{ .titel }}</div>
       {{- with .eintraege -}}
@@ -268,5 +361,6 @@
         <p class="gl-toc-leer">{{ .leer }}</p>
       {{- end -}}
     </div>
+    {{- end -}}
   {{- end -}}
 {{- end -}}

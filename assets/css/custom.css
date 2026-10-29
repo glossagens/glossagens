@@ -692,3 +692,66 @@ input[type="search"] {
 .dark .th-titel { color: #f0ebe1; }
 .dark .th-kurztext, .dark .th-normen li a { color: #d8d1c4; }
 .dark .th-meta, .dark .th-typ, .dark .th-auch, .dark .th-luecke, .dark .th-luecke-hinweis { color: #9a9284; }
+
+/* ---------- Entwurfsansicht (/entwurf/?pr=N, layouts/entwurf/list.html) ---------- */
+.gl-e-banner {
+  padding: .6rem .9rem; border-left: 3px solid var(--gg-accent);
+  background: var(--gg-paper-2); font-size: .9rem; color: var(--gg-ink-2);
+}
+.gl-e-form { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; margin: 1rem 0 1.5rem; font-size: .9rem; }
+.gl-e-form input { width: 7rem; padding: .25rem .5rem; border: 1px solid var(--gg-rule); border-radius: 4px; background: transparent; }
+.gl-e-form button { padding: .25rem .8rem; border: 1px solid var(--gg-ink-2); border-radius: 4px; }
+.gl-e-form button:hover { color: var(--gg-accent); border-color: var(--gg-accent); }
+.gl-e-pr { display: flex; gap: .6rem; align-items: baseline; flex-wrap: wrap; font-weight: 600; margin-bottom: .5rem; }
+.gl-e-pr .gl-pr-badge, .gl-e-status {
+  font-size: .72rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em;
+  padding: .05rem .45rem; border-radius: 3px; background: var(--gg-paper-2); color: var(--gg-muted);
+}
+.gl-e-status-added { background: #e3f1e4; color: #1f6b2a; }
+.gl-e-status-removed { background: #f6e0e0; color: #8b1a1a; }
+.gl-e-schalter { display: inline-block; font-size: .85rem; color: var(--gg-muted); margin: .25rem 0 1rem; cursor: pointer; }
+.gl-e-datei { margin: 1.5rem 0 2.5rem; }
+.gl-e-kopf {
+  display: flex; gap: .6rem; align-items: baseline; flex-wrap: wrap;
+  padding-bottom: .4rem; margin-bottom: 1rem; border-bottom: 1px solid var(--gg-rule); font-size: .85rem;
+}
+.gl-e-pfad { font-size: .8rem; word-break: break-all; }
+.gl-e-bilanz { margin-left: auto; color: var(--gg-muted); }
+.gl-e-fm { margin-bottom: 1rem; font-size: .85rem; }
+.gl-e-fm summary { cursor: pointer; color: var(--gg-muted); }
+.gl-e-fm pre { white-space: pre-wrap; font-size: .78rem; }
+.gl-e-fm-neu { color: #1f6b2a; }
+.gl-e-fm-alt { color: #8b1a1a; }
+.gl-e-block { padding-left: .75rem; border-left: 3px solid transparent; }
+.gl-e-geaendert { border-left-color: #c9a227; }
+.gl-e-neu { border-left-color: #2e8b3d; background: rgba(46,139,61,.07); }
+.gl-e-entfernt { border-left-color: #b03030; background: rgba(176,48,48,.07); text-decoration: line-through; text-decoration-color: rgba(176,48,48,.6); }
+.gl-e-text ins { text-decoration: none; background: rgba(46,139,61,.18); color: inherit; border-radius: 2px; }
+.gl-e-text del { background: rgba(176,48,48,.15); text-decoration-color: rgba(176,48,48,.8); color: inherit; border-radius: 2px; }
+.gl-e-nur .gl-e-gleich:not(.gl-e-kontext) { display: none; }
+.gl-e-nur .gl-e-gleich.gl-e-kontext { opacity: .6; }
+.gl-e-platzhalter {
+  display: inline-block; margin: .4rem 0; padding: .3rem .7rem; font-size: .8rem;
+  border: 1px dashed var(--gg-rule); color: var(--gg-muted);
+}
+div.gl-e-platzhalter { display: block; }
+.gl-e-hinweis, .gl-e-fehler { font-size: .85rem; color: var(--gg-muted); }
+.gl-e-fehler { color: var(--gg-accent); }
+.dark .gl-e-banner { background: #22201d; color: #d8d1c4; }
+.dark .gl-e-pr .gl-pr-badge, .dark .gl-e-status { background: #2a2724; color: #c9c1b3; }
+.dark .gl-e-text ins { background: rgba(80,180,95,.25); }
+.dark .gl-e-text del { background: rgba(220,80,80,.25); }
+.dark .gl-e-fm-neu { color: #7fcf8a; }
+.dark .gl-e-fm-alt { color: #e58a8a; }
+
+/* Balken «Entwurf hängig» (assets/js/entwurf-hinweis.js) */
+.gl-entwurf-balken {
+  margin: .75rem 0 1.25rem; padding: .55rem .9rem; font-size: .875rem;
+  border-left: 3px solid #c9a227; background: #fbf3dc; color: var(--gg-ink-2);
+}
+.gl-entwurf-balken ul { margin: .25rem 0 0; padding-left: 1.1rem; }
+.gl-entwurf-balken li { margin: .1rem 0; }
+.gl-entwurf-balken a { color: var(--gg-accent); }
+.gl-entwurf-wo { color: var(--gg-muted); }
+.dark .gl-entwurf-balken { background: #2b2516; color: #e0d6bf; border-left-color: #b8932a; }
+.dark .gl-entwurf-wo { color: #9a9284; }

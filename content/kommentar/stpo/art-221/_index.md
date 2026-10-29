@@ -10,6 +10,14 @@ revisions:
     by: "Claude (claude.ai)"
     model: "claude-haiku-5-5"
     note: "Begriff Nothilfe ersetzt: Das Urteil 1B_323/2023 E. 3.3.3 spricht von der Unterstützung der Behörden zur Bestreitung des Lebensunterhalts, nicht von Nothilfe; die Bindung wird dort als ökonomische Bindung zumindest insoweit beschrieben, nicht als existenziell. Sachverhalt und Dispositiv gegen den Volltext geprüft."
+  - date: 2026-10-29
+    by: "Claude (claude.ai)"
+    model: "claude-haiku-5-5"
+    note: "Zitat zur Fluchtgefahr: Wortlaut und Fundstelle auf BGer 1B_323/2023 E. 3.1 umgestellt (Volltext via entscheidsuche geprüft); BGE 145 IV 503 E. 2.2 nur noch mit vgl.; Verweis auf BGer 7B_1311/2026 E. 2.1 entfernt, da dort anderer Wortlaut steht."
+  - date: 2026-10-29
+    by: "Claude (claude.ai)"
+    model: "claude-haiku-5-5"
+    note: "Tabelle: Nothilfe ersetzt durch behördliche Unterstützung (BGer 7B_1311/2026 E. 3.3 spricht von Unterkunft im Bundesasylzentrum); Begriff existenzielle Abhängigkeit entfernt."
   - date: 2026-10-28
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -136,11 +144,12 @@ Das Bundesgericht stellte in einem Grundsatzurteil klar:
 ### C. Merkmal 3a: Fluchtgefahr (Abs. 1 lit. a)
 
 #### 1. Kriterien der Fluchtgefahr
+
 Fluchtgefahr darf nicht abstrakt vermutet oder allein auf eine hohe Straferwartung gestützt werden:
 
 > «Die Annahme von Fluchtgefahr als besonderer Haftgrund setzt ernsthafte Anhaltspunkte dafür voraus, dass die beschuldigte Person sich dem Strafverfahren oder der zu erwartenden Sanktion durch Flucht entziehen könnte […]. Die Schwere der drohenden Strafe darf als Indiz für Fluchtgefahr gewertet werden, genügt jedoch für sich allein nicht, um den Haftgrund zu bejahen.»
 
-([BGer 7B_1311/2026 vom 15. Oktober 2026 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html#consideration_2.1); [BGer 1B_323/2023 vom 4. Juli 2023 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html); mit Hinweis auf das französischsprachige Grundsatzurteil [BGE 145 IV 503 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html#consideration_2.2)). Massgebend ist das Zusammenspiel zwischen den **Fluchtanreizen** (Strafmass, Landesverweisung) und den **Verankerungsfaktoren** (familiäre Bande, Kinder, Wohneigentum, stabiler Arbeitsplatz, Vermögenswerte in der Schweiz).
+([BGer 1B_323/2023 vom 4. Juli 2023 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html); vgl. [BGE 145 IV 503 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html#consideration_2.2)). Massgebend ist das Zusammenspiel zwischen den **Fluchtanreizen** (Strafmass, Landesverweisung) und den **Verankerungsfaktoren** (familiäre Bande, Kinder, Wohneigentum, stabiler Arbeitsplatz, Vermögenswerte in der Schweiz).
 
 #### 2. Anwendungsfall: Der 82-jährige Mörder und die Grenzen des Electronic Monitoring (BGE 145 IV 503)
 Ein 82-jähriger Schweizer tötete seine Ehefrau bei einer Auseinandersetzung und versteckte die Leiche mit Hilfe seiner Tochter in einer Schlucht; anschliessend renovierte er die Villa und erfand eine Suizidgeschichte. Im Vorverfahren hatte das Bundesgericht die Fluchtgefahr verneint (1B_75/2019), weil der Beschuldigte betagt war, an einer Herzkrankheit litt, eine AVS-Rente bezog und einen Sohn in der Schweiz hatte.
@@ -176,8 +185,8 @@ Das Bundesgericht hiess die Beschwerde teilweise gut, hob den Beschluss des Ober
 | Kriterium | [BGE 145 IV 503](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html) — **Fluchtgefahr bejaht** | [BGer 1B_323/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html) — **Fluchtgefahr verneint (Haftentlassung)** | [BGer 7B_1311/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html) — **Fluchtgefahr nicht ausgeprägt (Ersatzmassnahmen)** |
 |---|---|---|---|
 | **Drohende Sanktion** | 18 Jahre Freiheitsstrafe wegen Mordes (faktisch lebenslang) | 6 Monate unbedingte Freiheitsstrafe (Diebstahl) | Kurze Straferwartung (Diebstähle, Hausfriedensbrüche) |
-| **Aufenthaltsstatus / Bindung** | Schweizer Bürger, Sohn in CH, aber Tochter in Frankreich | Abgewiesener Asylbewerber, keine Familie in CH | Abgewiesener Asylbewerber (Algerien), keine familiären Bindungen, Nothilfebezug |
-| **Bisheriges Prozessverhalten** | Vertuschen der Leiche, Fabrizieren eines Suizid-Alibis | 5 frühere Freiheitsstrafen stets klaglos angetreten | Keine konkreten Fluchtvorbereitungen; existenzielle Abhängigkeit von behördlicher Unterstützung |
+| **Aufenthaltsstatus / Bindung** | Schweizer Bürger, Sohn in CH, aber Tochter in Frankreich | Abgewiesener Asylbewerber, keine Familie in CH | Abgewiesener Asylbewerber (Algerien), keine familiären Bindungen, auf behördliche Unterstützung (Bundesasylzentrum) angewiesen |
+| **Bisheriges Prozessverhalten** | Vertuschen der Leiche, Fabrizieren eines Suizid-Alibis | 5 frühere Freiheitsstrafen stets klaglos angetreten | Keine konkreten Fluchtvorbereitungen; Angewiesenheit auf behördliche Unterstützung |
 | **Gefahrenqualifikation** | Akute Fluchtgefahr; massiver Fluchtanreiz überwiegt jede Verankerung | Fluchtgefahr verneint; bewiesene Vollzugstreue entkräftet Verdacht | Fluchtgefahr nicht ausgeprägt; Ausschaffungsrisiko ist migrationsrechtlich, nicht strafprozessual zu bewältigen |
 | **Ersatzmassnahmen** | Hausarrest in grenznahem Versoix + Fussfessel: untauglich | Nicht erforderlich, da Fluchtgefahr von vornherein fehlt | Beantragte Massnahmen (Meldepflicht, Schriftensperre, Eingrenzung) grundsätzlich tauglich; Vorinstanz bestimmt Auswahl |
 | **Ergebnis** | Fortdauer der Sicherheitshaft geschützt | Sofortige Haftentlassung aus Untersuchungshaft angeordnet | Beschwerde teilweise gutgeheissen; Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung (Antrag auf sofortige Entlassung abgewiesen) |
