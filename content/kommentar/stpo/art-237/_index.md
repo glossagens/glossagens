@@ -7,6 +7,10 @@ description: "Praxiskommentar zu Art. 237 StPO: Ersatzmassnahmen an Stelle der U
 tags: ["StPO", "Ersatzmassnahmen", "Untersuchungshaft", "Sicherheitshaft", "Verhältnismässigkeit", "Sicherheitsleistung", "Kaution", "Rayonverbot", "Kontaktverbot", "Electronic Monitoring", "Widerruf", "Antragsbindung"]
 revisions:
   - date: 2026-10-29
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    note: "Chat-Beitrag übernommen und gegen den Volltext von BGer 7B_1311/2026 (entscheidsuche) geprüft: Verfahrensgang präzisiert (ausgeprägte Fluchtgefahr nahm erst das Obergericht an), Rückweisung «zur Anordnung von Ersatzmassnahmen und zur Haftentlassung» und Grund für die Abweisung des Entlassungsantrags nach E. 3.3 ergänzt; Trennlinie vor Abschnitt B wiederhergestellt."
+  - date: 2026-10-29
     by: "Claude (claude.ai)"
     model: "claude-haiku-5-5"
     note: "Kasuistik zu BGer 7B_1311/2026 am Urteil (Volltext via entscheidsuche) geprüft: Dispositiv (teilweise Gutheissung, Rückweisung, Antrag auf sofortige Entlassung abgewiesen), Ausschaffungsrisiko als migrationsrechtliche Frage, Kern der Ersatzmassnahmen (E. 3.3). Nicht mehr im Urteil stehende Verweise (Art. 75 ff. AIG, Surrogatverbot) entfernt."
@@ -67,12 +71,14 @@ Ein Beschuldigter ohne familiäre oder berufliche Bindungen in der Schweiz traf 
 Gegen einen afghanischen Staatsangehörigen mit vorläufiger Aufnahme (Ausweis F) wurde wegen des Vorwurfs schwerer Delikte Untersuchungshaft wegen Fluchtgefahr angeordnet. Die Vorinstanz hatte Ersatzmassnahmen mit dem pauschalen Argument verworfen, Ausländer ohne Schweizer Bürgerrecht wiesen stets Fluchtgefahr auf. Das Bundesgericht hob den Entscheid auf: Der Beschuldigte war in der Schweiz seit Jahren berufstätig, verfügte über eine konkrete Aussicht auf Festanstellung und eine Rückkehr in sein krisengeschütteltes Heimatland war objektiv fernliegend. Die Eignung von kombinierten Massnahmen (Meldepflicht und Schriftensperre) musste individuell und vertieft geprüft werden ([BGer 7B_707/2026 vom 2. Juli 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_707_2026)).
 
 **Anwendungsfall (Asylsuchende mit moderater Fluchtgefahr): Abgewiesener algerischer Asylbewerber (BGer 7B_1311/2026)**  
-Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche), bei denen eine verhältnismässig kurze Freiheitsstrafe zu erwarten war. Das Zwangsmassnahmengericht ordnete Untersuchungshaft wegen angeblich «ausgeprägter» Fluchtgefahr an, das Obergericht Zürich bestätigte dies. Das Bundesgericht hiess die Beschwerde teilweise gut, hob den Beschluss auf und wies die Sache zurück, damit die Vorinstanz Ersatzmassnahmen anordnet. Den Antrag auf sofortige Entlassung wies es ab ([BGer 7B_1311/2026 vom 15.10.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html)):
+Ein abgewiesener algerischer Asylbewerber ohne familiäre Bindungen in der Schweiz stand im dringenden Tatverdacht mehrerer Vermögensdelikte (Diebstähle, Hausfriedensbrüche), bei denen eine verhältnismässig kurze Freiheitsstrafe zu erwarten war. Das Zwangsmassnahmengericht Winterthur ordnete Untersuchungshaft wegen Fluchtgefahr an; das Obergericht Zürich bestätigte dies und ging von ausgeprägter Fluchtgefahr aus. Das Bundesgericht hiess die Beschwerde teilweise gut, hob den Beschluss auf und wies die Sache zur Anordnung von Ersatzmassnahmen und zur Haftentlassung an die Vorinstanz zurück. Den Antrag auf unverzügliche Entlassung wies es ab, weil er nicht begründet war und Fluchtgefahr bestand ([BGer 7B_1311/2026 vom 15.10.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html)):
 - *Keine ausgeprägte Fluchtgefahr*: Der Beschwerdeführer ist auf die Unterstützung der Behörden angewiesen und hat ein grösseres Interesse am Verbleib im Bundesasylzentrum als an einer mittellosen Flucht. Schwere Vorwürfe lagen nicht vor, und eine kurze Freiheitsstrafe stellt kaum einen Fluchtanreiz dar (E. 3.3).
 - *Migrationsrisiko*: Dem Risiko der Ausschaffung ist durch die Migrationsbehörden zu begegnen, nicht durch die Strafbehörden (E. 3.3).
 - *Ersatzmassnahmen*: Da keine konkreten Hinweise auf die Missachtung behördlicher Auflagen vorlagen, waren Ersatzmassnahmen anstelle der Haft anzuordnen. Die beantragten Massnahmen erschienen grundsätzlich tauglich. Ihre Auswahl und Ausgestaltung überliess das Bundesgericht der Vorinstanz (E. 3.3).
 
 > **Kernaussage.** Ist die Fluchtgefahr nicht ausgeprägt, sondern nur moderat, und fehlen konkrete Hinweise auf eine Missachtung behördlicher Auflagen, sind Ersatzmassnahmen anstelle der Haft anzuordnen. Das Ausschaffungsrisiko ist migrationsrechtlich anzugehen (BGer 7B_1311/2026 E. 3.3).
+
+---
 
 ### B. Der Massnahmenkatalog im Einzelnen (Abs. 2)
 
