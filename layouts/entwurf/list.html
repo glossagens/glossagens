@@ -1,0 +1,38 @@
+{{- /*
+  Entwurfsansicht: /entwurf/?pr=123 zeigt die Markdown-Dateien eines Pull
+  Requests unter content/ mit den Änderungen gegenüber dem Stand, von dem der
+  PR abzweigt (Wörter grün eingefügt, rot gestrichen).
+
+  Proof of Concept: Alles läuft im Browser (assets/js/entwurf.js), die Daten
+  kommen unangemeldet von der GitHub-API (60 Anfragen/h und IP, zwei pro
+  Ansicht) und von raw.githubusercontent.com. Gerendert wird mit markdown-it,
+  nicht mit Hugo: Shortcodes erscheinen als Platzhalter, Normlinks und
+  Badges fehlen. Der Inhalt stammt aus ungeprüften Beiträgen und läuft
+  deshalb durch DOMPurify.
+*/ -}}
+{{ define "main" }}
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    {{ partial "sidebar.html" (dict "context" .) }}
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main id="content" class="hx:w-full hx:min-w-0 hextra-max-content-width hx:px-6 hx:pt-4 hx:md:px-12">
+        <div class="content">
+          <h1>{{ .Title }}</h1>
+          <p class="gl-e-banner">Ungeprüfter Entwurf aus einem Pull Request — nicht Teil des Kommentars.
+            Zitate und Belege prüft die Redaktion vor der Veröffentlichung.</p>
+          <form class="gl-e-form" action="" method="get">
+            <label for="gl-e-pr">Pull Request Nr.</label>
+            <input id="gl-e-pr" name="pr" type="number" min="1" inputmode="numeric" required>
+            <button type="submit">Anzeigen</button>
+          </form>
+          <div id="gl-entwurf" data-repo="glossagens/glossagens" aria-live="polite"></div>
+        </div>
+      </main>
+    </article>
+  </div>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.2/markdown-it.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jsdiff/5.2.0/diff.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+  {{- with resources.Get "js/entwurf.js" | minify | fingerprint }}
+  <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}"></script>
+  {{- end }}
+{{ end }}
