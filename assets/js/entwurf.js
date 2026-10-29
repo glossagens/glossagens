@@ -58,7 +58,9 @@
             nummer: pr.number,
             titel: pr.title,
             url: pr.html_url,
-            zustand: pr.merged_at ? 'gemergt' : (pr.state === 'open' ? (pr.draft ? 'Entwurf' : 'offen') : 'geschlossen'),
+            zustand: pr.merged_at ? 'übernommen' : (pr.state === 'open' ? (pr.draft ? 'Entwurf' : 'offen') : 'geschlossen'),
+            uebernommen: pr.merged_at,
+            geschlossen: pr.state === 'closed',
             weitere: cmp.files.length - dateien.length,
             dateien: geladen
           };
@@ -216,13 +218,13 @@
     box.appendChild(pre);
     return box;
   }
-  function zeigeDatei(d) {
+  function zeigeDatei(d, uebernommen) {
     var sec = el('section', 'gl-e-datei');
     var kopf = el('div', 'gl-e-kopf');
     var art = { added: 'neu', removed: 'gelöscht', renamed: 'umbenannt', modified: 'geändert' }[d.status] || d.status;
     kopf.appendChild(el('span', 'gl-e-status gl-e-status-' + d.status, art));
     kopf.appendChild(el('code', 'gl-e-pfad', d.pfad));
-    if (d.status !== 'added') {
+    if (d.status !== 'removed' && (d.status !== 'added' || uebernommen)) {
       var a = el('a', null, 'veröffentlichte Fassung');
       a.href = seitenUrl(d.pfad);
       kopf.appendChild(a);
@@ -251,7 +253,27 @@
     sec.appendChild(text);
     return sec;
   }
+  // Titel und Hinweis nach dem Stand des PR: Ist er übernommen, ist es kein
+  // Entwurf mehr, sondern die eingereichte Fassung neben der veröffentlichten.
+  function rahmen(e) {
+    var titel = document.getElementById('gl-e-titel');
+    var banner = document.getElementById('gl-e-banner');
+    if (e.uebernommen) {
+      var tag = new Date(e.uebernommen).toLocaleDateString('de-CH', { day: 'numeric', month: 'long', year: 'numeric' });
+      titel.textContent = 'Eingereichte Fassung';
+      banner.textContent = 'Dieser Beitrag wurde nach Prüfung durch die Redaktion am ' + tag +
+        ' in den Kommentar übernommen. Gezeigt sind die Änderungen aus dem Pull Request, einschliesslich' +
+        ' allfälliger Korrekturen der Redaktion vor der Übernahme. Massgebend ist die veröffentlichte' +
+        ' Fassung; sie kann seither weiterbearbeitet worden sein.';
+      document.title = 'Eingereichte Fassung #' + e.nummer + ' – Glossagens';
+    } else if (e.geschlossen) {
+      titel.textContent = 'Nicht übernommener Entwurf';
+      banner.textContent = 'Dieser Pull Request wurde geschlossen, ohne dass der Beitrag in den Kommentar' +
+        ' übernommen wurde. Der Text ist nicht Teil des Kommentars.';
+    }
+  }
   function zeige(e) {
+    rahmen(e);
     wurzel.textContent = '';
     var kopf = el('div', 'gl-e-pr');
     kopf.appendChild(el('span', 'gl-pr-badge', e.zustand));
@@ -270,7 +292,7 @@
     wurzel.appendChild(schalter);
 
     if (!e.dateien.length) wurzel.appendChild(el('p', null, 'Der Pull Request ändert keine Inhalte unter content/.'));
-    e.dateien.forEach(function (d) { wurzel.appendChild(zeigeDatei(d)); });
+    e.dateien.forEach(function (d) { wurzel.appendChild(zeigeDatei(d, !!e.uebernommen)); });
     if (e.weitere) {
       wurzel.appendChild(el('p', 'gl-e-hinweis', e.weitere + ' weitere Datei' + (e.weitere === 1 ? '' : 'en') +
         ' ausserhalb von content/ (z. B. Wortlaut-Daten) sind hier nicht dargestellt.'));
