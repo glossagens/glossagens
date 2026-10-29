@@ -157,6 +157,20 @@ Den Build-Status zeigt das Tool nicht (die App hat kein Recht auf Checks).
 verschwindet aus der Liste. Bei einem Schlüssel-Leck zusätzlich den Schlüssel in den
 App-Einstellungen auf GitHub löschen.
 
+## Offene Entwürfe (`GET /entwuerfe.json`)
+
+Kein MCP-Tool, sondern ein öffentlicher Endpunkt für die Seite: offene Pull Requests
+mit den Seiten unter `content/`, die sie ändern (`{ nr, titel, erstellt, seiten }`).
+Kommentar- und Themenseiten zeigen damit den Balken «Entwurf hängig»
+(`assets/js/entwurf-hinweis.js`, Adresse in `hugo.toml` unter `params.mcpWorker`).
+Über den Worker statt direkt aus dem Browser, weil GitHub unangemeldet nur 60
+Anfragen pro Stunde und IP erlaubt. Die Dateiliste eines PR hält KV je Head-Commit
+(`dateien:{nr}:{sha}`), die ganze Antwort der Cache zwei Minuten. Ohne GitHub App
+liefert er eine leere Liste.
+
+`beitrag_einreichen` und `einreichung_status` nennen ausserdem den Link auf die
+Entwurfsansicht der Seite (`/entwurf/?pr=N`).
+
 ## Deployen
 
 Voraussetzung: ein Cloudflare-Konto (Free Plan genügt).

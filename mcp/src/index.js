@@ -295,6 +295,8 @@ export default {
       });
     }
 
+    if (url.pathname === "/entwuerfe.json" && request.method === "GET") return entwuerfeAntwort(request, env);
+
     if (url.pathname !== "/mcp") return json(404, { error: "Nicht gefunden. MCP-Endpunkt: /mcp" });
 
     // Kein serverseitiger Stream und keine Sessions: GET und DELETE gibt es nicht.
@@ -319,6 +321,57 @@ export default {
     return antwort ? json(200, antwort) : new Response(null, { status: 202, headers: CORS });
   },
 };
+
+// --- Offene Entwürfe ----------------------------------------------------------
+
+// GET /entwuerfe.json: offene Pull Requests mit den Seiten, die sie ändern.
+// Die Kommentar- und Themenseiten zeigen damit einen Balken «Entwurf hängig»
+// (layouts/_partials/custom/head-end.html). Über den Worker statt direkt aus
+// dem Browser, weil GitHub unangemeldet nur 60 Anfragen pro Stunde und IP
+// erlaubt. Die Dateiliste eines PR hält KV je Head-Commit, die ganze Antwort
+// der Cache zwei Minuten.
+const ENTWUERFE_MAX_ALTER = 120;
+
+async function entwuerfeAntwort(request, env) {
+  const cache = typeof caches !== "undefined" ? caches.default : null;
+  const schluessel = new Request(new URL("/entwuerfe.json", request.url).toString());
+  if (cache) {
+    const treffer = await cache.match(schluessel);
+    if (treffer) return treffer;
+  }
+  let daten;
+  try {
+    daten = { stand: new Date().toISOString(), entwuerfe: appEingerichtet({ env }) ? await entwuerfe(env) : [] };
+  } catch (fehler) {
+    return json(502, { error: `GitHub nicht erreichbar (${fehler.message})` });
+  }
+  const antwort = new Response(JSON.stringify(daten), {
+    headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": `public, max-age=${ENTWUERFE_MAX_ALTER}`, ...CORS },
+  });
+  if (cache) await cache.put(schluessel, antwort.clone());
+  return antwort;
+}
+
+export async function entwuerfe(env) {
+  const repo = env.GITHUB_REPO;
+  const kv = env.EINREICHUNGEN;
+  const prs = (await github(env, "GET", `/repos/${repo}/pulls?state=open&per_page=100`)).daten || [];
+  return Promise.all(prs.map(async (pr) => {
+    const k = `dateien:${pr.number}:${pr.head.sha}`;
+    let dateien = kv ? await kv.get(k).then((v) => (v ? JSON.parse(v) : null)) : null;
+    if (!dateien) {
+      const liste = (await github(env, "GET", `/repos/${repo}/pulls/${pr.number}/files?per_page=100`)).daten || [];
+      dateien = liste.map((f) => f.filename).filter((f) => /^content\/.*\.md$/.test(f));
+      if (kv) await kv.put(k, JSON.stringify(dateien), { expirationTtl: 30 * 86400 });
+    }
+    return {
+      nr: pr.number,
+      titel: pr.title,
+      erstellt: pr.created_at,
+      seiten: dateien.map((f) => f.replace(/^content/, "").replace(/(_index|index)\.md$/, "").replace(/\.md$/, "/")),
+    };
+  })).then((l) => l.filter((e) => e.seiten.length));
+}
 
 // --- JSON-RPC ---------------------------------------------------------------
 
@@ -1202,6 +1255,10 @@ async function beitragEinreichen(args, ctx) {
 
   const zeilen = [
     `Eingereicht: ${pr.html_url} (Pull Request Nr. ${pr.number}, Entwurf)`,
+    `Entwurf mit markierten Änderungen: ${entwurfLink(ctx, pr.number)}`,
+    "",
+    "Gib der Person beide Links weiter. Unter dem zweiten sieht sie ihren Beitrag als Text, " +
+      "die Änderungen gegenüber dem veröffentlichten Kommentar farbig markiert (ohne GitHub-Konto).",
     "",
     "Die Redaktion prüft den Beitrag, bevor er auf glossagens.ch erscheint; das kann einige Tage dauern. " +
       "Den Stand sieht man unter dem Link auch ohne GitHub-Konto. Fehlende Wortlaut-Daten ergänzt ein Workflow automatisch.",
@@ -1236,6 +1293,12 @@ function prNummer(eingabe) {
   const m = String(eingabe ?? "").trim().match(/^(?:#|Nr\.?\s*)?(\d+)$|\/pull\/(\d+)/i);
   if (!m) throw new Error(`"${eingabe}" ist keine PR-Nummer; erwartet z. B. "42" oder der Link aus beitrag_einreichen.`);
   return parseInt(m[1] || m[2], 10);
+}
+
+// Entwurfsansicht der Seite (layouts/entwurf/list.html): Text des PR mit den
+// Änderungen gegenüber dem Stand, von dem er abzweigt.
+function entwurfLink(ctx, nr) {
+  return `${ctx.site}/entwurf/?pr=${nr}`;
 }
 
 function datum(iso) {
@@ -1275,6 +1338,7 @@ async function einreichungStatus({ pr }, ctx) {
     `# Pull Request Nr. ${n}: ${d.title}`,
     `Stand: ${stand}`,
     `Link: ${d.html_url}`,
+    `Entwurf mit markierten Änderungen: ${entwurfLink(ctx, n)}`,
     inhalt.length ? `Datei: ${inhalt.join(", ")}` : null,
   ].filter(Boolean);
 

@@ -743,3 +743,15 @@ div.gl-e-platzhalter { display: block; }
 .dark .gl-e-text del { background: rgba(220,80,80,.25); }
 .dark .gl-e-fm-neu { color: #7fcf8a; }
 .dark .gl-e-fm-alt { color: #e58a8a; }
+
+/* Balken «Entwurf hängig» (assets/js/entwurf-hinweis.js) */
+.gl-entwurf-balken {
+  margin: .75rem 0 1.25rem; padding: .55rem .9rem; font-size: .875rem;
+  border-left: 3px solid #c9a227; background: #fbf3dc; color: var(--gg-ink-2);
+}
+.gl-entwurf-balken ul { margin: .25rem 0 0; padding-left: 1.1rem; }
+.gl-entwurf-balken li { margin: .1rem 0; }
+.gl-entwurf-balken a { color: var(--gg-accent); }
+.gl-entwurf-wo { color: var(--gg-muted); }
+.dark .gl-entwurf-balken { background: #2b2516; color: #e0d6bf; border-left-color: #b8932a; }
+.dark .gl-entwurf-wo { color: #9a9284; }

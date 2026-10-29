@@ -60,6 +60,11 @@ Mehr zum Glossagens-Connector: [MCP](/mcp/).
 - **Öffentlich**: Ein Beitrag wird als öffentlicher Pull Request auf GitHub angelegt. Text,
   Revisionsvermerk und deine Erläuterung sind dort sofort sichtbar. Keine Personendaten
   und nichts Vertrauliches einreichen.
+- **Entwurf ansehen**: Nach dem Einreichen nennt dir der Assistent einen Link auf die
+  Entwurfsansicht (`/entwurf/?pr=…`). Dort steht dein Beitrag mit allen Änderungen
+  farbig markiert; der betroffene Kommentar zeigt bis zur Prüfung den Balken
+  «Entwurf hängig». Laufende Einreichungen stehen auch unter «Neueste Einreichungen» auf
+  der [Kommentarübersicht](/kommentar/).
 - **Geprüft — in drei Stufen**:
   1. Glossagens prüft automatisch die **Form**: Aufbau, Revisionsvermerk, unzulässige
      Inhalte; Links auf Urteile, die es nicht gibt, verhindern das Einreichen.

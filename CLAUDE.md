@@ -518,6 +518,14 @@ opencaselaw empfohlen, Abschnitt «An KI-Assistenten»), `static/llms.txt` und d
 aus; sie wird ohne Deploy des Workers nachgeführt. Ändern sich Regeln in dieser Datei (Stil,
 Quellen, Formvorschriften), die Anleitung mitziehen.
 
+**Entwürfe**: `/entwurf/?pr=N` (`layouts/entwurf/list.html`, `assets/js/entwurf.js`) zeigt
+die Markdown-Dateien eines PR mit Wort-Diff gegenüber dem Stand, von dem er abzweigt —
+im Browser gerendert (markdown-it, Shortcodes als Platzhalter), Daten unangemeldet von
+GitHub. «Neueste Einreichungen» verlinkt dorthin, `beitrag_einreichen` und
+`einreichung_status` nennen den Link, und Kommentar- und Themenseiten mit offenem PR
+zeigen den Balken «Entwurf hängig» (`assets/js/entwurf-hinweis.js`, Daten vom Worker
+unter `/entwuerfe.json`).
+
 **Offene Aufgaben**: `/mitwirken/aufgaben/` (Shortcode `offene-aufgaben`) und das Tool
 `offene_aufgaben` listen Bestimmungen, die ein Thema in `normen` führt, die aber keinen
 Kommentar haben — mehrfach gebrauchte zuerst. Quelle ist der Themenindex; jede neue Norm

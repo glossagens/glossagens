@@ -585,6 +585,7 @@ await pruefe("beitrag_einreichen: Abschnitt → Branch, Commit, Draft-PR, Label"
   const { text, fehler } = await tool("beitrag_einreichen", { gesetz: "StGB", artikel: "70", version: sha(ART_070), abschnitt: "Bruttoprinzip", text: "Neu.", revision: REVISION, beschreibung: "Bitte @jemand ansehen" }, ENV_EIN);
   assert.ok(!fehler, text);
   assert.match(text, /^Eingereicht: https:\/\/github\.com\/o\/r\/pull\/99 \(Pull Request Nr\. 99, Entwurf\)/);
+  assert.match(text, /\nEntwurf mit markierten Änderungen: https:\/\/site\.test\/entwurf\/\?pr=99\n/);
   assert.match(angelegt.branch, /^refs\/heads\/chat\/stgb-art-070-\d{4}-\d{2}-\d{2}-[0-9a-f]{8}$/);
   assert.equal(angelegt.datei.sha, sha(ART_070));
   assert.equal(angelegt.datei.branch, angelegt.branch.replace("refs/heads/", ""));
@@ -672,6 +673,7 @@ await pruefe("einreichung_status: offen, Redaktion sichtbar, Fremde nur gezählt
   assert.ok(!fehler, text);
   assert.match(text, /^# Pull Request Nr\. 99: Chat: Art\. 70 StGB/);
   assert.match(text, /Stand: Offen \(Entwurf\) — wartet auf die Prüfung/);
+  assert.match(text, /Entwurf mit markierten Änderungen: https:\/\/site\.test\/entwurf\/\?pr=99/);
   assert.match(text, /Datei: content\/kommentar\/stgb\/art-070\/_index\.md\n/);
   assert.match(text, /- 2026-10-29 · redaktorin: Änderungen verlangt — Bitte BGE prüfen\./);
   assert.match(text, /- 2026-10-29 · redaktorin: Danke!/);
@@ -846,6 +848,35 @@ await pruefe("Zwischenspeicher: Katalog nur einmal geholt", async () => {
   await tool("artikel_auflisten", { gesetz: "StGB" });
   await tool("artikel_auflisten", { gesetz: "OR" });
   assert.equal(abrufe.filter((u) => u.endsWith("/kommentar/index.json")).length, 1);
+});
+
+// --- /entwuerfe.json ------------------------------------------------------------
+
+await pruefe("/entwuerfe.json: offene PRs mit geänderten Seiten, Dateiliste je Commit aus KV", async () => {
+  githubStandard();
+  let dateiAbrufe = 0;
+  Object.assign(githubApi, {
+    "GET /repos/o/r/pulls": (_b, pfad) => (assert.match(pfad, /state=open/), [200, [
+      { number: 7, title: "Chat: Art. 70 StGB", created_at: "2026-10-29T10:00:00Z", head: { sha: "c1" } },
+      { number: 8, title: "Nur Layout", created_at: "2026-10-29T11:00:00Z", head: { sha: "c2" } },
+    ]]),
+    "GET /repos/o/r/pulls/7/files": () => (dateiAbrufe++, [200, [
+      { filename: "content/kommentar/stgb/art-070/_index.md" },
+      { filename: "content/kommentar/stgb/art-070/rechtsprechung.md" },
+      { filename: "data/wortlaut/stgb/art-070.json" },
+    ]]),
+    "GET /repos/o/r/pulls/8/files": () => [200, [{ filename: "layouts/index.html" }]],
+  });
+  const r = await rpc(null, { methode: "GET", pfad: "/entwuerfe.json", env: ENV_EIN });
+  assert.equal(r.status, 200);
+  assert.equal(r.headers.get("Access-Control-Allow-Origin"), "*");
+  assert.match(r.headers.get("Cache-Control"), /max-age=\d+/);
+  const d = await r.json();
+  assert.deepEqual(d.entwuerfe, [{ nr: 7, titel: "Chat: Art. 70 StGB", erstellt: "2026-10-29T10:00:00Z", seiten: ["/kommentar/stgb/art-070/", "/kommentar/stgb/art-070/rechtsprechung/"] }]);
+  await rpc(null, { methode: "GET", pfad: "/entwuerfe.json", env: ENV_EIN });
+  assert.equal(dateiAbrufe, 1, "zweiter Abruf beim selben Commit aus KV");
+  const leer = await (await rpc(null, { methode: "GET", pfad: "/entwuerfe.json" })).json();
+  assert.deepEqual(leer.entwuerfe, [], "ohne GitHub App leer statt Fehler");
 });
 
 await pruefe("Quelle nicht erreichbar → Tool-Fehler statt Absturz", async () => {

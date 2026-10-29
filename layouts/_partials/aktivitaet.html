@@ -49,7 +49,7 @@
   Pull Requests mit Titel und Badge (offen / übernommen / abgelehnt). Sie kommt
   nicht aus dem Build, sondern wird im Browser von der öffentlichen GitHub-API
   geholt (`repos/{repo}/pulls`) — sonst erschiene eine Einreichung erst nach dem
-  nächsten Deploy. Schlägt der Abruf fehl (Rate-Limit, offline), bleibt ein Link
+  nächsten Deploy. Jede Zeile führt in die Entwurfsansicht (`/entwurf/?pr=N`). Schlägt der Abruf fehl (Rate-Limit, offline), bleibt ein Link
   auf die PR-Liste stehen.
 
   Eigenes CSS statt Hextra-Utilities: die `hx:`-Klassen werden nur aus dem
@@ -282,8 +282,7 @@
     prs.forEach(function (pr) {
       var b = badge(pr);
       var a = el('a', 'gl-toc-azeile');
-      a.href = pr.html_url;
-      a.rel = 'noopener';
+      a.href = '/entwurf/?pr=' + pr.number;
       var titel = el('span', 'gl-toc-atitel');
       titel.appendChild(el('span', 'gl-pr-badge ' + b[1], b[0]));
       titel.appendChild(el('span', '', pr.title));
