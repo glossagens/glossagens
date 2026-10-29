@@ -2,10 +2,14 @@
 title: "Art. 25a RPG — Grundsätze der Koordination"
 weight: 25
 date: 2026-05-22
-lastmod: "2026-08-29"
-description: "Kommentar zu Art. 25a RPG: Grundsätze der Koordination bei Verfügungen mehrerer Behörden, Vermeidung von Widersprüchen, gemeinsame Auflage und Eröffnung"
-tags: ["RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Bauplanungsrecht", "Verfahrenskoordinierung"]
+lastmod: "2026-10-29"
+description: "Kommentar zu Art. 25a RPG: Grundsätze der Koordination bei Verfügungen mehrerer Behörden, intrakantonale Geltung, Ausschluss interkantonaler Koordinationspflicht (BGer 1C_171/2026), Vermeidung von Widersprüchen, gemeinsame Auflage und Eröffnung"
+tags: ["RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Bauplanungsrecht", "Verfahrenskoordinierung", "Interkantonale Koordination", "BGer 1C_171/2026"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 1C_171/2026 vom 1. Oktober 2026 eingearbeitet: Art. 25a RPG entfaltet keine interkantonale Koordinationspflicht; bei kantonsübergreifenden Vorhaben besteht keine bundesrechtliche Pflicht zur Sistierung oder Abstimmung kantonaler Rechtsmittelverfahren."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
@@ -43,6 +47,15 @@ Die Koordinationspflicht wird ausgelöst, wenn die Errichtung oder Änderung ein
 Die zuständige Behörde muss eine **Koordinationsstelle** bezeichnen, die für die ausreichende Koordination sorgt. Fehlt eine solche Bezeichnung, verletzt dies das Koordinationsgebot. Massgebliches Kriterium für Bestand und Umfang der Koordinationspflicht ist der **enge Sachzusammenhang** (Koordinationsbedarf): Dieser liegt vor, wenn für die Verwirklichung eines Projekts verschiedene materiellrechtliche Vorschriften anzuwenden sind und zwischen diesen ein so enger Sachzusammenhang besteht, dass sie nicht getrennt und unabhängig voneinander angewendet werden dürfen ([BGer 1C_310/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-310-2025_2025-11-12.html) E. 2.2 mit Hinweisen auf BGE 137 II 182 E. 3.7.4.1; 120 Ia 400 E. 5).
 
 Ziel ist es, nicht aufeinander abgestimmte, insbesondere widersprüchliche Entscheide zu vermeiden und eine umfassende Überprüfung im Rechtsmittelverfahren zu ermöglichen.
+
+### Grenzen: Keine Pflicht zur interkantonalen Koordination (BGer 1C_171/2026)
+
+Art. 25a RPG ist nach seiner Konzeption ausschliesslich auf den Fall zugeschnitten, dass **mehrere Behörden eines einzigen Kantons** für die Beurteilung eines Projekts zuständig sind ([BGer 1C_171/2026 vom 1. Oktober 2026 E. 5.1](https://mcp.opencaselaw.ch/entscheid/bger_1C_171_2026)).
+
+Beanspruchen Bauten oder Anlagen — wie etwa eine auf einer Kantonsgrenze gelegene Biogasanlage (TG/SG) oder ein Wasserkraftwerk mit interkantonaler Gewässernutzung — Flächen in mehreren Kantonen, so müssen die Bewilligungsverfahren in jedem Kanton separat nach dessen autonomem Recht durchgeführt werden. Wie diese Verfahren abgestimmt werden, ist primär Sache der beteiligten Kantone:
+- **Keine bundesrechtliche Verfahrenskoordinationspflicht:** Das Bundesrecht begründet weder eine Pflicht zur formellen Zusammenlegung noch zum Meinungsaustausch zwischen den kantonalen Verwaltungsgerichten (E. 5.1 f.; vgl. auch [BGer 1C_663/2023 vom 8. Januar 2025 E. 6.2](https://mcp.opencaselaw.ch/entscheid/bger_1C_663_2023)). Die kantonalen Gerichte urteilen voneinander unabhängig.
+- **Keine Sistierungspflicht:** Ein kantonales Verwaltungsgericht ist bundesrechtlich nicht verpflichtet, sein Rechtsmittelverfahren bis zum Abschluss des Parallelverfahrens im Nachbarkanton zu sistieren (E. 6.1 f.).
+- **Koordination erst vor Bundesgericht:** Eine formelle oder materielle Harmonisierung divergierender kantonaler Entscheide kann und muss bei Ergreifung von Rechtsmitteln erst auf Stufe des Bundesgerichts erfolgen (E. 5.3).
 
 ## III. Koordinationsgrundsätze (Abs. 2)
 
@@ -103,6 +116,7 @@ Die Koordinationsgrundsätze von Art. 25a RPG spielen eine besondere Rolle bei V
 
 | Entscheidung | Jahr | Kernsatz |
 |---|---|---|
+| [BGer 1C_171/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_171_2026) | 2026 | Keine bundesrechtliche Pflicht zur interkantonalen Koordination oder Verfahrenssistierung bei kantonsübergreifenden Vorhaben (Biogasanlage TG/SG) |
 | [BGer 1C_310/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-310-2025_2025-11-12.html) | 2025 | Verletzung des Koordinationsgebots bei Strassenausbau und Rodung; keine materielle noch formelle Koordination |
 | [BGer 1C_235/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-235-2024_2026-03-13.html) | 2026 | Einheit des Bauentscheids; Nebenbestimmungen und Koordinationsgebot |
 | [BGer 1C_271/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-271-2024_2025-10-08.html) | 2025 | Gewässerraumfestlegung und Koordinationsgebot; Planungszone (Art. 27 RPG) |

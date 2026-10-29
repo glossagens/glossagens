@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 398 OR"
 weight: 99
 date: 2026-09-05
-lastmod: 2026-10-21
-description: "Übersicht der Rechtsprechung zu Art. 398 OR — Leitentscheide des Bundesgerichts sowie weitere Bundesgerichts- und kantonale Entscheide zu Sorgfaltsmassstab, getreuer Ausführung, Treuhand- und Fachhaftung, persönlicher Besorgung und Gefälligkeiten."
-tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung"]
+lastmod: 2026-10-29
+description: "Übersicht der Rechtsprechung zu Art. 398 OR — Leitentscheide des Bundesgerichts sowie weitere Bundesgerichts- und kantonale Entscheide zu Sorgfaltsmassstab, getreuer Ausführung, Treuhand- und Bankenhaftung (BGer 4A_560/2025), persönlicher Besorgung und Gefälligkeiten."
+tags: ["Rechtsprechung", "OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung", "Anlageberatung", "Bankenhaftung", "BGer 4A_560/2025"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 4A_560/2025 vom 1. Oktober 2026 eingearbeitet: Bankvertragliche Sorgfalts- und Warnpflichten bei dauernder Anlageberatung; Risikoübernahme durch den nachweisbar sachkundigen Anleger bei bewusster Strategieabweichung."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -81,6 +85,16 @@ Die Rechtsprechung zu Art. 398 OR konkretisiert die getreue und sorgfältige Aus
 ---
 
 ## II. Weitere Entscheide
+
+### [BGer 4A_560/2025 vom 1. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_560_2025) — Bankvertragliche Sorgfalts- und Warnpflichten bei Anlageberatung; Risikoübernahme durch sachkundige Kunden
+
+- **Thema**: Sorgfalts- und Aufklärungspflicht der Bank bei dauernder Anlageberatung (Art. 398 Abs. 2 OR); eigenverantwortliche Portfolioabweichungen sachkundiger Anleger; reduzierte Warnpflicht bei strukturierten Produkten (BRC).
+- **Sachverhalt**: Kunden schlossen mit einer Bank einen dauernden Anlageberatungsvertrag ab. Auf eigene Initiative und in Abweichung von der vereinbarten Anlagestrategie investierte der Kunde (ein erfahrener Unternehmer mit umfassendem Finanzwissen) über ein Gemeinschaftskonto überwiegend in strukturierte Barrier Reverse Convertibles (BRC) mit zweistelligen Renditecoupons und hohem Verlustrisiko. Nach eingetretenen Verlusten verlangten die Kunden Schadenersatz und machten eine Verletzung der bankvertraglichen Beratungs- und Warnpflichten geltend. Das Handelsgericht Zürich wies die Klage ab.
+- **Kernaussage**: Bei der Anlageberatung verbleibt der Anlageentscheid beim Kunden (E. 4.1). Wurde die Initiative zu Investitionen in strukturierte Produkte mit zweistelligen Coupons vom Kunden selbst ergriffen und war dieser nachweisbar sach- und fachkundig über deren Funktionsweise und Verlustrisiken informiert, haftet die Bank nicht für die erlittenen Verluste (E. 4.2). Eine Verletzung der Warn- und Aufklärungspflicht nach Art. 398 Abs. 2 OR entfällt, wenn der Kunde die Abweichung von der Anlagestrategie bewusst und in voller Kenntnis der Risiken selbst herbeiführt (E. 4.3).
+- **Einschlägig für**: Art. 398 Abs. 2 OR; dauernde Anlageberatung; Sorgfaltsmassstab der Bank; Aufklärungs- und Warnpflichten; Risikotragung sachkundiger Kunden.
+- **URL**: [BGer 4A_560/2025](https://mcp.opencaselaw.ch/entscheid/bger_4A_560_2025) E. 4.1–4.3
+
+---
 
 ### [BGer 4A_93/2026 vom 17. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.08.2026_4A_93/2026) — Haftung der Treuhandgesellschaft für fehlerhafte MWST-Beratung und konkrete Abklärungspflicht
 

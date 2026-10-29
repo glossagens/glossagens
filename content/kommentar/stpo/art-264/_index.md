@@ -2,10 +2,14 @@
 title: "Art. 264 StPO — Einschränkungen der Beschlagnahme"
 weight: 264
 date: 2025-07-16
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 264 StPO: Beschlagnahmeverbote für Verteidigungskorrespondenz, persönliche Aufzeichnungen, Verkehr mit Zeugnisverweigerungsberechtigten und Drittmandate — mit der Rechtsprechung zu Smartphones (3-Stufen-Doktrin), zur Kanzleidurchsuchung, zur Grenze der Mitbeschuldigung (Informationswall nach BGer 7B_219/2026), zum Quellenschutz (BGE 151 IV 153 und BGE 140 IV 108) und zum Siegelungsverfahren (BGE 148 IV 221)."
-tags: ["StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Berufsgeheimnis", "Siegelung", "Drittmandat", "Quellenschutz", "Arztgeheimnis", "Smartphones", "Triage", "Informationswall"]
+lastmod: 2026-10-29
+description: "Praxiskommentar zu Art. 264 StPO: Beschlagnahmeverbote für Verteidigungskorrespondenz, persönliche Aufzeichnungen, Verkehr mit Zeugnisverweigerungsberechtigten und Drittmandate — mit der Rechtsprechung zu Smartphones (3-Stufen-Doktrin), zur Kanzleidurchsuchung, zur Grenze der Mitbeschuldigung (Informationswall nach BGer 7B_219/2026), zum Ausschluss von Inhouse Counsel (BGer 7B_544/2026), zum Quellenschutz (BGE 151 IV 153 und BGE 140 IV 108) und zum Siegelungsverfahren (BGE 148 IV 221)."
+tags: ["StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Berufsgeheimnis", "Siegelung", "Drittmandat", "Quellenschutz", "Inhouse Privilege", "Arztgeheimnis", "Smartphones", "Triage", "Informationswall"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 7B_544/2026 vom 13. Oktober 2026 eingearbeitet (zur Publ. vorgesehen, 5er-Besetzung): Kein Inhouse-Counsel-Schutz im Straf- und Verwaltungsstrafverfahren; qualifiziertes Schweigen des Gesetzgebers schliesst analoge Anwendung von Art. 167a ZPO aus; Geschäftsgeheimnisse begründen auch im VStrR kein Beschlagnahmeverbot."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -198,7 +202,7 @@ Art. 264 Abs. 1 lit. d StPO schützt Gegenstände und Unterlagen aus dem Verkehr
 
 Lit. d verlangt ausdrücklich, dass die Anwältin oder der Anwalt «nach dem Anwaltsgesetz vom 23. Juni 2000 zur Vertretung vor schweizerischen Gerichten berechtigt ist».
 - **Ausschluss ausländischer Anwälte ohne BGFA-Eintrag:** Der Schutz beschränkt sich auf Anwälte, die nach den Art. 2, 4, 13, 21 ff. oder 27 ff. BGFA zur Parteivertretung berechtigt sind; ausländische Rechtsberater ohne entsprechende Eintragung fallen nicht unter lit. d ([BGE 147 IV 385 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-385_2021.html#consideration_2)).
-- **Ausschluss von In-House Counsel (Unternehmensjuristen):** Interne Syndikusanwälte und Rechtskonsulenten in Unternehmen geniessen mangels Unabhängigkeit und Eintragung im kantonalen Anwaltsregister keinen Schutz nach Art. 264 Abs. 1 lit. d StPO ([BGer 7B_523/2025 vom 19. Juni 2026, E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html)).
+- **Ausschluss von In-House Counsel (Unternehmensjuristen):** Interne Syndikusanwälte und Rechtskonsulenten in Unternehmen geniessen mangels Unabhängigkeit und Eintragung im kantonalen Anwaltsregister keinen Schutz nach Art. 264 Abs. 1 lit. d StPO ([BGer 7B_523/2025 vom 19. Juni 2026, E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html)). Dies gilt auch unter dem seit 1. Januar 2025 revidierten ZPO-Recht: Das in Art. 167a ZPO verankerte zivilprozessuale Mitwirkungsverweigerungsrecht für unternehmensinterne Rechtsdienste (Inhouse Privilege) ist im Strafprozess und im Verwaltungsstrafverfahren **nicht analog anwendbar** ([BGer 7B_544/2026 vom 13. Oktober 2026 E. 3.4 f.](https://mcp.opencaselaw.ch/entscheid/bger_7B_544_2026), zur Publ. vorgesehen, 5er-Besetzung). Der Gesetzgeber hat bewusst auf eine Erstreckung auf das Straf- und Verwaltungsstrafrecht verzichtet (qualifiziertes Schweigen; Ausschluss richterlicher Lückenfüllung). Unternehmensjuristen sind keine Berufsgeheimnisträger im Sinne von Art. 171 StPO, Art. 50 Abs. 2 VStrR und Art. 321 StGB.
 
 #### 2. Materielle Voraussetzung: Typische anwaltliche Berufstätigkeit
 
@@ -213,7 +217,7 @@ Geschützt wird nur die eigentliche Berufstätigkeit des Anwalts (Rechtsberatung
 | **Verwaltungsrats- / Organmandate** | **Nicht geschützt**; reine geschäftsmässige Leitungsfunktion | BGE 143 IV 462 E. 2.3; BGE 144 IV 74 E. 2.3 |
 | **Vermögens- und Immobilienverwaltung** | **Nicht geschützt**; gewöhnliche kaufmännische Geschäftstätigkeit | BGE 138 IV 225 E. 6.3 |
 | **Blosse Weiterleitung von Drittschreiben** | **Nicht geschützt**; Postkastendienste begründen kein Anwaltsgeheimnis | BGE 143 IV 462 E. 2.3 |
-| **Interne Unternehmensjuristen (In-House)** | **Nicht geschützt**; kein BGFA-Registereintrag, keine Unabhängigkeit | BGer 7B_523/2025 E. 3.2 |
+| **Interne Unternehmensjuristen (In-House)** | **Nicht geschützt**; kein BGFA-Registereintrag, keine Unabhängigkeit; Art. 167a ZPO nicht analog anwendbar | BGer 7B_544/2026 E. 3; BGer 7B_523/2025 E. 3.2 |
 
 
 #### 3. Ausschluss von allgemeinen Geschäftsgeheimnissen (BGer 7B_523/2025)
@@ -221,7 +225,7 @@ Geschützt wird nur die eigentliche Berufstätigkeit des Anwalts (Rechtsberatung
 Im Bündner Fall [BGer 7B_523/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html) (Brandfall und Indoor-Hanfanlage) verlangten die Arbeitgeberin (A. AG) und deren Organe die Versiegelung des vom beschuldigten Assistenten genutzten Smartphones mit dem Argument, darauf befänden sich Geschäftsgeheimnisse und betriebliche Vertraulichkeiten des Konzerns.
 
 Das Bundesgericht bestätigte die strikte Trennung:
-- Geschäfts- und Fabrikationsinteressen stellen seit der StPO-Revision vom 1. Januar 2024 **kein Beschlagnahme- oder Siegelungshindernis** mehr dar ([E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html); [BGE 151 IV 30 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.1)).
+- Geschäfts- und Fabrikationsinteressen stellen seit der StPO-Revision vom 1. Januar 2024 **kein Beschlagnahme- oder Siegelungshindernis** mehr dar ([E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html); [BGE 151 IV 30 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.1)). Dies gilt in gleicher Weise für das Verwaltungsstrafverfahren ([BGer 7B_544/2026 vom 13. Oktober 2026 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_544_2026)).
 - Ihr Schutz erfolgt nicht im Zwangsmassnahmenverfahren, sondern durch **Einschränkung des Akteneinsichtsrechts der Gegenpartei** nach Art. 108 Abs. 1 lit. b StPO ([E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html)).
 - Ein schematischer Datumsfilter (z.B. Ausschluss aller Dateien vor Stellenantritt) ist unzulässig, da elektronische Zeitstempel keinen Beweis dafür liefern, wann Daten auf ein Mobiltelefon gelangten ([E. 4.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-523-2025_2026-06-19.html)).
 

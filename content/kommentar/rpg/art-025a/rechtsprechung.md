@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 25a RPG"
 weight: 99
 date: 2026-05-22
-lastmod: "2026-08-29"
-description: "Übersicht der massgeblichen Entscheide zu Art. 25a RPG — Grundsätze der Koordination"
-tags: ["Rechtsprechung", "RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Nutzungsplan"]
+lastmod: "2026-10-29"
+description: "Übersicht der massgeblichen Entscheide zu Art. 25a RPG — Grundsätze der Koordination und Ausschluss interkantonaler Koordinationspflicht (BGer 1C_171/2026)"
+tags: ["Rechtsprechung", "RPG", "Raumplanung", "Koordination", "Gesamtentscheid", "Interkantonale Koordination", "BGer 1C_171/2026", "Nutzungsplan"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 1C_171/2026 vom 1. Oktober 2026 ergänzt: Keine interkantonale Koordinationspflicht nach Art. 25a RPG bei kantonsübergreifenden Vorhaben (Biogasanlage TG/SG); keine Pflicht zur Sistierung kantonaler Gerichtsverfahren."
   - date: 2026-08-29
     by: "Claude Code"
     model: "glm-5.1"
@@ -15,6 +19,16 @@ revisions:
 Zurück zum Kommentar: [Art. 25a RPG — Grundsätze der Koordination](./)
 
 ## I. Materielle und formelle Koordination
+
+### BGer 1C_171/2026 vom 1. Oktober 2026 — Keine interkantonale Koordinationspflicht bei kantonsübergreifenden Anlagen (Biogasanlage TG/SG)
+
+Eine Biogasanlage beanspruchte Flächen in den Kantonen Thurgau und St. Gallen; beide Kantone führten voneinander getrennte Bewilligungs- und Rechtsmittelverfahren. Der Beschwerdeführer rügte vor Bundesgericht, das Thurgauer Verwaltungsgericht hätte sein Verfahren bis zum Abschluss des Rechtsmittelverfahrens im Kanton St. Gallen sistieren bzw. eine materielle Koordination zur Vermeidung divergierender Entscheide herbeiführen müssen.
+
+Das Bundesgericht wies die Beschwerde ab: Art. 25a RPG ist ausschliesslich auf die Koordination mehrerer Behörden eines einzigen Kantons zugeschnitten (E. 5.1). Bei Vorhaben mit Flächenbeanspruchung in mehreren Kantonen führt jeder Kanton sein Verfahren autonom nach eigenem Recht durch. Das Bundesrecht begründet weder eine Pflicht zur interkantonalen Verfahrenszusammenlegung noch zur Konsultation oder Sistierung von Rechtsmittelverfahren (E. 5.1 f.; vgl. auch [BGer 1C_663/2023 vom 8. Januar 2025 E. 6.2](https://mcp.opencaselaw.ch/entscheid/bger_1C_663_2023)). Allfällige verbleibende Widersprüche sind erst im Rechtsmittelverfahren vor Bundesgericht zu bereinigen (E. 5.3).
+
+**Einschlägig für:** Art. 25a Abs. 1 RPG; Grenzen der Koordinationspflicht; interkantonale Bauvorhaben; Sistierung von Rechtsmittelverfahren; [BGer 1C_171/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_171_2026) E. 5 und 6
+
+---
 
 ### BGer 1C_310/2025 vom 12. November 2025 — Verletzung des Koordinationsgebots bei Strassenausbau und Rodung
 

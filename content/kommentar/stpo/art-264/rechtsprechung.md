@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 264 StPO"
 weight: 99
 date: 2025-07-16
-lastmod: 2026-09-12
-description: "Übersicht der verifizierten Entscheide zu Art. 264 StPO – Einschränkungen der Beschlagnahme, Siegelungsverfahren und Berufsgeheimnisse"
-tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Siegelung", "Quellenschutz", "Smartphones", "Triage"]
+lastmod: 2026-10-29
+description: "Übersicht der verifizierten Entscheide zu Art. 264 StPO – Einschränkungen der Beschlagnahme, Siegelungsverfahren, Inhouse Counsel und Berufsgeheimnisse"
+tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Anwaltsgeheimnis", "Siegelung", "Inhouse Privilege", "Quellenschutz", "Smartphones", "Triage"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Leitentscheid BGer 7B_544/2026 vom 13. Oktober 2026 eingearbeitet (zur Publ. vorgesehen, 5er-Besetzung): Kein Berufsgeheimnisschutz für Unternehmensjuristen im (Verwaltungs-)Strafverfahren; qualifiziertes Schweigen schliesst analoge Anwendung von Art. 167a ZPO aus; Geschäftsgeheimnisse stellen kein Entsiegelungshindernis dar."
   - date: 2026-09-12
     by: "Antigravity"
     model: "glm-5.1"
@@ -35,6 +39,14 @@ Alle nachstehenden Entscheide sind im Volltext verifiziert; die Kernaussagen st�
 ---
 
 ## I. Leitentscheide (BGE und Grundsatzurteile)
+
+### [BGer 7B_544/2026 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_544_2026) *(zur Publikation vorgesehen, Fünferbesetzung)* — E. 2.1 und E. 3.1–3.6
+- **Thema**: Ausschluss von Unternehmensjuristen (In-House Counsel) vom Berufsgeheimnisschutz; keine analoge Anwendbarkeit von Art. 167a ZPO im Straf- und Verwaltungsstrafverfahren; Geschäftsgeheimnisse kein Beschlagnahmehindernis
+- **Sachverhalt**: Das Eidgenössische Finanzdepartement (EFD) führte ein Verwaltungsstrafverfahren wegen des Verdachts auf Meldepflichtverletzungen nach Art. 37 GwG und verlangte von einer Bank die Herausgabe diverser Unterlagen. Die Bank verlangte die Siegelung und machte geltend, Unterlagen ihres Rechtsdienstes (darunter ein «Staff Manual») unterstünden dem Berufsgeheimnis sowie analog dem Inhouse Privilege gemäss Art. 167a ZPO; zudem lägen Geschäftsgeheimnisse vor. Das Bundesstrafgericht hiess das Entsiegelungsgesuch des EFD gut.
+- **Kernaussage**: Unternehmensjuristen unterstehen weder im Strafprozess noch im Verwaltungsstrafverfahren dem Anwaltsgeheimnis nach Art. 171 StPO, Art. 50 Abs. 2 VStrR und Art. 321 StGB (E. 3.3). Das seit 1. Januar 2025 in Art. 167a ZPO verankerte Mitwirkungsverweigerungsrecht für Unternehmensjuristen ist im Straf- und Verwaltungsstrafverfahren **nicht analog anwendbar** (E. 3.5). Der Gesetzgeber hat bewusst auf eine Übernahme in andere Verfahrensgesetze verzichtet; dieses qualifizierte Schweigen schliesst eine richterliche Lückenfüllung aus. Geschäftsgeheimnisse begründen auch im VStrR kein Beschlagnahmeverbot nach Art. 264 StPO bzw. Art. 50 VStrR (E. 2.1).
+- **Einschlägig für**: Abs. 1 lit. c und d; In-House Counsel; Verhältnis zu Art. 167a ZPO; Art. 50 Abs. 2 VStrR
+
+---
 
 ### [BGer 7B_219/2026 vom 20. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-219-2026_2026-08-20.html) *(zur Publikation vorgesehen, Fünferbesetzung)* — E. 2.6 f.
 - **Thema**: Praxisänderung zu Art. 264 Abs. 1 lit. a StPO; Entsiegelung bei mitbeschuldigtem Verteidiger; Informationswall

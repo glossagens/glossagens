@@ -2,10 +2,14 @@
 title: "Art. 426 StPO — Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren"
 weight: 426
 date: 2026-07-11
-lastmod: 2026-10-23
-description: "Praxiskommentar zu Art. 426 StPO: Kostentragung bei Verurteilung, Teilfreispruch und Ausscheidungsmethode, Ausnahme für amtliche Verteidigung, Kostenauflage bei Freispruch oder Einstellung nach Abs. 2 (zivilrechtliche Vorwerfbarkeit, Unschuldsvermutung, Nemo-tenetur-Schranke), unnötige und fehlerhafte Verfahrenshandlungen nach Abs. 3 lit. a, Übersetzungskosten nach Abs. 3 lit. b, unentgeltliche Rechtsbeistandschaft der Privatklägerschaft nach Abs. 4 sowie selbstständiges Massnahmeverfahren nach Abs. 5."
-tags: ["StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "beschuldigte Person", "Freispruch", "Einstellung", "Teilfreispruch", "Unschuldsvermutung", "Nemo tenetur", "Amtliche Verteidigung", "Übersetzungskosten"]
+lastmod: 2026-10-29
+description: "Praxiskommentar zu Art. 426 StPO: Kostentragung bei Verurteilung, Teilfreispruch und Ausscheidungsmethode, Ausnahme für amtliche Verteidigung, Kostenauflage bei Freispruch oder Einstellung nach Abs. 2 (zivilrechtliche Vorwerfbarkeit, Unschuldsvermutung, Nemo-tenetur-Schranke, Ausschluss bei krasser Beschleunigungsgebotverletzung nach BGer 7B_155/2025), unnötige und fehlerhafte Verfahrenshandlungen nach Abs. 3 lit. a, Übersetzungskosten nach Abs. 3 lit. b, unentgeltliche Rechtsbeistandschaft der Privatklägerschaft nach Abs. 4 sowie selbstständiges Massnahmeverfahren nach Abs. 5."
+tags: ["StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "beschuldigte Person", "Freispruch", "Einstellung", "Teilfreispruch", "Unschuldsvermutung", "Nemo tenetur", "Beschleunigungsgebot", "BGer 7B_155/2025", "Amtliche Verteidigung", "Übersetzungskosten"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 7B_155/2025 vom 13. Oktober 2026 eingearbeitet: Krasse Verletzung des Beschleunigungsgebots schliesst bei vollumfänglichem Freispruch die Kostenauflage nach Art. 426 Abs. 2 StPO trotz zivilrechtlicher Pflichtverletzung zwingend aus (Übermassverbot / Entschädigungsakzessorietät)."
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
@@ -149,7 +153,13 @@ Das prozessuale Verhalten der beschuldigten Person im laufenden Strafverfahren d
 - Auch das **Bestreiten von Vorwürfen**, das Stellen von Beweisanträgen oder die Ausschöpfung von Rechtsmitteln stellt keine rechtswidrige Verfahrenserschwerung dar.
 - Eine Kostenauflage wegen Erschwerung kommt nur bei rechtsmissbräuchlichem oder deliktischem Prozessverhalten in Betracht — etwa bei Vorlage gefälschter Urkunden, Irreführung der Behörden über die Identität oder Fluchtversuchen.
 
-#### 5. Kasuistik: Angewandte vs. verworfene Fälle
+#### 5. Schranke bei krasser Verletzung des Beschleunigungsgebots (BGer 7B_155/2025)
+
+Endet ein Strafverfahren in einem vollumfänglichen Freispruch und liegt gleichzeitig eine **krasse Verletzung des Beschleunigungsgebots** (Art. 5 StPO, Art. 6 Ziff. 1 EMRK) vor, schliesst das Bundesrecht eine Kostenauflage nach Art. 426 Abs. 2 StPO selbst dann aus, wenn die beschuldigte Person das Verfahren durch eine zivilrechtliche Sorgfaltspflichtverletzung (z.B. Art. 398 Abs. 2 OR) adäquat-kausal veranlasst hat ([BGer 7B_155/2025 vom 13. Oktober 2026 E. 4.4.2 f.](https://mcp.opencaselaw.ch/entscheid/bger_7B_155_2025)).
+
+*Begründung:* Bei einem Freispruch scheidet eine staatliche Wiedergutmachung über eine Strafreduktion denklogisch aus. Eine Kompensation für die erlittene überlange Verfahrensdauer (im Anlassfall fast 15 Jahre für ein durchschnittliches Strafverfahren) kann daher ausschliesslich durch eine finanzielle Entschädigung erfolgen. Da eine Kostenauflage nach Art. 426 Abs. 2 StPO präjudizierende Wirkung entfaltet und die Zusprechung einer Parteientschädigung zwingend sperrt (Art. 430 Abs. 1 lit. a StPO), ist es mit dem Grundsatz der Verhältnismässigkeit (Übermassverbot) und dem Ausnahmecharakter von Abs. 2 unvereinbar, der freigesprochenen Person in derartigen Extremfällen die Verfahrenskosten aufzuerlegen (E. 4.4.3).
+
+#### 6. Kasuistik: Angewandte vs. verworfene Fälle
 
 ##### a) Anwendungsfälle (Kostenauflage bejaht)
 
@@ -163,6 +173,9 @@ Der Betreiber eines Gastbetriebs verweigerte während der Pandemie vorsätzlich 
 Wird ein Strafverfahren gestützt auf Art. 53 StGB eingestellt, setzt Art. 53 StGB eine rechtswidrige Handlung des Täters voraus. Das Bundesgericht hält die Auferlegung der Verfahrenskosten in einem solchen Fall für in jedem Fall gerechtfertigt und mit der Unschuldsvermutung vereinbar; die Grundsätze zur Kostenauflage bei Freispruch (E. 2.2) finden hier keine Anwendung. Im Fall (Strafverfahren in Genf wegen Veruntreuung, Betrugs und unrechtmässiger Aneignung) hob es den kantonalen Entscheid auf, der die Kosten des nach Art. 53 StGB eingestellten Verfahrensteils dem Staat belassen hatte ([BGE 144 IV 202 E. 2.2–2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html), Urteil 6B_957/2017 vom 27. April 2018).
 
 ##### b) Verwerfungsfälle (Kostenauflage verneint)
+
+**Krasse Verletzung des Beschleunigungsgebots bei 15-jährigem Strafverfahren (BGer 7B_155/2025):**  
+Ein Treuhänder wurde nach fast 15-jähriger Verfahrensdauer vom Vorwurf der ungetreuen Geschäftsbesorgung im Zusammenhang mit einem Baueinspracheverfahren vollumfänglich freigesprochen, weil kein Vermögensschaden nachweisbar war. Das Kantonsgericht Schwyz auferlegte ihm dennoch gestützt auf Art. 426 Abs. 2 StPO die Gerichtskosten von Fr. 3'500.–, weil er seine vertragliche Treuepflicht (Art. 398 OR) verletzt habe. Das Bundesgericht hiess die Beschwerde gut: Bei einem Freispruch nach einer derart extremen, primär den Justizbehörden anzulastenden Verfahrensverzögerung gebietet das Übermassverbot zwingend, von einer Kostenauflage abzusehen ([BGer 7B_155/2025 vom 13. Oktober 2026 E. 4.4.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_155_2025)).
 
 **Ungenügende Substanziierung der Verhaltensnorm und unbewiesene Vorwürfe:**  
 Im ersten Rechtsgang des Schwyzer Gastwirt-Verfahrens hatte das Kantonsgericht die Kostenauflage lediglich damit begründet, dem Beschuldigten sei «öffentlich-rechtlich vorwerfbar» gewesen, worum es gesundheitspolizeilich ging. Das Bundesgericht hob den Entscheid auf: Die Vorinstanz hatte versäumt, darzulegen, gegen welche konkrete Verhaltensnorm der Beschuldigte rechtswidrig und schuldhaft verstossen haben soll. Zudem stützte sich die Kostenauflage auf Tatsachen, deren Rechtskraft zum Urteilszeitpunkt nicht feststand. Die Kostenauflage darf sich nur auf unbestrittene oder klar bewiesene Tatsachen stützen ([BGer 6B_940/2023 vom 18. März 2024, E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-940-2023_2024-03-18.html)).

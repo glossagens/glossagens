@@ -2,10 +2,14 @@
 title: "Art. 47 ZPO — Ausstandsgründe"
 weight: 47
 date: "2026-05-15"
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 47 ZPO: Ausstandsgründe, Generalklausel, Befangenheit, personenbezogene Substanziierungspflicht, Vergleichsverhandlung, nebenamtliche Richter."
-tags: ["Ausstand", "Befangenheit", "Richter", "Unparteilichkeit", "ZPO"]
+lastmod: 2026-10-29
+description: "Kommentar zu Art. 47 ZPO: Ausstandsgründe, Generalklausel, Befangenheit, personenbezogene Substanziierungspflicht, vorsorgliche Massnahmen (BGer 5A_252/2026), Vergleichsverhandlung, nebenamtliche Richter."
+tags: ["Ausstand", "Befangenheit", "Richter", "Unparteilichkeit", "ZPO", "BGer 5A_252/2026"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 5A_252/2026 vom 15. September 2026 eingearbeitet: Mitwirkung an vorsorglichen Massnahmen begründet keine Ausstandspflicht für die Hauptsache (Art. 47 Abs. 2 lit. d ZPO); das Ausstandsverfahren selbst ist ein eigenständiges Zwischenverfahren und keine «gleiche Sache» i.S.v. Art. 47 Abs. 1 lit. b ZPO."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -78,7 +82,7 @@ revisions:
 
 **12** **Typisierte Ausnahmen** Art. 47 Abs. 2 stellt klar, dass bestimmte Mitwirkungsarten für sich allein keinen Ausstandsgrund begründen. Die Aufzählung in lit. a–e ist zwar nicht abschliessend («insbesondere»), verdeutlicht aber den Grundgedanken: Verfahren der summarischen Kognition, des Rechtsschutzes in klaren Fällen oder mit bloss provisorischen Entscheidungen sollen durch einfache Vorbefassung nicht zu einer Ausstandspflicht bei Weiterbehandlung führen. Die Mitwirkung bleibt aber dann ein Ausstandsgrund, wenn im Einzelfall zusätzliche, in lit. a–f fallende Umstände hinzutreten (z.B. offenbart die Gerichtsperson an der Schlichtungsverhandlung eine deutliche vorgefasste Meinung).
 
-**13** **Vorsorgliche Massnahmen** Lit. d schliesst die Anordnung vorsorglicher Massnahmen als isolierten Ausstandsgrund aus. Dies ist sachgerecht: Die materielle Prüfung im Hauptverfahren ist von der Glaubhaftmachungsprüfung bei vorsorglichen Massnahmen unabhängig, und die Gerichtsperson trifft bei vorsorglichen Massnahmen keine verbindliche Sachentscheidung für das Hauptverfahren.
+**13** **Vorsorgliche Massnahmen und Eigenständigkeit des Ausstandsverfahrens** Lit. d schliesst die Anordnung vorsorglicher Massnahmen als isolierten Ausstandsgrund aus. Dies ist sachgerecht: Die materielle Prüfung im Hauptverfahren ist von der Glaubhaftmachungsprüfung bei vorsorglichen Massnahmen unabhängig, und die Gerichtsperson trifft bei vorsorglichen Massnahmen keine verbindliche Sachentscheidung für das Hauptverfahren. Das Bundesgericht bekräftigte diese Praxis: Auch der Umstand, dass ein Richter bereits superprovisorische und provisorische Massnahmen angeordnet hat, begründet für sich allein keinen Anschein der Befangenheit ([BGer 5A_252/2026 vom 15. September 2026 E. 3.1.2 & 3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_252_2026)). Präzisiert wurde dabei, dass das Ausstandsverfahren selbst ein eigenständiges Zwischenverfahren darstellt und gegenüber dem Massnahme- oder Hauptverfahren keine «gleiche Sache» im Sinne von Art. 47 Abs. 1 lit. b ZPO bildet (E. 3.2).
 
 ---
 

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 47 ZPO"
 weight: 2
 date: 2026-05-23
-lastmod: "2026-08-13"
-description: "Übersicht der Rechtsprechung zu Art. 47 ZPO — Anschein der Befangenheit, nebenamtliche und beisitzende Richter, pauschale Ausstandsgesuche, Entdeckung des Ausstandsgrunds nach Verfahrensabschluss."
-tags: ["Rechtsprechung", "ZPO", "Ausstand", "Befangenheit", "Art. 30 BV"]
+lastmod: "2026-10-29"
+description: "Übersicht der Rechtsprechung zu Art. 47 ZPO — Anschein der Befangenheit, nebenamtliche und beisitzende Richter, pauschale Ausstandsgesuche, vorsorgliche Massnahmen (BGer 5A_252/2026), Entdeckung des Ausstandsgrunds nach Verfahrensabschluss."
+tags: ["Rechtsprechung", "ZPO", "Ausstand", "Befangenheit", "Art. 30 BV", "BGer 5A_252/2026"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 5A_252/2026 vom 15. September 2026 eingearbeitet: Mitwirkung an vorsorglichen Massnahmen begründet keine Ausstandspflicht (Art. 47 Abs. 2 lit. d ZPO); das Ausstandsverfahren ist ein eigenständiges Zwischenverfahren und keine «gleiche Sache» nach Art. 47 Abs. 1 lit. b ZPO."
   - date: 2026-08-13
     by: "Claude Code"
     model: "claude-opus-5"
@@ -123,6 +127,12 @@ Der Entscheid überträgt die für das Zivil- und Strafrecht entwickelte Praxis 
 **Kernaussage**: Von einer Partei kann nicht verlangt werden, dass sie in den sie betreffenden Verfahren sämtliche Mitglieder des Spruchkörpers auf rechtswidrige Doppelmandate und kantonalrechtlich geregelte Unvereinbarkeiten hin prüft.
 
 Begrenzt die Obliegenheit, den Ausstandsgrund unverzüglich geltend zu machen: Sie setzt zumutbare Kenntnis voraus.
+
+## VI. Vorsorgliche Massnahmen und Ausstandsverfahren
+
+### [BGer 5A_252/2026 vom 15. September 2026, E. 3.1.2 & 3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_252_2026)
+
+**Kernaussage**: Nach Art. 47 Abs. 2 lit. d ZPO begründet die Mitwirkung beim Erlass vorsorglicher (oder superprovisorischer) Massnahmen für sich allein keinen Ausstandsgrund für das Hauptverfahren, da das Massnahmeverfahren einen anderen Zweck verfolgt. Das Ausstandsverfahren selbst stellt ein eigenständiges Zwischenverfahren dar und bildet keine «gleiche Sache» im Sinne von Art. 47 Abs. 1 lit. b ZPO.
 
 ## Audit-Protokoll
 

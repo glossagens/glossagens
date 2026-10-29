@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 426 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-10-23
+lastmod: 2026-10-29
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 426 StPO – Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren."
-tags: ["Rechtsprechung", "StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "Freispruch", "Einstellung", "Teilfreispruch"]
+tags: ["Rechtsprechung", "StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "Freispruch", "Einstellung", "Teilfreispruch", "Beschleunigungsgebot", "BGer 7B_155/2025"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 7B_155/2025 vom 13. Oktober 2026 eingearbeitet: Krasse Verletzung des Beschleunigungsgebots schliesst Kostenauflage bei vollumfänglichem Freispruch nach Art. 426 Abs. 2 StPO bundesrechtlich aus."
   - date: 2026-10-23
     by: "Claude Code"
     model: "claude-sonnet-5-5"
@@ -50,6 +54,15 @@ revisions:
 - **Kernaussage**: Die Verletzung des Beschleunigungsgebots (Art. 29 Abs. 1 BV; Art. 5 Abs. 1 StPO) wird in erster Linie durch Strafreduktion oder Verzicht auf Strafe kompensiert. Ein Erlass oder eine Reduktion der Verfahrenskosten kommt nach dem Grundsatz der Akzessorietät der Kosten nur in Frage, wenn die Verletzung derart schwer wiegt, dass das Verfahren als ultima ratio einzustellen ist (E. 1.4.2). Bei einer Verurteilung bleibt die Kostentragungspflicht nach Art. 426 Abs. 1 StPO zwingend aufrechterhalten.
 - **Einschlägig für**: Abs. 1 (zwingende Kostenpflicht bei Verurteilung); Verhältnis zu Verfahrensgrundrechten
 - **URL**: [BGE 143 IV 373 E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-373_2017.html#consideration_1.4.2)
+
+---
+
+### BGer 7B_155/2025 vom 13. Oktober 2026, E. 4.4.2 f.
+
+- **Thema**: Schranke der Kostenauflage bei vollumfänglichem Freispruch; krasse Verletzung des Beschleunigungsgebots
+- **Kernaussage**: Endet ein Strafverfahren mit einem vollumfänglichen Freispruch, kann eine ungerechtfertigt lange Verfahrensdauer (Art. 5 StPO, Art. 6 Ziff. 1 EMRK) zwangsläufig nicht durch eine Strafreduktion kompensiert werden (E. 4.4.2). Liegt eine krasse, primär den Strafjustizbehörden anzulastende Verletzung des Beschleunigungsgebots vor (im konkreten Fall fast 15 Jahre Verfahrensdauer für ein durchschnittliches Verfahren ohne besondere Schwierigkeiten), ist es mit dem Bundesrecht und dem Übermassverbot unvereinbar, der freigesprochenen Person in Anwendung von Art. 426 Abs. 2 StPO die Verfahrenskosten aufzuerlegen, da dies die ihr gebührende Entschädigung zwingend sperren würde (E. 4.4.3).
+- **Einschlägig für**: Abs. 2 (Kostentragung bei Freispruch); Beschleunigungsgebot (Art. 5 StPO); Verhältnismässigkeitsprinzip; Entschädigungsakzessorietät (Art. 430 Abs. 1 lit. a StPO)
+- **URL**: [BGer 7B_155/2025 E. 4.4.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_155_2025)
 
 ---
 

@@ -2,10 +2,14 @@
 title: "Art. 248 StPO — Siegelung"
 weight: 248
 date: 2026-07-10
-lastmod: 2026-10-22
-description: "Praxiskommentar zu Art. 248 StPO: Siegelungsverfahren, gesetzliche Beschränkung auf Art. 264 StPO (BGE 151 IV 30), Smartphones und Privatgeheimnisse (BGE 151 IV 344/350), Siegelungsberechtigung Nichtbeschuldigter (BGer 7B_558/2025), vorsorgliche Datenspiegelung (Praxisänderung BGE 152 IV 107), Substanziierungsobliegenheit beim Anwaltsgeheimnis (BGer 7B_815/2026) und strikte Form- und Friststrenge für die Staatsanwaltschaft (BGer 7B_165/2026)."
-tags: ["StPO", "Zwangsmassnahmen", "Siegelung", "Entsiegelung", "Berufsgeheimnis", "Durchsuchung", "Beschlagnahme", "Datenspiegelung", "Smartphones", "BGE 152 IV 107", "BGE 151 IV 30", "BGE 151 IV 344", "BGE 151 IV 350", "BGer 7B_815/2026", "BGer 7B_165/2026", "BGer 7B_558/2025", "Verwirkungsfrist"]
+lastmod: 2026-10-29
+description: "Praxiskommentar zu Art. 248 StPO: Siegelungsverfahren, gesetzliche Beschränkung auf Art. 264 StPO (BGE 151 IV 30), Ausschluss von Inhouse Counsel und Geschäftsgeheimnissen (BGer 7B_544/2026), Smartphones und Privatgeheimnisse (BGE 151 IV 344/350), Siegelungsberechtigung Nichtbeschuldigter (BGer 7B_558/2025), vorsorgliche Datenspiegelung (Praxisänderung BGE 152 IV 107), Substanziierungsobliegenheit beim Anwaltsgeheimnis (BGer 7B_815/2026) und strikte Form- und Friststrenge für die Staatsanwaltschaft (BGer 7B_165/2026)."
+tags: ["StPO", "Zwangsmassnahmen", "Siegelung", "Entsiegelung", "Berufsgeheimnis", "Durchsuchung", "Beschlagnahme", "Datenspiegelung", "Smartphones", "Inhouse Privilege", "BGE 152 IV 107", "BGE 151 IV 30", "BGE 151 IV 344", "BGE 151 IV 350", "BGer 7B_544/2026", "BGer 7B_815/2026", "BGer 7B_165/2026", "BGer 7B_558/2025", "Verwirkungsfrist"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 7B_544/2026 vom 13. Oktober 2026 eingearbeitet (zur Publ. vorgesehen, 5er-Besetzung): Bestätigung des Ausschlusses von Geschäftsgeheimnissen und Inhouse-Counsel-Korrespondenz (keine analoge Anwendung von Art. 167a ZPO) von den Siegelungsgründen im Straf- und Verwaltungsstrafverfahren."
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -117,6 +121,8 @@ Unter dem alten Recht bis Ende 2023 verwies Art. 248 Abs. 1 aStPO unspezifisch a
 > **Lebenssachverhalt: Die Bankenedition der Bundesanwaltschaft (BGE 151 IV 30)**  
 > Die Bundesanwaltschaft führte eine Strafuntersuchung wegen qualifizierten Betrugs und Geldwäscherei. Mit Editionsverfügungen verpflichtete sie zwei Schweizer Grossbanken, sämtliche Konto- und Transaktionsunterlagen der A. AG herauszugeben. Die A. AG verlangte die vollständige Siegelung der Bankunterlagen und machte geltend, die Unterlagen enthielten hochsensible Geschäfts- und Betriebsgeheimnisse sowie das Bankkundengeheimnis nach Art. 47 BankG. Das Zwangsmassnahmengericht des Kantons Bern hiess das Entsiegelungsgesuch der Bundesanwaltschaft gut.  
 > **Die Grundsatzentscheidung des Bundesgerichts:** Das Bundesgericht wies die Beschwerde der A. AG ab ([BGE 151 IV 30 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4)). Der Gesetzgeber hat den Vorschlag des Bundesrates, Geschäfts- und Fabrikationsgeheimnisse in Art. 248 und 264 E-StPO aufzunehmen, im Parlament nach ausführlicher Debatte explizit verworfen ([BBl 2019 6751](https://www.fedlex.admin.ch/eli/fbl/2019/6697/de); [AB 2021 N 621 f.](https://www.parlament.ch/de/ratsbetrieb/amtliches-bulletin/amtliches-bulletin-die-verhandlungen?PieceId=20210614130000)). Weder allgemeine Geschäftsgeheimnisse noch das Bankkundengeheimnis fallen unter die gesetzlichen Siegelungsgründe ([E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.1)). Solche Interessen können ausschliesslich über Anträge auf Einschränkung der Akteneinsicht Dritter nach Art. 108 Abs. 1 lit. b StPO gewahrt werden ([E. 2.4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-30_2025.html#consideration_2.4.3)).
+
+Diesen Grundsatz bekräftigte das Bundesgericht in Fünferbesetzung auch für das Verwaltungsstrafverfahren (VStrR): Weder Geschäftsgeheimnisse noch Unterlagen unternehmensinterner Rechtsdienste (Inhouse Counsel) begründen ein Beschlagnahme- oder Siegelungshindernis ([BGer 7B_544/2026 vom 13. Oktober 2026 E. 2.1 und E. 3.5](https://mcp.opencaselaw.ch/entscheid/bger_7B_544_2026), zur Publ. vorgesehen). Das seit dem 1. Januar 2025 in Kraft stehende zivilprozessuale Mitwirkungsverweigerungsrecht für Unternehmensjuristen nach Art. 167a ZPO ist im Straf- und Verwaltungsstrafverfahren mangels echter Gesetzeslücke **nicht analog anwendbar** (qualifiziertes Schweigen des Gesetzgebers).
 
 #### 2. Keine akzessorische Zwangsmassnahmenprüfung ohne Art. 264-Rüge
 

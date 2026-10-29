@@ -2,10 +2,14 @@
 title: "Art. 398 — Sorgfaltspflicht und persönliche Besorgung"
 weight: 398
 date: 2026-09-05
-lastmod: 2026-10-21
-description: "Praxiskommentar zu Art. 398 OR — Sorgfaltspflicht des Beauftragten, persönliche Besorgung, Substitution, Haftung für Hilfspersonen"
-tags: ["OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung", "Hilfspersonen", "Entschädigung"]
+lastmod: 2026-10-29
+description: "Praxiskommentar zu Art. 398 OR — Sorgfaltspflicht des Beauftragten, persönliche Besorgung, Substitution, Haftung für Hilfspersonen, Bank- und Anlageberatungshaftung (BGer 4A_560/2025)"
+tags: ["OR", "Auftragsrecht", "Sorgfaltspflicht", "persönliche Besorgung", "Haftung", "Anlageberatung", "Bankenhaftung", "BGer 4A_560/2025", "Hilfspersonen", "Entschädigung"]
 revisions:
+  - date: 2026-10-29
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 4A_560/2025 vom 1. Oktober 2026 eingearbeitet: Sorgfalts- und Warnpflichten der Bank bei dauernder Anlageberatung; Risikotragung durch den nachweisbar sachkundigen Kunden bei bewusster Strategieabweichung (strukturierte Produkte / BRC)."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -100,6 +104,8 @@ revisions:
 - *Pflichtwidrige Unterlassung konkreter Abklärungen*: Tritt der Beauftragte als Fachexperte auf, darf er sich nicht damit begnügen, die gesetzlichen Regeln zur MWST-Befreiung abstrakt darzulegen. Ergibt sich aus den Unterlagen, dass die Mandantin (hier Betreiberin einer Klinik für Traditionelle Chinesische Medizin, TCM) lediglich über eine kantonale Registrierung im Register für Komplementärpraktiken verfügt, muss der Beauftragte diese behördliche Limitation prüfen und auf die MWST-Pflicht hinweisen. Dem Mandanten als Laien kann nicht vorgehalten werden, die feinen steuerrechtlichen Nuancen zwischen ärztlicher Berufsausübungsbewilligung und komplementärmedizinischem Recht zur Praxis nicht erfasst zu haben ([BGer 4A_93/2026 E. 3.4.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.08.2026_4A_93/2026)).
 - *Schaden*: Die von der Eidgenössischen Steuerverwaltung (ESTV) nachgeforderten Steuerbeträge nebst Verzugszinsen (im Streitfall rund CHF 380'000) stellen eine unfreiwillige Vermögensverminderung (Verminderung der Aktiven) und damit einen ersatzfähigen Schaden dar ([BGer 4A_93/2026 E. 3.5.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.08.2026_4A_93/2026)).
 - *Hypothetische Kausalität und Beweismass*: Liegt die Pflichtverletzung in einer Unterlassung (unterbliebene oder unzutreffende Risikoaufklärung), greift die Prüfung der hypothetischen Kausalität (hätte der Mandant bei ordnungsgemässer Belehrung den Schaden vermieden?). Hierfür gilt das herabgesetzte Beweismass der überwiegenden Wahrscheinlichkeit. Nach der allgemeinen Lebenserfahrung ist bei einem gewinnorientierten Unternehmen anzunehmen, dass es seine Preise erhöht und die MWST auf die Patienten überwälzt hätte, wenn es rechtzeitig über die Steuerpflicht informiert worden wäre ([BGer 4A_93/2026 E. 3.2, 3.6](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.08.2026_4A_93/2026)).
+
+**12b** **Bankvertragliche Sorgfalts- und Warnpflichten bei Anlageberatung.** Im Rahmen einer dauernden Anlageberatung (Art. 398 Abs. 2 OR) haftet die Bank nicht für Verluste aus hochriskanten Anlagen (z.B. Barrier Reverse Convertibles [BRC] mit zweistelligen Renditecoupons), wenn die Initiative hierzu von einem nachweisbar sach- und fachkundigen Kunden ausging und dieser bewusst in Abweichung von der vereinbarten Anlagestrategie investieren wollte ([BGer 4A_560/2025 vom 1. Oktober 2026 E. 3.1 f., 4.2 f.](https://mcp.opencaselaw.ch/entscheid/bger_4A_560_2025)). Bei erfahrenen Kunden, die über die Funktionsweise strukturierter Produkte und Verlustrisiken bestens informiert sind, entfällt bzw. reduziert sich die bankvertragliche Warnpflicht bei bewusster Strategieabweichung; der sachkundige Anleger trägt das Risiko eigenverantwortlicher Portfolioentscheide (E. 4.3).
 
 **13** **Mitverschulden.** Hat der Auftraggeber den Schaden mitverursacht (z.B. durch ungenügende Weisungen, mangelnde Mitarbeit), kann der Schadenersatz nach Art. 44 OR gekürzt werden.
 
