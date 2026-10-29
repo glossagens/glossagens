@@ -2,10 +2,14 @@
 title: "Art. 221 StPO — Voraussetzungen der Untersuchungshaft und Sicherheitshaft"
 weight: 221
 date: 2026-08-30
-lastmod: 2026-10-28
+lastmod: 2026-10-29
 description: "Praxiskommentar zu Art. 221 StPO: Dringender Tatverdacht (Abs. 1), besondere Haftgründe der Flucht-, Kollusions- und Wiederholungsgefahr (Abs. 1 lit. a–c), qualifizierte Wiederholungsgefahr ohne Vortatenerfordernis (Abs. 1bis n.F.) und Ausführungsgefahr (Abs. 2) — mit ausführlicher Zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "dringender Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen", "Ersatzmassnahmen", "Kaution", "Überhaft"]
 revisions:
+  - date: 2026-10-29
+    by: "Claude (claude.ai)"
+    model: "claude-haiku-5-5"
+    note: "Tabelle: Nothilfe ersetzt durch behördliche Unterstützung (BGer 7B_1311/2026 E. 3.3 spricht von Unterkunft im Bundesasylzentrum); Begriff existenzielle Abhängigkeit entfernt."
   - date: 2026-10-28
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -171,8 +175,8 @@ Das Bundesgericht hiess die Beschwerde teilweise gut, hob den Beschluss des Ober
 | Kriterium | [BGE 145 IV 503](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html) — **Fluchtgefahr bejaht** | [BGer 1B_323/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html) — **Fluchtgefahr verneint (Haftentlassung)** | [BGer 7B_1311/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html) — **Fluchtgefahr nicht ausgeprägt (Ersatzmassnahmen)** |
 |---|---|---|---|
 | **Drohende Sanktion** | 18 Jahre Freiheitsstrafe wegen Mordes (faktisch lebenslang) | 6 Monate unbedingte Freiheitsstrafe (Diebstahl) | Kurze Straferwartung (Diebstähle, Hausfriedensbrüche) |
-| **Aufenthaltsstatus / Bindung** | Schweizer Bürger, Sohn in CH, aber Tochter in Frankreich | Abgewiesener Asylbewerber, keine Familie in CH | Abgewiesener Asylbewerber (Algerien), keine familiären Bindungen, Nothilfebezug |
-| **Bisheriges Prozessverhalten** | Vertuschen der Leiche, Fabrizieren eines Suizid-Alibis | 5 frühere Freiheitsstrafen stets klaglos angetreten | Keine konkreten Fluchtvorbereitungen; existenzielle Abhängigkeit von behördlicher Unterstützung |
+| **Aufenthaltsstatus / Bindung** | Schweizer Bürger, Sohn in CH, aber Tochter in Frankreich | Abgewiesener Asylbewerber, keine Familie in CH | Abgewiesener Asylbewerber (Algerien), keine familiären Bindungen, auf behördliche Unterstützung (Bundesasylzentrum) angewiesen |
+| **Bisheriges Prozessverhalten** | Vertuschen der Leiche, Fabrizieren eines Suizid-Alibis | 5 frühere Freiheitsstrafen stets klaglos angetreten | Keine konkreten Fluchtvorbereitungen; Angewiesenheit auf behördliche Unterstützung |
 | **Gefahrenqualifikation** | Akute Fluchtgefahr; massiver Fluchtanreiz überwiegt jede Verankerung | Fluchtgefahr verneint; bewiesene Vollzugstreue entkräftet Verdacht | Fluchtgefahr nicht ausgeprägt; Ausschaffungsrisiko ist migrationsrechtlich, nicht strafprozessual zu bewältigen |
 | **Ersatzmassnahmen** | Hausarrest in grenznahem Versoix + Fussfessel: untauglich | Nicht erforderlich, da Fluchtgefahr von vornherein fehlt | Beantragte Massnahmen (Meldepflicht, Schriftensperre, Eingrenzung) grundsätzlich tauglich; Vorinstanz bestimmt Auswahl |
 | **Ergebnis** | Fortdauer der Sicherheitshaft geschützt | Sofortige Haftentlassung aus Untersuchungshaft angeordnet | Beschwerde teilweise gutgeheissen; Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung (Antrag auf sofortige Entlassung abgewiesen) |
