@@ -57,7 +57,7 @@ claude mcp add --transport http glossagens https://glossagens-mcp.glossagens.wor
 | `beitrag_pruefen` | einen Entwurf für einen Kommentar oder ein Thema prüfen, bevor er eingereicht wird |
 | `beitrag_einreichen` | einen geprüften Beitrag einreichen, ohne GitHub-Konto |
 | `einreichung_status` | nachsehen, ob ein eingereichter Beitrag übernommen wurde, und die Rückmeldungen der Redaktion lesen |
-| `bger_update_suchen` | aktuelle Rechtsprechung auf [bger-update.ch](https://www.bger-update.ch) finden: Zusammenfassungen neuer Urteile des Bundesgerichts und ausgewählter Entscheide anderer Gerichte, Editorials und Ticker ([mehr](#rechtsprechung-von-bger-updatech)) |
+| `bger_update_suchen` | in den Zusammenfassungen von [bger-update.ch](https://www.bger-update.ch) suchen (neue Urteile des Bundesgerichts, ausgewählte Entscheide anderer Gerichte), dazu in Editorials und Ticker; nicht im Urteilstext selbst ([mehr](#rechtsprechung-von-bger-updatech)) |
 | `bger_update_lesen` | eine Zusammenfassung oder ein Editorial von bger-update.ch lesen; auf Wunsch nur ein Abschnitt |
 
 Direkt verändern lässt sich Glossagens über den Connector nicht: Ein eingereichter
@@ -70,6 +70,12 @@ Bundesgerichts zusammen und ordnet sie ein; dazu kommen ausgewählte Entscheide 
 anderer Gerichte («Annex»), ein Editorial und ein Ticker. Über den Connector kann der Assistent
 diese Sammlung durchsuchen — etwa auf die Frage «Was hat das Bundesgericht zuletzt zur Kündigung
 zur Unzeit entschieden?» — und die passenden Zusammenfassungen lesen.
+
+Durchsucht werden **die Zusammenfassungen, nicht die Urteile selbst**: Ein Urteil wird gefunden,
+wenn seine Zusammenfassung den Begriff enthält. Für die Suche im Originaltext der Entscheide und
+in der älteren Rechtsprechung stehen [entscheidsuche.ch](https://entscheidsuche.ch) und
+[opencaselaw.ch](https://opencaselaw.ch) bereit, beide ebenfalls als Connector (siehe
+[Mitwirken](/mitwirken/)).
 
 - **Suche** (`bger_update_suchen`): Die Suche erkennt Wortformen («Kündigungen» findet
   «Kündigung»), Normangaben wie «Art. 336c OR» oder «BGE 143 IV 373» und Urteilsnummern wie

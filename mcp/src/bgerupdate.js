@@ -20,7 +20,7 @@ export const BGER_UPDATE_HINWEIS =
 
 export const BGER_UPDATE_ANLEITUNG = `
 
-bger-update.ch: \`bger_update_suchen\` durchsucht die KI-Zusammenfassungen der neuen Urteile des Bundesgerichts (seit 2025), ausgewählte Entscheide anderer Gerichte («Annex»), die Editorials und den Ticker; \`bger_update_lesen\` holt eine Zusammenfassung mit der Kennung aus der Trefferliste. Nützlich, um aktuelle Rechtsprechung zu einer Norm oder Frage zu finden. ${BGER_UPDATE_HINWEIS}`;
+bger-update.ch: \`bger_update_suchen\` durchsucht die KI-Zusammenfassungen der neuen Urteile des Bundesgerichts (seit 2025), ausgewählter Entscheide anderer Gerichte («Annex»), die Editorials und den Ticker; \`bger_update_lesen\` holt eine Zusammenfassung mit der Kennung aus der Trefferliste. Nützlich, um aktuelle Rechtsprechung zu einer Norm oder Frage zu finden. Gesucht wird in den Zusammenfassungen, nicht im Originaltext der Urteile: dafür und für ältere Rechtsprechung entscheidsuche.ch bzw. opencaselaw.ch verwenden. ${BGER_UPDATE_HINWEIS}`;
 
 const NUR_LESEN = { readOnlyHint: true, idempotentHint: true, openWorldHint: false };
 
@@ -29,8 +29,9 @@ export const BGER_UPDATE_TOOLS = [
     name: "bger_update_suchen",
     title: "bger-update.ch durchsuchen",
     description:
-      "Volltextsuche in bger-update.ch: KI-Zusammenfassungen der neuen Urteile des Bundesgerichts, ausgewählte Entscheide anderer Gerichte (Annex), " +
-      "Editorials und Ticker. Sucht nach Wortstämmen («Kündigungen» findet «Kündigung»); alle Wörter müssen vorkommen, \"…\" sucht eine Wortfolge, " +
+      "Volltextsuche in bger-update.ch: KI-Zusammenfassungen der neuen Urteile des Bundesgerichts, ausgewählter Entscheide anderer Gerichte (Annex), " +
+      "Editorials und Ticker. Durchsucht die Zusammenfassungen, nicht den Originaltext der Urteile — dafür entscheidsuche.ch oder opencaselaw.ch. " +
+      "Sucht nach Wortstämmen («Kündigungen» findet «Kündigung»); alle Wörter müssen vorkommen, \"…\" sucht eine Wortfolge, " +
       "-wort schliesst aus. Normangaben wie «Art. 336c OR» und «BGE 143 IV 373» sowie Urteilsnummern (\"6B_812/2026\") werden erkannt. " +
       "Liefert je Treffer Kennung, Datum, Titel, einen Textausschnitt und die Adresse zum Zitieren; den Text holt bger_update_lesen.",
     inputSchema: {
