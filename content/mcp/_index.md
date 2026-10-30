@@ -2,7 +2,7 @@
 title: Glossagens im Chat (MCP)
 linkTitle: MCP
 weight: 9
-description: Glossagens als Connector in claude.ai und anderen KI-Assistenten einbinden — Kommentare durchsuchen und lesen, direkt im Chat.
+description: Glossagens als Connector in claude.ai und anderen KI-Assistenten einbinden — Kommentare und aktuelle Rechtsprechung von bger-update.ch durchsuchen und lesen, direkt im Chat.
 ---
 
 Glossagens lässt sich als **Connector** in einen KI-Chat einbinden. Der Assistent kann
@@ -57,9 +57,32 @@ claude mcp add --transport http glossagens https://glossagens-mcp.glossagens.wor
 | `beitrag_pruefen` | einen Entwurf für einen Kommentar oder ein Thema prüfen, bevor er eingereicht wird |
 | `beitrag_einreichen` | einen geprüften Beitrag einreichen, ohne GitHub-Konto |
 | `einreichung_status` | nachsehen, ob ein eingereichter Beitrag übernommen wurde, und die Rückmeldungen der Redaktion lesen |
+| `bger_update_suchen` | aktuelle Rechtsprechung auf [bger-update.ch](https://www.bger-update.ch) finden: Zusammenfassungen neuer Urteile des Bundesgerichts und ausgewählter Entscheide anderer Gerichte, Editorials und Ticker ([mehr](#rechtsprechung-von-bger-updatech)) |
+| `bger_update_lesen` | eine Zusammenfassung oder ein Editorial von bger-update.ch lesen; auf Wunsch nur ein Abschnitt |
 
 Direkt verändern lässt sich Glossagens über den Connector nicht: Ein eingereichter
 Beitrag erscheint erst, nachdem die Redaktion ihn geprüft hat.
+
+## Rechtsprechung von bger-update.ch
+
+[bger-update.ch](https://www.bger-update.ch) fasst jeden Tag die neu publizierten Urteile des
+Bundesgerichts zusammen und ordnet sie ein; dazu kommen ausgewählte Entscheide kantonaler und
+anderer Gerichte («Annex»), ein Editorial und ein Ticker. Über den Connector kann der Assistent
+diese Sammlung durchsuchen — etwa auf die Frage «Was hat das Bundesgericht zuletzt zur Kündigung
+zur Unzeit entschieden?» — und die passenden Zusammenfassungen lesen.
+
+- **Suche** (`bger_update_suchen`): Die Suche erkennt Wortformen («Kündigungen» findet
+  «Kündigung»), Normangaben wie «Art. 336c OR» oder «BGE 143 IV 373» und Urteilsnummern wie
+  «6B_812/2026». Mit Anführungszeichen sucht sie eine Wortfolge, mit vorangestelltem Minus schliesst
+  sie ein Wort aus. Eingrenzen lässt sie sich auf Urteile, Annex, Editorials oder Ticker, auf einen
+  Zeitraum und auf ein Sachgebiet. Jeder Treffer nennt Datum, Titel, eine Textstelle und die
+  Adresse der Zusammenfassung.
+- **Lesen** (`bger_update_lesen`): die ganze Zusammenfassung mit Urteilsnummer, Daten und
+  Sachgebiet, ein Editorial als Ganzes oder nur einen Abschnitt, etwa die Erwägungen.
+
+Auch diese Zusammenfassungen sind KI-erstellt. Sie eignen sich, um aktuelle Urteile zu einer
+Frage zu finden; was ein Urteil sagt, ist am Urteil selbst zu prüfen (bger.ch, entscheidsuche.ch).
+Im Kommentar zitiert wird das Urteil, nicht die Zusammenfassung.
 
 ## Worauf zu achten ist
 
@@ -68,7 +91,8 @@ Beitrag erscheint erst, nachdem die Redaktion ihn geprüft hat.
   Entscheide vor der Verwendung an der Quelle prüfen und Glossagens mit Link zitieren.
 - **Datenschutz**: Der Server läuft auf Cloudflare. Cloudflare protokolliert technische
   Zugriffsdaten (z. B. IP-Adresse) für einige Tage; Suchanfragen und geprüfte Entwürfe
-  speichert der Server nicht. Was du im Chat schreibst, sieht der Anbieter deines Assistenten,
+  speichert der Server nicht. Suchanfragen an bger-update.ch leitet er dorthin weiter, ohne
+  Angaben zu deiner Person. Was du im Chat schreibst, sieht der Anbieter deines Assistenten,
   nicht Glossagens.
 
 ## Beiträge aus dem Chat
