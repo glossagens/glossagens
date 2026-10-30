@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 16 ATSG — Grad der Invalidität"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-10-04
+lastmod: 2026-10-30
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 16 ATSG: Einkommensvergleich, LSE-Tabellenlöhne, Tabellenlohnabzug, Parallelisierung, Verhältnis zwischen IV und UVG, Invalideneinkommen bei stabiler Tätigkeit vs. Statistikwerte (BGer 8C_633/2025), Einarbeitungszuschlag als Soziallohn."
 tags: ["Rechtsprechung", "ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Invalidenversicherung", "Invalideneinkommen", "Soziallohn", "ESS"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 8C_734/2025 vom 22.09.2026 (veröffentlicht am 30.10.2026): Massgeblichkeit der LSE-Tabellenlöhne bei unvollständiger Ausschöpfung der Restarbeitsfähigkeit und Bestätigung der Unanwendbarkeit des IVV-Pauschalabzugs im UVG (BGer 8C_254/2025); Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -42,6 +46,15 @@ Zurück zum Kommentar: [Art. 16 ATSG — Grad der Invalidität](./)
 ---
 
 ## II. Weitere Entscheide
+
+### [BGer 8C_734/2025 vom 22.09.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-734-2025_2026-09-22.html) — Tabellenlohn bei unvollständig ausgeschöpfter Restarbeitsfähigkeit; Unanwendbarkeit des IVV-Pauschalabzugs im UVG
+- **Thema**: Einkommensvergleich nach Art. 16 ATSG / Art. 18 UVG; tatsächlicher Lohn versus LSE-Tabellenlohn; Ausschluss von Art. 26bis Abs. 3 IVV im Unfallversicherungsrecht (Bestätigung BGer 8C_254/2025).
+- **Kernaussage**:
+  1. Ist die versicherte Person in einer Verweistätigkeit zu 100 % arbeitsfähig, verbleibt sie jedoch freiwillig in ihrer angestammten Tätigkeit in einem Teilzeitpensum von 75 %, schöpft sie ihre Erwerbsfähigkeit auf dem ausgeglichenen Arbeitsmarkt nicht voll aus. Das Invalideneinkommen ist in diesem Fall nicht anhand des tatsächlichen 75%-Lohns, sondern anhand der LSE-Tabellenlöhne (Median) zu bestimmen (E. 4.2 und 5.3).
+  2. Der in Art. 26bis Abs. 3 IVV normierte 10%-Pauschalabzug gilt im Bereich der Unfallversicherung (UVG) nicht. Im UVG verbleibt es bei der individuellen Prüfung eines leidensbedingten Abzugs nach den Kriterien von BGE 126 V 75 (E. 5.1; Bestätigung von BGer 8C_254/2025 E. 6.3.3).
+- **Einschlägig für**: Art. 16 ATSG; Art. 18 UVG; Art. 26bis Abs. 3 IVV
+
+---
 
 ### [BGE 148 V 174](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-148-V-174_2022.html) — Massgeblichkeit des LSE-Medianlohns
 - **Kernaussage**: Bestätigung des Medianlohns (Zentralwert) als Standardbasis bei der LSE-Bemessung; Ablehnung eines generellen Wechsels zum unteren Quartil Q1 (E. 6.2–6.4).

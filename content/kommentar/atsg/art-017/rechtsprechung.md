@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 17 ATSG — Revision der Invalidenrente und anderer Dauerleistungen"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-08-28
+lastmod: 2026-10-30
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 17 ATSG: Rentenrevision, zeitliche Vergleichsbasis, Revisionsgründe und zweistufige Prüfung."
 tags: ["Rechtsprechung", "ATSG", "Rentenrevision", "Invalidenversicherung", "Dauerleistungen"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 8C_691/2024 vom 17.09.2026 (veröffentlicht am 30.10.2026): Bestätigung von BGer 8C_553/2021 zur Aggravation; neu erkannte Verdeutlichung/Aggravation begründet keinen Revisionsgrund, wenn die objektivierte Arbeitsunfähigkeit unverändert bleibt; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -34,6 +38,15 @@ Zurück zum Kommentar: [Art. 17 ATSG — Revision der Invalidenrente und anderer
 ---
 
 ## II. Weitere Entscheide
+
+### [BGer 8C_691/2024 vom 17.09.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-691-2024_2026-09-17.html) — Aggravation als Revisionsgrund (Bestätigung BGer 8C_553/2021)
+- **Thema**: Nachträglich festgestelltes aggravatorisches Verhalten / Verdeutlichung von Symptomen; Ausschluss eines Revisionsgrunds bei unveränderter objektivierter Arbeitsunfähigkeit
+- **Kernaussage**:
+  1. Wird im Rahmen eines Revisionsverfahrens (z.B. nach einer Observation) ein aggravatorisches Verhalten der versicherten Person festgestellt, begründet dies keinen Revisionsgrund nach Art. 17 Abs. 1 ATSG, sofern die medizinischen Sachverständigen in der Lage waren, die organischen Befunde zuverlässig von den Verdeutlichungen abzugrenzen und die verbleibende Arbeitsunfähigkeit objektiviert zu beziffern (E. 5.3; Bestätigung von BGer 8C_553/2021 E. 6.3.3).
+  2. Nur wenn ein aggravatorisches Verhalten eine zuverlässige ärztliche Befunderhebung von vornherein verunmöglicht (Beweisnotstand), kann dies leistungsrelevant werden. Bleibt die durch die Ärzte um die Aggravation bereinigte Arbeitsunfähigkeit gegenüber dem Referenzzeitpunkt unverändert, fehlt es an einer revisionsbegründenden Tatsachenänderung.
+- **Einschlägig für**: Art. 17 Abs. 1 ATSG; Art. 6 ATSG; Art. 7 Abs. 2 ATSG
+
+---
 
 ### [BGE 133 V 545](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-133-V-545_2007.html) — Erheblichkeit bei Schwellenübertritt
 - **Kernaussage**: Auch eine rechnerisch geringe Änderung des Invaliditätsgrades begründet einen Revisionsanspruch, wenn dadurch eine rentenrelevante Schwelle überschritten wird (E. 3).

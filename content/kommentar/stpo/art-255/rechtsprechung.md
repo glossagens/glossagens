@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 255 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-09-16
+lastmod: 2026-10-30
 description: "Übersicht der Rechtsprechung zu Art. 255 StPO: Leitentscheide des Bundesgerichts sowie Bundesgerichts- und Kantonsgerichtsurteile zu DNA-Probenahme, CODIS-Profilierung, Schwellenwerten, Polizeikompetenzen und Löschungsfristen."
 tags: ["Rechtsprechung", "StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Verhältnismässigkeit", "Polizei", "Zwangsmassnahmen"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 7B_1056/2025 und 7B_1197/2025 vom 14.10.2026 (veröffentlicht am 30.10.2026): Zwingende Ermittlung und Begründung der bisherigen Löschfrist (IPAS) bei erneuter DNA-Profilierung nach Art. 255 Abs. 1bis StPO; Volltexte auf entscheidsuche.ch verifiziert."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -57,6 +61,16 @@ revisions:
 ---
 
 ## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 7B_1056/2025 vom 14. Oktober 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1056-2025_2026-10-14.html) E. 3 & [BGer 7B_1197/2025 vom 14. Oktober 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1197-2025_2026-10-14.html) E. 4
+- **Thema**: Erneute DNA-Profil-Erstellung nach Art. 255 Abs. 1bis StPO; Pflicht zur Feststellung der bisherigen Löschfrist im IPAS; Verhältnismässigkeit
+- **Sachverhalt**: Gegen vorbestrafte Beschuldigte wurde wegen neuer Vergehen (u.a. Ausbruch aus Haft bzw. Betäubungsmittelvergehen) erneut die Entnahme eines Wangenabstrichs und die DNA-Profilierung für CODIS angeordnet. Von beiden Beschuldigten existierten bereits frühere DNA-Profile im System. Die Genfer Vorinstanz schützte die Neuanordnungen schematisch.
+- **Kernaussage**:
+  1. Ist eine beschuldigte Person bereits mit einem DNA-Profil im automatisierten Informationssystem registriert, muss die Strafbehörde vor einer erneuten Profilierung nach Art. 255 Abs. 1bis StPO zwingend die massgebliche Löschfrist des bestehenden Profils im System IPAS ermitteln und in der Verfügung begründen (E. 3 bzw. E. 4).
+  2. Nur bei Kenntnis der noch verbleibenden Speicherungsdauer lässt sich beurteilen, ob eine Neuanordnung zur Verhinderung künftiger Straftaten verhältnismässig und erforderlich ist. Unterlässt die Vorinstanz diese Prüfung, leidet der Entscheid an einem unvollständigen Sachverhalt und einer Verletzung der Begründungspflicht (Art. 112 BGG); Aufhebung und Rückweisung.
+- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 StPO; Art. 112 BGG; Art. 29 Abs. 2 BV
+
+---
 
 ### [BGer 7B_176/2023 vom 24. Mai 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-176-2023_2024-05-24.html) E. 3.3 f.
 - **Thema**: Ungeeignetheit des DNA-Beweises bei Cyberkriminalität, Ransomware-Erpressung und Geldwäscherei

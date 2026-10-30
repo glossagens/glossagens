@@ -2,10 +2,14 @@
 title: "Art. 70 StGB — Einziehung von Vermögenswerten. Grundsätze"
 weight: 70
 date: 2026-08-08
-lastmod: 2026-10-15
+lastmod: 2026-10-30
 description: "Praxisorientierter Kommentar zu Art. 70 StGB: Einziehung deliktischer Vermögenswerte (Abs. 1), Brutto- und Nettoprinzip, Schutz und Beschlagnahme bei Dritten (Abs. 2), Verjährung (Abs. 3), Bekanntmachung (Abs. 4), Schätzung (Abs. 5) sowie umfassende Kasuistik."
 tags: ["StGB", "Einziehung", "Vermögensabschöpfung", "Bruttoprinzip", "Nettoprinzip", "Drittschutz", "Schätzung", "Kasuistik", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 6B_365/2026 vom 29.09.2026 (veröffentlicht am 30.10.2026): Ersparte Mietaufwendungen als einziehbarer Vorteil (Art. 70 Abs. 1 StGB), Ausschluss des Drittschutzes nach Abs. 2 bei Direktbegünstigten juristischen Personen, Wissenszurechnung und Unanwendbarkeit der Unschuldsvermutung; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -51,7 +55,7 @@ revisions:
 - Bargeld, Devisen, Edelmetalle und Wertpapiere;
 - Buchgeld, Kontoguthaben, Treuhandforderungen und Krypto-Assets (Bitcoins, Tokens);
 - Grundstücke, Baurechte und dingliche Rechte;
-- Ersparte Aufwendungen (z.B. unrechtmässig vermiedene Sanierungs- oder Entsorgungskosten);
+- Ersparte Aufwendungen (*économie indue*, z.B. unrechtmässig vermiedene Sanierungs- oder Entsorgungskosten sowie missbräuchlich ersparte Mietzinse; vgl. [BGer 6B_365/2026 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-365-2026_2026-09-29.html));
 - Zinsen, Erträge, Dividenden und Surrogate, sofern ein hinreichend enger, adäquater Kausalzusammenhang zur Straftat fortbesteht ([BGE 141 IV 317 E. 5.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-317_2015.html)).
 
 ### 2. Differenzierung nach der Herkunft: Deliktsertrag, Tatlohn und Tatmittel
@@ -113,8 +117,14 @@ Wer deliktische Vermögenswerte unentgeltlich oder zu einem offensichtlichen Sch
 3. *Substanziierter Begünstigungsnachweis*: Die Strafbehörde muss darlegen, dass deliktische Gelder an die Drittgesellschaft flossen oder diese wirtschaftlich begünstigt wurde.
 4. *Prüfung des Gutglaubensschutzes (Art. 70 Abs. 2 StGB)*: Unkenntnis der Einziehungsgründe und Erbringung einer gleichwertigen Gegenleistung schliessen Massnahmen aus.
 
-### 4. Wirtschaftlicher Durchgriff bei juristischen Personen
-**13** Ein Durchgriff von der juristischen Person auf die dahinterstehenden Personen (oder umgekehrt) ist nach [BGE 147 IV 479 E. 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-479_2021.html) nur unter engen Voraussetzungen zulässig:
+### 4. Direktbegünstigte juristische Personen und Ausschluss von Art. 70 Abs. 2 StGB (BGer 6B_365/2026)
+**13** Das Bundesgericht differenziert strikt zwischen nachträglichen **Dritterwerbern** (*tiers acquéreurs*) und **Direktbegünstigten** (*bénéficiaires directs*) einer Straftat:
+- **Kein Gutglaubensschutz für Direktbegünstigte**: Der Schutz von Art. 70 Abs. 2 StGB greift ausschliesslich zugunsten von Dritten, die Vermögenswerte nachträglich vom Täter erworben haben. Erlangt eine Drittgesellschaft den deliktischen Vermögensvorteil (wie ersparte Mietkosten durch missbräuchlich verbilligte Mietverträge) unmittelbar als direkte Begünstigte der Anlasstat (z.B. qualifizierte ungetreue Geschäftsführung), ist Art. 70 Abs. 2 StGB von vornherein unanwendbar ([BGer 6B_365/2026 vom 29. September 2026 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-365-2026_2026-09-29.html); vgl. [BGE 141 IV 317 E. 5.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-317_2015.html)).
+- **Wissenszurechnung von Organen und Vertretern**: Das deliktische Wissen und die Bösgläubigkeit der handelnden Personen (Unterzeichner, Prokuristen, faktische Organe) werden der juristischen Person vollumfänglich zugerechnet ([BGer 6B_365/2026 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-365-2026_2026-09-29.html)).
+- **Unanwendbarkeit der Unschuldsvermutung**: Die strafprozessuale Unschuldsvermutung (Art. 10 StPO, Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) gilt im Einziehungs- und Ersatzforderungsverfahren gegen Dritten nicht; der Richter prüft den Begünstigungsnachweis und die Deliktseigenschaft autonom ([BGer 6B_365/2026 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-365-2026_2026-09-29.html)).
+
+### 5. Wirtschaftlicher Durchgriff bei juristischen Personen
+**14** Ein Durchgriff von der juristischen Person auf die dahinterstehenden Personen (oder umgekehrt) ist nach [BGE 147 IV 479 E. 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-479_2021.html) nur unter engen Voraussetzungen zulässig:
 - Das Alleineigentum an den Aktien genügt für einen Durchgriff nicht.
 - Erforderlich sind Umstände, welche die Berufung auf die rechtliche Selbstständigkeit als rechtsmissbräuchlich (Art. 2 Abs. 2 ZGB) erscheinen lassen.
 - Dies ist der Fall bei **reinen Sitz- oder Vermögensverwaltungsgesellschaften (Briefkastenfirmen)** ohne operative Geschäftstätigkeit, die als reines «alter ego» des Täters dienen.

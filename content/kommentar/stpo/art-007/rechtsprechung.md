@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 7 StPO"
 weight: 99
 date: 2026-05-24
-lastmod: "2026-09-24"
+lastmod: "2026-10-30"
 description: "Leitentscheide und systematische Rechtsprechung zu Art. 7 StPO: Verfolgungszwang, Ermächtigungsvorbehalt, parlamentarische Immunität, in dubio pro duriore und kantonale Praxis."
 tags: ["Rechtsprechung", "StPO", "Verfolgungszwang", "Offizialmaxime", "Ermächtigungsvorbehalt", "in dubio pro duriore", "Nichtanhandnahme"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 1C_539/2025 vom 13.10.2026 (veröffentlicht am 30.10.2026): Private Gerichtsgutachter unterstehen nicht dem Ermächtigungsvorbehalt nach Art. 7 Abs. 2 lit. b StPO; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-09-24
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -67,6 +71,18 @@ revisions:
 ---
 
 ## II. Weitere Entscheide des Bundesgerichts
+
+### [BGer 1C_539/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-539-2025_2026-10-13.html) — Bundesgericht, 13. Oktober 2026
+- **Thema**: Ausschluss privater Gerichtsgutachter vom Ermächtigungsvorbehalt (Art. 7 Abs. 2 lit. b StPO)
+- **Sachverhalt**: Anzeiger erhoben Strafanzeige gegen eine Kreisgerichtspräsidentin und einen von dieser ernannten privaten Sachverständigen (Vorsitzender der Geschäftsführung einer Schätzungs-GmbH) wegen Beihilfe zu versuchtem Wucher. Die kantonale Anklagekammer St. Gallen behandelte die Anzeige gegen beide als ermächtigungspflichtig und verweigerte die Ermächtigung.
+- **Kernaussage**:
+  1. Private gerichtliche Gutachter und Sachverständige fallen nicht unter den Begriff der «Mitglieder von Vollziehungs- und Gerichtsbehörden» gemäss Art. 7 Abs. 2 lit. b StPO (E. 3.2).
+  2. Selbst wenn private Sachverständige im Prozess ähnlichen Ausstandsvorschriften wie Gerichtspersonen unterstehen, fehlt es an einem öffentlich-rechtlichen Amts- oder Dienstverhältnis. Der Ermächtigungsvorbehalt schützt ausschliesslich institutionelle Funktionsträger vor Schikane zur Sicherung des Funktionierens staatlicher Stellen; er gilt nicht für ausgelagerte Private.
+  3. Gegen private Gutachter kann direkt und ohne Durchführung eines kantonalen Ermächtigungsverfahrens Strafanzeige erstattet werden; der kantonale Nichteintretensbeschluss ist bundesrechtswidrig (E. 3.3 f.).
+- **Einschlägig für**: Art. 7 Abs. 2 lit. b StPO; Art. 183 ZPO; Art. 184 StPO
+→ [BGer 1C_539/2025 vom 13. Oktober 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-539-2025_2026-10-13.html)
+
+---
 
 ### BGer 1C_57/2018 — Bundesgericht, 19. November 2018
 - **Thema**: Prüfmassstab im Ermächtigungsverfahren; Amtsmissbrauch durch Unterlassung bei Aufsichtsbehörden

@@ -2,10 +2,14 @@
 title: "Art. 7 StPO — Verfolgungszwang"
 weight: 7
 date: "2026-05-09"
-lastmod: 2026-10-15
+lastmod: 2026-10-30
 description: "Praxiskommentar zu Art. 7 StPO: Verfolgungszwang und Offizialmaxime, Anfangsverdacht und in dubio pro duriore, kantonale parlamentarische Immunität (Abs. 2 lit. a) sowie Ermächtigungsvorbehalt für Behördenmitglieder und Beamte (Abs. 2 lit. b) mit zweiseitiger Grenzkasuistik, Schwellenwerten und bundesgerichtlichem Rechtsmittelweg."
 tags: ["StPO", "Verfolgungszwang", "Offizialmaxime", "Ermächtigungsvorbehalt", "Beamte", "Immunität", "in dubio pro duriore", "Anfangsverdacht", "Amtsdelikte", "Nichtanhandnahme", "Einstellung", "Amtsmissbrauch"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 1C_539/2025 vom 13.10.2026 (veröffentlicht am 30.10.2026): Private Gerichtsgutachter unterstehen nicht dem Ermächtigungsvorbehalt nach Art. 7 Abs. 2 lit. b StPO; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -178,13 +182,16 @@ In der Praxis stellte sich die Frage, ob der Schutz der parlamentarischen Immuni
 
 Art. 7 Abs. 2 lit. b StPO ermächtigt die Kantone, die Strafverfolgung von Mitgliedern ihrer Vollziehungs- und Gerichtsbehörden wegen im Amt begangener Verbrechen oder Vergehen von der Ermächtigung einer Behörde abhängig zu machen.
 
-Als **Vollziehungsbehörden** gelten alle staatlichen Organisationen, die öffentliche Aufgaben wahrnehmen. Dazu gehören Polizeibeamte, Staatsanwälte, Richter, Vollzugsbeamte und kommunale Funktionsträger ([BGE 137 IV 269 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_IV_269#e-2-1)).
+Als **Vollziehungsbehörden** gelten alle staatlichen Organisationen, die öffentliche Aufgaben wahrnehmen. Dazu gehören Polizeibeamte, Staatsanwälte, Richter, Vollzugsbeamte und kommunale Funktionsträger ([BGE 137 IV 269 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-IV-269_2011.html)).
 
 **Keine Ausdehnung auf Private:** Das Bundesgericht schiebt kantonalen Bestrebungen, den Schutz auf ausgelagerte private Anbieter auszudehnen, einen Riegel vor:
 
-> **COVID-19-Schutzmassnahmen in Rückkehrzentren ([BGE 149 IV 183](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_183))**  
+> **COVID-19-Schutzmassnahmen in Rückkehrzentren ([BGE 149 IV 183](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-183_2023.html))**  
 > Asylsuchende erstatteten Strafanzeige gegen Regierungsrat Mario Fehr, kantonale Sozialamtsleiter und leitende Angestellte der privaten ORS Service AG wegen Aussetzens und Körperverletzung. Ihnen wurde vorgeworfen, im Frühjahr 2020 bundesrechtliche Pandemieschutzmassnahmen in den Rückkehrzentren nicht umgesetzt zu haben. Das Obergericht Zürich verweigerte die Ermächtigung für alle Angeschuldigten gestützt auf § 148 GOG/ZH.  
-> **Grundsatzurteil des Bundesgerichts:** Das Ermächtigungserfordernis gilt **grundsätzlich nicht für Privatpersonen**, denen öffentliche Aufgaben übertragen wurden. Private Dienstleister sind keine «Behörden» im Sinne von Art. 7 Abs. 2 lit. b StPO. Der Verweis des kantonalen Rechts auf den funktionellen Beamtenbegriff nach Art. 110 Abs. 3 StGB darf die bundesrechtlichen Grenzen nicht übersteuern ([BGE 149 IV 183 E. 3.4.1 und E. 3.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_183#e-3-4-1)).
+> **Grundsatzurteil des Bundesgerichts:** Das Ermächtigungserfordernis gilt **grundsätzlich nicht für Privatpersonen**, denen öffentliche Aufgaben übertragen wurden. Private Dienstleister sind keine «Behörden» im Sinne von Art. 7 Abs. 2 lit. b StPO. Der Verweis des kantonalen Rechts auf den funktionellen Beamtenbegriff nach Art. 110 Abs. 3 StGB darf die bundesrechtlichen Grenzen nicht übersteuern ([BGE 149 IV 183 E. 3.4.1 und E. 3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-183_2023.html)).
+
+**Private Gerichtsgutachter unterstehen nicht dem Ermächtigungsvorbehalt ([BGer 1C_539/2025 vom 13. Oktober 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-539-2025_2026-10-13.html)):**  
+In Weiterführung und Konkretisierung von BGE 149 IV 183 hat das Bundesgericht klargestellt, dass **private gerichtliche Sachverständige (Gutachter)** nicht unter den persönlichen Anwendungsbereich von Art. 7 Abs. 2 lit. b StPO fallen. Selbst wenn ein privater Gutachter von einem Gericht formell mit der Erstellung einer Expertise beauftragt wird und er prozessual denselben Ausstandsregeln wie Richter untersteht (Art. 56 lit. f i.V.m. Art. 184 Abs. 1 StPO bzw. Art. 47 Abs. 1 lit. f i.V.m. Art. 183 Abs. 2 ZPO), steht er in keinem beamtenrechtlichen Verhältnis zur Gerichtsbehörde. Der Ermächtigungsvorbehalt dient ausschliesslich dem institutionellen Schutz ständiger Behördenmitglieder und Beamter vor querulatorischen Anzeigen zur Gewährleistung der behördlichen Funktionsfähigkeit. Strafanzeigen gegen private Sachverständige (z.B. wegen Gefälligkeitsgutachten oder Beihilfe zu Vermögensdelikten) unterstehen keinem kantonalen Ermächtigungsvorbehalt; die Strafverfolgung ist direkt an die Hand zu nehmen ([E. 3.2–3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-539-2025_2026-10-13.html)).
 
 #### 2. Sachlicher Geltungsbereich: «Wegen im Amt begangener Verbrechen oder Vergehen»
 

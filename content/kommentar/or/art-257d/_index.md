@@ -2,10 +2,14 @@
 title: "Art. 257d OR — Zahlungsrückstand des Mieters"
 weight: 257
 date: 2026-10-08
-lastmod: 2026-10-15
+lastmod: 2026-10-30
 description: "Praxiskommentar zu Art. 257d OR: Zahlungsrückstand des Mieters — Zahlungsfrist und Kündigungsandrohung, Kündigung, relative Empfangstheorie, Abwendungsgründe (Zahlung, Verrechnung, Hinterlegung), Grenzkasuistik und Ausweisung im Rechtsschutz in klaren Fällen (Art. 257 ZPO)."
 tags: ["OR", "Mietrecht", "Zahlungsrückstand", "Zahlungsfrist", "Kündigungsandrohung", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung", "Mietzinshinterlegung", "Familienwohnung"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 4A_589/2025 vom 27.08.2026 (veröffentlicht am 30.10.2026): Zurechnung von Bankfehlern bei Zahlungsaufträgen als Erfüllungsgehilfe (ausiliario) und restriktive Handhabung der Treuwidrigkeitsschranke (Art. 271 Abs. 1 OR); Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -218,6 +222,12 @@ Grundsätzlich sind Geldschulden Bringschulden (Art. 74 Abs. 2 Ziff. 1 OR); das 
 
 #### Sachverhalt: Die Zahlung am Postschalter kurz vor Fristende
 Vermieter mahnten Pächter eines Restaurants wegen eines Mietzinsrückstands von Fr. 5'200.- mit Frist bis Montag, 2. Juni 1997, unter Kündigungsandrohung ab und legten Einzahlungsscheine bei. Am Freitag, 30. Mai 1997 um 10.00 Uhr bezahlten die Mieter den vollen Betrag am Schalter der Post ein. Die Gutschrift auf dem Bankkonto des Anwalts erfolgte erst am Dienstag, 3. Juni 1997 (einen Tag nach Fristablauf). Die Vermieter kündigten gestützt auf Art. 257d Abs. 2 OR. Das Bundesgericht erklärte die Kündigung für ungültig: Mit dem Einzahlungsschein wurde die Post als Zahlstelle bezeichnet; die Mieter durften darauf vertrauen, dass die Übergabe am Schalter fristwahrend ist. Spätere bankinterne Buchungsverzögerungen gehen zulasten des Gläubigers ([BGE 124 III 145 E. 2a–b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-124-III-145_1998-03-20.html#consideration_2a)).
+
+#### Abgrenzung: Banküberweisung, Zahlungsauftrag und Zurechnung von Bankfehlern
+Vollkommen anders verhält es sich, wenn der Mieter die Zahlung über seine Bank (z.B. per Dauerauftrag oder Einzelzahlungsauftrag) abzuwickeln versucht:
+- **Zurechnung als Erfüllungsgehilfe**: Die beauftragte Bank ist Hilfsperson bzw. Erfüllungsgehilfe (*ausiliario*) des Mieters. Verzögerungen, technische Pannen oder fehlerhafte Nichtausführungen der Bank werden dem Mieter vollumfänglich zugerechnet. Wer einen Bankdienst in Anspruch nimmt, trägt das Risiko des Scheiterns oder der verspäteten Ausführung ([BGer 4A_589/2025 vom 27. August 2026 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-589-2025_2026-08-27.html); unter Verweis auf [BGer 1C_506/2025 vom 17. April 2026 E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-506-2025_2026-04-17.html)).
+- **Keine Heilung durch guten Glauben**: Der blosse Glaube des Mieters, der Zahlungsauftrag sei fristgerecht ausgeführt worden, entlastet ihn nicht. Erteilt der Mieter zwar rechtzeitig einen Zahlungsauftrag, führt die Bank diesen jedoch infolge eines internen Fehlers nicht aus und geht der Mietzins nicht innert der 30 Tage auf dem Konto des Vermieters ein, ist die ausserordentliche Kündigung formell gültig ([BGer 4A_589/2025 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-589-2025_2026-08-27.html)).
+- **Restriktive Schranke von Treu und Glauben (Art. 271 Abs. 1 OR)**: Die Kündigung wegen Zahlungsrückstands verstösst nur unter extrem restriktiven Ausnahmebedingungen gegen Treu und Glauben. Zwar kann Rechtsmissbrauch vorliegen, wenn ein Mieter stets pünktlich zahlte und die Zahlung nur um wenige Tage nach Fristende eintrifft (vgl. [BGer 4A_634/2009 vom 3. März 2010 E. 2.2.3](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=03.03.2010_4A_634/2009)). War der Mieter jedoch bereits im Vorjahr mehrfach säumig, scheidet ein Gutglaubensschutz aus; den Vermieter trifft vor Ablauf der Zahlungsfrist auch keinerlei Pflicht, beim Mieter nachzufragen oder diesen zu warnen ([BGer 4A_589/2025 E. 5.1–5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-589-2025_2026-08-27.html)).
 
 #### 2. Die Verrechnungseinrede
 Der Mieter kann den Rückstand durch Verrechnung mit einer eigenen fälligen Gegenforderung gegen den Vermieter tilgen ([Art. 120 OR](../art-120/)). Hierbei gelten zwei strikte Hürden:

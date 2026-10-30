@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 257d OR — Zahlungsrückstand des Mieters"
 weight: 99
 date: 2026-10-08
-lastmod: 2026-10-08
+lastmod: 2026-10-30
 description: "Systematische Übersicht der Rechtsprechung zu Art. 257d OR: Zahlungsrückstand des Mieters — Bundesgerichtliche Leitentscheide (BGE) und kantonale Gerichtspraxis zu Zahlungsansetzung, relativer Empfangstheorie, Verrechnung, Hinterlegung, verfrühter Kündigung und Mieterausweisung (Art. 257 ZPO)."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Zahlungsrückstand", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 4A_589/2025 vom 27.08.2026 (veröffentlicht am 30.10.2026): Zurechnung von Bankfehlern bei Zahlungsaufträgen an den Mieter und restriktive Anforderungen an Treuwidrigkeit nach Art. 271 Abs. 1 OR; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -161,6 +165,17 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide (BGE) sowie weit
 - **Thema**: Mieterausweisung nach Zahlungsverzugskündigung; Substantiierungsanforderungen im summarischen Verfahren
 - **Kernaussage**: Bestätigung der Mieterausweisung im summarischen Verfahren nach unbenütztem Ablauf der 30-tägigen Frist von Art. 257d OR. Auf rein appellatorische Kritik der Mieterin an den Sachverhaltsfeststellungen der kantonalen Vorinstanzen tritt das Bundesgericht nicht ein (Art. 108 Abs. 1 lit. b BGG).
 - **Einschlägig für**: Art. 257d Abs. 2 OR; Art. 257 ZPO; Art. 42 Abs. 2 BGG
+
+---
+
+### [BGer 4A_589/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-589-2025_2026-08-27.html) (27. August 2026)
+- **Thema**: Zahlungsverzugskündigung trotz erteiltem Banküberweisungsauftrag; Zurechnung von Bankfehlern; Schranke von Treu und Glauben (Art. 271 Abs. 1 OR)
+- **Kernaussage**:
+  1. Die beauftragte Bank ist Hilfsperson bzw. Erfüllungsgehilfe (*ausiliario*) des Mieters. Fehler und Verzögerungen der Bank bei der Ausführung eines Zahlungsauftrags werden dem Mieter vollumfänglich zugerechnet; wer einen Bankdienst in Anspruch nimmt, trägt das Risiko der Nicht- oder verspäteten Ausführung (E. 5.2).
+  2. Erteilt der Mieter rechtzeitig einen Zahlungsauftrag, führt die Bank diesen jedoch infolge eines internen Fehlers nicht aus und geht der Betrag nicht innert der 30-tägigen Frist beim Vermieter ein, ist die Kündigung nach Art. 257d Abs. 2 OR rechtsgültig (E. 5.2).
+  3. Die Kündigung wegen Zahlungsrückstands ist nur unter äusserst restriktiven Ausnahmebedingungen treuwidrig (Art. 271 Abs. 1 OR). Hatte der Mieter im Vorfeld bereits wiederholt verspätet bezahlt, scheidet Rechtsmissbrauch des Vermieters aus. Den Vermieter trifft vor Ablauf der Zahlungsfrist auch keinerlei Pflicht zur Nachfrage oder Vorwarnung (E. 5.1 und 5.3).
+- **Konkreter Sachverhalt**: Mietverhältnis über einen Campingplatz im Tessin; Mieter erteilte nach Abmahnung wegen CHF 10'500.- Mietzinsausstand einen Zahlungsauftrag an seine Bank, der wegen eines Bankfehlers nicht verbucht wurde. Ausserordentliche Kündigung nach Fristablauf hielt vor Bundesgericht stand.
+- **Einschlägig für**: Art. 257d Abs. 1 und 2 OR; Art. 271 Abs. 1 OR; Art. 101 OR
 
 ---
 

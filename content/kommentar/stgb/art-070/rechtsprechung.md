@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 70 StGB"
 weight: 99
 date: 2026-08-08
-lastmod: 2026-08-29
+lastmod: 2026-10-30
 description: "Umfassende Rechtsprechungsübersicht zu Art. 70 StGB: Leitentscheide des Bundesgerichts und kantonale Urteile zu Bruttoprinzip, Nettoprinzip, Drittschutz, Schätzung, Solidaritätsverbot und Drittbeschlagnahmen."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Vermögensabschöpfung", "Bruttoprinzip", "Nettoprinzip", "Drittschutz", "Kasuistik", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 6B_365/2026 vom 29.09.2026 (veröffentlicht am 30.10.2026): Ersparte Mietkosten als einziehbarer Vorteil, Ausschluss von Art. 70 Abs. 2 StGB bei Direktbegünstigten juristischen Personen und Wissenszurechnung; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -117,6 +121,18 @@ revisions:
 ---
 
 ## II. Weitere Entscheide des Bundesgerichts und kantonaler Gerichte
+
+### [BGer 6B_365/2026 vom 29.09.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-365-2026_2026-09-29.html) — Ersparte Aufwendungen als einziehbarer Vorteil; Ausschluss von Art. 70 Abs. 2 StGB bei Direktbegünstigten
+- **Thema**: Einziehung und Ersatzforderung (Art. 70/71 StGB); ungetreue Geschäftsführung durch Überlassung von Geschäftsräumen zu Unterpreis; juristische Person als Direktbegünstigte; Wissenszurechnung; Unanwendbarkeit der Unschuldsvermutung.
+- **Kernaussage**:
+  1. Als durch eine Straftat erlangter Vermögenswert nach Art. 70 Abs. 1 StGB gelten auch ersparte Aufwendungen (*économie indue*), insbesondere die Einsparung marktüblicher Mietzinse durch missbräuchliche Festlegung weit unter Marktwert (E. 3.4).
+  2. Der Gutglaubensschutz nach Art. 70 Abs. 2 StGB steht ausschliesslich Dritten zu, die Vermögenswerte nachträglich vom Täter erworben haben (*tiers acquéreurs*). Erlangt eine Gesellschaft den deliktischen Vorteil direkt als Primärbegünstigte der Straftat (*bénéficiaire direct*), ist Abs. 2 unanwendbar (E. 3.2).
+  3. Das deliktische Wissen und Verhalten der handelnden Organe und Vertreter werden der Gesellschaft direkt zugerechnet (E. 3.4).
+  4. Die strafprozessuale Unschuldsvermutung (Art. 10 StPO, Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) findet im Einziehungs- und Ersatzforderungsverfahren gegen Dritten keine Anwendung; der Einziehungsrichter prüft den Sachverhalt autonom (E. 4.2).
+- **Konkreter Sachverhalt**: Haupttäter (Verwalter) überliess einer Immobiliengesellschaft (A. SA) Wohn- und Gewerberäume zu einem Spottpreis, welche diese gewinnbringend weitervermietete. Nach dem Tod des Täters: Bestätigung einer staatlichen Ersatzforderung von über CHF 540'000.- gegen die A. SA.
+- **Einschlägig für**: Art. 70 Abs. 1 und 2 StGB; Art. 71 Abs. 1 StGB; Art. 10 StPO
+
+---
 
 ### [BGer 7B_1425/2025 vom 10.08.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1425-2025_2026-08-10.html) E. 2.4 — Unzulässigkeit von Drittbeschlagnahmen bei blossen wirtschaftlichen Verbindungen
 - **Thema**: Verletzung der Begründungspflicht (Art. 112 BGG); Beschlagnahme von Liegenschaften einer Drittgesellschaft bei Minderheitsbeteiligung (18,4 %) und VR-Mandat.

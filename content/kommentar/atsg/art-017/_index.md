@@ -2,10 +2,14 @@
 title: "Art. 17 ATSG — Revision der Invalidenrente und anderer Dauerleistungen"
 weight: 17
 date: 2026-05-15
-lastmod: 2026-10-15
+lastmod: 2026-10-30
 description: "Kommentar zu Art. 17 ATSG: Voraussetzungen der Rentenrevision, 5-Prozentpunkte-Schwelle, zeitliche Vergleichsbasis, zweistufige Prüfung und Abgrenzung zur Wiedererwägung."
 tags: ["Rentenrevision", "Invalidenversicherung", "Sachverhaltsänderung", "ATSG", "Sozialversicherungsrecht"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 8C_691/2024 vom 17.09.2026 (veröffentlicht am 30.10.2026): Bestätigung von BGer 8C_553/2021 zur Aggravation; neu erkannte Verdeutlichung/Aggravation begründet keinen Revisionsgrund, wenn die objektivierte Arbeitsunfähigkeit unverändert bleibt; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -41,6 +45,8 @@ revisions:
 **6** **Gesundheitliche Veränderung vs. abweichende ärztliche Beurteilung.** Eine Revision setzt eine tatsächliche Veränderung des Gesundheitszustands oder der funktionellen Leistungsfähigkeit voraus. Eine bloss abweichende medizinische Beurteilung eines im Wesentlichen unveränderten Leidensbildes stellt keinen Revisionsgrund dar ([BGE 141 V 9 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-9_2015.html); [BGE 133 V 108 E. 5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-133-V-108_2007.html)).
 
 **7** **Diagnosekontinuität und Dekompensation.** Das Fortbestehen derselben Diagnosebezeichnung schliesst eine Sachverhaltsänderung nicht aus. Entscheidend ist die reale Befundveränderung: Geht eine kompensierte psychiatrische Störung in eine schwere Dekompensation über, liegt ein Revisionsgrund vor ([BGer 8C_261/2025 vom 28.04.2026 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-261-2025_2026-04-28.html)).
+
+**7a** **Aggravation und Verdeutlichung (BGer 8C_691/2024).** Ein neu festgestelltes aggravatorisches Verhalten (z.B. Verdeutlichung oder Übertreibung von Symptomen) begründet für sich allein **keinen Revisionsgrund**, sofern die medizinischen Sachverständigen in der Lage waren, die tatsächlichen organischen Befunde zuverlässig von der Aggravation abzugrenzen und die objektivierte Arbeitsunfähigkeit unverändert geblieben ist ([BGer 8C_691/2024 vom 17. September 2026 E. 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-691-2024_2026-09-17.html); in Bestätigung von [BGer 8C_553/2021 vom 13. April 2023 E. 6.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-553-2021_2023-04-13.html)). Nur wenn das Verhalten eine zuverlässige ärztliche Befunderhebung von vornherein verunmöglicht (Beweisnotstand), kann dies leistungsrelevant werden.
 
 **8** **Erwerbliche Veränderungen und Anpassung.** Revisionsgründe können auch erwerblicher Natur sein (z.B. erfolgreiche Selbsteingliederung, Gewöhnung an das Leiden mit verbesserter Arbeitsleistung, [BGer 8C_384/2022 vom 09.11.2022 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-384-2022_2022-11-09.html)).
 

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 19 BetmG"
 weight: 99
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-10-30
 description: "Übersicht der Rechtsprechung zu Art. 19 BetmG – Grundtatbestände, Anstaltentreffen, Mengenschwellen, Banden- und Gewerbsmässigkeit sowie Strafmilderung und Territorialität."
 tags: ["Rechtsprechung", "BetmG", "Mengenschwelle", "Gewerbsmässigkeit", "Bandenmässigkeit", "Anstaltentreffen", "Landesverweisung"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 6B_264/2026 vom 17.09.2026 (veröffentlicht am 30.10.2026): Mengenkumulation bei Art. 19 Abs. 2 lit. a BetmG ohne einheitlichen Tatentschluss und Tateinheit, Handhabung des Anklageprinzips und obligatorische Landesverweisung (Art. 66a StGB); Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-09-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -71,6 +75,17 @@ revisions:
 ---
 
 ## II. Weitere Entscheide (Bundesgericht und kantonale Gerichte)
+
+### [BGer 6B_264/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-264-2026_2026-09-17.html) (17. September 2026)
+- **Thema**: Mengenkumulation ohne einheitlichen Tatentschluss (Präzisierung BGE 150 IV 213); Anklagegrundsatz; obligatorische Landesverweisung
+- **Kernaussage**:
+  1. In Anwendung und Bestätigung von BGE 150 IV 213 sind die Betäubungsmittelmengen sämtlicher gleichzeitig zu beurteilender Handlungen (hier Vorratslagerung im Keller und Teilverkäufe) auch dann zusammenzurechnen, wenn weder ein einheitlicher Tatentschluss noch eine Tateinheit vorliegt (E. 4.2).
+  2. Sind in der Anklageschrift einzelne Handlungsmodalitäten (wie das Portionieren oder Abpacken) nicht gesondert nachgewiesen, gebietet das Anklageprinzip (Art. 9 StPO) keinen Teilfreispruch, sofern der Gesamttatbestand durch das Lagern der qualifizierten Menge erfüllt ist (E. 2).
+  3. Bei einer Verurteilung wegen Art. 19 Abs. 2 BetmG greift die obligatorische Landesverweisung nach Art. 66a Abs. 1 lit. o StGB grundsätzlich zwingend; auch Staatsangehörige eines EU-Mitgliedstaates können sich bei schwerer Betäubungsmittelkriminalität nicht auf das Freizügigkeitsabkommen (FZA) berufen (E. 6).
+- **Konkreter Sachverhalt**: Beschuldigter lagerte im Keller 263 g Reinheroin und 299 g Reinkokain und verkaufte Teilmengen (5,9 g Heroin). Verurteilung wegen mengenmässig qualifizierter Widerhandlung und 7 Jahre Landesverweisung bestätigt.
+- **Einschlägig für**: Art. 19 Abs. 2 lit. a BetmG; Art. 66a Abs. 1 lit. o StGB; Art. 9 StPO
+
+---
 
 ### BGE 117 IV 309
 - **Fundstelle**: [BGE 117 IV 309](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-117-IV-309_1991-08-29.html) (Urteil des Kassationshofes vom 29. August 1991)

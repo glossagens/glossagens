@@ -2,10 +2,14 @@
 title: "Art. 19 BetmG — Widerhandlungen und qualifizierte Fälle"
 weight: 19
 date: 2026-09-06
-lastmod: 2026-10-15
+lastmod: 2026-10-30
 description: "Praxiskommentar zu Art. 19 BetmG: Grundtatbestände des Betäubungsmittelhandels, Anstaltentreffen, Mengenschwellen und Kumulationsprinzip bei wiederholten Einzelhandlungen (BGE 150 IV 213), Banden- und Gewerbsmässigkeit, gesetzliche Strafmilderung bei Eigenkonsumfinanzierung sowie Konkurrenzen und obligatorische Landesverweisung."
 tags: ["BetmG", "Betäubungsmittel", "Drogenhandel", "Mengenschwelle", "Gewerbsmässigkeit", "Bandenmässigkeit", "Anstaltentreffen", "Schwerer Fall", "Landesverweisung"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 6B_264/2026 vom 17.09.2026 (veröffentlicht am 30.10.2026): Bestätigung und Präzisierung der Mengenkumulation gemäss BGE 150 IV 213 (kein einheitlicher Tatentschluss oder Tateinheit erforderlich), Handhabung von Teilfreisprüchen bei Anklagen und Durchsetzung der obligatorischen Landesverweisung; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -137,6 +141,7 @@ In [BGE 150 IV 213](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-
 > ([BGE 150 IV 213 Regeste](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-213_2024.html)).
 
 - **Begründung**: Unter dem Schutzzweck der Volksgesundheit macht es keinen Unterschied, ob ein Täter 18 Gramm Kokain auf einmal oder in 36 Portionen à 0.5 Gramm absetzt. Subjektiv weiss der Wiederholungstäter spätestens bei Erreichen der Schwelle um die Dimension seines Gesamthandels. Die Härte für abhängige Kleindealer wird durch die Strafmilderung nach Art. 19 Abs. 3 lit. b BetmG ausgeglichen ([E. 1.6.2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-213_2024.html)).
+- **Präzisierung durch BGer 6B_264/2026**: In [BGer 6B_264/2026 vom 17. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-264-2026_2026-09-17.html) bestätigte und präzisierte das Bundesgericht die Reichweite dieser Mengenkumulation: Sämtliche Teilmengen gleichzeitig zu beurteilender Handlungen (auch Vorratslagerung im Keller und Teilverkäufe) sind selbst dann zwingend zu addieren, wenn **weder ein einheitlicher Tatentschluss noch eine Tateinheit** vorliegen (E. 4.2). Zudem begründen unbewiesene Detailhandlungen (wie Portionieren) keinen Anspruch auf Teilfreispruch, sofern der Gesamttatbestand durch die Gesamtlagermenge erfüllt ist (E. 2). Bei Bejahung des schweren Falls zieht Art. 19 Abs. 2 BetmG grundsätzlich die obligatorische Landesverweisung nach Art. 66a Abs. 1 lit. o StGB nach sich, wobei auch EU-Bürger gestützt auf das FZA keinen unbedingten Schutz geniessen (E. 6).
 
 #### 5. Abzug der Eigenkonsummenge
 Wird Drogenmaterial für den Eigenkonsum und für den Weiterverkauf beschafft, liegt echte Konkurrenz zwischen Art. 19 und Art. 19a BetmG vor:

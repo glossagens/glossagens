@@ -2,10 +2,14 @@
 title: "Art. 16 ATSG — Grad der Invalidität"
 weight: 16
 date: 2026-06-02
-lastmod: 2026-10-15
+lastmod: 2026-10-30
 description: "Kommentar zu Art. 16 ATSG: Allgemeine Methode der Invaliditätsbemessung, Einkommensvergleich, Valideneinkommen, Invalideneinkommen, LSE-Tabellenlöhne, Abzüge und Parallelisierung."
 tags: ["ATSG", "Invaliditätsbemessung", "Einkommensvergleich", "Sozialversicherungsrecht", "Invalidenversicherung"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 8C_734/2025 vom 22.09.2026 (veröffentlicht am 30.10.2026): Massgeblichkeit der LSE-Tabellenlöhne bei unvollständiger Ausschöpfung der Restarbeitsfähigkeit und Bestätigung der Unanwendbarkeit des IVV-Pauschalabzugs im UVG (BGer 8C_254/2025); Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -40,7 +44,7 @@ revisions:
 
 ### II. Das Invalideneinkommen
 
-**5** **Tatsächliches Einkommen vs. LSE-Tabellenlöhne.** Erzielt die versicherte Person nach Eintritt des Gesundheitsschadens ein Erwerbseinkommen und verwertet sie ihre verbliebene Leistungsfähigkeit in zumutbarer Weise vollständig, ist auf dieses tatsächliche Einkommen abzustellen. Fehlt eine Erwerbstätigkeit oder schöpft sie die Restarbeitsfähigkeit nicht aus, wird das Invalideneinkommen anhand der Schweizerischen Lohnstrukturerhebung (LSE, Tabelle TA1/TA12, Medianlohn) des Bundesamtes für Statistik festgesetzt ([BGE 148 V 174 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-148-V-174_2022.html)).
+**5** **Tatsächliches Einkommen vs. LSE-Tabellenlöhne.** Erzielt die versicherte Person nach Eintritt des Gesundheitsschadens ein Erwerbseinkommen und verwertet sie ihre verbliebene Leistungsfähigkeit in zumutbarer Weise vollständig, ist auf dieses tatsächliche Einkommen abzustellen. Fehlt eine Erwerbstätigkeit oder schöpft sie die Restarbeitsfähigkeit nicht in zumutbarer Weise voll aus (z.B. durch Verbleib im bisherigen Betrieb in einem Teilzeitpensum trotz 100%iger Arbeitsfähigkeit in einer Verweistätigkeit), wird das Invalideneinkommen anhand der Schweizerischen Lohnstrukturerhebung (LSE, Tabelle TA1/TA12, Medianlohn) des Bundesamtes für Statistik festgesetzt ([BGE 148 V 174 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-148-V-174_2022.html); [BGer 8C_734/2025 vom 22.09.2026 E. 4.2 und 5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-734-2025_2026-09-22.html)).
 
 **6** **Fiktion des ausgeglichenen Arbeitsmarktes.** Das Invalideneinkommen bemisst sich am ausgeglichenen Arbeitsmarkt (Art. 16 ATSG). Dabei handelt es sich um ein theoretisches Konstrukt, das ein breites Fächerangebot an leidensangepassten Arbeitsplätzen unterstellt ([BGE 138 V 457 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-457_2012.html)).
 
@@ -50,7 +54,7 @@ revisions:
 
 **8** **Parallelisierung bei unterdurchschnittlichem Einkommen.** War das Valideneinkommen aus invaliditätsfremden Gründen (z.B. mangelnde Ausbildung) um mehr als 5 % unter dem Branchenmedian, sind die Vergleichseinkommen zu parallelisieren, um eine rechnerische Verzerrung zu verhindern ([BGE 135 V 297 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-297_2009.html); Art. 26 Abs. 2 IVV; [BGE 150 V 410 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-150-V-410_2024.html)). Eine Doppelverwertung von Faktoren bei Parallelisierung und Leidensabzug ist unzulässig.
 
-**9** **Pauschalabzug ab 2024 (Art. 26bis Abs. 3 IVV).** Seit dem 1. Januar 2024 gilt in der IV bei statistischer Bemessung ein Pauschalabzug von 10 %. Die bundesgerichtliche Rechtsprechung wendet bei besonderen Erschwernissen ergänzend die Grundsätze von BGE 126 V 75 an ([BGE 150 V 410 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-150-V-410_2024.html)).
+**9** **Pauschalabzug ab 2024 (Art. 26bis Abs. 3 IVV).** Seit dem 1. Januar 2024 gilt in der IV bei statistischer Bemessung ein Pauschalabzug von 10 %. Die bundesgerichtliche Rechtsprechung wendet bei besonderen Erschwernissen ergänzend die Grundsätze von BGE 126 V 75 an ([BGE 150 V 410 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-150-V-410_2024.html)). Im Unfallversicherungsrecht (UVG) ist dieser Pauschalabzug nicht anwendbar; dort verbleibt es ausschliesslich bei der individuellen Einzelfallprüfung ([BGer 8C_734/2025 vom 22.09.2026 E. 5.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-734-2025_2026-09-22.html); [BGer 8C_254/2025 vom 11.02.2026 E. 6.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-254-2025_2026-02-11.html)).
 
 ### IV. Durchführung des Vergleichs und Rundung
 

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 368 StPO"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-09-09
+lastmod: 2026-10-30
 description: "Umfassende Rechtsprechungsübersicht zu Art. 368 StPO (Gesuch um neue Beurteilung): Leitentscheide des Bundesgerichts sowie ausgewählte Urteile des Bundesgerichts, des Bundesstrafgerichts und kantonaler Obergerichte zu Vorladungsmängeln, Entschuldbarkeit von Krankheit und Schmerzen, freiem Geleit, Beweislast und Fristen."
 tags: ["Rechtsprechung", "StPO", "Abwesenheitsverfahren", "Abwesenheitsurteil", "Neubeurteilung", "unentschuldigtes Fernbleiben", "Beweislast", "Freies Geleit"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 7B_564/2026 vom 25.09.2026 (veröffentlicht am 30.10.2026): Lungenkrebsdiagnose befreit nicht vom Nachweis akuter Verhandlungsunfähigkeit, richterliche Zurückhaltung bei Privatzertifikaten; Volltext auf entscheidsuche.ch verifiziert."
   - date: 2026-09-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -51,6 +55,17 @@ revisions:
 ---
 
 ## II. Weitere Entscheide (BGer und Kantone)
+
+### [BGer 7B_564/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-564-2026_2026-09-25.html) (25. September 2026)
+- **Thema**: Neubeurteilungsbegehren nach Abwesenheitsurteil (Art. 368 StPO); Schwere Erkrankung (Lungenkrebs); Anforderungen an die ärztliche Bescheinigung akuter Verhandlungsunfähigkeit
+- **Sachverhalt**: Ein wegen Freiheitsberaubung und Entführung (Art. 183/184 StGB) angeklagter Beschuldigter blieb der erstinstanzlichen Hauptverhandlung vor dem Genfer Polizeigericht fern und wurde in Abwesenheit verurteilt. Er reichte ein Neubeurteilungsgesuch ein und machte geltend, er leide an metastasiertem Lungenkrebs, wozu er Privatarztberichte einreichte. Das Genfer Polizeigericht und die Chambre pénale de recours traten auf das Gesuch mangels entschuldigter Säumnis nicht ein.
+- **Kernaussage**:
+  1. Das Recht auf Neubeurteilung (Art. 368 StPO, Art. 6 Ziff. 1 EMRK) setzt voraus, dass die beschuldigte Person nicht bewusst und freiwillig auf die Teilnahme verzichtet hat.
+  2. Die Diagnose einer schweren malignen Erkrankung befreit die beschuldigte Person nicht von der Pflicht, ihre akute Reise- und Verhandlungsunfähigkeit für den Verhandlungstag konkret und substanziiert darzulegen (E. 3.3).
+  3. Reicht der Beschuldigte lediglich private Arztberichte ein, die keine akute Verhandlungs- oder Transportunfähigkeit für den Terminstag attestieren, darf das Gericht Zurückhaltung üben und von einer schuldhaften Säumnis ausgehen; das Neubeurteilungsbegehren ist unbegründet (E. 3.4 f.).
+- **Einschlägig für**: Art. 368 Abs. 3 StPO; Art. 205 Abs. 2 StPO; Art. 6 Ziff. 1 EMRK
+
+---
 
 ### [BGer 6B_581/2024 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-581-2024_2024-08-09.html) (9. August 2024)
 - **Thema**: Amtliche Pflicht zur Vorabprüfung von Vorladungsmängeln

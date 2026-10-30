@@ -2,10 +2,14 @@
 title: "Art. 255 StPO — DNA-Profile: Voraussetzungen im Allgemeinen"
 weight: 255
 date: 2026-08-30
-lastmod: 2026-10-15
+lastmod: 2026-10-30
 description: "Praxiskommentar zu Art. 255 StPO: DNA-Probenahme und Profilerstellung zur Aufklärung des Anlassdelikts (Abs. 1) und weiterer Taten (Abs. 1bis), Kompetenzen der Polizei (Abs. 2), Y-DNA-Abgleich bei Verbrechen (Abs. 3) sowie Schwellenwerte, Zwangsvollzug, Löschungsfristen und Kasuistik."
 tags: ["StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Polizeikompetenz", "Verhältnismässigkeit", "Zwangsmassnahmen", "Erkennungsdienst", "Y-DNA", "Rückfallgefahr"]
 revisions:
+  - date: 2026-10-30
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 7B_1056/2025 und 7B_1197/2025 vom 14.10.2026 (veröffentlicht am 30.10.2026): Zwingende Ermittlung und Begründung der bisherigen Löschfrist (IPAS) bei erneuter präventiver DNA-Profilierung (Art. 255 Abs. 1bis StPO) zwecks Verhältnismässigkeitskontrolle; Volltexte auf entscheidsuche.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -168,6 +172,12 @@ Für die Prognose sind zwei Dimensionen kumulativ zu bewerten:
 In der früheren kantonalen Praxis (insbesondere bis 2018) wurde Art. 255 StPO von vielen Staatsanwaltschaften und Polizeikorps als eine Art «Automatismus» gehandhabt: Bei jedem Tatverdacht eines Vergehens (z.B. Ladendiebstahl, Sachbeschädigung) wurde routinemässig ein DNA-Profil für CODIS angeordnet. 
 
 Dieser Praxis hat das Bundesgericht ab [BGE 141 IV 87](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-87_2015.html) und namentlich mit [BGE 145 IV 263](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-263_2019.html) und [BGE 147 I 372](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-I-372_2021.html) einen Riegel geschoben. Das Gericht stellt unmissverständlich klar: Art. 255 StPO ist keine Ermächtigung zur präventiven Massenerfassung von Beschuldigten. Die anordnende Behörde trägt die Substanziierungslast; sie muss die konkreten Anhaltspunkte in den Akten für jedes einzelne Merkmal nachvollziehbar darlegen. Fehlt eine solche fallbezogene Begründung, leidet die Verfügung an einem unheilbaren Mangel.
+
+#### 6. Erneute Profilierung und zwingende Prüfung der bisherigen Löschfrist (BGer 7B_1056/2025 und 7B_1197/2025)
+Besteht von der beschuldigten Person bereits ein DNA-Profil im Informationssystem CODIS (z.B. aus früheren Verurteilungen), gelten für eine Neuanordnung nach Art. 255 Abs. 1bis StPO verschärfte Prüfpflichten:
+- **Zwingende Abklärung der bisherigen Löschfrist**: Die Strafbehörde darf eine erneute DNA-Profilierung nicht ohne Weiteres anordnen. Sie ist nach dem Grundsatz der Verhältnismässigkeit (Art. 197 Abs. 1 lit. c und d StPO) und der Begründungspflicht (Art. 112 BGG, Art. 29 Abs. 2 BV) verpflichtet, vorgängig die konkrete **Löschungsfrist des bereits erfassten DNA-Profils** im polizeilichen Informationssystem (IPAS) festzustellen ([BGer 7B_1056/2025 vom 14. Oktober 2026 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1056-2025_2026-10-14.html); [BGer 7B_1197/2025 vom 14. Oktober 2026 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1197-2025_2026-10-14.html)).
+- **Prüfung der Notwendigkeit**: Steht das bisherige DNA-Profil noch für erhebliche Zeit (z.B. mehrere Jahre) im System zur Verfügung, fehlt es an der Erforderlichkeit einer Neuanordnung. Steht die Löschung des alten Profils demgegenüber kurz bevor, muss die Behörde darlegen, inwiefern die aktuellen Delikte eine Erneuerung und damit eine Verlängerung der Speicherungsdauer rechtfertigen.
+- **Aufhebung bei unvollständiger Begründung**: Unterlässt die Vorinstanz die Feststellung und Einzelfallwürdigung der bisherigen Löschfrist, ist der Entscheid wegen Verletzung des Untersuchungsgrundsatzes und der Begründungspflicht aufzuheben ([BGer 7B_1056/2025 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1056-2025_2026-10-14.html); [BGer 7B_1197/2025 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1197-2025_2026-10-14.html); vgl. bereits [BGer 7B_139/2026 vom 24. August 2026 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-139-2026_2026-08-24.html)).
 
 > **Leitsatz.** Die Erstellung eines DNA-Profils zur Aufklärung künftiger Delikte nach Art. 255 Abs. 1bis StPO setzt zwingend eine Deliktsnatur voraus, bei der erfahrungsgemäss biologische Spuren hinterlassen werden (Spurenrelevanz); bei Delikten ohne physischen Tatortbezug (Cyberkriminalität, reine Vermögens- oder Urkundendelikte) ist die Massnahme mangels Geeignetheit stets unverhältnismässig.
 
