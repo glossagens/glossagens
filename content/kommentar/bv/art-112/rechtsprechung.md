@@ -9,7 +9,7 @@ revisions:
   - date: 2026-10-30
     by: "Claude Code"
     model: "claude-sonnet-5-5"
-    note: "Erstfassung. Entscheide über entscheidsuche gefunden und im Volltext gelesen; Kernaussagen gegen den Wortlaut der Fundstellen geprüft (Pinpoints über die Erwägungsanker). audit.py lief ohne Judge-Urteile: 42 Paare offen; 3 Referenzen (BGer U 203/01, TI 32.2025.89) meldet es als nicht auffindbar, weil die Auflösung über das ausgefallene opencaselaw läuft — beide Entscheide sind auf entscheidsuche vorhanden und im Volltext gelesen. opencaselaw nicht erreichbar, daher Auswahl auf Treffer der Volltextsuche beschränkt und ohne Zitationsgraph; die Übersicht ist nicht vollständig."
+    note: "Erstfassung. Entscheide über entscheidsuche gefunden und im Volltext gelesen; Kernaussagen gegen den Wortlaut der Fundstellen geprüft (Pinpoints über die Erwägungsanker). audit.py mit Judge-Subagenten (claude-opus-5-5) in drei Runden: Belegquote 87 % (Urteil A), 34 Paare gestützt, 7 teilweise, keines verworfen; nach der ersten Runde Aussagen und Pinpoints korrigiert (Qualifikatoren «auch im Hinblick»/«planmässig», Ausnahmen zur Verrechnung auf E. 8.3 bzw. E. 4.5 verschoben, Heizkostenpauschale nach Regeste und E. 6.2 getrennt). Offen: 5 Paare, davon 3 nicht auflösbare Referenzen (BGer U 203/01, TI 32.2025.89 — beide auf entscheidsuche gelesen; die Auflösung läuft über das ausgefallene opencaselaw, der Prüftext von U 203/01 war dort nur ein Fragment). opencaselaw nicht erreichbar, daher Auswahl auf Treffer der Volltextsuche beschränkt und ohne Zitationsgraph; die Übersicht ist nicht vollständig."
 ---
 
 Auswahl von Entscheiden, die Art. 112 BV ausdrücklich heranziehen. Die Norm ist Kompetenz- und Grundsatznorm; häufiger als ihre selbständige Anwendung ist die Nennung neben den Einzelgesetzen (AHVG, IVG, ELG). Die Übersicht ist nicht vollständig.
@@ -18,7 +18,7 @@ Auswahl von Entscheiden, die Art. 112 BV ausdrücklich heranziehen. Die Norm ist
 
 ### [BGE 131 V 97 E. 4.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-131-V-97_2005.html#consideration_4.3.3)
 - **Thema**: Volksversicherung, Solidarität, Rechtsmissbrauch
-- **Kernaussage**: Die AHV ist nach Abs. 2 lit. a eine Volksversicherung. Die Beitragspflicht ist nach oben unbegrenzt, die Leistungen sind durch die Maximalrente begrenzt (Abs. 2 lit. c); das führt zu einer Umverteilung von oben nach unten. Wer die AHV als reines Finanzanlageobjekt nutzt, handelt rechtsmissbräuchlich.
+- **Kernaussage**: Die AHV ist nach Abs. 2 lit. a eine Volksversicherung. Die Beitragspflicht ist nach oben unbegrenzt, die Leistungen sind durch die Maximalrente begrenzt (Abs. 2 lit. c); das führt zu einer Umverteilung von oben nach unten. Wer sie planmässig als Finanzanlageobjekt nutzt und die versicherungstechnische Solidarität unterläuft, handelt rechtsmissbräuchlich.
 - **Einschlägig für**: Abs. 2 lit. a und c
 
 ### [BGE 130 III 400 E. 3.3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-130-III-400_2004.html#consideration_3.3.4)
@@ -28,12 +28,22 @@ Auswahl von Entscheiden, die Art. 112 BV ausdrücklich heranziehen. Die Norm ist
 
 ### [BGE 136 V 286 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-286_2010.html#consideration_6.2)
 - **Thema**: Verrechnung von Rentennachzahlungen, Existenzminimum
-- **Kernaussage**: Auch Rentennachzahlungen dienen dem Existenzbedarf der versicherten Person in der Zeit, für die sie nachbezahlt werden; die Verrechnung ist am betreibungsrechtlichen Existenzminimum zu messen. Haben Sozialbehörden Vorschussleistungen erbracht, bildet das Existenzminimum keine Verrechnungsschranke (Regeste, E. 7 und 8).
+- **Kernaussage**: Auch Rentennachzahlungen dienen dem Existenzbedarf der versicherten Person in der Zeit, für die sie nachbezahlt werden; die Verrechnung ist am betreibungsrechtlichen Existenzminimum zu messen.
 - **Einschlägig für**: Abs. 2 lit. b
 
 ### [BGE 138 V 402 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-138-V-402_2012.html#consideration_4.2)
 - **Thema**: Verrechnung, Existenzminimum
-- **Kernaussage**: Die Frage der Wahrung des Existenzminimums stellt sich bei laufenden Renten wie bei Rentennachzahlungen. Die Schranke ist nicht zu beachten, wenn die nachzuzahlende Rente lediglich eine in der früheren Periode geleistete Rente ersetzt und sich beide gegenseitig ausschliessen (Regeste, E. 4.5).
+- **Kernaussage**: Die Frage der Wahrung des Existenzminimums stellt sich bei laufenden Renten wie bei Rentennachzahlungen.
+- **Einschlägig für**: Abs. 2 lit. b
+
+### [BGE 136 V 286 E. 8.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-286_2010.html#consideration_8.3)
+- **Thema**: Verrechnung, Vorschussleistungen
+- **Kernaussage**: Hat die Sozialbehörde der versicherten Person für die Zeit, für welche Renten nachbezahlt werden, Vorschussleistungen erbracht, stellt das betreibungsrechtliche Existenzminimum keine zu berücksichtigende Verrechnungsschranke dar (Regeste).
+- **Einschlägig für**: Abs. 2 lit. b
+
+### [BGE 138 V 402 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-138-V-402_2012.html#consideration_4.5)
+- **Thema**: Verrechnung, Existenzminimum
+- **Kernaussage**: Die Wahrung des Existenzminimums ist als Schranke der Verrechnung bei Nachzahlungen von Renten früherer Perioden dann nicht zu beachten, wenn die nachzuzahlende Rente lediglich eine in der früheren Periode geleistete Rente ersetzt und sich beide gegenseitig ausschliessen (Regeste).
 - **Einschlägig für**: Abs. 2 lit. b
 
 ### [BGE 143 V 9 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-143-V-9_2017.html#consideration_6.2)
@@ -41,9 +51,9 @@ Auswahl von Entscheiden, die Art. 112 BV ausdrücklich heranziehen. Die Norm ist
 - **Kernaussage**: Die EL-Reform per 1. Januar 2008 hob Art. 112 Abs. 6 BV auf und überführte die Übergangsbestimmung Art. 196 Ziff. 10 BV in Art. 112a BV. Art. 10 Abs. 2 lit. a ELG verpflichtet die Kantone nicht, die Tagestaxen bei anderen Einrichtungen als anerkannten Pflegeheimen so festzusetzen, dass keine Sozialhilfe nötig wird; das ist von Verfassung wegen hinzunehmen (Art. 190 BV).
 - **Einschlägig für**: Entstehung (NFA), Abs. 2 lit. b
 
-### [BGE 131 V 256 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-131-V-256_2005.html#consideration_6.)
+### [BGE 131 V 256, Regeste und E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-131-V-256_2005.html#consideration_6.2)
 - **Thema**: Heizkostenpauschale, Art. 12 BV
-- **Kernaussage**: Art. 16b ELV ist gesetz- und verfassungsmässig. In der Pauschalierung liegt keine Verletzung des Anspruchs auf ein menschenwürdiges Dasein (Art. 12 BV); die Ergänzungsleistungen decken von Verfassungs wegen den Existenzbedarf.
+- **Kernaussage**: Art. 16b ELV ist gesetz- und verfassungsmässig (Regeste). In der Pauschalierung der Heizkosten liegt keine Verletzung des Anspruchs auf ein menschenwürdiges Dasein (Art. 12 BV); die Ergänzungsleistungen decken von Verfassungs wegen den Existenzbedarf (E. 6.2).
 - **Einschlägig für**: Abs. 2 lit. b, Verhältnis zu Art. 112a BV
 
 ### [BGE 136 V 33 E. 3.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-33_2010.html#consideration_3.2.2)
@@ -53,7 +63,7 @@ Auswahl von Entscheiden, die Art. 112 BV ausdrücklich heranziehen. Die Norm ist
 
 ### [BGE 140 I 77 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-77_2014.html#consideration_4.)
 - **Thema**: Rentenplafonierung Art. 35 AHVG
-- **Kernaussage**: Die Plafonierung der Summe der beiden Renten eines Ehepaars auf 150 Prozent der Maximalrente führt zu einer Ungleichbehandlung gegenüber Konkubinatspaaren, bewirkt aber keine unzulässige Diskriminierung (Regeste). Art. 112 BV wird im Entscheid nicht angerufen.
+- **Kernaussage**: Die Plafonierung der Summe der beiden Renten eines Ehepaars auf 150 Prozent der Maximalrente führt zu einer Ungleichbehandlung gegenüber Konkubinatspaaren; das Bundesgericht verneint eine unzulässige Diskriminierung (Regeste, E. 6–9). Art. 112 BV wird im Entscheid nicht angerufen.
 - **Einschlägig für**: Abgrenzung zu Abs. 2 lit. c
 
 ### [BGE 150 V 410 E. 9.5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-150-V-410_2024.html#consideration_9.5.1)
