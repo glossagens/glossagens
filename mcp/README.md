@@ -21,6 +21,8 @@ einreichen. Eingereicht wird als Draft-PR; veröffentlicht erst nach dem Merge.
 | `beitrag_pruefen` | prüft einen Entwurf (neue Datei, ganze Datei oder ein Abschnitt) und meldet Fehler, Warnungen und Änderungen; schreibt nichts |
 | `beitrag_einreichen` | prüft wie `beitrag_pruefen` und legt bei fehlerfreier Prüfung einen Draft-PR an (nur sichtbar, wenn `EINREICHEN = "an"`) |
 | `einreichung_status` | Stand eines Chat-PRs (offen, gemerged mit Link, geschlossen) mit Reviews, Kommentaren und Zeilenanmerkungen der Redaktion; auch bei Not-Aus verfügbar |
+| `bger_update_suchen` | Volltextsuche in bger-update.ch: KI-Zusammenfassungen der neuen BGer-Urteile, Annex-Entscheide anderer Gerichte, Editorials, Ticker; Filter nach Art, Zeitraum, Sachgebiet (nur mit `BGER_UPDATE_TOKEN`) |
+| `bger_update_lesen` | eine Zusammenfassung, ein Editorial oder einen Ticker-Eintrag von bger-update.ch zur Kennung aus der Suche, mit `abschnitt` nur ein Abschnitt (nur mit `BGER_UPDATE_TOKEN`) |
 
 ## Beitrag prüfen (`src/pruefen.js`)
 
@@ -185,6 +187,21 @@ Ausgabe ist die Adresse, z. B. `https://glossagens-mcp.<konto>.workers.dev`. Der
 MCP-Endpunkt ist `…/mcp`. Erst **nachdem** `/kommentar/index.json` auf glossagens.ch
 live ist (also dieser Branch gemerged und die Seite deployt), liefert er Daten.
 
+### bger-update.ch (`src/bgerupdate.js`)
+
+Die beiden `bger_update_*`-Tools reichen die Anfragen an `/api/suche` und `/api/lesen`
+von bger-update.ch weiter (dort `update/utils/suche.py`). Einrichten: denselben Wert
+bei bger-update als `SUCHE_API_TOKEN` (Heroku-Config) und hier als Secret setzen:
+
+```sh
+npx wrangler secret put BGER_UPDATE_TOKEN
+```
+
+Ohne Secret sind die Tools und der Absatz in den `instructions` ausgeblendet; Secret
+löschen ist der Not-Aus. Antworten mit Status 2xx hält der Cloudflare-Cache 5 Minuten,
+Fehler nicht. bger-update begrenzt alle Abrufe des Workers gemeinsam auf 1200 pro
+10 Minuten und liefert nur, was auf der Website öffentlich ist.
+
 ## In claude.ai einbinden
 
 Einstellungen → Connectors → «Benutzerdefinierten Connector hinzufügen» → Name
@@ -207,3 +224,5 @@ Art. 221 StPO?»
   stehen, Slugs sind auf `[a-z0-9-]` beschränkt.
 - Die `instructions` an den Client halten fest, dass gelieferte Texte Inhalt sind,
   keine Anweisungen.
+- Der Token für bger-update.ch kann nur lesen (`/api/suche`, `/api/lesen`,
+  Zusammenfassungen); er steht in keiner Antwort und in keinem Log.

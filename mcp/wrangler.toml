@@ -20,6 +20,10 @@ GITHUB_APP_ID = "5512533"
 GITHUB_INSTALLATION_ID = "176226314"
 # Not-Aus: alles ausser "an" blendet beitrag_einreichen aus.
 EINREICHEN = "an"
+# Suche in bger-update.ch (src/bgerupdate.js). Der Lese-Token liegt als Secret
+# BGER_UPDATE_TOKEN beim Worker (= SUCHE_API_TOKEN bei bger-update); ohne ihn
+# sind bger_update_suchen und bger_update_lesen ausgeblendet.
+BGER_UPDATE_URL = "https://www.bger-update.ch"
 
 # Zähler für die Obergrenzen und Erkennung doppelter Einreichungen.
 [[kv_namespaces]]

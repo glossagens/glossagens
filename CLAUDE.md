@@ -496,6 +496,7 @@ GitHub App «Glossagens Chat-Einreichung» (`mcp/src/github.js`), ohne GitHub-Ko
 einreichenden Person; `einreichung_status` zeigt den Stand und die Rückmeldungen der
 Redaktion im Chat. Die App kann `main` nicht ändern (Ruleset «main schützen»: PR mit
 einer Freigabe, Admins ausgenommen). Einrichtung, Deploy, Limits, Not-Aus und
+Dazu die Suche in bger-update.ch (`bger_update_suchen`, `bger_update_lesen`; `mcp/src/bgerupdate.js`), nur mit dem Secret `BGER_UPDATE_TOKEN`.
 Prüfregeln: `mcp/README.md`.
 
 Der Worker liest nur Öffentliches und hält keinen Schlüssel:

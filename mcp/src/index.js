@@ -22,8 +22,11 @@ import {
   revisionenVergleichen, shortcodesFinden, belegstellenFinden, belegeAbgleichen, URTEILE,
 } from "./pruefen.js";
 import { base64, github } from "./github.js";
+import {
+  BGER_UPDATE_ANLEITUNG, BGER_UPDATE_HINWEIS, BGER_UPDATE_TOOLS, bgerUpdateAktiv, bgerUpdateSuchen, bgerUpdateText,
+} from "./bgerupdate.js";
 
-const SERVER = { name: "glossagens", version: "0.7.0" };
+const SERVER = { name: "glossagens", version: "0.8.0" };
 
 // Neueste zuerst; eine unbekannte Version des Clients wird mit der neuesten
 // beantwortet (so verlangt es die Spezifikation).
@@ -251,15 +254,18 @@ const TOOLS = [
     },
     annotations: { readOnlyHint: true, idempotentHint: true, openWorldHint: true },
   },
+  ...BGER_UPDATE_TOOLS,
 ];
 
 // beitrag_einreichen nur, wenn es eingeschaltet und eingerichtet ist (Not-Aus:
 // EINREICHEN); einreichung_status auch bei ausgeschaltetem Einreichen, damit
-// sich laufende Beiträge weiter verfolgen lassen.
+// sich laufende Beiträge weiter verfolgen lassen. Die Suche in bger-update.ch
+// nur mit deren Lese-Token (bgerupdate.js).
 function werkzeuge(ctx) {
   return TOOLS.filter((t) => {
     if (t.name === "beitrag_einreichen") return einreichenAktiv(ctx);
     if (t.name === "einreichung_status") return appEingerichtet(ctx);
+    if (t.name.startsWith("bger_update_")) return bgerUpdateAktiv(ctx);
     return true;
   });
 }
@@ -394,7 +400,7 @@ async function bearbeiten(n, ctx) {
         protocolVersion: PROTOKOLLE.includes(gewuenscht) ? gewuenscht : PROTOKOLLE[0],
         capabilities: { tools: { listChanged: false } },
         serverInfo: SERVER,
-        instructions: ANLEITUNG,
+        instructions: ANLEITUNG + (bgerUpdateAktiv(ctx) ? BGER_UPDATE_ANLEITUNG : ""),
       });
     }
     case "ping":
@@ -1451,4 +1457,7 @@ const HANDLER = {
   beitrag_pruefen: beitragPruefenTool,
   beitrag_einreichen: beitragEinreichen,
   einreichung_status: einreichungStatus,
+  bger_update_suchen: bgerUpdateSuchen,
+  bger_update_lesen: async (args, ctx) =>
+    `${begrenzen(abschnittWaehlen(await bgerUpdateText(args, ctx), args.abschnitt))}\n\n---\n${BGER_UPDATE_HINWEIS}`,
 };

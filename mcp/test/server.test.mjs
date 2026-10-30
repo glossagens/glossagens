@@ -891,6 +891,94 @@ await pruefe("/entwuerfe.json: offene PRs mit geänderten Seiten, Dateiliste je 
   assert.deepEqual(leer.entwuerfe, [], "ohne GitHub App leer statt Fehler");
 });
 
+// --- bger-update.ch ------------------------------------------------------------
+
+const ENV_BU = { ...ENV, BGER_UPDATE_TOKEN: "lesen", BGER_UPDATE_URL: "https://bu.test" };
+const BU_TREFFER = {
+  treffer: [
+    { typ: "urteil", kennung: "4A_344/2025", datum: "2026-03-20", titel: "Kündigung zur Unzeit nichtig", sachgebiet: "schuldrecht", ausschnitt: "Die **Kündigung** zur **Unzeit** …", url: "https://www.bger-update.ch/zusammenfassung/1/", rang: 0.5 },
+    { typ: "annex", kennung: "weitere/7", datum: "2026-10-01", titel: "Obergericht ZH LB250001", sachgebiet: "", ausschnitt: "", url: "https://www.bger-update.ch/weitere/7/", rang: 0.2 },
+  ],
+};
+const BU_URTEIL = "---\nurteilsnummer: 4A_344/2025\nurl: https://www.bger-update.ch/zusammenfassung/1/\n---\n\n# 4A_344/2025\n\n## Erwägungen\nDas Gericht erwog.\n\n## Fazit\nAbgewiesen.\n";
+
+async function mitBgerUpdate(fn) {
+  const echt = globalThis.fetch;
+  const aufrufe = [];
+  globalThis.fetch = async (url, init = {}) => {
+    const u = new URL(String(url));
+    if (u.host !== "bu.test") return echt(url, init);
+    aufrufe.push({ url: u, auth: init.headers?.Authorization, cf: init.cf });
+    if (u.pathname === "/api/suche") {
+      if (u.searchParams.get("q") === "voll") return new Response("Zu viele", { status: 429 });
+      return new Response(JSON.stringify(u.searchParams.get("q") === "nichts" ? { treffer: [] } : BU_TREFFER), { status: 200 });
+    }
+    if (u.pathname === "/api/lesen" && u.searchParams.get("kennung") === "4A_344/2025") return new Response(BU_URTEIL, { status: 200 });
+    return new Response("Nichts gefunden zu «x»\n", { status: 404 });
+  };
+  try {
+    await fn(aufrufe);
+  } finally {
+    globalThis.fetch = echt;
+  }
+}
+
+await pruefe("bger-update: Tools und Anleitung nur mit Token", async () => {
+  let d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "tools/list" })).json();
+  assert.ok(!d.result.tools.some((t) => t.name.startsWith("bger_update_")));
+  d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "tools/list" }, { env: ENV_BU })).json();
+  assert.deepEqual(d.result.tools.filter((t) => t.name.startsWith("bger_update_")).map((t) => t.name), ["bger_update_suchen", "bger_update_lesen"]);
+  d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "initialize", params: {} }, { env: ENV_BU })).json();
+  assert.match(d.result.instructions, /bger_update_suchen/);
+  d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "initialize", params: {} })).json();
+  assert.doesNotMatch(d.result.instructions, /bger-update/);
+  d = await (await rpc({ jsonrpc: "2.0", id: 1, method: "tools/call", params: { name: "bger_update_suchen", arguments: { anfrage: "x" } } })).json();
+  assert.match(d.error.message, /Unbekanntes Tool/, "ohne Token nicht aufrufbar");
+});
+
+await pruefe("bger_update_suchen: Parameter, Token, Trefferliste", async () => {
+  await mitBgerUpdate(async (aufrufe) => {
+    const r = await tool("bger_update_suchen", { anfrage: "Kündigung zur Unzeit", typ: ["urteil", "annex"], seit: "2026-01-01", limit: 99 }, ENV_BU);
+    assert.ok(!r.fehler, r.text);
+    const p = aufrufe[0].url.searchParams;
+    assert.equal(p.get("q"), "Kündigung zur Unzeit");
+    assert.equal(p.get("typ"), "urteil,annex");
+    assert.equal(p.get("seit"), "2026-01-01");
+    assert.equal(p.get("limit"), "50");
+    assert.equal(p.get("format"), "json");
+    assert.equal(aufrufe[0].auth, "Bearer lesen");
+    assert.equal(aufrufe[0].cf.cacheTtlByStatus["400-599"], 0);
+    assert.match(r.text, /^2 Treffer auf bger-update.ch zu «Kündigung zur Unzeit»/);
+    assert.match(r.text, /1\. 4A_344\/2025 · BGer-Urteil · 20\.03\.2026 · schuldrecht\n   «Kündigung zur Unzeit nichtig»\n   Die \*\*Kündigung\*\*/);
+    assert.match(r.text, /kennung="weitere\/7" · https:\/\/www.bger-update.ch\/weitere\/7\//);
+    assert.match(r.text, /KI-erstellt/);
+    assert.match((await tool("bger_update_suchen", { anfrage: "nichts" }, ENV_BU)).text, /Keine Treffer/);
+    const falsch = await tool("bger_update_suchen", { anfrage: "x", typ: ["blog"] }, ENV_BU);
+    assert.ok(falsch.fehler);
+    assert.match(falsch.text, /Unbekannter typ: blog/);
+    const voll = await tool("bger_update_suchen", { anfrage: "voll" }, ENV_BU);
+    assert.ok(voll.fehler);
+    assert.match(voll.text, /zu viele Abrufe/);
+  });
+});
+
+await pruefe("bger_update_lesen: Text, Abschnitt, unbekannte Kennung", async () => {
+  await mitBgerUpdate(async (aufrufe) => {
+    let r = await tool("bger_update_lesen", { kennung: " 4A_344/2025 " }, ENV_BU);
+    assert.ok(!r.fehler, r.text);
+    assert.equal(aufrufe[0].url.searchParams.get("kennung"), "4A_344/2025");
+    assert.match(r.text, /^---\nurteilsnummer: 4A_344\/2025/);
+    assert.match(r.text, /KI-erstellt/);
+    r = await tool("bger_update_lesen", { kennung: "4A_344/2025", abschnitt: "fazit" }, ENV_BU);
+    assert.match(r.text, /^## Fazit\nAbgewiesen\./);
+    r = await tool("bger_update_lesen", { kennung: "1C_1/2000" }, ENV_BU);
+    assert.ok(r.fehler);
+    assert.match(r.text, /Nichts gefunden/);
+    r = await tool("bger_update_lesen", {}, ENV_BU);
+    assert.match(r.text, /kennung fehlt/);
+  });
+});
+
 await pruefe("Quelle nicht erreichbar → Tool-Fehler statt Absturz", async () => {
   const echt = globalThis.fetch;
   globalThis.fetch = async () => new Response("", { status: 503 });
