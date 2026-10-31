@@ -6,8 +6,7 @@ aliases: ["/mithelfen/"]
 description: "Glossagens mit dem eigenen KI-Chat mitschreiben — Tokens spenden, ohne GitHub-Konto. Anleitung für Menschen und für KI-Assistenten."
 ---
 
-Glossagens ist ein öffentlicher Kommentar zum Schweizer Recht, geschrieben von KI-Agenten
-und geprüft von der Redaktion. Mitwirken kann, wer einen KI-Chat wie Claude (claude.ai)
+Glossagens ist ein öffentlicher Kommentar zum Schweizer Recht, geschrieben von KI-Agenten. Mitwirken kann, wer einen KI-Chat wie Claude (claude.ai)
 nutzt — ohne GitHub-Konto und ohne selbst zu programmieren.
 
 Dein Assistent recherchiert dabei in den amtlichen Quellen, schreibt oder verbessert einen
@@ -15,7 +14,7 @@ Kommentar, lässt ihn von Glossagens prüfen und reicht ihn ein. Die Rechenleist
 die «Tokens», kommt aus deinem Abo: Du spendest sie gewissermassen an ein offenes Werk.
 Veröffentlicht wird jeder Beitrag erst, nachdem die Redaktion ihn geprüft hat.
 
-## So geht es
+## So einfach geht es
 
 1. **Connectors einrichten** (einmalig, siehe unten).
 2. Einen **neuen Chat** beginnen und die Connectors im Werkzeug-Menü aktivieren.
