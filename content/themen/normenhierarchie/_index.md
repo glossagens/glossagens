@@ -1,11 +1,11 @@
 ---
 title: "Normenhierarchie im Bundesstaatsrecht"
 date: 2026-10-25
-lastmod: 2026-10-25
+lastmod: 2026-11-01
 description: "Der Stufenbau der schweizerischen Rechtsordnung: Verhältnis zwischen Völkerrecht, Bundesrecht und kantonalem Recht, vertikale Normstufen (Verfassung, Gesetz, Verordnung), Anwendungsgebot nach Art. 190 BV und Kollisionsregeln."
 tags: ["Normenhierarchie", "Stufenbau", "Bundesrecht bricht kantonales Recht", "Vorrang des Bundesrechts", "Völkerrecht und Landesrecht", "Schubert-Praxis", "PKK-Praxis", "Art. 190 BV", "Anwendungsgebot", "Verfassungsgerichtsbarkeit"]
 typ: grundlage
-kurz: "Die schweizerische Rechtsordnung gliedert sich vertikal in Völkerrecht, Bundesrecht und kantonales bzw. kommunales Recht sowie horizontal nach Normstufen (Verfassung, Gesetz, Verordnung). Nach Art. 49 Abs. 1 BV bricht Bundesrecht jeder Stufe entgegenstehendes kantonales Recht. Das Völkerrecht geht dem Landesrecht grundsätzlich vor (Art. 5 Abs. 4 BV); gegenüber Bundesgesetzen begrenzt das verfassungsrechtliche Anwendungsgebot von Art. 190 BV die richterliche Verfassungsgerichtsbarkeit, weicht jedoch nach der PKK-Rechtsprechung bei Konflikten mit völkerrechtlichen Menschenrechtsgarantien."
+kurz: "Die schweizerische Rechtsordnung gliedert sich vertikal in Völkerrecht, Bundesrecht und kantonales bzw. kommunales Recht sowie horizontal nach Normstufen (Verfassung, Gesetz, Verordnung). Nach Art. 49 Abs. 1 BV bricht Bundesrecht jeder Stufe entgegenstehendes kantonales Recht. Das Völkerrecht geht dem Landesrecht grundsätzlich vor (Art. 5 Abs. 4 BV); gegenüber Bundesgesetzen begrenzt das verfassungsrechtliche Anwendungsgebot von Art. 190 BV die richterliche Verfassungsgerichtsbarkeit, weicht jedoch nach der PKK-Rechtsprechung bei Konflikten mit völkerrechtlichen Menschenrechtsgarantien. Ob die historische Schubert-Ausnahme für bewusst abweichende Bundesgesetze im Bereich des EU-Binnenmarktrechts noch greift, ist derzeit Gegenstand einer kontroversen gerichtlichen und politischen Debatte."
 sachgebiete: [grundlagen.rechtsquellen, staatsorganisation.foederalismus]
 normen:
   - { gesetz: bv, art: art-049 }
@@ -17,6 +17,10 @@ normen:
   - { gesetz: bv, art: art-051 }
 stichworte: ["Normenhierarchie", "Stufenbau der Rechtsordnung", "Bundesrecht bricht kantonales Recht", "Vorrang des Bundesrechts", "Völkerrecht und Landesrecht", "Schubert-Praxis", "PKK-Praxis", "Art. 190 BV", "Anwendungsgebot", "Verfassungsgerichtsbarkeit", "Normenkontrolle", "Lex superior", "Lex posterior", "Lex specialis"]
 revisions:
+  - date: 2026-11-01
+    by: "Antigravity"
+    model: "gemini-4-argon-medium"
+    note: "Abschnitt zum Verhältnis zwischen Völkerrecht und Landesrecht (Schubert-Praxis und FZA) um die aktuelle gerichtliche und politische Kontroverse (BGE 142 II 35 E. 3.2 vs. BGE 151 V 198 E. 8.2.3.1.3, VGer BE 100.2024.269U vom 7.9.2026, Pa. Iv. 26.425 SPK-S zu den Bilateralen III) ergänzt und mit dem Thema Verhältnis von Verfassungs- und Völkerrecht verknüpft."
   - date: 2026-10-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -159,7 +163,7 @@ Im Leitentscheid *Schubert* von 1973 schuf das Bundesgericht eine eng begrenzte 
 Die *Schubert-Praxis* wurde in der Folgezeit stark eingeengt und greift in Kernbereichen des modernen Völkerrechts nicht mehr Platz:
 
 1. **Ausschluss bei Menschenrechtsgarantien (PKK-Praxis)**: Im Urteil BGE 125 II 417 (Einziehung von Propagandamaterial der PKK) entschied das Bundesgericht, dass die Schubert-Praxis bei Menschenrechtskonventionen (insbesondere der EMRK und den UNO-Pakten) nicht anwendbar ist. Völkerrechtliche Menschenrechtsbestimmungen geniessen ausnahmslos Vorrang vor entgegenstehendem Bundesgesetzesrecht ([BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html#consideration_5.1) E. 5.1).
-2. **Ausschluss im Freizügigkeits- und Binnenmarktrecht**: Auch im Anwendungsbereich des Freizügigkeitsabkommens mit der Europäischen Union (FZA) gilt die Schubert-Praxis nicht. Wie das Bundesgericht klarstellte, ist das FZA auf die Schaffung einer parallelen Rechtslage im Binnenmarkt ausgerichtet, weshalb ihm gegenüber abweichendem nationalen Recht stets der Vorrang zukommt ([BGE 142 II 35](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html#consideration_3.2) E. 3.2).
+2. **Umstrittene Tragweite im Freizügigkeits- und Binnenmarktrecht**: Im Anwendungsbereich des Freizügigkeitsabkommens mit der Europäischen Union (FZA) erklärte die II. öffentlich-rechtliche Abteilung des Bundesgerichts die *Schubert*-Praxis für unanwendbar, weil das FZA auf eine sektorielle Beteiligung am Binnenmarkt und eine Angleichung der Rechtsordnung ausgerichtet sei ([BGE 142 II 35](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html#consideration_3.2) E. 3.2; ebenso [BGE 148 II 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-169_2022.html#consideration_5.2) E. 5.2). Ob diese Erwägung tragend war oder ein *obiter dictum* darstellt, ist jedoch umstritten: Die IV. öffentlich-rechtliche Abteilung prüfte die *Schubert*-Ausnahme Ende 2024 im FZA-Kontext weiterhin ([BGE 151 V 198](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-151-V-198_2025.html#consideration_8.2.3.1.3) E. 8.2.3.1.3), das Verwaltungsgericht des Kantons Bern wendete im September 2026 Art. 37 Abs. 1 KVG trotz eines echten Konflikts mit dem FZA gestützt auf die *Schubert*-Praxis an ([Urteil 100.2024.269U](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2024-269_2026-09-07.pdf) E. 4.8), und im Parlament steht mit Blick auf die *Bilateralen III* eine Kodifizierung der *Schubert*-Praxis auf Verfassungs- oder Gesetzesstufe zur Debatte (Pa. Iv. 26.425 der SPK-S; vgl. eingehend [Verhältnis von Verfassungs- und Völkerrecht](/themen/verfassungs-und-voelkerrecht/#aktuelle-kontroverse)).
 3. **Verfassungsinitiativen und Völkerrecht**: Wird durch eine Volksinitiative eine Verfassungsbestimmung eingeführt, die völkerrechtlichen Verpflichtungen widerspricht (etwa Art. 121 Abs. 3–6 BV [Ausschaffungsinitiative] oder Art. 121a BV [Masseneinwanderungsinitiative]), räumt das Bundesgericht den Garantien der EMRK und dem FZA weiterhin den Vorrang ein, solange der Gesetzgeber keine ausdrückliche Kündigung des Abkommens beschlossen hat ([BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html#consideration_5.1) E. 5.1; BGE 142 II 35 E. 3.3).
 
 ---
