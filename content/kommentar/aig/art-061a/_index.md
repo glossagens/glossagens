@@ -2,9 +2,18 @@
 title: "Art. 61a AIG — Erlöschen des Aufenthaltsrechts von EU- und EFTA-Staatsangehörigen"
 weight: 61
 date: 2026-10-26
-lastmod: 2026-10-26
+lastmod: 2026-11-01
 description: "Praxiskommentar zu Art. 61a AIG: Erlöschen des Aufenthaltsrechts von EU/EFTA-Bürgern bei unfreiwilliger Arbeitslosigkeit (L- und B-Bewilligung), Ausschluss von der Sozialhilfe, analoge Fristanwendung bei wiedererlangter Arbeitsfähigkeit, Abgrenzung zur freiwilligen Arbeitslosigkeit und das Spannungsverhältnis zum Freizügigkeitsabkommen (FZA) unter Berücksichtigung des Leitentscheids BGE 151 II 277 sowie des Bundesgerichtsurteils 2C_152/2025."
 tags: ["AIG", "Ausländerrecht", "Personenfreizügigkeit", "FZA", "Arbeitnehmerstatus", "Arbeitslosigkeit", "Sozialhilfeausschluss", "Kurzaufenthaltsbewilligung", "Aufenthaltsbewilligung", "Verbleiberecht", "Praxiskommentar"]
+revisions:
+  - date: 2026-11-01
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash (Medium)"
+    note: "Abstimmung mit Art. 61 AIG; Verifikation der Rechtsprechungsnachweise und Querverweise"
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash (Medium)"
+    note: "Erstfassung Praxiskommentar zu Art. 61a AIG; BGE 151 II 277, BGer 2C_152/2025 und 2C_355/2024 eingearbeitet"
 ---
 
 {{< wortlaut >}}

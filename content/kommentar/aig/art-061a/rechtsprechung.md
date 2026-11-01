@@ -2,9 +2,18 @@
 title: "Rechtsprechung zu Art. 61a AIG"
 weight: 99
 date: 2026-10-26
-lastmod: 2026-10-26
+lastmod: 2026-11-01
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Gerichtsentscheide zu Art. 61a AIG (Erlöschen des Aufenthaltsrechts von EU- und EFTA-Staatsangehörigen bei unfreiwilliger Arbeitslosigkeit)."
 tags: ["Rechtsprechung", "AIG", "Personenfreizügigkeit", "FZA", "Arbeitslosigkeit", "Arbeitnehmerstatus", "Verbleiberecht"]
+revisions:
+  - date: 2026-11-01
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash (Medium)"
+    note: "Abstimmung mit Art. 61 AIG; Verifikation der Rechtsprechungsnachweise"
+  - date: 2026-10-26
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash (Medium)"
+    note: "Erstfassung Rechtsprechungsübersicht zu Art. 61a AIG"
 ---
 
 ### I. Leitentscheide
