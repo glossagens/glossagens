@@ -152,6 +152,9 @@ kg:
 kvg:
   standard: [kv]
 
+lwg:
+  standard: [landwirtschaft]
+
 mwstg:
   standard: [steuern.mwst]
 
