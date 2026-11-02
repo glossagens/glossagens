@@ -2,10 +2,14 @@
 title: "Art. 43 AIG — Familiennachzug zu Personen mit Niederlassungsbewilligung"
 weight: 43
 date: 2026-07-03
-lastmod: 2026-10-15
+lastmod: 2026-11-02
 description: "Praxiskommentar zu Art. 43 AIG: Rechtsanspruch von Ehegatten und minderjährigen Kindern auf Familiennachzug zu Niedergelassenen; Zusammenwohnen und Ausnahmen nach Art. 49 AIG; bedarfsgerechte Wohnung; Ausschluss bei Sozialhilfeabhängigkeit und Bezug von Ergänzungsleistungen (Abs. 1 lit. e); Sprachkompetenz und Sprachförderung; Nachzugsfristen nach Art. 47 AIG; Erlöschen nach Art. 51 Abs. 2 AIG sowie Wiedererteilung nach Widerruf — mit systematischer Kasuistik, Schwellenwerten und Praxishinweisen."
 tags: ["AIG", "Familiennachzug", "Niederlassungsbewilligung", "Aufenthaltsbewilligung", "Zusammenwohnen", "Bedarfsgerechte Wohnung", "Sozialhilfeabhängigkeit", "Ergänzungsleistungen", "Sprachnachweis", "Integrationsvereinbarung", "Praxiskommentar"]
 revisions:
+  - date: 2026-11-02
+    by: "Claude (claude.ai)"
+    model: "claude-sonnet-5-5"
+    note: "Tippfehler korrigiert: «delinMemory» in «delinquiert». Sonst keine inhaltliche Änderung; Entscheidbelege wurden nicht neu geprüft."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -354,7 +358,7 @@ Eine Neubeurteilung und allfällige Bewilligungserteilung ist nur angezeigt, wen
 #### 3. Grenzen: Nullrisiko bei Gewaltdelikten und Delinquenz während Fernhaltemassnahmen
 Das Bundesgericht hat in **BGer 2C_48/2026 vom 18. Mai 2026** verdeutlicht:
 - Bei Delikten gegen Leib und Leben (z.B. vorsätzliche Tötung) ist aus Gründen des öffentlichen Schutzes **auch das geringste Rückfallrisiko nicht hinnehmbar** (E. 4.1).
-- Wer während einer bestehenden Einreisesperre erneut delinMemory (z.B. illegale Einreise, Fahren ohne Ausweis), stellt besondere Unbelehrbarkeit unter Beweis; die Bewährungsuhr wird dadurch faktisch auf Null zurückgesetzt.
+- Wer während einer bestehenden Einreisesperre erneut delinquiert (z.B. illegale Einreise, Fahren ohne Ausweis), stellt besondere Unbelehrbarkeit unter Beweis; die Bewährungsuhr wird dadurch faktisch auf Null zurückgesetzt.
 - Ein gezeigtes Wohlverhalten während des hängigen Bewilligungsverfahrens («Verfahrensdruck») besitzt kaum Entlastungswirkung (E. 4.1).
 
 > **Leitsatz.** Die Wiedererteilung nach strafrechtlichem Bewilligungswiderruf setzt eine langjährige Bewährung im Ausland voraus. Bei Tötungs- und schweren Gewaltdelikten ist auch die geringste Rückfallgefahr unvereinbar mit einem erneuten Familiennachzug.
