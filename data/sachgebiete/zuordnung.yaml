@@ -158,6 +158,9 @@ lwg:
 mwstg:
   standard: [steuern.mwst]
 
+nhg:
+  standard: [umwelt]
+
 ohg:
   standard: [strafprozess, verwaltungsrecht]
 
