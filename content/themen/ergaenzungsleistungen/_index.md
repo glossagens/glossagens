@@ -1,7 +1,7 @@
 ---
 title: "Ergänzungsleistungen zur AHV und IV: System, Anspruch und Verfahren"
 date: 2026-10-27
-lastmod: 2026-10-27
+lastmod: 2026-11-02
 description: "Systematische Darstellung der Ergänzungsleistungen (ELG): Verfassungsauftrag (Art. 112a BV), Anspruchsvoraussetzungen (Grundrenten, Wohnsitz, Karenzfristen), Vermögensschwelle (Art. 9a ELG), Berechnung der jährlichen EL (anerkannte Ausgaben vs. anrechenbare Einnahmen), Krankheitskosten (Art. 14 ELG), Nachlassrückerstattung (Art. 16a ELG) sowie Verwaltungsverfahren und Rechtsschutz nach ATSG."
 tags: ["Ergänzungsleistungen", "ELG", "AHV", "Invalidenversicherung", "Bedarfsleistung", "Existenzminimum", "Vermögensschwelle", "Vermögensverzicht", "Verwaltungsverfahren", "ATSG", "Krankheitskosten", "Nachlassrückerstattung"]
 typ: institution
@@ -24,6 +24,10 @@ normen:
   - { gesetz: atsg, art: art-052 }
 stichworte: ["Ergänzungsleistungen", "ELG", "Existenzbedarf", "Vermögensschwelle", "Mietzinsmaxima", "Vermögensverzicht", "Krankheitskosten", "Nachlassrückerstattung", "Einspracheverfahren", "Rückforderung", "ATSG"]
 revisions:
+  - date: 2026-11-02
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Nachführung Stand der Gesetzgebung: Geschäft 24.070 (Leistungen für Hilfe und Betreuung zu Hause, BBl 2024 2465) gemäss Ziff. 2.5 des Themen-Standards eingepflegt; Vollständigkeit und alle Belege via pruefen.py verifiziert."
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -308,6 +312,12 @@ Wurden Ergänzungsleistungen zu Unrecht bezogen – etwa infolge unterlassener M
 - **Fristen (Art. 25 Abs. 2 ATSG)**: Der Rückforderungsanspruch erlischt **drei Jahre**, nachdem die Versicherungseinrichtung davon Kenntnis erhalten hat, spätestens aber **fünf Jahre** seit der Auszahlung der einzelnen Leistung. Bei strafbaren Handlungen gilt die längere strafrechtliche Verjährungsfrist.
 - **Wiedererwägung ex tunc**: Eine rechtskräftige formelle Leistungszusprache kann bei zweifelloser Unrichtigkeit rückwirkend korrigiert werden, da eine gesetzliche Ordnung, «wie sie in Art. 25 ATSG angelegt ist und letztlich der Durchsetzung des Legalitätsprinzips dient» ([BGE 142 V 259](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-142-V-259_2016.html#consideration_3.2.2) E. 3.2.2), Vertrauensschutzargumente im Regelfall überwiegt.
 - **Erlass (Art. 25 Abs. 1 Satz 2 ATSG)**: Wer die Leistungen in *gutem Glauben* bezogen hat und durch die Rückerstattung in eine *grosse Härte* (Fehlen von Mitteln über dem betreibungsrechtlichen Notbedarf) gestürzt würde, kann innert 30 Tagen ein Erlassgesuch stellen.
+
+## Stand der Gesetzgebung {#stand-der-gesetzgebung}
+
+Das Bundesgesetz über die Ergänzungsleistungen ist Gegenstand der Revisionsvorlage [Geschäft 24.070](https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20240070) (*Bundesgesetz über die Ergänzungsleistungen zur AHV/IV [Leistungen für Hilfe und Betreuung zu Hause]. Änderung*, Botschaft vom 13. September 2024, BBl 2024 2465). 
+
+Die Vorlage wurde von den Eidgenössischen Räten in den Schlussabstimmungen vom Juni 2025 angenommen; das Inkrafttreten ist für 2028 vorgesehen (Stand: November 2026). Mit der Revision wird das EL-System erweitert, um den Grundsatz *ambulant vor stationär* finanziell abzustützen: Ergänzungsleistungsbeziehende sollen künftig standardisierte Beiträge für Hilfen im Haushalt, Notrufsysteme, Mahlzeitendienste und betreutes Wohnen als anerkannte Ausgaben geltend machen können, um den Eintritt in ein Pflege- oder Altersheim möglichst lange hinauszuzögern.
 
 ## Praxishinweise {#praxishinweise}
 
