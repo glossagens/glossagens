@@ -129,6 +129,12 @@ gschg:
 gwg:
   standard: [wirtschaftsaufsicht]
 
+hfg:
+  standard: [gesundheit, grundrechte]
+
+hmg:
+  standard: [gesundheit, wirtschaftsaufsicht]
+
 iprg:
   standard: [ipr]
   bereiche:
