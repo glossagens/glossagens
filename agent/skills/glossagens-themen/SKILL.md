@@ -18,6 +18,8 @@ tools:
   - mcp__fedlex-connector__get_article
   - mcp__fedlex-connector__get_law_text
   - mcp__fedlex-connector__search_by_title
+  - WebSearch
+  - WebFetch
 metadata:
   glossagens:
     category: content-creation
@@ -168,6 +170,41 @@ Lehrmeinungen nur, wenn das Werk eingesehen wurde **oder** ein Entscheid es ziti
 so, wie der Entscheid es angibt (keine ergänzten Vornamen, Auflagen oder Fundstellen), mit dem
 Hinweis, dass die Angabe der Zitierung im Entscheid folgt. Lieber keine Literatur als erfundene.
 
+### 2.5 Stand der Gesetzgebung (Curia Vista)
+
+Vor dem Schreiben prüfen, ob das Thema Gegenstand einer **hängigen** Vorlage oder eines Vorstosses
+ist oder die Räte kürzlich beschäftigt hat. Eine Revision kann die Antwort bald ändern; ein
+gescheiterter Vorstoss oder eine Ratsdebatte zeigt, wie der Gesetzgeber die Frage versteht. Fedlex
+(`list_amendments`) kennt nur Beschlossenes, entscheidsuche nur Entscheide — Vorlagen zwischen
+Botschaft und Schlussabstimmung stehen nur in Curia Vista.
+
+1. **Suchen** auf parlament.ch (Curia Vista, Suche nach Stichworten und Normen des Themas, mit
+   WebSearch/WebFetch). Mehrere Suchbegriffe: dieselbe Sache läuft oft unter anderem Titel
+   («Revision Sexualstrafrecht» / «Nein heisst Nein» / «Änderung des Strafgesetzbuches»). Zusätzlich
+   `mcp__opencaselaw__search_botschaft` (nur wenn erreichbar), um eine bereits veröffentlichte
+   Botschaft zu finden.
+2. **Treffer lesen**, nicht nur den Titel: Geschäftsnummer, Stand (Kommission, Erstrat, Zweitrat,
+   Differenzbereinigung, Schlussabstimmung, Referendumsfrist, abgeschrieben), Datum der letzten
+   Beratung. Die URL stammt aus der geladenen Seite, wird nie konstruiert; Angaben nie aus dem
+   Gedächtnis.
+3. **Befund im Text**: Nur wenn etwas Wesentliches gefunden wurde, kommt ein Abschnitt
+   `## Stand der Gesetzgebung {#stand-der-gesetzgebung}` vor den «Praxishinweisen»: Vorlage mit
+   Geschäftsnummer und Link auf Curia Vista, Stand mit **Stichtag**, in zwei bis vier Sätzen, was
+   sich für das Thema ändern würde. Wertungen zum politischen Streit unterbleiben; nur
+   Verfahrensstand und Inhalt der Vorlage. Betrifft die Vorlage einzelne Normen, bei diesen im
+   Fliesstext knapp darauf verweisen.
+4. **Kein Befund = kein Vermerk.** Wurde nichts Einschlägiges gefunden, steht dazu **nirgends
+   Öffentliches** etwas: weder ein Abschnitt «keine hängige Vorlage» noch ein Satz in `kurz`, im
+   Text, in der `note` des Revisionseintrags oder in der PR-Beschreibung. Die Suche liefert keinen
+   Beweis, dass nichts hängig ist; eine solche Behauptung würde veralten oder falsch sein. Das
+   Ergebnis («nichts gefunden») nur der Person im Gespräch mitteilen.
+5. **Nicht prüfbar** (kein Webzugriff, parlament.ch nicht erreichbar): Das ist etwas anderes als
+   ein negativer Befund und gehört in die `note` («Stand der Gesetzgebung nicht geprüft»), wie
+   alles, was nicht geprüft werden konnte.
+
+`pruefen.py` prüft diesen Abschnitt nicht; Geschäftsnummer, Stand und Link werden von Hand an der
+geladenen Curia-Vista-Seite kontrolliert.
+
 ---
 
 ## 3. Stil
@@ -201,6 +238,7 @@ Hinweis, dass die Angabe der Zitierung im Entscheid folgt. Lieber keine Literatu
 ## 4. Gerüste nach Typ
 
 Alle Typen beginnen mit `## Überblick {#ueberblick}` und enden mit
+(gegebenenfalls `## Stand der Gesetzgebung {#stand-der-gesetzgebung}`, siehe 2.5, dann)
 `## Praxishinweise {#praxishinweise}`, `## Leitentscheide {#leitentscheide}` (Tabelle:
 Entscheid · Gegenstand · Bedeutung) und gegebenenfalls `## Literatur {#literatur}`.
 Die Abschnitte «Betroffene Bestimmungen» und «Verwandte Themen» erzeugt das Layout selbst.
@@ -282,5 +320,6 @@ das Ledger. Danach:
 - [ ] Normtexte per `{{< wortlaut >}}`, Daten mit `scripts/wortlaut.py` erzeugt
 - [ ] Gerüst des Typs eingehalten; `kurz` laienverständlich; feste Anker überall
 - [ ] Literatur nur eingesehen oder exakt nach zitierendem Entscheid
+- [ ] Curia Vista geprüft (2.5): Befund mit Geschäftsnummer, Link und Stichtag im Text; bei keinem Befund nichts Öffentliches vermerkt; bei nicht möglicher Prüfung Vermerk in der `note`
 - [ ] `pruefen.py` ohne Befund, `build-check.sh` grün, Seite angesehen
 - [ ] `revisions`-Eintrag mit Quellen und Prüfweg

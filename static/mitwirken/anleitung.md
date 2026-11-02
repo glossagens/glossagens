@@ -68,6 +68,16 @@ der Person.
 - **BGE = BGer**: Ein publizierter BGE und das zugrunde liegende Urteil sind derselbe
   Entscheid. Nicht beide als einander bestätigend zitieren; den BGE zitieren.
 - opencaselaw: `check_claim_support`, `attest_response` und `reflect` **nicht** verwenden.
+- **Nur bei einem neuen Thema: Stand der Gesetzgebung.** Prüfe vor dem Schreiben auf
+  parlament.ch (Curia Vista, per Websuche oder Seitenabruf), ob das Thema Gegenstand einer
+  hängigen Vorlage oder eines Vorstosses ist. Suche unter mehreren Begriffen, lies den Treffer
+  (Geschäftsnummer, Stand, Datum der letzten Beratung) und nimm den Link aus der geladenen Seite,
+  nie aus dem Gedächtnis. Wurde etwas Wesentliches gefunden, kommt ein Abschnitt
+  `## Stand der Gesetzgebung {#stand-der-gesetzgebung}` vor die Praxishinweise: Geschäftsnummer,
+  Link, Stand mit Stichtag, zwei bis vier Sätze, was sich ändern würde — ohne Wertung des
+  politischen Streits. Wurde **nichts** gefunden, vermerke dazu nichts im Beitrag, auch nicht in
+  der `note` oder der Beschreibung; sag es der Person nur im Gespräch. Konntest du nicht suchen
+  (kein Webzugriff), schreibe «Stand der Gesetzgebung nicht geprüft» in die `note`.
 
 ## 4. Schreiben
 

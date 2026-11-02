@@ -388,6 +388,12 @@ Regeln:
 - Quellen wie beim Kommentar: Normtext nur über Fedlex bzw. `{{< wortlaut gesetz="…" art="…" >}}`,
   Entscheide über entscheidsuche verlinken, nichts aus dem Gedächtnis zitieren.
 - Bei Kantonsvergleichen je Kanton Quelle und Stand; ohne verifizierte Quelle «nicht erhoben».
+- **Stand der Gesetzgebung**: Vor dem Schreiben eines neuen Themas in Curia Vista (parlament.ch)
+  prüfen, ob es Gegenstand einer hängigen Vorlage oder eines Vorstosses ist. Befund →
+  Abschnitt `## Stand der Gesetzgebung {#stand-der-gesetzgebung}` vor den Praxishinweisen
+  (Geschäftsnummer, Link, Stichtag). **Kein Befund → nirgends öffentlich vermerken** (weder im
+  Text noch in `note` oder PR-Beschreibung); nicht prüfbar → «nicht geprüft» in der `note`.
+  Einzelheiten: Skill `glossagens-themen`, Abschnitt 2.5.
 - Fehlender/unbekannter `typ`, fehlendes `kurz`, fehlende oder unbekannte `sachgebiete`, unbekanntes
   Gesetz oder falsch geschriebenes `art` in `normen`, fehlende `revisions`: **Build bricht ab**
   (`layouts/_partials/sachgebiete/pruefen.html`).
