@@ -9,6 +9,10 @@ revisions:
   - date: 2026-11-02
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 6B_243/2026 vom 30. September 2026 (schwere Qualifikation: Grausamkeit bei Bedrohung mit Faustfeuerwaffe/ungeladener Waffe, Relevanz der Todesangst des Opfers); Volltext über bger.ch/opencaselaw geprüft."
+  - date: 2026-11-02
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
     note: "Vollständiger Neuaufbau und Ausbau auf 14 verifizierte Entscheide: Bereinigung fehlerhafter Nachweise (6B_776/2016, 6B_1056/2016); Einbindung von BGE 148 IV 234, BGE 147 IV 409, BGE 148 IV 329, BGE 126 IV 124, BGE 131 IV 107, BGE 128 IV 97, BGE 131 IV 167, BGE 127 IV 198, BGE 125 IV 199, BGE 124 IV 154, BGer 6B_278/2011, BGer 6B_643/2021, BE OG SK 2011 131, GL OG OG.2022.00083; alle Links auf entscheidsuche.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
@@ -121,6 +125,14 @@ revisions:
 - **Sachverhalt**: Der Ehemann erzwang über Jahre hinweg alle 14 Tage Sexualkontakte. Bei Weigerung wurde er «nervös» und schlug zu. Das erste Mal fixierte er die weinende Frau mit seinem vollen Körpergewicht und drang vaginal ein. Vor Gericht relativierte die Frau ihre Aussagen mit dem Bestreben, ihren Ehemann zu schonen, da eine Wiederheirat geplant war.
 - **Kernaussage**: Das Sachgericht darf willkürfrei auf glaubhafte Erstaussagen bei der Polizei abstellen und spätere Entlastungsaussagen als familiär motivierte Schutzversuche werten (E. 2.2). Das Niederdrücken und Fixieren einer abwehrenden Person mit dem eigenen Körpergewicht erfüllt das Nötigungsmittel der Gewalt (E. 3.3.3).
 - **Einschlägig für**: Art. 190 Abs. 2 StGB, Art. 10 StPO — Gewaltbegriff, Beweiswürdigung bei Widerruf von Aussagen.
+
+---
+
+### [BGer 6B_243/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_243_2026) E. 2.4 — Schwere Qualifikation: Bedrohung mit Faustfeuerwaffe, Ladebewegung und Grausamkeit bei Todesangst
+
+- **Sachverhalt**: Der Beschuldigte A. zwang die Geschädigte unter Vorhalt einer Faustfeuerwaffe (Walther PPK, 7.65 mm), getätigter Ladebewegung und Verweis auf angebliche Mafiazugehörigkeit zu sexuellen Handlungen und vaginalem Beischlaf. Während der Penetration lag die Waffe in Griffnähe auf dem Bett mit auf ihren Kopf gerichtetem Lauf. Die Waffe konnte nachträglich nicht sichergestellt werden. A. rügte die Qualifikation als grausam (Art. 190 Abs. 3 aStGB / nF) und machte geltend, das Vorliegen einer echten, geladenen Schusswaffe sei unbewiesen und Grausamkeit hänge nicht vom subjektiven Empfinden des Opfers ab.
+- **Kernaussage**: Das Verwenden einer Waffe erfordert ihren tatsächlichen Einsatz zur Gewalt oder Drohung (blosses Mitführen genügt nicht). Die Situation muss objektiv gefährlich sein, doch kann auch die fortdauernde Bedrohung mit einer ungeladenen Schusswaffe oder Schusswaffenimitation das Qualifikationsmerkmal der Grausamkeit erfüllen, wenn der Täter sein Opfer damit terrorisiert (E. 2.4.1). Die fortdauernde Waffenbedrohung in Verbindung mit der vom Opfer erlittenen Todesangst geht weit über das für den Grundtatbestand notwendige Leid hinaus (E. 2.4.2). Eine durch das Opfer erlittene Todesangst ist für die Grausamkeit unmittelbar rechtserheblich; der Einwand, Grausamkeit beurteile sich losgelöst vom subjektiven Empfinden des Opfers, ist unzutreffend (E. 2.4.3).
+- **Einschlägig für**: Art. 190 Abs. 3 StGB — Schwere Qualifikation, Grausamkeit, Waffeneinsatz, ungeladene Waffe, Todesangst.
 
 ---
 

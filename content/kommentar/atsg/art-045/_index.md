@@ -2,10 +2,14 @@
 title: "Art. 45 ATSG — Kosten der Abklärung"
 weight: 45
 date: 2026-09-03
-lastmod: 2026-10-15
+lastmod: 2026-11-02
 description: "Praxiskommentar zu Art. 45 ATSG: Kostenübernahmepflicht der Sozialversicherungsträger für medizinische Abklärungen und Gutachten, Kostenverteilung bei Mehrversichererfällen (Oberexpertise) sowie Kostenauflage bei Verfahrensvereitelung."
 tags: ["ATSG", "Sozialversicherungsrecht", "Abklärungskosten", "Gutachten", "Oberexpertise", "Mehrversicherer", "Untersuchungspflicht"]
 revisions:
+  - date: 2026-11-02
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 8C_312/2026 vom 25. September 2026 zu Art. 45 Abs. 1 ATSG (Schranken der Kostenüberbindung gerichtlicher Gutachten an den Versicherungsträger; Erfordernis qualifizierter Untersuchungsmängel der Verwaltungsverfahrens-Instruktion); Aktualisierung Link BGer 8C_628/2025 auf entscheidsuche.ch; Volltext via bger.ch/opencaselaw verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -45,13 +49,23 @@ Reicht die versicherte Person von sich aus ein Privatgutachten ein, hat sie nach
 1. Das Gutachten war für die Beurteilung des Anspruchs **unerlässlich** (weil der Versicherungsträger seine Abklärungspflicht verletzt hat und das Privatgutachten eine wesentliche Lücke schliesst); oder
 2. die Massnahme bildet Bestandteil nachträglich zugesprochener Leistungen ([BGE 137 V 210 E. 4.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-137-V-210_2011.html)).
 
-### C. Kostenverteilung bei Mehrversicherern und Oberexpertisen (BGer 8C_628/2025)
+### C. Kosten gerichtlicher Gutachten und Oberexpertisen (Abs. 1)
+
+#### 1. Kostenverteilung bei Mehrversicherern (BGer 8C_628/2025)
 
 Streiten zwei Versicherungsträger (z.B. zwei Unfallversicherer nach zeitversetzten Unfällen) um die Leistungspflicht, stellt sich die Frage, wer die Kosten gerichtlicher Gutachten und Oberexpertisen zu tragen hat.
 
-Im Urteil **BGer 8C_628/2025 vom 18. August 2026** hat das Bundesgericht die Grundsätze präzisiert:
-- **Zuweisung nach Untersuchungspflicht**: Diente eine gerichtliche Oberexpertise primär der Klärung, ob ein Zweitunfall den Vorzustand richtunggebend verschlimmert oder lediglich vorübergehend aktiviert hat, sind die Gutachterkosten demjenigen Versicherer aufzuerlegen, dessen Abklärungspflicht im Raum stand ([BGer 8C_628/2025 E. 8.4](https://bger-update.ch/zusammenfassung/33608/)).
+Im Urteil **[BGer 8C_628/2025 vom 18. August 2026 E. 8.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-628-2025_2026-08-18.html#consideration_8.4)** hat das Bundesgericht die Grundsätze präzisiert:
+- **Zuweisung nach Untersuchungspflicht**: Diente eine gerichtliche Oberexpertise primär der Klärung, ob ein Zweitunfall den Vorzustand richtunggebend verschlimmert oder lediglich vorübergehend aktiviert hat, sind die Gutachterkosten demjenigen Versicherer aufzuerlegen, dessen Abklärungspflicht im Raum stand.
 - **Unterlassene verwaltungsexterne Begutachtung**: Hat ein Versicherer es im Verwaltungsverfahren versäumt, den Kausalzusammenhang durch ein unabhängiges Gutachten zu klären, und musste das Gericht deshalb eine Oberexpertise einholen, rechtfertigt dies die Überbindung der Expertisekosten an diesen Versicherer ([BGE 143 V 269 E. 6.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-143-V-269_2017.html); [BGE 139 V 225 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-139-V-225_2013.html)).
+
+#### 2. Grenzen der Kostenüberbindung an den Versicherer (BGer 8C_312/2026)
+
+Das kantonale Gericht darf die Kosten eines von ihm angeordneten medizinischen Gutachtens nicht leichthin oder schematisch dem Versicherungsträger überbinden.
+
+Im Urteil **[BGer 8C_312/2026 vom 25. September 2026 E. 4.1–4.4](https://mcp.opencaselaw.ch/entscheid/bger_8C_312_2026)** hat das Bundesgericht die Schranken von Art. 45 Abs. 1 ATSG bekräftigt:
+- **Erfordernis qualifizierter Untersuchungsmängel**: Die Auferlegung der Gerichtsgutachtenkosten an den Versicherer setzt voraus, dass die behördliche Sachverhaltsabklärung qualifizierte Lücken oder Mängel («lacunes ou insuffisances caractérisées») aufwies und die gerichtliche Begutachtung dazu diente, diese Mängel zu beheben ([BGer 8C_312/2026 E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_8C_312_2026); [BGE 143 V 269 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-143-V-269_2017.html); [BGE 140 V 70 E. 6.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-140-V-70_2014.html)). Dies trifft zu, wenn der Versicherer offensichtliche Widersprüche unaufgeklärt liess, wesentliche Fragen offenliess oder auf ein ungenügendes Gutachten abstellte.
+- **Ausschluss der Kostenauflage bei rechtskonformer Vorabklärung**: Hat der Versicherer den Untersuchungsgrundsatz (Art. 43 Abs. 1 ATSG) rechtskonform erfüllt und durfte er auf eine schlüssige, fundierte Beurteilung (z.B. des Kreisarztes) abstellen, gegen die die behandelnden Ärzte keine substantiierten Einwände vorbrachten, darf das Gericht dem Versicherer die Kosten eines gerichtlich angeordneten Gutachtens nicht auferlegen. Blosse Zweifel des Gerichts oder nachträglich im Gerichtsverfahren eingereichte Berichte rechtfertigen keine Kostenüberbindung ([BGer 8C_312/2026 E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_8C_312_2026)).
 
 ### D. Kostenauflage bei Verfahrensvereitelung und Observation (Abs. 3 und Abs. 4)
 

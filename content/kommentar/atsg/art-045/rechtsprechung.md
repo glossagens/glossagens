@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 45 ATSG"
 weight: 99
 date: 2026-09-03
-lastmod: 2026-09-03
+lastmod: 2026-11-02
 description: "Übersicht der Rechtsprechung zu Art. 45 ATSG — Kosten der Abklärung und Oberexpertisen."
 tags: ["Rechtsprechung", "ATSG", "Sozialversicherungsrecht", "Abklärungskosten", "Gutachten", "Oberexpertise"]
 revisions:
+  - date: 2026-11-02
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 8C_312/2026 vom 25. September 2026 (Schranken der Kostenüberbindung für Gerichtsgutachten an den Versicherungsträger); Aktualisierung Link BGer 8C_628/2025 auf entscheidsuche.ch; Volltext via bger.ch/opencaselaw geprüft."
   - date: 2026-09-03
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -38,7 +42,12 @@ revisions:
 
 ## Weitere Bundesgerichtsentscheide
 
-### [BGer 8C_628/2025 vom 18. August 2026](https://bger-update.ch/zusammenfassung/33608/), E. 8.4
+### [BGer 8C_312/2026 vom 25. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_312_2026), E. 4.1–4.4
+- **Thema**: Schranken der Kostenüberbindung eines Gerichtsgutachtens an den Unfallversicherer
+- **Kernaussage**: Die Kosten eines gerichtlich veranlassten medizinischen Gutachtens dürfen dem Versicherungsträger gestützt auf Art. 45 Abs. 1 ATSG nur dann auferlegt werden, wenn die vorinstanzliche Sachverhaltsabklärung qualifizierte Lücken oder Mängel («lacunes ou insuffisances caractérisées») aufwies und das Gutachten diese behördlichen Mängel kompensieren soll. Durfte der Versicherer auf eine schlüssige und von den behandelnden Ärzten nicht substantiell erschütterte versicherungsärztliche Beurteilung abstellen, begründen blosse Zweifel des Gerichts oder im Beschwerdeverfahren eingereichte Berichte keine Kostenpflicht des Versicherers.
+- **Einschlägig für**: Abs. 1 (Kosten gerichtlicher Abklärungen, Grenzen der Kostenauflage)
+
+### [BGer 8C_628/2025 vom 18. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-628-2025_2026-08-18.html#consideration_8.4), E. 8.4
 - **Thema**: Kostentragung der Oberexpertise im Mehrversichererstreit
 - **Kernaussage**: Diente die Einholung einer Oberexpertise primär der Klärung, ob ein Zweitunfall eine richtunggebende Verschlimmerung bewirkt hat, sind die Kosten der Oberexpertise dem für den Zweitunfall zuständigen Versicherer aufzuerlegen, da dieser die Untersuchungspflicht verletzt hatte.
 - **Einschlägig für**: Abs. 1 (Kostenverteilung bei Mehrversicherern)
@@ -64,4 +73,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-09-03*
+*Letzte Aktualisierung: 2026-11-02*

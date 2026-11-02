@@ -9,6 +9,10 @@ revisions:
   - date: 2026-11-02
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 6B_243/2026 vom 30. September 2026 zu Art. 190 Abs. 3 StGB (schwere Qualifikation: Grausamkeit bei fortdauernder Bedrohung mit einer Faustfeuerwaffe, Relevanz der Todesangst bei ungeladener Waffe/Waffenimitation); Volltext via bger.ch/opencaselaw geprüft."
+  - date: 2026-11-02
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
     note: "Umfassender Ausbau zum Praxiskommentar gemäss Leitfaden: Systematische Einordnung und Gesetzeszweck der Revision 2024 (BBl 2018 2827, BBl 2022 687/1011; Querverweis Thema Revision Sexualstrafrecht); vollständiges Prüfschema nach Tatbestandsmerkmalen; narrative Kasuistik mit Lebenssachverhalten zu BGE 148 IV 234, BGE 147 IV 409, BGE 148 IV 329, BGE 126 IV 124, BGE 131 IV 107, BGE 131 IV 167, BGE 128 IV 97, BGE 127 IV 198, BGE 125 IV 199, BGE 124 IV 154, BGer 6B_278/2011, BGer 6B_643/2021, BGer 6B_445/2009, BE OG SK 2011 131, GL OG OG.2022.00083; Schwellenwert-Vergleichstabellen; Tilgung unzutreffender Urteilsnachweise (6B_776/2016, 6B_1056/2016); kantonale Praxisfragen und Praxishinweise nach Adressatenrollen; alle Entscheide via entscheidsuche.ch verifiziert; Gesetzeswortlaut via Shortcode wortlaut."
   - date: 2026-08-31
     by: "Claude Code"
@@ -220,11 +224,15 @@ Die Verwendung einer Waffe (z.B. Pistole, geladener Revolver, Dolch) oder eines 
 
 Erforderlich ist das **tatsächliche Verwenden** zur Drohung oder Nötigung (z.B. Vorhalten des Messers an die Kehle). Das blosse Mitsichführen ohne Kenntnis oder Wahrnehmung des Opfers begründet die Qualifikation nicht.
 
-> **Kasuistik: Kettenvergewaltigung unter Waffenbedrohung (BGE 125 IV 199)**  
+> **Kasuistik I: Kettenvergewaltigung unter Messerbedrohung (BGE 125 IV 199)**  
 > Die Täter schüchterten das Opfer in einer Bar ein, entführten es in eine Wohnung und hielten ihm ein Messer an den Hals, um jeden Widerstand zu unterdrücken. Anschliessend vergingen sich mehrere Täter stundenlang nacheinander an dem gefesselten und verängstigten Opfer, während Mittäter im Nebenzimmer abrufbereit warteten.  
 > **Beurteilung:** Das Bundesgericht bejahte die schwere Qualifikation der Grausamkeit und Waffenverwendung sowie die gemeinsame Begehung (Art. 200 StGB). Die Zufügung extremer Todesangst mittels Messer und die sequentielle Auslieferung begründeten eine Zuchthausstrafe von 16 Jahren für den Haupttäter ([BGE 125 IV 199 E. 2–4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-125-IV-199_1999-11-02.html)).
 
-> **Leitsatz.** Die Qualifikation nach Art. 190 Abs. 3 StGB verlangt den aktiven Einsatz einer gefährlichen Waffe zur Erzwingung der Tat oder die Zufügung übermässiger Qualen und seelischer Erniedrigungen, die weit über das zur Vergewaltigung Erforderliche hinausgehen.
+> **Kasuistik II: Bedrohung mit Faustfeuerwaffe und Ladebewegung (BGer 6B_243/2026)**  
+> Der Beschuldigte A. hielt der Geschädigten eine Faustfeuerwaffe (Pistole Walther PPK) an den Kopf, tätigte eine Ladebewegung und behauptete drohend, er gehöre zur «Mafia» und ihm gehöre ganz Luzern. Während der anschliessend erzwungenen sexuellen Penetration lag die Waffe in Griffnähe auf dem Bett, der Lauf auf ihren Kopf gerichtet. Die Waffe konnte nachträglich nicht sichergestellt werden; der Beschuldigte wandte ein, es sei weder nachgewiesen, dass die Pistole echt oder geladen gewesen sei, noch hänge Grausamkeit vom subjektiven Empfinden des Opfers ab.  
+> **Beurteilung:** Das Bundesgericht wies die Beschwerde ab und bestätigte den Schuldspruch wegen qualifizierter Vergewaltigung ([BGer 6B_243/2026 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_243_2026)): Die Qualifikation verlangt zwar das tatsächliche Verwenden zur Gewalt oder Drohung (blosses Mitsichführen genügt nicht), doch kann auch die Drohung mit einer ungeladenen Schusswaffe oder Schusswaffenimitation als solche grausam sein, wenn der Täter sein Opfer damit terrorisiert ([BGer 6B_243/2026 E. 2.4.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_243_2026)). Die fortdauernde Bedrohung mit einer Waffe in Verbindung mit der vom Opfer erlittenen Todesangst erfüllt die Qualifikation der Grausamkeit; eine durch das Opfer erlittene Todesangst ist für dieses Merkmal unmittelbar rechtserheblich ([BGer 6B_243/2026 E. 2.4.2 f.](https://mcp.opencaselaw.ch/entscheid/bger_6B_243_2026)).
+
+> **Leitsatz.** Die Qualifikation nach Art. 190 Abs. 3 StGB verlangt den aktiven Einsatz einer Waffe oder eines gefährlichen Gegenstands bzw. die Zufügung übermässiger Qualen; auch die fortdauernde Bedrohung mit einer ungeladenen Waffe oder Schusswaffenimitation erfüllt das Qualifikationsmerkmal der Grausamkeit, wenn das Opfer dadurch in existentielle Todesangst versetzt und terrorisiert wird.
 
 ---
 

@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 29 StPO"
 weight: 99
 date: 2026-07-12
-lastmod: 2026-07-12
+lastmod: 2026-11-02
 description: "Übersicht der Entscheide zu Art. 29 StPO – Grundsatz der Verfahrenseinheit."
-tags: ["Rechtsprechung", "StPO", "Verfahrenseinheit", "Mittäterschaft", "Teilnahme"]
+tags: ["Rechtsprechung", "StPO", "Verfahrenseinheit", "Mittäterschaft", "Teilnahme", "Jugendstrafprozessrecht"]
+revisions:
+  - date: 2026-11-02
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 7B_213/2026 vom 30. September 2026 (Verfahrenseinheit und Sistierung zwecks Verfahrensvereinigung bei mehreren jugendlichen Mitbeschuldigten); Urteil im Volltext über bger.ch/opencaselaw verifiziert."
 ---
 
 ## Rechtsprechung zu Art. 29 StPO — Grundsatz der Verfahrenseinheit
@@ -101,6 +106,14 @@ Die Rechtsprechung des Bundesgerichts zu Art. 29 StPO lässt sich in folgende th
 
 **Bedeutung:** Der Entscheid befasst sich mit Verbrechen gegen das Betäubungsmittelgesetz im Kontext des Grundsatzes der Verfahrenseinheit, der Garantie eines fairen Verfahrens und des rechtlichen Gehörs. Er zeigt die praktische Bedeutung der Verfahrenseinheit bei komplexen Betäubungsmitteldelikten mit mehreren Beteiligten.
 
+### 8. Jugendstrafrecht (JStPO)
+
+#### [BGer 7B_213/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_213_2026)
+
+**Regeste:** Art. 29 StPO, Art. 3 Abs. 2 und Art. 11 Abs. 1 JStPO (PPMin), Art. 314 StPO. Anwendbarkeit des Grundsatzes der Verfahrenseinheit auf gemeinsam handelnde jugendliche Mitbeschuldigte; Sistierung eines Berufungsverfahrens zwecks Verfahrensvereinigung (E. 2.4, 2.5).
+
+**Bedeutung:** Grundsatzurteil zur Koordination bei mehreren jugendlichen Mitbeschuldigten. Das Bundesgericht stellt klar, dass Art. 11 Abs. 1 JStPO die Verfahrenstrennung nur im Verhältnis zwischen Jugendlichen und Erwachsenen anordnet. Bei mehreren jugendlichen Mitbeschuldigten schliesst Art. 3 Abs. 2 JStPO die Anwendung von Art. 29 StPO nicht aus. Die weit verbreitete Praxis kantonaler Jugendstrafbehörden, stets getrennte Dossiers zu führen, ist keine bundesrechtliche Pflicht. Zur Verhinderung widersprüchlicher Urteile bei gegenseitigen Belastungen ist die Berufungsinstanz befugt, ein Berufungsverfahren gestützt auf Art. 314 StPO analog zu sistieren, bis die übrigen jugendlichen Beschuldigten erstinstanzlich beurteilt sind, um anschliessend eine gemeinsame Berufungsverhandlung durchzuführen.
+
 ### Zusammenfassung der Rechtsprechungsgrundsätze
 
 | Grundsatz | Quelle |
@@ -115,3 +128,4 @@ Die Rechtsprechung des Bundesgerichts zu Art. 29 StPO lässt sich in folgende th
 | Begründungspflicht bei Verfahrenstrennung | BGer 6B_135/2018 |
 | Verfahrensstellung nach rechtskräftiger Verurteilung | BGE 144 IV 97 E. 2 und 3 |
 | Konfrontationsanspruch bei getrennten Verfahren | BGer 6B_295/2016 |
+| Verfahrenseinheit gilt auch bei mehreren jugendlichen Mitbeschuldigten (Art. 3 Abs. 2 JStPO) | BGer 7B_213/2026 E. 2.5.3 |

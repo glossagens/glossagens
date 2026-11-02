@@ -2,10 +2,14 @@
 title: "Art. 29 StPO — Grundsatz der Verfahrenseinheit"
 weight: 29
 date: 2026-07-12
-lastmod: 2026-10-15
+lastmod: 2026-11-02
 description: "Kommentar zu Art. 29 StPO – Grundsatz der Verfahrenseinheit; gemeinsame Verfolgung und Beurteilung bei mehreren Straftaten, Mittäterschaft und Teilnahme."
-tags: ["StPO", "Verfahrenseinheit", "Mittäterschaft", "Teilnahme", "Prozessökonomie", "Zuständigkeit"]
+tags: ["StPO", "Verfahrenseinheit", "Mittäterschaft", "Teilnahme", "Prozessökonomie", "Zuständigkeit", "Jugendstrafprozessrecht"]
 revisions:
+  - date: 2026-11-02
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
+    note: "Ergänzung Rechtsprechung zu Jugendstrafverfahren bei mehreren jugendlichen Mitbeschuldigten (BGer 7B_213/2026 vom 30.09.2026: Anwendbarkeit von Art. 29 StPO via Art. 3 Abs. 2 JStPO, Zulässigkeit der Sistierung zwecks Verfahrensvereinigung im Berufungsverfahren); Urteil im Volltext über bger.ch/opencaselaw verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -151,6 +155,15 @@ Bei **Betäubungsmitteldelikten** und **organisierter Kriminalität** ist die ge
 
 Bei **getrennten Verfahren** kann sich die Frage des **Konfrontationsanspruchs** stellen. Wenn ein Mitbeschuldigter in einem getrennten Verfahren als Zeuge einvernommen wird, muss gewährleistet sein, dass die Verteidigung die Möglichkeit hat, Fragen an diesen Zeugen zu richten, um widersprüchliche Aussagen aufzuklären.[^32]
 
+### 5. Jugendstrafrecht: Verfahrenseinheit bei mehreren jugendlichen Mitbeschuldigten
+
+Im Jugendstrafverfahren schreibt Art. 11 Abs. 1 JStPO (PPMin) zwingend die Verfahrenstrennung zwischen Erwachsenen und Jugendlichen vor, um dem pädagogischen Schutzgedanken und dem Gebot einer individualisierten Urteilsfindung Rechnung zu tragen (Art. 4 Abs. 1 JStPO). Fraglich war in Lehre und kantonaler Praxis lange Zeit, ob bei gemeinsam begangenen Delikten mehrerer Jugendlicher ebenfalls getrennte Verfahren geführt werden müssen.
+
+Im Leitentscheid [BGer 7B_213/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_213_2026) hat das Bundesgericht die Rechtslage geklärt:[^33]
+- **Anwendbarkeit von Art. 29 StPO**: Art. 3 Abs. 2 JStPO schliesst die Anwendbarkeit des Grundsatzes der Verfahrenseinheit (Art. 29 StPO) im Jugendstrafverfahren nicht aus. Art. 11 Abs. 1 JStPO gebietet getrennte Verfahren ausschliesslich im Verhältnis zwischen Jugendlichen und Erwachsenen.
+- **Keine bundesrechtliche Pflicht zu getrennten Dossiers**: Die weit verbreitete Praxis kantonaler Jugendanwaltschaften, für jeden jugendlichen Tatbeteiligten zwingend ein separates Dossier anzulegen, beruht zwar auf dem Bestreben nach Individualisierung, stellt aber keine bundesrechtliche Pflicht dar.
+- **Verfahrensvereinigung und Sistierung im Berufungsverfahren**: Haben mehrere Jugendliche gemeinsam Straftaten gegen dieselbe geschädigte Person begangen und besteht die Gefahr gegenseitiger Schuldzuweisungen, ist eine gemeinsame Beurteilung sachlich geboten, um widersprüchliche Urteile zu vermeiden. Die kantonale Berufungsinstanz ist im Rahmen ihres weiten Ermessens (Art. 314 StPO analog) befugt, ein hängiges Berufungsverfahren zu sistieren, bis die erstinstanzlichen Urteile gegen die übrigen jugendlichen Mitbeschuldigten vorliegen, um anschliessend eine gemeinsame Berufungsverhandlung durchzuführen.
+
 ## X. Literatur und Fundstellen
 
 - **Botschaft** vom 21. Dezember 2005 zur Vereinheitlichung des Strafprozessrechts, BBl 2006 1142.
@@ -194,3 +207,4 @@ Bei **getrennten Verfahren** kann sich die Frage des **Konfrontationsanspruchs**
 [^30]: BGer 1B_124/2016 vom 12. August 2016 E. 4.4; BGer 1B_467/2016 vom 16. Mai 2017 E. 4.8.
 [^31]: BGer 1B_124/2016 vom 12. August 2016 E. 5.9; BGer 6B_23/2021 vom 20. Juli 2021.
 [^32]: BGer 6B_295/2016 vom 24. Oktober 2016.
+[^33]: BGer 7B_213/2026 vom 30. September 2026 E. 2.4 f., E. 2.5.3.
