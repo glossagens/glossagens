@@ -9,6 +9,10 @@ revisions:
   - date: 2026-11-02
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
+    note: "Präzisierung des Themas zu BGE 110 V 109 E. 3 (keine primäre Forschungsarbeit der Verwaltung ohne konkrete Anhaltspunkte; Bereinigung von Zitatanführungszeichen)."
+  - date: 2026-11-02
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
     note: "Umfassender Ausbau der Rechtsprechungsübersicht nach neuem Standard: Einarbeitung neuester Leitentscheide (BGE 152 II 486 zu geschwärzten Beweisurkunden vor BVGer, BGE 151 II 687 zu ElCom-Tarifprüfungen, BGE 142 I 86 zur Augenscheinsprotokollierung, BGE 136 I 229 zur antizipierten Beweiswürdigung) sowie fundierter kantonaler Kasuistik (ZH SVG UV.2021.00099, AG OG WBE.2019.372) mit vollständigen Sachverhalten und verifizierten Links auf entscheidsuche.ch. Audit bestanden (Urteil A, 100% Belegquote)."
   - date: 2026-08-29
     by: "Antigravity Agent"
@@ -105,7 +109,7 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 ---
 
 ### [BGE 110 V 109 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-110-V-109_1984-04-11.html#consideration_3) (1984)
-* **Thema**: Schranken der behördlichen Untersuchungspflicht: Verbot der Forschung ins Blaue
+* **Thema**: Schranken der behördlichen Untersuchungspflicht: Keine primäre Forschungsarbeit der Verwaltung ohne konkrete Anhaltspunkte
 * **Kernaussage**: Die Untersuchungsmaxime verpflichtet die Behörde nicht zu eigenständiger wissenschaftlicher Grundlagenforschung oder zur Verfolgung rein theoretischer Möglichkeiten ohne konkrete Anhaltspunkte in den Akten.
 * **Konkreter Sachverhalt**: Überprüfung von Unterlagen zur Streichung eines pharmazeutischen Präparates aus der Spezialitätenliste wegen fehlender therapeutischer Wirksamkeit.
 * **Einschlägig für**: Art. 12 Ingress VwVG

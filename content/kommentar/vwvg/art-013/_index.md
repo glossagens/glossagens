@@ -2,10 +2,14 @@
 title: "Art. 13 VwVG — Mitwirkung der Parteien"
 weight: 13
 date: 2026-06-28
-lastmod: 2026-10-15
+lastmod: 2026-11-02
 description: "Kommentar zu Art. 13 VwVG: Mitwirkung der Parteien — Mitwirkungspflichten, Schutz des Anwaltsgeheimnisses (Abs. 1bis), Nichteintreten bei Mitwirkungsverweigerung (Abs. 2) und Kasuistik."
 tags: ["VwVG", "Mitwirkungspflicht", "Sachverhaltsermittlung", "Anwaltsgeheimnis", "Nichteintreten", "Kasuistik"]
 revisions:
+  - date: 2026-11-02
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Präzisierung zu Rz. 3 und Rz. 9: Klarstellung, dass die Nichtigerklärung wegen Erschleichens eine spezialgesetzliche Rechtsfolge (Art. 36 BüG) und keine allgemeine Rechtsfolge von Art. 13 VwVG darstellt (allgemeine Rechtsfolge gemäss Abs. 2 ist Nichteintreten oder Entscheid nach Aktenlage)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -41,7 +45,7 @@ Seit dem 1. Mai 2013 schützt Art. 13 Abs. 1bis VwVG ausdrücklich die anwaltlic
 
 **Rz. 3** **1. Durch eigenes Begehren eingeleitete Verfahren (lit. a)**:
 * Wer ein Gesuch stellt (z.B. Bewilligung, Einbürgerung, Rente, Subvention), trägt die umfassende Pflicht, alle entscheidrelevanten Tatsachen wahrheitsgetreu und unaufgefordert darzulegen ([BGE 132 II 113 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-113_2006.html#consideration_3.1)).
-* **Verschweigen von Tatsachen**: Das Verschweigen wesentlicher Tatsachen (z.B. Scheitern der Ehe oder Straftaten im Einbürgerungsverfahren) begründet die Nichtigerklärung wegen Erschleichung ([BGE 140 II 65 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-140-II-65_2014.html#consideration_3.3); [BGE 130 II 482 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-II-482_2004.html#consideration_3.2)).
+* **Verschweigen von Tatsachen**: Verschweigt eine Partei wesentliche Tatsachen, zieht dies primär die allgemeinen VwVG-Folgen nach sich (Nichteintreten oder Entscheid nach Aktenlage gemäss Abs. 2; siehe unten Rz. 8). Schärfere Rechtsfolgen wie eine nachträgliche **Nichtigerklärung wegen Erschleichens** folgen nicht direkt aus Art. 13 VwVG, sondern bedürfen einer spezialgesetzlichen Grundlage (so namentlich im Bürgerrechtsrecht nach Art. 36 BüG [früher Art. 41 aBüG]; vgl. [BGE 140 II 65 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-140-II-65_2014.html#consideration_3.3); [BGE 130 II 482 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-II-482_2004.html#consideration_3.2)). Die Verletzung der Mitwirkungspflicht nach Art. 13 Abs. 1 lit. a VwVG bildet dort das vorwerfbare Verhalten («unvollständige Angaben»), an welches das Spezialgesetz die Nichtigerklärung knüpft.
 
 **Rz. 4** **2. Selbstständige Begehren in amtlichen Verfahren (lit. b)**:
 * Wer in einer von Amtes wegen geführten Untersuchung (z.B. Aufsichts- oder Regulierungsverfahren) eigene Anträge stellt, muss die zu deren Begründung erforderlichen Tatsachen belegen.
@@ -63,8 +67,8 @@ Seit dem 1. Mai 2013 schützt Art. 13 Abs. 1bis VwVG ausdrücklich die anwaltlic
 
 ## Kasuistik: Typische Anwendungsbereiche
 
-**Rz. 9** **Fallgruppe 1: Aufklärungspflicht im Einbürgerungsverfahren**
-In [BGE 132 II 113 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-113_2006.html#consideration_3.1) bekräftigte das Bundesgericht, dass ein Einbürgerungsbewerber die Behörde unaufgefordert über eine Trennung vor Verfügungserlass informieren muss; das Verschweigen führt zur Nichtigkeit des Bürgerrechtserwerbs.
+**Rz. 9** **Spezialgesetzliche Anwendung: Aufklärungspflicht im Einbürgerungsverfahren**
+In [BGE 132 II 113 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-113_2006.html#consideration_3.1) bekräftigte das Bundesgericht, dass ein Einbürgerungsbewerber die Behörde unaufgefordert über eine Trennung vor Verfügungserlass informieren muss; das Verschweigen erfüllt den bürgerrechtsgesetzlichen Tatbestand des Erschleichens (Art. 36 BüG), welcher zur Nichtigerklärung des Bürgerrechtserwerbs führt.
 
 **Rz. 10** **Fallgruppe 2: Edition von Anwaltsmemoranden (Abs. 1bis)**
 In [BGE 142 IV 207 E. 8.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_002_BGE-142-IV-207_2016.html#consideration_8.3) bestätigte das Bundesgericht den absoluten Schutz der anwaltlichen Rechtsberatungsunterlagen vor Herausgabeansprüchen im behördlichen Verfahren.
