@@ -9,6 +9,9 @@ gruppen:
   - name: "Allgemeine Bestimmungen — Wirkung und Erlöschen der Obligationen"
     von: 68
     bis: 142
+  - name: "Einzelne Vertragsverhältnisse — Kauf und Tausch"
+    von: 184
+    bis: 236
   - name: "Einzelne Vertragsverhältnisse — Miete"
     von: 253
     bis: 274
