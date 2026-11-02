@@ -1,7 +1,7 @@
 ---
 title: "Familiennachzug im schweizerischen Ausländerrecht (AIG)"
 date: 2026-10-27
-lastmod: 2026-10-27
+lastmod: 2026-11-02
 description: "Systematische Darstellung des Familiennachzugs nach dem Ausländer- und Integrationsgesetz (AIG): Gesetzliche Ansprüche, Voraussetzungen (Zusammenwohnen, bedarfsgerechte Wohnung, keine Sozialhilfe/EL, Sprachkompetenzen), Nachzugsfristen (Art. 47 AIG), Erlöschensgründe, umgekehrter Familiennachzug und Rechtsschutz."
 tags: ["Ausländerrecht", "Familiennachzug", "AIG", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Integrationskriterien", "Kindeswohl", "EMRK", "BV", "BGG"]
 typ: grundlage
@@ -23,6 +23,10 @@ normen:
   - { gesetz: bgg, art: art-083 }
 stichworte: ["Familiennachzug", "AIG", "Rechtsanspruch", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Ehegattennachzug", "Kindernachzug", "Zusammenwohnen", "Bedarfsgerechte Wohnung", "Sozialhilfeabhängigkeit", "Ergänzungsleistungen", "Sprachnachweis", "Nachzugsfristen", "Nachträglicher Familiennachzug", "wichtige familiäre Gründe", "Art. 47 AIG", "Rechtsmissbrauch", "Scheinehe", "Art. 51 AIG", "Umgekehrter Familiennachzug", "Inländerdiskriminierung", "Art. 8 EMRK", "Art. 13 BV"]
 revisions:
+  - date: 2026-11-02
+    by: "Claude (claude.ai)"
+    model: "claude-sonnet-5-5"
+    note: "Fristen korrigiert: Für Ehegatten gilt die Frist von 5 Jahren, nicht 12 Monate; nur Kinder über 12 Jahre müssen binnen 12 Monaten nachgezogen werden (Art. 47 Abs. 1 AIG, Fedlex Stand 1.11.2026). Der Satz zum taktischen Nachholen kurz vor der Volljährigkeit war in BGE 137 I 284 E. 2.3.1 nicht belegt und wurde durch den Zweck der Zuwanderungssteuerung ersetzt (2C_948/2019). Belege im Volltext gelesen."
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -130,13 +134,15 @@ Wird der Kurs nicht besucht oder verweigert die Person die Integration, kann die
 
 ### Das System der Stufenfristen (Art. 47 AIG) {#stufenfristen}
 
-Der Familiennachzug unterliegt strengen gesetzlichen Verwirkungsfristen. Der Gesetzgeber verfolgte mit Art. 47 AIG den Zweck, Kinder möglichst frühzeitig in das schweizerische Schul- und Gesellschaftssystem einzubinden und ein taktisches Nachholen kurz vor Erreichen der Volljährigkeit zu verhindern ([BGE 137 I 284 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-284_2011.html#consideration_2.3.1)):
+Der Familiennachzug unterliegt strengen gesetzlichen Verwirkungsfristen. Mit Art. 47 AIG wollte der Gesetzgeber eine möglichst frühzeitige Integration der Kinder erreichen ([BGE 137 I 284 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-284_2011.html#consideration_2.3.1)):
 
 > «Mit Blick auf die angestrebte frühzeitige Integration der Kinder und den Wandel der gesellschaftlichen Verhältnisse, wonach immer mehr Einelter- und sog. Patchworkfamilien (familles recomposées) anzutreffen sind, hat der Bundesgesetzgeber den Familiennachzug im Ausländergesetz neu gestaltet»
 
-Die Fristen betragen:
-- **Kinder unter 12 Jahren**: Der Nachzug muss innerhalb von **5 Jahren** beantragt werden (Art. 47 Abs. 1 AIG).
-- **Kinder über 12 Jahren und Ehegatten**: Der Nachzug muss innerhalb von **12 Monaten (1 Jahr)** geltend gemacht werden (Art. 47 Abs. 1 AIG).
+Zugleich dienen die Fristen der Steuerung der Zuwanderung. Das Bundesgericht sieht in der Fristenregelung einen Kompromiss zwischen dem Anliegen, Familienleben zu ermöglichen, und der Begrenzung der Einwanderung ([BGer 2C_948/2019 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-948-2019_2020-04-27.html#consideration_3.3)).
+
+Die Fristen betragen (Art. 47 Abs. 1 AIG):
+- **Ehegatten und Kinder bis 12 Jahre**: Der Nachzug muss innerhalb von **5 Jahren** geltend gemacht werden. Das Bundesgericht wandte diese Frist auf eine Ehefrau und drei Kinder unter zwölf Jahren an ([BGer 2C_948/2019 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-948-2019_2020-04-27.html#consideration_2.2)).
+- **Kinder über 12 Jahre**: Der Nachzug muss innerhalb von **12 Monaten (1 Jahr)** erfolgen.
 - **Fristbeginn**: Die Frist beginnt mit der Erteilung der Aufenthalts- oder Niederlassungsbewilligung oder mit der Entstehung des Familienverhältnisses (z. B. Heirat, Geburt; Art. 47 Abs. 3 lit. b AIG).
 
 ### Massgebender Zeitpunkt für das Kindesalter {#kindesalter}
