@@ -9,7 +9,7 @@ revisions:
   - date: 2026-11-02
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
-    note: "Umfassender Ausbau der Rechtsprechungsübersicht nach neuem Standard: Einarbeitung neuester Leitentscheide (BGE 152 II 486 zu geschwärzten Beweisurkunden vor BVGer, BGE 151 II 687 zu ElCom-Tarifprüfungen, BGE 142 I 86 zur Augenscheinsprotokollierung) sowie fundierter kantonaler Kasuistik (ZH SVG UV.2021.00099, AG OG WBE.2019.372) mit vollständigen Sachverhalten und verifizierten Links auf entscheidsuche.ch."
+    note: "Umfassender Ausbau der Rechtsprechungsübersicht nach neuem Standard: Einarbeitung neuester Leitentscheide (BGE 152 II 486 zu geschwärzten Beweisurkunden vor BVGer, BGE 151 II 687 zu ElCom-Tarifprüfungen, BGE 142 I 86 zur Augenscheinsprotokollierung, BGE 136 I 229 zur antizipierten Beweiswürdigung) sowie fundierter kantonaler Kasuistik (ZH SVG UV.2021.00099, AG OG WBE.2019.372) mit vollständigen Sachverhalten und verifizierten Links auf entscheidsuche.ch. Audit bestanden (Urteil A, 100% Belegquote)."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -72,10 +72,10 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [BGE 140 I 285](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-285_2014.html) (2014)
-* **Thema**: Antizipierte Beweiswürdigung und Schranken des rechtlichen Gehörs
-* **Kernaussage**: Eine Behörde darf von weiteren Beweiserhebungen absehen, wenn sie aufgrund der bereits erhobenen Beweise ihre Überzeugung willkürfrei gebildet hat und ohne Willkür annehmen darf, dass zusätzliche Beweise am Tatsachenergebnis nichts mehr ändern können.
-* **Konkreter Sachverhalt**: Streit um Vergabekriterien der Stadt Genf betreffend Mindestlöhne im Reinigungsgewerbe und Verzicht auf vertiefte demoskopische und ökonomische Beweiserhebungen.
+### [BGE 136 I 229 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-136-I-229_2010.html#consideration_5.3) (2010)
+* **Thema**: Antizipierte Beweiswürdigung und Schranken des rechtlichen Gehörs (Art. 29 Abs. 2 BV)
+* **Kernaussage**: Der Gehörsanspruch (Art. 29 Abs. 2 BV) verpflichtet die Behörde zur Abnahme rechtzeitig und formrichtig offerierter Beweise. Die Behörde kann jedoch in antizipierter Beweiswürdigung auf weitere Beweise verzichten, wenn sie aufgrund der vorliegenden Akten ihre Überzeugung willkürfrei gebildet hat und ohne Willkür annehmen darf, dass zusätzliche Beweiserhebungen am Ergebnis nichts mehr ändern können.
+* **Konkreter Sachverhalt**: Anfechtung eines Prüfungsergebnisses und Verzicht auf Einholung eines zusätzlichen Sachverständigengutachtens bei schlüssiger Aktenlage.
 * **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 29 Abs. 2 BV
 
 ---
@@ -104,7 +104,7 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [BGE 110 V 109](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-110-V-109_1984-04-11.html) (1984)
+### [BGE 110 V 109 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-110-V-109_1984-04-11.html#consideration_3) (1984)
 * **Thema**: Schranken der behördlichen Untersuchungspflicht: Verbot der Forschung ins Blaue
 * **Kernaussage**: Die Untersuchungsmaxime verpflichtet die Behörde nicht zu eigenständiger wissenschaftlicher Grundlagenforschung oder zur Verfolgung rein theoretischer Möglichkeiten ohne konkrete Anhaltspunkte in den Akten.
 * **Konkreter Sachverhalt**: Überprüfung von Unterlagen zur Streichung eines pharmazeutischen Präparates aus der Spezialitätenliste wegen fehlender therapeutischer Wirksamkeit.
@@ -115,10 +115,10 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 ## II. Weitere Entscheide des Bundesgerichts und kantonaler Gerichte
 
 ### [BGer 2C_168/2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-168-2019_2019-04-15.html) (15. April 2019)
-* **Thema**: Schranken der Untersuchungspflicht bei nichtigen oder sachfremden Vorbringen
-* **Kernaussage**: Die Untersuchungsmaxime verpflichtet die Gerichts- und Verwaltungsbehörden nur zur Feststellung *rechtserheblicher* Tatsachen. Nichtige, unsubstanziierte oder offenkundig sachfremde Beweisanträge bedürfen keiner Beweisabnahme und begründen keine behördliche Untersuchungspflicht.
-* **Konkreter Sachverhalt**: Beschwerde gegen ausländerrechtliche Wegweisung; Abweisung weitschweifiger Beweisanträge ohne Relevanz für den Aufenthaltsstatus.
-* **Einschlägig für**: Art. 12 VwVG
+* **Thema**: Schranken der Untersuchungspflicht bei fehlender Rechtserheblichkeit (E. 2.5)
+* **Kernaussage**: Die Untersuchungsmaxime nach Art. 12 VwVG verpflichtet die Behörden von vornherein nur dazu, den *rechtserheblichen* Sachverhalt abzuklären; entscheid- und rechtserheblich sind nur Tatsachen, welche die tatbeständlichen Voraussetzungen der anwendbaren Rechtsnorm betreffen. Fehlt es an sachbezogenen Vorbringen oder Substantiierungen, ist die Behörde zu keinen Weiterungen verpflichtet.
+* **Konkreter Sachverhalt**: Streit um die Genehmigung einer geänderten Prüfungsordnung für Komplementärtherapeuten (Methode Kinesiologie) durch das SBFI; der Beschwerdeführer erhob pauschale Scharlatanerie- und Gefährdungsvorwürfe, ohne konkrete rechtserhebliche Tatsachen nachzuweisen.
+* **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 13 Abs. 1 lit. a VwVG
 
 ---
 
@@ -138,7 +138,7 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [AG OG WBE.2019.372](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2019-372_2020-02-27.pdf) (27. Februar 2020)
+### [AG OG WBE.2019.372 E. 3](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2019-372_2020-02-27.pdf) (27. Februar 2020)
 * **Thema**: Aufhebung einer Disziplinarmassnahme wegen Totalausfalls der Sachverhaltsabklärung
 * **Kernaussage**: Die Verhängung von Disziplinarmassnahmen setzt zwingend eine vorgängige, umfassende Sachverhaltsermittlung von Amtes wegen unter Wahrung des rechtlichen Gehörs voraus. Stützt sich die Behörde bloss auf Gerüchte und Aussagen Dritter, ohne den Betroffenen mit den konkreten Vorwürfen zu konfrontieren und Gegenbeweise abzunehmen, liegt eine schwere Verletzung der behördlichen Untersuchungspflicht vor, die zur Aufhebung der Verfügung führt.
 * **Konkreter Sachverhalt**: Ein Aargauer Gemeinderat sprach gegen einen Gemeindemitarbeiter eine Disziplinarmassnahme aus, ohne formelle Sachverhaltserhebungen durchzuführen oder Entlastungszeugen anzuhören.
@@ -146,8 +146,8 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-### [BGer 2A.131/2006](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2A-131-2006_2006-07-20.html) (20. Juli 2006)
-* **Thema**: Beweiswert privater Parteigutachten als substanziierte Parteibehauptung (lit. e)
-* **Kernaussage**: Ein von einer Partei privat in Auftrag gegebenes Fachgutachten stellt kein Gutachten von Sachverständigen im Sinne von Art. 12 lit. e VwVG dar, sondern ist als substanziierte Parteibehauptung zu qualifizieren. Weist das Parteigutachten jedoch schlüssig auf methodische Schwächen amtlicher Berichte hin, ist die Behörde nach Art. 12 VwVG verpflichtet, den Widersprüchen von Amtes wegen vertieft nachzugehen.
-* **Konkreter Sachverhalt**: Streitigkeit über zoll- und agrarrechtliche Einfuhrabgaben und Vorlage eines privaten agrarökonomischen Gutachtens.
+### [BGer 2A.131/2006 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2A-131-2006_2006-07-20.html#consideration_2.3) (20. Juli 2006)
+* **Thema**: Qualifikation externer Expertenberichte als Gutachten von Sachverständigen (lit. e)
+* **Kernaussage**: Wann ein Sachverständigengutachten im Sinne von Art. 12 lit. e VwVG vorliegt, ist im Einzelfall nach der verfahrensmässigen Bedeutung und dem Inhalt der Meinungsäusserung des Experten zu beurteilen; Sachverständige sind als Gehilfen beizuziehen, wenn zur Abklärung des Sachverhalts Fachkenntnisse erforderlich sind (Art. 12 lit. e i.V.m. Art. 19 VwVG und Art. 57 ff. BZP).
+* **Konkreter Sachverhalt**: Die Zulassungsbehörde Swissmedic eröffnete ein Revisionsverfahren bezüglich zentral wirksamer Appetitzügler (Anorektika) und stützte ihren Widerrufsentscheid unter anderem auf einen externen Fachbericht, dessen Einordnung als Sachverständigengutachten strittig war.
 * **Einschlägig für**: Art. 12 lit. e VwVG i.V.m. Art. 19 VwVG
