@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 12 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-29
-description: "Übersicht der Rechtsprechung zu Art. 12 VwVG — Untersuchungsmaxime, Beweismittel, antizipierte Beweiswürdigung, Mitwirkungspflichten und Kasuistik."
+lastmod: 2026-11-02
+description: "Systematische Rechtsprechungsübersicht zu Art. 12 VwVG: Leitentscheide des Bundesgerichts und kantonale Judikatur zur Untersuchungsmaxime, Beweismitteln, antizipierter Beweiswürdigung, Mitwirkungspflichten und materieller Beweislast."
 tags: ["Rechtsprechung", "VwVG", "Untersuchungsmaxime", "Beweismittel", "Beweiswürdigung", "Kasuistik"]
 revisions:
+  - date: 2026-11-02
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Umfassender Ausbau der Rechtsprechungsübersicht nach neuem Standard: Einarbeitung neuester Leitentscheide (BGE 152 II 486 zu geschwärzten Beweisurkunden vor BVGer, BGE 151 II 687 zu ElCom-Tarifprüfungen, BGE 142 I 86 zur Augenscheinsprotokollierung) sowie fundierter kantonaler Kasuistik (ZH SVG UV.2021.00099, AG OG WBE.2019.372) mit vollständigen Sachverhalten und verifizierten Links auf entscheidsuche.ch."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -22,98 +26,128 @@ revisions:
 
 # Rechtsprechung zu Art. 12 VwVG
 
-Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der Gerichtspraxis zur Untersuchungsmaxime und zum Beweisrecht nach Art. 12 VwVG.
+Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kantonalen Gerichtspraxis zur Untersuchungsmaxime, zum Beweismittelkatalog und zum Beweisverfahren nach Art. 12 VwVG.
+
+---
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
 
+### [BGE 152 II 486](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-152-II-486_2026.html) (2026)
+* **Thema**: Untersuchungsgrundsatz und Mitwirkungspflicht im Verfahren vor Bundesverwaltungsgericht; Vorlage geschwärzter Urkunden
+* **Kernaussage**: Der im Verwaltungsverfahren und vor Bundesverwaltungsgericht geltende Untersuchungsgrundsatz wird durch die Mitwirkungspflicht der steuerpflichtigen Person (Art. 13 VwVG) relativiert. Reicht eine Partei entscheidwesentliche Urkunden (in casu einen Aktionärsbindungsvertrag zum Nachweis eines massgeblichen Einflusses bei einer 9-Prozent-Beteiligung) trotz Beanstandung der Verwaltung erneut in weiten Teilen geschwärzt ein und offeriert sie lediglich pauschal Beweis, ist das Gericht ohne konkrete ungeschwärzte Beweisofferte nicht gehalten, von Amtes wegen weitere Nachforschungen anzustellen.
+* **Konkreter Sachverhalt**: Eine Holdinggesellschaft beanspruchte den Vorsteuerabzug nach MWSTG für Beratungsleistungen und Darlehen an eine Tochtergesellschaft. Zum Nachweis des gesellschaftsrechtlichen Einflusses reichte sie vor der ESTV und im Beschwerdeverfahren vor Bundesverwaltungsgericht einen undatierten und massiv geschwärzten Aktionärsbindungsvertrag ein. Das Bundesgericht verwarf die Rüge der Verletzung der behördlichen Untersuchungspflicht.
+* **Einschlägig für**: Art. 12 Ingress i.V.m. Art. 13 Abs. 1 lit. a VwVG
+
+---
+
 ### [BGE 151 II 687](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-687_2025.html) (2025)
-- **Thema**: Untersuchungsmaxime und freie Beweiswürdigung im Stromversorgungsrecht
-- **Kernaussage**: Die Behörden sind verpflichtet, den rechtserheblichen Sachverhalt nach Art. 12 VwVG von Amtes wegen abzuklären und die Beweise frei zu würdigen; im Tarifprüfungsverfahren darf die ElCom grundsätzlich auf Vorjahresangaben abstellen.
-- **Konkreter Sachverhalt**: Überprüfung der Gesetzmässigkeit von Elektrizitätsnetznutzungstarifen.
-- **Einschlägig für**: Art. 12 Satz 1 VwVG i.V.m. Art. 19 VwVG
+* **Thema**: Untersuchungsmaxime und freie Beweiswürdigung im Stromversorgungsrecht (ElCom)
+* **Kernaussage**: Die Regulierungsbehörde (ElCom) ist nach Art. 12 VwVG i.V.m. Art. 19 VwVG und Art. 40 BZP verpflichtet, den rechtserheblichen Sachverhalt von Amtes wegen festzustellen und die Beweise frei zu würdigen. Im individuellen Tarifprüfungsverfahren darf die Behörde gestützt auf das Basisjahrprinzip grundsätzlich auf die von der Netzbetreiberin deklarierten Ist-Werte des Vorjahres abstellen, solange keine begründeten Zweifel vorliegen; eine lückenlose Detailprüfung jedes Buchungspostens ist von Gesetzes wegen nicht geschuldet.
+* **Konkreter Sachverhalt**: Streitigkeit zwischen einer regionalen Elektrizitätsverteilnetzbetreiberin und der ElCom über die Anrechenbarkeit von Betriebskosten und kalkulatorischen Abschreibungen im Netznutzungstarif.
+* **Einschlägig für**: Art. 12 Satz 1 i.V.m. Art. 19 VwVG und Art. 40 BZP
 
 ---
 
 ### [BGE 143 II 425](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-143-II-425_2017.html) (2017)
-- **Thema**: Reichweite des Untersuchungsgrundsatzes im Beschaffungswesen
-- **Kernaussage**: Bei konkreten Hinweisen auf Verletzungen der Wettbewerbsneutralität durch staatliche Anbieter muss die Vergabestelle den Sachverhalt nach Art. 12 VwVG von Amtes wegen vertieft abklären.
-- **Konkreter Sachverhalt**: Ausschluss eines staatlichen Anbieters wegen Quersubventionierung.
-- **Einschlägig für**: Art. 12 VwVG i.V.m. BöB
+* **Thema**: Reichweite des Untersuchungsgrundsatzes im öffentlichen Beschaffungswesen bei unzulässiger Quersubventionierung staatlicher Anbieter
+* **Kernaussage**: Liegen im Submissionsverfahren konkrete Anhaltspunkte dafür vor, dass ein Anbieter mit staatlichem Hintergrund (in casu eine öffentlich-rechtliche Universität) gegen den Grundsatz der Wettbewerbsneutralität verstösst, indem er wesentliche Personalkosten nicht in die Offerte einkalkuliert, ist die Vergabestelle nach Art. 12 VwVG verpflichtet, den Sachverhalt von Amtes wegen vertieft abzuklären und Erkundigungen einzuholen; ein blosser Verweis auf vorgelegte Standardformulare genügt nicht.
+* **Konkreter Sachverhalt**: Das BAKOM erteilte der Universität Zürich den Zuschlag für die «Analyse des SRG Online-Angebots». Die unterlegene private Konkurrentin rügte, die Universität habe 180 Stunden Projektleitung nicht in die Projektkosten eingerechnet und das Angebot damit subventioniert.
+* **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 11 BöB
+
+---
+
+### [BGE 142 I 86](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-142-I-86_2016.html) (2016)
+* **Thema**: Protokollierungspflicht für behördliche und gerichtliche Augenscheine (lit. d)
+* **Kernaussage**: Der verfassungsrechtliche Gehörsanspruch (Art. 29 Abs. 2 BV) gebietet, dass die Ergebnisse eines Augenscheins im Verwaltungsjustizverfahren schriftlich protokolliert werden. Den Verfahrensparteien muss zwingend noch vor Urteilsfällung Gelegenheit geboten werden, zum Protokoll und zu einer allfälligen Fotodokumentation Stellung zu nehmen; ein Abstellen auf nicht protokollierte Wahrnehmungen führt zur Aufhebung des Entscheids.
+* **Konkreter Sachverhalt**: Ein kantonales Gericht fällte seinen Entscheid nach Durchführung eines Augenscheins an Ort und Stelle, fertigte jedoch kein schriftliches Protokoll aus und stellte den Parteien die Fotos erst im Rechtsmittelverfahren zu.
+* **Einschlägig für**: Art. 12 lit. d VwVG i.V.m. Art. 29 Abs. 2 BV
+
+---
+
+### [BGE 142 II 433](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-433_2016.html) (2016)
+* **Thema**: Beweislastverteilung (Art. 8 ZGB) und antizipierte Beweiswürdigung bei zollrechtlicher Berichtigung
+* **Kernaussage**: Die Untersuchungsmaxime regelt lediglich die Beweisführungslast, lässt jedoch die materielle Beweislast nach Art. 8 ZGB unberührt. Wer die Berichtigung einer Zolldeklaration beansprucht, trägt die Beweislast für die Identität und Nämlichkeit der Ware. Verlangt das materielle Recht urkundliche Nachweise zum Abfertigungszeitpunkt, darf die Behörde mündliche Zeugeneinvernahmen Jahre später in zulässiger antizipierter Beweiswürdigung ablehnen.
+* **Konkreter Sachverhalt**: Eine Spediteurin verlangte die nachträgliche Berichtigung von Zolleinfuhrveranlagungen und beantragte die Einvernahme von Zeugen über die Beschaffenheit eingeführter Güter.
+* **Einschlägig für**: Art. 12 Satz 1 VwVG i.V.m. Art. 8 ZGB
 
 ---
 
 ### [BGE 140 I 285](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-140-I-285_2014.html) (2014)
-- **Thema**: Antizipierte Beweiswürdigung
-- **Kernaussage**: Das Gericht bzw. die Behörde kann von weiteren Beweiserhebungen absehen, wenn der Sachverhalt hinreichend geklärt ist und willkürfrei angenommen werden darf, dass neue Beweise das Ergebnis nicht ändern.
-- **Konkreter Sachverhalt**: Verzicht auf Einholung eines zusätzlichen Gutachtens bei bereits schlüssiger Beweislage.
-- **Einschlägig für**: Art. 12 Satz 1 VwVG i.V.m. Art. 29 Abs. 2 BV
-
----
-
-### [BGE 135 II 161](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-161_2009.html) (2009)
-- **Thema**: Untersuchungsgrundsatz, Mitwirkungspflicht und Beweislast
-- **Kernaussage**: Der Untersuchungsgrundsatz schliesst die Mitwirkungspflicht der Partei (Art. 13 VwVG) nicht aus; bei Beweislosigkeit greift die Beweislastregel nach Art. 8 ZGB.
-- **Konkreter Sachverhalt**: Beweisführung bei Nichtigerklärung einer erschlichenen erleichterten Einbürgerung.
-- **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 13 VwVG und Art. 8 ZGB
-
----
-
-### [BGE 132 II 113](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-132-II-113_2006.html) (2006)
-- **Thema**: Mitwirkungspflicht bei veränderten Tatsachen
-- **Kernaussage**: Die Partei hat die Behörde unaufgefordert über den nachträglichen Wegfall von Bewilligungsvoraussetzungen zu informieren.
-- **Konkreter Sachverhalt**: Verletzung der Mitwirkungspflicht im Einbürgerungsverfahren.
-- **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 13 Abs. 1 lit. a VwVG
-
----
-
-### [BGE 122 V 157](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-V-157_1996.html) (1996)
-- **Thema**: Freie Beweiswürdigung und behördliche Gutachten
-- **Kernaussage**: Massgebend für den Beweiswert eines Gutachtens oder Berichts ist dessen sachliche Überzeugungskraft und Schlüssigkeit, nicht seine formelle Herkunft.
-- **Konkreter Sachverhalt**: Beweiswert versicherungsinterner ärztlicher Beurteilungen.
-- **Einschlägig für**: Art. 12 lit. e VwVG i.V.m. Art. 19 VwVG
-
----
-
-### [BGE 110 V 109](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-110-V-109_1984.html) (1984)
-- **Thema**: Schranken der Untersuchungsmaxime: Keine Forschung ins Blaue
-- **Kernaussage**: Die Untersuchungsmaxime verpflichtet die Behörde nicht zu primärer eigenständiger Grundlagenforschung ohne konkrete Anhaltspunkte.
-- **Konkreter Sachverhalt**: Überprüfung der Dokumentation zur Aufnahme eines Medikaments in die Spezialitätenliste.
-- **Einschlägig für**: Art. 12 Satz 1 VwVG
+* **Thema**: Antizipierte Beweiswürdigung und Schranken des rechtlichen Gehörs
+* **Kernaussage**: Eine Behörde darf von weiteren Beweiserhebungen absehen, wenn sie aufgrund der bereits erhobenen Beweise ihre Überzeugung willkürfrei gebildet hat und ohne Willkür annehmen darf, dass zusätzliche Beweise am Tatsachenergebnis nichts mehr ändern können.
+* **Konkreter Sachverhalt**: Streit um Vergabekriterien der Stadt Genf betreffend Mindestlöhne im Reinigungsgewerbe und Verzicht auf vertiefte demoskopische und ökonomische Beweiserhebungen.
+* **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 29 Abs. 2 BV
 
 ---
 
 ### [BGE 137 V 210](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-137-V-210_2011.html) (2011)
-- **Thema**: Unabhängigkeit und Fairness bei Begutachtungen (lit. e)
-- **Kernaussage**: Medizinische und fachliche Begutachtungen müssen den rechtsstaatlichen Anforderungen an Unabhängigkeit, Waffengleichheit und Verfahrensfairness genügen.
-- **Konkreter Sachverhalt**: Verfahrensgrundsätze bei der Einholung von Administrativgutachten.
-- **Einschlägig für**: Art. 12 lit. e VwVG
+* **Thema**: Anforderungen an Unabhängigkeit und Fairness bei Sachverständigengutachten (lit. e)
+* **Kernaussage**: Die Einholung von Sachverständigengutachten nach Art. 12 lit. e VwVG unterliegt strengen rechtsstaatlichen Anforderungen: Sachverständige müssen unabhängig und unbefangen sein (Art. 29 Abs. 1 BV). Den Parteien steht das Recht zu, vor Erteilung des Gutachtensauftrags Einwände gegen die Person des Experten zu erheben und Zusatzfragen zu stellen.
+* **Konkreter Sachverhalt**: Grundsatzentscheid zur Zulässigkeit und Ausgestaltung medizinischer Administrativgutachten in der Invalidenversicherung (MEDAS-Begutachtungen).
+* **Einschlägig für**: Art. 12 lit. e VwVG i.V.m. Art. 29 Abs. 1 und 2 BV
 
 ---
 
-### [BGE 117 V 282](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-117-V-282_1991.html) (1991)
-- **Thema**: Einholung von Auskünften Dritter (lit. c)
-- **Kernaussage**: Verfahrensvorschriften bei der Einholung schriftlicher oder mündlicher Auskünfte unbeteiligter Drittpersonen nach Art. 12 lit. c VwVG.
-- **Konkreter Sachverhalt**: Beweisaufnahme durch IV-Kommissionen.
-- **Einschlägig für**: Art. 12 lit. c VwVG
+### [BGE 135 II 161](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-135-II-161_2009.html) (2009)
+* **Thema**: Zusammenspiel von Untersuchungsgrundsatz, Mitwirkungspflicht und Beweislast bei Scheinehen
+* **Kernaussage**: Die Beweislast dafür, dass eine Einbürgerung durch Erschleichen einer Scheinehe zustande kam, liegt bei der Verwaltung. Bestehen jedoch gewichtige Indizien (enge zeitliche Nähe von Einbürgerung und Trennung), ist die betroffene Person im Rahmen ihrer Mitwirkungspflicht (Art. 13 VwVG) zum Gegenbeweis verpflichtet, d.h., sie muss plausible Umstände für das tatsächliche Bestehen einer Lebensgemeinschaft im massgebenden Zeitpunkt darlegen.
+* **Konkreter Sachverhalt**: Nichtigerklärung der erleichterten Einbürgerung einer ausländischen Staatsangehörigen nach prompter Trennung vom Schweizer Ehepartner.
+* **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 13 VwVG und Art. 8 ZGB
 
 ---
 
-## II. Weitere Entscheide des Bundesgerichts
-
-### [BGer 2C_2/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-2-2015_2015-08-13.html) (13. August 2015)
-- **Thema**: Zusammenspiel von Untersuchungsgrundsatz und Beweislast (Art. 8 ZGB)
-- **Kernaussage**: Untersuchungsgrundsatz und Mitwirkungspflichten ändern nichts an der materiellen Beweislast; die Folgen der Beweislosigkeit treffen die beweispflichtige Partei.
-- **Konkreter Sachverhalt**: Beweislosigkeit im Aufenthaltsbewilligungsverfahren.
-- **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 8 ZGB
+### [BGE 117 V 282](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-117-V-282_1991-12-06.html) (1991)
+* **Thema**: Einholung von Drittauskünften und Subsidiarität der Zeugeneinvernahme (lit. c)
+* **Kernaussage**: Die formelle Zeugeneinvernahme nach Art. 12 lit. c VwVG ist gemäss den Gesetzesmaterialien subsidiär gegenüber der formlosen Befragung als Auskunftsperson. Werden Auskünfte Dritter eingeholt, sind den Parteien vor Erlass der Verfügung Akteneinsicht und Äusserungsgelegenheit zu gewähren.
+* **Konkreter Sachverhalt**: Beweiserhebungen durch eine Invalidenversicherungs-Kommission bei Arbeitskollegen und Arbeitgebern.
+* **Einschlägig für**: Art. 12 lit. c VwVG
 
 ---
+
+### [BGE 110 V 109](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-110-V-109_1984-04-11.html) (1984)
+* **Thema**: Schranken der behördlichen Untersuchungspflicht: Verbot der Forschung ins Blaue
+* **Kernaussage**: Die Untersuchungsmaxime verpflichtet die Behörde nicht zu eigenständiger wissenschaftlicher Grundlagenforschung oder zur Verfolgung rein theoretischer Möglichkeiten ohne konkrete Anhaltspunkte in den Akten.
+* **Konkreter Sachverhalt**: Überprüfung von Unterlagen zur Streichung eines pharmazeutischen Präparates aus der Spezialitätenliste wegen fehlender therapeutischer Wirksamkeit.
+* **Einschlägig für**: Art. 12 Ingress VwVG
+
+---
+
+## II. Weitere Entscheide des Bundesgerichts und kantonaler Gerichte
 
 ### [BGer 2C_168/2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-168-2019_2019-04-15.html) (15. April 2019)
-- **Thema**: Grenzen der behördlichen Ermittlungspflicht
-- **Kernaussage**: Die Untersuchungsmaxime verpflichtet die Behörde nur zur Feststellung rechtserheblicher Tatsachen; nichtige oder sachfremde Vorbringen bedürfen keiner Beweisabnahme.
-- **Konkreter Sachverhalt**: Ablehnung weiterer Beweisanträge bei klarer Aktenlage.
-- **Einschlägig für**: Art. 12 VwVG
+* **Thema**: Schranken der Untersuchungspflicht bei nichtigen oder sachfremden Vorbringen
+* **Kernaussage**: Die Untersuchungsmaxime verpflichtet die Gerichts- und Verwaltungsbehörden nur zur Feststellung *rechtserheblicher* Tatsachen. Nichtige, unsubstanziierte oder offenkundig sachfremde Beweisanträge bedürfen keiner Beweisabnahme und begründen keine behördliche Untersuchungspflicht.
+* **Konkreter Sachverhalt**: Beschwerde gegen ausländerrechtliche Wegweisung; Abweisung weitschweifiger Beweisanträge ohne Relevanz für den Aufenthaltsstatus.
+* **Einschlägig für**: Art. 12 VwVG
 
 ---
 
-*Letzte Aktualisierung: 2026-08-29*
+### [BGer 2C_2/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-2-2015_2015-08-13.html) (13. August 2015)
+* **Thema**: Beweislosigkeit (*non liquet*) und materielle Beweislast nach Art. 8 ZGB
+* **Kernaussage**: Scheitert der Nachweis einer anspruchsbegründenden Tatsache trotz voller Ausschöpfung aller zumutbaren behördlichen Untersuchungsmassnahmen, geht dies zulasten der beweisbelasteten Partei; die Untersuchungsmaxime vermag fehlende Beweise nicht zu ersetzen.
+* **Konkreter Sachverhalt**: Beweislosigkeit hinsichtlich des Vorliegens nachehelicher Härtefallgründe im Aufenthaltsbewilligungsverfahren.
+* **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 8 ZGB
+
+---
+
+### [ZH SVG UV.2021.00099](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_UV-2021-00099_2022-09-14.html) (14. September 2022)
+* **Thema**: Verletzung der Untersuchungsmaxime durch Verweigerung der Befragung eines Unfallzeugen (Gerüststurz)
+* **Kernaussage**: Behauptet ein Versicherter einen Sturz vom Gerüst und bestehen in den Notfalleinträgen Unklarheiten bezüglich der Unfalldaten, darf die Versicherung den Unfall nicht in unzulässiger antizipierter Beweiswürdigung als unbewiesen qualifizieren, ohne die vom Versicherten ausdrücklich benannte Augenzeugin (Arbeitskollege beim Gerüstabbau) befragt zu haben. Rückweisung wegen Verletzung des Untersuchungsgrundsatzes.
+* **Konkreter Sachverhalt**: Ein Hauswart stürzte beim Abbauen eines Gerüsts auf die linke Schulter. Die Basler Versicherung verweigerte Leistungen mit der Begründung, ein Unfall sei nicht überwiegend wahrscheinlich, und lehnte die Einvernahme des benannten Zeugen ab.
+* **Einschlägig für**: Art. 12 VwVG i.V.m. Art. 43 ATSG und Art. 29 Abs. 2 BV
+
+---
+
+### [AG OG WBE.2019.372](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WBE-2019-372_2020-02-27.pdf) (27. Februar 2020)
+* **Thema**: Aufhebung einer Disziplinarmassnahme wegen Totalausfalls der Sachverhaltsabklärung
+* **Kernaussage**: Die Verhängung von Disziplinarmassnahmen setzt zwingend eine vorgängige, umfassende Sachverhaltsermittlung von Amtes wegen unter Wahrung des rechtlichen Gehörs voraus. Stützt sich die Behörde bloss auf Gerüchte und Aussagen Dritter, ohne den Betroffenen mit den konkreten Vorwürfen zu konfrontieren und Gegenbeweise abzunehmen, liegt eine schwere Verletzung der behördlichen Untersuchungspflicht vor, die zur Aufhebung der Verfügung führt.
+* **Konkreter Sachverhalt**: Ein Aargauer Gemeinderat sprach gegen einen Gemeindemitarbeiter eine Disziplinarmassnahme aus, ohne formelle Sachverhaltserhebungen durchzuführen oder Entlastungszeugen anzuhören.
+* **Einschlägig für**: Art. 12 VwVG analog i.V.m. § 17 VRPG/AG und Art. 29 Abs. 2 BV
+
+---
+
+### [BGer 2A.131/2006](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2A-131-2006_2006-07-20.html) (20. Juli 2006)
+* **Thema**: Beweiswert privater Parteigutachten als substanziierte Parteibehauptung (lit. e)
+* **Kernaussage**: Ein von einer Partei privat in Auftrag gegebenes Fachgutachten stellt kein Gutachten von Sachverständigen im Sinne von Art. 12 lit. e VwVG dar, sondern ist als substanziierte Parteibehauptung zu qualifizieren. Weist das Parteigutachten jedoch schlüssig auf methodische Schwächen amtlicher Berichte hin, ist die Behörde nach Art. 12 VwVG verpflichtet, den Widersprüchen von Amtes wegen vertieft nachzugehen.
+* **Konkreter Sachverhalt**: Streitigkeit über zoll- und agrarrechtliche Einfuhrabgaben und Vorlage eines privaten agrarökonomischen Gutachtens.
+* **Einschlägig für**: Art. 12 lit. e VwVG i.V.m. Art. 19 VwVG
