@@ -167,6 +167,9 @@ mwstg:
 nhg:
   standard: [umwelt]
 
+ndg:
+  standard: [staatsorganisation.behoerden, verwaltungsrecht]
+
 ohg:
   standard: [strafprozess, verwaltungsrecht]
 
