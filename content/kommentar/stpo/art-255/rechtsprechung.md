@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 255 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-10-30
+lastmod: 2026-11-03
 description: "Übersicht der Rechtsprechung zu Art. 255 StPO: Leitentscheide des Bundesgerichts sowie Bundesgerichts- und Kantonsgerichtsurteile zu DNA-Probenahme, CODIS-Profilierung, Schwellenwerten, Polizeikompetenzen und Löschungsfristen."
 tags: ["Rechtsprechung", "StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Verhältnismässigkeit", "Polizei", "Zwangsmassnahmen"]
 revisions:
+  - date: 2026-11-03
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Präzisierung der Rechtsprechung zu Art. 255 Abs. 1bis StPO: BGE 145 IV 263 als Praxis unter aArt. 255 Abs. 1 lit. a StPO eingeordnet; Aufnahme des Grundsatzentscheids BGer 7B_642/2025 E. 4.3.2 zur systematischen Trennung von Abs. 1bis (repressiv für Alttaten: «begangen haben») und Art. 257 StPO (präventiv für künftige Delikte: «begehen könnte»); Volltexte auf entscheidsuche.ch verifiziert."
   - date: 2026-10-30
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -23,10 +27,10 @@ revisions:
 ## I. Leitentscheide des Bundesgerichts (BGE)
 
 ### [BGE 145 IV 263](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-263_2019.html) E. 3.4 f.
-- **Thema**: Präventive DNA-Profilerstellung bei beschuldigten Personen (Abs. 1bis); Voraussetzungen und Verhältnismässigkeit
+- **Thema**: DNA-Profilerstellung bei beschuldigten Personen zwecks Aufklärung weiterer Straftaten; Voraussetzungen und Verhältnismässigkeit (Rechtsprechung unter altem Recht / Vorläuferpraxis zu Abs. 1bis)
 - **Sachverhalt**: Die Staatsanwaltschaft Zürich-Limmat ermittelte gegen den Beschuldigten A. wegen Drohung, Sachbeschädigung und einfacher Körperverletzung. A. war mit einem Brecheisen bewaffnet in die Praxis seines früheren Arztes eingedrungen, bedrohte den Arzt und das Personal und schlug die gläserne Eingangstür, eine Dachrinne und Blumentöpfe kurz und klein. Der Arzt erlitt durch umherfliegende Glassplitter Schnittverletzungen an den Händen. A. war mehrfach vorbestraft wegen Gewalt und Drohung gegen Behörden und Beamte. Die Staatsanwaltschaft verfügte aus einem Wangenabstrich die Erstellung eines DNA-Profils zur Speicherung in CODIS. A. rügte eine Verletzung der Verhältnismässigkeit, da es sich um einen isolierten Arztkonflikt gehandelt habe.
-- **Kernaussage**: Soweit die Erstellung eines DNA-Profils nicht der Aufklärung der hängigen Anlasstat dient, ist sie verhältnismässig, wenn erhebliche und konkrete Anhaltspunkte dafür bestehen, dass die beschuldigte Person in andere — auch künftige — Delikte von einer gewissen Schwere verwickelt sein könnte. Vorstrafen und der Einsatz eines Brecheisens zur Zerstörung fremden Eigentums begründen eine hinreichende Gefahrenprognose für künftige spurenrelevante Delinquenz. Die Profilierungsanordnung gilt zudem prozessual als anfechtbarer Endentscheid im Sinne von Art. 90 BGG (E. 1).
-- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 90 BGG
+- **Kernaussage**: Soweit die Erstellung eines DNA-Profils nicht der Aufklärung der hängigen Anlasstat dient, ist sie verhältnismässig, wenn erhebliche und konkrete Anhaltspunkte dafür bestehen, dass die beschuldigte Person in andere — unter bisherigem Recht auch künftige — Delikte von einer gewissen Schwere verwickelt sein könnte. Vorstrafen und der Einsatz eines Brecheisens zur Zerstörung fremden Eigentums begründen eine hinreichende Gefahrenprognose für spurenrelevante Delinquenz. Die Profilierungsanordnung gilt zudem prozessual als anfechtbarer Endentscheid im Sinne von Art. 90 BGG (E. 1). *(Hinweis: Mit der StPO-Revision per 1. Januar 2024 wurde diese Vorläuferpraxis aufgespalten: Art. 255 Abs. 1bis StPO erfasst nur noch bereits begangene Delikte [Vortaten], während künftige Taten nunmehr Art. 257 StPO unterstehen; vgl. BGer 7B_642/2025 E. 4.3.2).*
+- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 257 StPO; Art. 90 BGG
 
 ### [BGE 141 IV 87](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-87_2015.html) E. 1.3 f.
 - **Thema**: Kompetenzordnung zwischen Polizei und Staatsanwaltschaft; Verbot genereller Delegationsweisungen; Unzulässigkeit bei Bagatellprotesten
@@ -62,12 +66,20 @@ revisions:
 
 ## II. Weitere Bundesgerichtsentscheide
 
+### [BGer 7B_642/2025 vom 24. August 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-642-2025_2026-08-24.html) E. 4.3.2
+- **Thema**: Systematische Trennung zwischen Art. 255 Abs. 1bis StPO (Alttaten / repressive Zwangsmassnahme) und Art. 257 StPO (künftige Delikte / präventive Zwangsmassnahme des Sachgerichts)
+- **Sachverhalt**: Verfahren betreffend DNA-Profilierung einer beschuldigten Person und Verhältnismässigkeit der Zwangsmassnahme unter dem per 1. Januar 2024 revidierten Recht.
+- **Kernaussage**: Das Bundesgericht ruft die Entstehungsgeschichte und Systematik der StPO-Revision 2024 (BBl 2019 6697, S. 6754) in Erinnerung: Art. 255 Abs. 1bis StPO definiert die Voraussetzungen, unter denen die Staatsanwaltschaft im Vorverfahren ein DNA-Profil zur Aufklärung allfälliger vergangener Straftaten erstellen darf (repressive Massnahme). Art. 257 StPO definiert demgegenüber jene Voraussetzungen, unter denen ein Profil zur Aufklärung oder Verhinderung künftiger Straftaten erstellt werden darf (präventive Massnahme des urteilenden Gerichts). Die Staatsanwaltschaft kann eine Profilierung im Vorverfahren nicht auf eine blosse Verhaltensprognose für künftige Taten stützen (E. 4.3.2).
+- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 257 StPO; BSK StPO-Fricker/Maeder Art. 255 N 31
+
+---
+
 ### [BGer 7B_1056/2025 vom 14. Oktober 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1056-2025_2026-10-14.html) E. 3 & [BGer 7B_1197/2025 vom 14. Oktober 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1197-2025_2026-10-14.html) E. 4
 - **Thema**: Erneute DNA-Profil-Erstellung nach Art. 255 Abs. 1bis StPO; Pflicht zur Feststellung der bisherigen Löschfrist im IPAS; Verhältnismässigkeit
 - **Sachverhalt**: Gegen vorbestrafte Beschuldigte wurde wegen neuer Vergehen (u.a. Ausbruch aus Haft bzw. Betäubungsmittelvergehen) erneut die Entnahme eines Wangenabstrichs und die DNA-Profilierung für CODIS angeordnet. Von beiden Beschuldigten existierten bereits frühere DNA-Profile im System. Die Genfer Vorinstanz schützte die Neuanordnungen schematisch.
 - **Kernaussage**:
   1. Ist eine beschuldigte Person bereits mit einem DNA-Profil im automatisierten Informationssystem registriert, muss die Strafbehörde vor einer erneuten Profilierung nach Art. 255 Abs. 1bis StPO zwingend die massgebliche Löschfrist des bestehenden Profils im System IPAS ermitteln und in der Verfügung begründen (E. 3 bzw. E. 4).
-  2. Nur bei Kenntnis der noch verbleibenden Speicherungsdauer lässt sich beurteilen, ob eine Neuanordnung zur Verhinderung künftiger Straftaten verhältnismässig und erforderlich ist. Unterlässt die Vorinstanz diese Prüfung, leidet der Entscheid an einem unvollständigen Sachverhalt und einer Verletzung der Begründungspflicht (Art. 112 BGG); Aufhebung und Rückweisung.
+  2. Nur bei Kenntnis der noch verbleibenden Speicherungsdauer lässt sich beurteilen, ob eine Neuanordnung zur Aufklärung weiterer Straftaten verhältnismässig und erforderlich ist. Unterlässt die Vorinstanz diese Prüfung, leidet der Entscheid an einem unvollständigen Sachverhalt und einer Verletzung der Begründungspflicht (Art. 112 BGG); Aufhebung und Rückweisung. Das Bundesgericht ruft dabei ausdrücklich in Erinnerung (E. 2.1 unter Verweis auf BGer 7B_642/2025 E. 4.3.2), dass Art. 255 Abs. 1bis StPO die Voraussetzungen für repressive Profilierungen zur Aufklärung vergangener Delikte regelt, während künftige Delikte Art. 257 StPO unterstehen.
 - **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 StPO; Art. 112 BGG; Art. 29 Abs. 2 BV
 
 ---
@@ -75,7 +87,7 @@ revisions:
 ### [BGer 7B_176/2023 vom 24. Mai 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-176-2023_2024-05-24.html) E. 3.3 f.
 - **Thema**: Ungeeignetheit des DNA-Beweises bei Cyberkriminalität, Ransomware-Erpressung und Geldwäscherei
 - **Sachverhalt**: Die Staatsanwaltschaft II des Kantons Zürich ermittelte gegen einen IT-Spezialisten wegen gewerbsmässiger Datenbeschädigung, schwerer Geldwäscherei und versuchter Erpressung. Dem Beschuldigten wurde vorgeworfen, Ransomware-Angriffe auf Firmennetzwerke orchestriert und Kryptowährungen erpresst zu haben. Bei der Durchsuchung fand sich zudem Kinderpornografie. Die Staatsanwaltschaft ordnete einen Wangenabstrich zur Erstellung eines DNA-Profils für CODIS an; das Obergericht Zürich schützte die Massnahme unter Hinweis auf die Schwere der Straftaten.
-- **Kernaussage**: Eine DNA-Profilierung nach Art. 255 Abs. 1bis StPO setzt zwingend voraus, dass die Massnahme zur Aufklärung künftiger Delikte tauglich ist. Bei Delikten der Cyberkriminalität, digitaler Erpressung oder Geldwäscherei fallen typischerweise keine biologischen Spuren an. Fehlen Anhaltspunkte dafür, dass der Täter künftig physische Gewalt- oder Einbruchsdelikte begehen könnte, ist die DNA-Erfassung ungeeignet und unverhältnismässig. Die Probe ist zu vernichten und das CODIS-Profil zu löschen.
+- **Kernaussage**: Eine DNA-Profilierung (beurteilt unter altem Recht, aArt. 255 Abs. 1 lit. a StPO; E. 1.2) setzt zwingend voraus, dass die Massnahme zur Aufklärung von Straftaten tauglich ist. Bei Delikten der Cyberkriminalität, digitaler Erpressung oder Geldwäscherei fallen typischerweise keine biologischen Spuren an. Fehlen Anhaltspunkte dafür, dass der Täter spurenrelevante Delikte (wie physische Gewalt- oder Einbruchsdelikte) begangen haben könnte, ist die DNA-Erfassung ungeeignet und unverhältnismässig. Die Probe ist zu vernichten und das CODIS-Profil zu löschen. Dieser Grundsatz gilt gleichermassen für Art. 255 Abs. 1bis StPO wie für Art. 257 StPO.
 
 ### [BGer 7B_52/2023 vom 14. Mai 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-52-2023_2024-05-14.html) E. 4.2
 - **Thema**: Zulässigkeit bei schweren Gewalt- und Sexualdelikten gegen Minderjährige
