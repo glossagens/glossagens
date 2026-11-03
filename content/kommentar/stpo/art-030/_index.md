@@ -2,10 +2,14 @@
 title: "Art. 30 StPO — Ausnahmen"
 weight: 30
 date: 2026-07-12
-lastmod: 2026-10-15
+lastmod: 2026-11-03
 description: "Kommentar zu Art. 30 StPO – Trennung und Vereinigung von Strafverfahren aus sachlichen Gründen; Verhältnis zum Grundsatz der Verfahrenseinheit (Art. 29 StPO)."
 tags: ["StPO", "Verfahrenseinheit", "Verfahrenstrennung", "Verfahrensvereinigung", "Prozessökonomie", "Gerichtsstand"]
 revisions:
+  - date: 2026-11-03
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit BGer 7B_406/2026 vom 13.10.2026 (publiziert am 03.11.2026): Verfahrenstrennung bei Auslieferung des Beschuldigten an Drittstaat und Vorliegen inhaftierter Mitbeschuldigter (Beschleunigungsgebot nach Art. 5 Abs. 2 StPO als sachlicher Grund; keine konkrete Gefahr widersprüchlicher Urteile bei Fehlen gegenseitiger Belastungen); Anfechtbarkeit nach Art. 93 Abs. 1 lit. a BGG wegen Verlusts der Parteirechte (Art. 147 StPO); Volltext über OpenCaseLaw verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -58,7 +62,10 @@ In der Rechtsprechung und Literatur werden folgende sachliche Trennungsgründe a
 | **Länger dauernde Unerreichbarkeit** eines Mitbeschuldigten | Wenn ein Mitbeschuldigter über längere Zeit unauffindbar ist und das Verfahren dadurch unzumutbar verzögert würde |
 | **Bevorstehende Verjährung** einzelner Straftaten | Wenn bei gemeinsamer Verfolgung die Verjährung einzelner Straftaten droht |
 | **Verfahrensbeschleunigung** | Wenn die getrennte Verfahrensführung eine unnötige Verzögerung vermeiden hilft |
+| **Auslieferung an Drittstaat bei inhaftierten Mitbeschuldigten** | Wenn ein Mitbeschuldigter an das Ausland ausgeliefert wurde und das Beschleunigungsgebot (Art. 5 Abs. 2 StPO) gegenüber den in der Schweiz inhaftierten Mitbeschuldigten einen zügigen Verfahrensabschluss verlangt ([BGer 7B_406/2026 E. 4.2 ff.](https://mcp.opencaselaw.ch/entscheid/bger_7B_406_2026)) |
 | **Schutz von Beweisquellen** | In Ausnahmefällen, namentlich bei verdeckten Ermittlungen |
+
+Die Einleitung eines langwierigen Auslieferungsverfahrens im Ausland oder die Auslieferung eines Beschuldigten an einen Drittstaat stellt einen anerkannten sachlichen Trennungsgrund dar ([BGer 7B_406/2026 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_406_2026) E. 4.2; BGer 1B_428/2018 vom 7. November 2018 E. 3.2; BGer 6B_1026/2017 vom 1. Juni 2018 E. 1.1). Dies gilt in verstärktem Masse, wenn sich die übrigen Mitbeschuldigten in der Schweiz bereits in Untersuchungshaft oder im vorzeitigen Strafvollzug befinden: Hier verlangt das besondere Beschleunigungsgebot in Haftsachen (Art. 5 Abs. 2 StPO), dass ihr Verfahren nach Klärung der Positionen unverzüglich abgeschlossen wird und nicht durch das Fernbleiben des im Ausland befindlichen Beschuldigten blockiert wird. Eine solche Trennung setzt jedoch voraus, dass keine konkrete Gefahr sich widersprechender Urteile besteht, namentlich weil die Mitbeschuldigten die eigene Schuld nicht einseitig auf den Abwesenden abwälzen ([BGer 7B_406/2026 E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_406_2026)).
 
 ### 3. Ermittlungstaktische Gründe genügen nicht
 
@@ -102,7 +109,9 @@ In Fällen, in denen ein Ausstandsgrund (Art. 56 StPO) gegenüber einem zuständ
 
 ### 1. Anfechtbarkeit
 
-Entscheidungen über die Trennung oder Vereinigung von Strafverfahren sind **anfechtbar**. Gegen Verfügungen der Staatsanwaltschaft steht der Wegzug an die Beschwerdeinstanz (Art. 26 StPO) bzw. die Beschwerde offen. Gegen Entscheide der letzteren Instanz gelangt die Beschwerde in Strafsachen an das Bundesgericht (Art. 80 BGG).
+Entscheidungen über die Trennung oder Vereinigung von Strafverfahren sind **anfechtbar**. Gegen Verfügungen der Staatsanwaltschaft steht die Beschwerde an die kantonale Beschwerdeinstanz offen (Art. 393 Abs. 1 lit. a StPO).
+
+Gegen den kantonalen Beschwerdeentscheid ist die **Beschwerde in Strafsachen an das Bundesgericht** zulässig (Art. 78 Abs. 1 BGG). Da der Entscheid über die Verfahrenstrennung das Verfahren nicht beendet, handelt es sich um einen Zwischenentscheid im Sinne von Art. 93 BGG. Die Beschwerde ist nach **Art. 93 Abs. 1 lit. a BGG** zulässig, weil die Trennung einen nicht wieder gutzumachenden Nachteil bewirken kann: Bei mehreren Tatbeteiligten (Mittäterschaft oder Teilnahme) bewirkt die Abtrennung den endgültigen Verlust der Parteistellung im Verfahren gegen die Mitbeschuldigten, was namentlich das Recht auf Teilnahme an Beweiserhebungen ([Art. 147 StPO](art-147) a contrario) unwiederbringlich beschneidet ([BGer 7B_406/2026 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_406_2026) E. 1.2 unter Verweis auf [BGE 147 IV 188](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_188) E. 1.2–1.4, [BGE 149 IV 205](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_IV_205) E. 1.2 und [BGE 141 IV 284](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_IV_284) E. 2). Die Variante von Art. 93 Abs. 1 lit. b BGG ist im Strafrecht hingegen grundsätzlich nicht anwendbar.
 
 ### 2. Begründungsanforderungen
 
@@ -114,9 +123,11 @@ Bei getrennten Verfahren ist die **Akteneinsicht an Dritte** nur zu gewähren, w
 
 ## VII. Verhältnis zu weiteren Verfahrensgrundsätzen
 
-### 1. Beschleunigungsgebot (Art. 5 Abs. 1 StPO)
+### 1. Beschleunigungsgebot (Art. 5 StPO)
 
-Das Beschleunigungsgebot steht in einem **Spannungsverhältnis** zum Grundsatz der Verfahrenseinheit. Einerseits dient die Verfahrensvereinigung der Prozessökonomie und damit dem Beschleunigungsgebot. Andererseits kann die Trennung von Verfahren erforderlich sein, um eine unnötige Verzögerung durch die Unerreichbarkeit eines Mitbeschuldigten zu vermeiden.[^23]
+Das Beschleunigungsgebot steht in einem **Spannungsverhältnis** zum Grundsatz der Verfahrenseinheit. Einerseits dient die Verfahrensvereinigung der Prozessökonomie und damit dem Beschleunigungsgebot. Andererseits kann die Trennung von Verfahren erforderlich sein, um eine unnötige Verzögerung durch die Unerreichbarkeit oder die Auslandabwesenheit eines Mitbeschuldigten zu vermeiden.[^23]
+
+Besonderes Gewicht erlangt das Beschleunigungsgebot in Haftsachen gemäss **Art. 5 Abs. 2 StPO**: Befinden sich Mitbeschuldigte in Untersuchungshaft oder im vorzeitigen Strafvollzug, gebietet das Freiheitsgrundrecht eine vorrangige und beförderliche Erledigung. Das Warten auf die ungewisse Auslieferung oder Einvernahme eines im Ausland inhaftierten Mitbeschuldigten darf nicht dazu führen, dass das Verfahren der in der Schweiz Inhaftierten paralysiert wird ([BGer 7B_406/2026 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_406_2026) E. 4.2 f.).
 
 ### 2. Gleichbehandlungsgebot (Art. 8 BV, Art. 3 Abs. 2 lit. c StPO)
 
@@ -157,6 +168,15 @@ Bei Komplexität wirtschaftsstrafrechtlicher Verfahren mit mehreren Beschuldigte
 ### 3. Bandenmässigkeit und organisierte Kriminalität
 
 Bei **Bandenmässigkeit** (Art. 29 Abs. 1 lit. b StPO) ist die gemeinsame Verfolgung aller Beteiligten besonders wichtig. Ermittlungstaktische Gründe der Staatsanwaltschaft, namentlich die Anordnung von Überwachungen zur Verifizierung der Bandenmässigkeit, rechtfertigen es nicht, die von Gesetzes wegen gebotenen Zwischenentscheide über Monate hinauszuzögern und das Verfahren aufzusplittern.[^31]
+
+### 4. Auslieferung an Drittstaaten und inhaftierte Mitbeschuldigte ('Ndrangheta-Fall)
+
+Im Urteil [BGer 7B_406/2026 vom 13. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_406_2026) führte die Staatsanwaltschaft des Kantons Tessin ein umfangreiches Strafverfahren gegen zwölf Beschuldigte wegen qualifizierter Betäubungsmitteldelikte (Art. 19 Abs. 2 BetmG) und Geldwäscherei. Ein Mitbeschuldigter wurde auf internationalen Haftbefehl hin in Spanien festgenommen. Spanien lieferte ihn jedoch vorrangig an Italien aus, wo er sich vor dem Gericht in Reggio Calabria als Mitglied einer Gruppierung der kalabrischen 'Ndrangheta wegen Kokainschmuggels zu verantworten hatte.
+
+Die Tessiner Staatsanwaltschaft verfügte die Abtrennung des Verfahrens gegen den ausgelieferten Beschuldigten. Die kantonale Beschwerdeinstanz und das Bundesgericht schützten die Trennung:
+1. **Beschleunigungsgebot (Art. 5 Abs. 2 StPO)**: Die Strafuntersuchung gegen die übrigen elf in der Schweiz befindlichen Mitbeschuldigten war abschlussreif; mehrere von ihnen befanden sich im vorzeitigen Strafvollzug. Ein Zuwarten auf eine spätere Überstellung aus Italien oder eine Rechtshilfe-Einvernahme hätte zu einem ungerechtfertigten Stillstand des gesamten Verfahrens geführt.
+2. **Keine konkrete Gefahr sich widersprechender Urteile**: Keiner der Mitbeschuldigten hatte versucht, die eigene Schuld durch Aussagen auf den ausgelieferten Beschuldigten abzuwälzen. Mangels gegenseitiger Schuldzuweisungen bestand keine reale Gefahr voneinander abweichender Sachverhalts- oder Beweiswürdigungen (E. 4.4).
+3. **Konventions- und Verfassungskonformität**: Das verfassungs- und konventionsrechtliche Gebot eines fairen Verfahrens (Art. 29 Abs. 1 BV; Art. 6 Ziff. 1 EMRK) schliesst eine Verfahrenstrennung bei Mittäterschaft nicht schlechthin aus, sofern die Trennung sachlich geboten ist und keine unlösbaren Widersprüche drohen.
 
 ## X. Literatur und Fundstellen
 

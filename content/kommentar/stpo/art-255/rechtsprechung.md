@@ -9,6 +9,10 @@ revisions:
   - date: 2026-11-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 7B_936/2025 vom 14.10.2026 (publiziert am 03.11.2026): Aufhebung und Rückweisung nach Art. 112 Abs. 3 BGG; Fehlen von Feststellungen zur bisherigen Löschfrist im CODIS (Art. 16 DNA-Profil-Gesetz) verhindert Verhältnismässigkeitsprüfung bei erneuter Profilierung (Art. 255 Abs. 1bis StPO); Volltext über OpenCaseLaw verifiziert."
+  - date: 2026-11-03
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
     note: "Präzisierung der Rechtsprechung zu Art. 255 Abs. 1bis StPO: BGE 145 IV 263 als Praxis unter aArt. 255 Abs. 1 lit. a StPO eingeordnet; Aufnahme des Grundsatzentscheids BGer 7B_642/2025 E. 4.3.2 zur systematischen Trennung von Abs. 1bis (repressiv für Alttaten: «begangen haben») und Art. 257 StPO (präventiv für künftige Delikte: «begehen könnte»); Volltexte auf entscheidsuche.ch verifiziert."
   - date: 2026-10-30
     by: "Antigravity Agent"
@@ -81,6 +85,16 @@ revisions:
   1. Ist eine beschuldigte Person bereits mit einem DNA-Profil im automatisierten Informationssystem registriert, muss die Strafbehörde vor einer erneuten Profilierung nach Art. 255 Abs. 1bis StPO zwingend die massgebliche Löschfrist des bestehenden Profils im System IPAS ermitteln und in der Verfügung begründen (E. 3 bzw. E. 4).
   2. Nur bei Kenntnis der noch verbleibenden Speicherungsdauer lässt sich beurteilen, ob eine Neuanordnung zur Aufklärung weiterer Straftaten verhältnismässig und erforderlich ist. Unterlässt die Vorinstanz diese Prüfung, leidet der Entscheid an einem unvollständigen Sachverhalt und einer Verletzung der Begründungspflicht (Art. 112 BGG); Aufhebung und Rückweisung. Das Bundesgericht ruft dabei ausdrücklich in Erinnerung (E. 2.1 unter Verweis auf BGer 7B_642/2025 E. 4.3.2), dass Art. 255 Abs. 1bis StPO die Voraussetzungen für repressive Profilierungen zur Aufklärung vergangener Delikte regelt, während künftige Delikte Art. 257 StPO unterstehen.
 - **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 StPO; Art. 112 BGG; Art. 29 Abs. 2 BV
+
+---
+
+### [BGer 7B_936/2025 vom 14. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_936_2025) E. 2.3
+- **Thema**: Verhältnismässigkeit einer erneuten DNA-Profilierung (Art. 255 Abs. 1bis StPO) bei bestehendem CODIS-Profil; Löschfrist als entscheidender Massstab; Begründungsmangel und Aufhebung nach Art. 112 Abs. 3 BGG
+- **Sachverhalt**: Der portugiesische Staatsangehörige A. wurde im Juli 2025 im Rahmen einer Genfer Polizeiaktion gegen den Strassenbetäubungsmittelhandel beim Verkauf von Kokain festgenommen. Ihm wurden mehrfacher Betäubungsmittelhandel sowie die Missachtung einer gerichtlichen Landesverweisung vorgeworfen; er wies neun Vorstrafen auf. Die Staatsanwaltschaft Genf ordnete die Erstellung eines DNA-Profils nach Art. 255 Abs. 1bis StPO an. A. erhob Beschwerde und machte geltend, sein Profil sei bereits mehrfach erstellt worden und im CODIS gespeichert, möglicherweise bis 2044. Die Genfer Chambre pénale de recours wies die Beschwerde ab mit der Erwägung, «selbst wenn das DNA-Profil bereits erstellt worden wäre und dessen Löschung erst nach vielen Jahren erfolgen würde», bestehe stets ein überwiegendes öffentliches Interesse.
+- **Kernaussage**:
+  1. Gemäss Leitentscheid BGer 7B_139/2026 (E. 5.5.1 f.) bildet die im Informationssystem hinterlegte Löschfrist des bereits registrierten Profils den entscheidenden Massstab für die Verhältnismässigkeit einer Neuanordnung nach Art. 255 Abs. 1bis StPO: Reicht diese Frist länger als die Verfolgungsverjährung der mutmasslich begangenen Taten, steht das Profil für alle Abgleiche zur Verfügung und eine erneute Anordnung ist mangels Erforderlichkeit unverhältnismässig (E. 2.3.2).
+  2. Hat die kantonale Vorinstanz überhaupt nicht festgestellt, ob und wann von der beschuldigten Person bereits ein DNA-Profil erstellt worden ist und welche Löschfrist im CODIS-System gilt, leidet der Entscheid an einem unvollständigen Sachverhalt und genügt den verfassungs- und bundesgesetzlichen Begründungsanforderungen nicht. Aufhebung des kantonalen Entscheids und Rückweisung nach Art. 112 Abs. 3 BGG (E. 2.3.2 und E. 3).
+- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 StPO; Art. 16 DNA-Profil-Gesetz; Art. 112 Abs. 3 BGG; Art. 13 Abs. 2 BV; Art. 8 EMRK
 
 ---
 
