@@ -2,10 +2,14 @@
 title: "Art. 7 BGÖ — Ausnahmen"
 weight: 7
 date: 2026-10-05
-lastmod: 2026-10-15
+lastmod: 2026-11-03
 description: "Praxiskommentar zu Art. 7 BGÖ: Die gesetzlichen Ausnahme- und Geheimhaltungstatbestände des Öffentlichkeitsgesetzes (freie Meinungsbildung, behördliche Massnahmen, innere und äussere Sicherheit, Aussenpolitik, Geschäfts- und Fabrikationsgeheimnisse, vertrauliche Drittinformationen und Schutz der Privatsphäre) — mit detaillierter Kasuistik, Schwellenwerten für das Schadensrisiko und taktischen Praxishinweisen."
 tags: ["BGÖ", "Ausnahmen", "Geheimhaltung", "Geschäftsgeheimnis", "Innere Sicherheit", "Aussenpolitik", "Meinungsbildung", "Privatsphäre", "Datenschutz", "Beweislast"]
 revisions:
+  - date: 2026-11-03
+    by: "Claude (claude.ai)"
+    model: "claude-sonnet-5-5"
+    note: "Korrektur der Kasuistik zu Art. 7 Abs. 1 lit. b BGÖ: BGE 136 II 399 betrifft nicht lit. b, sondern Art. 8 Abs. 1 BGÖ (Mitberichtsverfahren; Abgangsvereinbarungen), und das Bundesgericht hat dort lit. b nicht geprüft; die bisherige Darstellung (Bundesamt für Justiz, Ablehnung von lit. b) ist entfernt. Ersetzt durch BGer 1C_475/2023 (E. 2.5, 3.3, 6), im Wortlaut der Erwägungen über opencaselaw (get_erwaegung) gelesen. Die übrigen Abschnitte und die Verweise auf BGE 136 II 399 E. 2.1 und E. 2.3 wurden nicht geändert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -97,8 +101,10 @@ Art. 7 Abs. 1 lit. b BGÖ schützt behördliche Vollzugsmassnahmen vor ihrer vor
 
 Der Schutz greift regelmässig nur als **temporärer Aufschub**: Sobald die Inspektionshandlung vollzogen oder die Massnahme abgeschlossen ist, fällt der Schutzzweck dahin und das Dokument ist freizugeben.
 
-#### 2. Kasuistik: Abgangsentschädigungen vs. Personalmassnahmen
-Beim Bundesamt für Justiz (EJPD) verlangten Journalisten Einsicht in Abfindungsvereinbarungen mit freigestellten Kadermitgliedern ([BGE 136 II 399 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-136-II-399_2010.html#consideration_2.1)). Die Behörde berief sich auf Art. 7 Abs. 1 lit. b BGÖ und machte geltend, künftige Personalverhandlungen würden erschwert. Das Bundesgericht verwarf dies: Art. 7 Abs. 1 lit. b BGÖ schützt die Durchführung konkreter, gegenwärtiger Massnahmen, nicht aber abstrakte Verhandlungspositionen in hypothetischen künftigen Personalfällen.
+#### 2. Kasuistik: Vertrauliche Preisvereinbarungen zur CAR-T-Zelltherapie (BAG)
+Das Bundesgericht umschreibt Art. 7 Abs. 1 lit. b BGÖ als Schutz von Informationen, die der Vorbereitung konkreter behördlicher Massnahmen dienen (z.B. Aufsichtsmassnahmen oder Inspektionen). Der Ausnahmegrund ist im Lichte der Grundsätze zu Art. 7 Abs. 1 BGÖ auszulegen: Sowohl die Wahrscheinlichkeit als auch die Schwere der Beeinträchtigung der zielkonformen Durchführung konkreter Massnahmen müssen erheblich sein ([BGer 1C_475/2023 E. 2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-475-2023_2025-02-18.html)).
+
+Ein Journalist verlangte vom Bundesamt für Gesundheit Zugang zu Dokumenten über vertrauliche Preisvereinbarungen zur CAR-T-Zelltherapie. Das Bundesverwaltungsgericht bejahte lit. b: Es sah in den Tätigkeiten des BAG (Einschätzungen zuhanden des Bundesrates, Begleitung der Aufnahme in die Leistungsliste) konkrete behördliche Massnahmen und hielt eine Gefährdung für sehr wahrscheinlich, weil die Zulassungsinhaberinnen bei einer Offenlegung zu den Listenpreisen zurückkehren oder sich vorübergehend vom Schweizer Markt zurückziehen könnten ([BGer 1C_475/2023 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-475-2023_2025-02-18.html)). Das Bundesgericht hiess die Beschwerde des Journalisten gut und wies die Sache zur weiteren Beurteilung an die Vorinstanz zurück ([BGer 1C_475/2023 E. 6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-475-2023_2025-02-18.html)).
 
 > **Leitsatz.** Art. 7 Abs. 1 lit. b BGÖ rechtfertigt eine Zugangsbeschränkung nur für die Dauer der Vorbereitung und Durchführung einer spezifischen Vollzugsmassnahme, deren Erfolg durch vorzeitige Bekanntgabe vereitelt würde.
 
