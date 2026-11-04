@@ -2,10 +2,14 @@
 title: "Art. 263 StPO — Beschlagnahme (Grundsatz)"
 weight: 263
 date: "2026-07-04"
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 263 StPO: Zwangsmassnahmenvoraussetzungen, die fünf Beschlagnahmearten (Beweismittel, Kostendeckung, Rückgabe, Einziehung, Ersatzforderung), Grenzkasuistik (u.a. Raserfahrzeuge, Leasing, Kontosperren, Kryptowährungen), Gültigkeitsvorschrift der nachträglichen schriftlichen Bestätigung (BGE 151 IV 18) sowie kantonale Praxis und Praxishinweise."
-tags: ["StPO", "Beschlagnahme", "Zwangsmassnahmen", "Beweismittel", "Kostendeckung", "Rückgabe", "Einziehung", "Ersatzforderung", "Via sicura", "Kontosperre", "Kryptowährung", "Siegelung", "Gültigkeitsvorschrift"]
+lastmod: 2026-11-04
+description: "Praxiskommentar zu Art. 263 StPO: Zwangsmassnahmenvoraussetzungen, die fünf Beschlagnahmearten (Beweismittel, Kostendeckung, Rückgabe, Einziehung, Ersatzforderung), Grenzkasuistik (u.a. Raserfahrzeuge, Leasing, Kontosperren, Kryptowährungen), Ausschluss von DNS-Blocking (BGer 7B_52/2026), Gültigkeitsvorschrift der nachträglichen schriftlichen Bestätigung (BGE 151 IV 18) sowie kantonale Praxis und Praxishinweise."
+tags: ["StPO", "Beschlagnahme", "Zwangsmassnahmen", "Beweismittel", "Kostendeckung", "Rückgabe", "Einziehung", "Ersatzforderung", "Via sicura", "DNS-Blocking", "Kontosperre", "Kryptowährung", "Siegelung", "Gültigkeitsvorschrift"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung des Grundsatzurteils BGer 7B_52/2026 vom 12. Oktober 2026 (5er-Besetzung, zur Publikation vorgesehen): Ausschluss von strafprozessualem DNS-Blocking gegenüber Internet-Access-Providern mangels gesetzlicher Grundlage in Art. 263 Abs. 1 lit. d StPO und Art. 69 StGB."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -187,7 +191,18 @@ Bei qualifiziert groben Verkehrsregelverletzungen (Art. 90 Abs. 3 und 4 SVG, sog
 Gegenstände oder Tiere, welche die Sicherheit von Menschen gefährden, unterliegen der Sicherungseinziehung nach Art. 69 StGB und können gestützt auf Art. 263 Abs. 1 lit. d StPO beschlagnahmt werden.
 - *Hundebeschlagnahme ([BGer 7B_839/2025 vom 5. November 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-839-2025_2025-11-05.html)):* Nach einer Beissattacke des Hundes «C.» ordnete die Staatsanwaltschaft Solothurn im Strafverfahren wegen fahrlässiger Körperverletzung die Beschlagnahme des Hundes an. Das Bundesgericht wies die Beschwerde der Halter ab: Angesichts früherer Beissvorfälle, wiederholter Missachtung behördlicher Haltungsauflagen und der fortdauernden Gefährdung der öffentlichen Sicherheit war die Einziehungsbeschlagnahme zum Schutz Dritter vollumfänglich verhältnismässig.
 
-> **Leitsatz.** Die Einziehungsbeschlagnahme nach Art. 263 Abs. 1 lit. d StPO erfordert keine abschliessende Prüfung der materiellen Einziehungsgründe, sondern ist aufrechtzuerhalten, sofern die spätere richterliche Einziehung nicht offensichtlich unzulässig erscheint. Bei Tatfahrzeugen nach Art. 90a SVG erfasst die Beschlagnahme auch fremde Leasingfahrzeuge, wenn das Fahrzeug für den fehlbaren Lenker ohne Beschlag weiterhin verfügbar bliebe.
+#### 5. Ausschluss von DNS-Blocking und Netzsperren mangels gesetzlicher Grundlage (BGer 7B_52/2026)
+
+Lange Zeit war in der Lehre und kantonalen Praxis umstritten, ob Art. 263 Abs. 1 lit. d StPO in Verbindung mit der Sicherungseinziehung nach Art. 69 Abs. 1 StGB die Strafverfolgungsbehörden dazu ermächtigt, unbeteiligten Internet-Access-Providern die Sperrung deliktischer Webseiten im Wege des **DNS-Blockings** aufzuerlegen. Das Bundesgericht hatte diese Rechtsfrage in Urteil 1B_294/2014 vom 19. März 2015 E. 4.3 ausdrücklich offengelassen.
+
+> **Grundsatzurteil BGer 7B_52/2026 (5er-Besetzung, zur Publikation vorgesehen) — Kein strafprozessuales DNS-Blocking:**  
+> - *Der Lebenssachverhalt ([BGer 7B_52/2026 vom 12. Oktober 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.10.2026_7B_52/2026)):* Die Staatsanwaltschaft des Kantons Waadt führte eine Strafuntersuchung gegen mehrere Beschuldigte wegen des Verdachts eines gewerbsmässigen Online-Anlagebetrugs mit einer Schadenssumme von über CHF 1,7 Mio. Mit Beschlagnahmeverfügung verpflichtete die Staatsanwaltschaft eine Schweizer Internet-Access-Providerin (A. AG) sowie neun weitere Telekomanbieter unter Strafandrohung nach Art. 292 StGB, bestimmte URLs deliktischer Online-Plattformen auf ihren DNS-Resolvern zu neutralisieren (DNS-Blocking). Das kantonale Obergericht (Tribunal cantonal VD) schützte die Massnahme als zulässiges «Minus» zur physischen Beschlagnahme von Servern.  
+> - *Der Entscheid des Bundesgerichts:* Die II. strafrechtliche Abteilung des Bundesgerichts hiess die Beschwerde der Providerin in Fünferbesetzung gut und hob den Beschlagnahmebefehl auf. Art. 263 Abs. 1 lit. d StPO in Verbindung mit Art. 69 Abs. 1 StGB bietet **keine gesetzliche Grundlage für die Verpflichtung Dritter zu DNS-Sperrmassnahmen**:  
+>   1. **Wortlaut und Historie:** Die Begriffe «Gegenstände» und «Vermögenswerte» in Art. 263 Abs. 1 StPO und Art. 69 StGB knüpfen historisch an körperliche Sachen an. Eine URL bzw. Domain ist zwar im Namens-, Firmen- und Markenrecht geschützt und Switch-registrierte «.ch»-Domains weisen Analogien zu registrierten Rechten auf; das DNS-Blocking zielt jedoch nicht darauf ab, dem Staat ein Verfügungsrecht an einer Domain zu verschaffen, sondern verpflichtet unbeteiligte Provider zu einer aktiven Dienstleistung.  
+>   2. **Systematische Auslegung als Hauptargument:** Wo der Bundesgesetzgeber Netzsperren und DNS-Blocking vorsehen wollte, hat er dafür detaillierte Spezialgesetze mit ausdrücklichen Befugnissen, Entschädigungsregelungen und spezifischem Rechtsschutz geschaffen: im Bundesgesetz über Geldspiele ([Art. 86 ff. BGS](https://www.fedlex.admin.ch/eli/cc/2018/795/de#art_86); vgl. [BGE 148 II 392](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-392_2022.html)), im Fernmeldegesetz ([Art. 46a Abs. 3 FMG](https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/de#art_46_a) bei verbotener Pornografie) und im Bundesgesetz gegen den unlauteren Wettbewerb ([Art. 26a UWG](https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/de#art_26_a)). Wären dieselben Massnahmen bereits über die Generalklauseln der Art. 263 StPO und Art. 69 StGB zulässig, verlören diese spezialgesetzlichen Regelungen ihre Daseinsberechtigung.  
+>   3. **Gesetzgeberische Aufgabe:** Die Einführung von strafprozessualem DNS-Blocking im Rahmen allgemeiner Straftaten (z. B. Anlagebetrug, Ehrverletzungen, Verleumdung oder Aufruf zu Hass) bedarf einer ausdrücklichen formell-gesetzlichen Grundlage durch das Parlament und kann nicht im Wege der richterlichen Auslegung geschaffen werden.
+
+> **Leitsatz.** Die Einziehungsbeschlagnahme nach Art. 263 Abs. 1 lit. d StPO erfordert keine abschliessende Prüfung der materiellen Einziehungsgründe, sondern ist aufrechtzuerhalten, sofern die spätere richterliche Einziehung nicht offensichtlich unzulässig erscheint. Bei Tatfahrzeugen nach Art. 90a SVG erfasst die Beschlagnahme auch fremde Leasingfahrzeuge, wenn das Fahrzeug für den fehlbaren Lenker ohne Beschlag weiterhin verfügbar bliebe. Dagegen ermächtigen Art. 263 Abs. 1 lit. d StPO und Art. 69 StGB die Strafbehörden nicht, Internet-Access-Providern im Wege der Zwangsmassnahme ein DNS-Blocking deliktischer Webseiten aufzuerlegen (BGer 7B_52/2026).
 
 ---
 

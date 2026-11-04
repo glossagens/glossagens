@@ -2,10 +2,14 @@
 title: "Art. 66a StGB — Obligatorische Landesverweisung"
 weight: 66
 date: 2026-05-17
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 66a StGB: Obligatorische Landesverweisung bei Katalogtaten (Abs. 1), Härtefallklausel und Interessenabwägung (Abs. 2), Kriterienkatalog, Bemessung der Dauer (5–15 Jahre) und EMRK-/FZA-Konformität."
-tags: ["StGB", "Landesverweisung", "Katalogtaten", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Strafzumessung", "Ausländerrecht", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
+lastmod: 2026-11-04
+description: "Kommentar zu Art. 66a StGB: Obligatorische Landesverweisung bei Katalogtaten (Abs. 1), Härtefallklausel und Interessenabwägung (Abs. 2), Kriterienkatalog, Bemessung der Dauer (5–15 Jahre), Ausschluss der Reconsideration-Praxis (BGer 2C_187/2026) und EMRK-/FZA-Konformität."
+tags: ["StGB", "Landesverweisung", "Katalogtaten", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Strafzumessung", "Ausländerrecht", "Reconsideration", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung des Grundsatzurteils BGer 2C_187/2026 vom 17. September 2026 (5er-Besetzung, zur Publikation vorgesehen): Ausschluss der Reconsideration-Jurisprudenz zu Art. 67 AIG bei strafrechtlicher Landesverweisung nach Art. 66a StGB; absolutes Bewilligungshindernis für Migrationsbehörden."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -244,8 +248,8 @@ Bei der Durchführung der Interessenabwägung auf der zweiten Stufe haben sich d
 ### 1. Handhabung der Härtefallprüfung bei familiären Bindungen
 **22** In der kantonalen Gerichtspraxis erfordert die Berufung auf das Recht auf Familienleben ([Art. 8 EMRK](https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/de#art_8)) eine tatsächlich gelebte und intakte familiäre Beziehung. Reine Besuchsrechte zu Kindern genügen regelmässig nicht zur Abwendung der Landesverweisung, müssen jedoch bei der Bemessung der Dauer mindernd berücksichtigt werden.
 
-### 2. Koordination zwischen Straf- und Migrationsbehörden
-**23** Mit der Ausfällung der strafrechtlichen Landesverweisung erlischt das ausländerrechtliche Aufenthaltsrecht; kantonale Migrationsämter sind an das strafgerichtliche Urteil gebunden.
+### 2. Koordination zwischen Straf- und Migrationsbehörden: Bindungswirkung und Ausschluss der Reconsideration
+**23** Mit der Ausfällung der strafrechtlichen Landesverweisung erlischt das ausländerrechtliche Aufenthaltsrecht; kantonale Migrationsämter sind an das strafgerichtliche Urteil gebunden. Das Bundesgericht hat in Fünferbesetzung klargestellt, dass die bei administrativen Einreiseverboten nach Art. 67 AIG geltende Reconsideration-Jurisprudenz (wonach nach rund fünf Jahren bei Umstandswandel die Neubeurteilung eines Bewilligungsgesuchs verlangt werden kann) **nicht auf die strafrechtliche Landesverweisung nach Art. 66a StGB übertragbar ist** ([BGer 2C_187/2026 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_2C_187/2026), zur Publikation vorgesehen). Die Landesverweisung entfaltet eine absolutere Sperrwirkung als administrative Fernhaltemassnahmen. Während ihrer gesamten Dauer ist den Migrationsbehörden die Erteilung jeglicher Aufenthaltsbewilligung – auch zum Zweck der Heirat (Art. 12 EMRK, Art. 14 BV) – verwehrt. Nachträglich veränderte Umstände können nicht im Verwaltungsverfahren geltend gemacht werden, sondern ausschliesslich als Vollzugshindernis nach [Art. 66d StGB](../art-066d/) vor den Strafvollzugsbehörden.
 
 ### 3. Begründungsmängel der kantonalen Vorinstanzen bei der Dauer
 **24** In der kantonalen Praxis begnügen sich Gerichte häufig mit pauschalen Formulierungen ("angesichts des Verschuldens erscheint eine Landesverweisung von X Jahren angemessen"). Dies führt vor Bundesgericht zur Kassation nach [Art. 112 Abs. 3 BGG](https://www.fedlex.admin.ch/eli/cc/2006/218/de#art_112) ([BGer 7B_1374/2024 E. 4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1374-2024_2025-12-23.html); [BGer 6B_323/2025 E. 4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-323-2025_2025-07-09.html)).

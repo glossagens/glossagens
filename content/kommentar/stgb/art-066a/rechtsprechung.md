@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-08-29
-description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Obligatorische Landesverweisung, Härtefallklausel, Interessenabwägung, Bemessung der Dauer der Landesverweisung, Secondos, Freizügigkeitsabkommen und EMRK-Konformität."
-tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
+lastmod: 2026-11-04
+description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Obligatorische Landesverweisung, Härtefallklausel, Interessenabwägung, Bemessung der Dauer der Landesverweisung, Ausschluss der Reconsideration-Praxis (BGer 2C_187/2026), Secondos, Freizügigkeitsabkommen und EMRK-Konformität."
+tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Reconsideration", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Grundsatzurteils BGer 2C_187/2026 vom 17. September 2026 (5er-Besetzung, zur Publikation vorgesehen): Keine Anwendbarkeit der ausländerrechtlichen Reconsideration-Jurisprudenz auf die strafrechtliche Landesverweisung; absolutes Bewilligungsverbot."
   - date: 2026-08-29
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -21,6 +25,13 @@ revisions:
 ---
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
+
+### [BGer 2C_187/2026 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_2C_187/2026) (5er-Besetzung, zur Publikation vorgesehen) — Ausschluss der Reconsideration-Jurisprudenz bei strafrechtlicher Landesverweisung
+- **Thema**: Verhältnis zwischen verwaltungsrechtlichem Einreiseverbot (Art. 67 AIG) und strafrechtlicher Landesverweisung (Art. 66a StGB); Ausschluss einer Bewilligungserteilung bei nachträglichem Umstandswandel (Heirat).
+- **Kernaussage**: Die bei Einreiseverboten nach Art. 67 AIG geltende Reconsideration-Jurisprudenz (wonach nach gewisser Frist bei veränderten Umständen ein neues Gesuch um Aufenthaltsbewilligung gestellt werden kann) ist **nicht auf die strafrechtliche Landesverweisung nach Art. 66a StGB übertragbar**. Die Landesverweisung bewirkt mit Rechtskraft das Erlöschen sämtlicher Aufenthaltsrechte und entfaltet eine absolutere Sperrwirkung als das administrative Einreiseverbot. Solange die vom Strafrichter festgesetzte Dauer wirkt, ist den Ausländerbehörden die Erteilung jeglicher Aufenthaltsbewilligung – auch zum Zweck der Eheschliessung (Art. 12 EMRK, Art. 14 BV) – verwehrt. Nachträgliche Veränderungen können ausschliesslich als Vollzugshindernis nach Art. 66d StGB geltend gemacht werden.
+- **Einschlägig für**: Art. 66a StGB, Art. 66d StGB, Art. 67 AIG, Art. 12 EMRK, Art. 14 BV.
+
+---
 
 ### [BGE 144 IV 332](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html) E. 3.3 — Härtefallklausel, Kriterienkatalog und Secondo-Schutz
 - **Thema**: Dogmatische Grundlagen der Härtefallprüfung nach Art. 66a Abs. 2 StGB; Zweistufigkeit und Kriterienkatalog.

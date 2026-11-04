@@ -1,8 +1,8 @@
 ---
 title: "Replikrecht und Akteneinsicht im Verfahren"
 date: 2026-10-24
-lastmod: 2026-10-26
-description: "Verfassungs- und konventionsrechtliche Verfahrensgarantien über alle Rechtsgebiete hinweg: unbedingtes Replikrecht, 10-Tage-Regel, Aktenführungspflicht, Amtsgeheimnisschranken, EGMR-Praxis und die Grenzen der Heilung."
+lastmod: 2026-11-04
+description: "Verfassungs- und konventionsrechtliche Verfahrensgarantien über alle Rechtsgebiete hinweg: unbedingtes Replikrecht, 10-Tage-Regel, Aktenführungspflicht, Amtsgeheimnisschranken, EGMR-Praxis und die Grenzen der Heilung (BGer 1C_367/2026)."
 tags: ["Rechtliches Gehör", "Replikrecht", "Akteneinsicht", "Aktenführungspflicht", "Waffengleichheit", "Fair trial", "Verwaltungsverfahren", "Zivilprozess", "Strafprozess", "Bundesgericht"]
 typ: grundlage
 kurz: "Der verfassungs- und konventionsrechtliche Gehörsanspruch garantiert in allen Gerichts- und Verwaltungsverfahren zwei untrennbar verbundene Pfeiler: das Recht auf umfassende Akteneinsicht als Informationsbasis und das unbedingte Replikrecht zur Stellungnahme. Die Parteien dürfen sich zu jeder Eingabe der Gegenpartei, der Vorinstanz oder beigezogenen Amtsberichten äussern – unabhängig davon, ob diese neue Vorbringen enthalten oder nach Ansicht des Gerichts entscheiderheblich sind. Eine Verletzung ist formeller Natur und führt grundsätzlich zur Aufhebung des Urteils, ausser bei reinem formalistischem Leerlauf."
@@ -21,6 +21,10 @@ normen:
   - { gesetz: bgg, art: art-108 }
 stichworte: ["Replikrecht", "unbedingtes Replikrecht", "Akteneinsicht", "Aktenführungspflicht", "Waffengleichheit", "Rechtliches Gehör", "10-Tage-Regel", "Amtsberichte", "Star-Praxis", "Heilung"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 1C_367/2026 vom 21. Oktober 2026: Bekräftigung von BGE 137 I 195; blosser Verweis auf Akteneinsicht am Gerichtsschalter heilt die unterbliebene Mitteilung aktenkundiger Stellungnahmen nicht."
   - date: 2026-10-26
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -230,6 +234,8 @@ Eine wegweisende Klarstellung zur Heilung traf das Bundesgericht in [BGE 137 I 1
 
 Hat die Erstinstanz eine Vernehmlassung der Gegenpartei nicht zugestellt, darf die Rechtsmittelinstanz diesen schweren Mangel nicht dadurch abtun, dass die Partei ja bei ihr ein Akteneinsichtsgesuch hätte stellen können. Denn eine solche Argumentation würde die Partei zwingen, die Rekursschrift innerhalb der kurzen Rechtsmittelfrist (oft 10 Tage) einzureichen, ohne die entscheidrelevanten Eingaben der Vorinstanz zu kennen. Dies verletzt den Anspruch auf Einhaltung des gesetzlichen Instanzenzugs ([BGE 137 I 195](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-195_2011.html#consideration_2.7) E. 2.7).
 
+Diese Rechtsprechung wurde im Urteil [BGer 1C_367/2026 vom 21. Oktober 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=21.10.2026_1C_367/2026) E. 2 unmissverständlich bestätigt: Stützt eine gerichtliche Instanz ihren Entscheid auf eine in die Akten aufgenommene Stellungnahme (in casu einer Amtsstelle im Ausstandsverfahren), so obliegt ihr die aktive Pflicht, diese den Parteien förmlich zur Kenntnis zu bringen. Der blosse Hinweis, die Partei hätte die Eingabe ja im Rahmen einer «Akteneinsicht am Kanzleischalter» einsehen können, vermag die Gehörsverletzung unter keinen Umständen zu heilen.
+
 Ebenso führt das gänzliche Übergehen eines formellen Akteneinsichtsgesuchs zwingend zur Kassation ([BGer 1C_396/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-396-2026_2026-10-06.html) E. 4): «Da das Verwaltungsgericht das Gesuch der Beschwerdeführerin nicht behandelte, verletzte es Art. 29 Abs. 2 BV».
 
 ---
@@ -260,6 +266,7 @@ Ebenso führt das gänzliche Übergehen eines formellen Akteneinsichtsgesuchs zw
 | **BGE 133 I 100** | [BGE 133 I 100 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-100_2007.html#consideration_4.3) | Art. 29 Abs. 2 BV; Wende zum unbedingten Replikrecht | Das Replikrecht gilt uneingeschränkt für alle gerichtlichen Verfahren, unabhängig davon, ob neue Tatsachen vorliegen. |
 | **BGE 138 I 484** | [BGE 138 I 484 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-484_2012.html#consideration_2.1) | Art. 29 Abs. 2 BV; Zustellung zur Kenntnisnahme und 10-Tage-Regel | Es ist Sache der Parteien zu beurteilen, ob eine Replik nötig ist. Bei Zustellung zur Kenntnisnahme wird von anwaltlich Vertretenen eine Reaktion innert 10 Tagen erwartet. |
 | **BGE 137 I 195** | [BGE 137 I 195 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-195_2011.html#consideration_2.2) | Formelle Natur des Gehörsanspruchs; Heilungsverbot | Formelle Natur führt zur Aufhebung. Die Rechtsmittelinstanz darf eine verweigerte Zustellung nicht durch den blossen Verweis auf das Akteneinsichtsrecht heilen. |
+| **BGer 1C_367/2026** | [BGer 1C_367/2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=21.10.2026_1C_367/2026) | Art. 29 Abs. 2 BV; Mitteilungspflicht vs. Schalter-Akteneinsicht | Bestätigung BGE 137 I 195: Eine Instanz, die eine parteiische Eingabe auswertet, muss sie mitteilen; der blosse Verweis auf Einsicht am Schalter heilt Gehörsverletzung nicht. |
 | **BGE 144 III 117** | [BGE 144 III 117 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-117_2018.html#consideration_2.1) | Art. 253 ZPO; Replikrecht im summarischen Zivilprozess | Das unbedingte Replikrecht gilt auch im Summarverfahren, durchbricht aber nicht die Novenschranken gemäss Art. 229 ZPO. |
 | **BGE 142 III 48** | [BGE 142 III 48 E. 4.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-48_2016.html#consideration_4.1.1) | Art. 53 ZPO, Art. 317 ZPO; Klageänderung in Berufung | Enthält eine Eingabe eine Klageänderung, reicht die Zustellung zur Kenntnisnahme nicht; das Gericht muss zwingend eine förmliche Frist zur Stellungnahme ansetzen. |
 | **BGE 144 II 427** | [BGE 144 II 427 E. 3.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-427_2018.html#consideration_3.1.1) | Art. 29 Abs. 2 BV; Umfang der Akteneinsicht | Akteneinsicht bezieht sich auf sämtliche verfahrensbezogenen Akten, ohne Nachweis eines besonderen Interesses. |

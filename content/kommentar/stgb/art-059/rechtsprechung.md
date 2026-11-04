@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 59 StGB"
 weight: 99
 date: 2026-09-05
-lastmod: 2026-09-05
-description: "Übersicht der Rechtsprechung zu Art. 59 StGB — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung, Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung."
-tags: ["Rechtsprechung", "StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Allgemeiner Teil"]
+lastmod: 2026-11-04
+description: "Übersicht der Rechtsprechung zu Art. 59 StGB — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung, Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung (BGer 7B_1244/2025)."
+tags: ["Rechtsprechung", "StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Verwahrung", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_1244/2025 vom 17. September 2026: Präzisierung des Therapieziels bei Art. 59 StGB; intramurale Schadensminimierung genügt nicht, Legalprognose muss auf extramurales Risiko abstellen; Bestätigung der nachträglichen Verwahrung."
   - date: 2026-09-05
     by: "Claude Code"
     model: "glm-5.1:cloud"
@@ -17,6 +21,13 @@ revisions:
 ---
 
 ## I. Leitentscheide des Bundesgerichts
+
+### [BGer 7B_1244/2025 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_7B_1244/2025) E. 3 — Nachträgliche Verwahrung nach Aussichtslosigkeit: Intramurale Schadensminimierung genügt nicht als Therapieziel
+- **Thema**: Aufhebung einer stationären Massnahme wegen Aussichtslosigkeit; Anordnung der nachträglichen Verwahrung (Art. 62c Abs. 4 i.V.m. Art. 64 Abs. 1 lit. b StGB); Abstellen auf das extramurale Risiko.
+- **Kernaussage**: Das gesetzliche Ziel einer stationären therapeutischen Massnahme nach Art. 59 StGB liegt in der Verminderung des *extramuralen* Rückfallrisikos für schwere Straftaten. Eine blosse «Schadensminimierung» oder Verhaltensstabilisierung innerhalb eines hochstrukturierten, geschlossenen intramuralen Settings genügt nicht als Therapieziel. Lässt sich die Gefahr von Gewalt- oder Sexualstraftaten in Freiheit durch eine Fortführung der Massnahme nicht substanziell reduzieren und verbleibt die Besserung eine blosse vage Möglichkeit, ist die Massnahme als aussichtslos aufzuheben und die nachträgliche Verwahrung nach Art. 62c Abs. 4 StGB zu bestätigen.
+- **Einschlägig für**: Art. 59 Abs. 1 lit. b, Art. 62c Abs. 1 lit. a und Abs. 4, Art. 64 Abs. 1 lit. b StGB.
+
+---
 
 ### [BGE 134 IV 315](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-315_2008.html) E. 3.4.1, 3.5, 4.3 — Voraussetzungen der stationären Massnahme; Abgrenzung zur Verwahrung
 

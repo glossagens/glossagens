@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 129 StGB"
 weight: 99
 date: 2026-05-16
-lastmod: 2026-09-16
-description: "Übersicht der massgebenden Rechtsprechung zu Art. 129 StGB — Gefährdung des Lebens: Unmittelbare Lebensgefahr, Skrupellosigkeit, Würgen und Strangulation, Schikanestopp und Strassenverkehr, Waffen- und Messereinsatz, Versuchsstrafbarkeit und Konkurrenzen."
-tags: ["Rechtsprechung", "StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Würgen", "Strangulation", "Schikanestopp", "Konkurrenz", "Abgrenzung"]
+lastmod: 2026-11-04
+description: "Übersicht der massgebenden Rechtsprechung zu Art. 129 StGB — Gefährdung des Lebens: Unmittelbare Lebensgefahr, Skrupellosigkeit, Würgen und Strangulation vs. Halsumklammerung im Handgemenge (BGer 6B_450/2026), Schikanestopp und Strassenverkehr, Waffen- und Messereinsatz, Versuchsstrafbarkeit und Konkurrenzen."
+tags: ["Rechtsprechung", "StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Würgen", "Strangulation", "Halsumklammerung", "Schikanestopp", "Konkurrenz", "Abgrenzung"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 6B_450/2026 vom 17. September 2026: Verwerfung von Art. 129 StGB bei mindestens dreiminütiger Halsumklammerung im Handgemenge; Abgrenzung der Fixierung von gezielter Strangulation mangels Petechien und Asphyxiesymptomen."
   - date: 2026-09-16
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -79,6 +83,13 @@ revisions:
 ---
 
 ## II. Weitere Entscheide (Bundesgericht und kantonale Gerichte)
+
+### [BGer 6B_450/2026 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_6B_450/2026) E. 3 — Verwerfungsfall: Halsumklammerung mit dem Unterarm im Handgemenge; Abgrenzung zur Strangulation
+- **Sachverhalt**: Im Verlaufe einer Schlägerei umschlang der Beschuldigte den Hals des Opfers von hinten mit seinem Unterarm und hielt ihn für mindestens drei Minuten in dieser Halsumklammerung fest, während er ihm mit der anderen Hand Schläge versetzte. Die Privatklägerschaft focht den kantonalen Freispruch von Art. 129 StGB (und Art. 122 StGB) beim Bundesgericht an und berief sich auf die lange Dauer der Kompression. Die rechtsmedizinische Untersuchung stellte zwar Rötungen und Schwellungen am Hals fest, schloss jedoch petechiale Bindehautblutungen (Petechien), Kehlkopffrakturen oder respiratorische Asphyxiezeichen aus.
+- **Kernaussage**: Das Bundesgericht bestätigt den Freispruch von Art. 129 StGB. Eine Halsumklammerung zur Fixierung im Rahmen eines dynamischen Handgemenges unterscheidet sich in mechanischer und dogmatischer Hinsicht von einer zielgerichteten Strangulation bzw. Drosselung. Selbst wenn die Umklammerung mehrere Minuten andauert, begründet sie keine unmittelbare Lebensgefahr, wenn objektive klinische Indikatoren einer vitalen Gefässkompression oder Asphyxie (Petechien, Bewusstlosigkeit, Sehstörungen, zerebrale Ausfälle) fehlen.
+- **Einschlägig für**: Abgrenzung Halsumklammerung/Fixierung zur Strangulation, Erfordernis objektiver klinischer Asphyxiesymptome, Beweislast bei behaupteter Lebensgefahr.
+
+---
 
 ### [BGer 6B_1036/2014 vom 16. Februar 2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1036-2014_2015-02-16.html) E. 1.4, 1.5 — Versuchte Gefährdung des Lebens: Plastiksack über den Kopf am Aareufer
 

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 263 StPO"
 weight: 99
 date: 2026-07-04
-lastmod: 2026-09-08
-description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 263 StPO (Beweis-, Rückgabe-, Einziehungs-, Kostendeckungs- und Ersatzforderungsbeschlagnahme)."
-tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Zwangsmassnahmen", "Einziehung", "Ersatzforderung"]
+lastmod: 2026-11-04
+description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 263 StPO (Beweis-, Rückgabe-, Einziehungs-, Kostendeckungs- und Ersatzforderungsbeschlagnahme sowie Ausschluss von DNS-Blocking)."
+tags: ["Rechtsprechung", "StPO", "Beschlagnahme", "Zwangsmassnahmen", "Einziehung", "Ersatzforderung", "DNS-Blocking"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Leitentscheids BGer 7B_52/2026 vom 12. Oktober 2026 (5er-Besetzung, zur Publikation vorgesehen): Kein strafprozessuales DNS-Blocking gegenüber Internet-Providern auf Basis von Art. 263 Abs. 1 lit. d StPO und Art. 69 StGB."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -13,6 +17,13 @@ revisions:
 ---
 
 ## I. Leitentscheide
+
+### Ausschluss von DNS-Blocking und Netzsperren mangels spezialgesetzlicher Grundlage (Art. 263 Abs. 1 lit. d StPO i.V.m. Art. 69 StGB)
+* **[BGer 7B_52/2026 vom 12. Oktober 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.10.2026_7B_52/2026)** (5er-Besetzung, zur Publikation vorgesehen)
+* **Sachverhalt**: Im Rahmen einer Strafuntersuchung wegen gewerbsmässigen Online-Anlagebetrugs (Deliktssumme über CHF 1,7 Mio.) verpflichtete die Staatsanwaltschaft Waadt zehn Schweizer Internet-Access-Provider unter Strafandrohung nach Art. 292 StGB, den Zugriff auf betrügerische Online-Plattformen durch Neutralisierung der DNS-Auflösung auf ihren Servern zu sperren. Die kantonale Beschwerdeinstanz schützte die Massnahme als verhältnismässiges «Minus» zur Beschlagnahme von Serverhardware.
+* **Kernaussage**: Art. 263 Abs. 1 lit. d StPO in Verbindung mit der Einziehungsnorm von Art. 69 Abs. 1 StGB bietet **keine gesetzliche Grundlage für die Auferlegung eines DNS-Blockings gegenüber unbeteiligten Dritten (Internet-Zugangsprovidern)**. Die Begriffe «Gegenstände» und «Vermögenswerte» zielen auf die Verschaffung hoheitlicher Verfügungsmacht über eine Sache oder ein Recht, nicht auf die Verpflichtung Dritter zu aktiven Netzblockaden. Wo der Gesetzgeber Netzsperren zulassen wollte, hat er dafür spezialgesetzliche Regelungen mit Ausgleichs- und Rechtsschutzmechanismen geschaffen (Art. 86 ff. BGS für Geldspiele, Art. 46a Abs. 3 FMG für Pornografie, Art. 26a UWG für unlauteren Wettbewerb). Die Einführung strafprozessualer Netzsperren für das allgemeine Strafrecht ist Sache des Bundesgesetzgebers.
+
+---
 
 ### Gültigkeitsvorschrift der nachträglichen schriftlichen Bestätigung mündlicher Beschlagnahmen (Art. 263 Abs. 2 StPO)
 * **[BGE 151 IV 18 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-18_2025.html#consideration_4)**

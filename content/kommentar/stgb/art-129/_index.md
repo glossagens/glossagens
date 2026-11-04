@@ -2,10 +2,14 @@
 title: "Art. 129 StGB — Gefährdung des Lebens"
 weight: 129
 date: 2026-05-16
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 129 StGB (Gefährdung des Lebens): Unmittelbare Lebensgefahr, Skrupellosigkeit und direkter Gefährdungsvorsatz, Grenzkasuistik zu Würgen und Strangulation, verkehrsrechtlichen Gefährdungen (Schikanestopp, Rammen) sowie Waffen- und Messereinsatz — mit Prüfschema, Judikaturdivergenzen und Praxishinweisen."
-tags: ["StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Würgen", "Strangulation", "Schikanestopp", "Konkurrenz", "Abgrenzung"]
+lastmod: 2026-11-04
+description: "Praxiskommentar zu Art. 129 StGB (Gefährdung des Lebens): Unmittelbare Lebensgefahr, Skrupellosigkeit und direkter Gefährdungsvorsatz, Grenzkasuistik zu Würgen und Strangulation vs. Halsumklammerung im Handgemenge (BGer 6B_450/2026), verkehrsrechtlichen Gefährdungen (Schikanestopp, Rammen) sowie Waffen- und Messereinsatz — mit Prüfschema, Judikaturdivergenzen und Praxishinweisen."
+tags: ["StGB", "Gefährdung des Lebens", "Lebensgefährdung", "Skrupellosigkeit", "Würgen", "Strangulation", "Halsumklammerung", "Schikanestopp", "Konkurrenz", "Abgrenzung"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung des Bundesgerichtsurteils 6B_450/2026 vom 17. September 2026: Präzisierung zu Art. 129 StGB bei Halsumklammerungen im Handgemenge; Abgrenzung zur Strangulation und Ausschluss unmittelbarer Lebensgefahr bei fehlenden Petechien und fehlenden Asphyxieanzeichen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -97,21 +101,24 @@ Das Bundesgericht wies die Beschwerde ab und bestätigte den Schuldspruch nach A
 
 ([BGer 6B_758/2018 vom 24. Oktober 2019, E. 2.1 und 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-758-2018_2019-10-24.html)).
 
-##### b) Verwerfungsfall (Tatbestand verneint): Würgen im häuslichen Nahbereich bei fehlenden Petechien und unklarer Dauer
+##### b) Verwerfungsfälle (Tatbestand verneint)
 
-In einer Wohnung kam es zwischen Ehegatten zu einer tätlichen Auseinandersetzung. Die Ehefrau gab an, ihr Mann habe sie mit beiden Händen am Hals gepackt, ihr die Kehle zugedrückt, sodass sie keine Luft mehr bekommen habe, verschwommen sah und taube Beine verspürte. Die Anklage forderte eine Verurteilung wegen Art. 129 StGB. Die klinisch-forensische Untersuchung stellte frische Rötungen und diskrete Kratzspuren am Hals fest, schloss jedoch petechiale Blutungen in den Lid- und Augenbindehäuten sowie Verletzungen des Kehlkopfskeletts ausdrücklich aus.
+**1. Halsumklammerung mit dem Unterarm im Handgemenge ([BGer 6B_450/2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_6B_450/2026)):**  
+Im Rahmen einer tätlichen Auseinandersetzung (Schlägerei) legte der Beschuldigte seinen Unterarm von hinten um den Hals des Kontrahenten, hielt diesen für mindestens drei Minuten in einer Halsumklammerung fest und versetzte ihm mit der anderen Hand Schläge. Die Privatklägerschaft verlangte die Verurteilung wegen Gefährdung des Lebens (Art. 129 StGB) und schwerer Körperverletzung (Art. 122 StGB). Der rechtsmedizinische Befund wies Rötungen und Schwellungen aus, schloss jedoch petechiale Bindehautblutungen, Kehlkopfläsionen sowie akute Asphyxiesymptome aus. Das Bundesgericht schützte den Freispruch: Eine Halsumklammerung zur Fixierung im Handgemenge unterscheidet sich mechanisch und dogmatisch von einer eigentlichen Strangulation. Liegen keine objektiven Befunde für eine Sauerstoffunterbrechung oder vitale Gefässkompression (Petechien, Bewusstlosigkeit, neurologische Ausfälle) vor, begründet das Festhalten am Hals keine unmittelbare Lebensgefahr ([BGer 6B_450/2026 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_6B_450/2026) E. 3).
 
-Das Obergericht des Kantons Zürich sprach den Angeklagten vom Vorwurf der Gefährdung des Lebens frei und verurteilte ihn lediglich wegen einfacher Körperverletzung (Art. 123 StGB). Das Gericht erwog, dass bei fehlenden Petechien und fehlenden Bewusstseinsstörungen die Intensität und Dauer der Gewalteinwirkung nicht mit der für eine Verurteilung erforderlichen Gewissheit feststehe. Da die Schilderungen der Privatklägerin im Verlauf des Verfahrens Steigerungen aufwiesen und keine Drittzeugen anwesend waren, verblieben nach dem Grundsatz «in dubio pro reo» unüberwindbare Zweifel daran, ob die Sauerstoffunterbrechung das Stadium einer unmittelbaren Lebensgefahr tatsächlich erreicht hatte ([ZH OG SB200086 vom 20. November 2020](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200086_2020-11-20.pdf)).
+**2. Würgen im häuslichen Nahbereich bei fehlenden Petechien und unklarer Dauer ([ZH OG SB200086](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200086_2020-11-20.pdf)):**  
+In einer Wohnung kam es zwischen Ehegatten zu einer tätlichen Auseinandersetzung. Die Ehefrau gab an, ihr Mann habe sie mit beiden Händen am Hals gepackt, ihr die Kehle zugedrückt, sodass sie keine Luft mehr bekommen habe, verschwommen sah und taube Beine verspürte. Die Anklage forderte eine Verurteilung wegen Art. 129 StGB. Die klinisch-forensische Untersuchung stellte frische Rötungen und diskrete Kratzspuren am Hals fest, schloss jedoch petechiale Blutungen in den Lid- und Augenbindehäuten sowie Verletzungen des Kehlkopfskeletts ausdrücklich aus. Das Obergericht des Kantons Zürich verurteilte den Angeklagten lediglich wegen einfacher Körperverletzung (Art. 123 StGB). Bei fehlenden Petechien und fehlenden Bewusstseinsstörungen stand die Intensität und Dauer der Gewalteinwirkung nicht mit der für eine Verurteilung erforderlichen Gewissheit fest (in dubio pro reo).
 
 ##### c) Grenzziehungs-Tabelle: Strangulation und Halskompression
 
-Die folgende Tabelle stellt die von den Gerichten beurteilten Schwellenwerte bei Strangulationshandlungen gegenüber:
+Die folgende Tabelle stellt die von den Gerichten beurteilten Schwellenwerte bei Strangulations- und Halskompressionshandlungen gegenüber:
 
 | Sachverhalt & Krafteinwirkung | Dauer & Klinischer Befund | Rechtliche Beurteilung | Entscheid |
 |---|---|---|---|
 | Manuelles Würgen mit beiden Händen am Boden | 20–30 s; Einnässen, Sehstörungen («schwarz vor Augen»), keine Petechien | **Art. 129 StGB bejaht**: Einnässen belegt kritische zerebrale Minderperfusion | [BGer 6B_758/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-758-2018_2019-10-24.html) E. 2.2 |
 | Würgen mit beiden Händen bis zur vollständigen Bewusstlosigkeit | Min. 15–20 s; Ohnmachtseintritt, keine bleibenden anatomischen Schäden | **Art. 129 StGB bejaht**: Lebensgefahr liegt unmittelbar im Würgeakt | [BGE 124 IV 53](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-124-IV-53_1998-01-27.html#consideration_2.) E. 2 |
 | Ladekabel von hinten um den Hals geschlungen; Knie auf Rücken | Wenige Sekunden; Opfer schiebt Hände dazwischen; keine Bewusstlosigkeit | **Versuch von Art. 129 StGB bejaht**: Unbeendeter tauglicher Versuch | [BGer 6B_798/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-798-2024_2025-03-10.html) E. 6.3 |
+| Halsumklammerung mit Unterarm im Handgemenge | Mind. 3 Minuten; Schläge, Rötungen, keine Petechien, keine Asphyxie | **Art. 129 StGB verneint**: Fixierung unterscheidet sich von Strangulation | [BGer 6B_450/2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_6B_450/2026) E. 3 |
 | Beidseitiger Griff an den Hals im Ehestreit | Unklare Dauer (< 10 s); Rötungen, keine Petechien, keine Atemwegsverlegung | **Art. 129 StGB verneint** (in dubio pro reo); nur Art. 123 StGB | [ZH OG SB200086](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB200086_2020-11-20.pdf) |
 
 > **Leitsatz.** Das Würgen eines Menschen begründet eine unmittelbare Lebensgefahr im Sinne von Art. 129 StGB, sobald eine kritische zerebrale Ischämie eintritt, was sich regelmässig durch Bewusstlosigkeit, Sehstörungen («Schwarzwerden») oder reflektorisches Einnässen manifestiert; petechiale Stauungsblutungen in den Bindehäuten sind hierfür nicht zwingend vorausgesetzt.

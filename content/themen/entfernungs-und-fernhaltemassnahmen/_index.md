@@ -1,9 +1,9 @@
 ---
 title: "Entfernungs- und Fernhaltemassnahmen im Ausländer- und Strafrecht"
 date: 2026-10-24
-lastmod: 2026-10-24
-description: "Systematik und Abgrenzung der Massnahmen zur Beendigung der Anwesenheit und Fernhaltung: Wegweisung (Art. 64 AIG), Ausweisung (Art. 68 AIG), strafrechtliche Landesverweisung (Art. 66a StGB) und Einreiseverbot (Art. 67 AIG)."
-tags: ["Ausländerrecht", "Strafrecht", "Wegweisung", "Ausweisung", "Landesverweisung", "Einreiseverbot", "Fernhaltemassnahme", "Entfernungsmassnahme", "fedpol", "SEM", "SIS"]
+lastmod: 2026-11-04
+description: "Systematik und Abgrenzung der Massnahmen zur Beendigung der Anwesenheit und Fernhaltung: Wegweisung (Art. 64 AIG), Ausweisung (Art. 68 AIG), strafrechtliche Landesverweisung (Art. 66a StGB) und Einreiseverbot (Art. 67 AIG) sowie Ausschluss der Reconsideration-Jurisprudenz (BGer 2C_187/2026)."
+tags: ["Ausländerrecht", "Strafrecht", "Wegweisung", "Ausweisung", "Landesverweisung", "Einreiseverbot", "Fernhaltemassnahme", "Entfernungsmassnahme", "fedpol", "SEM", "SIS", "Reconsideration"]
 typ: grundlage
 kurz: "Das schweizerische Recht unterscheidet zwischen Massnahmen, die den gegenwärtigen Aufenthalt im Inland beenden (Entfernungsmassnahmen wie Wegweisung, sicherheitspolizeiliche Ausweisung und strafrechtliche Landesverweisung), und solchen, die das künftige Betreten des Staatsgebiets von aussen verwehren (Fernhaltemassnahmen wie das Einreiseverbot). Während die Wegweisung rein administrativ den rechtmässigen Zustand wiederherstellt und die Ausweisung durch fedpol der Abwehr von Bedrohungen der Staatssicherheit dient, wird die Landesverweisung bei Straftaten ausschliesslich durch das Strafgericht verhängt."
 sachgebiete: [auslaenderrecht.einreise, strafrecht.landesverweisung, auslaenderrecht.zwangsmassnahmen, grundrechte]
@@ -16,8 +16,12 @@ normen:
   - { gesetz: stgb, art: art-066d }
   - { gesetz: bv, art: art-121 }
   - { gesetz: emrk, art: art-008 }
-stichworte: ["Entfernungsmassnahme", "Fernhaltemassnahme", "Wegweisung", "Ausweisung", "Landesverweisung", "Einreiseverbot", "Ausschaffung", "Verweisungsbruch", "Härtefallklausel", "Schengener Informationssystem", "SIS"]
+stichworte: ["Entfernungsmassnahme", "Fernhaltemassnahme", "Wegweisung", "Ausweisung", "Landesverweisung", "Einreiseverbot", "Ausschaffung", "Verweisungsbruch", "Härtefallklausel", "Reconsideration", "Schengener Informationssystem", "SIS"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Grundsatzurteils BGer 2C_187/2026 vom 17. September 2026 (5er-Besetzung, zur Publikation vorgesehen): Keine Übertragbarkeit der Reconsideration-Jurisprudenz zu Art. 67 AIG auf die strafrechtliche Landesverweisung nach Art. 66a StGB; absolutes Bewilligungshindernis während der Massnahmedauer auch bei Heiratsabsicht."
   - date: 2026-10-24
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -142,11 +146,20 @@ Keine Person darf in einen Staat ausgeschafft oder zurückgewiesen werden, in de
 
 Die Missachtung einer formell rechtskräftigen Ausweisung oder Landesverweisung ist nach Art. 291 StGB als *Verweisungsbruch* mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bedroht. Die Missachtung eines administrativen Einreiseverbots wird demgegenüber nach Art. 115 Abs. 1 lit. a/b AIG als rechtswidrige Einreise oder rechtswidriger Aufenthalt bestraft (subsidiär zu Art. 291 StGB; [BGE 147 IV 232](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-232_2021.html#consideration_1.1) E. 1.1).
 
+### 5. Das Verhältnis zwischen Art. 67 AIG und Art. 66a StGB: Ausschluss der Reconsideration-Jurisprudenz (BGer 2C_187/2026) {#reconsideration-landesverweisung}
+
+Ein zentraler Unterschied zwischen administrativen Fernhaltemassnahmen und der strafrechtlichen Landesverweisung betrifft die Möglichkeit einer nachträglichen Neubeurteilung bei veränderten Umständen:
+
+* **Reconsideration-Jurisprudenz bei Art. 67 AIG:** Nach der gefestigten Rechtsprechung des Bundesgerichts kann eine Person, gegen die ein administratives Einreiseverbot nach Art. 67 AIG verhängt wurde, nach einer gewissen Frist (in der Regel ca. 5 Jahre) und bei Vorliegen veränderter Verhältnisse (z. B. Heirat oder familiäre Bindungen) ein Gesuch um Neubeurteilung (*Reconsideration*) und Neuerteilung einer Aufenthaltsbewilligung stellen (vgl. [BGE 146 I 185](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-146-I-185_2020.html#consideration_4.1) E. 4.1; [BGE 139 II 121](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-121_2013.html#consideration_5.1) E. 5.1). Dies gilt namentlich auch unter dem FZA.
+* **Keine Übertragbarkeit auf die strafrechtliche Landesverweisung ([BGer 2C_187/2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_2C_187/2026)):** Das Bundesgericht hat in Fünferbesetzung grundlegend geklärt, dass diese Praxis **nicht auf die strafrechtliche Landesverweisung nach Art. 66a StGB übertragbar ist**. Die Landesverweisung entfaltet eine wesentlich absolutere Sperrwirkung als das verwaltungsrechtliche Einreiseverbot. Mit ihrer Rechtskraft erlöschen sämtliche Aufenthaltsrechte kraft Verfassungs- und Gesetzesrechts ([Art. 121 Abs. 3–6 BV](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_121), Art. 61 Abs. 1 lit. e AIG). Während der gesamten vom Strafrichter festgesetzten Dauer (5 bis 15 Jahre) ist den Migrationsbehörden die Erteilung jeglicher Aufenthaltsbewilligung – einschliesslich einer Kurzaufenthaltsbewilligung zur Eheschliessung gestützt auf Art. 12 EMRK und Art. 14 BV – verwehrt. Eine Übertragung der Reconsideration-Jurisprudenz würde das richterliche Strafurteil unterlaufen. Ein Umstandswandel kann ausschliesslich im strafrechtlichen Vollzugsverfahren nach [Art. 66d StGB](/kommentar/stgb/art-066d/) (Aufschub bei zwingendem Völkerrecht) geltend gemacht werden, nicht im Verwaltungsverfahren.
+
 ---
 
 ## Praxishinweise {#praxishinweise}
 
 * **Verfahrenstrennung beachten**: Ist gegen eine ausländische Person ein Strafverfahren hängig, das zu einer Landesverweisung führen kann, hat die Migrationsbehörde den Ausgang des Strafverfahrens in der Regel abzuwarten. Das Strafgericht entscheidet exklusiv über die Landesverweisung; die kantonale Migrationsbehörde kann eine Landesverweisung weder selbständig anordnen noch eine richterlich verweigerte Landesverweisung durch ein kantonales Einreiseverbot faktisch nachholen.
+* **Keine ausländerrechtliche Neubeurteilung bei Landesverweisung ([BGer 2C_187/2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_2C_187/2026))**: Die bei Einreiseverboten nach Art. 67 AIG etablierte Praxis, wonach nach etwa fünf Jahren bei Umstandswandel auf ein neues Bewilligungsgesuch einzutreten ist, gilt bei strafrechtlichen Landesverweisungen (Art. 66a StGB) dezidiert nicht. Solange die Landesverweisung läuft, sind Migrationsbehörden an die Sperre gebunden; Anträge auf Bewilligungserteilung (auch für Heirat) sind aussichtslos. Verbleibsgründe müssen im Strafurteil oder ausnahmsweise via Art. 66d StGB vor den Strafvollzugsbehörden vorgebracht werden.
+* **Zuständigkeit bei Einreiseverboten**: Richtet sich ein Einreiseverbot gegen eine Person ohne strafgerichtliche Landesverweisung (z. B. wegen Delinquenz im Ausland oder Verstössen gegen das AIG), ist das SEM zuständig. Betrifft die Gefährdung hingegen die innere oder äussere Staatssicherheit (NDB-Erkenntnisse, Terrorismusbezug), liegt die Zuständigkeit bei fedpol (Art. 67 Abs. 4 AIG).
 * **Zuständigkeit bei Einreiseverboten**: Richtet sich ein Einreiseverbot gegen eine Person ohne strafgerichtliche Landesverweisung (z. B. wegen Delinquenz im Ausland oder Verstössen gegen das AIG), ist das SEM zuständig. Betrifft die Gefährdung hingegen die innere oder äussere Staatssicherheit (NDB-Erkenntnisse, Terrorismusbezug), liegt die Zuständigkeit bei fedpol (Art. 67 Abs. 4 AIG).
 * **Ausreisefrist und sofortige Vollstreckbarkeit**: Bei Wegweisungsverfügungen ist stets zu prüfen, ob die Ausreisefrist nach Art. 64d Abs. 1 AIG gewährt oder nach Art. 64d Abs. 2 AIG entzogen wurde. Der Entzug der Ausreisefrist führt nach Art. 67 Abs. 1 lit. a AIG zwingend zur Pflicht des SEM, ein Einreiseverbot zu verfügen.
 * **Rechtsmittelwege nicht verwechseln**:
@@ -162,6 +175,7 @@ Die Missachtung einer formell rechtskräftigen Ausweisung oder Landesverweisung 
 
 | Entscheid | Gegenstand | Kernaussage |
 |---|---|---|
+| [BGer 2C_187/2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_2C_187/2026) | Ausschluss der Reconsideration bei Art. 66a StGB (5er-Besetzung) | Die Reconsideration-Jurisprudenz zu Art. 67 AIG ist nicht auf die strafrechtliche Landesverweisung übertragbar; während der Dauer der Landesverweisung ist jegliche Aufenthaltsbewilligung (auch zum Zweck der Eheschliessung) ausgeschlossen. |
 | [BGE 151 I 248](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-151-I-248_2025.html#consideration_5.6.2) E. 5.6.2 | Landesverweisung, Einreiseverbot und Art. 8 EMRK | Die Landesverweisung geht anders als die blosse Bewilligungsverweigerung zwingend mit einem Einreiseverbot einher; sie verunmöglicht auch Besuchsaufenthalte und greift daher intensiver in das Privat- und Familienleben ein. |
 | [BGE 149 II 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-149-II-6_2023.html#consideration_4.2.1) E. 4.2.1 | Zweck der Administrativhaft | Die ausländerrechtliche Festhaltung bezweckt ausschliesslich die Sicherung des Wegweisungs-, Ausweisungs- oder Landesverweisungsverfahrens und des Vollzugs; sie ist keine Strafhaft. |
 | [BGE 146 IV 172](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-172_2020.html#consideration_3.2.5) E. 3.2.5 | SIS-Ausschreibung bei Landesverweisung | Das Strafgericht hat bei Drittstaatsangehörigen zwingend und von Amtes wegen im Dispositiv über die Ausschreibung der Landesverweisung im SIS zur Einreiseverweigerung zu befinden. |

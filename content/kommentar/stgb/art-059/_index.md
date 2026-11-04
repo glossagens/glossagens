@@ -2,10 +2,14 @@
 title: "Art. 59 — Stationäre Behandlung von psychischen Störungen"
 weight: 59
 date: 2026-09-05
-lastmod: 2026-10-15
-description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung (Begründungspflicht bei Gutachtenabweichung BGer 7B_208/2026), Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung."
-tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil", "Gutachten", "Massnahmenverlängerung"]
+lastmod: 2026-11-04
+description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung (Begründungspflicht bei Gutachtenabweichung BGer 7B_208/2026), Aufhebung wegen Aussichtslosigkeit und nachträgliche Verwahrung (Extramurales Risiko BGer 7B_1244/2025)."
+tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil", "Gutachten", "Massnahmenverlängerung", "Aussichtslosigkeit"]
 revisions:
+  - date: 2026-11-04
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_1244/2025 vom 17. September 2026: Präzisierung des Therapieziels bei Art. 59 StGB; intramurale Schadensminimierung genügt nicht, Legalprognose muss auf extramurales Risiko abstellen; Bestätigung nachträglicher Verwahrung."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -222,6 +226,8 @@ A. war seit 2008 in einer stationären Massnahme nach Art. 59 StGB untergebracht
 ## IX. Umwandlung in Verwahrung (Art. 62c Abs. 4)
 
 **27** Ist bei Aufhebung einer Massnahme, die aufgrund einer Straftat nach [Art. 64 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_64) angeordnet wurde, ernsthaft zu erwarten, dass der Täter weitere Taten dieser Art begeht, so kann das Gericht auf Antrag der Vollzugsbehörde die **Verwahrung anordnen** ([Art. 62c Abs. 4 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_62c)). Voraussetzung ist eine **rechtskräftige Aufhebung** der stationären Massnahme. Die Zuständigkeit für die nachträgliche Verwahrung liegt beim **erstinstanzlichen Gericht** ([BGE 148 IV 1 E. 3.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-1_2022.html); [BGE 141 IV 49 E. 2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-49_2015.html)).
+
+**27bis** **Therapieziel und Legalprognose: Extramurales Risiko massgebend ([BGer 7B_1244/2025](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_7B_1244/2025)):** Das Bundesgericht hat klargestellt, dass das gesetzliche Ziel einer stationären Massnahme nach Art. 59 StGB in der Beseitigung oder deutlichen Verringerung der Gefahr weiterer Straftaten in Freiheit (extramurales Rückfallrisiko) besteht. Eine blosse «Schadensminimierung» oder funktionale Verhaltensstabilisierung innerhalb eines hochstrukturierten, geschlossenen intramuralen Settings genügt nicht als Therapieziel. Lässt sich die Rückfallgefahr für schwere Anlasstaten durch die therapeutische Intervention nicht substanziell senken und verbleibt die Reduktion des Risikos eine blosse vage Möglichkeit, ist die Massnahme als aussichtslos aufzuheben und die nachträgliche Verwahrung nach Art. 62c Abs. 4 i.V.m. Art. 64 Abs. 1 StGB zu bestätigen ([BGer 7B_1244/2025 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_7B_1244/2025) E. 3).
 
 **28** Eine **direkte Umwandlung** einer ambulanten Massnahme in eine Verwahrung ist gesetzlich nicht vorgesehen und nach der Rechtsprechung nicht möglich ([BGE 148 IV 1 E. 3.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-1_2022.html); [BGE 143 IV 445 E. 2 und 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-1_2022.html)). Der Weg führt stets über die Aufhebung der therapeutischen Massnahme und — in einem zweiten Schritt — die gerichtliche Verwahrung.
 
