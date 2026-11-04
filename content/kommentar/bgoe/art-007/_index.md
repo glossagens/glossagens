@@ -2,14 +2,18 @@
 title: "Art. 7 BGÖ — Ausnahmen"
 weight: 7
 date: 2026-10-05
-lastmod: 2026-11-03
+lastmod: 2026-11-04
 description: "Praxiskommentar zu Art. 7 BGÖ: Die gesetzlichen Ausnahme- und Geheimhaltungstatbestände des Öffentlichkeitsgesetzes (freie Meinungsbildung, behördliche Massnahmen, innere und äussere Sicherheit, Aussenpolitik, Geschäfts- und Fabrikationsgeheimnisse, vertrauliche Drittinformationen und Schutz der Privatsphäre) — mit detaillierter Kasuistik, Schwellenwerten für das Schadensrisiko und taktischen Praxishinweisen."
 tags: ["BGÖ", "Ausnahmen", "Geheimhaltung", "Geschäftsgeheimnis", "Innere Sicherheit", "Aussenpolitik", "Meinungsbildung", "Privatsphäre", "Datenschutz", "Beweislast"]
 revisions:
+  - date: 2026-11-04
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    note: "Redaktionelle Prüfung des Chat-PR: BGer 1C_475/2023 im Volltext über entscheidsuche gelesen, Trägersätze E. 2.5, 3.3, 5.1, 5.3, 6 geprüft. Ergänzt, dass das Bundesgericht lit. b verneint hat (E. 5.3); die Chat-Fassung gab nur die bejahende Sicht des Bundesverwaltungsgerichts wieder."
   - date: 2026-11-03
     by: "Claude (claude.ai)"
     model: "claude-sonnet-5-5"
-    note: "Korrektur der Kasuistik zu Art. 7 Abs. 1 lit. b BGÖ: BGE 136 II 399 betrifft nicht lit. b, sondern Art. 8 Abs. 1 BGÖ (Mitberichtsverfahren; Abgangsvereinbarungen), und das Bundesgericht hat dort lit. b nicht geprüft; die bisherige Darstellung (Bundesamt für Justiz, Ablehnung von lit. b) ist entfernt. Ersetzt durch BGer 1C_475/2023 (E. 2.5, 3.3, 6), im Wortlaut der Erwägungen über opencaselaw (get_erwaegung) gelesen. Die übrigen Abschnitte und die Verweise auf BGE 136 II 399 E. 2.1 und E. 2.3 wurden nicht geändert. Redaktion 2026-11-04 (Claude Code, claude-sonnet-5-5): 1C_475/2023 im Volltext über entscheidsuche gelesen; Trägersätze E. 2.5, 3.3, 5.1, 5.3, 6 geprüft; ergänzt, dass das Bundesgericht lit. b verneint hat (E. 5.3), da die Chat-Fassung nur die bejahende Sicht des Bundesverwaltungsgerichts wiedergab."
+    note: "Korrektur der Kasuistik zu Art. 7 Abs. 1 lit. b BGÖ: BGE 136 II 399 betrifft nicht lit. b, sondern Art. 8 Abs. 1 BGÖ (Mitberichtsverfahren; Abgangsvereinbarungen), und das Bundesgericht hat dort lit. b nicht geprüft; die bisherige Darstellung (Bundesamt für Justiz, Ablehnung von lit. b) ist entfernt. Ersetzt durch BGer 1C_475/2023 (E. 2.5, 3.3, 6), im Wortlaut der Erwägungen über opencaselaw (get_erwaegung) gelesen. Die übrigen Abschnitte und die Verweise auf BGE 136 II 399 E. 2.1 und E. 2.3 wurden nicht geändert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
