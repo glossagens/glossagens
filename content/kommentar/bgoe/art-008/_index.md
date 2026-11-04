@@ -2,10 +2,14 @@
 title: "Art. 8 BGÖ — Besondere Fälle"
 weight: 8
 date: 2026-11-03
-lastmod: 2026-11-03
+lastmod: 2026-11-04
 description: "Praxiskommentar zu Art. 8 BGÖ: Mitberichtsverfahren (Abs. 1), Aufschub bis zum Entscheid (Abs. 2), Ämterkonsultation (Abs. 3), Verhandlungspositionen (Abs. 4) und Evaluationsberichte (Abs. 5) — mit Kasuistik, Abgrenzung zu Art. 7 BGÖ und Praxishinweisen."
 tags: ["BGÖ", "Besondere Fälle", "Mitberichtsverfahren", "Ämterkonsultation", "Verhandlungspositionen", "Evaluationsberichte", "Aufschub", "Beweislast"]
 revisions:
+  - date: 2026-11-04
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    note: "Redaktionelle Prüfung des Chat-PR: BGE 136 II 399, BGer 1C_50/2015, 1C_267/2020, 1C_475/2023 sowie BVGer-Entscheide (A-7657/2024, BVGE 2014/6, A-2070/2017, A-5489/2012, A-1432/2016, A-6291/2013, A-6313/2015, A-306/2015, A-1738/2025, A-3631/2009) im Volltext über entscheidsuche geladen und die zitierten Erwägungen gegen den Text abgeglichen; keine Abweichungen. Ergänzt: Bundesgericht verneinte in 1C_475/2023 lit. b. rechtsprechung.md neu angelegt. A-7657/2024 ist laut entscheidsuche beim Bundesgericht angefochten."
   - date: 2026-11-03
     by: "Claude (claude.ai)"
     model: "claude-sonnet-5-5"
@@ -164,7 +168,7 @@ Art. 7 Abs. 1 lit. d BGÖ bietet bei internationalen Verhandlungen einen weiterg
 
 **Optionenpapier zur Öffnung des Agrarsektors.** Die Vorinstanz berief sich auf Art. 7 Abs. 1 lit. d und Art. 8 Abs. 4 BGÖ. Das Bundesverwaltungsgericht liess offen, ob das Papier eigentliche Verhandlungspositionen wiedergab; jedenfalls enthalte es Informationen über Verhandlungsinhalte und Verhandlungsspielräume, die unter Art. 7 Abs. 1 lit. d BGÖ fielen ([BVGer A-6313/2015 E. 5.6.3](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-6313-2015_2016-04-27.pdf)).
 
-**Vertrauliche Preisvereinbarungen zur CAR-T-Zelltherapie (BAG).** Ein Journalist verlangte vom Bundesamt für Gesundheit Zugang zu Dokumenten, aus denen die real bezahlten Vergütungen, Rabatte und geschätzten Gesamtkosten hervorgingen. Das Amt stützte die Verweigerung unter anderem auf Art. 8 Abs. 4 BGÖ; das Bundesverwaltungsgericht liess diesen Grund offen, da es Art. 7 Abs. 1 lit. b BGÖ bejahte. Das Bundesgericht hiess die Beschwerde gut und wies die Sache zur weiteren Beurteilung zurück, weil das Bundesverwaltungsgericht offengelassen hatte, ob der Einsicht andere gesetzliche Gründe entgegenstehen ([BGer 1C_475/2023 E. 6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-475-2023_2025-02-18.html)). Nach der Rückweisung verneinte das Bundesverwaltungsgericht Abs. 4: Es erscheine fraglich, ob sich die verlangten Angaben überhaupt eignen, eine Verhandlungsposition der Behörden zu schwächen; jedenfalls umfasse der Ausschluss nur Dokumente, aus denen Positionsbezüge der Bundesverwaltung hervorgehen ([BVGer A-1738/2025 E. 6.1](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-1738-2025_2026-09-25.pdf)).
+**Vertrauliche Preisvereinbarungen zur CAR-T-Zelltherapie (BAG).** Ein Journalist verlangte vom Bundesamt für Gesundheit Zugang zu Dokumenten, aus denen die real bezahlten Vergütungen, Rabatte und geschätzten Gesamtkosten hervorgingen. Das Amt stützte die Verweigerung unter anderem auf Art. 8 Abs. 4 BGÖ; das Bundesverwaltungsgericht liess diesen Grund offen, da es Art. 7 Abs. 1 lit. b BGÖ bejahte. Das Bundesgericht verneinte lit. b mangels konkreter behördlicher Massnahme, hiess die Beschwerde gut und wies die Sache zur weiteren Beurteilung zurück, weil das Bundesverwaltungsgericht offengelassen hatte, ob der Einsicht andere gesetzliche Gründe entgegenstehen ([BGer 1C_475/2023 E. 6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-475-2023_2025-02-18.html)). Nach der Rückweisung verneinte das Bundesverwaltungsgericht Abs. 4: Es erscheine fraglich, ob sich die verlangten Angaben überhaupt eignen, eine Verhandlungsposition der Behörden zu schwächen; jedenfalls umfasse der Ausschluss nur Dokumente, aus denen Positionsbezüge der Bundesverwaltung hervorgehen ([BVGer A-1738/2025 E. 6.1](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-1738-2025_2026-09-25.pdf)).
 
 **Grenzkasuistik: Wo Abs. 4 verneint oder offengelassen wurde**
 
