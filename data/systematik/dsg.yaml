@@ -3,6 +3,9 @@
 # Ein Artikel landet in der ENGSTEN passenden Gruppe; ebene: 2 ist eine
 # Untergruppe der vorangehenden ebene: 1.
 gruppen:
+  - name: "Allgemeine Bestimmungen — Zweck und Geltungsbereich"
+    von: 1
+    bis: 5
   - name: "Grundsätze"
     von: 6
     bis: 6
