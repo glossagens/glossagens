@@ -1,7 +1,7 @@
 ---
 title: "Verhältnis von Verfassungs- und Völkerrecht"
 date: 2026-10-31
-lastmod: 2026-11-01
+lastmod: 2026-11-05
 description: "Das Verhältnis von Verfassung, Bundesgesetzen und Völkerrecht in der Rechtsprechung des Bundesgerichts und in der aktuellen politischen Debatte: Monismus, ius cogens, praktische Konkordanz, PKK- und Schubert-Praxis sowie die Kontroverse um deren Kodifizierung im Kontext der Bilateralen III."
 tags: ["Verfassungsrecht", "Völkerrecht", "Völkerrecht und Landesrecht", "Normenhierarchie", "Schubert-Praxis", "PKK-Praxis", "EMRK", "FZA", "Bilaterale III", "Volksinitiativen", "Ius cogens", "Art. 190 BV", "Art. 5 BV", "Praktische Konkordanz"]
 typ: grundlage
@@ -16,6 +16,10 @@ normen:
   - { gesetz: bv, art: art-121a }
 stichworte: ["Verfassungsrecht und Völkerrecht", "Völkerrecht und Landesrecht", "Völkerrechtsvorrang", "Schubert-Praxis", "PKK-Praxis", "Bilaterale III", "Ius cogens", "Ausschaffungsinitiative", "Masseneinwanderungsinitiative", "Verwahrungsinitiative", "EMRK-Vorrang", "Freizügigkeitsabkommen", "Monismus", "Art. 190 BV", "Völkerrechtskonforme Auslegung", "Praktische Konkordanz", "Selbstbestimmungsinitiative"]
 revisions:
+  - date: 2026-11-05
+    by: "Claude Code"
+    model: "claude-sonnet-5-5"
+    note: "Abschnitt «Stimmen der Lehre» und Literaturnachweise ergänzt (Sassòli 2012, Burri 2019, Kälin/Schlegel 2014; Epiney 2023 nur als Literaturhinweis, Volltext nicht abrufbar). Lehrtexte über opencaselaw (open access) im Volltext gelesen. BGE 145 IV 55 E. 4.1 und BGE 125 II 417 E. 4d (Vorbehalt «in anderen Fällen») im Volltext über entscheidsuche geprüft; Formulierungen «ausnahmslos»/«unbestritten» zur PKK-Praxis entsprechend abgeschwächt. BBl 2010 2263 und BBl 2011 3613 über search_botschaft nachgewiesen, Inhalt der Berichte nur nach Sassòli wiedergegeben (nicht im Volltext gelesen)."
   - date: 2026-11-01
     by: "Antigravity"
     model: "gemini-4-argon-medium"
@@ -172,7 +176,7 @@ Die dogmatische Begründung stützt sich auf folgende Pfeiler:
 
 ### Der Vorrang von Menschenrechtsgarantien (EMRK und UNO-Pakte) {#vorrang-menschenrechte}
 
-Im Bereich des fundamentalen Menschenrechtsschutzes räumt das Bundesgericht dem Völkerrecht ausnahmslosen Vorrang vor entgegenstehendem Verfassungsrecht ein:
+Im Bereich des fundamentalen Menschenrechtsschutzes räumt das Bundesgericht dem Völkerrecht grundsätzlich Vorrang vor entgegenstehendem Verfassungsrecht ein (zur bewusst offen gehaltenen Formel von BGE 125 II 417 E. 4d siehe unten [Stimmen der Lehre](#lehre)):
 
 > «Das Bundesgericht ist auch bei Berücksichtigung von Art. 121 Abs. 3 BV hieran gebunden. Es hat die sich aus der Rechtsprechung des Europäischen Gerichtshofs für Menschenrechte ergebenden Vorgaben weiterhin umzusetzen»
 >
@@ -210,7 +214,7 @@ In der Rechtsprechung sind dabei drei Ebenen zu unterscheiden:
 >
 > — [BGE 138 II 524](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-138-II-524_2012.html#consideration_5.3.2) E. 5.3.2
 
-2. **Ausschluss auf Verfassungsstufe und bei Menschenrechtsgarantien (*PKK*-Praxis)**: Für Konflikte zwischen Verfassungsbestimmungen und Völkerrecht sowie im Bereich der völkerrechtlichen Menschenrechtsgarantien ([BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d; [BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html#consideration_5.1) E. 5.1) ist die *Schubert*-Ausnahme unbestritten ausgeschlossen. Die Selbstbestimmungsinitiative, welche einen generellen Vorrang der Bundesverfassung vor nicht-zwingendem Völkerrecht und eine Pflicht zur Vertragskündigung festschreiben wollte, wurde 2018 von Volk und Ständen abgelehnt.
+2. **Ausschluss auf Verfassungsstufe und bei Menschenrechtsgarantien (*PKK*-Praxis)**: Für Konflikte zwischen Verfassungsbestimmungen und Völkerrecht sowie im Bereich der völkerrechtlichen Menschenrechtsgarantien ([BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d; [BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html#consideration_5.1) E. 5.1) wendet das Bundesgericht die *Schubert*-Ausnahme nicht an; dass die *PKK*-Formel den Vorrang nur «prinzipiell» und «umso mehr» bei Menschenrechten formuliert und andere Fälle ausdrücklich offenlässt ([BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d), betont die Lehre (vgl. [Stimmen der Lehre](#lehre)). Die Selbstbestimmungsinitiative, welche einen generellen Vorrang der Bundesverfassung vor nicht-zwingendem Völkerrecht und eine Pflicht zur Vertragskündigung festschreiben wollte, wurde 2018 von Volk und Ständen abgelehnt.
 3. **Umstrittene Geltung im Binnenmarkt- und Freizügigkeitsrecht**: Ob die *Schubert*-Praxis auch gegenüber dem FZA und weiteren Binnenmarktabkommen mit der EU ausgeschlossen ist, wird zwischen den Abteilungen des Bundesgerichts, in der kantonalen Verwaltungsrechtsprechung und in der Bundespolitik kontrovers beurteilt.
 
 ---
@@ -271,6 +275,50 @@ In der Debatte stehen sich drei Grundpositionen gegenüber:
 
 ---
 
+## Stimmen der Lehre {#lehre}
+
+Die Darstellung der Rechtsprechung lässt sich durch frei zugängliche Lehrbeiträge ergänzen. Sie betreffen vor allem die dogmatische Begründung und die Folgen der *Schubert*-Praxis.
+
+### Die Schubert-Praxis zwischen Kritik und Abwägungsmodell {#lehre-schubert}
+
+*Marco Sassòli* hält die Kritik an *Schubert* in der Lehre für fast einhellig (S. 185), vertritt als Völkerrechtler aber eine differenzierte Gegenposition ([Sassòli, S. 185–201](https://archive-ouverte.unige.ch/unige:23323)):
+
+* **Uneinheitliche Rechtsprechung.** Das Bundesgericht habe die *Schubert*-Praxis ausser für Menschenrechtsgarantien nie entscheidrelevant aufgegeben; seine obiter dicta seien uneinheitlich (S. 189). Das stützt die Einordnung von [BGE 142 II 35](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html#consideration_3.2) E. 3.2 und [BGE 148 II 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-169_2022.html#consideration_5.2) E. 5.2 als umstrittene obiter dicta.
+* **Offene PKK-Formel.** Auch im *PKK*-Entscheid gehe das Völkerrecht nur «prinzipiell» vor; ob in anderen Fällen, ausdrücklich unter Verweis auf *Schubert*, abweichende Lösungen in Betracht kommen, liess das Gericht offen ([BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d; Sassòli, S. 188).
+* **Zwei Ebenen.** Völkerrecht verlange von den Staaten nur seine Einhaltung (Art. 27 VRK), nicht einen bestimmten innerstaatlichen Rang; dieser sei eine rein verfassungsrechtliche Frage (S. 190). Art. 27 VRK sei zudem nicht self-executing, das Gericht könne *Schubert* daher nicht ohne Weiteres mit dieser Bestimmung überwinden (S. 191). [Art. 190 BV](/kommentar/bv/art-190/) lasse sich als Kompetenzregel verstehen, die das Bundesgericht daran hindert, das Verhältnis materiell durchzusetzen (S. 191).
+* **Bewusstes Abweichen.** Es genüge, wenn die mögliche Völkerrechtswidrigkeit in der Botschaft oder im Parlament aufgeworfen wurde; ein ausdrücklicher Entscheid, Völkerrecht zu verletzen, sei in der Praxis nie zu erwarten (S. 187). Das ergänzt die strengere Linie von [BGE 138 II 524](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-138-II-524_2012.html#consideration_5.3.2) E. 5.3.2.
+* **Abwägungsmodell.** Bewusst völkerrechtswidrige Gesetze sollen dem früheren Völkerrecht ausnahmsweise nach Abwägung aller Interessen vorgehen können, wenn die Schweiz zur Weiterentwicklung des Völkerrechts beitragen will; der Vorrang des Völkerrechts bleibe die Regel (S. 194–197, 201). Zu berücksichtigen seien die völkerrechtliche Verantwortlichkeit, Gegenmassnahmen anderer Staaten und die Schwächung des Völkerrechts (S. 197 f.); Österreich habe nach dem Entscheid *Schubert* mitgeteilt, den streitigen Artikel des Niederlassungsvertrags nicht mehr anzuwenden, solange die Schweiz ihn nicht wieder anwende (S. 198 Fn. 49).
+* **Menschenrechte und EMRK.** Eine formelle Sonderbehandlung aller Menschenrechte lehnt er ab. Für die EMRK ergebe sie sich aber aus Art. 122 BGG und der Bindungswirkung der EGMR-Urteile nach Art. 46 EMRK (S. 199–201).
+
+### Landesverweisung und FZA: Ausweichen vor der Rangfrage {#lehre-landesverweisung}
+
+Zur obligatorischen und fakultativen Landesverweisung ([Art. 66a StGB](/kommentar/stgb/art-066a/)) hat das Bundesgericht die Rangfrage zwischen StGB und FZA bisher nicht entschieden. In [BGE 145 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-55_2019.html#consideration_4.1) (fakultative Landesverweisung nach Art. 66a<sup>bis</sup> StGB) hielt es fest:
+
+> «Lässt sich Landesrecht völkerrechtskonform anwenden, stellt sich die Frage einer Normenhierarchie nicht. Diese kann offenbleiben. Das Strafgericht hat zunächst das ihm vertraute Landesrecht anzuwenden.»
+>
+> — [BGE 145 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-55_2019.html#consideration_4.1) E. 4.1
+
+*Nina Burri* kritisiert dies als «Vertagung» des Entscheids über den Normenkonflikt ([Burri, sui generis 2019, S. 64 ff.](https://sui-generis.ch/article/view/sg.93)): Die Begründung sei knapp und widersprüchlich; das Bundesgericht trenne Strafrecht und Ausländerrecht, obwohl der Gesetzgeber beide verknüpft habe, und lehne die ausländerrechtliche Rechtsprechung zu Art. 5 Anhang I FZA ab, auf die es dann doch verweise (S. 70 f.). Art. 5 Anhang I FZA gelte unabhängig davon, unter welchem Gesetz eine Einschränkung erfolgt (S. 71). Nach der von ihr vertretenen Ansicht gehe das FZA den Bestimmungen der Landesverweisung vor (S. 72). Sie verweist dafür auf [BGE 142 II 35](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html#consideration_3.2) E. 3.2 f. sowie auf *Nay* (Jusletter 18.4.2016, «kein obiter dictum») und *Epiney* (Jusletter 14.3.2016) und steht damit der Einordnung als blosses obiter dictum entgegen, die *Biaggini* vertritt.
+
+### Die Berichte des Bundesrates von 2010 und 2011 {#lehre-bundesrat}
+
+Schon der Bericht des Bundesrates vom 5. März 2010 zum Verhältnis von Völkerrecht und Landesrecht ([BBl 2010 2263](https://fedlex.data.admin.ch/eli/fga/2010/383), mit eigenem Kapitel zur «Verankerung der *Schubert*-Praxis», S. 2323 ff.) und der Zusatzbericht (BBl 2011 3613) haben eine Kodifizierung der *Schubert*-Praxis geprüft. Nach *Sassòli* sprach sich der Bundesrat gegen eine Verankerung auf Gesetzes- oder Verfassungsstufe aus (Sassòli, S. 185 mit Fn. 2); den Formulierungsvorschlag im Zusatzbericht, der Menschenrechtsnormen ausgenommen hätte, verwarf er mit dem Hinweis, deren Tragweite sei noch nicht klar bestimmt (Sassòli, S. 199 mit Fn. 51). Die aktuelle Debatte um die Pa. Iv. 26.425 knüpft damit an eine bereits 2010/2011 geführte Diskussion an. Der Inhalt der Berichte wurde hier nicht im Volltext geprüft.
+
+### Folgen einer Herabstufung der EMRK {#lehre-emrk}
+
+Zur Frage, was ein ausdrücklicher Vorrang des Landesrechts vor der EMRK bedeuten würde, liegt eine Studie des Schweizerischen Kompetenzzentrums für Menschenrechte vor ([Kälin/Schlegel, 2014](https://boris-portal.unibe.ch/handle/20.500.12422/207026), Zusammenfassung S. 1–3). Sie betraf damals hängige parlamentarische Vorstösse; ihre Überlegungen sind aber auch für die später abgelehnte Selbstbestimmungsinitiative von Interesse:
+
+* Das Konfliktpotenzial mit dem Europarat wäre in der Schweiz grösser als in Staaten, in denen die EMRK unter der Verfassung steht, weil eine Verfassungsgerichtsbarkeit gegenüber Bundesgesetzen fehlt und per Volksinitiative jederzeit EMRK-widriges Verfassungsrecht geschaffen werden könnte.
+* Der Europarat verfüge über abgestufte Reaktionsmöglichkeiten (Ministerkomitee, Piloturteil, erneute Befassung des Gerichtshofs nach Art. 46 EMRK, Parlamentarische Versammlung). Massnahmen nach Art. 8 der Satzung seien nicht sehr wahrscheinlich, starker Druck unterhalb dieser Schwelle aber schon.
+
+Gelesen wurden Zusammenfassung und Inhaltsverzeichnis, nicht die ganze Studie.
+
+### Weitere Literatur {#lehre-weitere}
+
+*Astrid Epiney* bespricht in AJP 2023, S. 699–708, die Frage, ob die «*Schubert*-Rechtsprechung» noch aktuell ist, anlässlich von BGE 148 II 169 ([Epiney, AJP 2023](https://sonar.rero.ch/global/documents/331864)). Der Volltext war nicht abrufbar; der Beitrag ist hier nur als Literaturhinweis aufgeführt.
+
+---
+
 ## Die Vermittlungsrolle des Gesetzgebers: Härtefallklauseln {#gesetzgeber-haertefallklauseln}
 
 Da das Bundesgericht weder einen Verfassungsauftrag ignorieren noch zwingende oder menschenrechtliche Garantien des Völkerrechts verletzen darf, fällt dem Gesetzgeber bei der Umsetzung konfliktträchtiger Verfassungsnormen eine Schlüsselrolle zu: Er muss den Verfassungsauftrag so konkretisieren, dass die völkerrechtlichen Mindeststandards gewahrt bleiben.
@@ -306,7 +354,7 @@ Die Entwicklung des Verhältnisses von Völkerrecht und Landesrecht zeigt ein do
 Für die juristische Argumentation in Verfahren, die das Spannungsfeld zwischen Landesrecht und völkerrechtlichen Verträgen berühren, gelten folgende Grundregeln:
 
 * **Völkerrechtskonforme Auslegung als primäre Rüge**: Gerichte sind stets gehalten, Verfassungsnormen und Bundesgesetze im Einklang mit völkerrechtlichen Garantien auszulegen. Anträge sollten daher primär aufzeigen, wie die nationale Norm so verstanden werden kann, dass kein völkerrechtlicher Verstoss vorliegt.
-* **Keine Verfassungs- oder Gesetzesdurchsetzung gegen die EMRK**: Gegenüber Massnahmen, die sich auf restriktive Verfassungs- oder Gesetzesnormen stützen, ist im Anwendungsbereich der EMRK stets die Einzelfallprüfung (etwa nach Art. 8 EMRK) einzufordern; die *Schubert*-Praxis ist bei Menschenrechtsgarantien ausnahmslos ausgeschlossen ([BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d; [BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html#consideration_5.3) E. 5.3).
+* **Keine Verfassungs- oder Gesetzesdurchsetzung gegen die EMRK**: Gegenüber Massnahmen, die sich auf restriktive Verfassungs- oder Gesetzesnormen stützen, ist im Anwendungsbereich der EMRK stets die Einzelfallprüfung (etwa nach Art. 8 EMRK) einzufordern; die *Schubert*-Praxis ist bei Menschenrechtsgarantien nach ständiger Rechtsprechung ausgeschlossen ([BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d; [BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html#consideration_5.3) E. 5.3).
 * **Auslösen der gesetzlichen Härtefallklauseln**: In Straf- und Migrationsverfahren (z. B. Art. 66a Abs. 2 StGB oder Art. 96 AIG) muss der Sachverhalt detailliert entlang der Strassburger Integrationskriterien substantiiert werden (Aufenthaltsdauer, Geburt in der Schweiz, familiäre Beziehungen, wirtschaftliche Integration).
 * **Differenzierte Argumentation bei Konflikten zwischen Bundesgesetz und FZA**: Beruft sich eine Behörde bei einem Widerspruch zum FZA auf ein jüngeres Bundesgesetz und die *Schubert*-Praxis (wie bei Art. 37 Abs. 1 KVG), sollte in der Beschwerde zweigleisig argumentiert werden: Erstens ist gestützt auf [BGE 138 II 524](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-138-II-524_2012.html#consideration_5.3.2) E. 5.3.2 streng zu prüfen, ob die Räte den konkreten Völkerrechtsverstoss und dessen Tragweite tatsächlich eingehend thematisiert und bewusst in Kauf genommen haben (blosse Randvoten genügen nicht; vgl. auch [BGE 151 V 198](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-151-V-198_2025.html#consideration_8.2.3.2.2) E. 8.2.3.2.2). Zweitens ist gestützt auf [BGE 142 II 35](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html#consideration_3.2) E. 3.2 und [BGE 148 II 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-169_2022.html#consideration_5.2) E. 5.2 geltend zu machen, dass das FZA aufgrund seiner Natur als Binnenmarktabkommen und seiner demokratischen Legitimation den Vorrang beansprucht und bei divergierender Abteilungspraxis eine Koordination nach Art. 23 BGG erforderlich ist.
 
@@ -318,12 +366,13 @@ Für die juristische Argumentation in Verfahren, die das Spannungsfeld zwischen 
 |---|---|---|
 | [BGE 99 Ib 39](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_003_BGE-99-IB-39_1973-03-02.html#consideration_3.) E. 3–4 | Lex von Moos / Staatsvertrag von 1875 (*Schubert*) | Begründung der *Schubert*-Praxis: Hat der Bundesgesetzgeber einen Verstoss gegen einen älteren Staatsvertrag bewusst in Kauf genommen, wenden die Gerichte das jüngere Bundesgesetz an. |
 | [BGE 122 II 485](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-122-II-485_1996-11-01.html#consideration_3.) E. 3a | Auslieferung / Monismus / Art. 26 und 27 VRK | Monistisches System der Schweiz: Staaten dürfen sich nicht auf innerstaatliches Recht berufen, um völkerrechtliche Verträge nicht zu erfüllen (*pacta sunt servanda*). |
-| [BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d | PKK-Propaganda / Beschlagnahme vs. EMRK | Leitentscheid zur *PKK*-Praxis: Menschenrechtsverträge gehen entgegenstehendem Landesrecht ausnahmslos vor; Ausschluss der *Schubert*-Praxis bei Grundrechten. |
+| [BGE 125 II 417](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-II-417_1999-07-26.html#consideration_4.) E. 4d | PKK-Propaganda / Beschlagnahme vs. EMRK | Leitentscheid zur *PKK*-Praxis: Das Völkerrecht geht dem Landesrecht prinzipiell vor, «umso mehr» bei menschenrechtlichen Normen; Ausschluss der *Schubert*-Praxis bei Grundrechten. Ob in anderen Fällen abweichende Konfliktlösungen in Betracht kommen (Hinweis auf BGE 99 Ib 39), liess das Gericht ausdrücklich offen. |
 | [BGE 133 II 450](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-133-II-450_2007.html#consideration_7.1) E. 7.1 | Sanktionen des UNO-Sicherheitsrats (*Nada*) vs. Grundrechte | Zwingendes Völkerrecht (*ius cogens*) setzt sich bedingungslos gegen jedes Landesrecht durch; Definition und Schranken des *ius cogens*. |
 | [BGE 138 II 524](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-138-II-524_2012.html#consideration_5.3.2) E. 5.3.2 | Grenzzonenabkommen Schweiz–Italien vs. Art. 43 ZG | Hohe Hürde für die *Schubert*-Praxis: Ein bewusstes Abweichen liegt nur vor, wenn der Völkerrechtsverstoss und seine Folgen im Parlament eingehend thematisiert wurden; Randvoten genügen nicht. |
 | [BGE 139 I 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-16_2013.html#consideration_5.1) E. 4.3.4, 5.1 | Ausschaffungsinitiative (Art. 121 Abs. 3 BV) vs. Art. 8 EMRK | Art. 121 Abs. 3 BV ist mangels Bestimmtheit nicht direkt anwendbar. Menschenrechtsgarantien der EMRK gehen im Konfliktfall entgegenstehendem Verfassungsrecht vor. |
 | [BGE 140 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-1_2014.html#consideration_2.1) E. 2.1 | Verwahrungsinitiative (Art. 123a BV) vs. Art. 3 und 5 EMRK | Konventionskonforme Auslegung der Verfassungsnorm und von Art. 64 Abs. 1<sup>bis</sup> StGB: Lebenslange Verwahrung erfordert dauerhafte Unbehandelbarkeit nach wissenschaftlichem Stand. |
 | [BGE 142 II 35](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-35_2016.html#consideration_3.2) E. 3.2–3.3 | Masseneinwanderungsinitiative (Art. 121a BV) vs. FZA | Art. 121a BV ist nicht direkt anwendbar (E. 3.3). Die II. öffentlich-rechtliche Abteilung erklärt die *Schubert*-Praxis im Freizügigkeitsrecht für unanwendbar (E. 3.2; Tragweite als *obiter dictum* umstritten). |
+| [BGE 145 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-55_2019.html#consideration_4.1) E. 4.1 | Fakultative Landesverweisung (Art. 66a<sup>bis</sup> StGB) und FZA | Die Frage der Normenhierarchie stellt sich nicht, wenn sich das Landesrecht völkerrechtskonform anwenden lässt; sie bleibt offen. Das Strafgericht wendet zunächst das Landesrecht an (vgl. [Stimmen der Lehre](#lehre-landesverweisung)). |
 | [BGE 146 IV 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-105_2020.html#consideration_3.4.2) E. 3.4.2 | Obligatorische Landesverweisung (Art. 66a StGB) und Härtefallklausel | Art. 66a Abs. 2 StGB dient dem Ausgleich zwischen Art. 121 Abs. 3 BV und Art. 8 EMRK. Auslegung der Härtefallkriterien im Lichte der EGMR-Rechtsprechung. |
 | [BGE 148 II 169](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-169_2022.html#consideration_5.2) E. 5.2 | Dublin-Renitenzhaft (Art. 76a Abs. 4 AIG) vs. Art. 28 Dublin-III-VO | Vorrang der Dublin-III-Verordnung; die II. öffentlich-rechtliche Abteilung bezeichnet die *Schubert*-Praxis als ältere, weitgehend nicht mehr anwendbare Rechtsprechung. |
 | [BGE 148 II 392](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-392_2022.html#consideration_4.2.1) E. 4.2.1 | Netzsperren / Geldspielgesetz / Art. 190 BV | Massgeblichkeit von Bundesgesetzen und Völkerrecht nach Art. 190 BV; Anwendungsgebot versus richterliche Normenkontrolle. |
@@ -337,6 +386,11 @@ Für die juristische Argumentation in Verfahren, die das Spannungsfeld zwischen 
 * **Botschaft des Bundesrates** über das Paket *Stabilisierung und Weiterentwicklung der Beziehungen Schweiz–EU (Bilaterale III)*, BBl 2026 615, S. 1031 (zit. in [VGer BE 100.2024.269U](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2024-269_2026-09-07.pdf) E. 4.8.3).
 * **Bundesamt für Justiz (BJ)**, *Mögliche Verankerung der Schubert-Praxis im Schweizer Recht*, Bericht zuhanden der WAK-S vom 20. April 2026.
 * **Staatspolitische Kommission des Ständerates (SPK-S)**, Parlamentarische Initiative 26.425 (*Verfassungsanpassung betreffend die Bilateralen III*): Eröffnung der Vernehmlassung zur Kodifizierung der *Schubert*-Praxis vom 20. Oktober 2026.
+* **Marco Sassòli**, *Völkerrecht und Landesrecht: Plädoyer eines Völkerrechtlers für Schubert*, in: Bellanger/de Werra (Hrsg.), Genève au confluent du droit interne et du droit international, Zürich 2012, S. 185–201 ([open access](https://archive-ouverte.unige.ch/unige:23323)).
+* **Nina Burri**, *Landesverweisung und Freizügigkeitsabkommen – Bundesgericht vertagt Entscheid über Normenkonflikt*, sui generis 2019, S. 64 ff. ([DOI](https://doi.org/10.21257/sg.93), CC-BY-SA).
+* **Walter Kälin/Stefan Schlegel**, *Schweizer Recht bricht Völkerrecht? Szenarien eines Konflikts mit dem Europarat im Falle eines beanspruchten Vorranges des Landesrechts vor der EMRK*, Studie des SKMR, Bern, April 2014 ([open access](https://boris-portal.unibe.ch/handle/20.500.12422/207026)).
+* **Astrid Epiney**, *Völkerrecht und Landesrecht: Ist die «Schubert-Rechtsprechung» noch aktuell? Zu BGE 148 II 169*, AJP 2023, S. 699–708 ([open access](https://sonar.rero.ch/global/documents/331864); Volltext nicht ausgewertet).
+* **Bundesrat**, *Das Verhältnis von Völkerrecht und Landesrecht*, Bericht vom 5. März 2010, BBl 2010 2263, und Zusatzbericht, BBl 2011 3613.
 * **Giovanni Biaggini**, *«Schubert» und die «Bilateralen III»: ein neues Kapitel in der sonderbaren Geschichte eines obiter dictum*, in: ZBl 2026, S. 233 f. (zit. in [VGer BE 100.2024.269U](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2024-269_2026-09-07.pdf) E. 4.8.3).
 * **Giovanni Biaggini**, *Die «Immerhin liesse sich erwägen»-Erwägung im Urteil 2C_716/2014: über ein problematisches höchstrichterliches obiter dictum*, in: ZBl 2016, S. 169 f. (zit. in [VGer BE 100.2024.269U](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2024-269_2026-09-07.pdf) E. 4.8.3).
 * **Tschumi / Schindler**, in: St. Galler Kommentar zur BV, 4. Aufl. 2026, Art. 5 N. 94 (zit. in [VGer BE 100.2024.269U](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2024-269_2026-09-07.pdf) E. 4.8.3).
