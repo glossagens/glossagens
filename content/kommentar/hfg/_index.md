@@ -4,7 +4,7 @@ ebene: bund
 sr: "810.30"
 kuerzel: "HFG"
 gesetz_name: "Humanforschungsgesetz"
-weight: 24
+weight: 36
 date: 2026-11-02
 lastmod: 2026-11-02
 description: "Kommentierte Artikel zum Bundesgesetz über die Forschung am Menschen (Humanforschungsgesetz, HFG, SR 810.30, vom 30. September 2011)."

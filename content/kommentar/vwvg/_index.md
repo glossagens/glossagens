@@ -4,7 +4,7 @@ ebene: bund
 sr: "172.021"
 kuerzel: "VwVG"
 gesetz_name: "Verwaltungsverfahrensgesetz"
-weight: 7
+weight: 11
 date: '2026-08-10'
 lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Verwaltungsverfahrensgesetz (VwVG, SR 172.021, vom 20. Dezember 1968).

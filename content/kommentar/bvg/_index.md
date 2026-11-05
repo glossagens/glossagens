@@ -4,7 +4,7 @@ ebene: bund
 sr: "831.40"
 kuerzel: "BVG"
 gesetz_name: "Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge"
-weight: 30
+weight: 46
 date: '2026-10-27'
 lastmod: "2026-10-27"
 description: "Kommentierte Artikel zum Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG, SR 831.40, vom 25. Juni 1982)."

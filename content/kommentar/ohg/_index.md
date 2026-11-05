@@ -4,7 +4,7 @@ ebene: bund
 sr: "312.5"
 kuerzel: "OHG"
 gesetz_name: "Opferhilfegesetz"
-weight: 19
+weight: 28
 date: '2026-08-10'
 lastmod: "2026-08-29"
 description: Kommentierte Artikel zum Opferhilfegesetz (OHG, SR 312.5, vom 23. März 2007).

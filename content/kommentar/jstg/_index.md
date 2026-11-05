@@ -4,7 +4,7 @@ ebene: bund
 sr: "311.1"
 kuerzel: "JStG"
 gesetz_name: "Bundesgesetz über das Jugendstrafrecht"
-weight: 17
+weight: 26
 date: 2026-08-22
 lastmod: "2026-08-22"
 description: "Kommentar zum Schweizerischen Jugendstrafgesetz (JStG) — Schutzmassnahmen, Sanktionen, Verfahren"

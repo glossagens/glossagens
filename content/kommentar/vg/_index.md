@@ -4,7 +4,7 @@ ebene: bund
 sr: "170.32"
 kuerzel: "VG"
 gesetz_name: "Bundesgesetz über die Verantwortlichkeit des Bundes sowie seiner Behördenmitglieder und Beamten"
-weight: 7
+weight: 10
 date: "2026-09-02"
 lastmod: "2026-09-02"
 description: "Kommentierte Artikel zum Verantwortlichkeitsgesetz (VG, SR 170.32, vom 14. März 1958) — Staatshaftung des Bundes für amtliche Tätigkeiten."

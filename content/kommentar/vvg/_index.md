@@ -4,7 +4,7 @@ ebene: bund
 sr: "221.229.1"
 kuerzel: "VVG"
 gesetz_name: "Bundesgesetz über den Versicherungsvertrag"
-weight: 13
+weight: 18
 date: '2026-08-11'
 lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über den Versicherungsvertrag (VVG, SR 221.229.1, vom 2. April 1908).

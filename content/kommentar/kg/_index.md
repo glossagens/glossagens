@@ -4,7 +4,7 @@ ebene: bund
 sr: "251"
 kuerzel: "KG"
 gesetz_name: "Bundesgesetz über Kartelle und andere Wettbewerbsbeschränkungen"
-weight: 15
+weight: 21
 description: "Kommentierte Artikel zum Bundesgesetz über Kartelle und andere Wettbewerbsbeschränkungen (Kartellgesetz, KG, SR 251, vom 6. Oktober 1995)."
 ---
 

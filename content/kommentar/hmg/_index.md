@@ -4,7 +4,7 @@ ebene: bund
 sr: "812.21"
 kuerzel: "HMG"
 gesetz_name: "Heilmittelgesetz"
-weight: 24
+weight: 37
 date: 2026-11-02
 lastmod: 2026-11-02
 description: "Kommentierte Artikel zum Bundesgesetz über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG, SR 812.21, vom 15. Dezember 2000)."

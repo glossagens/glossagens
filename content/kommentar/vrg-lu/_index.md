@@ -5,7 +5,7 @@ kanton: "LU"
 srl: "40"
 kuerzel: "VRG"
 gesetz_name: "Gesetz über die Verwaltungsrechtspflege des Kantons Luzern"
-weight: 34
+weight: 55
 date: '2026-08-10'
 lastmod: 2026-09-09
 description: "Kommentierte Paragraphen zum Luzerner Verwaltungsrechtspflegegesetz (VRG, SRL 40, vom 3. Juli 1972, Stand 1. September 2021)."

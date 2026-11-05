@@ -5,7 +5,7 @@ kanton: "LU"
 srl: "735"
 kuerzel: "PBG"
 gesetz_name: "Planungs- und Baugesetz des Kantons Luzern"
-weight: 35
+weight: 56
 date: '2026-10-24'
 lastmod: 2026-10-24
 description: "Planungs- und Baugesetz des Kantons Luzern (PBG, SRL 735, vom 7. März 1989, Stand 1. Januar 2025)."

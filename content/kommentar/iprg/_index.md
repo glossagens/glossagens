@@ -4,7 +4,7 @@ ebene: bund
 sr: "291"
 kuerzel: "IPRG"
 gesetz_name: "Bundesgesetz über das Internationale Privatrecht"
-weight: 16
+weight: 24
 date: '2026-09-20'
 lastmod: "2026-09-20"
 description: "Kommentierte Artikel zum Bundesgesetz über das Internationale Privatrecht (IPRG, SR 291, vom 18. Dezember 1987)."

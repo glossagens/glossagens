@@ -4,7 +4,7 @@ ebene: bund
 sr: "642.14"
 kuerzel: "StHG"
 gesetz_name: "Bundesgesetz über die Harmonisierung der direkten Steuern der Kantone und Gemeinden"
-weight: 22
+weight: 33
 date: 2026-09-28
 lastmod: "2026-09-28"
 description: Kommentierte Artikel zum Bundesgesetz über die Harmonisierung der direkten Steuern der Kantone und Gemeinden (StHG, SR 642.14, vom 14. Dezember 1990).

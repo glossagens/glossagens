@@ -4,7 +4,7 @@ ebene: bund
 sr: "641.20"
 kuerzel: "MWSTG"
 gesetz_name: "Bundesgesetz über die Mehrwertsteuer"
-weight: 23
+weight: 31
 date: 2026-10-21
 lastmod: "2026-10-21"
 description: "Kommentierte Artikel zum Bundesgesetz über die Mehrwertsteuer (Mehrwertsteuergesetz, MWSTG, SR 641.20, vom 12. Juni 2009)."

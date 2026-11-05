@@ -4,7 +4,7 @@ ebene: bund
 sr: "741.01"
 kuerzel: "SVG"
 gesetz_name: "Strassenverkehrsgesetz"
-weight: 23
+weight: 35
 date: '2026-07-03'
 lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Strassenverkehrsgesetz (SVG, SR 741.01, vom 19. Dezember 1958).

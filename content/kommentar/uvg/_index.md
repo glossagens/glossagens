@@ -4,7 +4,7 @@ ebene: bund
 sr: "832.20"
 kuerzel: "UVG"
 gesetz_name: "Bundesgesetz über die Unfallversicherung"
-weight: 31
+weight: 49
 date: '2026-07-03'
 lastmod: "2026-09-10"
 description: Kommentierte Artikel zum Bundesgesetz über die Unfallversicherung (UVG, SR 832.20, vom 20. März 1981).

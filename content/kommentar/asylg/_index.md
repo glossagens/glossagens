@@ -4,7 +4,7 @@ ebene: bund
 sr: "142.31"
 kuerzel: "AsylG"
 gesetz_name: "Asylgesetz"
-weight: 5
+weight: 7
 date: '2026-08-10'
 lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Asylgesetz (AsylG, SR 142.31, vom 26. Juni 1998).

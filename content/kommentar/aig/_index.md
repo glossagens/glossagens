@@ -4,7 +4,7 @@ ebene: bund
 sr: "142.20"
 kuerzel: "AIG"
 gesetz_name: "Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration"
-weight: 4
+weight: 6
 date: '2026-08-10'
 lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (AIG, SR 142.20, vom 16. Dezember 2005).

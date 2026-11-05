@@ -4,7 +4,7 @@ ebene: bund
 sr: "952.0"
 kuerzel: "BankG"
 gesetz_name: "Bundesgesetz über die Banken und Sparkassen"
-weight: 37
+weight: 53
 description: "Kommentierte Artikel zum Bankengesetz (BankG, SR 952.0, vom 8. November 1934)."
 ---
 

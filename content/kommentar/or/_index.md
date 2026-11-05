@@ -4,7 +4,7 @@ ebene: bund
 sr: "220"
 kuerzel: "OR"
 gesetz_name: "Obligationenrecht"
-weight: 12
+weight: 17
 date: '2026-08-10'
 lastmod: "2026-09-14"
 description: Kommentierte Artikel zum Obligationenrecht (OR, SR 220, vom 30. März 1911).

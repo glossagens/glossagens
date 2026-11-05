@@ -4,7 +4,7 @@ ebene: bund
 sr: "311.0"
 kuerzel: "StGB"
 gesetz_name: "Schweizerisches Strafgesetzbuch"
-weight: 17
+weight: 25
 date: '2026-08-10'
 lastmod: "2026-09-21"
 description: Kommentierte Artikel zum Schweizerisches Strafgesetzbuch (StGB, SR 311.0, vom 21. Dezember 1937).

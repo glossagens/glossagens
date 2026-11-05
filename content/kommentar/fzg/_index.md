@@ -4,7 +4,7 @@ ebene: bund
 sr: "831.42"
 kuerzel: "FZG"
 gesetz_name: "Bundesgesetz über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge"
-weight: 30
+weight: 47
 date: '2026-10-27'
 lastmod: "2026-10-27"
 description: "Kommentierte Artikel zum Bundesgesetz über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Freizügigkeitsgesetz, FZG, SR 831.42, vom 17. Dezember 1993)."

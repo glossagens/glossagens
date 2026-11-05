@@ -4,7 +4,7 @@ ebene: bund
 sr: "812.121"
 kuerzel: "BetmG"
 gesetz_name: "Betäubungsmittelgesetz"
-weight: 24
+weight: 38
 date: '2026-09-06'
 lastmod: "2026-09-06"
 description: Kommentierte Artikel zum Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe (BetmG, SR 812.121, vom 3. Oktober 1951).

@@ -4,7 +4,7 @@ ebene: bund
 sr: "241"
 kuerzel: "UWG"
 gesetz_name: "Bundesgesetz gegen den unlauteren Wettbewerb"
-weight: 15
+weight: 20
 description: "Kommentierte Artikel zum Bundesgesetz gegen den unlauteren Wettbewerb (UWG, SR 241, vom 19. Dezember 1986)."
 ---
 

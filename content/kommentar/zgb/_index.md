@@ -4,7 +4,7 @@ ebene: bund
 sr: "210"
 kuerzel: "ZGB"
 gesetz_name: "Schweizerisches Zivilgesetzbuch"
-weight: 9
+weight: 14
 date: '2026-08-10'
 lastmod: "2026-09-10"
 description: Kommentierte Artikel zum Schweizerisches Zivilgesetzbuch (ZGB, SR 210, vom 10. Dezember 1907).

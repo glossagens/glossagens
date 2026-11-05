@@ -4,7 +4,7 @@ ebene: bund
 sr: "0.142.112.681"
 kuerzel: "FZA"
 gesetz_name: "Abkommen zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit"
-weight: 5
+weight: 3
 date: '2026-10-27'
 lastmod: "2026-10-27"
 description: "Kommentierte Bestimmungen zum Abkommen über die Freizügigkeit (Freizügigkeitsabkommen, FZA, SR 0.142.112.681, vom 21. Juni 1999) und seinen Anhängen."

@@ -4,7 +4,7 @@ ebene: bund
 sr: "281.1"
 kuerzel: "SchKG"
 gesetz_name: "Bundesgesetz über Schuldbetreibung und Konkurs"
-weight: 16
+weight: 23
 date: '2026-08-10'
 lastmod: "2026-09-12"
 description: Kommentierte Artikel zum Bundesgesetz über Schuldbetreibung und Konkurs (SchKG, SR 281.1, vom 11. April 1889).

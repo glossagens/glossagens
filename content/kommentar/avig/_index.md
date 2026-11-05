@@ -4,7 +4,7 @@ ebene: bund
 sr: "837.0"
 kuerzel: "AVIG"
 gesetz_name: "Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung"
-weight: 32
+weight: 50
 date: '2026-07-03'
 lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG, SR 837.0, vom 25. Juni 1982).

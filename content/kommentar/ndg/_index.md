@@ -4,7 +4,7 @@ ebene: bund
 sr: "121"
 kuerzel: "NDG"
 gesetz_name: "Nachrichtendienstgesetz"
-weight: 1
+weight: 5
 date: "2026-11-03"
 lastmod: "2026-11-03"
 description: "Kommentierte Artikel zum Bundesgesetz über den Nachrichtendienst des Bundes (Nachrichtendienstgesetz, NDG, SR 121, vom 25. September 2015)."

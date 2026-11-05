@@ -4,7 +4,7 @@ ebene: bund
 sr: "814.01"
 kuerzel: "USG"
 gesetz_name: "Umweltschutzgesetz"
-weight: 25
+weight: 39
 date: '2026-09-01'
 lastmod: "2026-09-01"
 description: "Kommentierte Artikel zum Umweltschutzgesetz (USG, SR 814.01, vom 7. Oktober 1983)."

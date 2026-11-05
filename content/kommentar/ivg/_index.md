@@ -4,7 +4,7 @@ ebene: bund
 sr: "831.20"
 kuerzel: "IVG"
 gesetz_name: "Bundesgesetz über die Invalidenversicherung"
-weight: 28
+weight: 44
 date: '2026-08-10'
 lastmod: "2026-08-31"
 description: Kommentierte Artikel zum Bundesgesetz über die Invalidenversicherung (IVG, SR 831.20, vom 19. Juni 1959).

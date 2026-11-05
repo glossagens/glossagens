@@ -4,7 +4,7 @@ ebene: bund
 sr: "152.3"
 kuerzel: "BGÖ"
 gesetz_name: "Öffentlichkeitsgesetz"
-weight: 15
+weight: 9
 date: '2026-10-05'
 lastmod: "2026-10-05"
 description: Kommentierte Artikel zum Bundesgesetz über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ, SR 152.3, vom 17. Dezember 2004).

@@ -4,7 +4,7 @@ ebene: bund
 sr: "235.1"
 kuerzel: "DSG"
 gesetz_name: "Datenschutzgesetz"
-weight: 14
+weight: 19
 date: '2026-08-07'
 lastmod: "2026-08-11"
 description: Kommentierte Artikel zum Datenschutzgesetz (DSG, SR 235.1, vom 25. September 2020).

@@ -4,7 +4,7 @@ ebene: bund
 sr: "172.056.1"
 kuerzel: "BöB"
 gesetz_name: "Bundesgesetz über das öffentliche Beschaffungswesen"
-weight: 16
+weight: 12
 description: "Kommentierte Artikel zum Bundesgesetz über das öffentliche Beschaffungswesen (BöB, SR 172.056.1, vom 21. Juni 2019)."
 ---
 
