@@ -140,6 +140,9 @@ iprg:
   bereiche:
     - { von: 176, bis: 194, sachgebiete: [schiedsgerichtsbarkeit, ipr] }
 
+irsg:
+  standard: [rechtshilfe_straf]
+
 ivg:
   standard: [iv]
   bereiche:
