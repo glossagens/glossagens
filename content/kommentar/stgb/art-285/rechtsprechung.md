@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 285 StGB"
 weight: 99
 date: 2026-08-31
-lastmod: "2026-08-31"
-description: "Übersicht der Rechtsprechung zu Art. 285 StGB — Gewalt und Drohung gegen Behörden und Beamte: Drohungsschwelle, Hinderung durch Gewalt, rechtswidrige Amtshandlung, Zusammenrottung und Abgrenzung zu Art. 286 StGB."
+lastmod: 2026-11-06
+description: "Übersicht der Rechtsprechung zu Art. 285 StGB — Gewalt und Drohung gegen Behörden und Beamte: Drohungsschwelle, Hinderung durch Gewalt, tätlicher Angriff (BGer 6B_330/2026), rechtswidrige Amtshandlung, Zusammenrottung und Abgrenzung zu Art. 286 StGB."
 tags: ["Rechtsprechung", "StGB", "Gewalt gegen Beamte", "Drohung", "Amtshandlung", "Zusammenrottung", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 6B_330/2026 vom 23. September 2026 (publiziert am 05.11.2026): Konkretisierung des tätlichen Angriffs nach Art. 285 Ziff. 1 StGB (Intensitätsschwelle einer Tätlichkeit genügt; Vollendung bereits bei Versuch; Biss über Jacke / Stoss in Rücken); Text an relevancy.bger.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
@@ -78,6 +82,12 @@ revisions:
 ---
 
 ## II. Weitere Entscheide
+
+### [BGer 6B_330/2026 vom 23. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.09.2026_6B_330/2026) E. 2.1.2, 2.2 — Tätlicher Angriff: Intensität einer Tätlichkeit genügt
+
+- **Sachverhalt**: Anlässlich einer Hausdurchsuchung stiess der Beschuldigte einen vor ihm gehenden Polizeibeamten auf der Treppe in den Rücken, worauf dieser nur knapp einen Sturz verhindern konnte. Bei der anschliessenden Festhaltung biss der Beschuldigte den Beamten über die Jacke in den rechten Arm. Vor Bundesgericht machte er geltend, der Biss in die Jacke habe mangels Körperverletzung die erforderliche Eingriffsintensität nicht erreicht.
+- **Kernaussage**: Für die Tatvariante des tätlichen Angriffs nach Art. 285 Ziff. 1 StGB genügt ein Eingriff in die körperliche Integrität des Beamten mit der Intensität einer Tätlichkeit ([Art. 126 StGB](../art-126)); der tätliche Angriff ist gar bereits vollendet, wenn der Versuch einer Tätlichkeit vorliegt (E. 2.1.2). Die Aggression zielte unmittelbar auf den Körper der Amtsperson, weshalb sowohl der Stoss in den Rücken als auch der Biss über die Jacke den Tatbestand vollenden; das Eintreten einer Körperverletzung ist nicht erforderlich (E. 2.2).
+- **Einschlägig für**: Art. 285 Ziff. 1 StGB (tätlicher Angriff während einer Amtshandlung, Intensitätsschwelle, Versuchsbegriff).
 
 ### [ZH Obergericht UE220282 vom 31. Juli 2023](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UE220282_2023-07-31.pdf) — Freispruch mangels Drohungsintensität: Bierflasche reicht nicht
 

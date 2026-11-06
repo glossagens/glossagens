@@ -2,10 +2,14 @@
 title: "Art. 42quater IVG — Anspruch auf einen Assistenzbeitrag"
 weight: 42
 date: 2026-11-04
-lastmod: 2026-11-04
-description: "Praxiskommentar zu Art. 42quater IVG über den Anspruch auf einen Assistenzbeitrag: Voraussetzungen (Hilflosenentschädigung der IV, Wohnen zu Hause vs. Heim, Volljährigkeit), Delegationsnormen für Personen mit eingeschränkter Handlungsfähigkeit und Minderjährige (Schulbesuch, Intensivpflegezuschlag), Rechtsprechung und Praxishinweise."
+lastmod: 2026-11-06
+description: "Praxiskommentar zu Art. 42quater IVG über den Anspruch auf einen Assistenzbeitrag: Voraussetzungen (Hilflosenentschädigung der IV, Wohnen zu Hause vs. Heim, Volljährigkeit), Delegationsnormen für Personen mit eingeschränkter Handlungsfähigkeit (Grundsatzentscheid BGer 9C_438/2025 zur Haushaltsführung nach Art. 39b IVV) und Minderjährige (Schulbesuch, Intensivpflegezuschlag), Rechtsprechung und Praxishinweise."
 tags: ["IVG", "Assistenzbeitrag", "Hilflosenentschädigung", "Wohnen zu Hause", "Minderjährige", "Handlungsfähigkeit"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Grundsatzurteils BGer 9C_438/2025 vom 6. Oktober 2026 (5er-Besetzung, zur Publikation vorgesehen, publiziert am 05.11.2026): Verwerfung der restriktiven BSV-Praxis (KSAB Rz. 2019) zu Art. 39b lit. a IVV; Anspruch auf Assistenzbeitrag auch für volljährige Personen mit geistiger Behinderung und eingeschränkter Handlungsfähigkeit im gemeinsamen Familienhaushalt; Text an relevancy.bger.ch verifiziert."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -144,32 +148,29 @@ Gestützt auf diese Delegation schliesst Art. 39b IVV volljährige Personen mit 
 3. sie **absolviert eine berufliche Ausbildung** auf dem ersten Arbeitsmarkt (lit. c); oder
 4. sie **besucht eine Regelschule** auf Sekundarstufe II oder Tertiärstufe (lit. d).
 
-#### Das Kriterium des «Führens eines eigenen Haushalts»: Praxis des Kantonsgerichts Luzern
+#### Das Kriterium des «Führens eines eigenen Haushalts»: Bisherige Praxis vs. Grundsatzurteil BGer 9C_438/2025
 
-Im Leitentscheid LGVE 2013 III Nr. 2 befasste sich das Kantonsgericht Luzern eingehend mit der Auslegung von Art. 39b lit. a IVV und der Gesetzmässigkeit der Bundesratsverordnung.
+Lange Zeit legten die IV-Stellen und das Bundesamt für Sozialversicherungen (BSV) das Kriterium «einen eigenen Haushalt führen» (Art. 39b lit. a IVV) äusserst restriktiv aus. Im Kreisschreiben über den Assistenzbeitrag (KSAB Rz. 2019 / CCA ch. 2019) verlangte das BSV die selbstständige Planung und Ausführung der vielfältigen Haushaltsaktivitäten (Kochen, Wohnungsreinigung, Einkaufen, Wäschepflege). Zahlreiche kantonale Gerichte folgten dieser restriktiven Linie und verneinten einen Anspruch bei volljährigen, kognitiv beeinträchtigten Personen, die bei ihren Eltern lebten ([LGVE 2013 III Nr. 2](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_003_S-12-412_2013-09-02.html); [KGer BL 720 18 223 / 261 vom 27.09.2018](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_002_720-18-223---261_2018-09-27.pdf)).
 
-> **Eigener Wohnbereich im Elternhaus: Der Fall eines kognitiv beeinträchtigten Mannes**  
-> Ein 1984 geborener, an einer frühkindlichen Hirnschädigung leidender Versicherter bezog eine ganze Rente sowie eine Hilflosenentschädigung wegen schwerer Hilflosigkeit. Er stand unter umfassender Beistandschaft (vormals Entmündigung nach Art. 369 aZGB). Er bewohnte ein separat ausgebautes Stockwerk mit eigenem Bad im Einfamilienhaus seiner Eltern, besass jedoch keine eigene Kochgelegenheit. Die Mahlzeiten wurden gemeinsam in der Küche der Eltern eingenommen; das Waschen der Kleider, die Reinigung und die Besorgungen wurden im Wesentlichen von der Mutter erledigt.  
-> Der Beistand beantragte im Februar 2012 einen Assistenzbeitrag, um externe Hilfskräfte für Freizeitaktivitäten und Spaziergänge anzustellen. Die IV-Stelle Luzern wies das Gesuch gestützt auf Art. 42quater Abs. 2 IVG i.V.m. Art. 39b IVV ab, da der Versicherte keinen eigenen Haushalt führe.  
-> **Das Kantonsgericht Luzern wies die Beschwerde ab ([LGVE 2013 III Nr. 2 / S 12 412](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_003_S-12-412_2013-09-02.html)).** Art. 39b IVV hält sich im Rahmen der Delegationskompetenz. Der Verordnungsbegriff «Führen eines eigenen Haushalts» geht wesentlich weiter als das blosse «zu Hause wohnen» im Sinne von Art. 42quater Abs. 1 lit. b IVG: Er verlangt eine eigenständige Haushaltsführung, welche die Organisation und Planung der alltäglichen Verrichtungen (Ernährung, Wäschepflege, Einkauf, Budgetierung) umfasst ([E. 4.3](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_003_S-12-412_2013-09-02.html)). Eine blosse räumliche Trennung im Elternhaus genügt nicht, wenn die lebenspraktische Versorgung faktisch im Familienverband der Eltern verbleibt.
+Mit Grundsatzurteil **[BGer 9C_438/2025 vom 6. Oktober 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=06.10.2026_9C_438/2025)** *(zur Publikation in der Amtlichen Sammlung vorgesehen, Fünferbesetzung)* verwarf das Bundesgericht diese restriktive Praxis als bundesrechtswidrig und dem Willen des Gesetzgebers widersprechend:
+- **Normzweck und Paradoxon der Verwaltungspraxis:** Das Bundesgericht legte dar, dass die Auslegung des BSV zu einem untragbaren Paradoxon führt: Sie verwehrt den Assistenzbeitrag gerade jenen Personen mit geistiger Behinderung, die wegen ihrer Beeinträchtigung Anleitung und Hilfe im Haushalt benötigen, obschon die Hilfe bei der Haushaltsführung nach [Art. 39c IVV](https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/de#art_39_c) explizit zum anspruchsbegründenden Assistenzbereich zählt (E. 8.3).
+- **Kein Zwang zum Alleinleben:** Der Gesetzgeber wollte den Assistenzbeitrag nicht auf Personen beschränken, die fähig sind, völlig autonom und ohne fremde Hilfe zu leben. Die Leistung soll es Betroffenen ermöglichen, im häuslichen Umfeld (zu Hause) zu verbleiben und eine Einweisung in eine stationäre Institution abzuwenden (E. 7.3 & 8.3).
+- **Gleichstellung mit Ehegatten und Partnern:** Während verheiratete oder in Partnerschaft lebende Personen nach der BSV-Weisung von vornherein als «einen eigenen Haushalt führend» galten, ohne jede Haushaltsarbeit selbst verrichten zu müssen, wurden im Familienhaushalt lebende Personen diskriminiert. Diese Differenzierung entbehrt jeder sachlichen Rechtfertigung (E. 8.3).
+- **Gradation der Autonomie:** Volljährige Versicherte mit eingeschränkter Handlungsfähigkeit und schwerer geistiger Behinderung, die im häuslichen Familienumfeld leben, haben dem Grundsatz nach Anspruch auf den Assistenzbeitrag, sofern eine gewisse Gradation an Eigenständigkeit besteht (z. B. Teilnahme an externen Werkstätten oder Tagesstrukturen und Mithilfe bei alltäglichen Verrichtungen auf Veranlassung; E. 8.3).
 
-#### Der Verbleib im elterlichen Haushalt bei Urteilsunfähigkeit
+> **Gesetzgeberischer Ausblick (Botschaft 2026):** Das Bundesgericht wies ergänzend darauf hin, dass der Bundesrat im Rahmen des indirekten Gegenentwurfs zur Inklusions-Initiative die vollständige Aufhebung von Art. 42quater Abs. 2 IVG (und damit die ersatzlose Streichung von Art. 39b IVV) vorgeschlagen hat, damit Personen mit eingeschränkter Handlungsfähigkeit künftig unter exakt denselben Bedingungen wie alle übrigen Erwachsenen Anspruch auf den Assistenzbeitrag haben ([BBl 2026 715](https://fedlex.data.admin.ch/eli/fga/2026/715), Ziff. 6.3.3; BGer 9C_438/2025 E. 9.2).
 
-Dieselbe Strenge wandte das Kantonsgericht Basel-Landschaft im Urteil 720 18 223 / 261 vom 27. September 2018 an:
+#### Grenzkasuistik: Handlungsfähigkeit und Haushaltsführung
 
-> **Urteilsunfähigkeit und Verbleib bei den Eltern: Das Baselbieter Urteil**  
-> Eine 1996 geborene Versicherte mit schwerer geistiger Behinderung und vollständiger Urteilsunfähigkeit lebte bei ihren Eltern. Der Vater als Beistand beantragte einen Assistenzbeitrag, um die Mutter bei der intensiven Betreuung und Pflege durch Dritte zu entlasten. Die IV-Stelle lehnte ab. Das Kantonsgericht Basel-Landschaft schützte die Verfügung: Weil die Tochter vollständig urteilsunfähig war und im Haushalt der Eltern lebte, führte sie keinen eigenen Haushalt im Sinne von Art. 39b lit. a IVV ([KGer BL 720 18 223 / 261 vom 27. September 2018 E. 2.2](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_002_720-18-223---261_2018-09-27.pdf)). Da auch keine Erwerbstätigkeit vorlag, griff der Anspruchsausschluss nach Abs. 2.
-
-#### Grenzkasuistik: Handlungsfähigkeit und Ausnahmetatbestände
-
-- **Anwendungsfälle (Anspruch trotz Beistandschaft bejaht)**:
+- **Anwendungsfälle (Anspruch bejaht)**:
+  - *Volljährige kognitiv beeinträchtigte Person im Familienhaushalt*: Volljährige Versicherte mit schwerer geistiger Behinderung und eingeschränkter Handlungsfähigkeit lebt bei Angehörigen, besucht an Werktagen eine geschützte Werkstätte und benötigt für die alltägliche Haushaltsführung Anleitung, Überwachung und externe Assistenz. Nach [BGer 9C_438/2025](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=06.10.2026_9C_438/2025) ist der Anspruch nach Art. 39b lit. a IVV gegeben; die gegenteilige Praxis der IV-Stellen ist unzulässig.
   - *Eigener Haushalt mit Beistandsunterstützung*: Eine Person unter Vertretungsbeistandschaft (Art. 394 ZGB) bewohnt eine eigene Wohnung mit separatem Mietvertrag und erledigt den Haushalt mit Hilfe von Assistenzpersonen eigenständig. Der Beistand unterzeichnet lediglich die Arbeitsverträge im Rahmen seiner Vertretungsbefugnis. Das Kriterium von Art. 39b lit. a IVV ist erfüllt.
-  - *Erwerbstätigkeit auf dem ersten Arbeitsmarkt*: Ein handlungsbeeinträchtigter Versicherter arbeitet mit einem Teilzeitpensum von 15 Stunden pro Woche als Hilfskraft in einem Logistikunternehmen des ersten Arbeitsmarkts. Der Anspruch ist gestützt auf Art. 39b lit. b IVV gegeben, ungeachtet der Wohnform bei den Eltern.
+  - *Erwerbstätigkeit auf dem ersten Arbeitsmarkt*: Ein handlungsbeeinträchtigter Versicherter arbeitet mit einem Teilzeitpensum von mindestens 10 Stunden pro Woche als Hilfskraft in einem Logistikunternehmen des ersten Arbeitsmarkts (Art. 39b lit. b IVV), ungeachtet der Wohnform.
 - **Verwerfungsfälle (Anspruch verneint)**:
-  - *Wohnen bei den Eltern ohne eigene Haushaltsführung*: Volljährige urteilsunfähige Person lebt im Familienverband; Eltern führen den Gesamthaushalt ([LGVE 2013 III Nr. 2](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_003_S-12-412_2013-09-02.html); [KGer BL 720 18 223 / 261](https://entscheidsuche.ch/docs/BL_Gerichte/BL_KG_002_720-18-223---261_2018-09-27.pdf)).
-  - *Tätigkeit in geschützter Werkstatt*: Eine Beschäftigung in einer geschützten Institution oder Werkstätte gilt nicht als Tätigkeit auf dem «ersten Arbeitsmarkt» und erfüllt Art. 39b lit. b IVV nicht.
+  - *Vollständiges Fehlen jeglicher Lebensautonomie bei institutionellem Bedarf*: Besteht keinerlei Resteigenständigkeit und bedarf die Person einer permanenten, ausschliesslich stationär erbringbaren Rund-um-die-Uhr-Pflege, steht der Verbleib zu Hause im Widerspruch zum Schutzkonzept des Assistenzbeitrags.
+  - *Tätigkeit in geschützter Werkstatt als Erwerbsersatz*: Eine Beschäftigung in einer geschützten Institution oder Werkstätte gilt nicht als Tätigkeit auf dem «ersten Arbeitsmarkt» und erfüllt Art. 39b lit. b IVV nicht (kann aber den Anspruch über Art. 39b lit. a IVV nach Massgabe von BGer 9C_438/2025 stützen).
 
-> **Leitsatz.** Volljährige Personen mit eingeschränkter Handlungsfähigkeit haben nach Art. 42quater Abs. 2 IVG i.V.m. Art. 39b IVV nur dann Anspruch auf einen Assistenzbeitrag, wenn sie einen eigenen Haushalt führen oder im ersten Arbeitsmarkt tätig bzw. in Ausbildung sind. Das Wohnen im Haushalt der Eltern ohne eigenständige Haushaltsorganisation führt zum Anspruchsausschluss.
+> **Leitsatz.** Das Verordnungskriterium des «Führens eines eigenen Haushalts» (Art. 39b lit. a IVV) darf nach dem Grundsatzurteil BGer 9C_438/2025 nicht so ausgelegt werden, dass volljährige Personen mit geistiger Behinderung alle Haushaltsarbeiten autonom verrichten müssen. Auch bei Wohnsitz im Familienverband besteht der Anspruch, um ein Leben zu Hause zu ermöglichen und eine Heimeinweisung zu verhindern.
 
 ---
 

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 84 StPO"
 weight: 99
 date: 2026-08-29
-lastmod: "2026-08-29"
+lastmod: 2026-11-06
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 84 StPO – Eröffnung der Entscheide, Urteilsdispositiv und Begründungsfristen."
 tags: ["Rechtsprechung", "StPO", "Eröffnung", "Urteilsdispositiv", "Begründungsfristen", "Justizöffentlichkeit"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 6B_330/2026 vom 23. September 2026 (publiziert am 05.11.2026): Verletzung von Art. 84 Abs. 1 StPO (unterlassene mündliche Urteilseröffnung) rechtfertigt keine Rückweisung nach Art. 409 Abs. 1 StPO; Text an relevancy.bger.ch verifiziert."
   - date: "2026-08-29"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -42,6 +46,11 @@ revisions:
 ---
 
 ## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 6B_330/2026 vom 23. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.09.2026_6B_330/2026) E. 1.2.1
+- **Thema**: Unterlassene mündliche Urteilseröffnung rechtfertigt keine Rückweisung nach Art. 409 Abs. 1 StPO
+- **Kernaussage**: Die blosse schriftliche Eröffnung des Urteils ohne vorangehende mündliche Eröffnung im Anschluss an eine öffentliche Hauptverhandlung verletzt Art. 84 Abs. 1 StPO. Wegen des reformatorischen Charakters des Berufungsverfahrens bildet die kassatorische Erledigung durch Rückweisung jedoch die Ausnahme. Wurde die erstinstanzliche Verhandlung ordnungsgemäss und öffentlich durchgeführt, die beschuldigte Person persönlich befragt und ihr Gehör gewahrt, liegt kein schwerer Verfahrensmangel und kein Instanzenverlust vor, der eine Rückweisung nach Art. 409 Abs. 1 StPO rechtfertigen würde.
+- **Einschlägig für**: Art. 84 Abs. 1 StPO i.V.m. Art. 409 Abs. 1 StPO
 
 ### [BGer 6B_955/2017 vom 11.01.2018 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-955-2017_2018-01-11.html#consideration_1.2)
 - **Thema**: Rechtsnatur der 60-/90-tägigen Begründungsfrist als Ordnungsvorschrift

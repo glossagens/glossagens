@@ -2,10 +2,14 @@
 title: "Art. 278 SchKG — Arresteinsprache"
 weight: 278
 date: 2026-10-22
-lastmod: 2026-10-22
-description: "Kommentar zu Art. 278 SchKG: Einsprache gegen den Arrestbefehl — Legitimation des Schuldners und Dritter, Fristen, kontradiktorisches Verfahren, Novenrecht im Beschwerdeverfahren und Fehlen der aufschiebenden Wirkung."
+lastmod: 2026-11-06
+description: "Kommentar zu Art. 278 SchKG: Einsprache gegen den Arrestbefehl — Legitimation des Schuldners und Dritter, Fristen, kontradiktorisches Verfahren, Novenrecht im Beschwerdeverfahren, Weiterzug ans Bundesgericht (Art. 98 BGG; BGer 5A_274/2026) und Fehlen der aufschiebenden Wirkung."
 tags: ["SchKG", "Arrest", "Arresteinsprache", "Rechtsmittel", "Novenrecht", "ZPO", "Beschwerde"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 5A_274/2026 vom 28. September 2026 (publiziert am 05.11.2026): Bestätigung von Entscheiden nach Art. 278 Abs. 3 SchKG als vorsorgliche Massnahmen nach Art. 98 BGG; strenges Rügeprinzip (Art. 106 Abs. 2 BGG) und Unbeachtlichkeit pauschaler Willkürbehauptungen; Text an relevancy.bger.ch verifiziert."
   - date: 2026-10-22
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -68,6 +72,10 @@ revisions:
 **Rz. 11** **Spezialregelung des Novenrechts (Abs. 3 Satz 2)**:
 * Nach Art. 278 Abs. 3 Satz 2 SchKG können vor der oberen Instanz **neue Tatsachen und Beweismittel** uneingeschränkt vorgebracht werden.
 * Das Bundesgericht hat im Grundsatzurteil [BGE 145 III 324 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-145-III-324_2019.html) klargestellt, dass diese Ausnahmebestimmung sowohl **echte Noven** (Tatsachen, die erst nach dem erstinstanzlichen Entscheid entstanden sind) als auch **unechte Noven** (Tatsachen, die bereits vor dem erstinstanzlichen Entscheid bestanden haben, aber nicht vorgebracht wurden) erfasst. Die Beschränkungen von Art. 317 ZPO und Art. 326 ZPO kommen nicht zur Anwendung.
+
+**Rz. 11a** **Weiterzug ans Bundesgericht (Art. 98 BGG / Art. 106 Abs. 2 BGG)**:
+* Der Entscheid der oberen kantonalen Instanz (Art. 278 Abs. 3 SchKG) gilt im Verfahren vor Bundesgericht als vorsorgliche Massnahme im Sinne von Art. 98 BGG ([BGE 135 III 232 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-135-III-232_2009.html); [BGer 5A_274/2026 vom 28. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.09.2026_5A_274/2026) E. 2.1).
+* Mit der Beschwerde in Zivilsachen kann folglich **ausschliesslich die Verletzung verfassungsmässiger Rechte** gerügt werden. Dabei gilt das strenge Rügeprinzip (Art. 106 Abs. 2 BGG): Die verletzte Verfassungsnorm muss ausdrücklich benannt und substanziiert dargelegt werden. Die blosse Behauptung von Willkür (Art. 9 BV) oder rein appellatorische Kritik genügen nicht und führen zum Nichteintreten ([BGer 5A_274/2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.09.2026_5A_274/2026) E. 2.1).
 
 ---
 

@@ -2,10 +2,14 @@
 title: "Art. 169 — Sicherstellung"
 weight: 169
 date: 2026-07-17
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 169 DBG — Sicherstellung bei der direkten Bundessteuer: Voraussetzungen (Wohnsitz im Ausland, Gefährdung), sofortige Vollstreckbarkeit, Steuerarrest, Prosequierung nach SchKG, Beschwerde und aufschiebende Wirkung."
+lastmod: 2026-11-06
+description: "Kommentar zu Art. 169 DBG — Sicherstellung bei der direkten Bundessteuer: Voraussetzungen (Wohnsitz im Ausland, Gefährdung), sofortige Vollstreckbarkeit, Steuerarrest, Prosequierung nach SchKG, Ausschluss der aufschiebenden Wirkung als lex specialis (BGer 9C_544/2026) und Rechtsmittel."
 tags: ["DBG", "Sicherstellung", "direkte Bundessteuer", "Steuerarrest", "SchKG", "Rechtsöffnung", "Prosequierung", "Wohnsitz Ausland"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 9C_544/2026 vom 26. Oktober 2026 (5er-Besetzung, publiziert am 05.11.2026): Art. 169 Abs. 4 DBG als strikte lex specialis zu Art. 103 Abs. 3 BGG ohne richterlichen Ermessensspielraum; Nichteintreten auf Beschwerden gegen Zwischenentscheide über die aufschiebende Wirkung mangels nicht wieder gutzumachenden Nachteils; Text an relevancy.bger.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -73,6 +77,8 @@ revisions:
 ## Abs. 4 — Keine aufschiebende Wirkung
 
 **15** **Keine aufschiebende Wirkung** Beschwerden gegen Sicherstellungsverfügungen haben **keine aufschiebende Wirkung** (Abs. 4). Dies bedeutet, dass die Sicherstellung auch während des Beschwerdeverfahrens vollzogen werden kann. Die Norm sichert die Wirksamkeit der Sicherstellung: Wäre die Beschwerde aufschiebend, könnte der Steuerpflichtige durch Einlegung der Beschwerde Zeit gewinnen und in der Zwischenzeit Vermögenswerte verschieben. Die fehlende aufschiebende Wirkung ist sachgerecht, weil die Sicherstellung gerade auf die Verhinderung solcher Gefährdungen gerichtet ist.
+
+**15a** **Lex specialis zu Art. 103 BGG und Ausschluss richterlichen Ermessens (BGer 9C_544/2026)** In einem Entscheid in Fünferbesetzung stellte das Bundesgericht klar, dass Art. 169 Abs. 4 DBG eine strikte **lex specialis zu Art. 103 Abs. 3 BGG** darstellt und keinen Ermessensspielraum für Gerichte eröffnet ([BGer 9C_544/2026 vom 26. Oktober 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.10.2026_9C_544/2026) E. 3.2.1). Die Bestimmung schliesst die aufschiebende Wirkung von Gesetzes wegen kategorisch aus («haben keine aufschiebende Wirkung») – weder entfaltet die Beschwerde suspensive Wirkung noch darf ihr diese durch ein Gericht (weder kantonal noch bundesgerichtlich) beigelegt werden (E. 3.2.1–3.2.3; vgl. Botschaft [BBl 1983 III 1, S. 371](https://fedlex.data.admin.ch/eli/fga/1983/3_1_1_1)). Weil das Gesetz den Gerichten keinerlei Handlungsspielraum zur Aussetzung der Vollstreckung einräumt, bewirkt die Abweisung eines Begehrens um Erteilung der aufschiebenden Wirkung bzw. um Sistierung des Vollzugs keinen nicht wieder gutzumachenden Nachteil im Sinne von Art. 93 Abs. 1 lit. a BGG; auf eine Beschwerde gegen einen entsprechenden kantonalen Zwischenentscheid ist mangels Anfechtungsvoraussetzungen nicht einzutreten (E. 3.3).
 
 ---
 

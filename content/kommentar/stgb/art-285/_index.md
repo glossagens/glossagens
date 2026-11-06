@@ -2,10 +2,14 @@
 title: "Art. 285 StGB — Gewalt und Drohung gegen Behörden und Beamte"
 weight: 285
 date: 2026-07-03
-lastmod: "2026-08-31"
+lastmod: 2026-11-06
 description: "Kommentar zu Art. 285 StGB: Gewalt und Drohung gegen Behörden und Beamte — Tatbestandsmerkmale der Hinderung, Nötigung und tätlichen Angriffs (Ziff. 1), Gleichstellung von Transport- und Sicherheitsorganen sowie Qualifikationen bei Zusammenrottung (Ziff. 2)."
 tags: ["StGB", "Gewalt gegen Beamte", "Drohung", "Amtshandlung", "Beamtenbegriff", "Zusammenrottung", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 6B_330/2026 vom 23. September 2026 (publiziert am 05.11.2026): Konkretisierung der Tatvariante des tätlichen Angriffs nach Art. 285 Ziff. 1 StGB (Intensität einer Tätlichkeit genügt; Vollendung bereits bei Versuch; Biss über Jacke / Stoss in Rücken); Text an relevancy.bger.ch verifiziert."
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
@@ -47,6 +51,8 @@ revisions:
 
 ### 2. Tathandlungen: Hinderung, Nötigung und tätlicher Angriff
 **3** Erfasst werden drei Begehungsformen: die **Hinderung** an einer Amtshandlung durch physische Zwangseinwirkung, die **Nötigung** zu einer Amtshandlung sowie der **tätliche Angriff** während der Amtsausübung ([BGE 120 IV 136 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-120-IV-136_1994-05-10.html)). Blosse passive Widersetzlichkeit ohne Gewaltanwendung erfüllt nicht Art. 285, sondern gegebenenfalls [Art. 286 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_286) ([BGE 133 IV 97 E. 6.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-97_2007.html); [BGE 107 IV 113 E. 4d](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-107-IV-113_1981-09-04.html)).
+
+**3a** **Tätlicher Angriff während einer Amtshandlung** Für die Tatvariante des tätlichen Angriffs nach Art. 285 Ziff. 1 StGB genügt ein Eingriff in die körperliche Integrität des Beamten mit der Intensität einer Tätlichkeit ([Art. 126 StGB](../art-126)); der tätliche Angriff ist gar bereits vollendet, wenn der Versuch einer Tätlichkeit vorliegt ([BGer 6B_330/2026 vom 23. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.09.2026_6B_330/2026) E. 2.1.2). Die Aggression muss unmittelbar auf den Körper der Amtsperson zielen (z. B. ein Stoss in den Rücken während einer Hausdurchsuchung oder ein Biss über die Jacke bei der anschliessenden Festhaltung; E. 2.2). Das Eintreten einer Körperverletzung wird nicht vorausgesetzt.
 
 **4** *Sachverhalt BGE 133 IV 97 — Flucht vor Polizeikontrolle keine Hinderung*: Der Beschuldigte flüchtete vor einer Polizeikontrolle, indem er das Weite suchte, ohne aktiv in den Gang der Amtshandlung einzugreifen. Das Bundesgericht hielt fest: Wer sich in der Absicht, sich der Strafverfolgung zu entziehen, einer Polizeikontrolle entzieht, ohne in den Gang einer hinreichend konkreten Amtshandlung einzugreifen, macht sich nicht nach Art. 286 StGB strafbar. Massgebend ist die aktive Beeinträchtigung, nicht das blosse Davonrennen (E. 6.2.3). Dasselbe gilt für Art. 285 StGB: passive Flucht reicht nicht.
 

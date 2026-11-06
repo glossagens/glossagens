@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 42quater IVG"
 weight: 99
 date: 2026-11-04
-lastmod: 2026-11-04
-description: "Übersicht der Rechtsprechung zu Art. 42quater IVG (Anspruch auf einen Assistenzbeitrag): Hilflosenentschädigung der IV, Wohnen zu Hause vs. Heimaufenthalt, Personen mit eingeschränkter Handlungsfähigkeit und Minderjährige."
+lastmod: 2026-11-06
+description: "Übersicht der Rechtsprechung zu Art. 42quater IVG (Anspruch auf einen Assistenzbeitrag): Hilflosenentschädigung der IV, Wohnen zu Hause vs. Heimaufenthalt, Personen mit eingeschränkter Handlungsfähigkeit (Leitentscheid BGer 9C_438/2025 zur Haushaltsführung) und Minderjährige."
 tags: ["Rechtsprechung", "IVG", "Assistenzbeitrag", "Hilflosenentschädigung", "Wohnen zu Hause", "Minderjährige", "Handlungsfähigkeit"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Leitentscheids BGer 9C_438/2025 vom 6. Oktober 2026 (5er-Besetzung, zur Publikation vorgesehen, publiziert am 05.11.2026): Verwerfung der restriktiven Auslegung von Art. 39b lit. a IVV (KSAB Rz. 2019); Anspruch auf Assistenzbeitrag für geistig behinderte Volljährige im Familienhaushalt; Text an relevancy.bger.ch verifiziert."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -13,6 +17,12 @@ revisions:
 ---
 
 ## I. Leitentscheide (BGE)
+
+### [BGer 9C_438/2025 vom 06.10.2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=06.10.2026_9C_438/2025) *(zur Publikation vorgesehen, Fünferbesetzung)*
+- **Thema**: Gesetzwidrigkeit der restriktiven Auslegung des Kriteriums «einen eigenen Haushalt führen» (Art. 39b lit. a IVV) für volljährige Personen mit geistiger Behinderung (Art. 42quater Abs. 2 IVG).
+- **Sachverhalt**: Eine volljährige Versicherte mit schwerer geistiger Behinderung und eingeschränkter Handlungsfähigkeit wohnte zu Hause bei Angehörigen. Sie arbeitete an Werktagen in einer geschützten Werkstätte, benötigte aber für sämtliche alltäglichen Verrichtungen und die Haushaltsführung Anleitung und Überwachung. Die IV-Stelle und das kantonale Versicherungsgericht wiesen ihr Gesuch um einen Assistenzbeitrag gestützt auf Art. 39b lit. a IVV und KSAB Rz. 2019 ab, weil sie den Haushalt nicht selbstständig führe und organisiere.
+- **Kernaussage**: Das Bundesgericht heisst die Beschwerde gut und rügt die Praxis des BSV (KSAB Rz. 2019) als gesetzwidrig. Der Assistenzbeitrag soll es Versicherten ermöglichen, im häuslichen Umfeld zu verbleiben, anstatt in ein Heim eintreten zu müssen (E. 7.3). Die BSV-Weisung, wonach der Assistenzbeitrag nur gewährt wird, wenn die Person fähig ist, alle Haushaltsarbeiten eigenständig zu planen und auszuführen, verkehrt den Normzweck ins Gegenteil: Sie schliesst gerade jene Menschen aus, die auf Assistenz bei der Haushaltsführung (Art. 39c IVV) angewiesen sind. Auch bei Wohnsitz im Familienverband haben volljährige Versicherte mit geistiger Behinderung Anspruch auf den Assistenzbeitrag, sofern eine gewisse Gradation an Autonomie vorhanden ist (E. 8.3).
+- **Einschlägig für**: Art. 42quater Abs. 2 IVG i.V.m. Art. 39b lit. a IVV (Haushaltsführung bei eingeschränkter Handlungsfähigkeit).
 
 ### [BGE 140 V 113](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-140-V-113_2014.html#consideration_5)
 - **Thema**: Ausschluss des IV-Assistenzbeitrags bei UVG-Hilflosenentschädigung (Art. 42quater Abs. 1 lit. a IVG).

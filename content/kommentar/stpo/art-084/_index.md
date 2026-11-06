@@ -2,10 +2,14 @@
 title: "Art. 84 — Eröffnung der Entscheide"
 weight: 84
 date: 2026-08-29
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 84 StPO – Eröffnung der Entscheide, mündliche Verkündung, Urteilsdispositiv, Begründungsfristen und Mitteilungspflichten."
+lastmod: 2026-11-06
+description: "Kommentar zu Art. 84 StPO – Eröffnung der Entscheide, mündliche Verkündung, Urteilsdispositiv, Begründungsfristen, Folgen unterlassener mündlicher Eröffnung (BGer 6B_330/2026) und Mitteilungspflichten."
 tags: ["StPO", "Eröffnung", "Urteilsdispositiv", "Begründung", "Fristen", "Justizöffentlichkeit"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 6B_330/2026 vom 23. September 2026 (publiziert am 05.11.2026): Unterlassene mündliche Urteilseröffnung nach Art. 84 Abs. 1 StPO rechtfertigt keine Rückweisung nach Art. 409 Abs. 1 StPO bei durchgeführter mündlicher Hauptverhandlung und Wahrung des rechtlichen Gehörs; Text an relevancy.bger.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -42,6 +46,8 @@ Ist das Verfahren öffentlich (was für erstinstanzliche Hauptverhandlungen und 
 Die mündliche Eröffnung umfasst:
 1. Das Verlesen des vollständigen **Urteilsdispositivs** ([Art. 81 Abs. 4 StPO](../art-081));
 2. Eine **kurze mündliche Begründung** der wesentlichen tatsächlichen und rechtlichen Überlegungen, der Strafzumessung und der Neben- und Kostenfolgen.[^5]
+
+Unterbleibt die mündliche Eröffnung im Anschluss an eine öffentliche Verhandlung und wird das Urteil den Parteien stattdessen lediglich schriftlich zugestellt (ohne dass ein Verzicht gemäss Abs. 3 vorliegt), liegt eine Verletzung von Art. 84 Abs. 1 StPO vor. Diese begründet jedoch nach der Rechtsprechung keinen derart schwerwiegenden Verfahrensmangel im Sinne von Art. 409 Abs. 1 StPO, der das Berufungsgericht zur Aufhebung des Urteils und Rückweisung an die Vorinstanz verpflichten würde, sofern eine ordnungsgemässe erstinstanzliche Hauptverhandlung mit persönlicher Anhörung der beschuldigten Person stattgefunden hat und kein Instanzenverlust vorliegt ([BGer 6B_330/2026 vom 23. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.09.2026_6B_330/2026) E. 1.2.1).
 
 #### 2. Zweck der Kurzbegründung
 Die mündliche Kurzbegründung dient der unmittelbaren Orientierung der anwesenden Parteien sowie der anwesenden Öffentlichkeit und Medien. Sie ermöglicht den Parteien eine erste fundierte Einschätzung der Prozessaussichten für eine allfällige Berufungsanmeldung ([Art. 399 Abs. 1 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_399)). Das Gericht ist bei der späteren schriftlichen Ausarbeitung des Urteils an das mündlich eröffnete Dispositiv gebunden, kann jedoch die schriftliche Begründung vertiefen und präzisieren.[^6]
@@ -117,6 +123,10 @@ Wird die Urteilsfällung gemäss Art. 84 Abs. 3 StPO vertagt, lassen die kantona
 Die Beschränkung der Zustellung auf jene Teile des Urteils, in denen die Anträge der Privatklägerschaft behandelt werden (Art. 84 Abs. 4 In fine StPO), bereitet den Kanzleien erhebliche Schwierigkeiten.
 - *Praxis*: Viele Kantone stellen der Privatklägerschaft ein geschwärztes Urteil zu, bei dem Ausführungen zur Täterpersönlichkeit, zu Strafzumessungsfaktoren und zu Vorstrafen abgedeckt werden.
 - *Rechtsmittellegitimation*: Hat die Privatklägerschaft auch Strafklage erhoben ([Art. 119 Abs. 2 lit. a StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_119)) und berührt der Entscheid ihre Zivilansprüche ([Art. 382 Abs. 1 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267_267_267/de#art_382)), hat sie Anspruch auf jene Urteilsteile, die für die Anfechtung des Schuldspruchs unverzichtbar sind.[^19]
+
+#### 4. Verfahrensfehler bei unterlassener mündlicher Urteilseröffnung (Art. 84 Abs. 1 i.V.m. Art. 409 Abs. 1 StPO)
+- *Streitpunkt*: Rechtfertigt die unterlassene mündliche Urteilseröffnung im erstinstanzlichen Verfahren eine Aufhebung des Urteils und Rückweisung an die Vorinstanz gemäss Art. 409 Abs. 1 StPO?
+- *Lösung des Bundesgerichts*: Das Bundesgericht stellte klar, dass die blosse schriftliche Eröffnung ohne vorgängige mündliche Urteilsverkündung Art. 84 Abs. 1 StPO verletzt. Wegen des reformatorischen Charakters des Berufungsverfahrens bildet die kassatorische Erledigung durch Rückweisung jedoch die Ausnahme. Wurde die mündliche Hauptverhandlung ordnungsgemäss und öffentlich durchgeführt, die beschuldigte Person persönlich befragt und ihr Gehörsanspruch gewahrt, genügt dies dem Transparenz- und Legitimationszweck im Wesentlichen; ein Instanzenverlust liegt nicht vor. Eine Rückweisung nach Art. 409 Abs. 1 StPO ist mangels schwerwiegenden Mangels ausgeschlossen ([BGer 6B_330/2026 vom 23. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.09.2026_6B_330/2026) E. 1.2.1).
 
 ---
 

@@ -2,9 +2,18 @@
 title: "Art. 67 AIG — Einreiseverbot"
 weight: 67
 date: 2026-10-23
-lastmod: 2026-10-23
-description: "Praxiskommentar zu Art. 67 AIG (Einreiseverbot): Systematik der Muss- und Kann-Tatbestände, SIS-Ausschreibung, fünfjährige Regelhöchstdauer und Ausnahmen bei schwerwiegender Gefahr, Befristungsgebot des SEM sowie Suspendierungs- und Aufhebungsverfahren."
+lastmod: 2026-11-06
+description: "Praxiskommentar zu Art. 67 AIG (Einreiseverbot): Systematik der Muss- und Kann-Tatbestände, SIS-Ausschreibung, fünfjährige Regelhöchstdauer und Ausnahmen bei schwerwiegender Gefahr, Befristungsgebot des SEM, Abgrenzung zur strafrechtlichen Landesverweisung (BGer 2C_187/2026) sowie Suspendierungs- und Aufhebungsverfahren."
 tags: ["AIG", "Ausländerrecht", "Einreiseverbot", "Schengen", "SIS", "Fernhaltemassnahme", "Staatssicherheit", "fedpol", "SEM", "Praxiskommentar"]
+revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 2C_187/2026 vom 17. September 2026 (5er-Besetzung, zur Publikation vorgesehen, publiziert am 05.11.2026): Keine Übertragbarkeit der Wiedererwägungs- und Suspensionspraxis nach Art. 67 Abs. 5 AIG auf strafrechtliche Landesverweisungen (Art. 66a StGB); absoluter Ausschluss von Aufenthaltsbewilligungen während der Landesverweisung; Text an relevancy.bger.ch verifiziert."
+  - date: 2026-10-23
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Neuanlage Praxiskommentar zu Art. 67 AIG."
 ---
 
 {{< wortlaut >}}
@@ -261,7 +270,9 @@ Nationale Einreiseverbote gegen Drittstaatsangehörige führen in der Regel zur 
 
 #### 3. Verhältnis zur strafrechtlichen Landesverweisung (Art. 66a StGB)
 
-Wurde durch ein Strafgericht eine Landesverweisung nach Art. 66a StGB ausgesprochen, bewirkt diese ipso iure ein Einreiseverbot (Art. 5 Abs. 1 lit. d AIG). Das Einreiseverbot nach Art. 67 AIG hat weitgehend dieselbe Schutzfunktion ([BGE 151 IV 249 E. 5.3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html)). Bei Gesuchen um vorübergehende Einreisebewilligung trotz bestehender strafrechtlicher Landesverweisung wendet die Praxis die Grundsätze von Art. 67 Abs. 5 AIG sinngemäss an ([BGE 151 I 248 E. 5.7.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-151-I-248_2025.html)).
+Wurde durch ein Strafgericht eine Landesverweisung nach [Art. 66a StGB](../../stgb/art-066a) ausgesprochen, bewirkt diese ipso iure ein Einreiseverbot ([Art. 5 Abs. 1 lit. d AIG](../art-005)). Das administrative Einreiseverbot nach Art. 67 AIG hat weitgehend dieselbe Schutzfunktion ([BGE 151 IV 249 E. 5.3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html)).
+
+Das Bundesgericht klärte jedoch in Fünferbesetzung grundlegend, dass die ausländerrechtliche Wiedererwägungs- und Suspensionsjurisprudenz zu Art. 67 Abs. 5 AIG **nicht auf die strafrechtliche Landesverweisung übertragbar ist** ([BGer 2C_187/2026 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_2C_187/2026) E. 5.3–5.4, zur Publikation vorgesehen). Während eine Person, gegen die ein rein administratives Einreiseverbot nach Art. 67 AIG verhängt wurde, nach einer gewissen Bewährungszeit bei veränderten Umständen ein neues Aufenthaltsgesuch stellen kann, entfaltet die strafrechtliche Landesverweisung eine absolute Sperrwirkung. Solange die strafrechtliche Landesverweisung in Kraft ist, ist die Erteilung jeglichen Aufenthaltstitels durch die Migrationsbehörden – namentlich auch einer Kurzaufenthaltsbewilligung zur Vorbereitung einer Heirat (Art. 12 EMRK) – von vornherein ausgeschlossen. Nachträgliche Vollzugshindernisse oder humanitäre Gründe können ausschliesslich bei den Strafvollzugsbehörden im Verfahren um Vollzugsaufschub nach [Art. 66d StGB](../../stgb/art-066d) geltend gemacht werden, nicht aber über ein migrationsrechtliches Bewilligungsverfahren oder eine analoge Heranziehung von Art. 67 Abs. 5 AIG.
 
 > **Leitsatz.** Das FZA schützt Unionsbürger vor rein generalpräventiven Einreiseverboten und garantiert einen periodischen Überprüfungsanspruch. Drittstaatsangehörige unterliegen demgegenüber der SIS-Ausschreibung, die das gesamte Schengen-Gebiet sperrt.
 

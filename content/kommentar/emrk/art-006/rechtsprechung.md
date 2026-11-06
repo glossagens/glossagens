@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 6 EMRK"
 weight: 99
 date: 2026-05-10
-lastmod: 2026-10-27
-description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, Beweisverwertungsverbote, Waffengleichheit, Replikrecht, Strafbefehlsverfahren und kantonale Praxisfragen"
+lastmod: 2026-11-06
+description: "Übersicht der massgeblichen Entscheide zu Art. 6 EMRK — faires Verfahren, Unschuldsvermutung, Verteidigungsrechte, Beschleunigungsgebot, Zugang zum Gericht, Konfrontationsrecht, nemo tenetur, Unabhängigkeit, Unparteiischkeit, Öffentlichkeit und mündliche Verhandlung (BGer 2C_477/2025), Beweisverwertungsverbote, Waffengleichheit, Replikrecht, Strafbefehlsverfahren und kantonale Praxisfragen"
 tags: ["Rechtsprechung", "EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Beweisverwertungsverbote", "Replikrecht"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Leitentscheids BGer 2C_477/2025 vom 16. September 2026 (5er-Besetzung, zur Publikation vorgesehen, publiziert am 05.11.2026): Rechtzeitigkeit des Gesuchs um öffentliche Verhandlung nach Art. 6 Abs. 1 EMRK richtet sich nach dem konkreten Verfahrensverlauf; Verbot widersprüchlichen Gerichtsverhaltens (venire contra factum proprium); Text an relevancy.bger.ch verifiziert."
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -71,6 +75,15 @@ revisions:
 - **BGE 144 I 70** — Für die Spruchkörperbildung müssen abstrakte Kriterien im Voraus und in transparenter Weise definiert werden, auch in Form einer gefestigten Praxis (E. 4–6).
 
 ### Öffentlichkeit des Verfahrens
+
+### [BGer 2C_477/2025 vom 16. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=16.09.2026_2C_477/2025) *(Fünferbesetzung, zur Publikation vorgesehen)*
+
+- **Thema**: Rechtzeitigkeit des Gesuchs um öffentliche Verhandlung nach Art. 6 Abs. 1 EMRK; Verbot des venire contra factum proprium
+- **Sachverhalt**: Ein russisch-schweizerischer Staatsangehöriger, der auf der Sanktionsliste der Ukraine-Verordnung stand, ersuchte das Bundesverwaltungsgericht um Aufhebung der Sanktion und verlangte eine mündliche, öffentliche Verhandlung. Das BVGer wies das Audienzgesuch wegen Verspätung ab, verlängerte das Verfahren anschliessend jedoch selbst über 10 Monate hinweg und holte neue Beweismittel ein.
+- **Kernaussage**: Das Bundesgericht hebt den Entscheid wegen Verletzung von Art. 6 Abs. 1 EMRK auf: Die Rechtzeitigkeit eines Antrags auf Durchführung einer öffentlichen Verhandlung darf nicht schematisch nach starren Verfahrensphasen beurteilt werden, sondern orientiert sich am konkreten Gang des Verfahrens. Wenn das Gericht das Verfahren in der Folge selbst um Monate verlängert und neue Beweismittel ins Verfahren einführt, kann es das Gesuch nicht mit Verweis auf das Beschleunigungsgebot als verspätet zurückweisen. Eine Behörde darf sich nicht in Widerspruch zu ihrem eigenen prozessualen Verhalten setzen (E. 3 f.).
+- **Einschlägig für**: Art. 6 Abs. 1 EMRK (Anspruch auf öffentliche mündliche Verhandlung, Rechtzeitigkeit des Gesuchs).
+
+---
 
 - **BGE 146 I 30** — Gerichtsverhandlung und Urteilsverkündung sind grundsätzlich öffentlich. Vergleichsgespräche im Zivilprozess, in denen das Gericht mit dem Ziel einer einvernehmlichen Beilegung des Streits vermittelt, gelten nicht als Gerichtsverhandlung (E. 2).
 

@@ -2,10 +2,15 @@
 title: "Rechtsprechung zu Art. 44 ATSG — Gutachten"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-09-23
-description: "Systematische Rechtsprechungsübersicht zu Art. 44 ATSG: Leitentscheide und kantonale Urteile zu Anwendungsbereich (MEDAS vs. RAD, Kreisärzte, Rehakliniken), Zwischenverfügungspflicht nach WEIV 2022, Ausstandsgründen und Gerichtsgutachterkosten."
+lastmod: 2026-11-06
+description: "Systematische Rechtsprechungsübersicht zu Art. 44 ATSG: Leitentscheide und kantonale Urteile zu Anwendungsbereich (MEDAS vs. RAD, Kreisärzte, Rehakliniken), Zwischenverfügungspflicht nach WEIV 2022, Unzulässigkeit der Vorabbeschränkung des Gutachtens (BGer 8C_109/2025), Ausstandsgründen und Gerichtsgutachterkosten."
 tags: ["Rechtsprechung", "ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 8C_109/2025 vom 25. September 2026 (publiziert am 05.11.2026): Keine Vorabbeschränkung des Gutachtenumfangs durch die versicherte Person bei untrennbaren Fragestellungen (Kausalität, Arbeitsfähigkeit, Integritätsschaden); Text an relevancy.bger.ch verifiziert."
+  - date: 2026-09-23
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -65,6 +70,11 @@ Zurück zum Praxiskommentar: [Art. 44 ATSG — Gutachten](./)
 ### [BGer 8C_276/2026 vom 01.09.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-276-2026_2026-09-01.html) — Bestätigung der Zwischenverfügungspflicht bei Zweitbegutachtung (ABI Basel)
 - **Sachverhalt:** Nach Erstattung eines bidisziplinären estimed-Gutachtens ordnete die IV-Stelle Zürich eine polydisziplinäre Zweitbegutachtung beim ABI Basel an. Auf die Einwände der Versicherten erliess sie keine Zwischenverfügung. Das kantonale Gericht hiess die Rechtsverweigerungsbeschwerde gut.
 - **Kernaussage:** Das Bundesgericht wies die Beschwerde der IV-Stelle ab und bestätigte unter Verweis auf das Grundsatzurteil 8C_445/2025: Die Weigerung, eine Zwischenverfügung zu erlassen, stellt eine formelle Rechtsverweigerung dar. Die IV-Stelle wurde verpflichtet, die Begutachtung förmlich per Zwischenverfügung anzuordnen (E. 5.2).
+
+### [BGer 8C_109/2025 vom 25.09.2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=25.09.2026_8C_109/2025) — Keine Vorabbeschränkung des Gutachtenumfangs bei untrennbaren Fragestellungen
+- **Sachverhalt:** In einem Unfallversicherungsverfahren ordnete der UVG-Versicherer eine interdisziplinäre Begutachtung zu Unfallkausalität, Arbeitsfähigkeit und Integritätsschaden an. Die versicherte Person verlangte, den Begutachtungsumfang auf die Integritätsentschädigung zu beschränken, da Kausalität und Arbeitsunfähigkeit bereits ausreichend abgeklärt seien. Das kantonale Versicherungsgericht trat auf die Beschwerde gegen die Zwischenverfügung nicht ein.
+- **Kernaussage:** Das Bundesgericht bestätigt zunächst unter Verweis auf BGer 8C_445/2025, dass Art. 44 ATSG die Rechtsbehelfe nicht abschliessend regelt. Die Vorinstanz durfte das Begehren auf Beschränkung des Begutachtungsgegenstands jedoch ohne Bundesrechtsverletzung als unzulässig erklären: Hängen Diagnose, Kausalität und Integritätsschaden untrennbar zusammen, können neu beauftragte Gutachter nicht an frühere Diagnosen gebunden werden. Der versicherten Person fehlt ein schutzwürdiges Interesse (Art. 59 ATSG), untrennbare Kernfragen im Wege eines Zwischenentscheids selektiv aus der Begutachtung auszuklammern (E. 4.1 f.).
+- **Einschlägig für:** Art. 44 Abs. 1, 3 und 4 ATSG (Gegenstand und Umfang der Begutachtung; Unzulässigkeit von Vorabbeschränkungen).
 
 ### [LU KG 5V 24 328 vom 18.07.2025](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_003_5V-24-328_2025-07-18.html) — Anwendungsversagung von KSVI Rz. 3067.1 im Kanton Luzern
 - **Sachverhalt:** Eine Versicherte verlangte eine anfechtbare Zwischenverfügung über die Notwendigkeit eines polydisziplinären Gutachtens, was die IV-Stelle gestützt auf KSVI Rz. 3067.1 ablehnte.

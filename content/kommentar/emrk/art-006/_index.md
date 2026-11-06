@@ -2,10 +2,14 @@
 title: "Art. 6 — Recht auf ein faires Verfahren"
 weight: 6
 date: 2026-05-10
-lastmod: 2026-10-27
-description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit, angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit, Beweisverwertungsverbote, Replikrecht und kantonale Praxisfragen"
+lastmod: 2026-11-06
+description: "Kommentar zu Art. 6 EMRK – Recht auf ein faires Verfahren: Unabhängigkeit, Unparteiischkeit, Öffentlichkeit und mündliche Verhandlung (BGer 2C_477/2025), angemessene Frist, Unschuldsvermutung, Verteidigungsrechte, Zugang zum Gericht, Beschleunigungsgebot, Konfrontationsrecht, nemo tenetur, Waffengleichheit, Beweisverwertungsverbote, Replikrecht und kantonale Praxisfragen"
 tags: ["EMRK", "faires Verfahren", "Unschuldsvermutung", "Verteidigungsrechte", "Beschleunigungsgebot", "Waffengleichheit", "Zugang zum Gericht", "Konfrontationsrecht", "nemo tenetur", "Beweisverwertungsverbote", "Replikrecht", "kantonale Praxisfragen"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Leitentscheids BGer 2C_477/2025 vom 16. September 2026 (5er-Besetzung, zur Publikation vorgesehen, publiziert am 05.11.2026): Rechtzeitigkeit des Gesuchs um öffentliche Verhandlung nach Art. 6 Abs. 1 EMRK richtet sich nach dem konkreten Verfahrensverlauf; Verbot des venire contra factum proprium schliesst Verspätungseinwand aus, wenn das Gericht das Verfahren durch neue Beweise selbst verlängert; Text an relevancy.bger.ch verifiziert."
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -229,6 +233,8 @@ Daraus ergeben sich strenge konventionsrechtliche Anforderungen an die gerichtli
 - **Bock v. Deutschland** (Nr. 49102/19): Das Gericht muss bei seinem Entscheid über den Ausschluss der Öffentlichkeit die konkreten Umstände des Einzelfalls berücksichtigen und eine Verhältnismässigkeitsprüfung durchführen.
 
 **26** **Öffentliche Verhandlung als Parteirecht** Vergleichs- und Vermittlungsgespräche im Zivilprozess gelten nicht als «Verhandlung» im Sinne der Öffentlichkeitsgarantie und sind daher nicht öffentlich ([BGE 146 I 30](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_30) E. 2). Die Pflicht zur Durchführung einer öffentlichen Verhandlung setzt ein klar und unmissverständlich gestelltes Begehren voraus; blosse Beweisanträge genügen nicht ([BGE 122 V 47](https://mcp.opencaselaw.ch/entscheid/bge_BGE_122_V_47)).
+
+**26a** **Rechtzeitigkeit des Verhandlungsgesuchs und Verbot widersprüchlichen Gerichtsverhaltens (BGer 2C_477/2025)** Ein Antrag auf Durchführung einer öffentlichen Verhandlung muss rechtzeitig gestellt werden. Das Bundesgericht präzisierte in einem Fünferentscheid, dass sich die Rechtzeitigkeit des Verhandlungsgesuchs stets nach dem **konkreten Verfahrensverlauf** richtet und nicht an starren Verfahrensstadien gemessen werden darf ([BGer 2C_477/2025 vom 16. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=16.09.2026_2C_477/2025) E. 3.2 ff., zur Publikation vorgesehen). Führt ein Gericht das Verfahren nach Eingang des Gesuchs durch Einholung neuer Beweismittel und weiteren Schriftenwechsel über Monate hinweg selbst fort, setzt es sich in unzulässigen Widerspruch zu seinem eigenen Prozessverhalten (*venire contra factum proprium*), wenn es das Gesuch nachträglich unter Berufung auf das Beschleunigungsgebot als verspätet abweist; die Verweigerung der öffentlichen Verhandlung verletzt in diesem Fall Art. 6 Abs. 1 EMRK und führt zur Aufhebung des Urteils (E. 4).
 
 ### Angemessene Frist (Beschleunigungsgebot)
 

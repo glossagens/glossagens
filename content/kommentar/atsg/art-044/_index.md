@@ -2,10 +2,14 @@
 title: "Art. 44 ATSG — Gutachten"
 weight: 44
 date: 2026-07-31
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022, Beweiswertkriterien und Verbot richterlicher Eigendiagnostik (BGer 8C_670/2025, 8C_166/2026)."
+lastmod: 2026-11-06
+description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022, Unzulässigkeit der Vorabbeschränkung des Gutachtenumfangs (BGer 8C_109/2025), Beweiswertkriterien und Verbot richterlicher Eigendiagnostik (BGer 8C_670/2025, 8C_166/2026)."
 tags: ["ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten", "RAD", "Kreisarzt", "Rehaklinik", "Tonaufnahme", "Sozialversicherungsrecht", "IVG", "UVG", "Eigendiagnostik"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 8C_109/2025 vom 25. September 2026 (publiziert am 05.11.2026): Keine Vorabbeschränkung des Gutachtenumfangs durch die versicherte Person bei untrennbaren Fragestellungen (Kausalität, Arbeitsfähigkeit, Integritätsschaden); Text an relevancy.bger.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -151,6 +155,8 @@ Die Prüfung und Durchführung einer Begutachtung nach Art. 44 ATSG folgt einem 
 **20** **Mitteilung des Fragenkatalogs.** Zusammen mit den Gutachternamen eröffnet die Verwaltung den vorgesehenen Fragenkatalog. Die versicherte Person hat das Recht, innert 10 Tagen schriftlich eigene Zusatzfragen einzureichen.
 
 **21** **Grenzen des Fragerechts.** Der Versicherungsträger entscheidet gemäss Abs. 3 Satz 2 abschliessend über die Genehmigung der Fragen. Dies verleiht der Verwaltung jedoch keine unbeschränkte Willkür: Sachrelevante Ergänzungsfragen zu spezifischen Belastungsprofilen, Diskrepanzen zu Vorberichten oder konkreten Arbeitsplatzanforderungen dürfen nicht grundlos abgewiesen werden ([BGE 137 V 210 E. 3.4.2.8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html); [SZ VG I 2018 16 vom 14.03.2018 E. 2](https://entscheidsuche.ch/docs/SZ_Verwaltungsgericht/SZ_VG_003_I-2018-16_2018-03-14.pdf)). Abzulehnen sind lediglich Fangfragen, rein juristische Beweisfragen oder weitschweifige Ausforschungsfragen.
+
+**21a** **Kein Anspruch auf Vorabbeschränkung des Gutachtenumfangs bei untrennbaren Fragen.** Zwar regelt Art. 44 ATSG die Rechtsbehelfe im Begutachtungsverfahren nicht abschliessend (Bestätigung von [BGer 8C_445/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html)). Die versicherte Person hat jedoch kein schutzwürdiges rechtliches Interesse (Art. 59 ATSG), den Prüfungsgegenstand einer administrativen Begutachtung im Wege eines Zwischenrechtsbehelfs selektiv auf bestimmte Teilaspekte (z. B. blosse Integritätsentschädigung und Hilflosigkeit) zu beschränken und andere untrennbare Kernfragen (wie Kausalzusammenhang und verbleibende Arbeitsfähigkeit) auszuklammern ([BGer 8C_109/2025 vom 25. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=25.09.2026_8C_109/2025) E. 4.1 f.). Neu beauftragte Gutachter können sich zur Bemessung der Integritätsentschädigung nicht ohne eigene diagnostische Befunderhebung an frühere Vorberichte binden; divergierende Beurteilungen dürfen nicht ausgeblendet werden. Kantonale Gerichte dürfen Rechtsbegehren auf selektive Vorabbeschränkung des Gutachtenumfangs daher bundesrechtskonform als unzulässig erklären (E. 4.2.2).
 
 > **Leitsatz.** Das Recht auf Zusatzfragen dient der Substanziierung des medizinischen Sachverhalts; sachdienliche Zusatzfragen der versicherten Person dürfen von der Verwaltung nicht ohne sachlichen Grund verworfen werden.
 

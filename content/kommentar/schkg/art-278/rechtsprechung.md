@@ -2,9 +2,18 @@
 title: "Rechtsprechung zu Art. 278 SchKG"
 weight: 99
 date: 2026-10-22
-lastmod: 2026-10-22
-description: "Übersicht der Rechtsprechung zu Art. 278 SchKG: Leitentscheide des Bundesgerichts und kantonale Entscheide zur Arresteinsprache und zum Novenrecht."
+lastmod: 2026-11-06
+description: "Übersicht der Rechtsprechung zu Art. 278 SchKG: Leitentscheide des Bundesgerichts und kantonale Entscheide zur Arresteinsprache, zum Novenrecht und zu den Rechtsmittelanforderungen (Art. 98 BGG; BGer 5A_274/2026)."
 tags: ["Rechtsprechung", "SchKG", "Arrest", "Arresteinsprache"]
+revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 5A_274/2026 vom 28. September 2026 (publiziert am 05.11.2026): Bestätigung von Einspracheentscheiden als vorsorgliche Massnahmen nach Art. 98 BGG und strenges Rügeprinzip nach Art. 106 Abs. 2 BGG; Text an relevancy.bger.ch verifiziert."
+  - date: 2026-10-22
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Neuanlage der Rechtsprechungsübersicht zu Art. 278 SchKG."
 ---
 
 ## I. Leitentscheide
@@ -32,6 +41,10 @@ Die zehntägige Frist zur Erhebung der Arresteinsprache beginnt für eine durch 
 ---
 
 ## II. Weitere Entscheide
+
+### Qualifikation als vorsorgliche Massnahme und Rügeprinzip vor Bundesgericht
+[BGer 5A_274/2026 vom 28.09.2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.09.2026_5A_274/2026) E. 2.1
+Der Entscheid des oberen kantonalen Gerichts über die Beschwerde im Arresteinspracheverfahren (Art. 278 Abs. 3 SchKG) betrifft vorsorgliche Massnahmen im Sinne von Art. 98 BGG. Vor Bundesgericht kann ausschliesslich die Verletzung verfassungsmässiger Rechte gerügt werden. Dabei gilt das strenge Rügeprinzip nach Art. 106 Abs. 2 BGG: Der Beschwerdeführer muss präzise aufzeigen, welches verfassungsmässige Recht inwiefern verletzt wurde; die blosse pauschale Behauptung von «Willkür» oder appellatorische Kritik genügen nicht und führen zum Nichteintreten.
 
 ### Zulässigkeit nachträglicher Zessionserklärungen als Noven (Kanton Neuenburg)
 [TC NE ARMC.2024.43 vom 21.02.2025](https://entscheidsuche.ch/docs/NE_Gerichte/NE_TC_004_ARMC-2024-43_2025-02-21.pdf)

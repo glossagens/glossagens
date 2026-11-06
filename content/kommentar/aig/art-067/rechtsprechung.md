@@ -2,12 +2,27 @@
 title: "Rechtsprechung zu Art. 67 AIG"
 weight: 99
 date: 2026-10-23
-lastmod: 2026-10-23
-description: "Übersicht der massgebenden Rechtsprechung zu Art. 67 AIG: Grundsatzurteile des Bundesgerichts und des Bundesverwaltungsgerichts zu Einreiseverbot, Dauer, Befristungsgebot und Suspendierung."
+lastmod: 2026-11-06
+description: "Übersicht der massgebenden Rechtsprechung zu Art. 67 AIG: Grundsatzurteile des Bundesgerichts und des Bundesverwaltungsgerichts zu Einreiseverbot, Dauer, Befristungsgebot, Ausschluss der Wiedererwägung bei strafrechtlicher Landesverweisung (BGer 2C_187/2026) und Suspendierung."
 tags: ["Rechtsprechung", "AIG", "Ausländerrecht", "Einreiseverbot"]
+revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme des Leitentscheids BGer 2C_187/2026 vom 17. September 2026 (5er-Besetzung, zur Publikation vorgesehen, publiziert am 05.11.2026): Ausschluss der Wiedererwägungs- und Suspensionspraxis nach Art. 67 Abs. 5 AIG bei strafrechtlicher Landesverweisung; Text an relevancy.bger.ch verifiziert."
+  - date: 2026-10-23
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Neuanlage der Rechtsprechungsübersicht zu Art. 67 AIG."
 ---
 
 ### I. Leitentscheide
+
+#### Ausschluss der Wiedererwägungsjurisprudenz von Art. 67 Abs. 5 AIG bei strafrechtlicher Landesverweisung
+[BGer 2C_187/2026 vom 17. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=17.09.2026_2C_187/2026) *(Fünferbesetzung, zur Publikation vorgesehen)*
+* **Sachverhalt:** Ein französischer Staatsangehöriger wurde 2019 wegen Sexualdelikten zu einer zehnjährigen obligatorischen Landesverweisung (Art. 66a Abs. 1 lit. h StGB) verurteilt. Nach Verbüssung der Freiheitsstrafe und Ausreise kehrte er rechtswidrig in die Schweiz zurück und beantragte die Erteilung einer Kurzaufenthaltsbewilligung zur Vorbereitung der Heirat mit einer Schweizer Partnerin unter Berufung auf Art. 12 EMRK und veränderte Umstände.
+* **Kernaussage:** Das Bundesgericht stellt klar, dass die ausländerrechtliche Reconsideration-Praxis zu Art. 67 AIG nicht auf die strafrechtliche Landesverweisung anwendbar ist (E. 5.3). Während bei einem administrativen Einreiseverbot nach Art. 67 Abs. 5 AIG nach Ablauf einer gewissen Frist bei veränderten Verhältnissen ein neuer Aufenthaltstitel geprüft werden kann, schliesst die rechtskräftige strafrechtliche Landesverweisung die Neuerteilung jeglicher Aufenthaltsbewilligung absolut aus (E. 5.4). Nachträgliche Vollzugshindernisse oder humanitäre Gründe können ausschliesslich bei den Strafvollzugsbehörden im Rahmen eines Gesuchs um Vollzugsaufschub nach Art. 66d StGB geltend gemacht werden, nicht aber auf dem Weg eines migrationsrechtlichen Bewilligungsverfahrens.
+* **Einschlägig für:** Art. 67 Abs. 5 AIG i.V.m. Art. 66a und Art. 66d StGB (Ausschluss der Wiedererwägung).
 
 #### Geltung gegenüber Unionsbürgern unter dem FZA und Kriterien für Einreiseverbote von über fünf Jahren
 [BGE 139 II 121](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-139-II-121_2013.html)
