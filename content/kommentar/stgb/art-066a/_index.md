@@ -2,10 +2,14 @@
 title: "Art. 66a StGB — Obligatorische Landesverweisung"
 weight: 66
 date: 2026-05-17
-lastmod: 2026-11-04
+lastmod: 2026-11-06
 description: "Kommentar zu Art. 66a StGB: Obligatorische Landesverweisung bei Katalogtaten (Abs. 1), Härtefallklausel und Interessenabwägung (Abs. 2), Kriterienkatalog, Bemessung der Dauer (5–15 Jahre), Ausschluss der Reconsideration-Praxis (BGer 2C_187/2026) und EMRK-/FZA-Konformität."
 tags: ["StGB", "Landesverweisung", "Katalogtaten", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Strafzumessung", "Ausländerrecht", "Reconsideration", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Einarbeitung von BGer 6B_513/2026 vom 8. Oktober 2026: Präzisierung zur Härtefallprüfung bei Polytoxikomanie und Substitutionsbedarf (Methadonprogramm im Herkunftsstaat); Rüge an pauschale Internetrecherchen kantonaler Instanzen; Zuweisung der Vollzugsmodalitäten an die Vollzugsbehörden (Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK)."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -122,6 +126,9 @@ revisions:
 
 #### D. Gesundheitliche Gründe und medizinische Notlagen
 - **Schwere, lebensbedrohliche Erkrankungen**: Leiden die betroffene Person an gravierenden somatischen oder psychischen Krankheiten, deren adäquate Behandlung oder lebensnotwendige Medikation im Herkunftsstaat nachweislich nicht gewährleistet werden kann, begründet dies einen Härtefall und führt zur Unverhältnismässigkeit der Landesverweisung ([BGE 145 IV 455 E. 9.1–9.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-455_2019.html); [BGE 147 IV 453 E. 1.4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-453_2021.html)).
+- **Suchtleiden und Substitutionsbedarf (Methadonprogramme im Herkunftsstaat)**: Das Fehlen eines mit der Schweiz vergleichbaren staatlich finanzierten Methadonprogramms im Herkunftsstaat begründet für sich allein keinen schweren persönlichen Härtefall, sofern im Zielstaat (z.B. Türkei) staatliche Suchtbehandlungseinrichtungen und eine medizinische Grundversorgung für Mittellose garantiert sind ([BGer 6B_513/2026 vom 8. Oktober 2026 E. 3.3.4](https://mcp.opencaselaw.ch/entscheid/6B_513/2026)).
+  - *Prüfungsanforderungen an die Sachgerichte:* Das Bundesgericht rügt kantonale Vorinstanzen, die das Vorhandensein von Substitutionsprogrammen im Ausland lediglich pauschal mit Internetverweisen auf private Kliniken begründen («kritisiert zu Recht»), ohne den tatsächlichen Zugang für mittellose Personen abzuklären.
+  - *Schnittstelle zum Vollzug:* Dem Risiko einer abrupten Verschlechterung des Gesundheitszustands ist durch eine sorgfältig geplante Rückkehrhilfe und Vollzugsgestaltung nach [Art. 66d Abs. 1 lit. b StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_66_d) i.V.m. [Art. 3 EMRK](https://glossagens.ch/kommentar/emrk/art-003/) Rechnung zu tragen ([BGer 6B_513/2026 E. 3.3.4](https://mcp.opencaselaw.ch/entscheid/6B_513/2026)).
 
 #### E. Resozialisierungsperspektiven und Deliktskonstellation
 - **Untergeordnete Tatbeteiligung**: Handeln als blosser Gehilfe, Chauffeur oder Mitläufer ohne eigene Gewaltanwendung oder Gewaltausübung ([BGE 144 IV 332 E. 3.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-332_2018.html)).
@@ -188,6 +195,7 @@ Bei der Durchführung der Interessenabwägung auf der zweiten Stufe haben sich d
 | **Versuchte Tötung trotz 6-jähriger Tochter in CH** | Messerangriff auf Schwiegervater; reines Besuchsrecht zur Tochter; schwere Gefährdung von Leib und Leben wiegt überragend schwer. | **Landesverweisung (10 Jahre) bestätigt**: Öffentliches Sicherheitsinteresse überwiegt reines Besuchsrecht; Kindesbeziehung führt aber zur Mässigung der Dauer im unteren Bereich. | [BGer 6B_1079/2022 E. 9.2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1079-2022_2023-02-08.html) |
 | **Qualifizierte BetmG-Delinquenz (Grossmenge Kokain)** | Handel mit 465 g reinem Kokain; familiäre Bindungen in CH; hohes finanzielles Motiv und schwere Gefährdung der Allgemeinheit. | **Landesverweisung (7 Jahre) bestätigt**: Eminent hohes öffentliches Fernhalteinteresse bei Drogenhandel mit harten Drogen setzt sich gegen private Interessen durch. | [BGer 7B_1055/2023 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1055-2023_2025-03-12.html); [BGer 6B_855/2020 E. 2.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-855-2020_2021-10-25.html) |
 | **Mehrfache Delinquenz bei misslungener Integration** | Mehrfacher Einbruchdiebstahl; hohe Schulden; jahrelanger Bezug von Sozialhilfe; keine feste Erwerbstätigkeit; Vorstrafen. | **Härtefall verneint / Landesverweisung bestätigt**: Verletzung der Integrationskriterien nach Art. 58a AIG schliesst privaten Härtefall regelmässig aus. | [BGer 6B_577/2022 E. 1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-577-2022_2024-03-18.html) |
+| **Versuchte schwere Körperverletzung bei Polytoxikomanie (45 J. in CH)** | 59-jähriger Türke, seit 45 Jahren in CH; Polytoxikomanie (30 Jahre Methadonsubstitution); keine engen Familienbindungen; Vorstrafen und hohe Schulden; Fehlen eines staatlichen Methadonprogramms in der Türkei. | **Härtefall verneint / Landesverweisung (8 Jahre) geschützt**: Fehlen eines staatlichen Substitutionsprogramms führt nicht zur Unzumutbarkeit bei gewährleisteter Grundversorgung; sorgfältige Vollzugsplanung (Art. 66d StGB) genügt. | [BGer 6B_513/2026 E. 3.3](https://mcp.opencaselaw.ch/entscheid/6B_513/2026) |
 
 ---
 

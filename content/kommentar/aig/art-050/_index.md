@@ -2,10 +2,14 @@
 title: "Art. 50 AIG — Auflösung der Familiengemeinschaft"
 weight: 50
 date: 2026-05-15
-lastmod: 2026-10-15
+lastmod: 2026-11-06
 description: "Praxiskommentar zu Art. 50 AIG: Nachaufenthaltsrecht nach Trennung oder Scheidung — Dreijahresfrist und Integrationskriterien, nachehelicher Härtefall wegen häuslicher Gewalt (inkl. Revisionsstand 2025 mit Hinweiskatalog und Konkubinat), Zwangsheirat und stark gefährdete Wiedereingliederung, mit zweiseitiger Kasuistik und Judikaturdivergenzen."
 tags: ["AIG", "Nachaufenthaltsrecht", "Aufenthaltsbewilligung", "häusliche Gewalt", "Ehegemeinschaft", "Integration", "Härtefall", "soziale Wiedereingliederung", "FZA", "Konkubinat"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Einarbeitung von BGer 2C_287/2026 vom 17. September 2026: Verwerfung des nachehelichen Aufenthaltsanspruchs (Art. 50 Abs. 1 lit. a i.V.m. Art. 58a AIG) bei langjähriger Sozialhilfeabhängigkeit; keine Heilung durch späte Stellenaufnahme unter Verfahrensdruck oder primär durch den Ehepartner."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -161,8 +165,8 @@ Die Behörden verfügen hierbei über Ermessen, dürfen aber keine unerfüllbare
   Ein ausländischer Ehemann hatte während der Ehe über zweieinhalb Jahre zusammen mit seiner Ehefrau Sozialhilfe von über CHF 55'000 bezogen. Nach der Trennung nahm er mehrere temporäre Einsätze an, bezog seit Mai 2018 keine Unterstützungsleistungen mehr und schloss im Sommer 2019 zwei feste Arbeitsverträge ab, mit denen er ein existenzsicherndes Einkommen erwirtschaftete. Das Migrationsamt verweigerte die Bewilligung wegen der aufgelaufenen Sozialhilfeschulden. Das Zürcher Verwaltungsgericht hiess die Beschwerde gut ([ZH VG VB.2020.00045 E. 3.2 f.](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2020-00045_2020-04-30.html)): Entscheidend sei die Situation im Urteilszeitpunkt. Da die Ablösung vor dem Entscheid nachhaltig gelungen war und eine künftige Fürsorgeabhängigkeit nicht drohte, war die wirtschaftliche Integration gegeben.
 
 #### 3. Verwerfungsfälle (Integration verneint)
-- **Dauerhafte Fürsorgeabhängigkeit ohne Erwerbsbemühungen**:  
-  Besteht nach der Trennung eine andauernde Sozialhilfeabhängigkeit und vermag die betroffene Person keine ernsthaften Bewerbungs- oder Weiterbildungsbemühungen nachzuweisen, scheitert der Anspruch nach Abs. 1 lit. a zwingend, selbst wenn die Ehegemeinschaft mehr als drei Jahre gedauert hat.
+- **Dauerhafte Fürsorgeabhängigkeit und späte Stellenaufnahme unter Verfahrensdruck ([BGer 2C_287/2026 vom 17. September 2026 E. 5.3](https://mcp.opencaselaw.ch/entscheid/2C_287/2026))**:  
+  Ein türkischer Ehemann bezog während der über dreijährigen Ehe gemeinsam mit seiner Familie über Fr. 270'000 Sozialhilfe. Obwohl die Kinder fremdbetreut wurden, bemühte er sich über Jahre hinweg nicht substantiiert um eine Erhöhung seines Arbeitspensums. Die vorübergehende Loslösung von der Sozialhilfe erfolgte primär durch den Stellenantritt der Ehefrau; erst unter dem Druck des migrationsrechtlichen Wegweisungsverfahrens trat er selbst eine Vollzeitstelle an. Das Bundesgericht verneinte den Anspruch nach Art. 50 Abs. 1 lit. a AIG: Die mangelnde Teilnahme am Wirtschaftsleben kann für sich allein genügen, um die Integration zu verneinen. Eine erst unter Verfahrensdruck und primär durch den Ehepartner herbeigeführte Erwerbsaufnahme vermag die jahrelange Integrationsdefizienz nicht nachträglich zu heilen (E. 5.3).
 - **Schuldenwirtschaft und mangelnder Sprachwille**:  
   Häufen sich trotz Erwerbstätigkeit erhebliche Betreibungen und Verlustscheine an, oder verweigert die Person trotz behördlicher Integrationsvereinbarung den Besuch von Sprachkursen, gilt die Integration als misslungen.
 
@@ -323,7 +327,7 @@ Nach der strengen Formel des Bundesgerichts in [BGE 144 II 1](https://entscheids
 2. **Keine Angst vor vorübergehenden Versöhnungsversuchen:** Eine vorübergehende Rückkehr in die gemeinsame Wohnung zerstört den Härtefallnachweis nicht, wenn die Gewaltbeziehung in ihrer Gesamtheit durch Fachberichte belegt ist ([ZH VG VB.2020.00093 E. 3.5](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2020-00093_2020-07-22.html)).
 3. **Fristen strikt wahren:** Bei ablehnenden Verfügungen des Migrationsamts die Rechtsmittelfristen unbedingt mit Einschreibequittung einhalten. Eine posttraumatische Depression oder Überlastung entschuldigt Fristversäumnisse vor Gericht fast nie ([BGer 2C_127/2026](https://bger-update.ch/zusammenfassung/33583/)).
 4. **Beide Anspruchsstränge parallel geltend machen:** Stets sowohl die Dreijahresfrist mit Integration (Abs. 1 lit. a) als auch den nachehelichen Härtefall (Abs. 1 lit. b) rügen; Phasen des Zusammenlebens bei demselben Partner minutengleich zusammenrechnen ([BGer 2C_430/2011 E. 4.1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-430-2011_2011-10-11.html)).
-5. **Sozialhilfe vor dem kantonalen Urteil ablösen:** Bestand während der Ehe Fürsorgeabhängigkeit, muss vor Abschluss des kantonalen Bewilligungsverfahrens eine Festanstellung nachgewiesen werden; gelingt die nachhaltige Ablösung rechtzeitig, steht der frühere Bezug dem Integrationsnachweis nicht entgegen ([ZH VG VB.2020.00045 E. 3.2](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2020-00045_2020-04-30.html)).
+5. **Sozialhilfe vor dem kantonalen Urteil nachhaltig aus eigener Kraft ablösen:** Bestand während der Ehe Fürsorgeabhängigkeit, muss vor Abschluss des kantonalen Bewilligungsverfahrens eine Festanstellung nachgewiesen werden; gelingt die nachhaltige Ablösung rechtzeitig aus eigener Initiative, steht der frühere Bezug dem Integrationsnachweis nicht entgegen ([ZH VG VB.2020.00045 E. 3.2](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2020-00045_2020-04-30.html)). Eine blosse Loslösung unter dem Druck des migrationsrechtlichen Verfahrens oder primär durch den Stellenantritt des Ehepartners genügt demgegenüber nicht zur Bejahung der wirtschaftlichen Selbsterhaltungsfähigkeit ([BGer 2C_287/2026 E. 5.3](https://mcp.opencaselaw.ch/entscheid/2C_287/2026)).
 
 **Für die Migrationsbehörden und die Justiz:**
 

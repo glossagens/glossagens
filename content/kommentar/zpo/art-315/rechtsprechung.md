@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 315 ZPO"
 weight: 99
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-11-06
 description: "Übersicht der Entscheide zu Art. 315 ZPO — Aufschiebende Wirkung der Berufung, Ausnahmen bei vorsorglichen Massnahmen, Kindeswohl bei Obhutswechsel und Ausschluss des Replikrechts bei Dringlichkeit."
 tags: ["Rechtsprechung", "ZPO", "Aufschiebende Wirkung", "Vorsorgliche Massnahmen", "Kindeswohl", "Replikrecht"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 5A_820/2026 vom 15. Oktober 2026: Interessenabwägung bei Kindesumzug in Drittstaaten (Nicht-CLaH96) unter Fortbestand der Schweizer Zuständigkeit (perpetuatio fori) sowie Gehörswahrung ohne Replikrecht nach Art. 53 Abs. 3 ZPO nF."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -95,3 +99,11 @@ revisions:
 ### 11. [BGer 1C_137/2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-137-2019_2019-07-05.html) vom 5. Juli 2019 — Beschleunigungsgebot und Replikverzicht
 
 - **Kernaussage:** Das verfassungsrechtliche Beschleunigungsgebot im vorsorglichen Rechtsschutz überwiegt bei zeitlicher Dringlichkeit das Interesse an einer förmlichen Replik (E. 3.4).
+
+---
+
+### 12. [BGer 5A_820/2026](https://mcp.opencaselaw.ch/entscheid/5A_820/2026) vom 15. Oktober 2026 — Suspensiveffekt bei Kindeswegzug in einen Drittstaat (VAE)
+
+- **Thema:** Interessenabwägung bei der Verweigerung der aufschiebenden Wirkung gegen vorsorgliche Massnahmen bei Kindesumzug in einen Nichtvertragsstaat der CLaH96 (Art. 315 Abs. 4 lit. b ZPO); Fortbestand der internationalen Zuständigkeit (*perpetuatio fori*); kein zweiter Schriftenwechsel im Suspensiveffektverfahren nach Art. 53 Abs. 3 ZPO nF.
+- **Sachverhalt:** Die geschiedene Mutter von drei Kindern beabsichtigte, diese im Rahmen vorsorglicher Massnahmen in die Vereinigten Arabischen Emirate (VAE) mitzunehmen, wo sie eine Arbeitsstelle angetreten hatte. Der Vater verlangte die Wiederherstellung der aufschiebenden Wirkung gegen die erstinstanzliche Bewilligung. Die kantonale Instanz wies das Gesuch ohne zweiten Schriftenwechsel ab.
+- **Kernaussage:** Zieht der betreuende Elternteil mit den Kindern in einen Drittstaat, der nicht der CLaH96 angehört, behalten die Schweizer Gerichte ihre internationale Zuständigkeit (*perpetuatio fori*). Da die durch das Übereinkommen induzierte Gefahr eines sofortigen Jurisdiktionsverlusts mit Grenzübertritt entfällt, ist die Zurückhaltung bei der Verweigerung der aufschiebenden Wirkung gelockert. Bei überwiegendem Kindesinteresse am Verbleib bei der Hauptbetreuungsperson ist die Verweigerung des Suspensiveffekts nicht willkürlich. Zudem schliesst Art. 53 Abs. 3 ZPO nF ein Replikrecht im summarischen Suspensiveffektverfahren weiterhin im Regelfall aus (E. 3.2, 4.2).

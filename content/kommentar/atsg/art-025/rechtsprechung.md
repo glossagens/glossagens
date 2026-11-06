@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 25 ATSG — Rückerstattung"
 weight: 99
 date: 2026-06-12
-lastmod: 2026-09-15
+lastmod: 2026-11-06
 description: "Übersicht der Rechtsprechung zu Art. 25 ATSG: Leitentscheide des Bundesgerichts (BGE) und kantonale Urteile zu Rückerstattungspflicht, Wiedererwägungsvorbehalt, Erlassvoraussetzungen (guter Glaube und Härte), Verwirkungsfristen, strafrechtlicher Verjährung und Beitragsrückerstattung."
 tags: ["Rechtsprechung", "ATSG", "Rückerstattung", "Verwirkung", "Erlass", "Guter Glaube", "Grosse Härte", "Praxisänderung", "Zweiter Anlass"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 9C_183/2026 vom 8. Oktober 2026: Präzisierung zu BGE 145 V 141 (zeitliche Grenze der rückwirkenden Rentenaufhebung bei Meldepflichtverletzung gemäss Art. 88bis Abs. 2 lit. b IVV i.V.m. Art. 25 Abs. 1 ATSG)."
   - date: 2026-09-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -169,4 +173,14 @@ Zurück zum Kommentar: [Art. 25 ATSG — Rückerstattung](./)
 
 ---
 
-*Letzte Aktualisierung: 15. September 2026*
+### [BGer 9C_183/2026](https://mcp.opencaselaw.ch/entscheid/9C_183/2026) vom 08.10.2026 — Zeitliche Grenze der rückwirkenden Rentenaufhebung bei Meldepflichtverletzung
+
+- **Gericht / Instanz**: Bundesgericht, III. öffentlich-rechtliche Abteilung
+- **Thema**: Rückwirkende Rentenaufhebung nach Art. 88bis Abs. 2 lit. b IVV i.V.m. Art. 25 Abs. 1 ATSG; Präzisierung zu [BGE 145 V 141](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-145-V-141_2019.html); Identität von Meldepflichtverletzung und Revisionsgrund als zeitliche Grenze der Rückforderung.
+- **Sachverhalt**: Eine IV-Rentnerin trat im November 2012 eine nicht gemeldete Stelle als Buschauffeurin an (60–80 %-Pensum). Nach Einholung eines Gutachtens hob die IV-Stelle die Rente gestützt auf eine Meldepflichtverletzung rückwirkend per 1. Januar 2012 auf und forderte über CHF 168'000.- zurück.
+- **Kernaussage**: Die rückwirkende Aufhebung einer Invalidenrente wegen Meldepflichtverletzung darf zeitlich nicht weiter zurückgehen als der Eintritt der pflichtwidrig nicht gemeldeten Sachverhaltsänderung selbst. Der Gegenstand der Meldepflichtverletzung ist identisch mit dem Revisionsgrund und definiert zwingend die zeitliche Grenze der Rückforderbarkeit. Eine Vorverlagerung auf einen früheren Zeitpunkt (hier Januar 2012 statt November 2012) ist bundesrechtswidrig.
+- **Einschlägig für**: Abs. 1 Satz 1 (Unrechtmässigkeit und zeitliche Grenzen der Rückerstattung)
+
+---
+
+*Letzte Aktualisierung: 6. November 2026*

@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 189 StGB"
 weight: 99
 date: 2026-07-04
-lastmod: "2026-07-04"
+lastmod: 2026-11-06
 description: "Übersicht der Entscheide zu Art. 189 StGB – Sexuelle Nötigung"
 tags: ["Rechtsprechung", "StGB", "Sexuelle Nötigung", "Sexualstrafrecht", "psychischer Druck"]
+revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 6B_381/2026 vom 21. Oktober 2026: Strukturelle Gewalt als psychischer Druck bei erwachsenen Opfern in Partnerschafts- und Abhängigkeitsbeziehungen (Art. 189 aF)."
 ---
 
 ## Leitentscheide (BGE)
@@ -153,4 +158,13 @@ tags: ["Rechtsprechung", "StGB", "Sexuelle Nötigung", "Sexualstrafrecht", "psyc
 
 ---
 
-*Letzte Aktualisierung: 2026-07-04*
+### BGer 6B_381/2026 vom 21. Oktober 2026
+
+- **Thema**: Sexuelle Nötigung (Art. 189 aF); psychischer Druck und strukturelle Gewalt bei erwachsenen Opfern in Partnerschaft und Abhängigkeit.
+- **Sachverhalt**: Ein Beschwerdeführer zwang seine 20 Jahre jüngere, kognitiv beeinträchtigte und an einer abhängigen Persönlichkeitsstörung leidende Partnerin, die finanziell von ihm abhing und isoliert war, über Jahre hinweg wiederholt zu sexuellen Handlungen gegen ihren Willen unter Ausnutzung seiner körperlichen Überlegenheit und vorangegangener häuslicher Gewalt.
+- **Kernaussage**: Das Bundesgericht bekräftigt, dass die Doktrin der strukturellen Gewalt auch auf erwachsene Opfer anwendbar ist, wenn eine Herrschafts- und Abhängigkeitsbeziehung besteht, die eine Zwangslage schafft. Bei erkennbaren Schmerzens- und Abwehrzeichen des Opfers muss kein ausdrückliches verbales Verbot in jedem Moment erfolgen; das Ausnutzen der Zwangslage erfüllt Art. 189 StGB aF (E. 2.2–2.4).
+- **Link**: [BGer 6B_381/2026](https://mcp.opencaselaw.ch/entscheid/6B_381/2026)
+
+---
+
+*Letzte Aktualisierung: 6. November 2026*

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 50 AIG"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-10-01
+lastmod: 2026-11-06
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Urteile zu Art. 50 AIG (Nachaufenthaltsrecht, Dreijahresfrist, häusliche Gewalt und nachehelicher Härtefall)."
 tags: ["Rechtsprechung", "Aufenthaltsbewilligung", "AIG", "Nachaufenthaltsrecht", "häusliche Gewalt", "Härtefall"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 2C_287/2026 vom 17. September 2026: Verneinung des nachehelichen Aufenthaltsanspruchs nach Art. 50 Abs. 1 lit. a i.V.m. Art. 58a AIG bei jahrelangem massivem Sozialhilfebezug und mangelnden eigenen Erwerbsbemühungen; keine Heilung durch späte Stellenaufnahme unter Verfahrensdruck."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -140,4 +144,13 @@ revisions:
 
 ---
 
-*Stand der Rechtsprechung: September 2026*
+### [BGer 2C_287/2026 vom 17. September 2026](https://mcp.opencaselaw.ch/entscheid/2C_287/2026) E. 5.3
+- **Thema**: Art. 50 Abs. 1 lit. a i.V.m. Art. 58a AIG; nachehelicher Aufenthaltsanspruch und Integrationsdefizit bei jahrelangem Sozialhilfebezug; keine Heilung durch späte Stellenaufnahme unter Verfahrensdruck.
+- **Sachverhalt**: Ein türkischer Staatsangehöriger lebte über drei Jahre in ehelicher Gemeinschaft mit einer Schweizerin und zwei gemeinsamen Kindern. Die Familie bezog über Jahre hinweg Sozialhilfe im Gesamtbetrag von über Fr. 270'000.-. Der Ehemann bemühte sich trotz externer Kinderbetreuung nicht hinreichend um eine Vollzeitanstellung. Erst nach Trennung und unter dem Druck des migrationsrechtlichen Wegweisungsverfahrens trat er eine feste Stelle an; die vorübergehende Ablösung von der Fürsorge war zuvor primär der Ehefrau zu verdanken gewesen.
+- **Kernaussage**: Die mangelnde Teilnahme am Wirtschaftsleben kann für sich allein genügen, um die erfolgreiche Integration nach Art. 58a AIG zu verneinen. Eine erst unter Verfahrensdruck und primär durch den Partner erfolgte Loslösung von der Sozialhilfe heilt die Integrationsdefizienz nicht nachträglich. Auch Art. 8 EMRK und Art. 50 Abs. 1 lit. b AIG begründen mangels besonders enger gelebter Beziehung zu den Kindern (reines Besuchsrecht) keinen Anspruch.
+- **Einschlägig für**: Abs. 1 lit. a (Integrationskriterien, wirtschaftliche Selbsterhaltungsfähigkeit); Abs. 1 lit. b und Art. 8 EMRK.
+- **Link**: [BGer 2C_287/2026](https://mcp.opencaselaw.ch/entscheid/2C_287/2026)
+
+---
+
+*Stand der Rechtsprechung: 6. November 2026*

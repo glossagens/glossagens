@@ -2,10 +2,14 @@
 title: "Art. 25 ATSG — Rückerstattung"
 weight: 25
 date: 2026-06-12
-lastmod: 2026-10-15
+lastmod: 2026-11-06
 description: "Praxiskommentar zu Art. 25 ATSG: Rückerstattung unrechtmässig bezogener Leistungen und Beiträge, Wiedererwägungsvorbehalt (Art. 53 Abs. 2 ATSG) vs. formlose Leistungen, Erlassvoraussetzungen (guter Glaube und grosse Härte nach Art. 4 f. ATSV), Verwirkungsfristen (Praxisänderung BGE 150 V 305 zum Fristbeginn, zweiter Anlass nach BGE 148 V 217, Revision 2021), längere strafrechtliche Verjährung unter in dubio pro reo (BGE 138 V 74) sowie Beitragsrückerstattung (BGE 149 V 21, BGE 138 V 463)."
 tags: ["ATSG", "Rückerstattung", "Erlass", "Guter Glaube", "Grosse Härte", "Verwirkung", "Praxisänderung", "Zweiter Anlass", "Strafbare Handlung", "Beitragsrückerstattung"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Einarbeitung von BGer 9C_183/2026 vom 8. Oktober 2026: Präzisierung zu BGE 145 V 141 bezüglich der zeitlichen Grenze rückwirkender Rentenaufhebungen und Rückforderungen nach Art. 25 ATSG bei Meldepflichtverletzungen (Art. 88bis Abs. 2 lit. b IVV); Kongruenz von Revisionsgrund und Aufhebungszeitpunkt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -91,6 +95,10 @@ Wurde eine Leistung durch eine formell rechtskräftige Verfügung oder einen Ein
 *Die Voraussetzungen des Rückkommenstitels:*
 1. **Wiedererwägung (Art. 53 Abs. 2 ATSG)**: Die ursprüngliche Verfügung muss zweifellos unrichtig sein und ihre Berichtigung von erheblicher Bedeutung sein. Zweifellose Unrichtigkeit liegt vor, wenn kein vernünftiger Zweifel an der Fehlerhaftigkeit der ursprünglichen Rechtsanwendung oder Sachverhaltsfeststellung möglich ist ([BGE 142 V 259 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-142-V-259_2016.html)).
 2. **Rechtsprechung im Unfallversicherungsrecht (UVG)**: Das Bundesgericht entschied in [BGE 142 V 259 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-142-V-259_2016.html), dass Art. 88bis Abs. 2 lit. b IVV (wonach Renten nur bei einer Meldepflichtverletzung rückwirkend aufgehoben werden dürfen) im UVG **nicht analog** anwendbar ist. Ergibt sich bei einer UVG-Rente nachträglich, dass die Kausalität zwischen Unfall und Gesundheitsschaden fehlte, kann die Suva die Rente wiedererwägungsweise ex tunc aufheben und die Rentenbetreffnisse nach Art. 25 Abs. 1 ATSG vollumfänglich zurückfordern — ohne dass dem Versicherten eine Meldepflichtverletzung vorgeworfen werden muss.
+3. **Zeitliche Grenze der Rückerstattung bei Meldepflichtverletzung (Art. 88bis Abs. 2 lit. b IVV i.V.m. Art. 25 Abs. 1 ATSG)**:
+   Wird eine formell rechtskräftig zugesprochene Dauerleistung (Invalidenrente) wegen Verletzung der gesetzlichen Meldepflicht ([Art. 31 Abs. 1 ATSG](https://www.fedlex.admin.ch/eli/cc/2002/510/de#art_31)) rückwirkend herabgesetzt oder aufgehoben ([Art. 88bis Abs. 2 lit. b IVV](https://www.fedlex.admin.ch/eli/cc/1961/29_29_31/de#art_88_bis)), darf die Rückwirkung **nicht weiter zurückgehen als der Eintritt der pflichtwidrig nicht gemeldeten Sachverhaltsänderung** selbst ([BGer 9C_183/2026 vom 8. Oktober 2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/9C_183/2026); Präzisierung zu [BGE 145 V 141](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-145-V-141_2019.html)).
+   - **Kongruenzprinzip:** Der Gegenstand der Meldepflichtverletzung ist identisch mit dem Revisionsgrund und definiert zwingend die zeitliche Grenze der Rückforderbarkeit. Tritt die erhebliche Sachverhaltsänderung (z.B. Aufnahme einer rentenausschliessenden Beschäftigung) erst in einem bestimmten Monat ein, ist eine rückwirkende Rentenaufhebung und Rückforderung per Jahresbeginn bundesrechtswidrig — selbst wenn im Nachhinein frühere Indizien zutage treten.
+   - **Wegfall des Kausalerfordernisses (Revision IVV 2015):** Die per 1. Januar 2015 erfolgte Streichung des Erfordernisses, wonach die unrechtmässige Ausrichtung kausal auf die Meldepflichtverletzung zurückzuführen sein musste, ändert an dieser Kongruenz nichts; sie bezweckt lediglich zu verhindern, dass versicherte Personen durch Verfahrensverzögerungen Rückforderungsbetreffnisse schmälern ([BGer 9C_183/2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/9C_183/2026)).
 
 #### 3. Formlos ausgerichtete Leistungen: Direkte Rückforderung ohne Wiedererwägung
 

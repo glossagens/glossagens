@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-11-04
+lastmod: 2026-11-06
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Obligatorische Landesverweisung, Härtefallklausel, Interessenabwägung, Bemessung der Dauer der Landesverweisung, Ausschluss der Reconsideration-Praxis (BGer 2C_187/2026), Secondos, Freizügigkeitsabkommen und EMRK-Konformität."
 tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Reconsideration", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 6B_513/2026 vom 8. Oktober 2026: Härtefallprüfung bei Polytoxikomanie und Methadonprogramm im Herkunftsstaat; Abgrenzung der Prüfpflicht des Sachgerichts von Vollzugsmodalitäten nach Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -197,3 +201,11 @@ revisions:
 - **Thema**: Anwendungsbereich der Freizügigkeitsgarantien.
 - **Kernaussage**: Auf das FZA kann sich nur berufen, wer tatsächlich über ein geschütztes Aufenthalts- oder Erwerbsrecht in der Schweiz verfügt.
 - **Einschlägig für**: Art. 66a StGB.
+
+---
+
+### [BGer 6B_513/2026 vom 8. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/6B_513/2026) E. 3.3 — Härtefallprüfung bei Polytoxikomanie und Methadonprogramm im Heimatstaat
+- **Thema**: Medizinischer Härtefall bei Drogenabhängigkeit (30-jährige Methadonsubstitution); Fehlen eines staatlichen Substitutionsprogramms im Herkunftsland (Türkei); Begründungsanforderungen an die Gerichte und Zuweisung an die Vollzugsbehörden.
+- **Sachverhalt**: Ein 59-jähriger türkischer Staatsangehöriger mit 45 Jahren Aufenthalt in der Schweiz wurde wegen mehrfacher versuchter schwerer Körperverletzung zu 34 Monaten Freiheitsstrafe und einer achtjährigen Landesverweisung verurteilt. Er rügte, eine Überstellung in die Türkei führe mangels eines staatlichen Methadonprogramms zu Verwahrlosung und unmenschlicher Behandlung (Art. 3 EMRK).
+- **Kernaussage**: Das Fehlen eines mit der Schweiz vergleichbaren staatlich finanzierten Methadonprogramms begründet keinen Härtefall, wenn im Herkunftsstaat eine medizinische Grundversorgung gewährleistet ist und schweizerische Therapien den Konsum nicht verhindern konnten. Das Bundesgericht rügt die Vorinstanz für den blossen Verweis auf Internetangebote privater Kliniken, hält das Urteil im Ergebnis aber aufrecht. Dem Substitutionsbedarf ist im Rahmen der Vollzugsplanung (Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK) durch geeignete Rückkehrhilfe Rechnung zu tragen.
+- **Einschlägig für**: Art. 66a Abs. 2 StGB, Art. 66d StGB, Art. 3 EMRK.

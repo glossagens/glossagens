@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 191 StGB"
 weight: 99
 date: 2026-06-02
-lastmod: "2026-06-13"
+lastmod: 2026-11-06
 description: "Übersicht der Entscheide zu Art. 191 StGB — Schändung, Widerstandsunfähigkeit, Urteilsunfähigkeit, Missbrauch"
 tags: ["Rechtsprechung", "StGB", "Schändung", "Sexualstrafrecht"]
+revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 6B_381/2026 vom 21. Oktober 2026: Schlaf als Widerstandsunfähigkeit per se; Abgrenzung zu Persönlichkeitsfaktoren als Elemente des psychischen Drucks nach Art. 189 StGB."
 ---
 
 # Rechtsprechungssammlung zu Art. 191 StGB
@@ -71,4 +76,12 @@ tags: ["Rechtsprechung", "StGB", "Schändung", "Sexualstrafrecht"]
 
 ---
 
-*Letzte Aktualisierung: 13. Juni 2026*
+### BGer 6B_381/2026 vom 21. Oktober 2026
+- **Thema**: Schändung (Art. 191 StGB aF); Schlaf als Widerstandsunfähigkeit per se; Abgrenzung zu Nötigungsmitteln (Art. 189 StGB).
+- **Sachverhalt**: Ein Mann missbrauchte seine schlafende Partnerin im gemeinsamen Haushalt. Er machte geltend, die behaupteten Begleitumstände (Persönlichkeitsstörung, Übergewicht, Unerfahrenheit) begründeten keine Widerstandsunfähigkeit.
+- **Kernaussage**: Das Bundesgericht bestätigt, dass eine schlafende Person per se widerstandsunfähig im Sinne von Art. 191 StGB ist. Zusätzliche Faktoren wie eine abhängige Persönlichkeitsstörung oder körperliche Überlegenheit begründen keine Widerstandsunfähigkeit nach Art. 191 StGB, sondern können allenfalls den psychischen Druck im Rahmen von Art. 189 StGB verstärken (E. 3.2).
+- **Einschlägig für**: Widerstandsunfähigkeit — Schlaf; Abgrenzung zu Art. 189 StGB
+
+---
+
+*Letzte Aktualisierung: 6. November 2026*

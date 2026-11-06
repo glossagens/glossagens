@@ -2,10 +2,14 @@
 title: "Art. 191 StGB — Schändung"
 weight: 191
 date: 2026-06-02
-lastmod: 2026-10-15
+lastmod: 2026-11-06
 description: "Kommentar zu Art. 191 StGB: Schändung, Urteilsunfähigkeit, Widerstandsunfähigkeit, Missbrauch, Vorsatz, Konkurrenz, Berufsverbot Art. 67 Abs. 4 StGB."
 tags: ["StGB", "Schändung", "Sexualstrafrecht", "Widerstandsunfähigkeit", "Urteilsunfähigkeit"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Einarbeitung von BGer 6B_381/2026 vom 21. Oktober 2026: Schlaf als Widerstandsunfähigkeit per se; Abgrenzung zu Persönlichkeitsstörung und Abhängigkeit als Elemente des psychischen Drucks nach Art. 189 StGB."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -52,7 +56,7 @@ revisions:
 
 (BGE 133 IV 49, E. 7.2; BGer 6B_723/2025 v. 30.4.2026, E. 2.1.4–2.1.5)
 
-**8** **Schlafende Personen** Eine schlafende Person ist ohne Widerstand i.S.v. Art. 191 StGB (BGer, 6B_327/2024 v. 11.12.2024, E. 2.1.4; BGer, 7B_746/2023 v. 30.7.2024, E. 4.3.2).
+**8** **Schlafende Personen** Eine schlafende Person ist widerstandsunfähig per se im Sinne von Art. 191 StGB ([BGer 6B_381/2026 vom 21. Oktober 2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/6B_381/2026); [BGer 6B_327/2024 vom 11. Dezember 2024 E. 2.1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-327-2024_2024-12-11.html); [BGer 7B_746/2023 vom 30. Juli 2024 E. 4.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-746-2023_2024-07-30.html)). Das Bundesgericht schärft dabei die dogmatische Grenze: Zusätzliche persönliche Umstände wie eine abhängige Persönlichkeitsstörung, kognitive Schwächen, sexuelle Unerfahrenheit oder das körperliche Übergewicht des Täters begründen für sich allein keine Widerstandsunfähigkeit nach Art. 191 StGB — sie können jedoch den psychischen Druck im Sinne von Art. 189 StGB verstärken. Die Widerstandsunfähigkeit folgt in solchen Konstellationen ausschliesslich aus dem Schlafzustand selbst ([BGer 6B_381/2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/6B_381/2026)).
 
 **9** **Alkoholisierung — Abgrenzung** Allein die Menge des konsumierten Alkohols begründet noch keine Widerstandsunfähigkeit. Massgebend ist die tatsächliche Wirkung auf das Opfer im konkreten Zeitpunkt — nicht ob es überhaupt alkoholisiert war, sondern ob es in diesem Zustand keinen wirksamen Widerstandswillen mehr fassen, äussern oder betätigen konnte. Einschlägige Indizien: Bewusstseinslücken («Blackout»), Unvermögen zu kommunizieren oder sich zu koordinieren, Nichtwahrnehmung des Geschehens, Apathie (BGer 6B_723/2025 v. 30.4.2026, E. 2.4.1–2.4.6).
 

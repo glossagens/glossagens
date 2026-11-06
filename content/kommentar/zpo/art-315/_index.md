@@ -2,10 +2,14 @@
 title: "Art. 315 ZPO — Aufschiebende Wirkung"
 weight: 315
 date: 2026-09-02
-lastmod: 2026-10-15
+lastmod: 2026-11-06
 description: "Kommentar zu Art. 315 ZPO: Suspensiveffekt der Berufung, Ausnahmen bei vorsorglichen Massnahmen, Gestaltungsentscheiden und Wiederherstellung/Entzug der aufschiebenden Wirkung (nF 2025)."
 tags: ["ZPO", "Berufung", "Aufschiebende Wirkung", "Vorsorgliche Massnahmen", "Gestaltungsurteil", "Kindeswohl", "Replikrecht"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Einarbeitung von BGer 5A_820/2026 vom 15. Oktober 2026: Präzisierung zur Interessenabwägung beim Kindeswegzug in Drittstaaten (Nicht-CLaH96-Staaten) unter Fortbestand der schweizerischen Zuständigkeit (perpetuatio fori) sowie Bestätigung des Ausschlusses des Replikrechts im Suspensiveffektverfahren unter Art. 53 Abs. 3 ZPO nF."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -59,6 +63,11 @@ Voraussetzung ist in beiden Fällen, dass der gesuchstellenden Partei ein **nich
 
 **6** **Entzugspflicht bei Kindeswohlgefährdung:** Bei kindesrechtlichen Massnahmen (Obhut, Wohnsitz, Betreuung) steht das **Kindeswohl** an oberster Stelle. Droht durch das Zuwarten bis zum Rechtsmittelentscheid eine Gefährdung des Kindeswohls, ist der Vollzug der erstinstanzlichen Massnahme (bzw. die Verweigerung der aufschiebenden Wirkung) nicht nur eine Möglichkeit, sondern eine Pflicht des Gerichts ([BGE 144 III 469 E. 4.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-III-469_2018.html#consideration_4.2.2); [BGer 5A_747/2025 vom 12. September 2025 E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-747-2025_2025-09-12.html); [BGer 5A_501/2024 vom 3. September 2024 E. 5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-501-2024_2024-09-03.html)).
 
+### 3. Kindeswegzug und Auswanderung: CLaH96-Vertragsstaaten versus Drittstaaten
+**6a** **Differenzierung nach Zielland:** Bei der Verlegung des Aufenthaltsorts von Kindern ins Ausland differenziert das Bundesgericht strikt zwischen dem Wegzug in einen CLaH96-Vertragsstaat und dem Wegzug in einen Drittstaat ([BGer 5A_820/2026 vom 15. Oktober 2026 E. 4.2](https://mcp.opencaselaw.ch/entscheid/5A_820/2026)):
+- **CLaH96-Vertragsstaaten:** Bei einer Verlegung des Wohnsitzes in einen Vertragsstaat des Haager Kindesschutzübereinkommens von 1996 ([SR 0.211.231.011](https://www.fedlex.admin.ch/eli/cc/2009/446/de)) entfällt mit dem tatsächlichen Grenzübertritt die Zuständigkeit der Schweizer Gerichte (Art. 5 Abs. 2 CLaH96; [BGE 149 III 81 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-149-III-81_2023.html#consideration_2.4)). Die Rechtsmittelinstanz hat daher bei der Verweigerung des Suspensiveffekts besondere Zurückhaltung zu üben, um einen irreversiblen Zuständigkeitsverlust vor dem materiellen Rechtsmittelentscheid abzuwenden.
+- **Drittstaaten (Nichtvertragsstaaten wie z.B. VAE):** Zieht der betreuende Elternteil mit den Kindern in einen Staat, der weder der CLaH96 noch der CLaH80 angehört, gilt der Grundsatz der *perpetuatio fori*: Die Schweizer Gerichte behalten ihre internationale Zuständigkeit bei. Da das Risiko einer abrupten Jurisdiktionsverschiebung entfällt, entfällt auch die durch das Übereinkommen induzierte Dringlichkeit. Die Zurückhaltung bei der Verweigerung des Suspensiveffekts wird gelockert; im Rahmen der freien Interessenabwägung nach Art. 315 Abs. 4 lit. b ZPO überwiegt regelmässig das Interesse der Kinder am Mitziehen mit der bisherigen Betreuungsperson, wenn der andere Elternteil keine eigene Obhut anbegehrt ([BGer 5A_820/2026 E. 4.2 f.](https://mcp.opencaselaw.ch/entscheid/5A_820/2026)).
+
 ---
 
 ## V. Verfahren und Replikrecht bei Dringlichkeit (Abs. 5)
@@ -71,6 +80,7 @@ Voraussetzung ist in beiden Fällen, dass der gesuchstellenden Partei ein **nich
 - Der Gehörsanspruch der gesuchstellenden Partei wird grundsätzlich bereits durch die Einreichung des Gesuchs gewahrt.
 - Das Verfahren über die aufschiebende Wirkung ist von Natur aus rasch zu entscheiden.
 - Dies gilt selbst bei neuen Vorbringen der Gegenpartei, sofern eine besondere Dringlichkeit (z.B. unmittelbar bevorstehende Einschulung des Kindes) vorliegt ([BGer 5A_763/2026 E. 3](https://mcp.opencaselaw.ch/entscheid/5A_763/2026); [BGer 5A_373/2020 vom 19. Mai 2020 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-373-2020_2020-05-19.html)).
+- Dies gilt auch nach Inkrafttreten der revidierten ZPO ([Art. 53 Abs. 3 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_53) nF): Ein unbedingtes Replikrecht besteht im summarischen Verfahren über den Suspensiveffekt nicht, es sei denn, die gesuchstellende Partei legt substantiiert dar, inwiefern eine Stellungnahme zu Noven den Ausgang der Interessenabwägung konkret hätte beeinflussen können ([BGer 5A_820/2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/5A_820/2026)).
 
 ---
 

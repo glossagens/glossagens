@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 58a AIG"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-11-06
 description: "Übersicht der Rechtsprechung zu Art. 58a AIG: Gesetzliche Integrationskriterien, Sprachkompetenzen, wirtschaftliche Integration, Ausnahmetatbestände und kantonale Praxis."
 tags: ["Rechtsprechung", "AIG", "Ausländerrecht", "Integrationskriterien", "Sprachnachweis", "Wirtschaftliche Integration", "VZAE", "Rückstufung"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 2C_287/2026 vom 17. September 2026: Verneinung der Integration bei jahrelangem massivem Sozialhilfebezug; unzureichende Heilung bei später Arbeitsaufnahme unter Verfahrensdruck."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "Gemini 3.7 Flash"
@@ -97,6 +101,14 @@ revisions:
 - **Thema**: Gewichtung der Integrationskriterien bei Trennung und Härtefallprüfung
 - **Kernaussage**: Bei der Überprüfung der Voraussetzungen nach Art. 50 Abs. 1 lit. a AIG sind sämtliche Integrationskriterien von Art. 58a Abs. 1 AIG einzubeziehen. Liegen in einem Teilbereich Mängel vor, ist stets zu prüfen, ob persönliche Erschwernisgründe nach Art. 58a Abs. 2 AIG vorliegen, welche die Nichterfüllung rechtfertigen oder entschuldigen.
 - **Einschlägig für**: Art. 58a Abs. 1 und 2 AIG
+
+---
+
+### [BGer 2C_287/2026 vom 17. September 2026](https://mcp.opencaselaw.ch/entscheid/2C_287/2026), E. 5.3
+- **Thema**: Mangelnde Teilnahme am Wirtschaftsleben durch langjährige Fürsorgeabhängigkeit; späte Loslösung unter Verfahrensdruck heilt Integrationsdefizit nicht.
+- **Sachverhalt**: Ein Beschwerdeführer bezog während des mehrjährigen Aufenthalts zusammen mit seiner Familie über Fr. 270'000.- Sozialhilfe. Er bemühte sich trotz externer Betreuung der Kinder über Jahre hinweg unzureichend um eine Erhöhung seines Pensums. Eine vorübergehende Ablösung von der Fürsorge war primär dem Stellenantritt der Ehefrau geschuldet; erst unter dem Druck des migrationsrechtlichen Wegweisungsverfahrens nahm er selbst eine Vollzeitstelle an.
+- **Kernaussage**: Die mangelnde Teilnahme am Wirtschaftsleben kann für sich allein genügen, um die erfolgreiche Integration nach Art. 58a AIG zu verneinen. Eine erst unter Verfahrensdruck und primär durch den Partner erfolgte Loslösung von der Sozialhilfe heilt die Integrationsdefizienz nicht nachträglich.
+- **Einschlägig für**: Art. 58a Abs. 1 lit. d AIG i.V.m. Art. 50 Abs. 1 lit. a AIG
 
 ---
 

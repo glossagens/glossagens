@@ -2,10 +2,14 @@
 title: "Art. 58a AIG — Integrationskriterien"
 weight: 58
 date: 2026-08-29
-lastmod: 2026-10-15
+lastmod: 2026-11-06
 description: "Kommentar zu Art. 58a AIG: Die gesetzlichen Integrationskriterien im Schweizer Ausländerrecht — Öffentliche Sicherheit, Verfassungswerte, Sprachkompetenzen, Wirtschaftsleben und Härtefallausnahmen."
 tags: ["AIG", "Ausländerrecht", "Integration", "Integrationskriterien", "Sprachnachweis", "Wirtschaftliche Integration", "VZAE", "Rückstufung", "Härtefall"]
 revisions:
+  - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Einarbeitung von BGer 2C_287/2026 vom 17. September 2026: Mangelnde Teilnahme am Wirtschaftsleben (langjährige Sozialhilfeabhängigkeit) kann für sich allein die Integration verneinen; späte Loslösung unter Verfahrensdruck und primär durch den Partner heilt das Defizit nicht."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -75,7 +79,7 @@ revisions:
 
 **11** **Wirtschaftliche Selbstständigkeit.** Nach Art. 77e Abs. 1 VZAE nimmt eine Person am Wirtschaftsleben teil, wenn sie ihre Lebenshaltungskosten und allfällige Unterhaltsverpflichtungen durch eigenes Einkommen, Vermögen oder gesetzliche Ansprüche gegenüber Dritten (z.B. Unterhaltsbeiträge, Erwerbsersatz, IV-Renten) deckt ([BGE 148 II 1 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-667-2020_2021-10-19.html); [BGer 2C_653/2021 vom 4. Februar 2022 E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-653-2021_2022-02-04.html)).
 
-**12** **Anforderungen an die Erwerbstätigkeit.** Die Rechtsprechung verlangt keine Spitzenkarriere oder ein überdurchschnittliches Einkommen. Entscheidend ist das ehrliche Bemühen um dauerhafte finanzielle Eigenständigkeit, das Ausbleiben unverschuldeter Sozialhilfeabhängigkeit und das Vermeiden neuer Schulden ([BGer 2C_16/2024 vom 30. April 2025 E. 5.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-16-2024_2025-04-30.html); [BGer 2C_698/2023 vom 19. August 2024 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-698-2023_2024-08-19.html)).
+**12** **Anforderungen an die Erwerbstätigkeit.** Die Rechtsprechung verlangt keine Spitzenkarriere oder ein überdurchschnittliches Einkommen. Entscheidend ist das ehrliche Bemühen um dauerhafte finanzielle Eigenständigkeit, das Ausbleiben unverschuldeter Sozialhilfeabhängigkeit und das Vermeiden neuer Schulden ([BGer 2C_16/2024 vom 30. April 2025 E. 5.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-16-2024_2025-04-30.html); [BGer 2C_698/2023 vom 19. August 2024 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-698-2023_2024-08-19.html)). Die mangelnde Teilnahme am Wirtschaftsleben kann für sich allein genügen, um die erfolgreiche Integration zu verneinen ([BGer 2C_287/2026 vom 17. September 2026 E. 5.3.2](https://mcp.opencaselaw.ch/entscheid/2C_287/2026)). Eine jahrelange Sozialhilfeabhängigkeit bei unzureichenden eigenen Erwerbsbemühungen indiziert eine mangelnde Integration; eine erst unter dem Druck des migrationsrechtlichen Wegweisungsverfahrens und primär durch den Ehepartner herbeigeführte Loslösung von der Fürsorge heilt die Integrationsdefizienz nicht nachträglich (E. 5.3).
 
 **13** **Bildungserwerb und Lehre.** Die Absolvierung einer regulären Berufslehre, eines Studiums oder einer anerkannten Weiterbildung erfüllt das Kriterium vollumfänglich (Art. 77e Abs. 2 VZAE). Dass Auszubildende während der Lehrzeit zur Deckung des Existenzminimums auf ergänzende Ausbildungsbeiträge oder Sozialhilfe angewiesen sind, begründet kein Integrationsdefizit ([Zürich, VB.2021.00788 vom 24. August 2022 E. 4.6](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2021-00788_2022-08-24.html)).
 
