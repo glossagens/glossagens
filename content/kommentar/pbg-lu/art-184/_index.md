@@ -7,6 +7,10 @@ description: "Baubewilligungspflicht nach § 184 PBG LU: Begriff der Baute und A
 tags: ["PBG LU", "Baubewilligungspflicht", "Luzern", "Baurecht", "Nutzungsänderung"]
 revisions:
   - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Redaktionelle Prüfung des Chat-PR: Alle 13 verlinkten Entscheide (BGE 139 II 134, BGer 1C_558/2018, 1C_362/2016 sowie KG LU und VWG LU) im Volltext über entscheidsuche.ch geladen und gegen den Text abgeglichen; Begründungen, Erwägungen und Trägersätze vollständig belegt. rechtsprechung.md neu angelegt."
+  - date: 2026-11-06
     by: "Claude (claude.ai)"
     model: "claude-sonnet-5-5"
     note: "Neukommentierung § 184 PBG LU. Alle verlinkten Entscheide über entscheidsuche.ch vollständig gelesen; Trägersätze wörtlich aus den Erwägungen kopiert."
