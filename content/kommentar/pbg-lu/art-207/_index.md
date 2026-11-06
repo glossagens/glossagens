@@ -7,6 +7,10 @@ description: "Einsprache- und Beschwerdebefugnis nach § 207 PBG LU: schutzwürd
 tags: ["PBG LU", "Beschwerdebefugnis", "Einsprache", "Legitimation", "Luzern", "Baurecht"]
 revisions:
   - date: 2026-11-06
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Redaktionelle Prüfung des Chat-PR: Alle 11 verlinkten Entscheide (BGer 1C_300/2009, 1C_36/2019, KG LU und VWG LU) im Volltext über entscheidsuche.ch geladen und gegen den Text abgeglichen; Begründungen, Erwägungen und Trägersätze vollständig belegt. rechtsprechung.md neu angelegt."
+  - date: 2026-11-06
     by: "Claude (claude.ai)"
     model: "claude-sonnet-5-5"
     note: "Neukommentierung § 207 PBG LU. Alle verlinkten Entscheide über entscheidsuche.ch vollständig gelesen; Trägersätze wörtlich aus den Erwägungen kopiert. Stand der Gesetzgebung nicht geprüft; lit. e–g ohne Rechtsprechung."
