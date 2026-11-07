@@ -1,0 +1,24 @@
+# Systematik-Gliederung — Grundlage der generierten Artikelübersicht.
+# Zuordnung über die Artikelnummer aus dem Verzeichnisnamen (art-26 -> 26).
+gruppen:
+  - name: "1. Kapitel: Allgemeines"
+    von: 1
+    bis: 5
+  - name: "2. Kapitel: Tierhaltung und Umgang mit Tieren"
+    von: 6
+    bis: 21
+  - name: "3. Kapitel: Forschung"
+    von: 22
+    bis: 22
+  - name: "4. Kapitel: Verwaltungsmassnahmen und Behördenbeschwerde"
+    von: 23
+    bis: 25
+  - name: "5. Kapitel: Strafbestimmungen"
+    von: 26
+    bis: 32
+  - name: "6. Kapitel: Vollzug"
+    von: 33
+    bis: 41
+  - name: "7. Kapitel: Schlussbestimmungen"
+    von: 42
+    bis: 44
