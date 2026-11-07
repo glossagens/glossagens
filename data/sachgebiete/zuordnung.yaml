@@ -276,6 +276,12 @@ vg:
 vrg-lu:
   standard: [verwaltungsverfahren]
 
+vstrr:
+  standard: [strafrecht]
+  bereiche:
+    - { von: 19, bis: 83, sachgebiete: [strafprozess] }
+    - { von: 84, bis: 102, sachgebiete: [strafvollzug] }
+
 vvg:
   standard: [versicherungsvertrag]
 
@@ -301,3 +307,8 @@ zpo:
   standard: [zivilprozess]
   bereiche:
     - { von: 271, bis: 307, sachgebiete: [zivilprozess, familienrecht] }
+
+tschg:
+  standard: [landwirtschaft]
+  bereiche:
+    - { von: 26, bis: 31, sachgebiete: [strafrecht] }

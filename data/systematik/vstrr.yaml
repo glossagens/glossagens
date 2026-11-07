@@ -1,0 +1,17 @@
+# Systematik-Gliederung für das Verwaltungsstrafrechtsgesetz (VStrR, SR 313.0)
+gruppen:
+  - name: "Geltungsbereich"
+    von: 1
+    bis: 2
+  - name: "Das materielle Verwaltungsstrafrecht"
+    von: 3
+    bis: 18
+  - name: "Die Verfolgung"
+    von: 19
+    bis: 83
+  - name: "Der Vollzug"
+    von: 84
+    bis: 102
+  - name: "Schluss- und Übergangsbestimmungen"
+    von: 103
+    bis: 108
