@@ -118,6 +118,7 @@ Continuously research which topics and decisions are still **missing** from the 
 │     - Revisionsmotive (falls geändert) dokumentiert?  │
 │     - Lehrmeinungen zur Auslegung des Artikels da?    │
 │     - Wird das Themengebiet von der Lehre behandelt?  │
+│     - Kritik der Lehre an Gerichtspraxis integriert?  │
 │     - Fehlende Kasuistik zu Kerntatbeständen          │
 │     - Konventionsrechtliche Aspekte (EMRK/EGMR)?      │
 │     - Gesetzesmaterialien eingearbeitet?              │
@@ -128,7 +129,7 @@ Continuously research which topics and decisions are still **missing** from the 
 │  3. PRIORISIERUNG                                     │
 │     (a) Fehlende BGer-Leitentscheide (höchste Prio)  │
 │     (b) Gesetzgeberischer Zweck / Revisionsmotive     │
-│     (c) Lehrmeinungen zur Auslegung / Themenbehandlung│
+│     (c) Lehrmeinungen & Judikaturkritik der Lehre     │
 │     (d) Unkommentierte Absätze                        │
 │     (e) Fehlende Kasuistik                            │
 │     (f) EMRK/Konventionsrecht                         │
@@ -334,6 +335,11 @@ gewollt, damit kein leerer Wortlaut-Abschnitt live geht.
 > 2. **Wird das Themengebiet von der Lehre behandelt?**
 >    - Behandelt die rechtswissenschaftliche Literatur das spezifische Sachgebiet, das Rechtsinstitut oder die Streitfrage (z.B. in Zeitschriftenaufsätzen, Dissertationen, Monografien)?
 >    - Liefert die Doktrin Kriterienkataloge, Systematisierungen oder praxisrelevante Lösungsvorschläge?
+>
+> **Besonderer Schwerpunkt — Judikaturkritik der Lehre:**
+> **Es sollen insbesondere Lehrmeinungen aufgenommen werden, welche eine gerichtliche Praxis kritisieren.**
+> Wo das Schrifttum Leitentscheide des Bundesgerichts oder kantonale Praktiken ablehnt, als überspitzt formalistisch, teleologisch verfehlt, gesetzwidrig oder praxisfern einstuft, ist diese Kritik zwingend darzustellen. Solche Stimmen sind für Praktiker und Anwälte von grösstem Wert (z.B. zur Begründung von Praxisänderungen oder als Revisions- und Beschwerdeargumente).
+> - **Gezielte Suche nach Lehrkritik**: Für jeden Leitentscheid `find_scholarship_citing_decision` prüfen, um kritische Urteilsbesprechungen zu finden; via `search_scholarship` mit Begriffen wie «Kritik», «Praxisänderung», «Bundesgericht» gezielt nach Gegenpositionen suchen.
 
 ### Werkzeuge in opencaselaw:
 
@@ -462,7 +468,7 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 
 ### Subagent-Vorlage C: Materialien, gesetzgeberischer Zweck und Lehrmeinungen
 
-> **Aufgabe**: Eruiere die gesetzgeberischen Ideen, Zwecke und Motive bei der Schaffung von Art. {N} {ABBREV} sowie bei allfälligen späteren Gesetzesänderungen anhand der amtlichen Gesetzesmaterialien. Prüfe zudem zwingend, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder ob das spezifische Themengebiet von der Lehre behandelt wird.
+> **Aufgabe**: Eruiere die gesetzgeberischen Ideen, Zwecke und Motive bei der Schaffung von Art. {N} {ABBREV} sowie bei allfälligen späteren Gesetzesänderungen anhand der amtlichen Gesetzesmaterialien. Prüfe zudem zwingend, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder ob das spezifische Themengebiet von der Lehre behandelt wird — **insbesondere sind Lehrmeinungen zu erfassen, welche die gerichtliche Praxis kritisieren**.
 >
 > **Gesetzgeberischer Zweck & Materialien** (immer zwingend durchführen):
 > 1. `get_article_purpose` mit sr_number="{SRNR}", article="{N}":
@@ -484,12 +490,16 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 >    - `search_scholarship` mit query="{Thema / Rechtsinstitut} {ABBREV}": Wissenschaftliche Publikationen zum Sachbereich ermitteln.
 >    - `find_scholarship_citing_decision` mit decision_id="{DECISION_ID}": Lehrmeinungen zu wegweisenden Urteilen der Rechtsprechung.
 >    - `get_scholarship` und `get_scholarship_full_text`: Volltextabruf für fundierte Lehrargumente.
+> 3. *Gezielte Recherche nach Kritik an der Gerichtspraxis (Priorität!):*
+>    - Zu zentralen Urteilen via `find_scholarship_citing_decision` kritische Urteilsanmerkungen aufspüren.
+>    - Via `search_scholarship` nach Kombinationen wie «"Art. {N} {ABBREV}" Kritik» oder «"BGE ..." Kritik» suchen.
+>    - Herausarbeiten, worin die Kritik besteht (z.B. Verletzung von Bundesrecht, unbegründeter Formalismus, unbillige Schutzlücken) und welche Gegenauffassung vertreten wird.
 >
 > **Ausgabeformat:**
 > ```
 > QUELLE: [Botschaft BBl ... / Kommentar-Autor, Werk, N/S. / Autor, Aufsatztitel, Zeitschrift/Jahr, S.]
-> TYP: Gesetzgeberischer Zweck / Revisionsmotiv / Lehrmeinung Auslegung / Lehrmeinung Themengebiet
-> KERNAUSSAGE: [2–4 Sätze: Welcher Zweck/welche Idee wurde verfolgt? Welche Auslegung vertritt die Lehre bzw. wie wird das Themengebiet dogmatisch aufbereitet?]
+> TYP: Gesetzgeberischer Zweck / Revisionsmotiv / Lehrmeinung Auslegung / Lehrkritik an Gerichtspraxis
+> KERNAUSSAGE: [2–4 Sätze: Welcher Zweck/welche Idee wurde verfolgt? Welche Auslegung vertritt die Lehre bzw. welche Kritik wird an der Rechtsprechung geübt?]
 > FUNDSTELLE_BBL_ODER_URL: [BBl-Zitat mit genauer Seitenzahl bzw. DOI/OA-URL der Publikation]
 > RELEVANT FÜR: [Bedeutung / Normzweck / Absatz / Tatbestandsmerkmal]
 > ```
@@ -653,7 +663,7 @@ revisions:
   sind die Erwägungen, Missstände und Ziele der Gesetzesänderung darzulegen. Dies bildet das Fundament für
   die teleologische Auslegung der Tatbestandsmerkmale. Es gilt strikt Regel R4: Niemals über den Normzweck
   spekulieren; Aussagen zum Zweck stets mit authentischen Botschaftserwägungen (BBl-Fundstelle und Link) belegen.
-- **Lehrmeinungen und Behandlung des Themengebiets in der Lehre**: Es ist stets zwingend zu prüfen, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder ob das Themengebiet von der Lehre behandelt wird (mittels `find_scholarship_citing_statute`, `search_scholarship`, `get_commentary`, `search_commentaries`, `get_doctrine`). Bestehen Auslegungsdivergenzen, Kritik an Gerichtsentscheiden, dogmatische Vertiefungen von Tatbestandsmerkmalen oder Lücken in der Rechtsprechung, sind die Auffassungen der Schweizer Rechtswissenschaft mit präziser Fundstelle (und Verlinkung bei OA-Quellen) substanziell in die Kommentierung und den Abschnitt «Literatur» einzuarbeiten.
+- **Lehrmeinungen und Behandlung des Themengebiets in der Lehre**: Es ist stets zwingend zu prüfen, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder ob das Themengebiet von der Lehre behandelt wird (mittels `find_scholarship_citing_statute`, `search_scholarship`, `get_commentary`, `search_commentaries`, `get_doctrine`). **Insbesondere sind Lehrmeinungen aufzunehmen, welche eine gerichtliche Praxis kritisieren.** Wo Autoren Urteile als verfehlt, unbillig, formalistisch oder teleologisch unhaltbar beurteilen oder Praxisänderungen anregen, sind diese Kritikpunkte und Gegenargumente mit präziser Fundstelle (und Verlinkung bei OA-Quellen) substanziell in die Kommentierung und den Abschnitt «Literatur» einzuarbeiten.
 - **Kasuistik**: Konkrete Fallkonstellationen aus der Praxis, soweit vorhanden
 - **Sprache**: Deutsch, konzis, praxisnah
 - **Belegtheit**: Kein Satz mit Beleg, der nicht durch die Belegprüfung gelaufen ist
@@ -913,6 +923,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 - [ ] Gesetzgeberische Ideen und Zwecke der Bestimmung (Schaffung und allfällige Revisionen) via `get_article_purpose`, `get_article_history` oder `get_materialien` eruiert und in «Bedeutung und gesetzgeberischer Zweck» eingearbeitet?
 - [ ] Regel R4 eingehalten: Keine freie Spekulation über Gesetzeszweck/Teleologie, sondern Beleg durch authentische Botschaftserwägungen (BBl-Fundstelle und Link)?
 - [ ] Lehrmeinungen zur Auslegung des fraglichen Artikels sowie die Behandlung des Themengebiets in der Lehre geprüft (via `find_scholarship_citing_statute`, `search_scholarship`, `get_commentary`, `search_commentaries`, `get_doctrine`) und relevante Positionen im Text und unter «Literatur» eingearbeitet?
+- [ ] **Gezielt nach Judikaturkritik der Lehre gesucht**: Wurde geprüft, ob Lehrmeinungen die bestehende gerichtliche Praxis kritisieren, und wurden diese Kritikpunkte und alternativen Ansätze im Kommentar dargestellt?
 - [ ] Rechtsprechung in absteigender Hierarchie (BGE → BGer → kantonal)?
 - [ ] Hugo-Build erfolgreich?
 
