@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 147 StPO"
 weight: 147
 date: "2026-05-24"
-lastmod: "2026-10-15"
-description: "Systematische Rechtsprechungsübersicht zu Art. 147 StPO (Teilnahmerechte, Konfrontationsanspruch, Verwertungsverbote, materieller Beschuldigtenstatus und Wiederholungsverlangen)."
-tags: ["Rechtsprechung", "StPO", "Teilnahmerecht", "Konfrontationsrecht", "Verwertungsverbot", "Parteiöffentlichkeit", "materieller Beschuldigtenstatus"]
+lastmod: "2026-11-07"
+description: "Systematische Rechtsprechungsübersicht zu Art. 147 StPO (Teilnahmerechte, Konfrontationsanspruch, Verwertungsverbote, kritische Lehre, materieller Beschuldigtenstatus und Wiederholungsverlangen)."
+tags: ["Rechtsprechung", "StPO", "Teilnahmerecht", "Konfrontationsrecht", "Verwertungsverbot", "Parteiöffentlichkeit", "materieller Beschuldigtenstatus", "Lehrmeinungen"]
 revisions:
+  - date: 2026-11-07
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung der Lehrmeinungen und Urteilskritik der Doktrin zu BGE 150 IV 345 (Übernahme der Kritik der Lehre am Heilungskonzept), BGE 140 IV 172 (Kritik am «Trennungstrick»), BGE 144 I 253 / LGVE 2014 I Nr. 16 (Kritik am Ausschluss der Verteidigung bei Begutachtungen)."
   - date: 2026-10-15
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -30,6 +34,7 @@ revisions:
 **Unverwertbarkeit von Einvernahmen ohne Teilnahmerecht auch nach rechtskonformer Wiederholung; Praxisänderung**
 - **Sachverhalt**: Zwei Lenker lieferten sich in Dietikon mit einem Porsche 911 Turbo und einem BMW 328i ein verbotenes Beschleunigungsrennen im Innerortsbereich, gefilmt von einem Mitbeteiligten auf dem Rücksitz. Die Staatsanwaltschaft führte delegierte polizeiliche und eigene Einvernahmen der Mitbeschuldigten durch, ohne dem Porsche-Fahrer oder dessen Verteidiger die Teilnahme zu gewähren. Die Vorinstanz stützte den Schuldspruch auf das Video und bejahte die Verwertbarkeit über die Aussagen der Mitbeschuldigten, da an der erstinstanzlichen Hauptverhandlung eine Konfrontation stattgefunden habe.
 - **Kernaussage**: Eine Einvernahme, an der das Teilnahmerecht nach Art. 147 Abs. 1 StPO unzulässigerweise nicht gewährleistet war und die gemäss Art. 147 Abs. 4 StPO unverwertbar ist, bleibt auch nach einer späteren Wiederholung oder hinreichenden Konfrontation weiterhin absolut unverwertbar. Eine spätere Konfrontation heilt frühere Mängel nicht; verwertbar ist ausschliesslich das in der neuen Befragung frei Ausgesagte. Wörtliche Vorhalte aus dem früheren Protokoll sind unzulässig (E. 1.6.7).
+- **Lehrmeinung & Urteilskritik**: Das Bundesgericht schloss sich mit dieser Praxisänderung ausdrücklich der jahrelangen Kritik der Lehre (Christen, Godenzi, Guisan, Schleiminger/Schaffner, Wohlers, Engel, Schär, Ruckstuhl) an, welche die frühere Rechtsprechung zur «Heilung» als unvereinbar mit dem Wortlaut und Normzweck von Art. 147 Abs. 4 StPO gerügt hatte. Zurückhaltend bis skeptisch bleibt ein Teil der Lehre hinsichtlich der praktischen Tauglichkeit von Wiederholungen: Noll postuliert den unbewussten psychologischen «Verbrauch» des Zeugen, der an seiner Erstaussage festhalte, weshalb eine strikte physische Aktenaussonderung (Art. 141 Abs. 5 StPO) unverzichtbar ist.
 - **Einschlägig für**: Art. 147 Abs. 1 und 4 StPO; Art. 6 Ziff. 3 lit. d EMRK.
 
 ---
@@ -54,6 +59,7 @@ revisions:
 **Kein Anspruch auf Parteiöffentlichkeit in getrennt geführten Verfahren**
 - **Sachverhalt**: Gegen mehrere Tatbeteiligte wurden getrennte Strafuntersuchungen geführt. Die Beschwerdeführerin rügte, sie habe an den Beweiserhebungen im abgetrennten Verfahren gegen die Mittäter nicht teilnehmen können.
 - **Kernaussage**: Der Anspruch auf Teilnahme an Beweiserhebungen gemäss Art. 147 Abs. 1 StPO gilt nicht in getrennt geführten Verfahren gegen andere Personen, da dort die Parteistellung fehlt (E. 1.2). Die Verwertbarkeit solcher Akten richtet sich nach dem konventionsrechtlichen Konfrontationsanspruch (Art. 6 Ziff. 3 lit. d EMRK).
+- **Lehrmeinung & Urteilskritik**: BGE 140 IV 172 wird in der Lehre nahezu einhellig scharf kritisiert (Godenzi, Bommer, Wohlers, Geth, Schleiminger/Schaffner): Die Verweigerung von Teilnahmerechten schaffe einen Fehlanreiz zur verfahrenstaktischen Trennung («Trennungstrick»), um Tatbeteiligte ohne Mitwirkung der Gegenpartei einzuvernehmen, was den gesetzlichen Regelfall der Verfahrenseinheit (Art. 29 StPO) aushöhle.
 - **Einschlägig für**: Art. 147 Abs. 1 StPO, Art. 30 StPO, Art. 104 StPO.
 
 ---
@@ -170,7 +176,8 @@ revisions:
 ### [Kantonsgericht Luzern 2N 14 83](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-83_2014-08-12.html) (LGVE 2014 I Nr. 16) — 12. August 2014
 **Kein Anwesenheitsrecht der Verteidigung bei psychiatrischer Begutachtung**
 - **Sachverhalt**: In einem Strafverfahren wegen Sexualdelikten beantragte der Verteidiger, bei der psychiatrischen Exploration seines Mandanten durch den Gutachter anwesend sein zu dürfen.
-- **Kernaussage**: Art. 147 StPO gilt nur für Beweiserhebungen von Justizbehörden, nicht für die Entstehung von Sachverständigengutachten (Art. 182 ff. StPO). Die Anwesenheit eines Verteidigers würde die fachliche Interaktion verfälschen; die Verteidigungsrechte sind durch Art. 184 Abs. 3 und Art. 188 f. StPO ausreichend gewahrt.
+- **Kernaussage**: Art. 147 StPO gilt nur für Beweiserhebungen von Justizbehörden, nicht für die Entstehung von Sachverständigengutachten (Art. 182 ff. StPO; bestätigt in [BGE 144 I 253 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-253_2018.html#consideration_3.)). Die Anwesenheit eines Verteidigers würde die fachliche Interaktion verfälschen; die Verteidigungsrechte sind durch Art. 184 Abs. 3 und Art. 188 f. StPO ausreichend gewahrt.
+- **Lehrmeinung & Urteilskritik**: Die Ablehnung eines Teilnahmerechts der Verteidigung bei psychiatrischen Explorationen wird in der Lehre (Urwyler, Bernard, Binder, Studer) scharf kritisiert. Im modernen Massnahmenrecht entscheidet die psychiatrische Legalprognose faktisch über potenziell lebenslange Freiheitsentzüge (Art. 59 StGB); ohne Teilnahmerecht oder zumindest zwingende Videoaufzeichnung bleibe die Tatsachenerhebung der Begutachtung für die Verteidigung eine unkontrollierbare Blackbox, was Art. 6 Ziff. 1 und 3 lit. d EMRK verletze.
 
 ---
 
