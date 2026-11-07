@@ -31,6 +31,13 @@ tools:
   - mcp_opencaselaw_search_botschaft
   - mcp_opencaselaw_get_materialien
   - mcp_opencaselaw_search_materialien
+  - mcp_opencaselaw_search_scholarship
+  - mcp_opencaselaw_find_scholarship_citing_statute
+  - mcp_opencaselaw_find_scholarship_citing_decision
+  - mcp_opencaselaw_get_scholarship
+  - mcp_opencaselaw_get_scholarship_full_text
+  - mcp_opencaselaw_search_commentaries
+  - mcp_opencaselaw_list_scholarship_sources
   - write_file
   - terminal
   - agent
@@ -60,15 +67,16 @@ Create a new commentary from scratch or comprehensively update an existing one.
 1. INIT (→ Teil B, Abschnitt 1)
 2. GESETZESTEXT abrufen und als Daten ablegen: `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` (→ Teil B, Abschnitt 2)
 3. GESETZGEBERISCHE IDEEN & ZWECKE ERMITTELN — Materialien zur Schaffung und zu allfälligen Revisionen via `get_article_purpose`, `get_article_history`, `get_materialien` analysieren (→ Teil B, Abschnitt 2b)
-4. RECHERCHE — parallele Subagenten-Recherche nach Rechtsprechung, Materialien und Lehre (→ Teil B, Abschnitt 3)
-5. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
-6. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext bzw. die Botschaft (→ Teil D.1)
-7. KOMMENTAR schreiben/ergänzen (→ Teil C) — inklusive Entstehungsgeschichte, Ratio Legis und Revisionsmotiven
-8. **SCHLUSSATTEST** — Audit-Lauf über das fertige Bundle (→ Teil D.3)
-9. QUALITÄTSKONTROLLE — Checklisten (→ Teil D.4)
-10. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
+4. LEHRMEINUNGEN & THEMENBEHANDLUNG IN DER LEHRE PRÜFEN — Abklärung, ob Lehrmeinungen zur Auslegung des Artikels bestehen oder das Themengebiet in der Lehre behandelt wird (→ Teil B, Abschnitt 2c)
+5. RECHERCHE — parallele Subagenten-Recherche nach Rechtsprechung, Materialien und Lehrmeinungen (→ Teil B, Abschnitt 3)
+6. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
+7. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext bzw. die Botschaft (→ Teil D.1)
+8. KOMMENTAR schreiben/ergänzen (→ Teil C) — inklusive Entstehungsgeschichte, Ratio Legis, Revisionsmotiven sowie massgeblicher Lehrmeinungen zur Auslegung und Themenbehandlung
+9. **SCHLUSSATTEST** — Audit-Lauf über das fertige Bundle (→ Teil D.3)
+10. QUALITÄTSKONTROLLE — Checklisten (→ Teil D.4)
+11. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
 
-> Schritt 6 und 8 sind **nicht optional**. Was davon erledigt ist, hält die `note` der Revision fest (→ Teil D.5).
+> Schritt 7 und 9 sind **nicht optional**. Was davon erledigt ist, hält die `note` der Revision fest (→ Teil D.5).
 
 ---
 
@@ -108,6 +116,8 @@ Continuously research which topics and decisions are still **missing** from the 
 │     - Absätze ohne Rechtsprechung                     │
 │     - Gesetzgeberische Ideen/Zwecke eingearbeitet?   │
 │     - Revisionsmotive (falls geändert) dokumentiert?  │
+│     - Lehrmeinungen zur Auslegung des Artikels da?    │
+│     - Wird das Themengebiet von der Lehre behandelt?  │
 │     - Fehlende Kasuistik zu Kerntatbeständen          │
 │     - Konventionsrechtliche Aspekte (EMRK/EGMR)?      │
 │     - Gesetzesmaterialien eingearbeitet?              │
@@ -118,10 +128,11 @@ Continuously research which topics and decisions are still **missing** from the 
 │  3. PRIORISIERUNG                                     │
 │     (a) Fehlende BGer-Leitentscheide (höchste Prio)  │
 │     (b) Gesetzgeberischer Zweck / Revisionsmotive     │
-│     (c) Unkommentierte Absätze                        │
-│     (d) Fehlende Kasuistik                            │
-│     (e) EMRK/Konventionsrecht                         │
-│     (f) Materialien und Lehre                         │
+│     (c) Lehrmeinungen zur Auslegung / Themenbehandlung│
+│     (d) Unkommentierte Absätze                        │
+│     (e) Fehlende Kasuistik                            │
+│     (f) EMRK/Konventionsrecht                         │
+│     (g) Materialien und Schrifttum                    │
 │     → Top 1–3 Lücken für diese Runde auswählen        │
 │                                                       │
 │  4. GEZIELTE SUBAGENTEN-RECHERCHE                     │
@@ -313,7 +324,60 @@ gewollt, damit kein leerer Wortlaut-Abschnitt live geht.
 
 ---
 
-## 3. RECHERCHE — Subagenten für Rechtsprechung und Materialien
+## 2c. LEHRMEINUNGEN UND BEHANDLUNG DES THEMENGEBIETS IN DER LEHRE
+
+> **Verbindliche Prüfung der wissenschaftlichen Lehre (Doktrin & Scholarship):**
+> Neben Gesetzesmaterialien und Rechtsprechung ist für jeden Artikel zwingend zweierlei zu prüfen:
+> 1. **Bestehen Lehrmeinungen zur Auslegung des fraglichen Artikels?**
+>    - Wie legen Standardkommentare und wissenschaftliche Autoren die Norm und ihre Tatbestandsmerkmale aus?
+>    - Gibt es abweichende Auslegungsansätze, Kritik an der Rechtsprechung des Bundesgerichts oder ungelöste dogmatische Streitpunkte?
+> 2. **Wird das Themengebiet von der Lehre behandelt?**
+>    - Behandelt die rechtswissenschaftliche Literatur das spezifische Sachgebiet, das Rechtsinstitut oder die Streitfrage (z.B. in Zeitschriftenaufsätzen, Dissertationen, Monografien)?
+>    - Liefert die Doktrin Kriterienkataloge, Systematisierungen oder praxisrelevante Lösungsvorschläge?
+
+### Werkzeuge in opencaselaw:
+
+1. **`find_scholarship_citing_statute` (Artikel-Zitationen in der Lehre):**
+   Findet Open-Access-Literatur (Zeitschriften, Dissertationen, Monografien) sowie artikelverankerte Kommentare (OnlineKommentar, OpenLegalCommentary), die den konkreten Gesetzesartikel zitieren.
+   ```
+   mcp_opencaselaw_find_scholarship_citing_statute: { "sr_number": "{SRNR}", "article": "{N}" }
+   ```
+
+2. **`get_commentary` und `search_commentaries` (Gesetzeskommentare):**
+   Ruft artikelbezogene Kommentare ab (OnlineKommentar.ch unter CC-BY-4.0, OpenLegalCommentary.ch, kantonale Kommentare) bzw. durchsucht Kommentarbestände nach Begriffen:
+   ```
+   mcp_opencaselaw_get_commentary: { "abbreviation": "{ABBREV}", "article": "{N}" }
+   mcp_opencaselaw_search_commentaries: { "abbreviation": "{ABBREV}", "query": "{Begriff}" }
+   ```
+
+3. **`get_doctrine` (Kompakte Doktrin- und Entwicklungssynthese):**
+   Liefert zu einer Norm oder einem Rechtsbegriff die Doktrinentwicklung, Leitentscheide, Botschaft und Kommentarauszüge in einem Lookup:
+   ```
+   mcp_opencaselaw_get_doctrine: { "query": "Art. {N} {ABBREV}" }
+   ```
+
+4. **`search_scholarship` (Thematische Literatursuche im OA-Gesamtkorpus):**
+   Durchsucht über 51'000 Schweizer OA-Rechtspublikationen (ZORA, BORIS, Archive ouverte UNIGE, Alexandria UniSG, sui generis, medialex, e-periodica etc.) nach Themengebieten, Instituten, Autoren oder Rechtsfragen:
+   ```
+   mcp_opencaselaw_search_scholarship: { "query": "{Themenbegriff} {ABBREV}" }
+   ```
+
+5. **`find_scholarship_citing_decision` (Wissenschaftliche Besprechung von Leitentscheiden):**
+   Ermittelt wissenschaftliche Abhandlungen und Urteilsbesprechungen zu einem wegweisenden Urteil:
+   ```
+   mcp_opencaselaw_find_scholarship_citing_decision: { "decision_id": "{DECISION_ID}" }
+   ```
+
+6. **`get_scholarship` und `get_scholarship_full_text` (Volltextanalyse):**
+   Liefert Detailmetadaten oder den lizenzierten Volltext (z.B. CC-BY) einer Publikation zur Verifikation der Lehransichten:
+   ```
+   mcp_opencaselaw_get_scholarship: { "pub_id": "{PUB_ID}" }
+   mcp_opencaselaw_get_scholarship_full_text: { "pub_id": "{PUB_ID}" }
+   ```
+
+---
+
+## 3. RECHERCHE — Subagenten für Rechtsprechung, Materialien und Lehre
 
 Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeitig.
 
@@ -396,9 +460,9 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 >
 > VERLINKUNG: Alle Entscheide und Gesetze müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern möglich.
 
-### Subagent-Vorlage C: Materialien, gesetzgeberischer Zweck und Lehre
+### Subagent-Vorlage C: Materialien, gesetzgeberischer Zweck und Lehrmeinungen
 
-> **Aufgabe**: Eruiere die gesetzgeberischen Ideen, Zwecke und Motive bei der Schaffung von Art. {N} {ABBREV} sowie bei allfälligen späteren Gesetzesänderungen anhand der amtlichen Gesetzesmaterialien. Recherchiere zudem (soweit für Kontroversen relevant) das Schrifttum.
+> **Aufgabe**: Eruiere die gesetzgeberischen Ideen, Zwecke und Motive bei der Schaffung von Art. {N} {ABBREV} sowie bei allfälligen späteren Gesetzesänderungen anhand der amtlichen Gesetzesmaterialien. Prüfe zudem zwingend, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder ob das spezifische Themengebiet von der Lehre behandelt wird.
 >
 > **Gesetzgeberischer Zweck & Materialien** (immer zwingend durchführen):
 > 1. `get_article_purpose` mit sr_number="{SRNR}", article="{N}":
@@ -410,20 +474,27 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 > 4. `search_botschaft` mit query="Art. {N} {ABBREV}":
 >    Für gezielte Detailfragen oder Beratungsdiskussionen im Parlament.
 >
-> **Lehre** (nur recherchieren wenn keine Rspr. existiert oder eine Kontroverse aufzubereiten ist):
-> - `get_commentary` mit abbreviation="{ABBREV}", article="{N}"
-> - `get_doctrine` mit query="Art. {N} {ABBREV}"
+> **Lehrmeinungen & Themenbehandlung in der Lehre** (immer zwingend durchführen):
+> 1. *Prüfung auf Lehrmeinungen zur Auslegung des Artikels:*
+>    - `find_scholarship_citing_statute` mit sr_number="{SRNR}", article="{N}": Findet zitierende OA-Aufsätze und Kommentare.
+>    - `get_commentary` mit abbreviation="{ABBREV}", article="{N}": Bestehende Gesetzeskommentierungen abrufen.
+>    - `search_commentaries` mit abbreviation="{ABBREV}", query="...": Spezifische Fragen in Kommentaren suchen.
+>    - `get_doctrine` mit query="Art. {N} {ABBREV}": Doktrinüberblick und Entwicklungslinie.
+> 2. *Prüfung, ob das Themengebiet von der Lehre behandelt wird:*
+>    - `search_scholarship` mit query="{Thema / Rechtsinstitut} {ABBREV}": Wissenschaftliche Publikationen zum Sachbereich ermitteln.
+>    - `find_scholarship_citing_decision` mit decision_id="{DECISION_ID}": Lehrmeinungen zu wegweisenden Urteilen der Rechtsprechung.
+>    - `get_scholarship` und `get_scholarship_full_text`: Volltextabruf für fundierte Lehrargumente.
 >
 > **Ausgabeformat:**
 > ```
-> QUELLE: [Botschaft BBl ... / Kommentar-Autor, Werk, N/S.]
-> TYP: Gesetzgeberischer Zweck / Revisionsmotiv / Lehre
-> KERNAUSSAGE: [2–4 Sätze: Welcher Zweck/welche Idee wurde verfolgt? Warum wurde die Norm erlassen oder geändert?]
-> FUNDSTELLE_BBL: [BBl-Zitat mit genauer Seitenzahl, z.B. BBl 2006 1085, S. 1120]
+> QUELLE: [Botschaft BBl ... / Kommentar-Autor, Werk, N/S. / Autor, Aufsatztitel, Zeitschrift/Jahr, S.]
+> TYP: Gesetzgeberischer Zweck / Revisionsmotiv / Lehrmeinung Auslegung / Lehrmeinung Themengebiet
+> KERNAUSSAGE: [2–4 Sätze: Welcher Zweck/welche Idee wurde verfolgt? Welche Auslegung vertritt die Lehre bzw. wie wird das Themengebiet dogmatisch aufbereitet?]
+> FUNDSTELLE_BBL_ODER_URL: [BBl-Zitat mit genauer Seitenzahl bzw. DOI/OA-URL der Publikation]
 > RELEVANT FÜR: [Bedeutung / Normzweck / Absatz / Tatbestandsmerkmal]
 > ```
 >
-> VERLINKUNG: Alle Quellen (Botschaften mit Fedlex-Link, Kommentare, Entscheide) müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern eine URL verfügbar ist.
+> VERLINKUNG: Alle Quellen (Botschaften mit Fedlex-Link, Kommentare, wissenschaftliche Artikel) müssen auf die Originalquelle verlinkt werden (Markdown-Link), sofern eine URL verfügbar ist.
 
 ---
 
@@ -560,7 +631,7 @@ revisions:
 
 ## Literatur
 
-{Hinweise auf Kommentarliteratur, falls get_commentary Ergebnisse liefert}
+{Nachweis massgebender Kommentare, Aufsätze und Monografien, die sich mit der Auslegung des Artikels oder dem spezifischen Themengebiet befassen (aus find_scholarship_citing_statute, search_scholarship, get_commentary)}
 ```
 
 ## Inhaltliche Grundsätze
@@ -582,7 +653,7 @@ revisions:
   sind die Erwägungen, Missstände und Ziele der Gesetzesänderung darzulegen. Dies bildet das Fundament für
   die teleologische Auslegung der Tatbestandsmerkmale. Es gilt strikt Regel R4: Niemals über den Normzweck
   spekulieren; Aussagen zum Zweck stets mit authentischen Botschaftserwägungen (BBl-Fundstelle und Link) belegen.
-- **Lehre**: Nur wenn keine Rspr. existiert oder eine Kontroverse dokumentiert werden muss
+- **Lehrmeinungen und Behandlung des Themengebiets in der Lehre**: Es ist stets zwingend zu prüfen, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder ob das Themengebiet von der Lehre behandelt wird (mittels `find_scholarship_citing_statute`, `search_scholarship`, `get_commentary`, `search_commentaries`, `get_doctrine`). Bestehen Auslegungsdivergenzen, Kritik an Gerichtsentscheiden, dogmatische Vertiefungen von Tatbestandsmerkmalen oder Lücken in der Rechtsprechung, sind die Auffassungen der Schweizer Rechtswissenschaft mit präziser Fundstelle (und Verlinkung bei OA-Quellen) substanziell in die Kommentierung und den Abschnitt «Literatur» einzuarbeiten.
 - **Kasuistik**: Konkrete Fallkonstellationen aus der Praxis, soweit vorhanden
 - **Sprache**: Deutsch, konzis, praxisnah
 - **Belegtheit**: Kein Satz mit Beleg, der nicht durch die Belegprüfung gelaufen ist
@@ -841,6 +912,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 - [ ] `## Gesetzeswortlaut` enthält `{{< wortlaut >}}` und `data/wortlaut/{gesetz}/art-{NNN}.json` existiert?
 - [ ] Gesetzgeberische Ideen und Zwecke der Bestimmung (Schaffung und allfällige Revisionen) via `get_article_purpose`, `get_article_history` oder `get_materialien` eruiert und in «Bedeutung und gesetzgeberischer Zweck» eingearbeitet?
 - [ ] Regel R4 eingehalten: Keine freie Spekulation über Gesetzeszweck/Teleologie, sondern Beleg durch authentische Botschaftserwägungen (BBl-Fundstelle und Link)?
+- [ ] Lehrmeinungen zur Auslegung des fraglichen Artikels sowie die Behandlung des Themengebiets in der Lehre geprüft (via `find_scholarship_citing_statute`, `search_scholarship`, `get_commentary`, `search_commentaries`, `get_doctrine`) und relevante Positionen im Text und unter «Literatur» eingearbeitet?
 - [ ] Rechtsprechung in absteigender Hierarchie (BGE → BGer → kantonal)?
 - [ ] Hugo-Build erfolgreich?
 
@@ -949,8 +1021,14 @@ zusätzlich `/audit {gesetz} art-{NNN}` laufen lassen.
 | `search_botschaft` | Botschaften / Materialien Volltextsuche | Entstehungsgeschichte, Beratungsdetails |
 | `get_materialien` | Materialien-Übersicht & Vernehmlassungen | Fundstellen (BBl), Erläuternde Berichte |
 | `search_materialien` | FTS-Suche in Materialien | Thematische Materialiensuche |
-| `get_commentary` | OnlineKommentar | Lehrrecherche |
-| `get_doctrine` | Lehrmeinungen | Annotationen |
+| `find_scholarship_citing_statute` | OA-Literatur & Kommentare zu einer Norm | **Lehrmeinungen zur Auslegung eines Artikels** |
+| `search_scholarship` | Volltextsuche OA-Lehre (51k+ Records) | **Themenbehandlung in der Schweizer Lehre** |
+| `find_scholarship_citing_decision` | Literatur zu einem Entscheid | Urteilsbesprechungen & Kritik der Lehre |
+| `get_scholarship` / `...full_text` | Detailmetadaten / Volltext einer Publikation | Vertiefung & Argumentanalyse der Lehre |
+| `get_commentary` | OnlineKommentar / OpenLegalCommentary | Lehrrecherche zu Gesetzesartikeln |
+| `search_commentaries` | FTS-Suche in Gesetzeskommentaren | Suche über BV-, Bundes- & Kantonskommentare |
+| `get_doctrine` | Lehrmeinungen & Doktrinverlauf | Annotationen & Doktrinentwicklung |
+| `list_scholarship_sources` | Übersicht aller indexierten OA-Quellen | Entdeckung verfügbarer Repositorien/Zeitschriften |
 | `cite` | Zitierung auflösen, `close_matches` | Existenz prüfen, Zitierstring holen |
 | `get_decision_structure` | vorhandene Erwägungsnummern | **Pinpoint statt raten** |
 | `get_article_history` | Revisionen einer Norm | Aktualität alter Belege |

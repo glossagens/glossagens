@@ -16,6 +16,14 @@ tools:
   - mcp_opencaselaw_get_article_history
   - mcp_opencaselaw_get_materialien
   - mcp_opencaselaw_search_botschaft
+  - mcp_opencaselaw_find_scholarship_citing_statute
+  - mcp_opencaselaw_find_scholarship_citing_decision
+  - mcp_opencaselaw_search_scholarship
+  - mcp_opencaselaw_get_scholarship
+  - mcp_opencaselaw_get_scholarship_full_text
+  - mcp_opencaselaw_search_commentaries
+  - mcp_opencaselaw_get_commentary
+  - mcp_opencaselaw_get_doctrine
 metadata:
   glossagens:
     category: legal-commentary-style
@@ -84,9 +92,10 @@ Vor dem Schreiben wird die Norm zerlegt:
 
 1. **Wortlaut verbatim aus Fedlex** holen, Absatz für Absatz (nie aus dem Gedächtnis). Im Artikel steht er nur als `{{< wortlaut >}}` (Daten: `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}`).
 2. **Gesetzgeberische Ideen und Zwecke eruieren**: Vor dem Aufstellen der Merkmale ist zwingend anhand der Gesetzesmaterialien (`get_article_purpose`, `get_article_history`, `get_materialien`) zu klären, welche gesetzgeberischen Ideen, Zwecke und Motive (Ratio Legis) der Norm bei ihrer Schaffung und bei allfälligen Revisionen zugrunde lagen. Erst der Normzweck ermöglicht die sachgerechte teleologische Auslegung unbestimmter Rechtsbegriffe und bildet das Fundament für die spätere Grenzkasuistik (warum ein Lebenssachverhalt noch oder nicht mehr unter den Schutzzweck der Norm fällt).
-3. **Merkmale herausschälen und in Prüfungsreihenfolge nummerieren**: Geltungsbereich/Anwendbarkeit vor dem Tatbestand; objektive vor subjektiven Merkmalen; Grundtatbestand vor Qualifikation und Privilegierung; Tatbestand vor Rechtsfolge; Ausnahmen und Gegenausnahmen zuletzt. Ungeschriebene Merkmale, die Praxis und Lehre entwickelt haben (z.B. ungeschriebene Missbrauchstatbestände, Kausalität, Verhältnismässigkeit), gehören mit ausdrücklichem Vermerk ihrer Herkunft in denselben Katalog.
-4. **Zu jedem Merkmal festhalten**: Wer trägt die Behauptungs- und Beweislast, welches Beweismass gilt (siehe Regel 5)?
-5. **Den Katalog als Prüfschema-Tabelle** an den Anfang des Kommentars stellen. Sie ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile der Tabelle findet sich als Abschnittsüberschrift wieder, in derselben Reihenfolge.
+3. **Lehrmeinungen und Behandlung des Themengebiets in der Lehre prüfen**: Zwingend ist zudem abzuklären, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen (`find_scholarship_citing_statute`, `get_commentary`, `get_doctrine`) oder ob das Themengebiet von der Lehre behandelt wird (`search_scholarship`, `find_scholarship_citing_decision`). Wo die Rechtswissenschaft abweichende Auslegungsansätze vertritt, Kritik an Bundesgerichtsurteilen übt, Lücken der Rechtsprechung schliesst oder Schwellenwerte dogmatisch präzisiert, fliessen diese wissenschaftlichen Erkenntnisse in die Merkmalsabgrenzung und Auslegung ein.
+4. **Merkmale herausschälen und in Prüfungsreihenfolge nummerieren**: Geltungsbereich/Anwendbarkeit vor dem Tatbestand; objektive vor subjektiven Merkmalen; Grundtatbestand vor Qualifikation und Privilegierung; Tatbestand vor Rechtsfolge; Ausnahmen und Gegenausnahmen zuletzt. Ungeschriebene Merkmale, die Praxis und Lehre entwickelt haben (z.B. ungeschriebene Missbrauchstatbestände, Kausalität, Verhältnismässigkeit), gehören mit ausdrücklichem Vermerk ihrer Herkunft in denselben Katalog.
+5. **Zu jedem Merkmal festhalten**: Wer trägt die Behauptungs- und Beweislast, welches Beweismass gilt (siehe Regel 5)?
+6. **Den Katalog als Prüfschema-Tabelle** an den Anfang des Kommentars stellen. Sie ist zugleich das Inhaltsverzeichnis der Kommentierung: Jede Zeile der Tabelle findet sich als Abschnittsüberschrift wieder, in derselben Reihenfolge.
 
 ### 3.2 Die Kasuistik folgt dem Merkmalskatalog
 
@@ -321,13 +330,13 @@ content/kommentar/{gesetz}/art-{nr}/
    - Bei komplexen Normen: Eine vorangestellte Übersichtstabelle («Die Tatbestände auf einen Blick»).
    - **Quelle Themen**: Vor dem Schreiben die Themen lesen, die den Artikel in `normen` führen (`grep -l "gesetz: {gesetz}, art: art-{NNN} }" content/themen/*/_index.md` bzw. `https://glossagens.ch/themen/index.json` → `normen`). Sie liefern systematische Stellung, Abgrenzungen und Leitentscheide für Überblick und Kasuistik — aber keinen Beleg: Übernommenes wird gegen den Entscheid selbst geprüft und dorthin verlinkt (Regel 7). Den übergreifenden Zusammenhang nicht nacherzählen, sondern auf den Abschnittsanker des Themas verweisen.
 3. **Überblick und Bedeutung**:
-   - 1–2 Absätze zu systematischer Stellung, Regelungsgegenstand und Zweck der Norm sowie zu den Interessen, die sie ausgleicht. Keine Hinführung über die praktische Brisanz, keine Metaphern (Abschnitt 4.1).
+   - 1–2 Absätze zu systematischer Stellung, Regelungsgegenstand und Zweck der Norm sowie zu den Interessen, die sie ausgleicht. Einbezug der massgeblichen Lehrmeinungen zur Auslegung und teleologischen Tragweite. Keine Hinführung über die praktische Brisanz, keine Metaphern (Abschnitt 4.1).
    - **Prüfschema / Schichten-Tabelle**: der Merkmalskatalog nach Abschnitt 3.1 — Prüfungsreihenfolge der Tatbestandsmerkmale und Beweislast je Merkmal. Diese Tabelle ist zugleich das Inhaltsverzeichnis der nachfolgenden Kommentierung.
    - Zentrale Leitentscheide im wörtlichen Zitat.
 4. **Kommentierung (Abschnitte A, B, C...)**:
    - Gliederung **entlang der Tatbestandsmerkmale** in der Reihenfolge des Prüfschemas (siehe Abschnitt 3.2) — nicht nach Urteilen, Gerichten, Jahrgängen oder Fallgeschichten. Die Absatzgliederung der Norm ist dabei nur der Ausgangspunkt: Trägt ein Absatz mehrere Merkmale, erhält jedes seinen eigenen Abschnitt.
    - Jeder Abschnitt enthält, in dieser Reihenfolge:
-     - **Was das Merkmal verlangt** — dogmatische Grundlinie in ein bis drei Sätzen, vor jeder Fallschilderung (siehe Abschnitt 3.2).
+     - **Was das Merkmal verlangt** — dogmatische Grundlinie in ein bis drei Sätzen nach Praxis und Lehre (inkl. Lehrstreitigkeiten / Auslegungsansätzen), vor jeder Fallschilderung (siehe Abschnitt 3.2).
      - **Ausführliche Sachverhalte konkreter Urteile** (siehe Regel 1), je mit Rückbindung an das Merkmal.
      - **Gegenüberstellung angewandter vs. verworfener Fälle — bezogen auf dieses Merkmal** (siehe Regel 2).
      - **Offenlegung echter Judikaturwidersprüche ohne Scheinharmonisierung** (siehe Regel 3).
@@ -341,6 +350,8 @@ content/kommentar/{gesetz}/art-{nr}/
    - Hier — und nur hier — sind kurze, zugespitzte Sätze in direkter Ansprache und Befehlsform zulässig; das Wichtigste der gesamten Kommentierung wird in dieser Form zusammengefasst (Abschnitt 4.3).
    - Jeder Hinweis trägt seinen Entscheid- oder Normverweis mit Link und verdichtet ausschliesslich bereits Kommentiertes; keine neuen Rechtsfragen, keine unbelegten Empfehlungen.
    - Massstab sind die Abschnitte «Praxishinweise» der beiden Referenzmuster (Art. 110 StPO Ziff. H; Art. 336 OR Ziff. M).
+7. **Literatur**:
+   - Nachweis der massgebenden Kommentare, Monografien und Zeitschriftenbeiträge zur Norm und zum behandelten Themengebiet (inkl. Verlinkung der Open-Access-Publikationen).
 
 ---
 
@@ -357,6 +368,7 @@ Vor dem Commit ist der geschriebene Text gegen folgende Punkte zu prüfen:
 - [ ] **Widersprüche offengelegt**: Wurden echte Judikaturdivergenzen und Widersprüche zwischen Gerichten, Kammern oder im Zeitablauf klar benannt, anstatt sie künstlich über feine Sachverhaltsunterschiede wegzuerklären?
 - [ ] **Tabellarische Vergleiche**: Gibt es mindestens eine strukturierte Tabelle, die Grenzfälle oder gegensätzliche Gerichtsentscheide nebeneinanderstellt?
 - [ ] **Tabellen ohne Code-Fences**: Wurden alle Tabellen (Prüfschema, Kasuistik) direkt als reines Markdown (`| Spalte |`) ohne umschliessende ` ```markdown ` Codeblöcke eingefügt, damit Hugo sie als HTML-Tabelle rendert?
+- [ ] **Lehrmeinungen und Behandlung des Themengebiets in der Lehre**: Wurde geprüft, ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder das Themengebiet in der Lehre behandelt wird (mittels `find_scholarship_citing_statute`, `search_scholarship`, `get_commentary`, `get_doctrine`), und wurden wesentliche wissenschaftliche Positionen/Kritiken eingearbeitet?
 - [ ] **Prozessuale Voraussetzungen**: Werden Beweislast, Fristen, Verwirkung, Versehensnachweis oder Substanziierungsobliegenheiten explizit thematisiert?
 - [ ] **Wissenschaftlicher Duktus**: Ist der Text durchgehend nüchtern, unpersönlich und belegt — ohne reisserische Einleitung, Metaphern («Brücke», «Klippe», «Verfahrensschicksal», «Gegenspieler»), Dramatisierung, rhetorische Fragen oder unbelegte Wertungen (Abschnitt 4.1)?
 - [ ] **Sachliche Hinführung**: Führt der Kommentar — und jeder Abschnitt — über Regelungsgegenstand, Systematik und Zweck ein statt über die praktische Brisanz?
