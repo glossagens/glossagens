@@ -1,0 +1,31 @@
+gruppen:
+  - name: "Erster Abschnitt: Sachliche Zuständigkeit"
+    von: 1
+    bis: 3
+  - name: "Zweiter Abschnitt: Verwaltungsverfahren — Geltungsbereich und allgemeine Vorschriften"
+    von: 4
+    bis: 18
+  - name: "Zweiter Abschnitt: Verwaltungsverfahren — Rekurs"
+    von: 19
+    bis: 28
+  - name: "Zweiter Abschnitt: Verwaltungsverfahren — Vollstreckung"
+    von: 29
+    bis: 31
+  - name: "Dritter Abschnitt: Verwaltungsgerichtsbarkeit — Organisation"
+    von: 32
+    bis: 40
+  - name: "Dritter Abschnitt: Verwaltungsgerichtsbarkeit — Beschwerde"
+    von: 41
+    bis: 71
+  - name: "Dritter Abschnitt: Verwaltungsgerichtsbarkeit — Rekurs und Beschwerde in Steuersachen"
+    von: 72
+    bis: 80
+  - name: "Dritter Abschnitt: Verwaltungsgerichtsbarkeit — Klage"
+    von: 81
+    bis: 86
+  - name: "Fünfter Abschnitt: Ombudsperson"
+    von: 87
+    bis: 94
+  - name: "Sechster Abschnitt: Schluss- und Übergangsbestimmungen"
+    von: 95
+    bis: 103

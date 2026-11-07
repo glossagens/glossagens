@@ -276,6 +276,9 @@ vg:
 vrg-lu:
   standard: [verwaltungsverfahren]
 
+vrg-zh:
+  standard: [verwaltungsverfahren]
+
 vstrr:
   standard: [strafrecht]
   bereiche:

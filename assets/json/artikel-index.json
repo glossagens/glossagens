@@ -49,10 +49,11 @@
         {{- end -}}
       {{- end -}}
 
-      {{- if isset $laws $key -}}
+      {{- $dictKey := cond (eq $law.Params.ebene "kantonal") (printf "%s-%s" $key (lower ($law.Params.kanton | default ""))) $key -}}
+      {{- if and (ne $law.Params.ebene "kantonal") (isset $laws $dictKey) -}}
         {{- warnf "artikel-index: Kürzel %q doppelt vergeben — %q verdrängt einen anderen Erlass aus dem Sprungindex." $kuerzel $law.Title -}}
       {{- end -}}
-      {{- $laws = merge $laws (dict $key (dict
+      {{- $laws = merge $laws (dict $dictKey (dict
             "k" $kuerzel
             "n" ($law.Params.gesetz_name | default $law.Title)
             "u" $law.RelPermalink
