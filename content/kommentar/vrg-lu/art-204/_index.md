@@ -2,10 +2,14 @@
 title: "§ 204 — Unentgeltliche Rechtspflege"
 weight: 204
 date: 2026-05-24
-lastmod: 2026-11-07
+lastmod: 2026-11-08
 description: "Kommentar zu § 204 VRG LU – Unentgeltliche Rechtspflege: Befreiung von der Kostenpflicht, Anwaltsbeigabe, Nachzahlungspflicht"
 tags: ["VRG", "Unentgeltliche Rechtspflege", "Kosten", "Luzern"]
 revisions:
+  - date: 2026-11-08
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
+    note: "PR #58 geprüft und übernommen: Volltext-Abgleich der Entscheide zu § 204 VRG LU (B1–B17) verifiziert; Abschnitt VI (Verhältnis zum Kostenvorschuss) dogmatisch präzisiert und auf MPUD 1997/4 / A 11 49 E. 2c abgestimmt; verbliebene mcp.opencaselaw.ch-Links auf entscheidsuche.ch und HUDOC umgestellt."
   - date: 2026-11-07
     by: "Claude (claude.ai) auf Anweisung eines Nutzers"
     model: "claude-sonnet-5-5"
@@ -100,7 +104,7 @@ Die amtlichen Kosten und Anwaltskosten gehen zulasten des Gemeinwesens, soweit k
 
 ### IV. Nachzahlungspflicht (Abs. 4)
 
-Die unentgeltliche Rechtspflege ist eine **Stundung**, kein Erlass. Die Partei muss die Kosten nachzahlen, sobald sie dazu in der Lage ist. Der Entzug der unentgeltlichen Rechtspflege ist aufgrund neu erlangten Vermögens auch **rückwirkend** zulässig. ([Kantonsgericht LU, 5U 14 115](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_5U_14_115))
+Die unentgeltliche Rechtspflege ist eine **Stundung**, kein Erlass. Die Partei muss die Kosten nachzahlen, sobald sie dazu in der Lage ist. Der Entzug der unentgeltlichen Rechtspflege ist aufgrund neu erlangten Vermögens auch **rückwirkend** zulässig ([Kantonsgericht LU, 5U 14 115 vom 21.7.2014](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_003_5U-14-115_2014-07-21.html)).
 
 **Ausnahme**: Opfer und Angehörige gemäss [Art. 30 Abs. 3 OHG](https://www.fedlex.admin.ch/eli/cc/2007/617/617_617_617/de#art_30) sind von der Nachzahlungspflicht befreit.
 
@@ -110,22 +114,22 @@ Der Nachzahlungsanspruch des Gemeinwesens verjährt zehn Jahre nach Abschluss de
 
 ### VI. Verhältnis zum Kostenvorschuss
 
-Das Gesuch um unentgeltliche Rechtspflege hemmt die Vorschusspflicht nach §§ 195–196. Wird das Gesuch rechtzeitig eingereicht, darf die Behörde nicht auf Nichteintreten wegen fehlenden Vorschusses erkennen, bevor über das Gesuch entschieden ist. ([Kantonsgericht LU, MPUD 1997/4](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_MPUD_1997_4); [BGer 1C 93/2018](https://mcp.opencaselaw.ch/entscheid/bger_1C_93_2018))
+Ein rechtzeitig innerhalb der gesetzten Zahlungsfrist eingereichtes, begründetes Gesuch um unentgeltliche Rechtspflege hemmt die Fälligkeit des Kostenvorschusses nach §§ 195–196 VRG: Über das Gesuch ist vor einem allfälligen Nichteintreten zu entscheiden und im Fall der Abweisung eine Nachfrist anzusetzen ([A 11 49, E. 2c](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_002_A-11-49_2011-10-19.html)). Leistet die vorschusspflichtige Partei innert der Frist trotz Säumnisandrohung weder den Vorschuss noch reicht sie ein begründetes und belegtes Gesuch um unentgeltliche Rechtspflege ein, tritt die Behörde auf das Begehren nicht ein (§ 195 Abs. 2 VRG; [Militär-, Polizei- und Umweltschutzdepartement LU, MPUD 1997/4 vom 6.7.1997](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_999_MPUD-1997-4_1997-07-06.html)).
 
 ## Rechtsprechung
 
-- [BGer 9C_161/2011](https://mcp.opencaselaw.ch/entscheid/bger_9C_161_2011) — Pflicht zur Bestellung eines Anwalts bei Bedürftigkeit
-- [BGer 8C_996/2012](https://mcp.opencaselaw.ch/entscheid/bger_8C_996_2012) — Zeitpunkt der Erfolgsbeurteilung
-- [BGer 2C_262/2018](https://mcp.opencaselaw.ch/entscheid/bger_2C_262_2018) — UVtR im allgemeinen Verwaltungsverfahren
-- [BGer 1C_227/2019](https://mcp.opencaselaw.ch/entscheid/bger_1C_227_2019) — UVtR ausserhalb des Sozialversicherungsrechts
-- [BGer 8C_931/2015](https://mcp.opencaselaw.ch/entscheid/bger_8C_931_2015) — UVtR bei der IV-Stelle
-- [BGer 8C_572/2014](https://mcp.opencaselaw.ch/entscheid/bger_8C_572_2014) — UVtR bei der IV-Stelle Luzern
-- [BGer 1C 93/2018](https://mcp.opencaselaw.ch/entscheid/bger_1C_93_2018) — Kostenvorschuss und UVtR
-- [Kantonsgericht LU, BVD 2002/8](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_BVD_2002_8) — Bedürftigkeitsprüfung
-- [Kantonsgericht LU, 30 05 20](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_30_05_20) — UVtR bei freiwillig eingeleitetem Verfahren
-- [Kantonsgericht LU, 5U 14 115](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_5U_14_115) — Entzug der UVtR
-- [Kantonsgericht LU, MPUD 1997/4](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_MPUD_1997_4) — Kostenvorschuss und Nichteintreten
-- [EGMR 43730/07 (Gajtani c. Suisse)](https://mcp.opencaselaw.ch/entscheid/hudoc_ch_43730_07) — Zugang zum Gericht und UVtR
+- [BGer 9C_161/2011 vom 3.5.2011](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-161-2011_2011-05-03.html) — Pflicht zur Bestellung eines Anwalts bei Bedürftigkeit
+- [BGer 8C_996/2012 vom 28.3.2013](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-996-2012_2013-03-28.html) — Zeitpunkt der Erfolgsbeurteilung
+- [BGer 2C_262/2018 vom 20.3.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-262-2018_2018-03-20.html) — UVtR im allgemeinen Verwaltungsverfahren
+- [BGer 1C_227/2019 vom 6.5.2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-227-2019_2019-05-06.html) — UVtR ausserhalb des Sozialversicherungsrechts
+- [BGer 8C_931/2015 vom 23.2.2016](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-931-2015_2016-02-23.html) — UVtR bei der IV-Stelle
+- [BGer 8C_572/2014 vom 28.1.2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-572-2014_2015-01-28.html) — UVtR bei der IV-Stelle Luzern
+- [BGer 1C_93/2018 vom 23.2.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-93-2018_2018-02-23.html) — Kostenvorschuss und Formerfordernisse
+- [Bau- und Verkehrsdepartement LU, BVD 2002/8 vom 1.3.2002](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_999_BVD-2002-8_2002-03-01.html) — Bedürftigkeitsprüfung
+- [Obergericht LU, 30 05 20 vom 27.1.2006](https://entscheidsuche.ch/docs/LU_Gerichte/LU_OG_002_30-05-20_2006-01-27.html) — UVtR bei freiwillig eingeleitetem Verfahren
+- [Kantonsgericht LU, 5U 14 115 vom 21.7.2014](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_003_5U-14-115_2014-07-21.html) — Entzug der UVtR
+- [Militär-, Polizei- und Umweltschutzdepartement LU, MPUD 1997/4 vom 6.7.1997](https://entscheidsuche.ch/docs/LU_Gerichte/LU_VWG_999_MPUD-1997-4_1997-07-06.html) — Kostenvorschuss und Nichteintreten
+- [EGMR 43730/07 (Gajtani c. Suisse) vom 9.9.2014](https://hudoc.echr.coe.int/eng?i=001-146374) — Zugang zum Gericht und UVtR
 
 ## Literatur
 
