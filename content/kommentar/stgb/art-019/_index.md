@@ -2,10 +2,14 @@
 title: "Art. 19 StGB — Schuldunfähigkeit und verminderte Schuldfähigkeit"
 weight: 19
 date: 2026-06-13
-lastmod: "2026-08-30"
+lastmod: "2026-11-08"
 description: "Kommentar zu Art. 19 StGB: Schuldfähigkeit — Strafausschluss bei Schuldunfähigkeit (Abs. 1), obligatorische Strafmilderung bei verminderter Schuldfähigkeit (Abs. 2), Massnahmen (Abs. 3) und actio libera in causa (Abs. 4)."
 tags: ["StGB", "Schuldfähigkeit", "Verminderte Schuldfähigkeit", "Schuldunfähigkeit", "Massnahmen", "Actio libera in causa", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-08
+    by: "Hermes"
+    model: "glm-5.2"
+    note: "Einarbeitung von BGer 6B_513/2026 in Abschnitt II.1 (Schuldunfähigkeit): Abgrenzung verminderte Schuldfähigkeit zur Schuldunfähigkeit, Gutachtenwürdigung bei Polytoxikomanie und kombinierter Persönlichkeitsstörung; wörtliches Zitat E. 1.5.1 via opencaselaw get_erwaegung verifiziert; entscheidsuche.ch hat den Entscheid noch nicht indexiert, Link auf opencaselaw als Rückfall"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
@@ -47,6 +51,12 @@ revisions:
 
 ### 1. Schuldunfähigkeit (Abs. 1)
 **2** Schuldunfähig ist, wer zur Tatzeit infolge schwerer psychischer Störung, Intelligenzminderung oder schwerer Bewusstseinsstörung unfähig war, das Unrecht der Tat einzusehen oder einsichtsgemäss zu handeln. Die Schuldunfähigkeit führt zum vollständigen Strafausschluss. Im Haftverfahren kann die Frage der Schuldfähigkeit bereits präjudiziell geprüft werden, wenn ausnahmsweise bereits feststeht, dass weder eine Strafe noch eine freiheitsentziehende Massnahme in Frage kommt ([BGE 143 IV 330](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-330_2017.html) E. 2.2).
+
+**2a** Die Abgrenzung zwischen Schuldunfähigkeit (Abs. 1) und verminderter Schuldfähigkeit (Abs. 2) ist Rechtsfrage, während der tatzeitliche Zustand des Täters Tatfrage darstellt und nur unter Willkürgesichtspunkten zu prüfen ist ([BGE 107 IV 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-107-IV-3_1981-01-20.html) E. 1a; [BGE 134 IV 132](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-132_2008.html) E. 6.1). Ergibt ein psychiatrisches Gutachten, dass der Täter zur Tatzeit eine — wenn auch schwer — verminderte Schuldfähigkeit aufwies, so spricht dies bereits gegen Schuldunfähigkeit im Sinne von Abs. 1; der Gutachter muss sich nicht präziser äussern, und formelle Mängel wie falsche ICD-10-Codes entkräften die Diagnosen als solche nicht. Bezeichnet der Gutachter die Einsichtsfähigkeit als «bedeutsam vermindert», lässt dies keinen Ermessensspielraum für die Annahme einer gänzlich fehlenden Einsichtsfähigkeit:
+
+> «Unbegründet ist [...] der Einwand des Beschwerdeführers, die Vorinstanz hätte sich mit der im Gutachten erwähnten "bedeutsam verminderten" Einsichtsfähigkeit näher auseinandersetzen müssen, da dies keinen Ermessensspielraum für die Annahme einer gänzlich fehlenden Einsichtsfähigkeit lässt.» ([BGer 6B_513/2026 vom 8. Oktober 2026, E. 1.5.1](https://mcp.opencaselaw.ch/entscheid/bger_6B_513_2026#e-1-5-1))
+
+Bestätigt wird damit die restriktive Auslegung der Schuldunfähigkeit: Eine noch so starke Verminderung der Schuldfähigkeit rechtfertigt für sich allein keinen Schluss auf deren gänzliches Fehlen. Die gerichtliche Gutachtenwürdigung ist nach Art. 10 Abs. 2 StPO grundsätzlich frei; in Fachfragen darf jedoch nicht ohne triftige Gründe vom Gutachten abgewichen werden ([BGE 150 IV 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-1_2024.html) E. 2.3.3; [BGE 141 IV 369](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-369_2015.html) E. 6.1).
 
 ### 2. Verminderte Schuldfähigkeit und Strafmilderung (Abs. 2)
 **3** War die Einsichts- oder Steuerungsfähigkeit nur teilweise herabgesetzt, mildert das Gericht die Strafe obligatorisch nach [Art. 48a StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_48a). Der Richter muss im Urteil begründen, in welchem Umfang sich die Verminderung verschuldensmindernd auswirkt — eine blosse Erwähnung der verminderten Schuldfähigkeit genügt nicht ([BGE 136 IV 55](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-55_2010.html) E. 5.5, 5.6; [BGE 134 IV 132](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-132_2008.html) E. 6). Die verminderte Schuldfähigkeit allein führt grundsätzlich nicht zur Unterschreitung des ordentlichen Strafrahmens; dazu bedarf es weiterer, ins Gewicht fallender Umstände, die das Verschulden als besonders leicht erscheinen lassen (BGE 136 IV 55 E. 5.8).

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 19 StGB"
 weight: 99
 date: 2026-06-13
-lastmod: "2026-08-30"
+lastmod: "2026-11-08"
 description: "Übersicht der Rechtsprechung zu Art. 19 StGB — Schuldfähigkeit: alkoholbedingte Enthemmung, Strafzumessung bei verminderter Schuldfähigkeit, selbstständiges Massnahmeverfahren und actio libera in causa."
 tags: ["Rechtsprechung", "StGB", "Schuldfähigkeit", "Verminderte Schuldfähigkeit", "Schuldunfähigkeit", "Massnahmen", "Actio libera in causa", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-08
+    by: "Hermes"
+    model: "glm-5.2"
+    note: "Ergänzung um BGer 6B_513/2026 (Abgrenzung verminderte Schuldfähigkeit zur Schuldunfähigkeit, Gutachtenwürdigung); wörtliches Zitat E. 1.5.1 via opencaselaw get_erwaegung verifiziert; Link auf opencaselaw als Rückfall (entscheidsuche.ch hat den Entscheid noch nicht indexiert)"
   - date: 2026-08-30
     by: "Claude Code"
     model: "glm-5.1"
@@ -57,3 +61,13 @@ revisions:
 - **Sachverhalt**: Eine als schuldunfähig beurteilte Person war Gegenstand eines selbstständigen Massnahmeverfahrens nach Art. 374 ff. StPO. Das erstinstanzliche Gericht hatte dennoch einen Schuldspruch ausgesprochen.
 - **Kernaussage**: Das selbstständige Massnahmeverfahren nach Art. 374 StPO ist ein vom ordentlichen Verfahren klar abzugrenzendes besonderes Verfahren, in dem mangels Vorwurfs eines schuldhaften Verhaltens kein Schuldspruch ergehen kann (E. 1.3). Wird in einem solchen Verfahren ein Schuldspruch ausgesprochen, stellt dies einen besonders schweren und offensichtlichen Verfahrensfehler dar, der jedoch nicht zur Nichtigkeit, sondern zur Anfechtbarkeit führt. Das Berufungsgericht muss einen solchen Schuldspruch auch dann überprüfen und aufheben, wenn er nicht angefochten wurde (E. 1.4, 1.5).
 - **Einschlägig für**: Art. 19 Abs. 3 StGB, Art. 374 ff. StPO, Art. 404 Abs. 2 StPO (selbstständiges Massnahmeverfahren, Schuldspruchunfähigkeit, Formstrenge).
+
+---
+
+## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 6B_513/2026 vom 8. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_513_2026#e-1-5-1), E. 1.5.1 — Abgrenzung verminderte Schuldfähigkeit zur Schuldunfähigkeit; Gutachtenwürdigung
+
+- **Sachverhalt**: Ein 1967 in Istanbul geborener türkischer Staatsangehöriger mit 45-jährigem Aufenthalt in der Schweiz, Polytoxikomanie (Opioid-, Kokain-, Benzodiazepin- und Nikotinabhängigkeit), kombinierter Persönlichkeitsstörung, kokaininduziertem Wahnerleben und kognitiver Störung durch langjährigen Kokainkonsum wurde wegen mehrfacher versuchter schwerer Körperverletzung zu 34 Monaten Freiheitsstrafe verurteilt. Er rügte Schuldunfähigkeit nach Art. 19 Abs. 1 StGB und machte schwerwiegende Mängel des psychiatrischen Gutachtens geltend (falsche ICD-10-Codes, unpräzise Äusserungen zur Einsichtsfähigkeit, mangelnde Auseinandersetzung mit dem Begriff «bedeutsam verminderte» Einsichtsfähigkeit).
+- **Kernaussage**: Ergibt das Gutachten, dass der Täter zur Tatzeit eine — wenn auch schwer — verminderte Schuldfähigkeit aufwies, so spricht dies gegen Schuldunfähigkeit im Sinne von Art. 19 Abs. 1 StGB. Eine als «bedeutsam vermindert» bezeichnete Einsichtsfähigkeit lässt keinen Ermessensspielraum für die Annahme einer gänzlich fehlenden Einsichtsfähigkeit (E. 1.5.1). Formelle Mängel des Gutachtens wie falsche ICD-10-Codes entkräften die Diagnosen als solche nicht (E. 1.5.2). Die Abgrenzung zwischen Schuldunfähigkeit und verminderter Schuldfähigkeit ist Rechtsfrage; der tatzeitliche Zustand ist Tatfrage und nur willkürlich zu überprüfen (E. 1.3.2).
+- **Einschlägig für**: Art. 19 Abs. 1 und 2 StGB, Art. 20 StGB, Art. 10 Abs. 2 StPO (Abgrenzung Schuldunfähigkeit/verminderte Schuldfähigkeit, Gutachtenwürdigung, ICD-Codierung, Polytoxikomanie).
