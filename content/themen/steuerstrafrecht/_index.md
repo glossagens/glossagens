@@ -18,6 +18,10 @@ normen:
 stichworte: ["Steuerhinterziehung", "Steuerbetrug", "Selbstanzeige", "Nachsteuer", "nemo tenetur", "Verjährung", "Geldwäscherei", "Konkurrenz"]
 revisions:
   - date: 2026-11-09
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "PR-Prüfung: Volltexte und Trägersätze aller zitierten Entscheide (BGE 133 IV 303, 138 IV 47, 149 IV 395, 151 II 435, Urteil 6B_711/2012) verifiziert; Erwägungsanker präzisiert; Titel der Motion 25.3940 kursiviert; pruefen.py und build-check fehlerfrei."
+  - date: 2026-11-09
     by: "Claude (claude.ai)"
     model: "claude-sonnet-5-5"
     note: "Neues Querschnittsthema Steuerstrafrecht. Normtexte per wortlaut-Shortcode; BGE 138 IV 47, 133 IV 303, 149 IV 395, 151 II 435 und Urteil 6B_711/2012 auf entscheidsuche.ch im Volltext gelesen, Trägersätze wörtlich kopiert; Verjährung (Art. 184, 189 DBG) und Art. 305bis StGB an Fedlex geprüft. Stand der Gesetzgebung: nur Mo. 25.3940 anhand des WAK-S-Berichts vom 13.11.2025, späterer Verlauf nicht geprüft."
@@ -49,7 +53,7 @@ Die Hinterziehung ist ein Sonderdelikt, das nur die steuerpflichtige Person bege
 
 ## Bussenrahmen und Strafzumessung {#bussen}
 
-Die Busse für vollendete Hinterziehung beträgt nach Art. 175 Abs. 2 DBG in der Regel das Einfache der hinterzogenen Steuer und kann nach den Umständen auf ein Drittel ermässigt oder bis auf das Dreifache erhöht werden. Das Einfache bildet damit den Ausgangspunkt, nicht eine feste Grösse. Das Bundesgericht hat im Mehrwertsteuerstrafrecht festgehalten, dass bei der Wahl innerhalb eines Bussenrahmens, der sich an der Höhe der hinterzogenen Steuer orientiert, dieselbe Höhe nicht ein zweites Mal als Zumessungsgrund dienen darf ([BGE 149 IV 395](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html), E. 3.7.1 und 3.7.2, Doppelverwertungsverbot).
+Die Busse für vollendete Hinterziehung beträgt nach Art. 175 Abs. 2 DBG in der Regel das Einfache der hinterzogenen Steuer und kann nach den Umständen auf ein Drittel ermässigt oder bis auf das Dreifache erhöht werden. Das Einfache bildet damit den Ausgangspunkt, nicht eine feste Grösse. Das Bundesgericht hat im Mehrwertsteuerstrafrecht festgehalten, dass bei der Wahl innerhalb eines Bussenrahmens, der sich an der Höhe der hinterzogenen Steuer orientiert, dieselbe Höhe nicht ein zweites Mal als Zumessungsgrund dienen darf ([BGE 149 IV 395](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html#consideration_3.7.1), E. 3.7.1 und 3.7.2, Doppelverwertungsverbot).
 
 ## Straflose Selbstanzeige {#selbstanzeige}
 
@@ -57,15 +61,15 @@ Die Strafe entfällt unter den gesetzlichen Voraussetzungen bei der ersten Selbs
 
 ## Nachsteuer {#nachsteuer}
 
-Das Nachsteuerverfahren (Art. 151–153 DBG) bezweckt, eine unvollständige Veranlagung nachträglich zu korrigieren. Es hat keinen Strafcharakter und setzt kein Verschulden voraus ([BGE 151 II 435](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-435_2025.html), E. 4.1.2). Die vereinfachte Nachbesteuerung von Erben (Art. 153a DBG) knüpft an den Kenntnisstand der Steuerbehörde im Zeitpunkt der Meldung an: Was ihr dann schon bekannt ist, kann nicht mehr durch die Meldung aufgedeckt werden (E. 4.2.3).
+Das Nachsteuerverfahren (Art. 151–153 DBG) bezweckt, eine unvollständige Veranlagung nachträglich zu korrigieren. Es hat keinen Strafcharakter und setzt kein Verschulden voraus ([BGE 151 II 435](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-435_2025.html#consideration_4.1.2), E. 4.1.2). Die vereinfachte Nachbesteuerung von Erben (Art. 153a DBG) knüpft an den Kenntnisstand der Steuerbehörde im Zeitpunkt der Meldung an: Was ihr dann schon bekannt ist, kann nicht mehr durch die Meldung aufgedeckt werden ([BGE 151 II 435](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-435_2025.html#consideration_4.2.3), E. 4.2.3).
 
 ## Verfahren und nemo tenetur {#verfahren}
 
-Die Steuerhinterziehung wird im Steuerstrafverfahren der kantonalen Steuerbehörden verfolgt (Art. 182 f. DBG), Vergehen nach der StPO durch die Strafverfolgungsbehörden (Art. 188 DBG). Im Steuerstrafverfahren gilt der Grundsatz, dass niemand gezwungen werden darf, sich selbst zu belasten. Die Steuerverwaltung hat die steuerpflichtige Person im Nachsteuerverfahren auf die mögliche spätere Einleitung eines Hinterziehungsverfahrens hinzuweisen (Art. 153 Abs. 1bis DBG) und im Hinterziehungsverfahren über das Aussage- und Mitwirkungsverweigerungsrecht aufzuklären (Art. 183 Abs. 1 Satz 2 DBG). Nach der Rechtsprechung sind Aussagen und Belege aus dem Nachsteuerverfahren nicht generell unverwertbar, sondern nur, wenn der steuerpflichtigen Person eine Ermessensveranlagung oder eine Verurteilung wegen Verfahrenspflichtverletzung angedroht wurde; wurden die Aufklärungspflichten erfüllt, sind sie grundsätzlich auch im Steuerbetrugsverfahren verwertbar ([BGE 138 IV 47](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-47_2012.html), E. 2.6.2 und 2.8.2).
+Die Steuerhinterziehung wird im Steuerstrafverfahren der kantonalen Steuerbehörden verfolgt (Art. 182 f. DBG), Vergehen nach der StPO durch die Strafverfolgungsbehörden (Art. 188 DBG). Im Steuerstrafverfahren gilt der Grundsatz, dass niemand gezwungen werden darf, sich selbst zu belasten. Die Steuerverwaltung hat die steuerpflichtige Person im Nachsteuerverfahren auf die mögliche spätere Einleitung eines Hinterziehungsverfahrens hinzuweisen (Art. 153 Abs. 1bis DBG) und im Hinterziehungsverfahren über das Aussage- und Mitwirkungsverweigerungsrecht aufzuklären (Art. 183 Abs. 1 Satz 2 DBG). Nach der Rechtsprechung sind Aussagen und Belege aus dem Nachsteuerverfahren nicht generell unverwertbar, sondern nur, wenn der steuerpflichtigen Person eine Ermessensveranlagung oder eine Verurteilung wegen Verfahrenspflichtverletzung angedroht wurde; wurden die Aufklärungspflichten erfüllt, sind sie grundsätzlich auch im Steuerbetrugsverfahren verwertbar ([BGE 138 IV 47](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-47_2012.html#consideration_2.6.2), E. 2.6.2 und 2.8.2).
 
 ## Konkurrenzen {#konkurrenzen}
 
-Wer mit einem Urkundendelikt ausschliesslich Steuervorschriften umgehen will, ist nur nach Steuerstrafrecht zu beurteilen. Beabsichtigte oder nahm der Täter dagegen auch eine objektiv mögliche Verwendung des Dokuments im nicht-fiskalischen Bereich in Kauf, besteht echte Konkurrenz zwischen Steuerbetrug und Urkundenfälschung (Art. 251 StGB; [BGE 133 IV 303](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-303_2007.html), E. 4.5). Wer eine inhaltlich unrichtige Handelsbilanz einer Aktiengesellschaft erstellt, nimmt dies in aller Regel in Kauf; einer tatsächlichen Überlassung der Urkunden an Dritte bedarf es nicht (E. 4.6). Dasselbe gilt im Verhältnis von Urkundenfälschung und Gehilfenschaft zu Steuerbetrug ([Urteil 6B_711/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-711-2012_2013-05-17.html), E. 7.3.1).
+Wer mit einem Urkundendelikt ausschliesslich Steuervorschriften umgehen will, ist nur nach Steuerstrafrecht zu beurteilen. Beabsichtigte oder nahm der Täter dagegen auch eine objektiv mögliche Verwendung des Dokuments im nicht-fiskalischen Bereich in Kauf, besteht echte Konkurrenz zwischen Steuerbetrug und Urkundenfälschung (Art. 251 StGB; [BGE 133 IV 303](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-303_2007.html#consideration_4.5), E. 4.5). Wer eine inhaltlich unrichtige Handelsbilanz einer Aktiengesellschaft erstellt, nimmt dies in aller Regel in Kauf; einer tatsächlichen Überlassung der Urkunden an Dritte bedarf es nicht ([BGE 133 IV 303](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-303_2007.html#consideration_4.6), E. 4.6). Dasselbe gilt im Verhältnis von Urkundenfälschung und Gehilfenschaft zu Steuerbetrug ([Urteil 6B_711/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-711-2012_2013-05-17.html), E. 7.3.1).
 
 ## Verjährung {#verjaehrung}
 
@@ -87,11 +91,11 @@ Der Steuerbetrug nach Art. 186 DBG und Art. 59 Abs. 1 erstes Lemma StHG gilt als
 
 ## Indirekte Steuern {#indirekte-steuern}
 
-Für die Mehrwertsteuer enthalten Art. 96 ff. MWSTG eigene Strafnormen; für die Verrechnungssteuer gelten Art. 61 f. VStG. Auf Verfahren dieser Steuern ist das Verwaltungsstrafrecht (VStrR) anzuwenden. Im Mehrwertsteuerrecht sind Erhebungs- und Strafverfahren getrennt (Art. 103 f. MWSTG). Die Strafzumessung bei der Mehrwertsteuerhinterziehung hat das Bundesgericht in [BGE 149 IV 395](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html) geklärt, insbesondere das Einfache der hinterzogenen Steuer als Ausgangspunkt (E. 3.7.2 und 3.8.1).
+Für die Mehrwertsteuer enthalten Art. 96 ff. MWSTG eigene Strafnormen; für die Verrechnungssteuer gelten Art. 61 f. VStG. Auf Verfahren dieser Steuern ist das Verwaltungsstrafrecht (VStrR) anzuwenden. Im Mehrwertsteuerrecht sind Erhebungs- und Strafverfahren getrennt (Art. 103 f. MWSTG). Die Strafzumessung bei der Mehrwertsteuerhinterziehung hat das Bundesgericht in [BGE 149 IV 395](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html#consideration_3.7.2) geklärt, insbesondere das Einfache der hinterzogenen Steuer als Ausgangspunkt (E. 3.7.2 und 3.8.1).
 
 ## Stand der Gesetzgebung {#stand-der-gesetzgebung}
 
-Die Motion 25.3940 der WAK-N («Mehr Rechtssicherheit im Verrechnungssteuergesetz und im Bundesgesetz über die Stempelabgaben») verlangt unter anderem, den Schutz vor Bestrafung analog Art. 96 Abs. 3 MWSTG ins VStG und ins StG zu übernehmen. Der Nationalrat hat die Motion am 8. September 2025 angenommen; die WAK-S beantragte am 13. November 2025 mit 11 zu 2 Stimmen deren Annahme in geänderter Fassung (absolute Verjährungsfrist von 15 Jahren). Der Bundesrat beantragte Ablehnung. Stichtag: 13. November 2025 (Kommissionsbericht, [25.3940](https://www.parlament.ch/centers/kb/Documents/2025/Kommissionsbericht_-S_25.3940_2025-11-13.pdf)); der spätere Verlauf wurde nicht geprüft.
+Die Motion 25.3940 der WAK-N (*Mehr Rechtssicherheit im Verrechnungssteuergesetz und im Bundesgesetz über die Stempelabgaben*) verlangt unter anderem, den Schutz vor Bestrafung analog Art. 96 Abs. 3 MWSTG ins VStG und ins StG zu übernehmen. Der Nationalrat hat die Motion am 8. September 2025 angenommen; die WAK-S beantragte am 13. November 2025 mit 11 zu 2 Stimmen deren Annahme in geänderter Fassung (absolute Verjährungsfrist von 15 Jahren). Der Bundesrat beantragte Ablehnung. Stichtag: 13. November 2025 (Kommissionsbericht, [25.3940](https://www.parlament.ch/centers/kb/Documents/2025/Kommissionsbericht_-S_25.3940_2025-11-13.pdf)); der spätere Verlauf wurde nicht geprüft.
 
 ## Praxishinweise {#praxishinweise}
 
@@ -104,8 +108,8 @@ Die Motion 25.3940 der WAK-N («Mehr Rechtssicherheit im Verrechnungssteuergeset
 
 | Entscheid | Gegenstand |
 | --- | --- |
-| [BGE 133 IV 303](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-303_2007.html) | Verhältnis von Steuerbetrug und Urkundenfälschung |
-| [BGE 138 IV 47](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-47_2012.html) | Verwertbarkeit von Beweisen aus dem Nachsteuer- und Hinterziehungsverfahren im Betrugsverfahren |
-| [BGE 149 IV 395](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html) | Strafzumessung bei der Mehrwertsteuerhinterziehung |
-| [BGE 151 II 435](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-435_2025.html) | Vereinfachte Nachbesteuerung von Erben (Art. 153a DBG) |
+| [BGE 133 IV 303](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-303_2007.html#consideration_4.5) | Verhältnis von Steuerbetrug und Urkundenfälschung |
+| [BGE 138 IV 47](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-47_2012.html#consideration_2.6.2) | Verwertbarkeit von Beweisen aus dem Nachsteuer- und Hinterziehungsverfahren im Betrugsverfahren |
+| [BGE 149 IV 395](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html#consideration_3.7.1) | Strafzumessung bei der Mehrwertsteuerhinterziehung |
+| [BGE 151 II 435](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-435_2025.html#consideration_4.1.2) | Vereinfachte Nachbesteuerung von Erben (Art. 153a DBG) |
 | [Urteil 6B_711/2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-711-2012_2013-05-17.html) | Gehilfenschaft zu Steuerbetrug durch den Revisor; Konkurrenz zur Urkundenfälschung |
