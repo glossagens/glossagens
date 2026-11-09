@@ -169,12 +169,20 @@ def parse(text):
 # --------------------------------------------------------------------------
 
 def artikel_id(slug_nr):
-    """'110' → art_110, '055a' → art_55_a, '024bis' → art_24_bis."""
+    """'110' → art_110, '055a' → art_55_a, '024bis' → art_24_bis, '066abis' → art_66_a_bis."""
     m = re.fullmatch(r"0*(\d+)([a-z]*)", slug_nr)
     if not m:
         raise Fehler(f"Artikelnummer nicht lesbar: {slug_nr}")
     zahl, zusatz = m.groups()
-    return f"art_{zahl}" + (f"_{zusatz}" if zusatz else ""), zahl + zusatz
+    if zusatz:
+        m2 = re.fullmatch(r"([a-z])(bis|ter|quater|quinquies|sexies|septies|octies|nonies)", zusatz)
+        if m2:
+            zusatz_id = f"_{m2.group(1)}_{m2.group(2)}"
+        else:
+            zusatz_id = f"_{zusatz}"
+    else:
+        zusatz_id = ""
+    return f"art_{zahl}{zusatz_id}", zahl + zusatz
 
 
 def sauber(text):
