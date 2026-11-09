@@ -2,10 +2,14 @@
 title: "Art. 221 StPO — Voraussetzungen der Untersuchungshaft und Sicherheitshaft"
 weight: 221
 date: 2026-08-30
-lastmod: 2026-10-29
-description: "Praxiskommentar zu Art. 221 StPO: Dringender Tatverdacht (Abs. 1), besondere Haftgründe der Flucht-, Kollusions- und Wiederholungsgefahr (Abs. 1 lit. a–c), qualifizierte Wiederholungsgefahr ohne Vortatenerfordernis (Abs. 1bis n.F.) und Ausführungsgefahr (Abs. 2) — mit ausführlicher Zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kasuistiktabellen, prozessualen Klippen und taktischen Merksätzen."
-tags: ["StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "dringender Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen", "Ersatzmassnahmen", "Kaution", "Überhaft"]
+lastmod: 2026-11-09
+description: "Praxiskommentar zu Art. 221 StPO: Dringender Tatverdacht (Abs. 1), besondere Haftgründe der Flucht-, Kollusions- und Wiederholungsgefahr (Abs. 1 lit. a–c), qualifizierte Wiederholungsgefahr ohne Vortatenerfordernis (Abs. 1bis n.F.) und Ausführungsgefahr (Abs. 2) — mit ausführlicher zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kasuistiktabellen, kritischer Lehrmeinung, prozessualen Klippen und taktischen Merksätzen."
+tags: ["StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "dringender Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen", "Ersatzmassnahmen", "Kaution", "Überhaft", "Kritische Lehre"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Kritische Lehre eingearbeitet: Systematische Einbindung der wissenschaftlichen Kritik zur Untersuchungshaftdogmatik (Albrecht, Coninx/Mona, Pieth, Oberholzer, Künzli et al./SKMR), zur richterlichen Zurückhaltung bei der Verdachtsprüfung (Hug/Scheidegger, Härri), zur Diskriminierungsgefahr bei Fluchtgefahr und Ausländerhaft (SKMR, Ajil/Mühlemann), zur Instrumentalisierung der Kollusionshaft als Beuge- und Geständnishaft (Geth, Vest, Pieth), zur Kritik an der Richterrechtsschöpfung und der «umgekehrten Proportionalität» bei Wiederholungsgefahr (Jositsch/Röthlisberger, Eicker, Donatsch/Hiestand, Albrecht), zur Verfassungswidrigkeit der Ausführungsgefahr als polizeiliches Zwittergebilde (Coninx, Dumitrescu) sowie zur Substanziierungslast bei Ersatzmassnahmen (Manfrin, Wohlers); eigenständiges Literaturverzeichnis ergänzt."
   - date: 2026-10-29
     by: "Claude (claude.ai)"
     model: "claude-haiku-5-5"
@@ -56,6 +60,14 @@ revisions:
 Art. 221 StPO ist die schärfste Eingriffsnorm der Schweizerischen Strafprozessordnung. Sie ermächtigt die Strafjustiz, eine Person noch vor einer rechtskräftigen Verurteilung — mithin unter dem verfassungsrechtlichen Schild der **Unschuldsvermutung** (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK, Art. 10 Abs. 1 StPO) — für Monate oder Jahre ihrer Freiheit zu berauben.
 
 Weil der Eingriff in die persönliche Freiheit (Art. 10 Abs. 2, Art. 31 BV; Art. 5 EMRK) maximal intensiv ist, verlangt das Bundesgericht strikt die Beachtung des **Ultima-Ratio-Prinzips** (Art. 197 Abs. 1 lit. c und d StPO; Art. 212 Abs. 2 lit. c StPO). Die Inhaftierung ist verfassungsrechtlich nur haltbar, wenn die materiellen Haftgründe und die Verhältnismässigkeit kumulativ nachgewiesen sind.
+
+### Die dogmatische Zerreissprobe: Repression vs. Prävention
+
+In der Strafrechtswissenschaft ist die systematische Konzeption von Art. 221 StPO Gegenstand fundamentaler Kritik:
+
+1. **Die klassische verfahrenssichernde Funktion**: Nach traditioneller Dogmatik dient die Untersuchungshaft ausschliesslich der Sicherung der Strafverfolgung und der gerichtlichen Wahrheitsfindung bezüglich einer bereits begangenen Tat (*Verfahrenssicherung*). Unter diesem Aspekt finden einzig die Haftgründe der **Fluchtgefahr** (lit. a) und der **Kollusionsgefahr** (lit. b) ihre prinzipielle Berechtigung: Der dringend Verdächtige hat als Störer der Rechtsordnung seine verfahrensrechtliche Inanspruchnahme zur Klärung des Vorwurfs zu dulden (*Detlef Krauss*, FS Müller-Dietz 1971, S. 167 ff.; *Peter Albrecht*, [sui generis 2018, S. 58, 65 f.](https://doi.org/10.21257/sg.59)).
+2. **Die Einwanderung materiellrechtlicher Präventionszwecke**: Mit der **Wiederholungsgefahr** (lit. c / Abs. 1bis) und der **Ausführungsgefahr** (Abs. 2) verfolgt das Gesetz jedoch verfahrensfremde Ziele der Spezialprävention und der polizeilichen Gefahrenabwehr (Botschaft StPO, BBl 2006 1085, S. 1229). Führende Autoren (*Peter Albrecht*, [sui generis 2018, S. 65 ff.](https://doi.org/10.21257/sg.59); *Mark Pieth*, Schweizerisches Strafprozessrecht, 3. Aufl. 2016, S. 143; *Anna Coninx / Martino Mona*, ZStrR 2017, S. 1 ff.) bezeichnen diese präventiven Haftgründe als **«dogmatischen Fremdkörper»** im Strafprozessrecht. Das Strafverfahren mutiere dadurch zum repressiven Polizeirecht, das Freiheitsentzüge an blosse Risikoprognosen statt an schuldhaftes Verhalten knüpft, was in offenem Widerspruch zur Unschuldsvermutung (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) steht (*Matthias Härri*, AJP 2006, S. 1219).
+3. **Kritik an der Begründungspraxis des Bundesgerichts**: Das Bundesgericht versucht seit jeher, diesen dogmatischen Konflikt zu überspielen, indem es die Wiederholungsgefahr mit dem Erfordernis der *Verfahrensbeschleunigung* verknüpft ([BGE 143 IV 9 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2017.html); [BGE 137 IV 84 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-84_2011.html); [BGE 135 I 71 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-I-71_2008.html)). Diese Argumentation wird in der Lehre einhellig als Scheinbegründung verworfen (*Peter Albrecht*, [sui generis 2018, S. 67](https://doi.org/10.21257/sg.59); *Niklaus Schmid*, SJZ 1987, S. 228): Die Gefahr einer blossen Verfahrensverzögerung oder -erschwerung durch neuerliche Delikte vermag einen schwerwiegenden Freiheitsentzug vor einem Sachurteil rechtsstaatlich niemals zu rechtfertigen.
 
 ### Prüfschema: die Merkmale in ihrer Prüfungsreihenfolge
 
@@ -137,6 +149,12 @@ Das Bundesgericht stellte in einem Grundsatzurteil klar:
 
 ([BGE 151 IV 57 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-57_2025.html)). Bei Verjährung, fehlendem Strafantrag bei Antragsdelikten oder fehlender schweizerischer Gerichtsbarkeit entfällt der Zweck der Untersuchungshaft von vornherein; die Person ist unverzüglich aus der Haft zu entlassen.
 
+#### 5. Kritik der Lehre: Richterliche Zurückhaltung und Aushöhlung der Unschuldsvermutung
+Die bundesgerichtliche Doktrin, wonach das Haftgericht dem Sachrichter keinesfalls vorgreifen darf und keine umfassende Beweiswürdigung vornimmt ([BGE 143 IV 316 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-316_2017.html); [BGE 137 IV 122 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html)), stösst in der Strafrechtswissenschaft auf fundierte Kritik:
+
+- **Absenkung des Rechtsschutzniveaus**: Kommentatoren (*Markus Hug / Alexandra Scheidegger*, BSK StPO, 3. Aufl. 2023, Art. 221 N 10 ff.; *Niklaus Oberholzer*, Grundzüge des Strafprozessrechts, 4. Aufl. 2020, N 1030 ff.) kritisieren, dass der formelhafte Verweis auf die ausschliessliche Zuständigkeit des Sachrichters in der Praxis kantonaler Zwangsmassnahmengerichte oft zu einer Entwertung der richterlichen Haftprüfung führt. Die Gerichte begnügen sich vielfach mit der unkritischen Übernahme staatsanwaltschaftlicher Verdachtshypothesen, anstatt offenkundige Widersprüche oder Ermittlungslücken eigenständig zu gewichten.
+- **Strukturelle Gefährdung bei Vier-Augen-Delikten**: Insbesondere bei Aussage-gegen-Aussage-Konstellationen rügen Autoren (*Niklaus Ruckstuhl / Volker Dittmann / Jörg Arnold*, Strafprozessrecht, 2011, N 110 ff.; *Matthias Härri*, AJP 2006, S. 1215 ff.), dass die Ausklammerung einer Glaubhaftigkeitsprüfung die Unschuldsvermutung (Art. 32 Abs. 1 BV) aushöhlt. Werden Belastungsaussagen schematisch als tatverdachtsbegründend gewertet, verbringen Beschuldigte oft monatelang Untersuchungshaft auf blosse Parteibehauptungen hin, bevor ein Sachgericht oder ein forensisches Aussagegutachten die Vorwürfe allenfalls entkräftet. Die Lehre fordert deshalb, dass Zwangsmassnahmengerichte bei Vorliegen konkreter Entlastungsindizien bereits im Haftprüfungsverfahren eine summarische Plausibilitäts- und Konsistenzprüfung der Belastungsaussagen vornehmen müssen.
+
 > **Merksatz.** Der Haftrichter entscheidet nicht über Schuld oder Zweifel. Wer den dringenden Tatverdacht im Haftprüfungsverfahren kippen will, dringt mit Glaubwürdigkeitsrügen kaum durch; Erfolg versprechen ausschliesslich **liquide Alibis** (z.B. nachgewiesener Spitalaufenthalt im Ausland), **offensichtliche Beweisverwertungsverbote** oder **unüberwindbare Prozesshindernisse wie die Verjährung**.
 
 ---
@@ -191,6 +209,13 @@ Das Bundesgericht hiess die Beschwerde teilweise gut, hob den Beschluss des Ober
 | **Ersatzmassnahmen** | Hausarrest in grenznahem Versoix + Fussfessel: untauglich | Nicht erforderlich, da Fluchtgefahr von vornherein fehlt | Beantragte Massnahmen (Meldepflicht, Schriftensperre, Eingrenzung) grundsätzlich tauglich; Vorinstanz bestimmt Auswahl |
 | **Ergebnis** | Fortdauer der Sicherheitshaft geschützt | Sofortige Haftentlassung aus Untersuchungshaft angeordnet | Beschwerde teilweise gutgeheissen; Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung (Antrag auf sofortige Entlassung abgewiesen) |
 
+#### 6. Kritik der Lehre: Das Phänomen der «Ausländerhaft» und strukturelle Ungleichbehandlung
+
+In der rechtswissenschaftlichen und menschenrechtlichen Literatur wird die Gerichtspraxis zur Fluchtgefahr seit Jahren scharf problematisiert:
+
+- **Reflexartige Bejahung bei fehlender Verwurzelung**: Das Schweizerische Kompetenzzentrum für Menschenrechte (*Jörg Künzli / Samuel Ostendarp / Noel Stucki*, Untersuchungshaft: Menschenrechtliche Standards und ihre Umsetzung in der Schweiz, [SKMR-Aktualisierung 2022, S. 23 ff., 38 ff.](https://boris-portal.unibe.ch/handle/20.500.12422/207247)) und Verfassungsrechtler (*Ahmed Ajil / David Mühlemann*, [Onlinekommentar Art. 31 BV](https://onlinekommentar.ch/de/kommentare/bv31), N 30 ff.) belegen, dass die Handhabung der Fluchtgefahr in der Praxis zu einer faktischen Zweiklassenjustiz («Ausländerhaft») führt: Während bei Schweizer Bürgern oder etablierten Niedergelassenen hohe Anforderungen an greifbare Fluchtindizien gestellt werden, bejahen kantonale Haftgerichte die Fluchtgefahr bei ausländischen Beschuldigten ohne festen Schweizer Wohnsitz oft formelhaft und schematisch.
+- **Strukturelle Diskriminierung bei Ersatzmassnahmen**: Zwar gebietet Art. 237 StPO den strikten Vorrang von Ersatzmassnahmen, doch bleibt das klassische Surrogat der Sicherheitsleistung (Kaution nach Art. 238 StPO) mittellosen Beschuldigten und Asylsuchenden faktisch verwehrt. Auch Auflagen wie Passhinterlegung oder Hausarrest scheitern regelmässig an fehlenden behördlichen Schriften oder Papieren. Die Lehre rügt hierin eine Verletzung des verfassungs- und konventionsrechtlichen Diskriminierungsverbots (Art. 8 Abs. 2 BV; Art. 14 i.V.m. Art. 5 EMRK): Fehlende finanzielle Mittel und migrationsrechtliche Unsicherheiten dürfen nicht dazu führen, dass Haft zur automatischen Regel wird (*Künzli et al.*, S. 40; *Matthias Härri*, AJP 2006, S. 1221). Erst Entscheide wie [BGer 1B_323/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html) und [BGer 7B_1311/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html) haben dieser extensiven Praxis höchstrichterliche Schranken gesetzt.
+
 > **Merksatz.** Fehlende familiäre Bindungen und ein abgewiesenes Asylgesuch begründen für sich allein keine ausgeprägte Fluchtgefahr, wenn nur eine verhältnismässig kurze Freiheitsstrafe droht und der Betroffene auf behördliche Unterstützung angewiesen ist. Dem Risiko, dass sich die Person einer Ausschaffung entziehen könnte, haben die Migrationsbehörden zu begegnen, nicht die Strafjustiz via Haft. Liegen keine Hinweise auf Missachtung von Auflagen vor, sind grundsätzlich taugliche Ersatzmassnahmen (z.B. Meldepflichten, Schriftensperre, Eingrenzung) anzuordnen.
 
 ---
@@ -223,6 +248,13 @@ In [BGE 137 IV 122](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-
 - **Eingrenzung und Meldepflichten** nützen gegen Flucht, sind aber **völlig ungeeignet gegen Kollusion**: Ein täglicher Besuch auf dem Polizeiposten hindert niemanden daran, Zeugen per Telefon zu bedrohen oder Briefe zu schreiben.
 - Zur Bannung von Kollusionsgefahr gegenüber bestimmten Opfern/Zeugen ist ausschliesslich eine **Ausgrenzung** (Rayonverbot bezüglich des Wohn- und Arbeitsorts des Opfers) und ein striktes **Kontaktverbot** tauglich und verhältnismässig ([E. 6.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html)).
 
+#### 5. Kritik der Lehre: Kollusionshaft als verdeckte «Geständnishaft» und Druckmittel
+
+Obschon das Bundesgericht formell betont, das Aussageverweigerungsrecht (*nemo tenetur*) dürfe nicht zur Begründung von Kollusionsgefahr herangezogen werden ([BGE 132 I 21 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-132-I-21_2006.html)), deckt die Strafrechtslehre eine erhebliche Diskrepanz zur Ermittlungswirklichkeit auf:
+
+- **Die Praxis der «Geständnishaft»**: Strafverteidiger und Rechtswissenschaftler (*Christopher Geth*, recht 2017, S. 13 ff.; *Hans Vest*, AJP 2002, S. 984 ff.; *Mark Pieth*, Schweizerisches Strafprozessrecht, 3. Aufl. 2016, S. 140 ff.; *Niklaus Oberholzer*, Grundzüge des Strafprozessrechts, 4. Aufl. 2020, N 1040 ff.) kritisieren seit langem, dass die Kollusionshaft von Strafverfolgungsbehörden in praxi als massives Beuge- und Druckmittel eingesetzt wird, um Geständnisse herbeizuführen («Geständnishaft»).
+- **Zirkelschluss zulasten des Schweigerechts**: Solange der Beschuldigte von seinem verfassungsmässigen Schweigerecht Gebrauch macht oder den Tatvorwurf bestreitet, machen Staatsanwaltschaften regelmässig geltend, der Sachverhalt sei «noch nicht liquid erstellt» und es drohe die Beeinflussung von Auskunftspersonen. Sobald der Beschuldigte jedoch ein Geständnis ablegt, gilt die Kollusionsgefahr schlagartig als gebannt und die Haftentlassung wird bewilligt. Die Lehre rügt diesen Mechanismus als unzulässige Aushöhlung des Verbots des Selbstbelastungszwangs (Art. 113 Abs. 1 StPO; Art. 14 Abs. 3 lit. g IPBPR; *Vest*, AJP 2002, S. 988): Das Zwangsmassnahmengericht darf die Weigerung, aktiv an der Sachverhaltsaufklärung mitzuwirken, unter keinen Umständen als Kollusionsindiz werten; Kollusion setzt stets den Nachweis aktiver Verdunkelungshandlungen voraus.
+
 > **Merksatz.** Kollusionsgefahr hat ein «Ablaufdatum». Sobald die Staatsanwaltschaft Zeugeneinvernahmen durchgeführt und Telefone gespiegelt hat, trägt die blosse Befürchtung einer «Zeugenbeeinflussung» vor Gericht keine Haft mehr. Verteidiger müssen den Abschluss der Beweiserhebung rügen; Staatsanwälte müssen konkrete Verdunkelungshandlungen (z.B. nachgewiesene Kassiber oder Droh-SMS) nachweisen.
 
 ---
@@ -241,8 +273,10 @@ Seit dem 1. Januar 2024 kennt Art. 221 StPO zwei grundverschiedene Tatbestände 
 
 #### 2. Das Vortatenerfordernis von Abs. 1 lit. c: Die gesetzgeberische Invalidierung der alten Rechtsprechung (BGer 7B_1035/2024)
 
-##### a) Altrechtliche Fiktion: Vortaten aus hängigem Verfahren
+##### a) Altrechtliche Fiktion: Vortaten aus hängigem Verfahren und die Kritik der Lehre
 Unter dem bis Ende 2023 geltenden Recht hatte das Bundesgericht in ständiger Rechtsprechung entschieden, dass die für einfache Wiederholungsgefahr erforderlichen Vortaten («bereits früher verübt») **nicht** rechtskräftig beurteilt sein mussten. Es genügte, wenn die Taten Gegenstand desselben pendenten Strafverfahrens bildeten und mit «an Sicherheit grenzender Wahrscheinlichkeit» feststanden – etwa aufgrund eines Geständnisses oder erdrückender Videoaufnahmen ([BGE 137 IV 84 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-84_2011.html); [BGE 143 IV 9 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-9_2017.html); [BGE 146 IV 326 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-326_2020.html)). Zudem war mit der prätorischen «qualifizierten Wiederholungsgefahr» bei schwersten Gewalttaten sogar ganz auf Vortaten verzichtet worden ([BGE 137 IV 13 E. 3 f.](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-13_2011.html)).
+
+Diese richterliche Praxis stiess in der Strafrechtswissenschaft auf einhellige und scharfe Kritik: Autoren (*Andreas Eicker*, FS Killias 2013, S. 977 ff.; *Andreas Donatsch / Eliane Hiestand*, ZStrR 2014, S. 10 ff.; *Fabio Manfrin*, Ersatzmassnahmenrecht, S. 42 ff.; *Peter Albrecht*, [sui generis 2018, S. 68](https://doi.org/10.21257/sg.59)) rügten die bundesgerichtliche Lückenfüllung als unzulässige Rechtsfortbildung *contra legem*. Indem das Gericht das gesetzliche Vortatenerfordernis unter Verweis auf angebliche Planwidrigkeiten schlicht «weginterpretierte», habe es das Legalitätsprinzip und die verfassungsrechtliche Gewaltenteilung verletzt (*Albrecht*, a.a.O., bezeichnete dieses Vorgehen als «völlig inakzeptabel»).
 
 ##### b) Der Wille des Gesetzgebers (StPO-Revision 2024)
 Mit der per 1. Januar 2024 in Kraft getretenen Revision (AS 2023 468) hat der Gesetzgeber diese Praxis **gezielt invalidiert**:
@@ -277,6 +311,14 @@ Das Bundesgericht wies die Beschwerde ab ([BGer 7B_708/2026 E. 4.4](https://ents
 - Der Einwand, die Beziehungen seien vorüber, beseitigt die Wiederholungsgefahr nicht: Wer bei zwei verschiedenen Frauen dasselbe Muster aus Macht, Kontrolle und sexueller Übergriffigkeit gezeigt hat, trägt die Risikofaktoren in sich; sie aktualisieren sich bei jeder künftigen Bekanntschaft rasch erneut.
 - **Ersatzmassnahmen müssen praxiserprobt sein**: Vom Gutachter vorgeschlagene Sexualitäts- und Deeskalationscoachings können Haft erst ersetzen, wenn sie **bereits in Haft begonnen wurden** und erste verlässliche Berichte über die Mitarbeit des Täters vorliegen ([E. 5.3 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html)).
 
+#### 5. Kritik der Lehre: Zementierung der Präventivhaft und Entwertung der Gefahrenschwelle
+
+Sowohl die gesetzliche Einführung von Art. 221 Abs. 1bis StPO per 1. Januar 2024 als auch die bundesgerichtliche Handhabung der Gefahrenprognose stehen im Fokus grundlegender wissenschaftlicher Kritik:
+
+- **Zementierung der Präventivhaft für Ersttäter**: Strafrechtler (*Daniel Jositsch / Arik Röthlisberger*, [Jusletter vom 13. November 2023](https://doi.org/10.38023/a8dc8958-5404-4615-8302-2405de895fc0); *Peter Albrecht*, [sui generis 2018, S. 67 ff.](https://doi.org/10.21257/sg.59)) betonen, dass der Gesetzgeber mit Art. 221 Abs. 1bis StPO die vormals richterrechtliche Notlösung dauerhaft kodifiziert hat. Damit wurde eine genuin polizeiliche Präventivhaft für unbescholtene Ersttäter im eidgenössischen Strafprozessrecht etabliert, die den Beschuldigten nicht wegen seiner prozessualen Rolle, sondern wegen seiner vermuteten Gefährlichkeit festhält.
+- **Kritik an der «umgekehrten Proportionalität»**: Das Rechenmodell des Bundesgerichts, wonach bei schwersten Tatvorwürfen an die Rückfallgefahr umso geringere Anforderungen zu stellen sind ([BGE 150 IV 149 E. 3.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-150-IV-149_2024.html); [BGE 146 IV 136 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-136_2020.html)), wird in der Lehre als dogmatisch verfehlt zurückgewiesen (*Peter Albrecht*, [sui generis 2018, S. 70 ff.](https://doi.org/10.21257/sg.59); *Anna Coninx / Martino Mona*, ZStrR 2017, S. 8 ff.; *Markus Hug / Alexandra Scheidegger*, BSK StPO, 3. Aufl. 2023, Art. 221 N 39b, 44). Wenn bei gravierenden Delikten bereits ein «mittelgradiges» oder gar rein abstraktes Risiko genügt, verliert das gesetzliche Kriterium der *«ernsthaften und unmittelbaren Gefahr»* jede eigenständige Kontrollfunktion.
+- **«Biedere Laienpsychologie» statt valider Gutachten**: Die Lehre moniert zudem, dass Zwangsmassnahmengerichte die Haftdauer oft monatelang auf blosse vorläufige Aktenberichte stützen, bevor eine methodisch saubere psychiatrische Begutachtung vorliegt (*Hans-Ullrich Paeffgen*, SK-StPO, 5. Aufl. 2016, § 112a Rn 9; *Fabio Manfrin*, Ersatzmassnahmenrecht, S. 147 ff.). Anstelle einer empirisch fundierten Individualprognose finde oft nur eine pauschale Zuweisung zu einer «Risikogruppe» statt, die stark von Opferschutzüberlegungen gesteuert sei (*Albrecht*, S. 72).
+
 > **Merksatz.** Bei drohenden schwersten Gewalttaten (Tötung, Vergewaltigung) ist die Schwelle für Wiederholungsgefahr extrem niedrig: Schon ein «mittleres» Risiko genügt. Ein Beschuldigter kann sich nicht damit verteidigen, dass die konkrete Beziehung beendet sei. Wer Ersatzmassnahmen verlangt, muss die Therapie- und Coachingplätze sofort verbindlich belegen.
 
 ---
@@ -293,6 +335,14 @@ In [BGE 137 IV 122](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-
 
 #### 2. Anwendungsfälle bei akuter Eskalation
 Haft nach Abs. 2 wird geschützt, wenn die Drohung sich auf Delikte wie Tötung (Art. 111 ff. StGB), Brandstiftung (Art. 221 StGB) oder Geiselnahme bezieht und konkrete Anzeichen für eine Umsetzung vorliegen (z.B. Kauf von Schusswaffen, Benzinkanistern, Nachstellen oder akute Eskalationsdynamik; [BGE 146 IV 136 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-136_2020.html)).
+
+#### 3. Kritik der Lehre: Das verfassungswidrige Zwittergebilde zwischen Polizei- und Strafprozessrecht
+
+In der Rechtswissenschaft erfährt Art. 221 Abs. 2 StPO fundamentale Kritik als verfassungs- und systemfremde Norm:
+
+- **Fehlen eines verfahrensrechtlichen Bezugspunkts**: Haft wegen Ausführungsgefahr knüpft weder an eine begangene Anlasstat noch an einen Tatverdacht an; die blosse Drohung genügt (Botschaft StPO, BBl 2006 1085, S. 1229; [BGE 140 IV 19 E. 2.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-19_2014.html)). Es handelt sich der Sache nach um reine polizeiliche Gefahrenabwehr im Vorfeld jeglicher Delinquenz (*Anna Coninx*, ZSR 2016 I, S. 379 ff.; *Adrian Dumitrescu*, AJP 2015, S. 445 ff.).
+- **Fehlende Bundeskompetenz**: Da die Aufrechterhaltung der öffentlichen Sicherheit und die Polizeiorganisation gemäss Art. 57 BV Sache der Kantone sind, fehlt dem Bund die verfassungsrechtliche Kompetenz, eine rein polizeiliche Präventivhaft in der Strafprozessordnung zu regeln (*Mark Pieth*, Schweizerisches Strafprozessrecht, 3. Aufl. 2016, S. 145; *Peter Albrecht*, [sui generis 2018, S. 69](https://doi.org/10.21257/sg.59)).
+- **Das bedenkliche Zwittermodell**: *Anna Coninx* (ZSR 2016 I, S. 388 ff.) analysiert, dass Art. 221 Abs. 2 StPO einen hybriden Charakter aufweist: Bei den Anordnungsvoraussetzungen folgt die Norm der Logik des Polizeirechts (Abwehr künftiger Gefahren); bei der Eingriffsintensität und Dauer greift sie jedoch auf das strafprozessuale Instrumentarium zurück. Während kantonaler Polizeigewahrsam zur Gefahrenabwehr typischerweise auf 24 bis höchstens 48 Stunden beschränkt ist, ermächtigt Art. 221 Abs. 2 StPO zu einem monatelangen Freiheitsentzug völlig ohne begangenes Unrecht. Die Lehre (*Dumitrescu*, AJP 2015, S. 452 ff.; *Albrecht*, S. 71) fordert daher als verfassungsrechtliches Korrektiv, dass Ausführungsgefahr strikt nur bei einer *akuten, unmittelbar bevorstehenden* Verwirklichung und nachweisbaren Vorbereitungshandlungen greifen darf.
 
 > **Merksatz.** Blosse wüste Beschimpfungen oder verbale Drohungen mit Schlägen («Ich mach dich fertig») rechtfertigen niemals eine Inhaftierung nach Art. 221 Abs. 2 StPO. Staatsanwälte müssen belegen, dass ein Verbrechen (Freiheitsstrafe über 3 Jahre) angedroht wurde und die Drohung ernst gemeint war.
 
@@ -312,6 +362,13 @@ Wer die Freilassung gegen Ersatzmassnahmen verlangt, darf dies nicht abstrakt tu
 Eine Sicherheitsleistung bannt Fluchtgefahr nur, wenn sie dem Beschuldigten tatsächlich «wehtut»: Sie muss so bemessen sein, dass der drohende Vermögensverlust den Fluchtanreiz neutralisiert. Bei vermögenden Beschuldigten sind Kautionssummen im sechs- oder siebenstelligen Bereich üblich; für Mittellose kann auch ein kleiner Betrag genügen ([SZ KG BEK 2024 190 vom 22. Januar 2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-190_2025-01-22.pdf)).
 
 **Rückbindung.** Die Kaution wirkt nur auf **Merkmal 3a** (Fluchtgefahr). Gegen Kollusions-, Wiederholungs- und Ausführungsgefahr ist sie von vornherein untauglich — dort helfen nur Kontakt- und Rayonverbote, Electronic Monitoring oder eine ambulante Behandlung (Art. 237 Abs. 2 StPO).
+
+#### 3. Kritik der Lehre: Unterlaufen der Offizialprüfung und faktische Beweislastumkehr
+
+Die Diskrepanz zwischen dem Gesetzesauftrag und der Gerichtspraxis zu Ersatzmassnahmen bildet einen steten Kritikpunkt in der Literatur:
+
+- **Unterlaufen der gesetzlichen Untersuchungsmaxime**: Nach Art. 197 Abs. 1 lit. c und Art. 212 Abs. 2 lit. c StPO ist die Prüfung milderer Massnahmen eine zwingende Amtspflicht des Zwangsmassnahmengerichts. In der Lehre (*Fabio Manfrin*, Ersatzmassnahmenrecht, S. 142 ff.; *Wolfgang Wohlers*, Kommentar zur Schweizerischen Strafprozessordnung, 3. Aufl. 2020, Art. 197 N 12; *Jörg Künzli / Samuel Ostendarp / Noel Stucki*, [SKMR-Aktualisierung 2022, S. 15 ff.](https://boris-portal.unibe.ch/handle/20.500.12422/207247)) wird scharf gerügt, dass die Rechtsprechung diese Offizialprüfung in eine faktische Darlegungs- und Beweislast der Verteidigung verkehrt hat.
+- **Passivität der Justiz zum Nachteil der Betroffenen**: Weit davon entfernt, mildere Massnahmen von Amtes wegen zu evaluieren, weisen Zwangsmassnahmengerichte Anträge auf Haftentlassung regelmässig ab, wenn die Verteidigung kein schlüsselfertiges Massnahmenpaket unterbreitet ([BGer 7B_708/2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html); [TPF 2024 77 E. 8](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2024-77_2024.pdf)). Aus der Untersuchungshaft heraus sind Beschuldigte jedoch kaum fähig, binnen der 48-stündigen Haftprüfungsfrist Therapiebestätigungen, Kautionsgarantien oder Arbeitszusagen beizubringen. Die Lehre fordert, dass Zwangsmassnahmengerichte bei grundsätzlich haftmilderungsfähigen Konstellationen (wie in [BGer 7B_1311/2026 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html#consideration_3.3)) die Strafverfolgungs- und Vollzugsbehörden instruieren müssen, konkrete Auflagen (GPS-Überwachung, Meldepflichten, Schriftensperren) behördlich zu prüfen und umzusetzen.
 
 > **Merksatz.** Warten Sie nicht darauf, dass Staatsanwaltschaft oder Gericht Ersatzmassnahmen vorschlagen. Bringen Sie bezugsfertige Lösungen: bestätigte Therapieplätze, Meldeadressen ausserhalb des Opferschutzrayons, verbindliche Kautionsangebote mit offengelegter Mittelherkunft. Und wählen Sie die Massnahme passend zum **konkreten** Haftgrund — eine Kaution gegen Kollusionsgefahr ist ein Eigentor.
 
@@ -371,3 +428,30 @@ In der Schwyzer Gerichtspraxis ([SZ KG BEK 2024 190 vom 22. Januar 2025](https:/
 - **Wiederholungsgefahr bei Ersttätern** (Merkmal 3c): Stützen Sie Anträge bei Tätern ohne Vorstrafen seit 2024 präzise auf Art. 221 Abs. 1bis StPO und fordern Sie unverzüglich ein forensisch-psychiatrisches Vorabgutachten an.
 - **Bei Abs. 2 die angedrohte Tat qualifizieren** (Merkmal 1): Belegen Sie, dass ein **Verbrechen** angedroht wurde — nicht bloss Schläge.
 - **Ersatzmassnahmen prüfen** (Merkmal 4): Ein Haftantrag wird angreifbar, wenn mildere Massnahmen (GPS-Rayonverbote bei häuslicher Gewalt) nicht einmal erwogen wurden.
+
+---
+
+## Literatur
+
+* **Ajil Ahmed / Mühlemann David**, Kommentierung zu Art. 31 BV, in: Onlinekommentar zur Schweizerischen Bundesverfassung, 2026 (abrufbar unter: [onlinekommentar.ch/de/kommentare/bv31](https://onlinekommentar.ch/de/kommentare/bv31)).
+* **Albrecht Peter**, Präventive Irritationen in der Dogmatik des Strafprozessrechts, in: sui generis 2018, S. 58–76 (abrufbar unter: [sui-generis.ch/article/view/sg.59](https://doi.org/10.21257/sg.59)).
+* **Coninx Anna**, Haft wegen Ausführungsgefahr – Notwendige Beschränkung einer hybriden Rechtsfigur zwischen Strafprozessrecht und Polizeirecht, in: ZSR 2016 I, S. 379–403.
+* **Coninx Anna / Mona Martino**, Strafprozessualer Zwang und positive Schutzpflichten – Verbrechensverhütung als Legitimation von Zwangsmassnahmen, in: ZStrR 2017, S. 1–28.
+* **Donatsch Andreas / Hiestand Eliane**, Wortlaut des Gesetzes oder allgemeine Rechtsprinzipien bei der Auslegung der StPO, in: ZStrR 2014, S. 1–25.
+* **Dumitrescu Adrian**, Die Präventivhaft nach Art. 221 Abs. 2 StPO, in: AJP 2015, S. 445–457.
+* **Eicker Andreas**, Zur bundesgerichtlichen Interpretation des Haftrechts contra legem, in: Kuhn André et al. (Hrsg.), Kriminologie, Kriminalpolitik und Strafrecht aus patrimonialer Sicht, Festschrift für Martin Killias, Bern 2013, S. 977–996.
+* **Geth Christopher**, Kollusionsgefahr im Haftverfahren, in: recht 2017, S. 13–24.
+* **Härri Matthias**, Auswirkungen der Unschuldsvermutung auf das Recht der Untersuchungshaft, in: AJP 2006, S. 1215–1227.
+* **Hug Markus / Scheidegger Alexandra**, Basler Kommentar zur Schweizerischen Strafprozessordnung, Jugendstrafprozessordnung, Art. 221 StPO, 3. Aufl., Basel 2023.
+* **Jositsch Daniel / Röthlisberger Arik**, Reform von Art. 221 Abs. 1 lit. c StPO. Die Änderung und Neufassung des Haftgrunds der Wiederholungsgefahr, in: Jusletter vom 13. November 2023 (abrufbar unter: [doi.org/10.38023/a8dc8958-5404-4615-8302-2405de895fc0](https://doi.org/10.38023/a8dc8958-5404-4615-8302-2405de895fc0)).
+* **Krauss Detlef**, Der Grundsatz der Unschuldsvermutung im Strafverfahren, in: Müller-Dietz Heinz (Hrsg.), Strafrechtsdogmatik und Kriminalpolitik, Köln 1971, S. 167–188.
+* **Künzli Jörg / Ostendarp Samuel / Stucki Noel**, Untersuchungshaft: Menschenrechtliche Standards und ihre Umsetzung in der Schweiz, Studie zuhanden des Lenkungsausschusses des Schweizerischen Kompetenzzentrums für Menschenrechte (SKMR), Aktualisierung 2022, Bern 2022 (abrufbar unter: [boris-portal.unibe.ch/handle/20.500.12422/207247](https://boris-portal.unibe.ch/handle/20.500.12422/207247)).
+* **Manfrin Fabio**, Ersatzmassnahmenrecht zur Schweizerischen Strafprozessordnung, Diss. Zürich, Zürich/Basel/Genf 2014.
+* **Oberholzer Niklaus**, Grundzüge des Strafprozessrechts, 4. Aufl., Bern 2020.
+* **Paeffgen Hans-Ullrich**, Systematischer Kommentar zur Strafprozessordnung, Band III: §§ 112–136a StPO, 5. Aufl., Köln 2016.
+* **Pieth Mark**, Schweizerisches Strafprozessrecht, 3. Aufl., Basel 2016.
+* **Ruckstuhl Niklaus / Dittmann Volker / Arnold Jörg**, Strafprozessrecht, Zürich/Basel/Genf 2011.
+* **Schmid Niklaus**, Zum Haftgrund der Wiederholungs- und Fortsetzungsgefahr in der neueren schweizerischen Strafprozessentwicklung, in: SJZ 1987, S. 225–233.
+* **Schmid Niklaus / Jositsch Daniel**, Schweizerische Strafprozessordnung (StPO), Praxiskommentar, 4. Aufl., Zürich/St. Gallen 2023.
+* **Vest Hans**, Zum Haftgrund der Kollusionsgefahr, Bemerkungen zu BGE 128 I 149, in: AJP 2002, S. 984–989.
+* **Wohlers Wolfgang**, Kommentar zur Schweizerischen Strafprozessordnung (StPO), hrsg. von A. Donatsch / Th. Hansjakob / V. Lieber, 3. Aufl., Zürich 2020, Art. 197 StPO.
