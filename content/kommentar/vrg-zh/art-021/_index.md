@@ -2,7 +2,7 @@
 title: "§ 21 VRG ZH — Rekurslegitimation"
 weight: 21
 date: '2026-11-09'
-lastmod: 2026-11-09
+lastmod: '2026-11-09'
 description: "Praxiskommentar zu § 21 VRG des Kantons Zürich: Berührtsein und schutzwürdiges Interesse, Nachbarn, Dritte, Verbände, Gemeindebeschwerde (Abs. 2 lit. a–c), Substanziierung, Kasuistik und Lehre."
 tags:
   - VRG
@@ -12,7 +12,11 @@ tags:
   - Gemeindebeschwerde
   - Zürich
 revisions:
-  - date: 2026-11-09
+  - date: '2026-11-09'
+    by: Antigravity
+    model: gemini-3.8-flash
+    note: "Review und Verifikation der Belege im Volltext; Daten für Gesetzeswortlaut sowie Rechtsprechungsübersicht im Page Bundle ergänzt."
+  - date: '2026-11-09'
     by: "Claude (claude.ai)"
     model: "claude-sonnet-5-5"
     note: "Neukommentierung von § 21 VRG ZH (Privatlegitimation Abs. 1, Gemeindelegitimation Abs. 2 lit. a–c, Kasuistik, Obergericht, Lehre). Entscheide des Verwaltungsgerichts, des Obergerichts und BGer 8C_113/2014 auf entscheidsuche.ch im Volltext gelesen; Belege je Fundstelle mit wörtlichem Trägersatz protokolliert. Lehre nur über die Zitierung in den Entscheiden erfasst, Volltexte der Werke nicht geprüft."
