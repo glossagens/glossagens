@@ -315,3 +315,9 @@ tschg:
   standard: [landwirtschaft]
   bereiche:
     - { von: 26, bis: 31, sachgebiete: [strafrecht] }
+
+kmg:
+  standard: [verwaltungsrecht]
+  bereiche:
+    - { von: 33, bis: 39, sachgebiete: [strafrecht] }
+
