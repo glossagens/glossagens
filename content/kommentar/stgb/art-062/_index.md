@@ -2,9 +2,14 @@
 title: "Art. 62 StGB — Bedingte Entlassung"
 weight: 62
 date: 2024-03-01
-lastmod: 2026-09-25
+lastmod: 2026-11-09
 description: "Praxiskommentar zu Art. 62 StGB: Bedingte Entlassung aus stationären therapeutischen Massnahmen, Bemessung der Probezeit, Weisungen, Altersgrenzen und Verlängerung."
 tags: ["StGB", "Massnahmenrecht", "Bedingte Entlassung", "Probezeit", "Weisungen", "Vollzug"]
+revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_849/2026 vom 02.10.2026: Bedingte Entlassung aus stationärer Massnahme bei günstiger Prognose zwingend auch gegen den Willen des Verurteilten; Konventionskonformität der Kopplung an den Vollzug der Ausschaffung."
 ---
 
 ## 1. Gesetzeswortlaut
@@ -91,6 +96,12 @@ Der Massstab für die hinzunehmende Rückfallgefahr hängt strikt vom Rang des p
 > **Wichtig.** Bei der Beurteilung der Gefährlichkeit und der Erstellung der Kriminalprognose nach Art. 62 Abs. 1 StGB findet die Maxime *in dubio pro reo* **keine Anwendung** ([BGE 137 IV 201 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-201_2011.html#consideration_1.2)).
 
 Verbleiben nach umfassender Begutachtung und Erprobung im Vollzug ernsthafte Zweifel an der Beherrschbarkeit des deliktischen Risikos, gehen diese Zweifel nicht zugunsten der verurteilten Person. Die bedingte Entlassung ist in solchen Konstellationen zu verweigern, da der Schutz der Allgemeinheit vor schwerwiegenden Rechtsgutsverletzungen Vorrang hat.
+
+### D. Bedingte Entlassung auch gegen den Willen des Verurteilten und Kopplung an den Ausschaffungsvollzug
+
+* **Kein Recht auf Verbleib in der Massnahme:** Die bedingte Entlassung nach Art. 62 Abs. 1 StGB ist kein fakultatives Gestaltungsrecht der verurteilten Person, sondern eine gesetzliche Pflichtfolge des Verhältnismässigkeitsprinzips (Art. 5 Abs. 2 BV, Art. 56 Abs. 2 StGB). Hat sich der Zustand der verurteilten Person im stationären Rahmen stabilisiert, ist das Rückfallrisiko gering und lässt sich kein zusätzlicher therapeutischer Nutzen im institutionellen Rahmen mehr erzielen, so ist die bedingte Entlassung zwingend zu gewähren — **auch gegen den ausdrücklichen Willen des Verurteilten** ([BGer 7B_849/2026 vom 2. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_849_2026) E. 2.1–2.4).
+* **Konventionskonformität (Art. 3 und 5 EMRK):** Art. 5 Ziff. 1 lit. e EMRK verleiht einer psychisch beeinträchtigten Person keinen Anspruch auf Fortführung des Freiheitsentzugs im Rahmen einer stationären Massnahme, wenn die Voraussetzungen für eine Bewährung in Freiheit erfüllt sind. Der blosse Umstand, dass weiterhin eine psychiatrische oder medikamentöse Weiterbehandlung indiziert ist, schliesst eine günstige Prognose nach Art. 62 Abs. 1 StGB nicht aus ([BGer 7B_849/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_849_2026) E. 2.3.4).
+* **Kopplung an den Ausschaffungsvollzug:** Ist die verurteilte Person ausreisepflichtig und droht nach Entlassung der Vollzug einer Landesverweisung oder ausländerrechtlichen Wegweisung, so ist die Vollzugsanordnung bundesrechtskonform, welche die bedingte Entlassung formell auf den ersten Tag festsetzt, an dem der administrative Vollzug der Ausreise bzw. Ausschaffung durchgeführt werden kann, und die Unterbringung bis zu diesem Tag fortdauern lässt ([BGer 7B_849/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_849_2026) E. 2.2). Ein solches Vorgehen verletzt weder Art. 62 StGB noch Art. 3 oder Art. 5 EMRK.
 
 ---
 

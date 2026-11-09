@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 321 StGB"
 weight: 99
 date: 2026-10-28
-lastmod: 2026-10-28
+lastmod: 2026-11-09
 description: "Übersicht der Leitentscheide und Gerichtsentscheide zu Art. 321 StGB (Verletzung des Berufsgeheimnisses): Vertrauensarzt, Anwaltsgeheimnis, Entbindung, Hilfspersonen und Strafantrag."
 tags: ["Rechtsprechung", "StGB", "Berufsgeheimnis", "Anwaltsgeheimnis", "Arztgeheimnis", "Hilfspersonen", "Entbindung"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 5A_316/2026 vom 28.08.2026: Anwendbares Recht auf das Berufsgeheimnis ausländischer Anwälte; Beurteilung von Geheimnisumfang und Offenbarung zur Eigenverteidigung nach dem ausländischen Heimatrecht/Berufsrecht."
   - date: 2026-10-28
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -13,6 +17,11 @@ revisions:
 ---
 
 ## I. Leitentscheide
+
+### Ausländische Anwälte unter Art. 321 StGB; Geheimnisumfang nach ausländischem Berufsrecht
+**[BGer 5A_316/2026 vom 28. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_316_2026) E. 4.3**  
+*Sachverhalt:* In einem Arrestverfahren reichte ein luxemburgischer Rechtsanwalt zur Glaubhaftmachung seiner Forderungen bzw. zur Abwehr von Vorwürfen seines Mandanten Dokumente aus dem Mandatsverhältnis bei einem Schweizer Gericht ein. Der Schuldner erhob Arrest-Einsprache und rügte, die Beweismittel seien unter Verletzung von Art. 321 StGB und Art. 13 BGFA rechtswidrig erlangt worden (Art. 152 Abs. 2 ZPO), da keine formelle Entbindung durch die Aufsichtsbehörde vorliege.  
+*Kernaussage:* Der persönliche Anwendungsbereich von Art. 321 Ziff. 1 StGB erfasst zwar auch ausländische Anwälte, unabhängig von einer EU-Zugehörigkeit ([BGE 147 IV 385 E. 2.6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-385_2021.html#consideration_2.6.2)). Die Norm definiert die materiellen Grenzen der Geheimhaltungspflicht jedoch nicht selbst. Bei Mandaten mit Bezug zu ausländischem Recht bestimmen sich Inhalt, Umfang und Rechtfertigungsgründe des Berufsgeheimnisses nach dem massgeblichen ausländischen Berufs- und Standesrecht. Erlaubt dieses (z.B. Art. 7.1.4 des Reglements der Luxemburger Anwaltskammer) die Offenbarung zur eigenen Verteidigung des Anwalts vor Gericht ohne behördliches Entbindungsverfahren, sind die Akten im schweizerischen Verfahren nicht rechtswidrig beschafft und verwertbar. Das schweizerische Entbindungsregime bildet keinen zwingenden *ordre public* (Art. 18 IPRG).
 
 ### Vertrauensarzt des Arbeitgebers untersteht Berufsgeheimnis; Schranken des Art. 328b OR
 **[BGE 143 IV 209 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-209_2017.html#consideration_1.2)** (Urteil 6B_1199/2016 vom 4. Mai 2017)  

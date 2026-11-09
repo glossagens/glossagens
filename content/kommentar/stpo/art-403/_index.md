@@ -2,10 +2,14 @@
 title: "Art. 403 StPO — Eintreten auf die Berufung"
 weight: 403
 date: "2026-08-30"
-lastmod: 2026-10-15
+lastmod: 2026-11-09
 description: "Kommentar zu Art. 403 StPO – Eintreten auf die Berufung: Schriftliches Nichteintretensverfahren (Abs. 1), Gehörsgewährung (Abs. 2), begründeter Nichteintretensentscheid (Abs. 3) und Fortführung bei Bejahung des Eintretens (Abs. 4)."
 tags: ["StPO", "Berufung", "Eintreten", "Nichteintreten", "schriftliches Verfahren", "rechtliches Gehör", "Prozessvoraussetzungen", "Rechtsmittelverfahren"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Präzisierung zu Art. 403 Abs. 2 StPO nach BGer 7B_1228/2024 vom 26.10.2026: Zwingende Gehörswahrung vor Nichteintreten bei geplanter Umqualifikation des erstinstanzlichen Entscheids; Ausschluss der Heilung vor Bundesgericht mangels voller Tatsachenkognition."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -52,7 +56,10 @@ revisions:
 
 ## Abs. 2 bis Abs. 4 — Verfahrensablauf
 
-**Rz. 6** **Rechtliches Gehör (Abs. 2).** Vor dem Nichteintretensentscheid hat das Berufungsgericht allen Parteien zwingend Gelegenheit zur schriftlichen Stellungnahme zu geben ([BGer 6B_776/2021 vom 8. November 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-776-2021_2021-11-08.html) E. 1.3).
+**Rz. 6** **Rechtliches Gehör (Abs. 2).** Vor dem Nichteintretensentscheid hat das Berufungsgericht allen Parteien zwingend Gelegenheit zur schriftlichen Stellungnahme zu geben ([BGer 6B_776/2021 vom 8. November 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-776-2021_2021-11-08.html) E. 1.3). Diese Bestimmung bezweckt die verfassungsmässige Gehörswahrung (Art. 29 Abs. 2 BV; BBl 2006 1085, S. 1300).
+- *Doktrin und Ausnahmebegrenzung*: Zwar wird in der Lehre vertreten, die Berufungsinstanz könne bei offensichtlicher Unzulässigkeit auf eine Gehörsgewährung verzichten (Moreillon/Parein-Reymond, Petit commentaire CPP, 3. Aufl. 2025, N 18a zu Art. 403; Jositsch/Schmid, Praxiskommentar StPO, 4. Aufl. 2023, N 8 zu Art. 403; Zimmerlin, BSK StPO, 3. Aufl. 2020, N 6 zu Art. 403).
+- *Strenge bundesgerichtliche Praxis ([BGer 7B_1228/2024 vom 26. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1228_2024) E. 2.2–2.3)*: Eine Nichteintretensentscheidung ohne vorherige Anhörung ist unzulässig, sobald die Unzulässigkeit nicht offenkundig auf der Hand liegt. Dies gilt namentlich, wenn das Berufungsgericht das erstinstanzliche Erkenntnis abweichend qualifizieren will (z.B. Umqualifikation eines erstinstanzlichen Freispruchs in eine Einstellungsverfügung nach Art. 329 Abs. 4 StPO) oder wenn die Verfahrensleitung bereits Instruktionsschritte vorgenommen und Verhandlungstermine angesetzt hatte.
+- *Keine Heilung vor dem Bundesgericht*: Das Bundesgericht stellte klar, dass eine Verletzung von Art. 403 Abs. 2 StPO vor Bundesgericht **nicht heilbar** ist. Da das Bundesgericht als oberste Instanz nur über eine eingeschränkte Kognition verfügt (Art. 95 und 105 BGG), würde einer Partei sonst die rechtliche und tatsächliche Beurteilung der Eintretensvoraussetzungen durch eine Rechtsmittelinstanz mit voller Sach- und Rechtsprüfung entzogen ([BGer 7B_1228/2024](https://mcp.opencaselaw.ch/entscheid/bger_7B_1228_2024) E. 2.3).
 
 **Rz. 7** **Nichteintretensentscheid und Kosten (Abs. 3).** Tritt das Gericht nicht ein, eröffnet es einen schriftlich begründeten Beschluss. Die Kosten des Nichteintretensverfahrens werden der berufungsklagenden Partei auferlegt (Art. 428 Abs. 1 StPO; [TPF CN.2025.24 vom 19. November 2025](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_CN-2025-24_2025-11-19.pdf)). Der Entscheid unterliegt der Beschwerde in Strafsachen an das Bundesgericht (Art. 78 ff. BGG).
 

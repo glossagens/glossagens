@@ -2,12 +2,24 @@
 title: "Rechtsprechung zu Art. 62 StGB"
 weight: 99
 date: 2024-03-01
-lastmod: 2026-09-25
+lastmod: 2026-11-09
 description: "Übersicht der Rechtsprechung zu Art. 62 StGB: Bedingte Entlassung aus stationären Massnahmen, Bemessung und Verlängerung der Probezeit, Weisungen und Kontrollen."
 tags: ["Rechtsprechung", "StGB", "Massnahmenrecht", "Bedingte Entlassung", "Probezeit", "Weisungen"]
+revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_849/2026 vom 02.10.2026: Bedingte Entlassung bei günstiger Prognose auch gegen den Willen des Verurteilten; Kopplung an den Ausschaffungsvollzug konventionskonform."
 ---
 
 ## I. Leitentscheide
+
+### Bedingte Entlassung aus stationärer Massnahme bei günstiger Prognose auch gegen den Willen des Verurteilten
+[BGer 7B_849/2026 vom 2.10.2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_849_2026) E. 2.1–2.4
+* **Sachverhalt:** Ein zu einer stationären therapeutischen Massnahme (Art. 59 StGB) verurteilter ausländischer Staatsangehöriger stabilisierte sich im Vollzug und das Rückfallrisiko sank auf ein geringes Mass. Die Vollzugsbehörde gewährte ihm gestützt auf eine überzeugende Begutachtung die bedingte Entlassung, wobei sie den Zeitpunkt der Entlassung formell auf den ersten Tag festsetzte, an dem seine administrative Ausschaffung nach Marokko vollzogen werden konnte. Der Verurteilte focht die bedingte Entlassung an: Er verlangte den Verbleib in der Massnahme und rügte eine Verletzung von Art. 3 und 5 EMRK sowie Art. 62 StGB.
+* **Kernaussage:** Art. 62 Abs. 1 StGB verpflichtet die Behörde zur bedingten Entlassung, sobald der Zustand der verurteilten Person den Versuch einer Bewährung in Freiheit rechtfertigt. Die verurteilte Person hat keinen Rechtsanspruch darauf, gegen ihren Willen im stationären Massnahmenvollzug belassen zu werden, wenn die Behandlung ihren Zweck erfüllt hat und kein zusätzlicher therapeutischer Ertrag mehr zu erwarten ist. Weder Art. 5 noch Art. 3 EMRK begründen ein «Recht auf Massnahmenvollzug». Dass eine ambulante Weiterbehandlung notwendig bleibt, schliesst die günstige Prognose nach Art. 62 Abs. 1 StGB nicht aus. Die Kopplung des Entlassungstermins an den Vollzug der ausländerrechtlichen Wegweisung ist bundesrechts- und konventionskonform.
+
+---
 
 ### Kriterien der bedingten Entlassung, Legalprognose und Ausschluss von «in dubio pro reo»
 [BGE 137 IV 201 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-201_2011.html#consideration_1.2)

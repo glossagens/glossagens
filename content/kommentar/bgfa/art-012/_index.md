@@ -2,10 +2,14 @@
 title: "Art. 12 — Berufsregeln"
 weight: 12
 date: 2026-08-29
-lastmod: 2026-10-15
+lastmod: 2026-11-09
 description: "Kommentar zu Art. 12 BGFA — Berufsregeln für Anwältinnen und Anwälte mit Praxisfällen"
 tags: ["BGFA", "Berufsregeln", "Anwaltsrecht", "Honorar", "Informationspflicht", "Interessenkonflikt", "Verschwiegenheit"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung zu Art. 12 lit. a BGFA: Pflicht zur postalischen Aktenrückgabe nach Mandatsende und Ausschluss des Retentionsrechts (ZH VG VB.2025.00586 vom 01.10.2026); Disziplinarschwelle und Zulässigkeit einer Strafanzeige zur Klienteninteressenwahrung (VD TC GE.2026.0172 vom 15.10.2026)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -54,9 +58,13 @@ Der Anwalt hat seinen Klienten über das Stundenhonorar aufzuklären und ihn per
 
 **Erbteilungsverweigerung:** Das Verweigern der Zustimmung zu einer Erbteilung, die nach Ansicht des Willensvollstreckers ideal wäre, ist nicht standeswidrig. Der Anwalt hat in erster Linie die Interessen seiner Klientschaft zu wahren und ist nicht verpflichtet, stets das mildest mögliche Vorgehen zu wählen (LU Aufsichtsbehörde [AR 11 41](https://entscheidsuche.ch/docs/LU_Gerichte/LU_AUK_001_AR-11-41_2012-03-02.html), E. 3.2.2).
 
-#### 4. Kanzleipflichten und Erreichbarkeit
+**Strafanzeige für die Mandantschaft:** Die Unterstützung einer Klientschaft bei der Einreichung einer Strafanzeige (z.B. gegen einen säumigen Unterhaltsschuldner nach Art. 217 StGB) stellt keine Pflichtverletzung nach Art. 12 lit. a BGFA dar, sofern objektive Anhaltspunkte für ein deliktisches Verhalten vorliegen. Die disziplinarische Verantwortlichkeit setzt einen bedeutsamen Pflichtverstoss (*manquement significatif*) voraus; von einer rechtsmissbräuchlichen Instrumentalisierung des Strafverfahrens als blossem Druckmittel kann keine Rede sein, wenn die Strafanzeige der sachgerechten Durchsetzung berechtigter Klientenansprüche in einer Notlage dient (VD TC [GE.2026.0172 vom 15. Oktober 2026](https://entscheidsuche.ch/docs/VD_Omni/VD_TC_031_GE-2026-0172_2026-10-15.html)).
 
-Zu den allgemeinen, von lit. a erfassten Pflichten gehört die Pflicht zur Führung einer Kanzlei. Anwälte sind verpflichtet, die für die Berufsausübung erforderlichen sachlichen, personellen und organisatorischen Voraussetzungen zu schaffen. Insbesondere haben sie die Erreichbarkeit für Klientschaft, Gerichte und Behörden sicherzustellen und Telefonanrufe sowie Mitteilungen innert angemessener Frist zu beantworten (AG Anwaltskommission [AVV.2014.22](https://entscheidsuche.ch/docs/AG_Gerichte/AG_AK_001_AVV-2014-22_2014-10-16.pdf)).
+#### 4. Kanzleipflichten, Erreichbarkeit und Aktenherausgabe
+
+Zu den allgemeinen, von lit. a erfassten Pflichten gehört die Pflicht zur ordnungsgemässen Kanzleiführung und Organisation. Anwälte haben die Erreichbarkeit sicherzustellen und Mitteilungen innert angemessener Frist zu beantworten (AG Anwaltskommission [AVV.2014.22](https://entscheidsuche.ch/docs/AG_Gerichte/AG_AK_001_AVV-2014-22_2014-10-16.pdf)).
+
+**Pflicht zur postalischen Aktenrückgabe nach Mandatsende:** Die Pflicht zur Herausgabe der Mandatsakten nach Beendigung des Auftrags fällt unter die Generalklausel von Art. 12 lit. a BGFA. Ein blosses Angebot, die Akten in der Kanzlei abzuholen, entlastet den Anwalt nicht von seiner Herausgabepflicht. Verlangt der Klient die Zusendung, hat der Anwalt die Akten innert angemessener Frist postalisch zu übermitteln (wobei er die Portokosten in Rechnung stellen darf). An den Mandantenakten besteht **kein Retentionsrecht** zur Durchsetzung offener Honorarforderungen (ZH VG [VB.2025.00586 vom 1. Oktober 2026](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2025-00586_2026-10-01.html) E. 3.3, 4.4 und 4.6.2).
 
 #### 5. Verschwiegenheit und Vergleichsverhandlungen
 

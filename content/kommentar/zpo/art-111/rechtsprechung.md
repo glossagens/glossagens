@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 111 ZPO"
 weight: 99
 date: "2026-08-16"
-lastmod: "2026-08-16"
+lastmod: "2026-11-09"
 description: "Übersicht der Rechtsprechung zu Art. 111 ZPO — Liquidation der Prozesskosten, Rückerstattung des Kostenvorschusses an die obsiegende Partei, Verhältnis zu Art. 68 SchKG und unentgeltliche Rechtspflege."
 tags: ["Rechtsprechung", "ZPO", "Prozesskosten", "Kostenvorschuss", "Liquidation", "SchKG"]
 revisions:
+  - date: "2026-11-09"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von FR Kantonsgericht 102 2026 92 vom 19.06.2026: Durchsetzung der Rückerstattung des Kostenvorschusses im Rechtsöffnungsverfahren (BGE 152 III 154) und Kostenauflage an den Kanton."
   - date: "2026-08-16"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -76,6 +80,10 @@ Die folgende Übersicht dokumentiert die massgebende Rechtsprechung zur Liquidat
 ### 12. Kanton Zürich: Liquidation erstinstanzlicher Kosten und Schlichtungsgebühren
 * **Urteil:** [Obergericht Zürich, Urteil PP170018 vom 11. Juli 2017 E. III.1](https://mcp.opencaselaw.ch/entscheid/zh_obergericht_PP170018)
 * **Kernaussage:** Im Rahmen der erstinstanzlichen Kostenliquidation sind nicht nur die Kosten des Hauptverfahrens, sondern auch die Gebühren der vorangehenden Klagebewilligung der Schlichtungsbehörde gemäss Art. 111 ZPO zu verlegen und abzurechnen.
+
+### 13. Kanton Freiburg: Durchsetzung der Vorschuss-Rückerstattung im Rechtsöffnungsverfahren und Kostenauflage an den Kanton
+* **Urteil:** [FR Kantonsgericht 102 2026 92 vom 19. Juni 2026](https://entscheidsuche.ch/docs/FR_Gerichte/FR_TC_001_102-2026-92_2026-06-19.pdf)
+* **Kernaussage:** In konsequenter kantonale Umsetzung von BGE 152 III 154 gilt Art. 111 Abs. 1 Satz 2 ZPO uneingeschränkt im Rechtsöffnungsverfahren: Der Kostenvorschuss der obsiegenden Partei ist durch die Gerichtskasse zurückzuerstatten. Weigert sich die Vorinstanz unter Verrechnung mit den Gerichtskosten, gilt der Kanton im Rekursverfahren als unterliegende Partei nach Art. 106 Abs. 1 ZPO und trägt die Rekurskosten.
 
 ---
 

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 403 StPO"
 weight: 99
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: "2026-11-09"
 description: "Übersicht der Rechtsprechung zu Art. 403 StPO – Nichteintreten auf die Berufung, schriftliches Vorprüfungsverfahren, rechtliches Gehör und Prozesshindernisse."
 tags: ["Rechtsprechung", "StPO", "Berufung", "Eintreten", "Nichteintreten", "schriftliches Verfahren", "rechtliches Gehör", "Prozesshindernisse"]
 revisions:
+  - date: "2026-11-09"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_1228/2024 vom 26.10.2026: Zwingende Gehörswahrung nach Art. 403 Abs. 2 StPO vor Nichteintretensentscheid und Ausschluss der Heilung vor Bundesgericht."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -86,6 +90,11 @@ revisions:
 ---
 
 ## III. Weitere Entscheide und kantonale Praxis
+
+### [BGer 7B_1228/2024 vom 26.10.2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1228_2024) E. 2.2–2.3
+- **Thema**: Zwingende Gehörswahrung vor Nichteintreten (Abs. 2) und Ausschluss der Heilung vor Bundesgericht
+- **Kernaussage**: Vor einem Nichteintretensentscheid nach Art. 403 StPO ist den Parteien nach Abs. 2 zwingend Gelegenheit zur Stellungnahme zu geben. Selbst wenn in der Lehre bei manifester Unzulässigkeit ein Ausnahmefall diskutiert wird, gilt dies keinesfalls, wenn das Berufungsgericht den erstinstanzlichen Entscheid umqualifizieren will (z.B. Freispruch als Einstellungsverfügung nach Art. 329 Abs. 4 StPO) oder die Verfahrensleitung bereits Instruktionsschritte eingeleitet hatte. Eine Verletzung des Gehörsanspruchs kann vor dem Bundesgericht wegen dessen beschränkter Kognition (Art. 95 und 105 BGG) nicht geheilt werden.
+- **Einschlägig für**: Abs. 1 lit. b und Abs. 2
 
 ### [BGer 6B_776/2021 vom 08.11.2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-776-2021_2021-11-08.html) E. 1.3
 - **Thema**: Zwingende Gehörswahrung vor Nichteintretensentscheid (Abs. 2)

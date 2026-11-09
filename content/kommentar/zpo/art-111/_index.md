@@ -2,10 +2,14 @@
 title: "Art. 111 ZPO — Liquidation der Prozesskosten"
 weight: 111
 date: "2026-08-16"
-lastmod: "2026-08-16"
+lastmod: "2026-11-09"
 description: "Kommentar zu Art. 111 ZPO: Liquidation der Prozesskosten, Systemwechsel per 1.1.2025 zur Rückerstattung des Kostenvorschusses an die obsiegende Partei und Verhältnis zu Art. 68 SchKG."
 tags: ["ZPO", "Prozesskosten", "Kostenvorschuss", "Liquidation", "Verrechnung", "Rückerstattung", "Parteientschädigung", "SchKG"]
 revisions:
+  - date: "2026-11-09"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung zu Praxisfrage 1 nach FR Kantonsgericht 102 2026 92 vom 19.06.2026: Durchsetzung der Rückerstattung des Kostenvorschusses im Rechtsöffnungsverfahren nach BGE 152 III 154 und Kostenauflage an den Kanton als unterliegende Partei."
   - date: "2026-08-16"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -89,6 +93,7 @@ Wurde einer oder beiden Parteien die unentgeltliche Rechtspflege (Art. 117 ff. Z
 
 * **Hintergrund:** Nach Art. 68 Abs. 1 SchKG hat der Gläubiger die Betreibungskosten vorzuschiessen, wozu nach bisheriger Rechtsprechung auch die Kosten gerichtlicher SchKG-Summarverfahren (z.B. Rechtsöffnung nach Art. 82 SchKG, Konkurseröffnung nach Art. 166 ff. SchKG) zählten ([BGE 139 III 195 E. 4.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_III_195#e-4-2-2); [BGE 149 III 210 E. 4.1.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_III_210#e-4-1-1)). In der kantonalen Gerichtspraxis (u.a. im Kanton Aargau) wurde deshalb nach Inkrafttreten der ZPO-Revision argumentiert, Art. 68 SchKG gehe als *lex specialis* vor, weshalb der Vorschuss des obsiegenden Gläubigers weiterhin mit den Gerichtskosten zu verrechnen sei.
 * **Klärung durch das Bundesgericht:** In **[BGE 152 III 154](https://mcp.opencaselaw.ch/entscheid/bge_152%20III%20154)** (Urteil 4A_364/2025 vom 18.12.2025) hat das Bundesgericht diese Streitfrage höchstrichterlich entschieden: **Art. 111 Abs. 1 Satz 2 ZPO geht Art. 68 SchKG vor.** Das Parlament hat im Gesetzgebungsprozess bewusst abgelehnt, summarische Verfahren von der Rückerstattungspflicht auszunehmen. Folglich muss das Rechtsöffnungs- oder Konkursgericht der obsiegenden Gläubigerpartei den Kostenvorschuss zwingend aus der Gerichtskasse zurückerstatten und die Gerichtsgebühr selbständig bei der unterliegenden Schuldnerpartei einfordern.
+* **Kantonale Durchsetzung und Kostenfolge bei Justizfehlern:** In konsequenter Umsetzung dieser Praxis hob das Freiburger Kantonsgericht ([FR Kantonsgericht 102 2026 92 vom 19.06.2026](https://entscheidsuche.ch/docs/FR_Gerichte/FR_TC_001_102-2026-92_2026-06-19.pdf)) erstinstanzliche Entscheide auf, die den Vorschuss des obsiegenden Gläubigers verrechnet hatten, und verfügte die unverzügliche Rückerstattung. Hat die Vorinstanz Art. 111 Abs. 1 Satz 2 ZPO missachtet, gilt der Kanton im Rechtsmittelverfahren als unterliegende Partei nach Art. 106 Abs. 1 ZPO und wird mit den Kosten des Rekursverfahrens belastet.
 
 #### Praxisfrage 2: Wie ist zu verfahren, wenn das Gericht keinen Kostenvorschuss verlangt hat und der Kläger obsiegt?
 

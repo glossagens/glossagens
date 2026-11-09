@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 12 BGFA"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-08-29
+lastmod: 2026-11-09
 description: "Übersicht der Entscheide zu Art. 12 BGFA — Berufsregeln für Anwältinnen und Anwälte"
 tags: ["Rechtsprechung", "BGFA", "Berufsregeln", "Anwaltsrecht"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von ZH VG VB.2025.00586 vom 01.10.2026 (Pflicht zur postalischen Aktenrückgabe nach Mandatsende, Ausschluss des Retentionsrechts) und VD TC GE.2026.0172 vom 15.10.2026 (Strafanzeige für Klientschaft kein Disziplinarverstoss)."
   - date: 2026-08-29
     by: Claude Code
     model: claude-sonnet-5-20250514
@@ -143,6 +147,26 @@ revisions:
 ---
 
 ## Kantonale Entscheide
+
+### ZH Verwaltungsgericht VB.2025.00586 (1. Oktober 2026)
+
+- **Kanton**: Zürich
+- **Thema**: Pflicht zur postalischen Aktenherausgabe nach Mandatsende / Kein Retentionsrecht
+- **Kernaussage**: Die Pflicht zur Herausgabe von Handakten nach Beendigung des Mandats fällt unter die Generalklausel von Art. 12 lit. a BGFA. Ein blosses Angebot zur Abholung in der Kanzlei entlastet den Anwalt nicht. Verlangt der Klient die Zusendung, hat der Anwalt die Akten postalisch zu übermitteln (Portokosten dürfen weiterverrechnet werden). An Mandantenakten besteht kein Retentionsrecht für offene Honorare.
+- **Dokument**: [VB.2025.00586](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2025-00586_2026-10-01.html)
+- **Einschlägig für**: lit. a
+
+---
+
+### VD Tribunal cantonal GE.2026.0172 (15. Oktober 2026)
+
+- **Kanton**: Waadt
+- **Thema**: Strafanzeige im Klienteninteresse / Disziplinarschwelle
+- **Kernaussage**: Art. 12 lit. a BGFA sanktioniert nicht jede prozessuale oder strategische Unvollkommenheit; erforderlich ist ein bedeutsamer Pflichtverstoss (*manquement significatif*). Die Unterstützung einer Mandantin bei der Einreichung einer Strafanzeige gegen einen säumigen Unterhaltsschuldner stellt bei objektiver Verdachtslage keine unzulässige Instrumentalisierung des Strafverfahrens dar; Disziplinarverwarnung aufgehoben.
+- **Dokument**: [GE.2026.0172](https://entscheidsuche.ch/docs/VD_Omni/VD_TC_031_GE-2026-0172_2026-10-15.html)
+- **Einschlägig für**: lit. a
+
+---
 
 ### AG Anwaltskommission AVV.2012.11 (14. August 2012)
 

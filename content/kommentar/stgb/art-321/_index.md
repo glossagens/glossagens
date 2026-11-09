@@ -2,10 +2,14 @@
 title: "Art. 321 StGB — Verletzung des Berufsgeheimnisses"
 weight: 321
 date: 2026-10-28
-lastmod: 2026-10-28
+lastmod: 2026-11-09
 description: "Praxiskommentar zu Art. 321 StGB (Verletzung des Berufsgeheimnisses): Täterkreis, relativer Geheimnisbegriff, Konnex zur Berufsausübung, Offenbaren, Hilfspersonen, Einwilligung (informed consent), behördliche Entbindung, zweiseitige Grenzkasuistik und Praxishinweise."
 tags: ["StGB", "Berufsgeheimnis", "Schweigepflicht", "Anwaltsgeheimnis", "Arztgeheimnis", "Hilfspersonen", "Entbindung", "Melderecht"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Präzisierung zu ausländischen Rechtsanwälten nach BGer 5A_316/2026 vom 28.08.2026: Persönliche Unterstellung unter Art. 321 StGB (BGE 147 IV 385), Bestimmung von Geheimnisumfang und Offenbarungsbefugnissen zur Eigenverteidigung nach ausländischem Berufsrecht, Fehlen eines Ordre-public-Konflikts und Beweislast."
   - date: 2026-10-28
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -85,6 +89,12 @@ Das folgende Prüfschema stellt die Tatbestandsmerkmale, Rechtfertigungsgründe 
 - Bankiers, Vermögensverwalter, Finanzintermediäre und Treuhänder fallen nicht unter Art. 321 StGB ([BGE 95 I 439 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-95-I-439_1969-10-01.html#consideration_2.); [BGE 119 IV 175 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-119-IV-175_1993-08-16.html#consideration_3.); siehe [Thema Bankgeheimnis](/themen/bankgeheimnis/#abgrenzung-berufsgeheimnis)).
 - Journalisten unterstehen nicht Art. 321 StGB, sondern geniessen den prozessualen Quellenschutz nach [Art. 28a StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_28_a) und [Art. 172 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_172) (siehe [Thema Quellenschutz](/themen/quellenschutz-der-medien/)).
 - Sozialarbeiter, Pädagogen oder Mediatoren fallen nicht unter Art. 321 StGB, es sei denn, sie agieren als Hilfspersonen eines geschützten Hauptgeheimnisträgers oder unterstehen einer spezialgesetzlichen Unterstellung (wie bei Schwangerschaftsberatungsstellen nach Art. 2 des Schwangerschaftsberatungsgesetzes).
+
+**5a** **Ausländische Rechtsanwälte und massgebliches Berufsrecht**:
+- *Persönlicher Geltungsbereich*: Unter den Begriff des Rechtsanwalts in Art. 321 Ziff. 1 StGB fallen auch **ausländische Anwälte** aus beliebigen Staaten, einschliesslich Drittstaaten ausserhalb der Europäischen Union ([BGE 147 IV 385 E. 2.6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-385_2021.html#consideration_2.6.2); [BGer 5A_316/2026 vom 28. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_316_2026) E. 4.3.2).
+- *Inhalt und Schranken nach ausländischem Berufsrecht*: Art. 321 StGB definiert die konkreten Konturen, Pflichten und Schranken der anwaltlichen Schweigepflicht jedoch nicht selbst (in der Schweiz finden sich diese namentlich in Art. 13 BGFA). Bei einem Anwaltsmandat, das ausländischem Recht untersteht, beurteilen sich Bestand, Tragweite und Ausnahmen des Berufsgeheimnisses nach dem **anwendbaren ausländischen Berufs- und Standesrecht** ([BGer 5A_316/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_316_2026) E. 4.3.2–4.3.3).
+- *Offenbarung zur Eigenverteidigung*: Sieht das ausländische Berufsrecht (z.B. Art. 7.1.4 des Reglements der Luxemburger Anwaltskammer) vor, dass der Anwalt zur Wahrung seiner eigenen Verteidigung vor Gerichten und Behörden auch ohne behördliche Entbindung Informationen offenbaren darf, so handelt er materiell rechtmässig. Die in einem schweizerischen Zivil-, Vollstreckungs- oder Arrestverfahren eingereichten Unterlagen gelten diesfalls **nicht als rechtswidrig beschafft** (Art. 152 Abs. 2 ZPO; Art. 272 SchKG; [BGer 5A_316/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_316_2026) E. 4.3.3).
+- *Kein Verstoss gegen den Schweizer Ordre public*: Die schweizerischen Schranken und das Erfordernis eines behördlichen Entbindungsverfahrens (Abs. 2) bilden im Verhältnis zu ausländischen Berufsregeln keinen zwingenden Bestandteil des schweizerischen *ordre public* (Art. 18 IPRG). Die Beweislast für die angebliche Rechtswidrigkeit der Beweisbeschaffung nach ausländischem Recht trägt im schweizerischen Zivil- und Arrestverfahren diejenige Partei, die sich auf das Verwertungsverbot beruft (Art. 8 ZGB; [BGer 5A_316/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_316_2026) E. 4.3.3).
 
 **6** **Erfassung von Vertrauensärzten**:
 > **Vertrauensarzt des Arbeitgebers:**  
