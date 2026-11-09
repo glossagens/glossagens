@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 3 StHG"
 weight: 99
 date: 2026-10-23
-lastmod: 2026-10-23
-description: "Rechtsprechungsübersicht zu Art. 3 StHG (SR 642.14) — Steuerpflicht aufgrund persönlicher Zugehörigkeit, steuerrechtlicher Wohnsitz, Mittelpunkt der Lebensinteressen, Wochenaufenthalter, leitende Stellung, Weltenbummler, alternierender Wohnsitz und Ehegattenbesteuerung (Faktorenaddition)."
+lastmod: 2026-11-09
+description: "Rechtsprechungsübersicht zu Art. 3 StHG (SR 642.14) — Steuerpflicht aufgrund persönlicher Zugehörigkeit, steuerrechtlicher Wohnsitz, Mittelpunkt der Lebensinteressen, Wochenaufenthalter, leitende Stellung, Weltenbummler, Bundesangestellte im Ausland (BGE 150 II 244), alternierender Wohnsitz und Ehegattenbesteuerung (Faktorenaddition)."
 tags: ["Rechtsprechung", "StHG", "Steuerpflicht", "persönliche Zugehörigkeit", "steuerrechtlicher Wohnsitz", "Lebensmittelpunkt", "Wochenaufenthalter", "Familienbesteuerung", "Faktorenaddition"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGE 150 II 244 (Wohnsitz von Bundesangestellten und nachreisenden Ehegatten im Ausland; Nichtigkeit eigenmächtiger kantonaler Zuständigkeitsfeststellungen) und BGE 140 II 141 (Verwirkung der Doppelbesteuerungsrüge)."
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -13,6 +17,13 @@ revisions:
 ---
 
 ## I. Leitentscheide (BGE)
+
+### BGE 150 II 244 — Wohnsitz von Bundesangestellten im Ausland, nachreisende Ehegattin und Nichtigkeit kantonaler Zuständigkeitsfeststellungen
+
+- **Entscheid**: [BGE 150 II 244](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-150-II-244_2024.html) vom 6. Juni 2024 (9C_647/2022)
+- **Thema**: Steuerrechtlicher Wohnsitz bei Auslandsdienst; Lebensmittelpunkt der wöchentlich nachreisenden Ehegattin; Zuständigkeit der ESTV bei interkantonalen Konflikten (Art. 108 DBG); Nichtigkeit kantonaler Verfügungen
+- **Abstract**: Ein Angestellter des Bundes arbeitete ganz überwiegend an einem ausländischen Einsatzort und führte dort sein Eheleben. Seine Ehefrau behielt in der Schweiz eine Wohnung bei, reiste jedoch regelmässig wöchentlich für mehrere Tage zu ihrem Ehegatten ins Ausland, um die eheliche Beziehung zu pflegen. Das Bundesgericht entschied: Der Wohnsitz des Bundesangestellten und seiner Ehegattin befindet sich im Ausland (E. 5.6 und 5.7). Zuständig für die Veranlagung der direkten Bundessteuer ist der Heimatkanton (Art. 3 Abs. 5 DBG; E. 5.8). Stellt eine kantonale Behörde eigenmächtig ihre Veranlagungszuständigkeit fest, obwohl offensichtlich ein anderer Kanton infrage kommt, ist ihr Entscheid mangels Zuständigkeit nichtig, da ausschliesslich die ESTV gemäss Art. 108 DBG den Veranlagungsort festlegen darf (E. 4).
+- **Einschlägig für**: Art. 3 Abs. 1 und 2 StHG, Art. 3 Abs. 5 und Art. 108 DBG — Wohnsitz von Auslandsbediensteten und Veranlagungszuständigkeit
 
 ### BGE 148 II 285 — Kriterien des Steuerwohnsitzes, Patchwork-Familie, leitende Stellung und alternierender Wohnsitz
 
@@ -59,6 +70,13 @@ revisions:
 ---
 
 ## II. Weitere Entscheide (BGer und kantonale Instanzen)
+
+### BGE 140 II 141 — Interkantonale Doppelbesteuerung und Verwirkung von Rügen
+
+- **Entscheid**: [BGE 140 II 141](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-140-II-141_2014.html) vom 13. Dezember 2013 (2C_518/2013)
+- **Thema**: Rüge der Verletzung des Verbots der Doppelbesteuerung (Art. 127 Abs. 3 BV); Verwirkung durch treuwidriges Zuwarten
+- **Abstract**: Die Rüge der Doppelbesteuerung kann auch noch gegen die Veranlagung des Zweitkantons erhoben werden, wenn die Veranlagung des Erstkantons bereits in Rechtskraft erwachsen ist. Das Recht zur Anfechtung der rechtskräftigen Veranlagung des Erstkantons ist jedoch verwirkt, wenn die steuerpflichtige Person die Veranlagung im Erstkanton vorbehaltlos akzeptiert und die Rechtsmittel im Zweitkanton treuwidrig verzögert hat.
+- **Einschlägig für**: Art. 3 Abs. 1 StHG i.V.m. Art. 127 Abs. 3 BV — Verfahrensrechtliche Durchsetzung des Verbots der Doppelbesteuerung
 
 ### ZH VG SB.2025.00120 vom 27. Mai 2026 — Beweis des Scheindomizils mittels Kreditkarten und Wärmemessungen
 

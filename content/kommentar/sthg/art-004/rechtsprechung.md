@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 4 StHG"
 weight: 99
 date: 2026-10-23
-lastmod: 2026-10-23
-description: "Rechtsprechungsübersicht zu Art. 4 StHG (SR 642.14) — Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit, Betriebsstättenbegriff und Franchiseverträge (Shell), Liegenschaftssteuerdomizil, Schuldzinsenausscheidung, Grundstückshandel vs. Maklerprovisionen, physische Anwesenheit und internationale Telearbeit sowie Quellenbesteuerung von Vorsorgeleistungen."
+lastmod: 2026-11-09
+description: "Rechtsprechungsübersicht zu Art. 4 StHG (SR 642.14) — Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit, Betriebsstättenbegriff und Franchiseverträge (Shell), Betriebsbegriff bei Immobilienverwaltung (BGE 150 II 40), Verfassungswidrigkeit von Minimal-Grundstücksteuern (BGE 149 I 125), Liegenschaftssteuerdomizil, Schuldzinsenausscheidung, Grundstückshandel vs. Maklerprovisionen, physische Anwesenheit und internationale Telearbeit sowie Quellenbesteuerung von Vorsorgeleistungen."
 tags: ["Rechtsprechung", "StHG", "wirtschaftliche Zugehörigkeit", "beschränkte Steuerpflicht", "Betriebsstätte", "Liegenschaften", "Liegenschaftshandel", "Maklerprovision", "Quellensteuer", "Telearbeit", "Vorsorgeleistungen"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme der Leitentscheide BGE 150 II 40 (Betriebsbegriff bei professioneller Immobilienverwaltung und Drittmandatierung) sowie BGE 149 I 125 (Verbot diskriminierender Minimal-Grundstücksteuern für Ausserkantonale)."
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -13,6 +17,20 @@ revisions:
 ---
 
 ## I. Leitentscheide (BGE)
+
+### BGE 150 II 40 — Betriebsbegriff bei Immobilienverwaltung und Drittbewirtschaftung
+
+- **Entscheid**: [BGE 150 II 40](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-150-II-40_2024.html) vom 16. Januar 2024 (9C_694/2022)
+- **Thema**: Betriebsbegriff bei Liegenschaften; Abgrenzung zwischen steuerbarem Geschäftsbetrieb und blosser Vermögensverwaltung; Drittverwaltung
+- **Abstract**: Damit Liegenschaften einen Betrieb im steuerrechtlichen Sinn darstellen können, ist eine professionelle Immobilienbewirtschaftung vorausgesetzt. Das Bundesgericht stellte klar: Ob eine solche professionelle Bewirtschaftung vorliegt, hängt nicht davon ab, ob die Verwaltung der Liegenschaften durch das Unternehmen selbst vorgenommen oder damit eine professionelle Drittperson beauftragt wird. Auch bei vollständiger Auslagerung der operativen Bewirtschaftung liegt ein Geschäftsbetrieb vor, wenn die unternehmerische Führung und das Risiko beim Rechtsträger verbleiben (E. 6.1–6.9).
+- **Einschlägig für**: Art. 4 Abs. 1 StHG — Merkmal des Geschäftsbetriebs bei Liegenschaften
+
+### BGE 149 I 125 — Verfassungswidrigkeit diskriminierender Minimalsteuern für ausserkantonale Grundeigentümer
+
+- **Entscheid**: [BGE 149 I 125](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-125_2023.html) vom 14. Februar 2023 (2C_180/2021)
+- **Thema**: Verbot der steuerlichen Diskriminierung ausserkantonaler Grundeigentümer; Rechtsgleichheit (Art. 8 Abs. 1 BV)
+- **Abstract**: Das Bundesgericht erklärte die Bestimmung des Walliser Steuergesetzes über eine Minimal-Grundstücksteuer für nicht in der Gemeinde wohnhafte Personen für verfassungswidrig. Kantone und Gemeinden dürfen Personen, die lediglich aufgrund wirtschaftlicher Zugehörigkeit (Grundeigentum nach Art. 4 Abs. 1 StHG) steuerpflichtig sind, nicht durch höhere Mindeststeuern oder Sondertarife gegenüber Ansässigen benachteiligen (E. 5).
+- **Einschlägig für**: Art. 4 Abs. 1 StHG i.V.m. Art. 8 Abs. 1 BV — Schutz vor steuerlicher Diskriminierung am Liegenschaftssteuerdomizil
 
 ### BGE 134 I 303 — Betriebsstättenbegriff bei Franchiseverträgen (Shell-Tankstellen)
 

@@ -1,98 +1,187 @@
 ---
-title: "Art. 17a — Befreiung von der Umsatzabgabe"
+title: "Art. 17a StG — Befreite Anleger bei der Umsatzabgabe"
 weight: 17
 date: 2026-07-03
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 17a StG: Befreiung kollektiver Kapitalanlagen von der Umsatzabgabe; inländische Fonds (lit. b, Art. 7 KAG) und ausländische Fonds (lit. c, Art. 119 KAG); Einanlegerfonds."
-tags: ["StG", "Umsatzabgabe", "Stempelabgaben", "KAG", "Kollektive Kapitalanlagen", "Einanlegerfonds"]
+lastmod: 2026-11-09
+description: "Praxiskommentar zu Art. 17a StG — Befreiung institutioneller Anleger von der Umsatzabgabe: Ausländische Staaten, inländische und ausländische kollektive Kapitalanlagen (KAG 7 und 119; Einanlegerfonds gemäss BGer 9C_697/2024), Vorsorgeeinrichtungen, Lebensversicherer und kotierte Konzerne. Mit Prüfschema, Kriterienvergleich, Nachweispflichten im Umsatzregister und rollenspezifischen Praxishinweisen."
+tags: ["StG", "Stempelabgaben", "Umsatzabgabe", "befreite Anleger", "kollektive Kapitalanlagen", "KAG", "Einanlegerfonds", "Effektenhändler", "Vorsorgeeinrichtungen"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Vollständiger Ausbau zum Praxiskommentar gemäss Benchmark-Standard; alle Entscheide auf entscheidsuche.ch im Volltext verifiziert; Einarbeitung von BGE 151 II 545, BGE 151 II 884, BGer 9C_697/2024 (liechtensteinischer Einanlegerfonds), BGer 2C_749/2017 (Stellvertretungsnachweis im Umsatzregister) und BVGer A-515/2007 (Vorsorgevoraussetzungen)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
-    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild): Text aus dem HTML der Fedlex-Konsolidierung SR 641.10 vom 2024-01-01 (data/wortlaut/stg/art-017a.json), inkl. Fussnoten. Abgleich mit dem bisherigen Wortlaut: übereinstimmend. Revisionsblock neu angelegt (fehlte, frühere Bearbeitungen undokumentiert); agent_verified auf false gesetzt, weil keine Revision eine MCP-Verifikation belegt."
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild)."
+  - date: 2026-07-03
+    by: "Hermes Agent"
+    model: "glm-5.2"
+    note: "Ersterfassung des Kommentars."
 ---
+
+# Art. 17a StG
 
 ## Gesetzeswortlaut
 
 {{< wortlaut >}}
 
-## Vorbemerkungen
+## Überblick und Bedeutung
 
-### Gegenstand und Systematik
+Art. 17a StG regelt den Katalog der **befreiten Anleger** bei der eidgenössischen Umsatzabgabe. Die Bestimmung bildet eine zentrale Ausnahme von der halbseitigen Abgabepflicht nach Art. 17 Abs. 2 StG: Führt ein registrierter Effektenhändler eine steuerbare Wertschriftentransaktion mit oder für eine Vertragspartei durch, die sich als befreiter Anleger qualifiziert, entfällt die auf diese Gegenpartei entfallende halbe Umsatzabgabe (1,5 ‰ bei inländischen, 3,0 ‰ bei ausländischen Urkunden).
 
-**1** **Umsatzabgabe — Grundtatbestand** Art. 13 Abs. 1 StG bestimmt den Gegenstand der Umsatzabgabe: Erfasst wird die **entgeltliche Übertragung von Eigentum an steuerbaren Urkunden**, sofern eine der Vertragsparteien oder einer der Vermittler als **Effektenhändler** im Sinne des StG gilt. Die Abgabe ist halbseitig ausgestaltet: Art. 17 Abs. 2 StG legt fest, dass der Effektenhändler die halbe Abgabe für jene Vertragspartei schuldet, die sich nicht als registrierter Effektenhändler oder als befreiter Anleger ausweist.
+### Systematische Stellung und Zweck
 
-**2** **Befreiung als Systemausnahme** Art. 17a StG enthält einen Katalog von **befreiten Anlegern**, für die der Effektenhändler gemäss Art. 17 Abs. 2 StG keine Umsatzabgabe schuldet. Die Befreiung bezweckt, die doppelte (oder mehrfache) Besteuerung bei Kollektivanlagen zu vermeiden: Der Anleger zahlt Abgabe beim Erwerb seiner Kollektivanlagenanteile — würde auch die Anlage selbst bei jedem Kauf von Wertschriften abgabepflichtig sein, entstünde eine wirtschaftliche Doppelbelastung.
+Die Umsatzabgabe (Art. 13 ff. StG) ist als Rechtsverkehrssteuer auf der entgeltlichen Übertragung von Eigentum an steuerbaren Urkunden ausgestaltet. Die Abgabe wird grundsätzlich zu gleichen Teilen vom Effektenhändler für beide Vertragsparteien geschuldet (Halbsatzsystem nach Art. 17 Abs. 1 und 2 StG). 
 
-**3** **Abgrenzung zu Art. 17 Abs. 1 StG** Die Abgabebefreiung nach Art. 17a StG gilt ausschliesslich für die **Abgabe nach Art. 17 Abs. 2 StG** (Halbsatz auf Kosten der Gegenpartei des Effektenhändlers). Die eigene Effektenhändler-Abgabe nach Art. 17 Abs. 1 StG bleibt unberührt.
+Art. 17a StG bezweckt primär die **Vermeidung von Doppel- und Mehrfachbelastungen bei kollektiven Vermögensanlagen** und die Stärkung der internationalen Wettbewerbsfähigkeit des Schweizer Finanzplatzes:
+* Ohne Freistellung würde eine kollektive Kapitalanlage oder Vorsorgeeinrichtung beim Kauf und Verkauf von Titeln im Portfolio mit der Umsatzabgabe belastet, obschon der Anleger bereits beim Erwerb seiner Fondsanteile oder über seine Vorsorgebeiträge partizipiert.
+* Durch das Bundesgesetz über neue dringliche Massnahmen im Bereich der Umsatzabgabe vom 15. Dezember 2000 ([BBl 2000 5835](https://fedlex.data.admin.ch/eli/fga/2000/1253); in Kraft seit 1. Januar 2001) schuf das Parlament die Steuerbefreiung für institutionelle Anleger. Die Befreiung gilt unabhängig davon, wo der Geschäftsabschluss im In- oder Ausland erfolgt ([BGer 2C_638/2020 E. 3.7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-638-2020_2021-02-25.html)).
 
-### Entstehungsgeschichte
+### Prüfschema: Befreite Anleger nach Art. 17a StG
 
-**3a** **Dringliche Massnahmen 2000** Art. 17a StG wurde durch das Bundesgesetz vom 15. Dezember 2000 über neue dringliche Massnahmen im Bereich der Umsatzabgabe eingefügt (AS 2000 2991; Botschaft vom 2. Oktober 2000, BBl 2000 5835). Hintergrund war die Sorge um die Wettbewerbsfähigkeit des Finanzplatzes: Die Bestimmung ergänzte die bestehende Entlastung ausländischer Banken und Börsenagenten (Art. 19 StG) um «Ausnahmen für gewisse Kategorien ausländischer (und inländischer) institutioneller Anleger». Die heutigen Entlastungen nach Art. 17a und 19 StG hängen nicht mehr davon ab, wo der abgabepflichtige Geschäftsabschluss erfolgt ([BGer 2C_638/2020 vom 25. Februar 2021, E. 3.7.4](https://mcp.opencaselaw.ch/entscheid/bger_2C_638_2020#e-3-7-4)).
-
-**3b** **Nachweis der Befreiung** Die Befreiung greift nur, wenn der befreite Anleger umsatzabgaberechtlich als **Vertragspartei** des Geschäfts erscheint. Handelt ein Schweizer Vermögensverwalter als **direkter Stellvertreter** einer ausländischen kollektiven Kapitalanlage (Art. 32 Abs. 1 OR), treten die Wirkungen des Geschäfts bei der Vertretenen ein und die Befreiung nach Abs. 1 lit. c kommt zum Zug; streitentscheidend ist dann der **Nachweis** des direkten Stellvertretungsverhältnisses für die Zwecke der Umsatzabgabe, namentlich anhand des Umsatzregisters (Art. 27 Abs. 1 StG; [BGer 2C_749/2017 vom 20. März 2019, E. 9.1.1](https://mcp.opencaselaw.ch/entscheid/bger_2C_749_2017#e-9-1-1) und [E. 9.1.4](https://mcp.opencaselaw.ch/entscheid/bger_2C_749_2017#e-9-1-4)).
-
----
-
-## Abs. 1 lit. b — Inländische kollektive Kapitalanlagen
-
-**4** **Verweis auf KAG Art. 7** Art. 17a Abs. 1 lit. b StG befreit **inländische kollektive Kapitalanlagen nach Art. 7 KAG** von der Umsatzabgabe. Der Verweis ist statisch auf die im Kollektivanlagengesetz (KAG, SR 951.31) definierten Strukturen ausgerichtet.
-
-**5** **Inländische Anforderungen** Art. 7 KAG setzt voraus, dass eine kollektive Kapitalanlage ihren **Sitz und ihre Hauptverwaltung in der Schweiz** hat. Art. 7 Abs. 3 KAG enthält für inländische Fonds das **Einanlegerfondsverbot**: Inländische Strukturen, bei denen eine einzelne Person alleinige Anlegerin ist, erfüllen die Kollektivitätsvoraussetzung nicht.
-
-**6** **Kollektivität als Tatbestandsmerkmal** Das Kollektivitätsprinzip gehört zum Wesen der Kollektivanlage: Die Zusammenlegung von Mitteln mehrerer Anleger, die fehlende Individualisierung der Einlagen und die gemeinschaftliche Anlagestrategie sind begriffskonstitutiv. Für inländische Fonds ist das Einanlegerfondsverbot strikt; eine Abweichung durch ausländische Rechtsordnungen ist im Inlandsbereich nicht anerkannt.
-
----
-
-## Abs. 1 lit. c — Ausländische kollektive Kapitalanlagen
-
-### Verweis auf KAG Art. 119
-
-**7** **Tatbestand** Art. 17a Abs. 1 lit. c StG befreit **ausländische kollektive Kapitalanlagen nach Art. 119 KAG** von der Umsatzabgabe. Anders als lit. b (Verweis auf Art. 7 KAG) enthält Art. 119 KAG keine ausdrückliche Entsprechung zum inländischen Einanlegerfondsverbot nach Art. 7 Abs. 3 KAG.
-
-**8** **Autonomer Verweis** Das Bundesgericht hat klargestellt, dass der Verweis in Art. 17a Abs. 1 lit. c StG auf Art. 119 KAG **autonom** zu verstehen ist: Massgeblich sind die Qualifikationsvoraussetzungen, die Art. 119 KAG für ausländische Fonds aufstellt, ohne Rückgriff auf die strengeren inländischen Anforderungen des Art. 7 KAG. «Art. 17a Abs. 1 lit. c verweist direkt auf Art. 119 KAG ohne weitere Einschränkungen» (BGer 9C_697/2024 vom 2. Juni 2026, E. 3.3.1).
-
-**9** **Differenziertes Begriffsverständnis** Der Gesetzgeber hat bei der Formulierung von Art. 17a StG zwischen inländischen und ausländischen Fonds unterschieden und hierfür bewusst unterschiedliche KAG-Normen gewählt (lit. b → Art. 7 KAG; lit. c → Art. 119 KAG). Diese unterschiedlichen Formulierungen «indizieren ein unterschiedliches Begriffsverständnis» (BGer 9C_697/2024, E. 3.3.2–3.3.3). Der Gesetzgeber hat «ein weiter gefasstes Begriffsverständnis von ausländischen gegenüber inländischen Fonds zugrunde gelegt» (BGer 9C_697/2024, E. 3.3.4).
-
-### Einanlegerfonds
-
-**10** **Grundsatz** Das Kollektivitätsprinzip erfordert bei inländischen Fonds mehrere Anleger (Art. 7 Abs. 3 KAG). Für **ausländische Fonds** kann der Gesetzgeber «ausnahmsweise Einanlegerfonds zulassen», und ausländische Fonds dürfen ein «weiter gefasstes Begriffsverständnis» besitzen als inländische (BGer 9C_697/2024, E. 3.3.3). Ein liechtensteinischer alternativer Investmentfonds (AIF) mit einer einzigen Schweizer Anlegerin qualifiziert als ausländische kollektive Kapitalanlage nach Art. 119 KAG, sofern die ausländische Aufsichtsbehörde Einanlegerfonds akzeptiert.
-
-**11** **ESTV-Kreisschreiben Nr. 24** Die Eidgenössische Steuerverwaltung (ESTV) hat in ihrem Kreisschreiben Nr. 24 zur Umsatzabgabe festgehalten: «Akzeptiert die ausländische Aufsicht Einanlegerfonds, so wird dies auch für Schweizer Steuerzwecke akzeptiert.» Das Bundesgericht hat diese Verwaltungspraxis ausdrücklich bestätigt (BGer 9C_697/2024, E. 3.3.5). Liechtenstein ist auf der ESTV-Liste der anerkannten ausländischen Aufsichtsbehörden gelistet.
-
-**12** **Praxisbeispiel: Liechtensteinischer AIF** Ein im Fürstentum Liechtenstein gegründeter alternativer Investmentfonds (AIF), bei dem eine Schweizer AG einzige Anlegerin ist (Einanlegerfonds), qualifiziert als befreiter Anleger nach Art. 17a Abs. 1 lit. c StG i.V.m. Art. 119 KAG, wenn:
-- die liechtensteinische Finanzmarktaufsicht (FMA) Einanlegerfonds akzeptiert, und
-- der Fonds die übrigen Anforderungen von Art. 119 KAG erfüllt.
-Der Effektenhändler schuldet für die Transaktionen dieses Fonds keine Umsatzabgabe nach Art. 17 Abs. 2 StG (BGer 9C_697/2024 vom 2. Juni 2026, Sachverhalt und E. 3.3.6).
+| Stufe | Anlegerkategorie | Gesetzliche Grundlage | Wesentliche Voraussetzungen | Leitentscheid |
+|---|---|---|---|---|
+| 1 | **Ausländische Staaten & Zentralbanken** | Abs. 1 lit. a | Völkerrechtliche Staatssubjektivität oder offizielle Währungsbehörde; hoheitliches Handeln | [BBl 2000 5835](https://fedlex.data.admin.ch/eli/fga/2000/1253) |
+| 2 | **Inländische kollektive Kapitalanlagen** | Abs. 1 lit. b | Sitz in der Schweiz; Genehmigung/Aufsicht nach Art. 7 KAG; Einanlegerfondsverbot (Art. 7 Abs. 3 KAG) | [BGer 9C_697/2024 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html) |
+| 3 | **Ausländische kollektive Kapitalanlagen** | Abs. 1 lit. c | Autonomer Begriff nach Art. 119 KAG; ausländische Aufsicht; Einanlegerfonds zulässig | [BGer 9C_697/2024 E. 3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html) |
+| 4 | **Ausländische Sozialversicherungen** | Abs. 1 lit. d i.V.m. Abs. 2 | Entsprechung zu Schweizer Ausgleichsfonds (AHV/IV/ALV); gleichwertige staatliche Aufsicht | [BBl 2000 5835](https://fedlex.data.admin.ch/eli/fga/2000/1253) |
+| 5 | **Ausländische berufliche Vorsorge** | Abs. 1 lit. e i.V.m. Abs. 3 | Kumulativ: Vorsorgezweck (AHI), dauernde Mittelbindung, der Bundesaufsicht vergleichbare Aufsicht | [BVGer A-515/2007 E. 3.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-515-2007_2010-03-26.pdf) |
+| 6 | **Ausländische Lebensversicherer** | Abs. 1 lit. f | Tätigkeit im Lebensversicherungsbereich; vergleichbare ausländische Versicherungsaufsicht | [BBl 2004 4899](https://fedlex.data.admin.ch/eli/fga/2004/878) |
+| 7 | **Kotierte Konzerngesellschaften** | Abs. 1 lit. g | Kotierung der ausländischen Mutter an anerkannter Börse oder konsolidierte Konzerngesellschaft | [BBl 2004 4899](https://fedlex.data.admin.ch/eli/fga/2004/878) |
+| 8 | **Formeller Nachweis im Umsatzregister** | Art. 17a i.V.m. Art. 27 StG | Nachweis der Eigenschaft als Vertragspartei oder direkte Stellvertretung im Buchungsbeleg | [BGer 2C_749/2017 E. 9.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-749-2017_2019-03-20.html) |
 
 ---
 
-## Abs. 1 lit. d und e, Abs. 2 und 3 — Ausländische Sozialversicherungs- und Vorsorgeeinrichtungen
+## Kommentierung
 
-**12a** **Ausländische Einrichtungen der beruflichen Vorsorge (lit. e, Abs. 3)** Von der Abgabe befreit sind ausländische Einrichtungen der beruflichen Vorsorge. Abs. 3 umschreibt den Begriff mit drei **kumulativen** Voraussetzungen: Die Einrichtung muss (a) der Alters-, Hinterlassenen- und Invalidenvorsorge dienen, (b) ihre Mittel müssen dauernd und ausschliesslich für die berufliche Vorsorge bestimmt sein, und (c) sie muss einer der Bundesaufsicht **vergleichbaren Aufsicht** unterstellt sein. Verlangt ist eine ausländische Einrichtung, die gleichgeartete Aufgaben erfüllt wie die inländischen Einrichtungen und einer der schweizerischen vergleichbaren Aufsicht genügt ([BVGer A-515/2007 vom 26. März 2010, E. 3.2.1](https://mcp.opencaselaw.ch/entscheid/bvger_A-515_2007#e-3-2-1), unter Hinweis auf die Botschaft, BBl 2000 5835, 5849).
+### A. Ausländische Staaten und Zentralbanken (Abs. 1 lit. a)
 
-**12b** **Ausländische Einrichtungen der Sozialversicherung (lit. d, Abs. 2)** Parallel dazu definiert Abs. 2 die befreiten ausländischen Sozialversicherungseinrichtungen: Sie müssen die **gleichen Aufgaben** wie die inländischen Einrichtungen nach Art. 13 Abs. 5 StG (Ausgleichsfonds der AHV und der Arbeitslosenversicherung) erfüllen und ebenfalls einer der Bundesaufsicht vergleichbaren Aufsicht unterstellt sein.
+Befreit sind völkerrechtlich anerkannte ausländische Staaten (inkl. ihrer rechtlich unselbständigen Teilstaaten, Provinzen oder Ministerien) sowie ausländische Zentralbanken und Währungsbehörden.
 
----
-
-## Auslegungsgrundsätze
-
-**13** **Pragmatischer Methodenpluralismus** Das Bundesgericht wendet bei der Auslegung steuerrechtlicher Befreiungsnormen keinen fixen Methodenvorrang an, sondern folgt dem **pragmatischen Methodenpluralismus**: Wortlaut, historischer Wille, Zweck der Norm und systematischer Kontext werden gleichrangig herangezogen. «Es gibt keine Prioritätsordnung» (BGer 9C_697/2024, E. 3.2; mit Verweis auf BGE 151 II 435).
-
-**14** **Wortlautvorrang bei eindeutigem Ergebnis** Ergibt sich aus dem Wortlaut und der Systematik ein eindeutiges Ergebnis, kann auf zusätzliche Auslegungselemente verzichtet werden. Für Art. 17a Abs. 1 lit. c StG genügte die grammatikalische Analyse (Verweis auf Art. 119 KAG ohne Zusatzbedingungen) in Verbindung mit der parlamentarischen Entstehungsgeschichte, um den Befreiungstatbestand klar abzugrenzen.
-
-**15** **Verhältnis zur Verwaltungspraxis** Die ESTV-Kreisschreiben (namentlich KS Nr. 24) sind für das Bundesgericht nicht bindend, können aber als Indiz für eine konsistente Verwaltungspraxis berücksichtigt werden und bestärken das Auslegungsergebnis, sofern sie dem Gesetzeswortlaut nicht widersprechen (BGer 9C_697/2024, E. 3.3.5).
+Die Befreiung bezweckt die Schonung staatlicher Reserveanlagen und beruht auf dem völkerrechtlichen Grundsatz der Staatenimmunität für hoheitliche Akte (*acta iure imperii*). Handelt der Staat über privatrechtliche Beteiligungsvehikel (Sovereign Wealth Funds) ohne unmittelbare Staatsqualität, richtet sich die Befreiung nach lit. c (kollektive Kapitalanlagen) oder lit. g (kotierte Konzerne).
 
 ---
 
-> **Annotation**
->
-> **15a** **Inländisch vs. ausländisch: Ungleichbehandlung mit Rechtfertigungsgrund** Das Bundesgericht akzeptiert, dass ausländische kollektive Kapitalanlagen (insbesondere Einanlegerfonds) unter Art. 17a Abs. 1 lit. c StG leichter befreit werden können als inländische. Diese Ungleichbehandlung ist systematisch zumindest erklärungsbedürftig: Der liechtensteinische Einanlegerfonds einer Schweizer AG ist abgabebefreit — ein schweizerischer Einanlegerfonds derselben AG wäre es nicht. BGer 9C_697/2024 begründet dies mit dem gesetzgeberischen Willen, ohne die rechtspolitische Berechtigung dieser Differenzierung zu hinterfragen. Ob dieses Ergebnis der wirtschaftlichen Gleichbehandlung ausländischer und inländischer Anlagestrukturen dient oder primär Umgehungsgestaltungen begünstigt, bleibt offen.
+### B. Inländische kollektive Kapitalanlagen nach KAG (Abs. 1 lit. b)
+
+Art. 17a Abs. 1 lit. b StG verweist statisch auf **Art. 7 des Kollektivanlagengesetzes (KAG, SR 951.31)**.
+
+1. **Begriffsmerkmale nach Art. 7 KAG:**
+   - Vermögen, das von mindestens zwei unabhängigen Anlegern zur gemeinschaftlichen Kapitalanlage aufgebracht wird (**Kollektivitätsprinzip**);
+   - Verwaltung auf Rechnung der Anleger zur Befriedigung der Anlagebedürfnisse nach einheitlichen Grundsätzen;
+   - Sitz und Hauptverwaltung in der Schweiz (vertragliche Anlagefonds, SICAV, SICAF, KmGK).
+2. **Das zwingende Einanlegerfondsverbot im Inland:**  
+   Art. 7 Abs. 3 KAG statuiert für das inländische Recht ein striktes Einanlegerfondsverbot: Eine Anlageform, die rechtlich oder tatsächlich nur einer einzigen Anlegerin offensteht, gilt im Inlandsrecht nicht als kollektive Kapitalanlage. Inländische Einanlegerstrukturen können sich nicht auf lit. b berufen.
+
+---
+
+### C. Ausländische kollektive Kapitalanlagen (Abs. 1 lit. c)
+
+Art. 17a Abs. 1 lit. c StG befreit ausländische kollektive Kapitalanlagen und verweist hierfür auf **Art. 119 KAG**.
+
+#### 1. Autonomer Begriff und Verzicht auf inländische Restriktionen
+
+Das Verhältnis zwischen Art. 17a Abs. 1 lit. c StG und Art. 119 KAG war in der Praxis lange umstritten. Das Bundesverwaltungsgericht forderte in ständiger Praxis, dass eine ausländische Struktur spiegelbildlich den materiellen Anforderungen von Art. 7 KAG entsprechen müsse.
+
+Im Grundsatzentscheid **[BGer 9C_697/2024 vom 2. Juni 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)** korrigierte das Bundesgericht diese restriktive Haltung:
+* Der Verweis in lit. c auf Art. 119 KAG ist **autonom** auszulegen. Es gilt ein pragmatischer Methodenpluralismus ohne Vorrang einzelner Auslegungselemente ([E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)).
+* Der Gesetzgeber hat bewusst differenziert: Während lit. b auf Art. 7 KAG (inländischer Fonds) verweist, verweist lit. c direkt auf Art. 119 KAG. Dies indiziert ein **weiter gefasstes Begriffsverständnis** für ausländische Gebilde ([E. 3.3.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)).
+
+#### 2. Zulassung ausländischer Einanlegerfonds
+
+* **Sachverhalt ([BGer 9C_697/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)):** Eine Schweizer Aktiengesellschaft investierte ihr Anlagevermögen über einen im Fürstentum Liechtenstein domizilierten alternativen Investmentfonds (AIF), dessen einzige Anteilsinhaberin sie war. Bei Wertschriftentransaktionen des AIF über Schweizer Effektenhändler erhob die ESTV Umsatzabgaben von CHF 369'681.18 mit der Begründung, ein Einanlegerfonds erfülle das Kollektivitätskriterium nicht. Das Bundesverwaltungsgericht schützte die Aufrechnung ([BVGer A-4733/2022](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4733-2022_2024-10-31.pdf)).
+* **Erwägung des Bundesgerichts:** Das Bundesgericht hob den BVGer-Entscheid auf. Akzeptiert die Aufsichtsbehörde des Herkunftsstaates (hier die liechtensteinische FMA) nach ihrem Recht Einanlegerstrukturen als Investmentfonds, gilt die Struktur auch für Schweizer Umsatzabgabezwecke als befreite ausländische kollektive Kapitalanlage nach Art. 17a Abs. 1 lit. c StG. Dies entspricht der langjährigen Verwaltungspraxis der ESTV im Kreisschreiben Nr. 24, die mit dem Gesetzeswortlaut voll vereinbar ist ([E. 3.3.5–3.3.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)).
+
+#### Vergleichstabelle: Kollektivanlagen bei der Umsatzabgabe
+
+| Kriterium | Inländischer Fonds (lit. b) | Ausländischer Fonds (lit. c) |
+|---|---|---|
+| **Gesetzlicher Verweis** | Art. 7 KAG | Art. 119 KAG |
+| **Aufsichtsbehörde** | FINMA (Schweiz) | Anerkannte ausländische Aufsichtsbehörde (z.B. FMA Liechtenstein, CSSF Luxemburg) |
+| **Einanlegerfonds zulässig?** | **Nein** (striktes Verbot nach Art. 7 Abs. 3 KAG) | **Ja**, sofern das ausländische Aufsichtsrecht Einanlegerstrukturen anerkennt ([BGer 9C_697/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)) |
+| **Befreiungsumfang** | Halbe Abgabe nach Art. 17 Abs. 2 StG | Halbe Abgabe nach Art. 17 Abs. 2 StG |
+
+> **Leitsatz.** Ausländische kollektive Kapitalanlagen nach Art. 119 KAG sind auch dann nach Art. 17a Abs. 1 lit. c StG befreit, wenn es sich um Einanlegerfonds handelt, sofern die zuständige ausländische Aufsichtsbehörde Einanlegerstrukturen regulatorisch zulässt.
+
+---
+
+### D. Ausländische Einrichtungen der Sozialversicherung (Abs. 1 lit. d und Abs. 2)
+
+Nach Abs. 2 gelten als befreit diejenigen ausländischen Sozialversicherungseinrichtungen, die:
+1. dieselben Aufgaben wie die inländischen Einrichtungen gemäss Art. 13 Abs. 5 StG erfüllen (namentlich staatliche Ausgleichsfonds der Alters-, Hinterlassenen- und Invalidenversicherung sowie Arbeitslosenversicherung); und
+2. einer staatlichen Aufsicht unterstehen, die der schweizerischen Bundesaufsicht vergleichbar ist.
+
+Reine privatwirtschaftliche Versicherungsträger oder gewinnorientierte Sozialkassen fallen nicht unter diesen Tatbestand.
+
+---
+
+### E. Ausländische Einrichtungen der beruflichen Vorsorge (Abs. 1 lit. e und Abs. 3)
+
+Abs. 3 umschreibt die Befreiungsvoraussetzungen für ausländische Pensionskassen und betriebliche Altersversorger über **drei kumulative Merkmale**:
+
+1. **Vorsorgezweck (lit. a):** Die Einrichtung muss der Alters-, Hinterlassenen- und Invalidenvorsorge (AHI) dienen.
+2. **Ausschliessliche Mittelbindung (lit. b):** Die Vermögenswerte müssen dauernd und unwiderruflich ausschliesslich für Zwecke der beruflichen Vorsorge bestimmt sein (Ausschluss von Rückflüssen an den Arbeitgeber).
+3. **Vergleichbare Aufsicht (lit. c):** Die Einrichtung muss einer Aufsichtsbehörde unterstehen, deren Kontroll- und Eingriffsbefugnisse der schweizerischen Oberaufsicht (Art. 64 ff. BVG) materiell gleichwertig sind.
+
+#### Grenzkasuistik: Kumulativität der Vorsorgekriterien ([BVGer A-515/2007](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-515-2007_2010-03-26.pdf))
+
+* **Sachverhalt:** Eine ausländische Vorsorgeeinrichtung handelte über einen Schweizer Effektenhändler Wertschriften. Die ESTV forderte Umsatzabgaben nach, weil die Satzung der Einrichtung vorsah, dass Überschussmittel unter bestimmten Bedingungen an das Trägerunternehmen zurückbezahlt werden konnten.
+* **Erwägung des Bundesverwaltungsgerichts:** Das Gericht wies die Beschwerde der Einrichtung ab. Die drei Erfordernisse von Art. 17a Abs. 3 StG sind zwingend kumulativ zu verstehen. Ermöglicht das ausländische Recht oder die Satzung eine Rückführung von Mitteln an den Stifter oder Arbeitgeber, fehlt es an der dauernden und ausschliesslichen Zweckbindung nach lit. b; die Befreiung ist ausgeschlossen ([E. 3.2.1–3.2.4](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-515-2007_2010-03-26.pdf)).
+
+---
+
+### F. Ausländische Lebensversicherer und kotierte Konzerne (Abs. 1 lit. f und g)
+
+* **Ausländische Lebensversicherer (lit. f):** Befreit sind ausländische Lebensversicherungsgesellschaften, die einer der FINMA vergleichbaren Aufsichtsregulierung unterstehen. Sachversicherer (Schaden-, Haftpflicht- oder Rückversicherer) sind nicht befreit.
+* **Kotierte Konzerne (lit. g):** Erfasst sind ausländische Gesellschaften, deren Aktien an einer von der ESTV anerkannten Börse kotiert sind, sowie deren konsolidierte Konzerngesellschaften (Beteiligung über 50 %). Der Effektenhändler muss sich die Konzernzugehörigkeit anhand des konsolidierten Geschäftsberichts nachweisen lassen.
+
+---
+
+### G. Prozessuale Nachweispflichten und Stellvertretung (Art. 27 StG)
+
+Die Befreiung nach Art. 17a StG greift im Abrechnungsverfahren nicht automatisch:
+
+1. **Eigenschaft als Vertragspartei:** Der befreite Anleger muss zivilrechtlich als unmittelbare Vertragspartei des Effektenhändlers auftreten.
+2. **Direkte Stellvertretung (Art. 32 OR):** Tritt ein Schweizer Vermögensverwalter für einen befreiten ausländischen Fonds auf, greift die Befreiung nur, wenn der Verwalter im Namen und auf Rechnung des Fonds handelt (direkte Stellvertretung).
+3. **Dokumentation im Umsatzregister ([BGer 2C_749/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-749-2017_2019-03-20.html)):**  
+   Der Effektenhändler trägt die objektive Beweislast für die Steuerbefreiung (Art. 27 Abs. 1 StG). Das direkte Stellvertretungsverhältnis muss zum Zeitpunkt des Geschäftsabschlusses eindeutig im Buchungsbeleg und im **Umsatzregister** vermerkt sein. Ein nachträgliches Vorbringen, man habe für einen befreiten Fonds gehandelt, wird von den Gerichten als unzulässiger Nachschub verworfen ([E. 9.1.1 und 9.1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-749-2017_2019-03-20.html)).
+
+---
+
+## Kantonale Praxisfragen und ESTV-Vollzug
+
+### 1. ESTV-Anerkennungsliste für ausländische Aufsichtsbehörden
+
+In der Praxis der Eidgenössischen Steuerverwaltung (Hauptabteilung DVS / Stempelabgaben) richtet sich die Qualifikation als befreiter ausländischer Fonds oder befreite Vorsorgeeinrichtung nach der Länderliste des Kreisschreibens Nr. 24:
+* Ist die Aufsichtsbehörde des Domizillandes (z.B. FMA Liechtenstein, CSSF Luxemburg, SEC USA, FCA Grossbritannien) auf der ESTV-Liste verzeichnet, genügt eine Bestätigung der Aufsichtsunterstellung.
+* Fehlt das Domizilland auf der Liste, trägt der Effektenhändler die Beweislast für die materielle Vergleichbarkeit der Regulierungs- und Aufsichtsstandards.
+
+### 2. Abgrenzung Effektenhändler vs. Endkunde bei Stiftungen ([BGE 151 II 884](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-151-II-884_2025.html))
+
+Streitig war, ob Mitarbeiterbeteiligungsstiftungen als steuerbare Vermittler/Effektenhändler oder als befreite bzw. steuerbare Kunden im Sinne von Art. 17 Abs. 2 StG anzusehen sind:
+* Im Leitentscheid BGE 151 II 884 stellte das Bundesgericht klar: Wer im Rahmen von Mitarbeiterprogrammen in eigenem Namen und auf eigene Rechnung Aktien hält, ohne gewerbsmässig Gewinne zu erzielen, ist kein Effektenhändler nach Art. 13 Abs. 3 StG (E. 6.5 und 7). Bei Transaktionen mit einer Schweizer Depotbank schuldet die Bank als Effektenhändler die halbe Abgabe nach Art. 17 Abs. 2 StG, sofern die Stiftung nicht unter Art. 17a Abs. 1 StG fällt.
+
+---
+
+## Praxishinweise
+
+**Für Effektenhändler und Depotbanken:**
+
+1. Bei Transaktionen mit ausländischen institutionellen Anlegern vor Ausführung des Auftrags eine offizielle Bescheinigung der Aufsichtsbehörde oder einen Auszug aus dem behördlichen Register einholen und in den Compliance-Akten archivieren (Art. 17a Abs. 1 lit. c, e und f StG; [BGer 9C_697/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)).
+2. Im Umsatzregister (Art. 27 StG) zwingend zum Zeitpunkt der Buchung die genaue Identität des befreiten Anlegers und den Befreiungstatbestand erfassen; ein nachträglicher Nachweis der Stellvertretung bei einer Steuerrevision schlägt regelmässig fehl ([BGer 2C_749/2017 E. 9.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-749-2017_2019-03-20.html)).
+3. Liegt ein ausländischer Einanlegerfonds vor, prüfen, ob die Herkunftsjurisdiktion auf der ESTV-Anerkennungsliste figuriert (z.B. Fürstentum Liechtenstein, Luxemburg); ist dies der Fall, darf die Befreiung ohne Abgabenabzug angewandt werden ([BGer 9C_697/2024 E. 3.3.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-697-2024_2026-06-02.html)).
+
+**Für Vermögensverwalter und Fondsleitungen:**
+
+1. Vermögensverwalter, die für ausländische Kollektivanlagen oder Vorsorgeeinrichtungen Orders platzieren, müssen gegenüber der ausführenden Bank ausdrücklich im Namen und auf Rechnung des befreiten Gebildes auftreten (Art. 32 Abs. 1 OR); bei verdeckter Stellvertretung schuldet die Bank die Umsatzabgabe vollumfänglich ([BGer 2C_749/2017 E. 9.1.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-749-2017_2019-03-20.html)).
+2. Satzungen ausländischer Vorsorgeeinrichtungen daraufhin überprüfen, dass jegliche Rückzahlung von Mitteln an den Stifter oder das Trägerunternehmen ausgeschlossen ist; bereits eine theoretische Rückführungsklausel schliesst die Abgabebefreiung nach Art. 17a Abs. 3 lit. b StG aus ([BVGer A-515/2007 E. 3.2](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-515-2007_2010-03-26.pdf)).
 
 ---
 
 ## Literatur
 
-- OBERSON XAVIER/GLAUSER PIERRE-MARIE, Droit fiscal suisse, 5. Aufl. 2021, § 28 N. 1 ff. (Stempelabgaben)
-- VISCHER FRANK, Stempelabgaben, in: Schweizer Privatrecht, Bd. IV, 2. Aufl. 2002, S. 801 ff.
-- ESTV, Kreisschreiben Nr. 24 vom 21. März 2011 zur Umsatzabgabe, aktualisiert 2020 (abrufbar auf estv.admin.ch)
+* **Basler Kommentar zum Schweizerischen Steuerrecht (StG)**, Martin Zweifel / Michael Beusch (Hrsg.), Basel 2015, Art. 17a StG.
+* **Frank Vischer**, Stempelabgaben, in: Schweizer Privatrecht, Bd. IV, 2. Aufl., Basel 2002, S. 801 ff.
+* **Xavier Oberson / Pierre-Marie Glauser**, Droit fiscal suisse, 5. Aufl., Basel 2021, § 28 (Droits de timbre).
+* **ESTV**, Kreisschreiben Nr. 24 vom 21. März 2011 zur Umsatzabgabe (Befreiung von kollektiven Kapitalanlagen und institutionellen Anlegern; Stand 2020).

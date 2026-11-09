@@ -2,10 +2,14 @@
 title: "Art. 4 — Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit"
 weight: 4
 date: 2026-10-23
-lastmod: 2026-10-23
-description: "Praxiskommentar zu Art. 4 StHG (SR 642.14) — Beschränkte Steuerpflicht natürlicher Personen aufgrund wirtschaftlicher Zugehörigkeit. Behandelt Geschäftsbetriebe und Betriebsstätten (Kriterien und Shell-Tankstellenfall BGE 134 I 303), Grundeigentum und Schuldzinsenausscheidung, die gesetzgeberische Bereinigung des Grundstückshandels und der Maklerprovisionen (Revision 2019, BBl 2016 5357), das Erfordernis physischer Anwesenheit (BGE 137 II 246) sowie die Neuregelung der internationalen Telearbeit per 1. Januar 2025 (Abs. 2 lit. abis, BBl 2024 650) und Vorsorgeleistungen im Ausland. Mit Grenzkasuistik, Vergleichstabellen und rollenspezifischen Praxishinweisen."
+lastmod: 2026-11-09
+description: "Praxiskommentar zu Art. 4 StHG (SR 642.14) — Beschränkte Steuerpflicht natürlicher Personen aufgrund wirtschaftlicher Zugehörigkeit. Behandelt Geschäftsbetriebe und Betriebsstätten (Kriterien und Shell-Tankstellenfall BGE 134 I 303; Betriebsbegriff bei Immobilienverwaltung BGE 150 II 40), Grundeigentum, Verfassungsverbot diskriminierender Liegenschaftsbesteuerung von Ausserkantonalen (BGE 149 I 125), Schuldzinsenausscheidung, die gesetzgeberische Bereinigung des Grundstückshandels und der Maklerprovisionen (Revision 2019, BBl 2016 5357), das Erfordernis physischer Anwesenheit (BGE 137 II 246) sowie die Neuregelung der internationalen Telearbeit per 1. Januar 2025 (Abs. 2 lit. abis, BBl 2024 650) und Vorsorgeleistungen im Ausland. Mit Grenzkasuistik, Vergleichstabellen und rollenspezifischen Praxishinweisen."
 tags: ["StHG", "Steuerharmonisierung", "wirtschaftliche Zugehörigkeit", "beschränkte Steuerpflicht", "Betriebsstätte", "Geschäftsbetrieb", "Liegenschaften", "Liegenschaftshandel", "Maklerprovision", "Telearbeit", "Quellensteuer", "Verwaltungsrat", "Vorsorgegelder"]
 revisions:
+  - date: 2026-11-09
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Erweiterung Praxiskommentar um die Leitentscheide BGE 150 II 40 (Betriebsbegriff bei professioneller Immobilienbewirtschaftung und Drittverwaltung) sowie BGE 149 I 125 (Verfassungswidrigkeit diskriminierender Minimal-Grundstücksteuern für Ausserkantonale, Art. 8 Abs. 1 BV)."
   - date: 2026-10-23
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -77,6 +81,9 @@ Art. 4 Abs. 1 StHG begründet eine beschränkte Steuerpflicht für Personen, die
 * **Anwendungsfall: Zahnarztpraxis als Betriebsstätte und Beendigung bei Praxisverkauf ([SG VWEK I/1-2012/24 vom 30.08.2012](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VWEK_001_I-1-2012-24_2012-08-30.pdf)):**  
   Eine Zahnärztin betrieb bis Juni 2009 eine eigene Praxis im Kanton St. Gallen und zog im selben Jahr in den Kanton Aargau, wo sie am 31. Dezember 2009 Wohnsitz hatte. Im Juni 2009 verkaufte sie ihre Praxis an einen Nachfolger.  
   *Entscheid:* Bis zum Verkauf im Juni 2009 unterhielt die Ärztin eine unbestrittene Betriebsstätte im Kanton St. Gallen (feste Praxisräume, Behandlungsstühle, Patientenstamm). Mit dem Verkauf und der Übergabe der Praxis endete die wirtschaftliche Zugehörigkeit nach Art. 4 Abs. 1 StHG taggenau. Das spätere Einfordern von Restforderungen oder Ratenzahlungen aus dem Verkaufspreis stellte keine Fortführung der Betriebsstätte dar, sondern gehörte zum Privatvermögen am neuen Wohnsitz im Aargau.
+* **Leitentscheid zum Betriebsbegriff bei Immobilienverwaltung ([BGE 150 II 40](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-150-II-40_2024.html)):**  
+  Eine Immobiliengesellschaft hielt und bewirtschaftete Liegenschaften, liess die operative Verwaltung der Mietobjekte jedoch durch eine externe Drittfirma besorgen. Streitig war, ob die Immobilienverwaltung als vollwertiger Geschäftsbetrieb qualifiziert werden kann.  
+  *Entscheid des Bundesgerichts:* Damit das Halten und Bewirtschaften von Liegenschaften einen echten Geschäftsbetrieb im Sinne des Steuerrechts darstellt, ist eine professionelle Immobilienbewirtschaftung vorausgesetzt. Ob diese Voraussetzung erfüllt ist, hängt jedoch nicht davon ab, ob die Verwaltung der Immobilien durch das Unternehmen selbst vorgenommen oder damit ein professioneller Dritter beauftragt wird (E. 6.1–6.9). Auch bei Auslagerung der operativen Bewirtschaftung an Dritte kann ein steuerbarer Geschäftsbetrieb vorliegen, sofern die strategische Leitung und das Unternehmerrisiko beim Rechtsträger verbleiben.
 
 > **Leitsatz.** Eine Betriebsstätte nach Art. 4 Abs. 1 StHG setzt zwingend eine feste Geschäftseinrichtung mit ständiger Sach- und Personalinfrastruktur sowie eine eigene Verfügungsmacht des Unternehmens voraus; die blosse Gebrauchsüberlassung an Dritte (Franchising, Miete) oder ein fiktiver Handelsregistersitz begründen keine wirtschaftliche Zugehörigkeit.
 
@@ -96,6 +103,11 @@ Im Urteil **[BGer 2C_133/2018 vom 21. Februar 2018](https://entscheidsuche.ch/do
 Das Liegenschaftssteuerdomizil berechtigt den Belegenheitskanton zur Besteuerung des amtlichen Werts bzw. Steuerwerts der Liegenschaft (Vermögenssteuer) sowie der Nettoerträge (Mietzinseinnahmen bzw. Eigenmietwert nach Abzug der Unterhaltskosten). 
 
 Nach den verfassungsrechtlichen Doppelbesteuerungsregeln (Art. 127 Abs. 3 BV) dürfen Schulden und Schuldzinsen nicht ausschliesslich dem Liegenschaftskanton zugewiesen werden; sie sind **nach Lage der Aktiven (prozentualer Anteil der Aktiven im Kanton an den Gesamtaktiven)** auf den Wohnsitz- und den Liegenschaftskanton zu verlegen ([BGE 138 II 32](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-138-II-32_2011.html); [BGer 2C_646/2021 vom 07.10.2021 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-646-2021_2021-10-07.html)).
+
+#### 3. Verfassungsverbot diskriminierender Sonderbesteuerung Ausserkantonaler ([BGE 149 I 125](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-125_2023.html))
+Kantone und Gemeinden dürfen Personen, die lediglich aufgrund von Grundeigentum nach Art. 4 Abs. 1 StHG beschränkt steuerpflichtig sind, steuerlich nicht schlechter stellen als Personen mit Wohnsitz im Kanton:
+* Im Leitentscheid **[BGE 149 I 125](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-125_2023.html)** erklärte das Bundesgericht die im kantonalen Steuergesetz des Kantons Wallis vorgesehene Minimal-Grundstücksteuer für nichtwohnsässige Liegenschaftseigentümer für **verfassungswidrig**.
+* Eine Schlechterstellung von Ausserkantonalen gegenüber wohnsässigen Personen bei der Liegenschaftsbesteuerung verletzt das Rechtsgleichheitsgebot (Art. 8 Abs. 1 BV) und das Diskriminierungsverbot des interkantonalen Doppelbesteuerungsverbots (Art. 127 Abs. 3 BV; [E. 5.1–5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-125_2023.html)). Ausserkantonale Eigentümer dürfen bei Tarifen, Sockelbeträgen oder Mindeststeuern nicht diskriminiert werden.
 
 ---
 
