@@ -2,10 +2,14 @@
 title: "Art. 131 StPO — Sicherstellung der notwendigen Verteidigung"
 weight: 131
 date: "2026-08-29"
-lastmod: 2026-10-15
+lastmod: 2026-11-10
 description: "Praxiskommentar zu Art. 131 StPO: Sicherstellung der notwendigen Verteidigung, Zeitpunkt der Bestellung (Revision 2024), Erkennbarkeit, Verwertungsverbote bei Beweiserhebungen vor Beizug, Fernwirkung und kantonale Gerichtspraxis."
 tags: ["StPO", "notwendige Verteidigung", "Sicherstellung", "Verwertungsverbot", "Erkennbarkeit", "Einvernahme", "Waffengleichheit", "Fernwirkung"]
 revisions:
+  - date: 2026-11-10
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    note: "Einarbeitung des Grundsatzentscheids BGer 6B_691/2024 vom 14.10.2026 (zur BGE-Publikation vorgesehen, 5er-Besetzung): Qualifizierte Belehrungspflicht als Voraussetzung eines Verzichts auf Einvernahmewiederholung (Art. 131 Abs. 3 StPO), Ablehnung der Mindermeinung zur Treu-und-Glauben-Verwirkung gestützt auf den nemo-tenetur-Grundsatz (BGE 151 IV 73 E. 2.4.2, BGE 148 IV 205 E. 2.4) sowie Erstreckung der Fernwirkung (Art. 141 Abs. 4 StPO) auf nachfolgende Bestätigungen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -74,15 +78,20 @@ Unterlässt die Behörde die Bestellung trotz Erkennbarkeit, sind die erhobenen 
 - Ein Einverständnis der unverteidigten beschuldigten Person zu Beginn der Einvernahme (z.B. nach Belehrung gemäss Art. 158 Abs. 1 lit. c StPO) beseitigt das Verwertungsverbot **nicht** ([BGer 6B_178/2017 E. 2.7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-178-2017_2017-10-25.html)).
 
 ### 3. Voraussetzungen eines gültigen Verzichts
-Auf die Wiederholung kann nur wirksam verzichtet werden, wenn:
-1. Die beschuldigte Person mittlerweile **wirksam verteidigt** ist;
-2. Der Verzicht in Kenntnis der Unverwertbarkeit und der Tragweite erklärt wird;
-3. Eine Rücksprache zwischen Mandant und Verteidigung stattgefunden hat.
+Auf die Wiederholung einer unter Missachtung von Art. 131 StPO durchgeführten Beweiserhebung kann gemäss Art. 131 Abs. 3 StPO nur unter strengen Voraussetzungen rechtswirksam verzichtet werden. Mit dem Grundsatzurteil [BGer 6B_691/2024 vom 14. Oktober 2026 E. 1.4.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_691_2024#e-1-4-2) (I. strafrechtliche Abteilung, 5er-Besetzung, zur BGE-Publikation vorgesehen) hat das Bundesgericht die Anforderungen an einen solchen Verzicht grundlegend präzisiert:
+
+- **Pflicht zur qualifizierten behördlichen Belehrung**: Ein wirksamer Verzicht setzt zwingend voraus, dass die Strafbehörde die beschuldigte Person aktiv, umfassend und unmissverständlich belehrt hat über:
+  1. die Notwendigkeit der Verteidigung nach Art. 130 StPO,
+  2. die daraus zwingend folgende absolute Unverwertbarkeit des Erstprotokolls nach Art. 131 Abs. 3 StPO und Art. 141 Abs. 1 StPO sowie
+  3. das uneingeschränkte Recht, die vollumfängliche Wiederholung der Einvernahme im Beisein der Verteidigung zu verlangen.
+- **Kein Verzicht durch blosse Bezugnahme oder Bestätigung**: Fehlt eine solche behördliche Belehrung, begründet weder die blosse spätere Bezugnahme auf die früheren Aussagen noch deren Bestätigung im Beisein des nachträglich bestellten Anwalts einen Verzicht im Sinne von Art. 131 Abs. 3 StPO ([BGer 6B_691/2024 E. 1.4.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_691_2024#e-1-4-2); Abgrenzung zu [BGer 6B_440/2024 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-440-2024_2025-05-07.html#consideration_4.2)). Eine wirksame Verzichtserklärung setzt voraus, dass die beschuldigte Person und ihre Verteidigung die Tragweite des Verzichts in voller Kenntnis der Sach- und Rechtslage erfassen und sich zuvor darüber beraten haben.
+- **Lehrmeinungskontroverse: Ablehnung der Verwirkung nach Treu und Glauben (Nemo tenetur)**: In der Lehre wurde teilweise vertreten, dass die beschuldigte Person den Anspruch auf Wiederholung nach dem Grundsatz von Treu und Glauben (Art. 3 Abs. 2 lit. a StPO) verwirke, wenn sie trotz Anwesenheit eines Verteidigers im weiteren Vorverfahren passiv bleibe und den Mangel erst verspätet rüge (so namentlich Jositsch/Schmid, Handbuch des schweizerischen Strafprozessrechts, 4. Aufl. 2023, N 757; Moreillon/Parein-Reymond, Petit Commentaire CPP, 2. Aufl. 2016, Art. 131 N 10). Das Bundesgericht hat diese Lehrmeinung in [BGer 6B_691/2024 E. 1.4.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_691_2024#e-1-4-2) in 5er-Besetzung ausdrücklich verworfen: Die beschuldigte Person ist kraft des Grundsatzes *nemo tenetur se ipsum accusare* (Art. 113 Abs. 1 StPO; vgl. [BGE 151 IV 73 E. 2.4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-73_2025.html#consideration_2.4.2); [BGE 148 IV 205 E. 2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-205_2022.html#consideration_2.4)) zu keiner aktiven Verfahrensförderung verpflichtet. Ihre prozessuale Passivität im Vorverfahren darf nicht als Verzicht oder Rechtsmissbrauch gewertet werden; sie ist vollumfänglich berechtigt, die Unverwertbarkeit des Erstprotokolls erstmals zu Beginn der erstinstanzlichen Hauptverhandlung vor Schranken geltend zu machen (Art. 339 Abs. 2 lit. d StPO).
 
 ### 4. Fernwirkung auf Folge- und Wiederholungsbeweise (Art. 141 Abs. 4 StPO)
 Für spätere Beweiserhebungen gilt:
 - **Zulässigkeit der Wiederholung**: Eine Einvernahme darf im Beisein der Verteidigung wiederholt werden. Die Wiederholung ist voll verwertbar, sofern die Behörde **nicht auf die ungültigen Protokolle zurückgreift** oder dem Beschuldigten seine früheren Aussagen vorhält ([BGer 6B_75/2019 vom 15.03.2019 E. 1.4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-75-2019_2019-03-15.html); [BGE 143 IV 457 E. 1.6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-457_2017.html#consideration_1.6.2)).
-- **Keine Fernwirkung bei selbstständigen Beweisen**: Folgebeweise (wie Datenauswertungen oder erneute Geständnisse vor Gericht) bleiben verwertbar, wenn sie auch ohne die Erstbefragung erlangt worden wären (hypothetischer Ermittlungsverlauf) oder der Beschuldigte vor Gericht freiwillig und verteidigt aussagt ([BGer 6B_75/2019 E. 1.4.3–1.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-75-2019_2019-03-15.html); [BGer 7B_759/2023 vom 16.06.2025 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-759-2023_2025-06-16.html)).
+- **Fernwirkung bei blosser Bestätigung ohne Belehrung**: Werden unverwertbare Aussagen anlässlich nachfolgender Einvernahmen oder an der erstinstanzlichen Hauptverhandlung im Beisein der Verteidigung lediglich bestätigt, unterliegen diese Bestätigungen nach [BGer 6B_691/2024 vom 14. Oktober 2026 E. 1.4.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_691_2024#e-1-4-2) der **Fernwirkung nach Art. 141 Abs. 4 StPO**. Fehlt es an einer vorgängigen behördlichen Belehrung über die Unverwertbarkeit des Erstprotokolls, knüpft die spätere Bestätigung direkt an den absolut unverwertbaren Erstbeweis (Art. 141 Abs. 1 StPO) an und ist mit diesem untrennbar verknüpft; sie kann daher nicht als davon unabhängige, selbstständige Beweiserhebung verwertet werden.
+- **Keine Fernwirkung bei selbstständigen Beweisen**: Folgebeweise (wie Datenauswertungen oder erneute, aus freien Stücken erfolgte Geständnisse vor Gericht) bleiben verwertbar, wenn sie auch ohne die Erstbefragung erlangt worden wären (hypothetischer Ermittlungsverlauf) oder der Beschuldigte vor Gericht freiwillig und unabhängig von den unverwertbaren Erstaussagen verteidigt aussagt ([BGer 6B_75/2019 E. 1.4.3–1.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-75-2019_2019-03-15.html); [BGer 7B_759/2023 vom 16.06.2025 E. 2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-759-2023_2025-06-16.html)).
 
 ---
 
@@ -139,4 +148,4 @@ Einvernahmeprotokolle, die unter Verletzung von Art. 131 Abs. 3 StPO zustande ka
 
 ---
 
-*Zuletzt aktualisiert: 29. August 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-131/_index.md) · [Anregung einreichen](/einreichung)*
+*Zuletzt aktualisiert: 10. November 2026 · [Diese Seite bearbeiten](https://github.com/glossagens/glossagens/edit/main/content/kommentar/stpo/art-131/_index.md) · [Anregung einreichen](/einreichung)*

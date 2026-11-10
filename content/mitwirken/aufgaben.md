@@ -32,6 +32,9 @@ Aufgrund des täglichen Rechtsprechungs-Monitors (Abgleich von Leitentscheiden u
 * **Art. 148 ZPO (Wiederherstellung bei Säumnis)**:  
   *Aktuelle Entscheide*: [BGer 5A_470/2026 vom 01.09.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-470-2026_2026-09-01.html), [BGer 4A_449/2023 vom 02.05.2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-449-2023_2024-05-02.html)  
   *Begründung*: Das Bundesgericht handhabt die Voraussetzung des «fehlenden oder nur leichten Verschuldens» sowie die zehntägige Verwirkungsfrist ab Wegfall des Hindernisses (Art. 148 Abs. 2 ZPO) äusserst streng. Insbesondere im Zusammenspiel mit der Zustellungsfiktion (Art. 138 Abs. 3 ZPO) oder Fristversäumnissen bei Rechtsmittelergänzungen scheitern Wiederherstellungsgesuche regelmässig. Ein systematischer Praxiskommentar zur Kasuistik der Wiederherstellungsgründe bildet ein wichtiges Schutzschild in der Prozessführung.
+* **Art. 454 ZGB (Verantwortlichkeit und kantonaler Rückgriff im Kindes- und Erwachsenenschutz)**:  
+  *Aktuelle Entscheide*: [BGer 2C_564/2025 vom 23.09.2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_564_2025) (publiziert am 10.11.2026)  
+  *Begründung*: Das Bundesgericht hat Grundsatzfragen des kantonalen Rückgriffs auf private Beistände nach Art. 454 Abs. 3 ZGB geklärt: Fehlt im kantonalen Recht eine ausdrückliche Zuständigkeitsnorm für die Rückgriffsforderung des Kantons (nach vorgängiger staatlicher Schadloshaltung veruntreuter Gelder), liegt eine echte Gesetzeslücke vor. Diese Lücke ist durch Heranziehung des bisherigen Rechts zu füllen, sodass der Kanton den Rückgriff hoheitlich mittels Verwaltungsverfügung (anstelle einer Zivilklage) durchsetzen darf. Angesichts der zehntausenden privaten Beistandschaften in der Schweiz und unklarer kantonaler Zuständigkeiten ist eine dogmatisch saubere Kommentierung von Art. 454 ZGB von hoher Relevanz für Kantone, Gemeinden und Beistände.
 
 ## Lücken aus bestehenden Themen
 

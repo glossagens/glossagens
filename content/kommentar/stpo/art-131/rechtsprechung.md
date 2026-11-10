@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 131 StPO"
 weight: 99
 date: "2026-08-29"
-lastmod: "2026-08-29"
+lastmod: "2026-11-10"
 description: "Übersicht der Leitentscheide und kantonalen Entscheide zur Sicherstellung der notwendigen Verteidigung, Verwertungsverboten und der StPO-Revision per 1. Januar 2024 (Art. 131 StPO)."
 tags: ["Rechtsprechung", "StPO", "notwendige Verteidigung", "Verwertungsverbot", "Wiederholung", "Fernwirkung"]
 revisions:
+  - date: 2026-11-10
+    by: "Antigravity"
+    model: "gemini-3.7-flash"
+    note: "Aufnahme des Leitentscheids BGer 6B_691/2024 vom 14.10.2026 (I. strafrechtliche Abteilung, 5er-Besetzung, zur BGE-Publikation vorgesehen): Qualifizierte Belehrungspflicht als Verzichtsvoraussetzung nach Art. 131 Abs. 3 StPO, Ausschluss der Treu-und-Glauben-Verwirkung gestützt auf Nemo tenetur (BGE 151 IV 73, BGE 148 IV 205) und Fernwirkung (Art. 141 Abs. 4 StPO) bei nachträglichen Bestätigungen."
   - date: 2026-08-29
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -15,6 +19,18 @@ revisions:
 # Rechtsprechung zu Art. 131 StPO
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
+
+### [BGer 6B_691/2024 vom 14. Oktober 2026 E. 1.4.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_691_2024#e-1-4-2) — Qualifizierte Belehrungspflicht für Verzicht auf Einvernahmewiederholung, Ausschluss der Treu-und-Glauben-Verwirkung (Nemo tenetur) und Fernwirkung
+- **Thema**: Voraussetzungen des Verzichts nach Art. 131 Abs. 3 StPO, Ausschluss einer Rügeverwirkung nach Treu und Glauben und Fernwirkung (Art. 141 Abs. 4 StPO)
+- **Sachverhalt**: Die beschuldigte Person wurde in einer Konstellation offensichtlich notwendiger Verteidigung (Art. 130 StPO) polizeilich zur Sache einvernommen, ohne dass ein Verteidiger beigezogen worden war. Nach nachträglicher Beiordnung einer amtlichen Verteidigung nahm die beschuldigte Person in späteren Einvernahmen auf die Ersteinvernahme Bezug bzw. bestätigte diese. Eine ausdrückliche Belehrung über die Unverwertbarkeit der Ersteinvernahme und das Recht auf eine vollumfängliche Wiederholung war jedoch unterblieben. An der erstinstanzlichen Hauptverhandlung verlangte die Verteidigung erstmals die Aussonderung des Erstprotokolls und rügte die Unverwertbarkeit aller Folgeaussagen. Die kantonalen Instanzen nahmen einen konkludenten Verzicht bzw. eine Verwirkung der Rüge nach Treu und Glauben an.
+- **Kernaussage**:
+  1. *Absolutes Verwertungsverbot (Art. 131 Abs. 3 StPO n.F., Art. 141 Abs. 1 StPO)*: Eine ohne notwendige Verteidigung durchgeführte Ersteinvernahme ist absolut unverwertbar; ein Verzicht unterliegt strengen Anforderungen.
+  2. *Qualifizierte behördliche Belehrungspflicht*: Ein rechtsgültiger Verzicht auf die Wiederholung setzt zwingend voraus, dass die Strafbehörde die beschuldigte Person aktiv und unmissverständlich über die Notwendigkeit der Verteidigung, die daraus fliessende absolute Unverwertbarkeit des Erstprotokolls und den Anspruch auf Wiederholung belehrt hat. Fehlt diese Belehrung, begründet die blosse Bezugnahme oder Bestätigung im Beisein des Anwalts keinen Verzicht nach Art. 131 Abs. 3 StPO (Abgrenzung zu [BGer 6B_440/2024 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-440-2024_2025-05-07.html#consideration_4.2)).
+  3. *Ablehnung der Treu-und-Glauben-Verwirkung (Nemo tenetur)*: Das Bundesgericht weist die Lehrmeinung (Jositsch/Schmid, Moreillon/Parein-Reymond), wonach Passivität nach Treu und Glauben zum Verlust des Wiederholungsanspruchs führe, in 5er-Besetzung ausdrücklich zurück. Gestützt auf den nemo-tenetur-Grundsatz (BGE 151 IV 73 E. 2.4.2; BGE 148 IV 205 E. 2.4) ist die beschuldigte Person nicht zur aktiven Verfahrensförderung verpflichtet und darf die Unverwertbarkeit erstmals an der Hauptverhandlung rügen.
+  4. *Fernwirkung (Art. 141 Abs. 4 StPO)*: Bestätigungen der unverwertbaren Erstaussagen anlässlich der erstinstanzlichen Verhandlung unterliegen als Folgebeweise der Fernwirkung, da sie kausal auf dem absolut unverwertbaren Erstprotokoll basieren.
+- **Einschlägig für**: Art. 131 Abs. 3 i.V.m. Art. 141 Abs. 1 und 4 StPO, Art. 113 Abs. 1 StPO
+
+---
 
 ### [BGE 141 IV 289](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-289_2015.html#consideration_2) — Verbleib umstrittener Beweise in den Akten und Rechtsnatur von Art. 131 Abs. 3 StPO
 - **Thema**: Aktenverbleib und Auslegung von Art. 131 Abs. 3 StPO
@@ -119,4 +135,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 29. August 2026*
+*Letzte Aktualisierung: 10. November 2026*
