@@ -1,12 +1,16 @@
 ---
 title: "§ 8 VRG ZH — Akteneinsicht"
 weight: 8
-date: 2026-11-10
-lastmod: 2026-11-10
+date: '2026-11-10'
+lastmod: '2026-11-11'
 description: "Akteneinsicht im zürcherischen Verwaltungsverfahren: Berechtigung, Gegenstand, Form, Aktenführungspflicht, Schranken nach § 9 VRG und Folgen von Verletzungen."
 tags: ["Akteneinsicht", "rechtliches Gehör", "Aktenführungspflicht", "VRG ZH"]
 revisions:
-  - date: 2026-11-10
+  - date: '2026-11-11'
+    by: Antigravity
+    model: gemini-3.8-flash
+    note: "Review und Volltextverifikation sämtlicher Zitate auf entscheidsuche.ch; Wortlaut-Daten (LS 175.2) und Rechtsprechungsübersicht (rechtsprechung.md) im Page Bundle ergänzt."
+  - date: '2026-11-10'
     by: "ein anonymer Spender"
     model: "claude-sonnet-5-5"
     note: "Neu verfasst. Acht VGer-Entscheide auf entscheidsuche.ch vollständig gelesen, Trägersätze daraus wörtlich kopiert. Doktrin und BGer nur über Zitate in den Entscheiden erfasst, nicht geprüft. VB.2024.00753 wurde vom BGer am 31.3.2026 aufgehoben (Gründe nicht geprüft). Gesetzesstand von § 8/§ 9 nur über opencaselaw/LexFind geprüft."
