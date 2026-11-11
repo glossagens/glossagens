@@ -2,10 +2,14 @@
 title: "Art. 12 StGB — Vorsatz und Fahrlässigkeit"
 weight: 12
 date: 2026-05-23
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 12 StGB: Vorsatzprinzip, direkter Vorsatz, Eventualvorsatz, Indizienlehre, Abgrenzung zur bewussten Fahrlässigkeit, Sorgfaltsmassstab und Pflichtwidrigkeitszusammenhang — mit Schwellenwert-Tabellen und Kasuistik zu Strassenverkehr, Gewaltdelikten, Behandlungsfehlern und Sportunfällen."
-tags: ["StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Schuldprinzip", "Indizienlehre", "Sorgfaltspflicht", "Pflichtwidrigkeitszusammenhang", "Allgemeiner Teil", "Kasuistik"]
+lastmod: 2026-11-11
+description: "Praxiskommentar zu Art. 12 StGB: Vorsatzprinzip, direkter Vorsatz, Eventualvorsatz, Indizienlehre, Abgrenzung zur bewussten Fahrlässigkeit, Sorgfaltsmassstab, Vertrauensgrundsatz und Pflichtwidrigkeitszusammenhang — mit Schwellenwert-Tabellen und Kasuistik zu Strassenverkehr, Gewaltdelikten, Behandlungsfehlern, Sport- und Baustellenunfällen."
+tags: ["StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Schuldprinzip", "Indizienlehre", "Sorgfaltspflicht", "Vertrauensgrundsatz", "Pflichtwidrigkeitszusammenhang", "Allgemeiner Teil", "Kasuistik"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity (Commentary Editor)"
+    model: "claude-opus-4-6"
+    note: "BGer 6B_102/2024 vom 12. Oktober 2026 (schwerer Baustellen-Kranunfall mit Querschnittlähmung, Ausschluss des Vertrauensgrundsatzes bei Überwachungs- und Kontrollpflichten gegenüber Dritten/Subunternehmerpersonal, Art. 6/7 Kranverordnung und Art. 11 Abs. 2 VUV) in Abschnitt F (Ziff. 2, 3c und 4) eingearbeitet; Volltext via swiss-caselaw MCP (get_decision) und Link via mcp.opencaselaw.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -227,12 +231,13 @@ Die Pflichtwidrigkeit der Unvorsichtigkeit bemisst sich nach einem **zweistufige
 1. **Objektiver Sorgfaltsmassstab**: Was hätte ein besonnener, gewissenhafter und einsichtiger Mensch in der gleichen Situation und in der gleichen beruflichen oder sozialen Rolle getan?
 2. **Individueller Sorgfaltsmassstab**: Verfügt der Täter über besondere Fähigkeiten, Fachwissen oder Erfahrung, bemisst sich die Pflichtwidrigkeit nach diesem gesteigerten Massstab. Umgekehrt entlasten körperliche oder geistige Einschränkungen, sofern der Täter sich nicht pflichtwidrig in diese Lage begeben hat (Übernahmeverschulden).
 
-#### 2. Konkretisierung durch Schutznormen und Ingerenz
-- **Gesetzliche und berufsständische Schutznormen**: Wo Vorschriften des Strassenverkehrsrechts (SVG), Arbeitssicherheitsregeln (EKAS/SUVA), Bauverordnungen (BauAV) oder medizinische Standesregeln bestehen, konkretisieren sie die gebotene Sorgfalt verbindlich ([BGE 135 IV 56 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-56_2009.html#consideration_2.1)).
+#### 2. Konkretisierung durch Schutznormen, Ingerenz und Grenzen des Vertrauensgrundsatzes
+- **Gesetzliche und berufsständische Schutznormen**: Wo Vorschriften des Strassenverkehrsrechts (SVG), Arbeitssicherheitsregeln (UVG, VUV, Kranverordnung, EKAS/SUVA), Bauverordnungen (BauAV) oder medizinische Standesregeln bestehen, konkretisieren sie die gebotene Sorgfalt verbindlich ([BGE 135 IV 56 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-56_2009.html#consideration_2.1); [BGer 6B_102/2024 vom 12. Oktober 2026 E. 1.3.1.2, 1.3.1.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-3-1-2)).
+- **Vertrauensgrundsatz und dessen Ausschluss bei Kontrollverantwortung**: Der Vertrauensgrundsatz begrenzt die Vorsichtspflicht insoweit, als jeder Beteiligte grundsätzlich darauf vertrauen darf, dass sich andere pflichtgemäss verhalten, sofern nicht besondere Umstände das Gegenteil erkennen lassen. Wer jedoch eine spezifische Kontrollverantwortung innehat, muss mit Fehlern und unzureichender Instruktion Dritter rechnen: Der Vertrauensgrundsatz greift von vornherein nicht, wenn die fraglichen Sorgfaltspflichten gerade auf die Überwachung, Kontrolle oder Beaufsichtigung des Verhaltens anderer Personen gerichtet sind und deren Fehlverhalten entgegenwirken sollen ([BGer 6B_102/2024 vom 12. Oktober 2026 E. 1.4.2.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4)).
 - **Ingerenzprinzip (Gefahrensatz)**: Wer eine Gefahr für fremde Rechtsgüter schafft oder vergrössert, ist verpflichtet, alle nach den Umständen zumutbaren Massnahmen zu treffen, um den Schadenseintritt zu verhindern ([Art. 11 Abs. 2 lit. d StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_11); [BGE 134 IV 255 E. 4.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-255_2008.html#consideration_4.2.3)).
 - **Garantenstellung erst bei faktischer Übernahme**: Eine vertragliche Garantenstellung entsteht strafrechtlich erst mit der **tatsächlichen faktischen Übernahme** der Sicherungsfunktion vor Ort, nicht mit der blossen Vertragsunterzeichnung ([BGE 141 IV 249 E. 1.4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-249_2015.html#consideration_1.4.1)).
 
-#### 3. Zweiseitige Grenzkasuistik: Medizin und Sport
+#### 3. Zweiseitige Grenzkasuistik: Medizin, Sport und Arbeitssicherheit
 
 ##### a) Medizinische Behandlungsfehler: Pflichtwidrigkeit bejaht vs. verneint
 
@@ -250,7 +255,12 @@ Die Pflichtwidrigkeit der Unvorsichtigkeit bemisst sich nach einem **zweistufige
 - **Krasse Körperattacke im Eishockey ([BGE 134 IV 26](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-26_2008.html#consideration_3.2))**: Ein Eishockeyspieler checkte einen nicht puckführenden Gegenspieler mit den Händen voran frontal gegen Hals und Kopf (Fraktur der Halswirbelsäule). Die Pflichtwidrigkeit wurde bejaht: Wer Schutzregeln grob verletzt, überschreitet das erlaubte Risiko des Sports; die stillschweigende Einwilligung der Spieler deckt keine schweren Regelbrüche ab.
 - **Gefährliches Grätschen im Fussball ([BGE 145 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-154_2019.html#consideration_2))**: Ein Fussballer grätschte mit 10–15 cm angehobenem Bein in den Kontrahenten (Bruch von Schien- und Wadenbein). Das Bundesgericht bejahte fahrlässige Körperverletzung ([Art. 125 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_125)): Ein gefährliches Tackling verletzt elementare Sorgfaltspflichten und sprengt das sportimmanente Risiko.
 
-#### 4. Kriterientabelle: Sorgfaltsmassstab in Medizin und Sport
+##### c) Arbeitssicherheit auf Baustellen: Kontrollverantwortung schliesst Vertrauensgrundsatz aus ([BGer 6B_102/2024 vom 12. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4))
+- **Sachverhalt**: Ein ausgebildeter und zertifizierter Kranführer manövrierte auf einer Baustelle einen Flügelbock mit acht Fenstern (ca. 687 kg) zu einer Abladestelle auf grob planiertem, unebenem Grund, wo ein Arbeiter eines beigezogenen Subunternehmens (Drittfirma) als Einweiser bereitstand. Nachdem der Flügelbock kurz (für fünf bis zehn Sekunden) auf dem unebenen Boden aufgesetzt hatte und wackelte, wiesen der Einweiser und ein Lehrling den Kranführer an, die Last nochmals anzuheben. Durch das Aufsetzen hatte sich mindestens eine der Traggurten aus der Führungshaken-Vorrichtung gelöst; beim sofortigen Wiederanheben drehte und kippte der Flügelbock, und die herabrutschenden Fenster verursachten beim Einweiser eine Querschnittlähmung.
+- **Entscheid**: Verurteilung des Kranführers wegen fahrlässiger schwerer Körperverletzung durch Unterlassen ([Art. 125 Abs. 2 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_125) i.V.m. [Art. 11 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_11) und Art. 12 Abs. 3 StGB) bestätigt.
+- **Rückbindung an das Merkmal**: Gestützt auf Art. 6 Abs. 1 und 3 i.V.m. Art. 5 Abs. 2 und Art. 7 Kranverordnung (SR 832.312.15) sowie Art. 11 Abs. 2 VUV (SR 832.30) trifft den Kranführer eine eigenständige sicherheitsrelevante Überwachungs- und Kontrollpflicht ([E. 1.3.1.4, 1.4.2.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4)). Da er zum Subunternehmen keine Geschäftsverbindung pflegte, durfte er sich nicht ungeprüft darauf verlassen, dass der Einweiser über die Gefahr sich lösender Gurten beim Aufsetzen einer Last instruiert war, und hätte den Flügelbock nach dem Aufsetzen nicht ohne erneute Kontrolle der Anschlagmittel wieder anheben dürfen ([E. 1.4.2.4, 1.4.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4)). Die Berufung auf den Vertrauensgrundsatz verwarf das Bundesgericht: Dieser «greift denn auch von vornherein nicht, wenn die fraglichen Sorgfaltspflichten gerade auf die Überwachung, Kontrolle oder Beaufsichtigung des Verhaltens anderer Personen gerichtet sind, mithin gerade deren Fehlverhalten entgegenwirken sollen» ([E. 1.4.2.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4)).
+
+#### 4. Kriterientabelle: Sorgfaltsmassstab in Medizin, Sport und Arbeitssicherheit
 
 | Sachverhalt / Konstellation | Beurteilung der Pflichtwidrigkeit | Entscheid |
 |---|---|---|
@@ -258,9 +268,10 @@ Die Pflichtwidrigkeit der Unvorsichtigkeit bemisst sich nach einem **zweistufige
 | Notfallarzt stützt sich ungeprüft auf Alkoholisierung ohne Ausschluss von Schädel-Hirn-Trauma | Pflichtwidrig; Verurteilung nach Art. 125 Abs. 2 StGB | [BGE 130 IV 7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-7_2004.html#consideration_3.3) |
 | Frontaler Crosscheck gegen Hals und Kopf beim Eishockey ausserhalb des Pucks | Pflichtwidrig; Art. 12 Abs. 3 StGB bejaht | [BGE 134 IV 26](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-26_2008.html#consideration_3.2) |
 | Gefährliches Tackling mit angehobenem Bein beim Fussball | Pflichtwidrig; Art. 125 StGB bejaht | [BGE 145 IV 154](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-154_2019.html#consideration_2) |
+| Kranführer hebt abgesetzten Fenster-Flügelbock auf Zuruf eines Einweisers einer Drittfirma wieder an, ohne dessen Instruktion und das korrekte Anschlagen zu prüfen | Pflichtwidrig (Art. 6 Kranverordnung, Art. 11 Abs. 2 VUV); Vertrauensgrundsatz bei Kontrollpflicht ausgeschlossen; Art. 125 Abs. 2 i.V.m. Art. 11 StGB bejaht | [BGer 6B_102/2024](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4) |
 | Ungesichertes Baustellenboot auf schiffbarem Fluss ohne Markierung | Ingerenzpflicht verletzt; Art. 237 StGB bejaht | [BGE 134 IV 255](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-134-IV-255_2008.html#consideration_4.2.3) |
 
-> **Leitsatz.** Die Pflichtwidrigkeit der Unvorsichtigkeit entfällt, wenn sich das Verhalten innerhalb des erlaubten Risikos bewegt und anerkannte Sicherheitsnormen eingehalten wurden; die Einwilligung von Sportteilnehmern erstreckt sich nicht auf schwere Regelverletzungen.
+> **Leitsatz.** Die Pflichtwidrigkeit der Unvorsichtigkeit entfällt, wenn sich das Verhalten innerhalb des erlaubten Risikos bewegt und anerkannte Sicherheitsnormen eingehalten wurden; die Einwilligung von Sportteilnehmern erstreckt sich nicht auf schwere Regelverletzungen, und der Vertrauensgrundsatz ist von vornherein ausgeschlossen, soweit die eigene Sorgfaltspflicht gerade auf die Überwachung oder Kontrolle des Verhaltens Dritter gerichtet ist.
 
 ---
 

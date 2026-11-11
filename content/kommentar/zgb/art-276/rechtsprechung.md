@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 276 ZGB"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-08-20
-description: "Übersicht der Rechtsprechung zu Art. 276 ZGB – Grundsatz der Unterhaltspflicht, Natural- und Geldunterhalt, Betreuungsunterhalt, Kindesschutzmassnahmen und kantonale Praxis."
-tags: ["Rechtsprechung", "ZGB", "Kindesunterhalt", "Unterhaltspflicht", "Betreuungsunterhalt", "Kindesschutzmassnahmen"]
+lastmod: 2026-11-11
+description: "Übersicht der Rechtsprechung zu Art. 276 ZGB – Grundsatz der Unterhaltspflicht, Natural- und Geldunterhalt, Abgrenzung von alternierender Obhut und Alleinobhut als Vorfrage der Unterhaltsverteilung (30-%-Schwelle und 42-Einheiten-Modell nach BGer 5A_280/2025), Betreuungsunterhalt, Kindesschutzmassnahmen und kantonale Praxis."
+tags: ["Rechtsprechung", "ZGB", "Kindesunterhalt", "Unterhaltspflicht", "Betreuungsunterhalt", "Alternierende Obhut", "Kindesschutzmassnahmen"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity"
+    model: "claude-opus-4-6"
+    note: "Aufnahme des zur BGE-Publikation vorgesehenen Leitentscheids BGer 5A_280/2025 vom 26. Oktober 2026 (publiziert am 11.11.2026): Verbindliche Richtlinien zur Abgrenzung von alternierender Obhut und Alleinobhut mit Besuchsrecht als Vorfrage der Geldunterhaltsverteilung (30-%-Schwelle bzw. mindestens 13 von 42 Einheiten «Vormittag/Nachmittag/Nacht» im Zweiwochenrhythmus ohne Ferien), Alltagsfokus und «mental load», Wegfall der Naturalunterhaltspflicht ab Volljährigkeit (E. 4) sowie Geltung der Offizialmaxime im Berufungsverfahren (E. 3.3). Im Volltext via opencaselaw-MCP verifiziert und via mcp.opencaselaw.ch verlinkt."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3-7-flash"
@@ -19,6 +23,13 @@ revisions:
 # Rechtsprechung zu Art. 276 ZGB
 
 ## I. Leitentscheide
+
+### **Abgrenzung von alternierender Obhut und Alleinobhut als Vorfrage der Geldunterhaltsverteilung: 30-%-Schwelle und 42-Einheiten-Modell**
+* **Fundstelle**: [BGer 5A_280/2025 vom 26. Oktober 2026, E. 5.3–5.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-3) (II. zivilrechtliche Abteilung, 5er-Besetzung, zur BGE-Publikation vorgesehen)
+* **Sachverhalt**: Im Abänderungsverfahren betreffend vorsorgliche Massnahmen im Scheidungsverfahren lebte der 2009 geborene Sohn nach dem Austritt aus dem Internat bei der Mutter in Österreich; der Vater betreute ihn jedes zweite Wochenende von Freitagabend bis Sonntagabend sowie während neun Ferienwochen pro Jahr. Das Kantonsgericht Schwyz verneinte eine alternierende Obhut mangels Alltagsbetreuung und auferlegte dem Vater den gesamten Geldunterhalt.
+* **Kernaussage**: Wegen der Gleichwertigkeit von Natural- und Geldunterhalt (Art. 276 Abs. 1 ZGB) hat bei Alleinobhut im Grundsatz der nicht obhutsberechtigte Elternteil den gesamten Geldunterhalt zu bestreiten, während dieser bei alternierender Obhut auf beide Eltern verteilt wird; für diese Vorfrage ist die effektive Betreuungslage und nicht die formelle Bezeichnung im Dispositiv massgebend ([E. 5.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-3), [E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4)). Nach den erstmals aufgestellten **verbindlichen Richtlinien für den Normalfall** liegt eine alternierende Obhut vor, wenn ausgehend von einer Unterteilung des Tages in die drei Einheiten **«Vormittag/Nachmittag/Nacht»** bei einer Sequenz von **42 Einheiten auf Zweiwochenbasis** **ohne Berücksichtigung der Ferienzeit** jeder Elternteil das Kind **mehr als 30 %**, mithin während **mindestens 13 Einheiten**, betreut, wobei im Einzelfall ermessensweise abgewichen werden kann ([E. 5.4.5.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-2), [E. 5.4.5.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-3), [E. 5.4.6](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-6)). Wegen der unteilbaren täglichen Betreuungsverantwortung und der damit verbundenen mentalen Beanspruchung (*«mental load»*) unterbleibt eine Differenzierung nach Eigen- oder Fremdbetreuung, Tageszeit oder Kindesalter ([E. 5.4.5.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-1), [E. 5.4.5.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-2)). Ein blosses Wochenendbesuchsrecht (6 von 42 Einheiten) begründet auch zusammen mit neun Wochen Ferien keine alternierende Obhut ([E. 5.4.7](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-7)). Ab Volljährigkeit entfällt die Obhut und die Pflicht zum Naturalunterhalt, sodass grundsätzlich beide Eltern anteilig zum Volljährigenunterhalt beizutragen haben ([E. 4](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-4)).
+
+---
 
 ### **Grundsätze des Kindesunterhalts und zweistufige Methode**
 * **Fundstelle**: [BGE 147 III 265, E. 5.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_265#e-5-1)

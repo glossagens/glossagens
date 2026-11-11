@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 12 StGB"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-09-07
-description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 12 StGB — Vorsatz, Eventualvorsatz, Fahrlässigkeit, Sorgfaltsmassstab, hypothetische Kausalität und Sachverhaltskasuistik."
-tags: ["Rechtsprechung", "StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Allgemeiner Teil", "Kasuistik"]
+lastmod: 2026-11-11
+description: "Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 12 StGB — Vorsatz, Eventualvorsatz, Fahrlässigkeit, Sorgfaltsmassstab, Vertrauensgrundsatz, hypothetische Kausalität und Sachverhaltskasuistik."
+tags: ["Rechtsprechung", "StGB", "Vorsatz", "Fahrlässigkeit", "Eventualvorsatz", "Vertrauensgrundsatz", "Allgemeiner Teil", "Kasuistik"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity (Commentary Editor)"
+    model: "claude-opus-4-6"
+    note: "BGer 6B_102/2024 vom 12. Oktober 2026 (schwerer Baustellen-Kranunfall mit Querschnittlähmung, Ausschluss des Vertrauensgrundsatzes bei Überwachungs- und Kontrollpflichten gegenüber Dritten/Subunternehmerpersonal, Art. 6/7 Kranverordnung und Art. 11 Abs. 2 VUV) in Abschnitt II eingefügt; Volltext via swiss-caselaw MCP (get_decision) und Link via mcp.opencaselaw.ch verifiziert."
   - date: 2026-09-07
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -134,6 +138,14 @@ revisions:
 
 ## II. Weitere Bundesgerichts- und kantonale Entscheide
 
+### [BGer 6B_102/2024 vom 12. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4) E. 1.3.1.4, 1.4.2.4, 1.4.3 — Ausschluss des Vertrauensgrundsatzes bei Überwachungs- und Kontrollpflichten (Kranunfall auf Baustelle)
+- **Thema**: Fahrlässige schwere Körperverletzung durch Unterlassen; eigenständige Kontrollverantwortung des Kranführers nach Kranverordnung und VUV; Unanwendbarkeit des Vertrauensgrundsatzes gegenüber ungenügend instruierten Hilfspersonen eines Subunternehmens.
+- **Sachverhalt**: Ein ausgebildeter und zertifizierter Kranführer hievte auf einer Baustelle einen Flügelbock mit acht Fenstern (ca. 687 kg) zu einer Abladestelle auf grob planiertem, unebenem Grund, wo ein Mitarbeiter eines beigezogenen Subunternehmens (Drittfirma) als Einweiser bereitstand. Nachdem der Flügelbock kurz auf dem unebenen Boden abgesetzt worden war und zu kippen drohte, wiesen der Einweiser und ein Lehrling den Kranführer an, die Last nochmals anzuheben. Durch das Aufsetzen hatte sich mindestens eine Traggurte aus der Hakenvorrichtung gelöst; beim sofortigen Wiederanheben drehte und kippte der Flügelbock, und die herabrutschenden Fenster verursachten beim Einweiser eine Querschnittlähmung.
+- **Kernaussage**: Der Vertrauensgrundsatz begrenzt die Vorsichtspflicht nur insoweit, als jeder Beteiligte grundsätzlich auf das pflichtgemässe Verhalten anderer vertrauen darf, sofern nicht besondere Umstände das Gegenteil erkennen lassen. Er greift von vornherein nicht, wenn die fraglichen Sorgfaltspflichten gerade auf die Überwachung, Kontrolle oder Beaufsichtigung des Verhaltens anderer Personen gerichtet sind, mithin gerade deren Fehlverhalten entgegenwirken sollen (E. 1.4.2.4). Den Inhaber des Kranführerausweises trifft gestützt auf Art. 6 Abs. 1 und 3 i.V.m. Art. 5 Abs. 2 und Art. 7 Kranverordnung (SR 832.312.15) sowie Art. 11 Abs. 2 VUV (SR 832.30) eine eigenständige sicherheitsrelevante Überwachungs- und Kontrollverantwortung: Da er zum Subunternehmen keine Geschäftsbeziehung pflegte, hätte er sich vorab vergewissern müssen, ob der Einweiser hinreichend über die Gefahren beim Aufsetzen einer Last instruiert war, und den Flügelbock nach dem Aufsetzen nicht ohne neue Prüfung der Anschlagmittel wieder anheben dürfen (E. 1.4.2.4, 1.4.3).
+- **Einschlägig für**: Art. 12 Abs. 3 StGB, Art. 125 Abs. 2 StGB, Art. 11 StGB, Art. 6 und 7 Kranverordnung, Art. 11 Abs. 2 VUV.
+
+---
+
 ### [BGer 6B_775/2011 vom 4. Juni 2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-775-2011_2012-06-04.html) E. 1.2 — Eventualvorsatz bei Messerstich in den Thoraxbereich
 - **Thema**: Versuchte vorsätzliche Tötung bei Streitigkeit; Indizwirkung der Vitalitätsnähe.
 - **Sachverhalt**: Wuchtiger Stich mit 8 cm langer Messerklinge in den linken Brustbereich des Kontrahenten (Herzbeuteleröffnung).
@@ -182,4 +194,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 7. September 2026*
+*Letzte Aktualisierung: 11. November 2026*
