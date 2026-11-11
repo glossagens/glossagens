@@ -2,10 +2,14 @@
 title: "Art. 26 — Eigentumsgarantie"
 weight: 26
 date: 2026-05-23
-lastmod: 2026-10-15
+lastmod: 2026-11-11
 description: "Kommentar zu Art. 26 BV — Eigentumsgarantie, Institutsgarantie, Bestandesgarantie, Enteignungsgrundsätze und Verhältnismässigkeit"
 tags: ["BV", "Grundrechte", "Eigentum", "Enteignung", "materielle Enteignung", "Eigentumsbeschränkung", "Entschädigung"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity (Commentary Editor)"
+    model: "unbekannt"
+    note: "Einbau von BGer 9C_72/2026 vom 16. Oktober 2026 (E. 4.1–4.3) in Rz. 5a zum Verbot konfiskatorischer Besteuerung bei beschränkt Steuerpflichtigen und bei Wahl des vereinfachten Besteuerungsverfahrens (mit Verweis auf BGE 143 I 73 gemäss rechtsprechung.md); Prüfweg: Kernpunkte zu BGer 9C_72/2026 und opencaselaw-Link aus Auftrag des Parent-Agents übernommen (Urteilstext nicht selbst direkt abgerufen), übriger Kommentartext unverändert gelassen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -51,6 +55,8 @@ Die Eigentumsgarantie ist eines der zentralen Grundrechte der Bundesverfassung u
 - Den Schutz vor willkürlichem Eigentumsentzug
 
 Eine Kerngehaltsssperre bedeutet: Auch bei Verhältnismässigkeit darf der Gesetzgeber nicht das Privateigentum als Institut abschaffen oder so beschränken, dass es seiner Funktion entleert wird.
+
+**5a** **Verbot konfiskatorischer Besteuerung.** Aus der Eigentumsgarantie (Art. 26 Abs. 1 BV) fliesst das Verbot einer konfiskatorischen Besteuerung. Für die Vermögenssteuer ist eine Besteuerung nach der bundesgerichtlichen Rechtsprechung nur dann konfiskatorisch, wenn die Vermögenserträgnisse auf Dauer nicht ausreichen, um die Steuerlast zu decken ([BGE 143 I 73](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_73)). Auf dieses Verbot können sich auch bei wirtschaftlicher Zugehörigkeit beschränkt Steuerpflichtige berufen. Massgebend bleibt jedoch eine Gesamtbetrachtung der wirtschaftlichen Leistungsfähigkeit unter Einbezug des weltweit verfügbaren Einkommens; ein blosser Vergleich mit dem Schweizer Einkommen würde eine sachlich nicht gerechtfertigte Besserstellung gegenüber unbeschränkt Steuerpflichtigen darstellen. Wer als im Ausland wohnhafte, aufgrund von Grundeigentum beschränkt steuerpflichtige Person freiwillig das vereinfachte Besteuerungsverfahren wählt und unter Verzicht auf die Offenlegung der weltweiten Einkommens- und Vermögensverhältnisse die Anwendung des Höchstsatzes in Kauf nimmt, kann sich anschliessend nicht unter Berufung auf ein Missverhältnis zum blossen Schweizer Einkommen auf eine konfiskatorische Besteuerung berufen ([BGer 9C_72/2026 vom 16. Oktober 2026 E. 4.1–4.3](https://mcp.opencaselaw.ch/entscheid/bger_9C_72_2026#e-4-1)).
 
 ### III. Bestandesgarantie (Abs. 1, Individualschutz)
 

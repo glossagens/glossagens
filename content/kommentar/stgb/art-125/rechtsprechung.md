@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 125 StGB"
 weight: 99
 date: 2026-07-04
-lastmod: "2026-10-19"
-description: "Übersicht der Rechtsprechung zu Art. 125 StGB — Fahrlässige Körperverletzung: Sorgfaltspflichtverletzung, erlaubtes Risiko, Pflichtwidrigkeitszusammenhang, alternative Kausalität, Abgrenzung zum Eventualvorsatz und subjektiver Sorgfaltsmassstab."
-tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Erlaubtes Risiko", "Eventualvorsatz", "Besonderer Teil"]
+lastmod: "2026-11-11"
+description: "Übersicht der Rechtsprechung zu Art. 125 StGB — Fahrlässige Körperverletzung: Sorgfaltspflichtverletzung, Vertrauensgrundsatz bei Kontrollverantwortung, erlaubtes Risiko, Pflichtwidrigkeitszusammenhang, alternative Kausalität, Abgrenzung zum Eventualvorsatz und subjektiver Sorgfaltsmassstab."
+tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Vertrauensgrundsatz", "Erlaubtes Risiko", "Eventualvorsatz", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity (Commentary Editor)"
+    model: "claude-opus-4-6"
+    note: "BGer 6B_102/2024 vom 12. Oktober 2026 (Grenzen des Vertrauensgrundsatzes bei Kontrollverantwortung eines Kranführers) in Abschnitt I eingefügt; Volltext via swiss-caselaw MCP (get_decision) und Link via mcp.opencaselaw.ch verifiziert (auf entscheidsuche.ch noch nicht indexiert)"
   - date: 2026-10-19
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -63,6 +67,14 @@ revisions:
 - **Sachverhalt**: Das Opfer erlitt einen Milzriss, der ohne sofortigen operativen Eingriff mit hoher Wahrscheinlichkeit zum Tode geführt hätte. Medizinische Hilfe war jedoch verfügbar und konnte rechtzeitig geleistet werden.
 - **Kernaussage**: Ein Milzriss, der ohne rasche Operation lebensbedrohlich verlaufen würde, stellt eine lebensgefährliche und damit schwere Schädigung im Sinne von Art. 125 Abs. 2 StGB dar. Ob im konkreten Fall rasche medizinische Hilfe zur Stelle war oder nicht, ist für die Qualifikation als schwere Schädigung unerheblich — entscheidend ist die objektive Lebensgefährdung der Verletzung, nicht die effektive Rettung (E. 2).
 - **Einschlägig für**: Art. 125 Abs. 2 StGB, Art. 122 StGB (schwere Schädigung, Lebensgefahr, objektive Gefährdung).
+
+---
+
+### [BGer 6B_102/2024 vom 12. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4) E. 1.3.1, 1.3.2, 1.4.1.3, 1.4.2.4, 1.4.3 — Grenzen des Vertrauensgrundsatzes bei sicherheitsrelevanter Kontrollverantwortung (Kranführer)
+
+- **Sachverhalt**: Am 3. Juli 2018 transportierte ein ausgebildeter und zertifizierter Kranführer auf einer Baustelle mittels Kran einen Flügelbock mit acht Fenstern (Gesamtgewicht ca. 687 kg) zu einer Abladestelle auf grob planiertem, unebenem Grund. Ein von einem Subunternehmen (Drittfirma) gestellter Arbeiter nahm die Ladung als Einweiser entgegen. Nachdem der Kranführer den Flügelbock kurz abgesetzt hatte, wackelte dieser und drohte zu kippen, worauf der Einweiser und ein Lehrling das erneute Anheben signalisierten. Durch das Aufsetzen hatte sich mindestens eine Gurte aus der Hakenvorrichtung gelöst; beim erneuten Anheben kippte die Last und verletzte den Einweiser schwer (Querschnittlähmung). Die Präsidentin des Bezirksgerichts Baden sprach den Kranführer frei; das Obergericht des Kantons Aargau verurteilte ihn wegen fahrlässiger schwerer Körperverletzung durch Unterlassen zu einer bedingten Geldstrafe von 120 Tagessätzen zu Fr. 80.–.
+- **Kernaussage**: Das Bundesgericht (I. strafrechtliche Abteilung in 5er-Besetzung) weist die Beschwerde ab, soweit es darauf eintritt. Der Vertrauensgrundsatz begrenzt die Vorsichtspflicht nur insoweit, als jeder Beteiligte grundsätzlich darauf vertrauen darf, dass sich andere pflichtgemäss verhalten, sofern nicht besondere Umstände das Gegenteil erkennen lassen. Er greift jedoch von vornherein nicht, wenn die einschlägigen Sorgfaltspflichten gerade auf die Überwachung, Kontrolle oder Beaufsichtigung des Verhaltens anderer Personen gerichtet sind und damit deren Fehlverhalten entgegenwirken sollen; wer eine spezifische Kontrollverantwortung innehat, muss mit Fehlern und mangelnder Instruktion Dritter rechnen ([E. 1.4.2.4](https://mcp.opencaselaw.ch/entscheid/bger_6B_102_2024#e-1-4-2-4)). Gestützt auf Art. 6 Kranverordnung (SR 832.312.15) i.V.m. Art. 5 Abs. 2 Kranverordnung sowie Art. 11 Abs. 2 VUV (SR 832.30) traf den Kranführer als Inhaber des Kranführerausweises eine eigenständige sicherheitsrelevante Überwachungs- und Kontrollverantwortung: Da er weder den Einweiser noch dessen Arbeitgeberin kannte, durfte er sich nicht auf eine ausreichende Instruktion verlassen, sondern hätte dies vor Beginn der Transportarbeiten prüfen müssen; zudem hätte er nach dem Aufsetzen vor erneutem Anheben selber überprüfen (oder durch eine korrekt instruierte Person überprüfen lassen) müssen, ob die Last nach dem Aufsetzen noch richtig angeschlagen war (E. 1.4.2.4, 1.4.3). Zum Anklagegrundsatz bei Fahrlässigkeitsdelikten hält das Bundesgericht fest, dass der Vorwurf der insgesamt unterlassenen Instruktionsprüfung *a maiore ad minus* auch besondere Gefahrensituationen mitumfasst (E. 1.3.2.2, 1.4.1.3).
+- **Einschlägig für**: Art. 125 Abs. 2 StGB, Art. 12 Abs. 3 StGB, Art. 11 StGB, Art. 6 Kranverordnung, Art. 11 Abs. 2 VUV, Art. 9 und 325 StPO (Vertrauensgrundsatz, Überwachungs- und Kontrollverantwortung, Sorgfaltspflichtverletzung, Anklagegrundsatz bei Fahrlässigkeitsdelikten).
 
 ---
 

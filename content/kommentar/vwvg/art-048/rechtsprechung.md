@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 48 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-29
+lastmod: 2026-11-11
 description: "Übersicht der Rechtsprechung zu Art. 48 VwVG — Beschwerdelegitimation, besondere Betroffenheit, Konkurrentenbeschwerde, Verbandsbeschwerde und Kasuistik."
 tags: ["Rechtsprechung", "VwVG", "Beschwerde", "Legitimation", "besondere Betroffenheit", "Verbandsbeschwerde", "Kasuistik"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity Agent (Commentary Editor)"
+    model: "nicht spezifiziert"
+    note: "Ergänzung um BGer 1C_254/2026 vom 16. Oktober 2026 (E. 2.2–2.3) in Abschnitt II zur Abgrenzung der Streitgegenstände bei gestaffelten Plangenehmigungsverfahren; Urteilszitat und Link (mcp.opencaselaw.ch) gemäss verifizierter Vorgabe des aufrufenden Agenten übernommen, kein eigener Volltextabruf und kein Hugo-Build durchgeführt."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -100,6 +104,14 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der Gerich
 
 ## II. Weitere Entscheide des Bundesgerichts
 
+### [BGer 1C_254/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_254_2026#e-2-2) (16. Oktober 2026)
+- **Thema**: Abgrenzung der Streitgegenstände bei gestaffelten Infrastruktur-Plangenehmigungen
+- **Kernaussage**: Jedes Plangenehmigungsverfahren bildet einen eigenständigen Streitgegenstand. Sieht das konkret angefochtene Verfahren auf dem Abschnitt vor den Liegenschaften der Beschwerdeführer keine Bauarbeiten oder baulichen Eingriffe vor, weil Schienenerneuerung und Vibrationsschutz in einem separaten, hängigen Erneuerungsprojekt behandelt werden, fehlen die besondere Betroffenheit und das schutzwürdige Interesse nach Art. 48 Abs. 1 VwVG (entsprechend Art. 89 Abs. 1 BGG). Eine bloss mittelbare Auswirkung (allgemeine Zugfrequenzerhöhung auf bestehender Strecke) oder vorbestehende Mängel begründen keine Legitimation im separaten Verfahren ([BGer 1C_254/2026 vom 16. Oktober 2026 E. 2.2–2.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_254_2026#e-2-2)).
+- **Konkreter Sachverhalt**: Beschwerde von Grundeigentümern am bestehenden Abschnitt Ponte Tresa – Caslano im Plangenehmigungsverfahren für das neue Eisenbahn-/Tramprojekt «Rete tram-treno del Luganese (RTTL)» wegen befürchteter Sicherheitsmängel und Vibrationen infolge erwarteter Verkehrszunahme.
+- **Einschlägig für**: Art. 48 Abs. 1 lit. b und c VwVG
+
+---
+
 ### [BGer 1C_30/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-30-2018_2018-05-11.html) (11. Mai 2018)
 - **Thema**: Beschwerdebefugnis von Gemeinden
 - **Kernaussage**: Eine Einwohnergemeinde ist zur Beschwerde nach Art. 48 Abs. 1 VwVG befugt, wenn sie durch eine auf Bundesrecht gestützte Verfügung in ihren fiskalischen Vermögensinteressen oder in ihren hoheitlichen Planungsbefugnissen qualifiziert berührt wird.
@@ -108,4 +120,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der Gerich
 
 ---
 
-*Letzte Aktualisierung: 2026-08-29*
+*Letzte Aktualisierung: 2026-11-11*

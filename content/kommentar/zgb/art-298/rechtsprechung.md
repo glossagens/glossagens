@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 298 ZGB"
 weight: 99
 date: 2026-09-17
-lastmod: 2026-10-04
-description: "Übersicht der Leitentscheide des Bundesgerichts zu Art. 298 ZGB: Schwellenwert der Alleinzuteilung im Scheidungs- und Eheschutzverfahren, Beschränkung auf Obhutsregelung, alternierende Obhut, Konnexität von Sorge und Obhut, 40%-Schwelle der alternierenden Obhut (BGer 5A_646/2026)."
+lastmod: 2026-11-11
+description: "Übersicht der Leitentscheide des Bundesgerichts zu Art. 298 ZGB: Abgrenzung von alternierender Obhut und Besuchsrecht (30%-Schwelle und 42-Einheiten-Modell nach BGer 5A_280/2025), Schwellenwert der Alleinzuteilung im Scheidungs- und Eheschutzverfahren, Beschränkung auf Obhutsregelung, Konnexität von Sorge und Obhut sowie 40%-Praxis (BGer 5A_646/2026)."
 tags: ["Rechtsprechung", "ZGB", "Elterliche Sorge", "Scheidung", "Eheschutz", "Alternierende Obhut", "Obhut", "Kindeswohl"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity"
+    model: "antigravity"
+    note: "Prominente Aufnahme des zur BGE-Publikation vorgesehenen Leitentscheids BGer 5A_280/2025 vom 26. Oktober 2026 (publiziert am 11.11.2026) an der Spitze von Abschnitt I sowie Einordnung bei BGer 5A_646/2026. Prüfweg: BGer 5A_280/2025 (Sachverhalt und E. 5.1–5.4.7) und BGer 5A_646/2026 (E. 4.3) im Volltext via opencaselaw-MCP geprüft; entscheidsuche.ch abgefragt (0 Treffer für 5A_280/2025 am 2026-11-11, Rückfall auf mcp.opencaselaw.ch)."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -16,7 +20,19 @@ revisions:
     note: "Strukturierte Rechtsprechungsübersicht zu Art. 298 ZGB mit 6 BGE und 8 nicht publizierten BGer-Entscheiden, im Volltext via opencaselaw-MCP verifiziert (Sachverhalt und Erwägungen gelesen, nicht nur Regeste). BGE 150 III 97 zusätzlich via entscheidsuche.ch verlinkt; übrige Entscheide mangels Treffer auf entscheidsuche.ch gemäss Rückfallregel auf mcp.opencaselaw.ch verlinkt."
 ---
 
-## I. Leitentscheide des Bundesgerichts (BGE)
+## I. Leitentscheide des Bundesgerichts (BGE und zur Publikation vorgesehene Urteile)
+
+### Abgrenzung alternierende Obhut und Besuchsrecht: 30%-Schwelle und 42-Einheiten-Modell
+**[BGer 5A_280/2025 vom 26. Oktober 2026, E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4)** (II. zivilrechtliche Abteilung, 5er-Besetzung, zur BGE-Publikation vorgesehen)
+*Sachverhalt:* Im Verfahren auf Abänderung eines Eheschutzentscheides (vorsorgliche Massnahmen im Scheidungsverfahren) wohnte der 2009 geborene Sohn nicht mehr im Internat, sondern bei der Mutter in Österreich. Der Vater betreute ihn jedes zweite Wochenende von Freitagabend bis Sonntagabend sowie während neun Ferienwochen pro Jahr. Während das Bezirksgericht wegen des ausgedehnten Ferienrechts knapp eine alternierende Obhut bejahte, ging das Kantonsgericht Schwyz mangels Alltagsbetreuung von alleiniger Obhut der Mutter aus und auferlegte dem Vater den gesamten Geldunterhalt.
+*Kernaussage:* Das Bundesgericht beendet die bisherige kantonale Uneinheitlichkeit und stellt erstmals **verbindliche Richtlinien für den Normalfall** zur Abgrenzung von alternierender Obhut und (erweitertem) Besuchsrecht auf ([E. 5.4.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-1), [E. 5.4.5](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5), [E. 5.4.6](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-6)):
+- **30%-Schwelle / 13 von 42 Einheiten:** Eine alternierende Obhut liegt vor, wenn ausgehend von einer Unterteilung des Tages in die drei Einheiten **«Vormittag/Nachmittag/Nacht»** bei einer Zweiwochen-Sequenz von **42 Einheiten** **ohne Berücksichtigung der Ferienzeit** jeder Elternteil das Kind **mehr als 30 %**, mithin während **mindestens 13 Einheiten** betreut; ermessensweise Abweichungen im Einzelfall bleiben vorbehalten ([E. 5.4.5.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-2), [E. 5.4.6](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-6)).
+- **Alltagsfokus und Nichtberücksichtigung der Ferienzeit:** Die Obhut knüpft daran an, in wessen Haushalt das Kind seinen **Alltag** verbringt und wer die alltägliche Betreuungsverantwortung samt der damit verbundenen mentalen Beanspruchung (*mental load*) trägt ([E. 5.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-2), [E. 5.4.5.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-2), [E. 5.4.5.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-3)). Ferienzeiten bleiben im Grundsatz ausser Betracht (vorbehalten ein ermessensweiser Einbezug bei besonders ausgedehnten Ferien und einer Alltagsbetreuung nahe an 30 %); neun Ferienwochen bei nur 6 von 42 Einheiten im Alltag genügten im konkreten Fall nicht ([E. 5.4.5.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-3), [E. 5.4.7](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-7)).
+- **Ablehnung anderer Modelle und Gewichtungen:** Es erfolgt keine Differenzierung nach Eigen- oder Fremdbetreuung, keine Gewichtung nach Tageszeit oder Kindesalter, kein Stundenmodell und keine blosse Übernachtungszählung ([E. 5.4.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-4-2), [E. 5.4.5.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-1), [E. 5.4.5.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-5-3)).
+- **Lehre, Rechtsvergleich und «Kippschalter-Effekt»:** Das Gericht grenzt das schweizerische Recht erneut vom Quasi-Paritätserfordernis des deutschen BGH (Beschluss XII ZB 415/25 vom 15. April 2026) ab ([E. 5.4.3](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-3)) und verweist die in der Lehre (u.a. Bähler, Guillod/Stoll, Coskun-Ivanovic/Aebi-Müller, Arndt/Jungo, Stoll) geäusserte Kritik am «Kippschalter-Effekt» bzw. Forderungen nach einer Aufgabe des Obhutsbegriffs auf die gesonderte zweite Stufe der Geldunterhaltsverteilung bzw. an den Gesetzgeber ([E. 5.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-2), [E. 5.4.4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-4-2), [E. 5.4.7](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-7)). Für die vorfrageweise Prüfung ist stets die effektive Betreuungslage statt der formellen Dispositivbezeichnung massgebend ([E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4)).
+*Einschlägig für:* Abs. 2ter (verbindliche Richtlinie zum quantitativen Mindestumfang der alternierenden Obhut, Berechnungsmodell, Abgrenzung zum Besuchsrecht).
+
+---
 
 ### Abgrenzung der Alleinzuteilung vom Sorgerechtsentzug nach Art. 311 ZGB
 **[BGE 141 III 472, E. 4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_141_III_472#e-4)** vom 27. August 2015
@@ -105,7 +121,7 @@ revisions:
 
 ### 40%-Schwelle der alternierenden Obhut; kein Anspruch auf paritätische Aufteilung
 **[BGer 5A_646/2026 vom 17. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-646-2026_2026-09-17.html)**, E. 4.3
-*Kernaussage:* Die alternierende Obhut setzt keine exakt hälftige Betreuung voraus. Ein Betreuungsumfang des Vaters von 40,5% genügt (Wesentlichkeit bei über 40%). Es besteht kein Anspruch auf paritätische Aufteilung — massgeblich ist allein das Kindeswohl. Das Bundesgericht grenzt sich dabei von der deutschen Rechtsprechung ab (BGH: quasi-paritätisch erforderlich). Bestätigt BGE 142 III 617 E. 4.2 und die ständige Rechtsprechung.
+*Kernaussage:* Die alternierende Obhut setzt keine exakt hälftige Betreuung voraus. Ein Betreuungsumfang des Vaters von 40,5% genügt (Wesentlichkeit bei über 40%). Es besteht kein Anspruch auf paritätische Aufteilung — massgeblich ist allein das Kindeswohl. Das Bundesgericht grenzt sich dabei von der deutschen Rechtsprechung ab (BGH: quasi-paritätisch erforderlich). Bestätigt BGE 142 III 617 E. 4.2 und die ständige Rechtsprechung. *(Hinweis: Die allgemeine Untergrenze hat das Bundesgericht kurz darauf mit [BGer 5A_280/2025 vom 26. Oktober 2026 E. 5.4.6](https://mcp.opencaselaw.ch/entscheid/bger_5A_280_2025#e-5-4-6) verbindlich auf > 30 % bzw. mindestens 13 von 42 Einheiten festgelegt.)*
 *Einschlägig für:* Abs. 2ter (Wesentlichkeitsschwelle, paritätische vs. asymmetrische Betreuungsaufteilung).
 
 ### Erweiterte Wochenbetreuung trotz Distanz
@@ -115,4 +131,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 04.10.2026*
+*Letzte Aktualisierung: 11.11.2026*

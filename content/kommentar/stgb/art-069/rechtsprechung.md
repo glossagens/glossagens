@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 69 StGB"
 weight: 99
 date: 2026-11-04
-lastmod: 2026-11-04
+lastmod: 2026-11-11
 description: "Übersicht der Rechtsprechung zu Art. 69 StGB (Sicherungseinziehung): Leitentscheide des Bundesgerichts und kantonale Urteile zu Tatwerkzeugen, Gefährdungsprognose, Verhältnismässigkeit und Dritteigentum."
 tags: ["Rechtsprechung", "StGB", "Sicherungseinziehung", "Einziehung"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity Agent (Commentary Editor)"
+    model: "nicht ausgewiesen (Subagent)"
+    note: "Ergänzung um BGer 7B_420/2026 vom 30. September 2026 (Einziehungsbeschlagnahme von Waffen bei Stalking/Hausfriedensbruch ohne Waffeneinsatz); Belegprüfung gegen den Volltext via swiss-caselaw (get_decision, E. 3.1–3.3.2), Verlinkung via opencaselaw (auf entscheidsuche.ch am 11.11.2026 noch nicht indexiert)."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -57,6 +61,13 @@ revisions:
 ---
 
 ## II. Weitere Entscheide {#weitere-entscheide}
+
+### Einziehungsbeschlagnahme von Waffen bei Stalking und Hausfriedensbruch ohne Waffeneinsatz {#bger-7b-420-2026}
+* [BGer 7B_420/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_420_2026) vom 30. September 2026
+* **Sachverhalt**: Nach Beendigung einer 13-jährigen Partnerschaft überwachte ein Polizist seine Ex-Partnerin sowie deren Umfeld während beinahe eines Jahres (u.a. mittels polizeilicher LAPI-Kameras und eines am Fahrzeug angebrachten AirTags) und drang unbefugt in ihre Wohnung ein. Die Staatsanwaltschaft eröffnete eine Strafuntersuchung wegen Hausfriedensbruchs (Art. 186 StGB), Nachstellung (Art. 181b StGB), Nötigung (Art. 181 StGB) sowie allenfalls Drohung (Art. 180 StGB) und beschlagnahmte über 50 Waffen samt Schalldämpfern und Munition zu Beweis- und Einziehungszwecken (Art. 263 Abs. 1 lit. a und d StPO i.V.m. Art. 69 StGB), obwohl der Beschuldigte bei den angezeigten Handlungen keine Waffen eingesetzt hatte.
+* **Kernaussage**: Im Stadium der vorläufigen Wahrscheinlichkeitsprüfung genügt für eine Einziehungsbeschlagnahme nach Art. 263 Abs. 1 lit. d StPO, dass eine künftige Sicherungseinziehung nach Art. 69 StGB nicht von vornherein ausgeschlossen erscheint. Waffen sind zwar nicht per se zur Begehung von Straftaten bestimmt, können aber dazu dienen; weder der Deliktskonnex noch die Gefährdungsprognose setzen voraus, dass bereits eine Straftat mit der Waffe begangen oder versucht wurde. Angesichts der schrittweisen Eskalation von der Überwachung zum unbefugten Wohnungseindringen, der psychischen Destabilisierung (erneute Einnahme von Antidepressiva), mangelnder Einsicht sowie des Umstands, dass die Geschädigte vom Waffenbesitz wusste, bot das bisherige Ausbleiben eines Waffeneinsatzes keine Gewähr für die Zukunft ([E. 3.2–3.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_420_2026#e-3-2)).
+
+---
 
 ### Betäubungsmittelähnliche Stoffe und Begründungspflicht der Gefährdungsprognose {#bger-7b-628-2023}
 * [BGer 7B_628/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-628-2023_2024-04-19.html) vom 19. April 2024

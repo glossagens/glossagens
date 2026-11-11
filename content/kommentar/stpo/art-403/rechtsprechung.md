@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 403 StPO"
 weight: 99
 date: "2026-08-30"
-lastmod: "2026-11-09"
+lastmod: "2026-11-11"
 description: "Übersicht der Rechtsprechung zu Art. 403 StPO – Nichteintreten auf die Berufung, schriftliches Vorprüfungsverfahren, rechtliches Gehör und Prozesshindernisse."
 tags: ["Rechtsprechung", "StPO", "Berufung", "Eintreten", "Nichteintreten", "schriftliches Verfahren", "rechtliches Gehör", "Prozesshindernisse"]
 revisions:
+  - date: "2026-11-11"
+    by: "Antigravity Agent"
+    model: "antigravity"
+    note: "Aufnahme von BGer 7B_1284/2026 vom 23.10.2026: Zwingende Gehörsgewährung nach Art. 403 Abs. 2 StPO vor Nichteintreten wegen vermeintlich verspäteter Berufungserklärung und Zulässigkeit von Beweisnoven (Postquittungen/Sendungsverfolgung) nach Art. 99 Abs. 1 BGG (via swiss-caselaw/opencaselaw im Volltext verifiziert; entscheidsuche.ch noch ohne Treffer)."
   - date: "2026-11-09"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -91,6 +95,11 @@ revisions:
 
 ## III. Weitere Entscheide und kantonale Praxis
 
+### [BGer 7B_1284/2026 vom 23. Oktober 2026 E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_1284_2026#e-2-3)
+- **Thema**: Zwingende Anhörungspflicht vor Nichteintreten wegen vermeintlich verspäteter Berufungserklärung (Abs. 2) und Beweisnoven vor Bundesgericht (Art. 99 Abs. 1 BGG)
+- **Kernaussage**: Tritt das Berufungsgericht per Präsidialverfügung wegen vermeintlich unterbliebener bzw. verspäteter Berufungserklärung (Art. 399 Abs. 3 StPO) auf die Berufung nicht ein, ohne der Partei vorgängig Gelegenheit zur Stellungnahme einzuräumen, verletzt es die zwingende Anhörungspflicht nach Art. 403 Abs. 2 StPO und das rechtliche Gehör (Art. 29 Abs. 2 BV); bereits dies rechtfertigt die Aufhebung des Entscheids (E. 2.3). Zudem gibt unter diesen Umständen erst der angefochtene Nichteintretensentscheid Anlass, Postaufgabequittungen und Sendungsverfolgungsbelege erstmals vor Bundesgericht einzureichen, weshalb diese Beweisnoven nach Art. 99 Abs. 1 BGG zu berücksichtigen sind (E. 2.3). Vermag der Beschwerdeführer die rechtzeitige Postaufgabe und Zustellung ins gerichtliche Postfach anhand solcher Belege und weiterer übereinstimmender Indizien (hier paralleles gleich schweres Schreiben an das Bundesgericht, fehlende Erklärung der Vorinstanz) nachzuweisen, widerlegt ein blosser fehlender Akteneintrag die Fristwahrung nicht (E. 3.2–3.3).
+- **Einschlägig für**: Abs. 1 lit. a und Abs. 2
+
 ### [BGer 7B_1228/2024 vom 26.10.2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1228_2024) E. 2.2–2.3
 - **Thema**: Zwingende Gehörswahrung vor Nichteintreten (Abs. 2) und Ausschluss der Heilung vor Bundesgericht
 - **Kernaussage**: Vor einem Nichteintretensentscheid nach Art. 403 StPO ist den Parteien nach Abs. 2 zwingend Gelegenheit zur Stellungnahme zu geben. Selbst wenn in der Lehre bei manifester Unzulässigkeit ein Ausnahmefall diskutiert wird, gilt dies keinesfalls, wenn das Berufungsgericht den erstinstanzlichen Entscheid umqualifizieren will (z.B. Freispruch als Einstellungsverfügung nach Art. 329 Abs. 4 StPO) oder die Verfahrensleitung bereits Instruktionsschritte eingeleitet hatte. Eine Verletzung des Gehörsanspruchs kann vor dem Bundesgericht wegen dessen beschränkter Kognition (Art. 95 und 105 BGG) nicht geheilt werden.
@@ -125,4 +134,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-30*
+*Letzte Aktualisierung: 2026-11-11*

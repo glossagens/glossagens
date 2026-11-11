@@ -2,10 +2,14 @@
 title: "Art. 48 VwVG — Beschwerdelegitimation"
 weight: 48
 date: 2026-05-23
-lastmod: 2026-10-15
+lastmod: 2026-11-11
 description: "Kommentar zu Art. 48 VwVG: Beschwerdelegitimation — Teilnahme am Vorverfahren, besondere Betroffenheit, schutzwürdiges Interesse, Konkurrentenbeschwerde, Verbandsbeschwerde und Kasuistik."
 tags: ["VwVG", "Beschwerde", "Legitimation", "besondere Betroffenheit", "schutzwürdiges Interesse", "Verbandsbeschwerde", "Kasuistik"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity Agent (Commentary Editor)"
+    model: "nicht spezifiziert"
+    note: "Einbau von BGer 1C_254/2026 vom 16. Oktober 2026 (E. 2.2–2.3) in Rz. 4 und Rz. 12 zur Abgrenzung des Streitgegenstands bei gestaffelten Infrastruktur-Plangenehmigungen; Urteilszitat und Link (mcp.opencaselaw.ch) gemäss verifizierter Vorgabe des aufrufenden Agenten übernommen, kein eigener Volltextabruf und kein Hugo-Build durchgeführt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -46,6 +50,7 @@ Die Bestimmung dient als gesetzlicher Filter zur Gewährleistung eines effektive
 **Rz. 4** **2. Besondere Betroffenheit / Materielle Beschwer (lit. b)**:
 * Die angefochtene Verfügung muss den Beschwerdeführer **stärker als die Allgemeinheit** berühren.
 * Erforderlich ist eine spezifische, beachtenswerte, nahe Beziehung zur Streitsache. Ein blosses allgemeines Interesse an der Durchsetzung des Gesetzes genügt nicht ([BGE 145 II 259 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-145-II-259_2019.html#consideration_2)).
+* Die Betroffenheit muss sich gerade aus dem **Streitgegenstand** der konkret angefochtenen Verfügung ergeben: Bei gestaffelten Infrastrukturprojekten fehlt die besondere Betroffenheit (wie auch das schutzwürdige Interesse), wenn im betreffenden Abschnitt keine Bauarbeiten bewilligt werden und bloss mittelbare Auswirkungen auf einer bestehenden Strecke oder Fragen eines separaten Erneuerungsverfahrens geltend gemacht werden ([BGer 1C_254/2026 vom 16. Oktober 2026 E. 2.2–2.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_254_2026#e-2-2)).
 
 **Rz. 5** **3. Schutzwürdiges Interesse (lit. c)**:
 * **Praktischer Nutzen**: Das Interesse kann rechtlicher oder rein tatsächlicher (wirtschaftlicher, ideeller) Natur sein. Entscheidend ist, dass die Gutheissung der Beschwerde dem Beschwerdeführer einen greifbaren praktischen Vorteil verschafft ([BGE 141 II 14 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-14_2015.html#consideration_4)).
@@ -79,8 +84,8 @@ In [BGE 146 I 172 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-146
 
 ## Kantonale und Eidgenössische Praxisfragen
 
-**Rz. 12** **Praxisfrage 1: Legitimation von Nachbarn bei Bundesbauten**
-Nachbarn von bundesrechtlich bewilligten Infrastrukturprojekten (z.B. Eisenbahn- oder Nationalstrassenbauten) sind nach Art. 48 Abs. 1 VwVG legitimiert, wenn sie im unmittelbaren Immissionsbereich (Lärm, Abgase, Erschütterungen) der Anlage wohnen oder Grundeigentum besitzen.
+**Rz. 12** **Praxisfrage 1: Legitimation von Nachbarn bei Bundesbauten und gestaffelten Plangenehmigungen**
+Nachbarn von bundesrechtlich bewilligten Infrastrukturprojekten (z.B. Eisenbahn- oder Nationalstrassenbauten) sind nach Art. 48 Abs. 1 VwVG legitimiert, wenn sie im unmittelbaren Immissionsbereich (Lärm, Abgase, Erschütterungen) der Anlage wohnen oder Grundeigentum besitzen. Bei **gestaffelten Plangenehmigungsverfahren** bildet indes jedes Verfahren einen eigenständigen Streitgegenstand: Sieht das konkret angefochtene Plangenehmigungsverfahren (im entschiedenen Fall das Tram-Zug-Projekt «Rete tram-treno del Luganese») auf dem Abschnitt vor den Liegenschaften der Beschwerdeführer keine Bauarbeiten oder baulichen Eingriffe vor, weil Schienenerneuerung und Vibrationsschutz in einem separaten, hängigen Erneuerungsprojekt behandelt werden, fehlen sowohl die besondere Betroffenheit als auch das schutzwürdige Interesse. Eine bloss mittelbare Auswirkung – wie eine allgemeine Zugfrequenzerhöhung auf der bestehenden Strecke – sowie vorbestehende Sicherheitsmängel oder Vibrationen begründen keine Beschwerdelegitimation im separaten Verfahren ([BGer 1C_254/2026 vom 16. Oktober 2026 E. 2.2–2.3](https://mcp.opencaselaw.ch/entscheid/bger_1C_254_2026#e-2-2)).
 
 **Rz. 13** **Praxisfrage 2: Legitimation von Gemeinden gegen Bundesverfügungen**
 Gemeinden sind nach Art. 48 Abs. 1 VwVG nur dann beschwerdebefugt, wenn sie durch den Hoheitsakt des Bundes wie ein Privater in ihren Vermögenswerten getroffen werden oder eine qualifizierte Betroffenheit in wesentlichen Gemeindeinteressen (z.B. Ortsplanung, Gemeindegebiet) vorliegt ([BGer 1C_30/2018 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-30-2018_2018-05-11.html)).

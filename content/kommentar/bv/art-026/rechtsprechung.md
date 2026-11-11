@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 26 BV"
 weight: 99
 date: 2026-05-23
-lastmod: "2026-08-12"
+lastmod: 2026-11-11
 description: "Übersicht der Entscheide zu Art. 26 BV – Eigentumsgarantie"
 tags: ["Rechtsprechung", "BV", "Eigentum", "Grundrechte"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity (Commentary Editor)"
+    model: "unbekannt"
+    note: "Aufnahme von BGer 9C_72/2026 vom 16. Oktober 2026 (E. 4.1–4.3) unter 'Weitere Bundesgerichtsentscheide' zum Verbot konfiskatorischer Besteuerung bei beschränkt Steuerpflichtigen und Wahl des vereinfachten Besteuerungsverfahrens; Prüfweg: Kernpunkte und opencaselaw-Link aus Auftrag des Parent-Agents übernommen (Urteilstext nicht selbst direkt abgerufen), übrige Entscheide unverändert gelassen."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
@@ -106,9 +110,14 @@ revisions:
 - **Kernaussage**: Städtebauliche Vereinbarungen im Rahmen von Quartierplanungen, die entgeltliche Abtretungen für öffentliche Erschliessungs- oder Ausgleichsanlagen vorsehen, verletzen die Eigentumsgarantie (Art. 26 Abs. 1 und 2 BV) nicht, wenn sie auf einer gesetzlichen Grundlage beruhen, im öffentlichen Interesse liegen und verhältnismässig entschädigt werden.
 - **Einschlägig für**: Art. 26 Abs. 1 und 2 BV i.V.m. Art. 5 RPG
 
+### [BGer 9C_72/2026 vom 16. Oktober 2026 E. 4.1–4.3](https://mcp.opencaselaw.ch/entscheid/bger_9C_72_2026#e-4-1)
+- **Thema**: Konfiskatorische Besteuerung / Beschränkte Steuerpflicht / Vereinfachtes Verfahren
+- **Kernaussage**: Auch bei wirtschaftlicher Zugehörigkeit beschränkt Steuerpflichtige können sich auf das aus der Eigentumsgarantie (Art. 26 Abs. 1 BV) fliessende Verbot konfiskatorischer Besteuerung berufen; massgebend bleibt jedoch eine Gesamtbetrachtung der wirtschaftlichen Leistungsfähigkeit unter Einbezug des weltweit verfügbaren Einkommens (E. 4.1). Wer als im Ausland wohnhafte, im Kanton Genf aufgrund von Grundeigentum beschränkt steuerpflichtige Person freiwillig das vereinfachte Besteuerungsverfahren wählt (Verzicht auf Deklaration des weltweiten Einkommens und Vermögens gegen Anwendung des Höchstsatzes), kann sich anschliessend nicht unter Berufung auf ein Missverhältnis zum blossen Schweizer Einkommen auf eine konfiskatorische Besteuerung berufen (E. 4.2–4.3).
+- **Einschlägig für**: Art. 26 Abs. 1 BV (Verbot konfiskatorischer Besteuerung / globale Betrachtungsweise)
+
 ---
 
-*Letzte Aktualisierung: 2026-09-01*
+*Letzte Aktualisierung: 2026-11-11*
 ---
 
 ## Audit-Protokoll (11. August 2026)

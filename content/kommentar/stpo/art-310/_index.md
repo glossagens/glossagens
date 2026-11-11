@@ -2,10 +2,14 @@
 title: "Art. 310 StPO — Nichtanhandnahme"
 weight: 310
 date: 2026-03-30
-lastmod: 2026-10-15
+lastmod: 2026-11-11
 description: "Praxisorientierter Gesetzeskommentar zu Art. 310 StPO (Nichtanhandnahme der Untersuchung): Tatbestandsmerkmale, In-dubio-pro-duriore-Grundsatz, Vorabklärungen, Kasuistik, Rechtsmittel und Praxishinweise."
 tags: ["StPO", "Untersuchung", "Nichtanhandnahme", "In dubio pro duriore", "Einstellung", "Rechtsmittel"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity Agent"
+    model: "antigravity"
+    note: "Ergänzung um BGer 7B_859/2026 vom 26. Oktober 2026 (E. 2.4) zum Lebenssachverhalt als Streitgegenstand der Nichtanhandnahme und zur vollen Kognition der Beschwerdeinstanz nach Art. 393 Abs. 2 StPO (Abschnitte I.3, II.B.1, II.G.2 und IV); Volltext via swiss-caselaw geprüft, Link via opencaselaw-Fallback verifiziert (entscheidsuche.ch noch ohne Treffer)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -49,7 +53,7 @@ Die Prüfung der Nichtanhandnahme folgt einer strikten logischen Kaskade:
 | **4** | **Verfahrenshindernisse** | Art. 310 Abs. 1 lit. b StPO | Liegt absolute Strafverfolgungsverjährung, *ne bis in idem* (Art. 303 StPO), fehlende Ermächtigung oder Immunität vor? |
 | **5** | **Opportunitätsverzicht** | Art. 310 Abs. 1 lit. c StPO i.V.m. Art. 8 StPO | Liegen die Voraussetzungen von Art. 52, 53 oder 54 StGB offenkundig und unbestritten vor? |
 | **6** | **Form und Eröffnung** | Art. 310 Abs. 2 i.V.m. Art. 320, 321 StPO | Schriftform, summarische Begründung, Zustellung an Anzeiger und allfällige Parteien, Kosten- und Entschädigungsentscheid. |
-| **7** | **Anfechtung und Beschwerde** | Art. 310 Abs. 2 i.V.m. Art. 322 Abs. 2, 382 StPO | Beschwerde binnen 10 Tagen an die kantonale Beschwerdeinstanz; Legitimation der Privatklägerschaft ([BGE 141 IV 380](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-380_2015.html); [BGer 7B_541/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-541-2025_2025-11-12.html)). |
+| **7** | **Anfechtung und Beschwerde** | Art. 310 Abs. 2 i.V.m. Art. 322 Abs. 2, 382, 393 Abs. 2 StPO | Beschwerde binnen 10 Tagen an die kantonale Beschwerdeinstanz; Legitimation der Privatklägerschaft ([BGE 141 IV 380](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-380_2015.html); [BGer 7B_541/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-541-2025_2025-11-12.html)); volle Kognition über den gesamten angezeigten Lebenssachverhalt ([BGer 7B_859/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_859_2026#e-2-4)). |
 | **8** | **Wiederaufnahme** | Art. 310 Abs. 2 i.V.m. Art. 323 StPO | Neue Tatsachen oder Beweismittel; Schwellenwert geringer als bei Einstellung ([BGE 141 IV 194](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-194_2015.html); [BGE 144 IV 81](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-81_2018.html)). |
 
 ---
@@ -83,7 +87,7 @@ Die Grenze des Zulässigen ist jedoch überschritten, wenn die Staatsanwaltschaf
 #### 1. Dogmatischer Grundsatz
 
 Die Nichtanhandnahme gestützt auf Art. 310 Abs. 1 lit. a Var. 1 StPO greift in zwei Konstellationen:
-1. **Reine Rechtsfrage (fehlende Tatbestandsmässigkeit):** Der angezeigte Lebenssachverhalt erfüllt unter keinem denkbaren rechtlichen Gesichtspunkt ein Delikt des StGB oder eines Nebenstrafgesetzes (z.B. reine zivilrechtliche Vertragsverletzung, Nichterfüllung einer Schuld, fehlende Täuschung oder fehlende Sorgfaltspflichtverletzung).
+1. **Reine Rechtsfrage (fehlende Tatbestandsmässigkeit):** Der angezeigte Lebenssachverhalt erfüllt unter keinem denkbaren rechtlichen Gesichtspunkt ein Delikt des StGB oder eines Nebenstrafgesetzes (z.B. reine zivilrechtliche Vertragsverletzung, Nichterfüllung einer Schuld, fehlende Täuschung oder fehlende Sorgfaltspflichtverletzung; vgl. zur Massgeblichkeit des Lebenssachverhalts [BGer 7B_859/2026 vom 26. Oktober 2026 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_859_2026#e-2-4)).
 2. **Reine Tatfrage (fehlender Anfangsverdacht / evidente Haltlosigkeit):** Die Vorwürfe erweisen sich nach Würdigung der Anzeige oder der Akten als rein spekulativ, sachverhaltlich offensichtlich unzutreffend oder widerlegt, ohne dass zusätzliche Beweiserhebungen Klärung bringen könnten.
 
 Besteht demgegenüber auch nur die begründete Möglichkeit, dass durch Einvernahmen, Akteneditionen oder Gutachten deliktisches Verhalten nachgewiesen werden könnte, verbietet *in dubio pro duriore* die Nichtanhandnahme ([BGE 137 IV 285 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-285_2011.html#consideration_2.3); [BGE 138 IV 86 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-86_2012.html#consideration_4.1)).
@@ -175,14 +179,20 @@ Verweist Art. 310 Abs. 2 StPO auf die Einstellungsbestimmungen, gilt dies auch f
 
 Gegen die Nichtanhandnahmeverfügung kann innert 10 Tagen schriftlich und begründet Beschwerde bei der kantonalen Beschwerdeinstanz (Art. 20 StPO; in der Regel Obergericht oder Kantonsgericht) erhoben werden (Art. 322 Abs. 2 i.V.m. Art. 393 ff. StPO).
 
-#### 2. Legitimation der Privatklägerschaft
+#### 2. Umfang des Streitgegenstands und volle Kognition (Art. 393 Abs. 2 StPO)
+
+Die Nichtanhandnahme erfolgt stets in Bezug auf einen bestimmten **Lebenssachverhalt** (historischen Vorgang) und ist nicht auf die von der Staatsanwaltschaft oder der anzeigenden Person gewählte rechtliche Qualifikation beschränkt. Da die Beschwerdeinstanz nach Art. 393 Abs. 2 StPO über volle Kognition in Sachverhalts- und Rechtsfragen verfügt, ist sie an die rechtliche Einordnung der Staatsanwaltschaft nicht gebunden und hat alle in Betracht fallenden Straftatbestände zu prüfen ([BGer 7B_859/2026 vom 26. Oktober 2026 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_859_2026#e-2-4)).
+
+- **Nötigungsvorwurf nach Laienanzeige wegen «Machtmissbrauchs» ([BGer 7B_859/2026 vom 26. Oktober 2026 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_859_2026#e-2-4)):** Ein Essenskurier zeigte Sicherheitsmitarbeiter einer Schnellimbisskette wegen Zutrittsverweigerung, Tätlichkeiten und eines Hausverbots an und erwähnte als juristischer Laie «Machtmissbrauch». Die Staatsanwaltschaft prüfte lediglich Amtsmissbrauch (Art. 312 StGB) und verfügte die Nichtanhandnahme. Auf Beschwerde hin trat das Obergericht Bern auf den vom Rechtsvertreter geltend gemachten Tatbestand der Nötigung (Art. 181 StGB) nicht ein, weil die Staatsanwaltschaft diesen nicht geprüft habe. Das Bundesgericht hiess die Beschwerde gut: Streitgegenstand der Nichtanhandnahme ist der angezeigte Lebenssachverhalt, nicht bloss ein einzelner Straftatbestand. Die Beschwerdeinstanz musste daher auf die Beschwerde eintreten und den angezeigten Vorgang auch unter dem Gesichtspunkt von Art. 181 StGB prüfen.
+
+#### 3. Legitimation der Privatklägerschaft
 
 Die Beschwerdelegitimation richtet sich nach Art. 382 Abs. 1 StPO. Zur Beschwerde legitimiert ist, wer ein rechtlich geschütztes Interesse an der Aufhebung der Verfügung hat:
 - **Geschädigte Person mit Konstituierung als Privatklägerin (Art. 118 StPO):** Wer durch die behauptete Straftat in eigenen Rechten unmittelbar verletzt wurde (Art. 115 StPO) und sich formgültig als Straf- oder Zivilkläger konstituiert hat, ist zur Beschwerde befugt.
 - **Ausschluss des blossen Anzeigeerstatters ([BGer 7B_541/2025 vom 12.11.2025 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-541-2025_2025-11-12.html#consideration_2.1)):** Personen, die weder geschädigt noch Parteien sind (Art. 301 Abs. 3 StPO), steht kein Beschwerderecht zu. Ein Verein, der eine Strafanzeige wegen ritueller Beschneidungen einreichte, besitzt mangels eigener Betroffenheit keine Beschwerdelegitimation.
 - **Ausschluss von Mitbeschuldigten ([BGer 6B_787/2020 vom 21.7.2021 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-787-2020_2021-07-21.html#consideration_1.2)):** Ein Beschuldigter kann eine Nichtanhandnahmeverfügung zugunsten eines Mitbeschuldigten nicht mit der Begründung anfechten, dieser sei an der Tat beteiligt gewesen. Es fehlt am rechtlich geschützten eigenen Interesse.
 
-#### 3. Legitimation vor Bundesgericht (Art. 81 Abs. 1 lit. b Ziff. 5 BGG)
+#### 4. Legitimation vor Bundesgericht (Art. 81 Abs. 1 lit. b Ziff. 5 BGG)
 
 Vor Bundesgericht verlangt Art. 81 Abs. 1 lit. b Ziff. 5 BGG, dass der angefochtene Entscheid sich auf die Beurteilung der Zivilansprüche der Privatklägerschaft auswirken kann. Die beschwerdeführende Partei muss im bundesgerichtlichen Verfahren substanziiert darlegen, welche Zivilansprüche (z.B. Schadenersatz nach Art. 41 OR, Genugtuung nach Art. 47/49 OR) sie gegen den Beanzeigten geltend macht ([BGer 7B_569/2025 vom 29.4.2026 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-569-2025_2026-04-29.html#consideration_1.2)). Fehlt diese Darlegung, tritt das Bundesgericht auf die Beschwerde nicht ein.
 
@@ -233,6 +243,7 @@ In kantonalen Beschwerdeverfahren gegen Nichtanhandnahmeverfügungen verlangen d
 - **Substantiierungspflicht in der Strafanzeige:** Begründen Sie die Strafanzeige von Beginn an mit präzisen Tatsachenbehauptungen und fügen Sie vorhandene Beweismittel (Verträge, E-Mails, Zahlungsbelege) direkt bei. Reine Behauptungen ("er hat mich betrogen") führen regelmässig zur direkten Nichtanhandnahme wegen fehlenden Anfangsverdachts.
 - **Formelle Konstituierung als Privatklägerin:** Erklären Sie bereits in der Anzeige ausdrücklich, dass Sie sich als Straf- und Zivilklägerin im Sinne von Art. 118 und 119 StPO konstituieren. Nur dies sichert die Parteistellung und das Beschwerderecht gegen eine Nichtanhandnahme.
 - **Fristen wahren:** Die Beschwerdefrist gegen die Nichtanhandnahme beträgt nur **10 Tage** (Art. 322 Abs. 2 StPO) ab Zustellung und kann nicht erstreckt werden.
+- **Rechtliche Qualifikation im Beschwerdeverfahren präzisieren:** Wurde in der Strafanzeige als Laie ein unzutreffender Deliktsbegriff gewählt und prüfte die Staatsanwaltschaft nur diesen, können Sie in der Beschwerde weitere auf denselben Lebenssachverhalt anwendbare Straftatbestände geltend machen; die Beschwerdeinstanz ist an die rechtliche Qualifikation der Staatsanwaltschaft nicht gebunden und muss auf die Beschwerde eintreten ([BGer 7B_859/2026 vom 26. Oktober 2026 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_859_2026#e-2-4)).
 - **Substanziierung von Zivilansprüchen für den Weiterzug:** Wollen Sie gegen einen kantonalen Beschwerdeentscheid ans Bundesgericht gelangen, müssen Sie in der bundesgerichtlichen Beschwerde zwingend darlegen, welche zivilrechtlichen Ansprüche (Schadenersatz/Genugtuung) auf dem Spiel stehen und wie sich der Strafentscheid darauf auswirkt (Art. 81 Abs. 1 lit. b Ziff. 5 BGG; [BGer 7B_569/2025 E. 1.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-569-2025_2026-04-29.html#consideration_1.2)).
 - **Kostenrisiko beachten:** Erstatten Sie keine mutwilligen oder haltlos konstruierten Anzeigen im Rahmen privater oder geschäftlicher Fehden; andernfalls droht eine Kostenauflage gestützt auf Art. 427 Abs. 2 StPO.
 

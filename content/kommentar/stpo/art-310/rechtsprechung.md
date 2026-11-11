@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 310 StPO"
 weight: 99
 date: 2026-03-30
-lastmod: 2026-10-04
+lastmod: 2026-11-11
 description: "Systematische Übersicht der Leitentscheide und kantonalen Entscheide zu Art. 310 StPO (Nichtanhandnahme der Untersuchung): In dubio pro duriore, Vorabklärungen, Parteirechte, Kosten und Wiederaufnahme, Nichteintretensverfügung (Art. 310 Abs. 1 lit. a StPO)."
 tags: ["Rechtsprechung", "StPO", "Nichtanhandnahme", "In dubio pro duriore", "Wiederaufnahme", "Beschwerde", "Nichteintretensverfügung"]
 revisions:
+  - date: 2026-11-11
+    by: "Antigravity Agent"
+    model: "antigravity"
+    note: "Ergänzung um BGer 7B_859/2026 vom 26. Oktober 2026 (E. 2.4): Lebenssachverhalt als Streitgegenstand der Nichtanhandnahme und Prüfungspflicht der Beschwerdeinstanz bei abweichender rechtlicher Qualifikation (Art. 393 Abs. 2 StPO); Volltext via swiss-caselaw geprüft, Link via opencaselaw-Fallback verifiziert (entscheidsuche.ch noch ohne Treffer)."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -97,6 +101,13 @@ revisions:
 * **Fundstelle:** [BGer 7B_320/2025 vom 20.5.2026 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-320-2025_2026-05-20.html#consideration_3.2)
 * **Sachverhalt:** Die Privatklägerin focht eine Nichtanhandnahmeverfügung an. Das Obergericht forderte eine Sicherheitsleistung nach Art. 383 StPO und trat bei Nichtzahlung auf die Beschwerde nicht ein.
 * **Kernaussage:** Enthält die Aufforderung zur Leistung einer Sicherheitsleistung keinen Hinweis auf das Recht zur Einreichung eines Gesuchs um unentgeltliche Rechtspflege (Art. 136 StPO) und ist der Vorinstanz die Mittellosigkeit der Partei bekannt, begeht das Gericht überspitzten Formalismus (Art. 29 Abs. 1 BV), wenn es ohne Prüfung der Mittellosigkeit auf Nichteintreten erkennt.
+
+---
+
+### Lebenssachverhalt als Streitgegenstand; Kognition der Beschwerdeinstanz
+* **Fundstelle:** [BGer 7B_859/2026 vom 26. Oktober 2026 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_859_2026#e-2-4)
+* **Sachverhalt:** Ein Essenskurier erstattete Strafanzeige gegen Sicherheitsmitarbeiter einer Schnellimbisskette wegen Zutrittsverweigerung, Tätlichkeiten und Hausverbots und erwähnte als juristischer Laie «Machtmissbrauch». Die Staatsanwaltschaft prüfte einzig Amtsmissbrauch (Art. 312 StGB) und erliess eine Nichtanhandnahmeverfügung. Auf Beschwerde hin trat das Obergericht Bern auf den vom Rechtsvertreter geltend gemachten Tatbestand der Nötigung (Art. 181 StGB) nicht ein, weil die Staatsanwaltschaft diesen nicht geprüft habe.
+* **Kernaussage:** Das Bundesgericht hiess die Beschwerde gut. Die Nichtanhandnahme bezieht sich auf einen bestimmten Lebenssachverhalt (historischen Vorgang) und ist nicht auf die von der Staatsanwaltschaft gewählte rechtliche Qualifikation beschränkt. Da die Beschwerdeinstanz gemäss Art. 393 Abs. 2 StPO in Sachverhalts- und Rechtsfragen über volle Kognition verfügt, ist sie an die rechtliche Einordnung der Staatsanwaltschaft nicht gebunden und muss auf die Beschwerde eintreten, um alle in Betracht fallenden Straftatbestände — vorliegend Nötigung — zu prüfen.
 
 ---
 
