@@ -2,7 +2,7 @@
 title: "§ 7 VRG ZH — Untersuchungsgrundsatz, Mitwirkungspflicht und Beweiswürdigung"
 weight: 7
 date: '2026-11-09'
-lastmod: 2026-11-10
+lastmod: '2026-11-11'
 description: "Praxiskommentar zu § 7 VRG des Kantons Zürich: Untersuchungsgrundsatz (Abs. 1), Mitwirkungspflicht (Abs. 2), Amtshilfe (Abs. 3), freie Beweiswürdigung und Rechtsanwendung von Amtes wegen (Abs. 4), Beweislosigkeit, Kasuistik und Praxishinweise."
 tags:
   - VRG
@@ -13,7 +13,11 @@ tags:
   - Amtshilfe
   - Zürich
 revisions:
-  - date: 2026-11-10
+  - date: '2026-11-11'
+    by: Antigravity
+    model: gemini-3.8-flash
+    note: "Review und Volltextverifikation sämtlicher Zitate auf entscheidsuche.ch (inkl. BGer 1C_704/2024 vom 13.5.2025 zur Aufhebung von VR.2023.00002); Wortlaut-Daten (LS 175.2) und Rechtsprechungsübersicht (rechtsprechung.md) ergänzt."
+  - date: '2026-11-10'
     by: "ein anonymer Spender"
     model: "claude-sonnet-5-5"
     note: "Neukommentierung § 7 VRG ZH. Sieben Entscheide des VGer ZH (entscheidsuche.ch) im Volltext gelesen, Belege mit wörtlichem Trägersatz protokolliert. Lehre (Plüss) nur soweit in den Entscheiden zitiert, nicht selbst geprüft; BGer-Entscheide nicht selbst geprüft und nicht verlinkt. VR.2023.00002 laut Vermerk vom BGer am 13.5.2025 aufgehoben (Gründe nicht geprüft), im Text kenntlich gemacht. Rechtskraft von VB.2022.00105 und Gesetzesstand nicht geprüft."
@@ -30,7 +34,7 @@ revisions:
 
 Adressiert sind nach dem Gesetzeswortlaut die Verwaltungsbehörden. Das Verwaltungsgericht wendet Abs. 1 auch auf die Rechtsmittelinstanzen an ([VGer ZH VR.2023.00002 vom 24.10.2024 E. 5.3.3](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VR-2023-00002_2024-10-24.html)). Im Rekurs- und Beschwerdeverfahren gilt allerdings nur eine abgeschwächte Untersuchungspflicht (unten II.A.3).
 
-> **Hinweis.** Das Urteil VR.2023.00002 (materielle Enteignung) wurde gemäss Vermerk auf entscheidsuche.ch vom Bundesgericht am 13.5.2025 gutgeheissen, aufgehoben und zur Neubeurteilung zurückgewiesen. Die Gründe der Aufhebung wurden nicht geprüft. Soweit der Kommentar dieses Urteil für § 7 VRG zitiert, ist dies bei der Verwendung zu berücksichtigen.
+> **Hinweis.** Das Urteil VR.2023.00002 (materielle Enteignung) wurde vom Bundesgericht gutgeheissen, aufgehoben und zur Neubeurteilung zurückgewiesen ([BGer 1C_704/2024 vom 13.5.2025 E. 3.4–4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-704-2024_2025-05-13.html)): Das Verwaltungsgericht hätte angesichts der vom Statistischen Amt dokumentierten Freihandverkäufe nicht auf den Beizug der Grundbuchunterlagen verzichten und ohne Vergleichspreiserhebung auf die Ertragswertmethode abstellen dürfen (Art. 97 BGG, Art. 29 Abs. 2 BV). Soweit der Kommentar VR.2023.00002 für allgemeine Grundsätze zu § 7 VRG zitiert, ist diese Aufhebung zu berücksichtigen. Zu VB.2022.00105 findet sich auf entscheidsuche.ch der Vermerk «noch nicht rechtskräftig».
 
 ### B. Funktion
 Der Untersuchungsgrundsatz verpflichtet die Behörde, für die richtige und vollständige Abklärung des rechtserheblichen Sachverhalts zu sorgen ([VGer ZH VB.2022.00708 vom 2.3.2023 E. 5.2](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00708_2023-03-02.html)). Er wird durch die Mitwirkungspflicht der Beteiligten relativiert; die Behörde bleibt für die Ermittlung des massgebenden Sachverhalts verantwortlich, die betroffene Person hat aber, insbesondere wenn sie ein Gesuch gestellt hat, die stützenden Tatsachen substanziiert darzulegen und die Beweismittel einzureichen (ebd.).
