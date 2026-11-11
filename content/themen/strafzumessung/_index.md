@@ -29,6 +29,10 @@ stichworte: ["Strafzumessung", "Verschuldensprinzip", "Spielraumtheorie", "Tatko
 revisions:
   - date: 2026-11-11
     by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Nicht existierenden ZStrR-Aufsatz (Urwyler/Ranzoni, ZStrR 139/2021) entfernt sowie Erwägungs- und Fundstellenangaben in der Literaturliste an die Originalentscheide (BGE 151 IV 249 E. 5.3.2/5.3.3.3, BGer 7B_769/2023 E. 3.5.2) angepasst."
+  - date: 2026-11-11
+    by: "Antigravity"
     model: "gemini-3.1-pro"
     note: "Erstfassung des Themenbeitrags zur Strafzumessung unter Einbezug der bundesgerichtlichen Leitentscheide (via entscheidsuche.ch im Volltext verifiziert), des authentischen Gesetzeswortlauts (Fedlex SR 311.0) sowie der neueren schweizerischen Strafzumessungsdogmatik und Rechtsprechungskritik (insb. Dissertationen von Martin Seelmann 2023 und Luca Ranzoni 2025, Open-Access-Volltexte verifiziert)."
 ---
@@ -192,7 +196,7 @@ Im Rechtsmittelverfahren unterscheidet sich die Prüfungsdichte fundamental nach
 
 ## Kritik der Lehre und empirische Befunde {#kritik-und-empirie}
 
-Während die bundesgerichtliche Rechtsprechung das formale Prüfprogramm zu [Art. 47–50 StGB](/kommentar/stgb/art-047/) über Jahrzehnte ausdifferenziert hat, übt die neuere schweizerische Strafrechtswissenschaft — namentlich in den Zürcher Dissertationen von **Martin Seelmann** (2023) und **Luca Ranzoni** (2025; vgl. bereits Urwyler/Ranzoni, ZStrR 2021, S. 72 ff.) — grundlegende dogmatische, verfassungsrechtliche und empirische Kritik an der realen Strafzumessungspraxis.
+Während die bundesgerichtliche Rechtsprechung das formale Prüfprogramm zu [Art. 47–50 StGB](/kommentar/stgb/art-047/) über Jahrzehnte ausdifferenziert hat, übt die neuere schweizerische Strafrechtswissenschaft — namentlich in den Zürcher Dissertationen von **Martin Seelmann** (2023) und **Luca Ranzoni** (2025) — grundlegende dogmatische, verfassungsrechtliche und empirische Kritik an der realen Strafzumessungspraxis.
 
 ### 1. Das Pudding-Problem und die Verknüpfungsproblematik (Seelmann 2023) {#verknuepfungsproblematik}
 
@@ -287,11 +291,10 @@ Für die Strafverteidigung, die Staatsanwaltschaft und die Gerichte ergeben sich
 
 - **Ranzoni Luca**, *Gerechte Strafen ohne Gleichheit? Eine rechtliche und empirische Analyse der Schweizer Strafzumessungspraxis*, Diss. Zürich, sui generis, Zürich 2025 ([Open Access via sui generis, DOI 10.38107/060](https://doi.org/10.38107/060)).
 - **Seelmann Martin**, *Strafzumessung und Doppelverwertung. Ein Wegweiser zu einer überprüfbareren Strafzumessung*, Diss. Zürich, sui generis, Zürich 2023 ([Open Access via sui generis / ZORA, DOI 10.5167/uzh-240079](https://doi.org/10.5167/uzh-240079)).
-- **Urwyler Thierry / Ranzoni Luca**, *Ungleichheiten in der schweizerischen Strafzumessungspraxis. Eine Analyse der Rechtsprechung des Bundesgerichts und ein Vorschlag zur Verringerung von Strafmassungleichheiten*, Schweizerische Zeitschrift für Strafrecht (ZStrR) 139 (2021), S. 72–100.
 - **Mathys Hans**, *Leitfaden Strafzumessung*, 2. Aufl., Basel 2019 (zitiert in [BGer 7B_769/2023 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-769-2023_2025-05-13.html)).
-- **Wiprächtiger Hans / Keller Stefan**, Kommentierung zu Art. 47–50 StGB, in: Niggli Marcel Alexander / Wiprächtiger Hans (Hrsg.), *Basler Kommentar, Strafrecht I*, 4. Aufl., Basel 2019 (zitiert u.a. in [BGE 151 IV 249 E. 5.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html#consideration_5.3.1)).
+- **Wiprächtiger Hans / Keller Stefan**, Kommentierung zu Art. 47–50 StGB, in: Niggli Marcel Alexander / Wiprächtiger Hans (Hrsg.), *Basler Kommentar, Strafrecht I*, 4. Aufl., Basel 2019 (zitiert zu Art. 47 StGB in [BGE 151 IV 249 E. 5.3.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html#consideration_5.3.3.3)).
 - **Ackermann Jürg-Beat**, Kommentierung zu Art. 49 StGB, in: Niggli Marcel Alexander / Wiprächtiger Hans (Hrsg.), *Basler Kommentar, Strafrecht I*, 4. Aufl., Basel 2019 (zitiert in [BGer 7B_769/2023 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-769-2023_2025-05-13.html)).
-- **Trechsel Stefan / Seelmann Martin**, Kommentierung zu Art. 47–50 StGB, in: Trechsel Stefan / Pieth Mark (Hrsg.), *Schweizerisches Strafgesetzbuch, Praxiskommentar*, 4. Aufl., Zürich/St. Gallen 2021 (zitiert in [BGE 151 IV 249 E. 5.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html#consideration_5.3.1)).
+- **Trechsel Stefan / Seelmann Martin**, Kommentierung zu Art. 47–50 StGB, in: Trechsel Stefan / Pieth Mark (Hrsg.), *Schweizerisches Strafgesetzbuch, Praxiskommentar*, 4. Aufl., Zürich/St. Gallen 2021 (zitiert zu Art. 47 StGB in [BGE 151 IV 249 E. 5.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-249_2025.html#consideration_5.3.2)).
 - **Bertschinger Mike Andrea**, *Gesamtstrafenbildung bei Nichtbewährung*, Diss. Zürich, sui generis, Zürich 2023 ([Open Access via sui generis, DOI 10.38107/041](https://doi.org/10.38107/041); zitiert in [BGer 7B_769/2023 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-769-2023_2025-05-13.html)).
-- **Cesarov Marko**, *Zur Gesamtstrafenbildung nach der konkreten Methode*, forumpoenale 2/2016, S. 97–102 (zitiert in [BGer 7B_769/2023 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-769-2023_2025-05-13.html)).
+- **Cesarov Marko**, *Zur Gesamtstrafenbildung nach der konkreten Methode*, forumpoenale 2/2016, S. 100 (zitiert in [BGer 7B_769/2023 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-769-2023_2025-05-13.html)).
 - **Botschaft zur Änderung des Schweizerischen Strafgesetzbuches** (Allgemeine Bestimmungen, Einführung und Anwendung des Gesetzes) und des Militärstrafgesetzes sowie zu einem Bundesgesetz über das Jugendstrafrecht vom 21. September 1998, BBl 1999 1979.
