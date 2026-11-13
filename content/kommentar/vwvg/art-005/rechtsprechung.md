@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 5 VwVG"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-11-09
+lastmod: 2026-11-13
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 5 VwVG – Begriff der Verfügung, Allgemeinverfügung, Abgrenzung zu Realakten und Auskünften sowie materieller Verfügungsbegriff."
 tags: ["Rechtsprechung", "VwVG", "Verfügung", "Verwaltungsverfahren", "Realakt", "Allgemeinverfügung", "Materieller Verfügungsbegriff"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Neuer Entscheid BGer 1C_95/2026 vom 17.09.2026 eingearbeitet: Wettbewerbsjury und Beurteilungsgremien in privaten/hybriden Studienaufträgen (SIA 143) handeln mangels Hoheitlichkeit nicht verfügend im Sinne von Art. 5 VwVG, sofern das Verfahren nicht dem Beschaffungsrecht unterstellt ist."
   - date: 2026-11-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -79,6 +83,12 @@ revisions:
 ---
 
 ## II. Weitere Entscheide (Bundesgericht, Bundesverwaltungsgericht und kantonale Gerichte)
+
+### BGer 1C_95/2026 vom 17.09.2026 — Fehlende Hoheitlichkeit: Wettbewerbsjury und Studienauftrag nach SIA 143
+* **Fundstelle**: [BGer 1C_95/2026](https://mcp.opencaselaw.ch/entscheid/bger_1C_95_2026#e-2) (Urteil vom 17. September 2026 E. 2–3)
+* **Thema**: Hoheitsgewalt und funktioneller Behördenbegriff; Rechtsnatur des Juryentscheids bei privaten und hybriden Architekturwettbewerben / Studienaufträgen; Abgrenzung zum Beschaffungsrecht.
+* **Sachverhalt**: Im Rahmen eines privaten bzw. hybriden Studienauftrags nach den Regeln der SIA-Ordnung 143, an dem auch öffentlich-rechtliche Körperschaften beteiligt waren, bewertete und rangierte ein Beurteilungsgremium (Jury) die eingereichten Projektvorschläge. Ein unterlegener Teilnehmer focht das Juryergebnis mit verwaltungsrechtlicher Beschwerde an und machte geltend, das Gremium habe in funktioneller Hinsicht wie eine Behörde hoheitlich gehandelt.
+* **Kernaussage**: Eine Wettbewerbsjury bzw. ein Beurteilungsgremium, das in einem privaten oder hybriden Studienauftrag / Architekturwettbewerb nach den Regeln der SIA-Ordnung 143 eingesetzt wird, handelt nicht hoheitlich im Sinne von Art. 5 VwVG. Die Bewertung und Rangierung durch ein solches Gremium stellt eine privatrechtliche Beurteilung dar und begründet keine anfechtbare Hoheitsverfügung im Sinne von Art. 5 Abs. 1 VwVG, selbst wenn öffentlich-rechtliche Körperschaften oder Grundeigentümer beteiligt sind, solange das Verfahren nicht der staatlichen Beschaffungsgesetzgebung (BöB/IVöB) unterstellt war (E. 2.1–2.3).
 
 ### BGer 9C_575/2022 vom 05.07.2023 — Allgemeinverfügung: Streichung von Arzneimitteln aus der Spezialitätenliste
 * **Fundstelle**: [BGer 9C_575/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-575-2022_2023-07-05.html) (Urteil vom 5. Juli 2023)

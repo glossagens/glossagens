@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 63 AIG"
 weight: 99
 date: 2026-06-06
-lastmod: 2026-09-08
+lastmod: 2026-11-13
 description: "Strukturierte Rechtsprechungsübersicht zu Art. 63 AIG (Widerruf der Niederlassungsbewilligung und Rückstufung): Leitentscheide des Bundesgerichts sowie ausgewählte Urteile kantonaler Obergerichte und Verwaltungsgerichte."
 tags: ["Rechtsprechung", "AIG", "Niederlassungsbewilligung", "Widerruf", "Rückstufung", "Sozialhilfe", "Dualismusverbot", "Integration"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 2C_188/2026 vom 18. September 2026 (Rückstufung nach Art. 63 Abs. 2 AIG bei schwergradiger Suchterkrankung; kein Konflikt mit dem Dualismusverbot nach Art. 63 Abs. 3 AIG bei strafrichterlichem Härtefallverzicht auf Landesverweisung)."
   - date: 2026-09-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -81,6 +85,14 @@ Zurück zum Hauptkommentar: [Art. 63 AIG — Widerruf der Niederlassungsbewillig
 ---
 
 ## II. Weitere Entscheide des Bundesgerichts und kantonaler Gerichte
+
+### [BGer 2C_188/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_188_2026#e-4) (18.09.2026)
+* **Thema**: Rückstufung der Niederlassungsbewilligung (Art. 63 Abs. 2 AIG) trotz strafrichterlichem Härtefallverzicht auf Landesverweisung (Art. 63 Abs. 3 AIG); Verhältnismässigkeit bei schwerer Suchterkrankung.
+* **Sachverhalt**: Ein Ausländer mit Niederlassungsbewilligung fiel durch wiederholte Straftaten auf, die im Zusammenhang mit einer langjährigen, schweren Suchterkrankung standen, über eine reine Beschaffungskriminalität jedoch hinausgingen. Das Strafgericht sah wegen eines persönlichen Härtefalls nach Art. 66a Abs. 2 StGB von einer Landesverweisung ab. Die Migrationsbehörde stufte seine Niederlassungsbewilligung gestützt auf Art. 63 Abs. 2 i.V.m. Art. 58a Abs. 1 lit. a AIG auf eine befristete Aufenthaltsbewilligung zurück. Der Betroffene rügte eine Verletzung des Dualismusverbots (Art. 63 Abs. 3 AIG) sowie die Unverhältnismässigkeit und Ungeeignetheit der Massnahme angesichts seiner Suchterkrankung.
+* **Kernaussage**:
+  1. *Keine Verletzung des Dualismusverbots (E. 4)*: In Bestätigung von BGE 148 II 1 E. 4.3 steht Art. 63 Abs. 3 AIG einer Rückstufung nach Abs. 2 nicht entgegen. Da die Rückstufung keine unmittelbare Wegweisung bewirkt, darf sie auch ausschliesslich auf strafrechtliche Verurteilungen gestützt werden, bei denen das Strafgericht wegen eines Härtefalls von einer Landesverweisung abgesehen hat.
+  2. *Verhältnismässigkeit und Suchterkrankung (E. 6.2–6.4)*: Eine schwergradige, langjährige Suchterkrankung schliesst die Geeignetheit und Verhältnismässigkeit der Rückstufung nicht aus, solange die strafrechtliche Steuerungsfähigkeit nicht vollständig fehlte (Art. 19 Abs. 1 StGB) und die Delinquenz über eine reine Beschaffungskriminalität hinausging. Die Rückstufung dient als integrationsfördernder Zwischenschritt und als Warnstufe vor einem Bewilligungswiderruf.
+* **Einschlägig für**: Abs. 2 (Rückstufung, Suchterkrankung, Verhältnismässigkeit) und Abs. 3 (Dualismusverbot).
 
 ### [BGer 2C_362/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-362-2025_2026-02-12.html) (12.02.2026)
 * **Thema**: Rückstufung nach Art. 63 Abs. 2 AIG wegen mutwilliger Schuldenwirtschaft durch Serienkonkurse im Baugewerbe.

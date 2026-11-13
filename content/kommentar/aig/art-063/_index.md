@@ -2,10 +2,14 @@
 title: "Art. 63 AIG — Widerruf der Niederlassungsbewilligung"
 weight: 63
 date: 2026-06-06
-lastmod: 2026-10-15
+lastmod: 2026-11-13
 description: "Praxiskommentar zu Art. 63 AIG: Widerrufsgründe der Niederlassungsbewilligung (Täuschung, Freiheitsstrafe > 1 Jahr, schwerwiegende Gefährdung, Sozialhilfe, Bürgerrechtserschleichung), Rückstufung auf eine Aufenthaltsbewilligung bei Integrationsdefiziten (Abs. 2) und Bindungswirkung strafrichterlicher Verzichte auf Landesverweisung (Abs. 3) — mit systematischer Grenzkasuistik (bejaht vs. verneint) und kantonaler Praxis."
 tags: ["AIG", "Niederlassungsbewilligung", "Widerruf", "Rückstufung", "Sozialhilfe", "öffentliche Sicherheit", "Landesverweisung", "Dualismusverbot", "Integration", "Verhältnismässigkeit"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 2C_188/2026 vom 18. September 2026: Bestätigung der Rechtsprechung zum Dualismusverbot (Art. 63 Abs. 3 AIG steht Rückstufung nach Abs. 2 auch bei strafrichterlichem Härtefallverzicht auf Landesverweisung nicht entgegen; E. 4) sowie Verhältnismässigkeitsanforderungen und Eignung der Rückstufung bei schwergradiger Suchterkrankung (E. 6.2–6.4). Fundstellen und Urteilsinhalt abgeglichen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -153,12 +157,13 @@ Die Rückstufung kann grundsätzlich auch auf Niederlassungsbewilligungen angewa
 - Die Rückstufung muss sich im Wesentlichen auf Sachverhaltselemente stützen, die **nach dem 1. Januar 2019 eingetreten sind oder fortdauern** (aktuelles Defizit).
 - Bei altrechtlichen Bewilligungen verlangt das Übermassverbot in der Regel, dass vor einer Rückstufung zunächst eine förmliche **Verwarnung** (Art. 96 Abs. 2 AIG) ausgesprochen werden muss ([BGE 148 II 1 E. 6.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-1_2022.html#consideration_6.4)).
 
-#### 3. Kasuistik: Schuldenwirtschaft und unternehmerisches Scheitern
-Die Nichtteilnahme am Wirtschaftsleben (Art. 58a Abs. 1 lit. d AIG i.V.m. Art. 77e Abs. 1 VZAE) bildet den häufigsten Anwendungsfall der Rückstufung. Das Bundesgericht differenziert streng zwischen schicksalhaftem wirtschaftlichem Misserfolg und **mutwilliger Schuldenwirtschaft**:
+#### 3. Kasuistik: Schuldenwirtschaft, unternehmerisches Scheitern und strafrechtliche Rückstufung bei Sucht
+Die Nichtteilnahme am Wirtschaftsleben (Art. 58a Abs. 1 lit. d AIG i.V.m. Art. 77e Abs. 1 VZAE) sowie Verstösse gegen die öffentliche Sicherheit und Ordnung (Art. 58a Abs. 1 lit. a AIG) bilden die zentralen Anwendungsfälle der Rückstufung. Das Bundesgericht differenziert streng zwischen schicksalhaftem wirtschaftlichem Misserfolg und **mutwilliger Schuldenwirtschaft** und präzisiert die Anforderungen bei straffälligen Personen mit schweren Suchterkrankungen:
 
 | Fallkonstellation | Wesentliche Umstände | Ergebnis | Entscheid |
 |---|---|---|---|
 | Bauunternehmer häuft über drei Kapitalgesellschaften Fr. 1.3 Mio. Konkursschulden an | Verurteilung wegen Misswirtschaft; Gründung neuer Firmen trotz Ausständen; Mahnung missachtet | **Rückstufung geschützt.** Mutwillige Schuldenwirtschaft trotzt Haftungsbeschränkung juristischer Personen | [BGer 2C_362/2025 vom 12. Februar 2026, E. 5–6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-362-2025_2026-02-12.html) |
+| Langjährige Drogensucht, wiederholte Delinquenz über reine Beschaffungskriminalität hinaus; Strafgericht sah von Landesverweisung ab | Keine Aufhebung der Steuerungsfähigkeit (Art. 19 Abs. 1 StGB); Rückstufung als integrationsfördernde Warn- und Druckstufe | **Rückstufung geschützt.** Sucht schliesst Geeignetheit nicht aus; Rückstufung dient als Zwischenschritt vor einem Bewilligungswiderruf | [BGer 2C_188/2026 vom 18. September 2026 E. 4–6](https://mcp.opencaselaw.ch/entscheid/bger_2C_188_2026#e-4) |
 | Kosovarischer Staatsangehöriger (28 Jahre in CH), 13 Vorstrafen bis 2018 (BetmG, SVG), keine Taten nach 2019 | Schulden saniert, keine Fürsorgeabhängigkeit, keine Straftaten nach dem 1.1.2019 | **Rückstufung aufgehoben.** Fehlendes aktuelles Integrationsdefizit; Pflicht zur Verwarnung | [BGE 148 II 1 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-1_2022.html#consideration_6) |
 
 
@@ -181,7 +186,7 @@ Art. 63 Abs. 3 AIG normiert das Verbot des behördlichen Doppelspiels (sog. Dual
 Die Sperrwirkung greift in folgenden Konstellationen nicht:
 - **Taten vor dem 1. Oktober 2016**: Auf Delikte vor dem Inkrafttreten von Art. 66a StGB war keine strafrechtliche Landesverweisung möglich; die Migrationsbehörde bleibt für diese Alttaten voll zuständig ([BGE 146 II 49 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-146-II-49_2020.html#consideration_5)).
 - **Rein ausländerrechtliche Gründe**: Treten zum Strafurteil migrationsrechtliche Aspekte hinzu (neue Straftaten, dauerhafter Sozialhilfebezug, Verlust der Ehegemeinschaft bei abgeleiteten Rechten), darf die Behörde einschreiten ([BGer 2C_96/2025 vom 15. April 2026, E. 5.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-96-2025_2026-04-15.html)).
-- **Rückstufung nach Abs. 2**: Die Rückstufung zieht keine Wegweisung nach sich. Daher verletzt eine Rückstufung wegen strafrechtlicher Integrationsdefizite das Dualismusverbot nicht, selbst wenn das Strafgericht auf eine Landesverweisung verzichtet hat ([BGE 148 II 1 E. 4.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-1_2022.html#consideration_4.3.2); [BGer 2C_96/2025 vom 15. April 2026, E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-96-2025_2026-04-15.html)).
+- **Rückstufung nach Abs. 2**: Die Rückstufung zieht keine unmittelbare Wegweisung nach sich. Daher verletzt eine Rückstufung wegen strafrechtlicher Integrationsdefizite das Dualismusverbot nicht, selbst wenn das Strafgericht wegen eines persönlichen Härtefalls nach Art. 66a Abs. 2 StGB von einer Landesverweisung abgesehen hat. Das Bundesgericht hat bekräftigt, dass die Rückstufung nach Art. 63 Abs. 2 AIG auch ausschliesslich auf strafrechtliche Verurteilungen gestützt werden darf ([BGE 148 II 1 E. 4.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-148-II-1_2022.html#consideration_4.3.2); [BGer 2C_96/2025 vom 15. April 2026, E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-96-2025_2026-04-15.html); [BGer 2C_188/2026 vom 18. September 2026 E. 4–6](https://mcp.opencaselaw.ch/entscheid/bger_2C_188_2026#e-4)).
 
 > **Leitsatz.** Der strafrichterliche Verzicht auf eine Landesverweisung sperrt den migrationsrechtlichen Widerruf mit Wegweisung gestützt auf dieselben Straftaten. Die Rückstufung auf eine Aufenthaltsbewilligung nach Abs. 2 bleibt davon unberührt.
 
@@ -203,7 +208,10 @@ Massgebend sind:
 - **Familienleben (Art. 8 Ziff. 1 EMRK)**: Schützt das Zusammenleben mit Ehegatten und minderjährigen Kindern, sofern diese über ein gefestigtes Aufenthaltsrecht (Schweizer Bürgerrecht oder C-Ausweis) verfügen. Bei getrennt lebenden Elternteilen verlangt ein Aufenthaltsanspruch eine affektiv und wirtschaftlich besonders enge Bindung sowie ein weitgehend tadelloses Verhalten ([BGE 144 I 91 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-I-91_2018.html)).
 - **Privatleben (Art. 8 Ziff. 1 EMRK / 10-Jahres-Regel)**: Nach [BGE 144 I 266 E. 3.9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html#consideration_3.9) wird nach einem zehnjährigen ordnungsgemässen Aufenthalt vermutet, dass die sozialen Bindungen zur Schweiz so eng sind, dass eine Beendigung des Aufenthalts besonderer Rechtfertigung bedarf. Die Vermutung entfällt jedoch bei Straffälligkeit oder mangelnder beruflicher/sprachlicher Integration.
 
-> **Leitsatz.** Der Widerruf einer Niederlassungsbewilligung erfordert eine Verhältnismässigkeitsprüfung im Einzelfall. Nach zehnjährigem Aufenthalt besteht ein grundrechtlicher Anspruch auf sorgfältige Abwägung der Integrations- und Verwurzelungsinteressen nach Art. 8 EMRK.
+#### 3. Besondere Konstellation: Verhältnismässigkeit bei Suchterkrankung
+Macht die betroffene Person geltend, ihre Straffälligkeit sei auf eine schwergradige oder langjährige Suchterkrankung zurückzuführen, schliesst dies die Geeignetheit und Verhältnismässigkeit einer Rückstufung nach Art. 63 Abs. 2 AIG nicht von vornherein aus. Nach der Rechtsprechung bleibt eine Rückstufung als mildere Massnahme und integrationsfördernder Zwischenschritt vor einem endgültigen Bewilligungswiderruf zulässig und verhältnismässig, solange die strafrechtliche Steuerungsfähigkeit nicht vollständig aufgehoben war (Art. 19 Abs. 1 StGB) und die Delinquenz über eine reine Beschaffungskriminalität hinausging ([BGer 2C_188/2026 vom 18. September 2026 E. 4–6](https://mcp.opencaselaw.ch/entscheid/bger_2C_188_2026#e-4)). Die Rückstufung setzt der betroffenen Person eine Frist und Auflage zur Tataufarbeitung bzw. Suchttherapie und erzeugt den nötigen Druck, um die öffentliche Sicherheit künftig nicht weiter zu gefährden.
+
+> **Leitsatz.** Der Widerruf einer Niederlassungsbewilligung erfordert eine Verhältnismässigkeitsprüfung im Einzelfall. Nach zehnjährigem Aufenthalt besteht ein grundrechtlicher Anspruch auf sorgfältige Abwägung der Integrations- und Verwurzelungsinteressen nach Art. 8 EMRK. Eine bestehende Suchterkrankung steht der Geeignetheit einer Rückstufung nicht entgegen, wenn die Steuerungsfähigkeit nicht völlig erloschen war.
 
 ---
 

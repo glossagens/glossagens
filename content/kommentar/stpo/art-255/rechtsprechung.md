@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 255 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-11-03
+lastmod: 2026-11-13
 description: "Übersicht der Rechtsprechung zu Art. 255 StPO: Leitentscheide des Bundesgerichts sowie Bundesgerichts- und Kantonsgerichtsurteile zu DNA-Probenahme, CODIS-Profilierung, Schwellenwerten, Polizeikompetenzen und Löschungsfristen."
 tags: ["Rechtsprechung", "StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Verhältnismässigkeit", "Polizei", "Zwangsmassnahmen"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Ergänzung von BGer 7B_195/2026 vom 29.10.2026 (publiziert am 12.11.2026): Bestätigung und Präzisierung von BGer 7B_139/2026; Löschfrist bestehender Profile im CODIS (Art. 16 DNA-Profil-Gesetz) als entscheidendes Kriterium für Verhältnismässigkeit; Unverhältnismässigkeit bei längerer Löschfrist als Verjährungsfrist; kantonale Begründungspflicht nach Art. 112 Abs. 1 lit. b BGG; Volltext verifiziert."
   - date: 2026-11-03
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -85,6 +89,17 @@ revisions:
   1. Ist eine beschuldigte Person bereits mit einem DNA-Profil im automatisierten Informationssystem registriert, muss die Strafbehörde vor einer erneuten Profilierung nach Art. 255 Abs. 1bis StPO zwingend die massgebliche Löschfrist des bestehenden Profils im System IPAS ermitteln und in der Verfügung begründen (E. 3 bzw. E. 4).
   2. Nur bei Kenntnis der noch verbleibenden Speicherungsdauer lässt sich beurteilen, ob eine Neuanordnung zur Aufklärung weiterer Straftaten verhältnismässig und erforderlich ist. Unterlässt die Vorinstanz diese Prüfung, leidet der Entscheid an einem unvollständigen Sachverhalt und einer Verletzung der Begründungspflicht (Art. 112 BGG); Aufhebung und Rückweisung. Das Bundesgericht ruft dabei ausdrücklich in Erinnerung (E. 2.1 unter Verweis auf BGer 7B_642/2025 E. 4.3.2), dass Art. 255 Abs. 1bis StPO die Voraussetzungen für repressive Profilierungen zur Aufklärung vergangener Delikte regelt, während künftige Delikte Art. 257 StPO unterstehen.
 - **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 StPO; Art. 112 BGG; Art. 29 Abs. 2 BV
+
+---
+
+### [BGer 7B_195/2026 vom 29. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_195_2026#e-2-3) E. 2.3
+- **Thema**: DNA-Profilierung nach Art. 255 Abs. 1bis StPO n.F.; Verhältnismässigkeit bei bereits erfasstem CODIS-Profil; Löschfrist als entscheidendes Kriterium; Begründungspflicht der kantonalen Instanz (Art. 112 Abs. 1 lit. b BGG)
+- **Sachverhalt**: Die Strafverfolgungsbehörden führten ein Strafverfahren gegen eine beschuldigte Person und ordneten die Erstellung eines DNA-Profils nach Art. 255 Abs. 1bis StPO n.F. an. Die beschuldigte Person wehrte sich dagegen unter Hinweis auf bereits bestehende Profilierungen im DNA-Informationssystem. Die kantonale Vorinstanz bestätigte die Anordnung, ohne die genauen Daten früherer Profilierungen oder die geltende Löschfrist im CODIS festzustellen.
+- **Kernaussage**:
+  1. Das Bundesgericht bestätigt und präzisiert seine Grundsatzrechtsprechung (BGer 7B_139/2026 vom 24. August 2026, zur Publikation vorgesehen): Das entscheidende Kriterium für die Verhältnismässigkeit einer erneuten DNA-Profilierung nach Art. 255 Abs. 1bis StPO n.F. ist die Löschfrist eines allenfalls bereits im CODIS-System erfassten Profils (Art. 16 DNA-Profil-Gesetz; E. 2.1, 2.3.2).
+  2. Ist die Löschfrist des bereits vorhandenen Profils länger als die Verjährungsfrist der neu untersuchten Straftat, ist eine erneute Profilierungsanordnung unverhältnismässig, da die Strafbehörden das vorhandene Profil für Abgleiche nutzen können (E. 2.3.2).
+  3. Die kantonale Vorinstanz ist verpflichtet, die Existenz früherer Profilierungsanordnungen und die massgebliche Löschfrist im Sachverhalt verbindlich festzustellen. Unterbleibt dies, verletzt der Entscheid Art. 112 Abs. 1 lit. b BGG und ist aufzuheben (E. 2.2.2, 2.3.2).
+- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 Abs. 1 lit. c und d StPO; Art. 16 DNA-Profil-Gesetz; Art. 112 Abs. 1 lit. b und Abs. 3 BGG
 
 ---
 

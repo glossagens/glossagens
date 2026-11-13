@@ -2,10 +2,14 @@
 title: "Art. 71 StGB — Einziehung. Ersatzforderungen"
 weight: 71
 date: "2026-08-08"
-lastmod: 2026-10-15
+lastmod: 2026-11-13
 description: "Praxiskommentar zu Art. 71 StGB: Ersatzforderung des Staates als Surrogat der Vermögenseinziehung, Subsidiarität und Nicht-mehr-Vorhandensein, Berechnung nach Brutto- und Nettoprinzip, strikter Ausschluss der Solidarhaftung bei Mittäterschaft, Schätzung (Art. 70 Abs. 5), Konkurrenz mit Zivilansprüchen und Doppelbelastungsverbot, Zuweisung nach Art. 73 StGB, Verzicht und Herabsetzung wegen Uneinbringlichkeit oder Gefährdung der Resozialisierung (Abs. 2), Zwangsvollstreckung über das SchKG sowie Praxishinweise."
 tags: ["StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Zivilklage", "Resozialisierung", "Kasuistik", "SchKG", "Praxiskommentar"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 6B_760/2025 vom 29. September 2026 in Abschnitt C.2 (Drittschutz nach Art. 70 Abs. 2 StGB: Kumulativität von Gutgläubigkeit und gleichwertiger Gegenleistung; Entbehrlichkeit der Gutglaubensprüfung bei unentgeltlicher Übertragung/Scheingeschäft zugunsten des Ehegatten) und Abschnitt G.3 (Kein Deliktskonnex bei Ersatzforderungsbeschlagnahme nach Art. 263 Abs. 1 lit. e StPO; Herkunft aus legaler Tätigkeit oder verjährten Handlungen unerheblich, solange wirtschaftliche Zurechnung zum Täter und Ersatzforderung auf unverjährten Delikten beruht; Bestätigung von BGE 140 IV 57). Volltext via mcp.opencaselaw.ch verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -134,9 +138,12 @@ Gegenüber Dritten kann eine Ersatzforderung gemäss Art. 71 Abs. 1 Satz 2 StGB 
 2. Er dafür eine **gleichwertige Gegenleistung** erbracht hat; oder
 3. Die Ersatzforderung ihm gegenüber eine **unverhältnismässige Härte** begründen würde.
 
+Die beiden Voraussetzungen der Gutgläubigkeit und der gleichwertigen Gegenleistung sind **kumulativ** ([BGer 6B_760/2025 vom 29. September 2026 E. 9.2.1–9.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_760_2025#e-9-2-1)). Fehlt es an einer gleichwertigen Gegenleistung – etwa bei einer unentgeltlichen Vermögensübertragung oder einem Scheingeschäft zugunsten des Ehegatten –, so erübrigt sich die Prüfung des guten Glaubens vollständig: Der Dritte geniesst von vornherein keinen Schutz vor der staatlichen Ersatzforderung oder Beschlagnahme ([BGer 6B_760/2025 E. 9.2.1, 9.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_760_2025#e-9-2-1)).
+
 Die Beweislast für die Gutgläubigkeit und das Erbringen einer gleichwertigen Gegenleistung trägt nach den allgemeinen Grundsätzen der Dritte, der sich auf den Schutz beruft.
 
 ##### Kasuistik zum Drittschutz
+- **Unentgeltliche Vermögensübertragungen und Scheingeschäfte an Ehegatten ([BGer 6B_760/2025 vom 29. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_760_2025#e-9-2-1))**: Der Drittschutz nach Art. 70 Abs. 2 i.V.m. Art. 71 Abs. 1 StGB verlangt zwingend kumulativ Gutgläubigkeit und eine vollwertige Gegenleistung. Wurden Vermögenswerte unentgeltlich oder im Rahmen eines Scheingeschäfts an den Ehegatten übertragen, scheitert der Drittschutz bereits am Fehlen jeglicher Gegenleistung; auf die Gutgläubigkeit der Ehefrau kommt es gar nicht mehr an (E. 9.2.1, E. 9.3).
 - **Insiderhandel bei Vermögensverwaltungsmandat ([BGer 6B_864/2018 vom 26. April 2019](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-864-2018_2019-04-26.html))**: Ein Finanzberater nutzte Insiderinformationen über eine Firmenübernahme aus und kaufte für das Portfolio einer Klientin Aktien, wodurch ein Kursgewinn von CHF 95'308 entstand. Die Vorinstanz auferlegte der Klientin eine Ersatzforderung. Vor Bundesgericht berief sie sich auf Drittschutz: Sie habe eine bankübliche Vermögensverwaltungsgebühr von 0.5% bezahlt. Das Bundesgericht verwarf den Drittschutz: Die Bezahlung einer Standardgebühr stellt keine gleichwertige Gegenleistung für den deliktisch erzielten Insidergewinn dar (E. 2.2).
 - **Miteigentümer beim illegalen Villenabbruch ([BGE 141 IV 317](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-317_2015.html))**: Ein Bauunternehmer riss eine geschützte Villa eigenmächtig ab. Gegenüber den unbeteiligten Miteigentümern des Baukonsortiums schützte das Bundesgericht den Drittschutz über die Verhältnismässigkeit: Ihre Gegenleistung (der bezahlte Kaufpreis des Grundstücks vor dem Abbruch) war vollumfänglich als Abzugsposition anzuerkennen (E. 5.8.3).
 - **Durchgriff auf juristische Personen ([BGE 147 IV 479](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-479_2021.html); [ZH OG NE230005 vom 11. Juni 2026](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_NE230005_2026-06-11.pdf))**: Ein Durchgriff von oder auf eine juristische Person (AG/GmbH) zur Durchsetzung einer Ersatzforderung ist nur zulässig, wenn es sich um eine reine Domizil- bzw. Vermögensverwaltungsgesellschaft ohne eigene operative Tätigkeit handelt oder die Berufung auf die Rechtspersönlichkeit rechtsmissbräuchlich ist ([Art. 2 Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_2)). Bei operativen Unternehmen gilt das gesellschaftsrechtliche Trennungsprinzip uneingeschränkt ([BGE 147 IV 479 E. 7.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-479_2021.html)).
@@ -273,10 +280,13 @@ Das Recht, eine Ersatzforderung anzuordnen, verjährt gemäss [Art. 70 Abs. 3 St
 - Die 7-jährige Frist gilt auch für kantonale Übertretungsstrafbestände ([BGE 141 IV 305 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-305_2015.html)).
 - Mit dem erstinstanzlichen Sachurteil tritt Vollstreckungsverjährung ein.
 
-#### 3. Aufhebung von Abs. 3 per 1. Januar 2024
+#### 3. Aufhebung von Abs. 3 per 1. Januar 2024 und Ersatzforderungsbeschlagnahme
 Der frühere Art. 71 Abs. 3 StGB, der die provisorische Beschlagnahme zur Sicherung der Ersatzforderung im StGB regelte, wurde im Rahmen der Revision der Strafprozessordnung per 1. Januar 2024 aufgehoben ([AS 2023 468](https://www.fedlex.admin.ch/eli/oc/2023/468/de); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/1886/de)). Die provisorische Deckungsbeschlagnahme richtet sich nunmehr ausschliesslich nach [Art. 263 Abs. 1 lit. e StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_263) ([BGE 140 IV 57 E. 4.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-57_2014.html); [BGer 7B_612/2024 vom 3. Juni 2026 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-612-2024_2026-06-03.html)).
 
-> **Leitsatz.** Das rechtskräftige Strafurteil über eine Ersatzforderung ist ein definitiver Rechtsöffnungstitel gemäss Art. 80 SchKG. Das Strafgericht darf keine direkte Urteilsverrechnung mit beschlagnahmten Geldern anordnen, sondern muss die Vollstreckung dem ordentlichen SchKG-Pfändungsweg überlassen. Provisorische Sicherungsmassnahmen richten sich seit dem 1. Januar 2024 ausschliesslich nach Art. 263 Abs. 1 lit. e StPO.
+- **Kein Deliktskonnex bei Ersatzforderungsbeschlagnahme**: Im grundlegenden Unterschied zur Einziehungsbeschlagnahme nach Art. 263 Abs. 1 lit. d StPO bzw. der Naturaleinziehung nach Art. 70 StGB setzt die Beschlagnahme zur Durchsetzung einer Ersatzforderung nach Art. 71 StGB i.V.m. Art. 263 Abs. 1 lit. e StPO **keinen Zusammenhang mit der untersuchten Straftat** voraus ([BGer 6B_760/2025 vom 29. September 2026 E. 9.2.1–9.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_760_2025#e-9-2-1); Bestätigung von [BGE 140 IV 57 E. 4.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-57_2014.html)). Da die Ersatzforderung eine gewöhnliche Geldforderung des Staates darstellt, kann die Beschlagnahme jedes beliebige Vermögen des Täters erfassen.
+- **Herkunft der Werte unerheblich**: Es spielt keine Rolle, ob die beschlagnahmten Vermögenswerte aus vollkommen legaler Tätigkeit stammen oder mit bereits verjährten Handlungen zusammenhängen. Entscheidend ist einzig, dass die Vermögenswerte dem Täter wirtschaftlich zuzurechnen sind und die zugrunde liegende staatliche Ersatzforderung auf nicht verjährten Delikten beruht ([BGer 6B_760/2025 E. 9.2.1, 9.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_760_2025#e-9-2-1)).
+
+> **Leitsatz.** Das rechtskräftige Strafurteil über eine Ersatzforderung ist ein definitiver Rechtsöffnungstitel gemäss Art. 80 SchKG. Das Strafgericht darf keine direkte Urteilsverrechnung mit beschlagnahmten Geldern anordnen, sondern muss die Vollstreckung dem ordentlichen SchKG-Pfändungsweg überlassen. Provisorische Sicherungsmassnahmen richten sich seit dem 1. Januar 2024 ausschliesslich nach Art. 263 Abs. 1 lit. e StPO; die Ersatzforderungsbeschlagnahme erfordert keinen Deliktskonnex und erfasst auch legale oder mit verjährten Handlungen verknüpfte Vermögenswerte des Täters.
 
 ---
 

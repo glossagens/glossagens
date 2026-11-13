@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 257 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: 2026-08-29
+lastmod: 2026-11-13
 description: "Übersicht der Rechtsprechung zu Art. 257 ZPO — Rechtsschutz in klaren Fällen, Mieterausweisungen, Bestreitungslast, klare Rechtslage und Nichteintreten."
 tags: ["Rechtsprechung", "ZPO", "Rechtsschutz in klaren Fällen", "Mieterausweisung", "Liquider Beweis", "Kasuistik"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    note: "Aufnahme von BGer 5A_775/2026 vom 22.09.2026 zu II. Weitere Entscheide des Bundesgerichts: Ausweisung nach Zwangsversteigerung (Art. 656 Abs. 2 ZGB, Art. 641 Abs. 2 ZGB) und Unbeachtlichkeit dilatorischer Einreden."
   - date: 2026-08-29
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -87,6 +91,14 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 ---
 
 ## II. Weitere Entscheide des Bundesgerichts
+
+### [BGer 5A_775/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_775_2026#e-3-1) (22. September 2026)
+- **Thema**: Rechtsschutz in klaren Fällen bei Ausweisungs- und Herausgabeklagen nach Zwangsversteigerung (Art. 656 Abs. 2 ZGB, Art. 641 Abs. 2 ZGB)
+- **Kernaussage**: Der Erwerber von Grundstücken in einer betreibungsrechtlichen Versteigerung erwirbt das Eigentum originär und ausserbuchlich im Zeitpunkt des Zuschlags (Art. 656 Abs. 2 ZGB). Die Sach- und Rechtslage für eine Ausweisung nach Art. 641 Abs. 2 ZGB bleibt im Verfahren nach Art. 257 ZPO liquid, solange die Zuschlagsentscheide nicht rechtskräftig aufgehoben oder suspendiert sind. Parallele kantonale Beschwerden, angebliche Gegenforderungen, Verzugszinsen oder formungültige/rückdatierte Mietverträge einer Nichtberechtigten (Grundstück unter Zwangsverwaltung gemäss Art. 96 SchKG) bringen den klaren Fall nicht zu Fall (E. 3.1–3.2).
+- **Konkreter Sachverhalt**: Nach der Zwangsversteigerung zweier Grundstücke verlangte die Erwerberin im summarischen Verfahren die Ausweisung der bisherigen Bewohner und Eigentümer. Diese wandten unter anderem ein hängiges kantonales Beschwerdeverfahren gegen den Zuschlag, angebliche Zinsforderungen sowie einen nachträglich vorgelegten Mietvertrag mit der früheren Eigentümerin ein, obschon die Liegenschaft unter Zwangsverwaltung stand. Das Bundesgericht schützte den Ausweisungsentscheid im Verfahren nach Art. 257 ZPO vollumfänglich.
+- **Einschlägig für**: Art. 257 ZPO, Art. 641 Abs. 2 ZGB, Art. 656 Abs. 2 ZGB, Art. 96 SchKG, Zwangsversteigerung, dilatorische Einwendungen
+
+---
 
 ### [BGer 4A_184/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-184-2015_2015-08-11.html) (11. August 2015)
 - **Thema**: Mieterausweisung bei ausserordentlicher Kündigung nach Art. 257f OR

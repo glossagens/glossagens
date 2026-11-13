@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 71 StGB"
 weight: 99
 date: "2026-08-08"
-lastmod: "2026-10-07"
+lastmod: 2026-11-13
 description: "Rechtsprechungsübersicht zu Art. 71 StGB (Ersatzforderungen): Leitentscheide des Bundesgerichts, aktuelle BGer-Urteile und kantonale Gerichtsentscheide zu Surrogatfunktion, Bruttoprinzip, Ausschluss der Solidarhaftung, Resozialisierung und SchKG-Vollstreckung."
 tags: ["Rechtsprechung", "StGB", "Einziehung", "Ersatzforderung", "Bruttoprinzip", "Nettoprinzip", "Solidarhaftung", "Allgemeiner Teil", "Kasuistik", "SchKG"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 6B_760/2025 vom 29. September 2026: Kumulativität der Drittschutzvoraussetzungen nach Art. 70 Abs. 2 StGB (fehlende Gegenleistung bei unentgeltlicher Übertragung/Scheingeschäft an Ehegatten schliesst Schutz ohne Gutglaubensprüfung aus) sowie Bestätigung von BGE 140 IV 57 (kein Deliktskonnex bei Ersatzforderungsbeschlagnahme nach Art. 263 Abs. 1 lit. e StPO; Herkunft aus legaler Tätigkeit oder verjährten Taten unerheblich). Volltext via mcp.opencaselaw.ch verifiziert."
   - date: "2026-10-07"
     by: "Hermes"
     model: "glm-5.2"
@@ -162,6 +166,16 @@ revisions:
 
 ## II. Weitere Bundesgerichtsentscheide und kantonale Praxis
 
+### [BGer 6B_760/2025 vom 29. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_760_2025#e-9-2-1) E. 9.2.1–9.3 — Kumulativer Drittschutz bei unentgeltlicher Übertragung an Ehegatten und kein Deliktskonnex bei Ersatzforderungsbeschlagnahme
+- **Thema**: Ersatzforderung gegenüber Dritten (Art. 71 Abs. 1 i.V.m. Art. 70 Abs. 2 StGB); Kumulativität von Gutgläubigkeit und gleichwertiger Gegenleistung; Scheingeschäft zugunsten des Ehegatten; Ersatzforderungsbeschlagnahme nach Art. 263 Abs. 1 lit. e StPO ohne Deliktskonnex; Verjährung.
+- **Sachverhalt**: Im Rahmen eines Strafverfahrens wurden Vermögenswerte zur Sicherung einer staatlichen Ersatzforderung beschlagnahmt, die formell auf die Ehefrau des Beschuldigten übertragen worden waren. Die Beschwerdeführer beriefen sich auf Drittschutz und machten geltend, die beschlagnahmten Gelder stammten aus legalen Einkünften bzw. aus verjährten Handlungen und wiesen keinen Deliktskonnex auf.
+- **Kernaussage**:
+  1. Die Voraussetzungen des Drittschutzes nach Art. 70 Abs. 2 StGB (Gutgläubigkeit und gleichwertige Gegenleistung) sind **kumulativ**. Fehlt es an einer gleichwertigen Gegenleistung (etwa bei einer unentgeltlichen Vermögenszuwendung oder einem Scheingeschäft zugunsten des Ehegatten), erübrigt sich die Prüfung des guten Glaubens vollständig; die Ersatzforderung bzw. Beschlagnahme greift ohne Weiteres (E. 9.2.1, E. 9.3).
+  2. Im Gegensatz zur Naturaleinziehung (Art. 70 StGB) setzt die Beschlagnahme zur Durchsetzung einer Ersatzforderung nach Art. 71 StGB i.V.m. Art. 263 Abs. 1 lit. e StPO **keinen Zusammenhang mit der untersuchten Straftat** voraus (Bestätigung von BGE 140 IV 57). Es ist unerheblich, ob die beschlagnahmten Vermögenswerte aus legaler Tätigkeit stammen oder mit verjährten Handlungen zusammenhängen, solange sie dem Täter wirtschaftlich zuzurechnen sind und die zugrunde liegende Ersatzforderung auf nicht verjährten Straftaten beruht (E. 9.2.1, E. 9.3).
+- **Einschlägig für**: Art. 71 Abs. 1 StGB, Art. 70 Abs. 2 StGB, Art. 263 Abs. 1 lit. e StPO, BGE 140 IV 57.
+
+---
+
 ### [BGer 7B_183/2026 vom 22. September 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-183-2026_2026-09-22.html) E. 2.1.3 und 2.3.2 — Zivilrechtliche Vergleiche reduzieren Deliktsumme nicht; Rückerstattungsvorbehalt bei provisorischer Beschlagnahme zwingend
 - **Thema**: Beschlagnahme; Einziehung und Ersatzforderung trotz zivilrechtlichem Vergleich; Rückerstattungsvorbehalt; Kostenverteilung bei teilweisem Obsiegen.
 - **Sachverhalt**: Die Staatsanwaltschaft Bischofszell erhob Anklage gegen A.________ wegen gewerbsmässigen Betrugs, Urkundenfälschung, Fälschung von Ausweisen und Geldwäscherei. Vermögenswerte von rund Fr. 240'000.-- waren beschlagnahmt worden (reduziert auf Fr. 192'393.05). Das Bezirksgericht Arbon ordnete die Beschlagnahme einer weiteren Restzahlung von Fr. 299'000.-- aus einem Liegenschaftsverkauf an; das Obergericht Thurgau reduzierte auf Fr. 152'896.70. Die Beschwerdeführerin machte geltend, sie habe mit mehreren Geschädigten zivilrechtliche Vereinbarungen getroffen (Desinteresseerklärung, Ratenzahlungsvereinbarung, Saldovereinbarung im Scheidungsverfahren).
@@ -247,4 +261,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 7. Oktober 2026*
+*Letzte Aktualisierung: 13. November 2026*

@@ -2,10 +2,14 @@
 title: "Art. 5 VwVG — Begriff der Verfügung"
 weight: 5
 date: 2026-05-23
-lastmod: 2026-11-09
+lastmod: 2026-11-13
 description: "Praxiskommentar zu Art. 5 VwVG: Begriff und Strukturmerkmale der Verfügung, Abgrenzung zu Realakten, Verwaltungsverordnungen und Auskünften, Allgemeinverfügung, materieller Verfügungsbegriff und Rechtsschutz bei Formfehlern."
 tags: ["VwVG", "Verfügung", "Verwaltungsverfahren", "Verwaltungsrecht", "Materieller Verfügungsbegriff", "Allgemeinverfügung", "Realakt", "Feststellungsverfügung", "Praxiskommentar"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aktualisierung mit neuem Leitentscheid BGer 1C_95/2026 vom 17.09.2026: Einbau der Rechtsprechung zur Abgrenzung der Hoheitlichkeit und des Verfügungsbegriffs bei Wettbewerbsjurys / Studienaufträgen nach SIA 143 (Abschnitt A.1 und A.4 neu) sowie Nachführung von Prüfschema, Praxishinweisen und Frontmatter."
   - date: 2026-11-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -67,7 +71,7 @@ Die Prüfung, ob ein Verwaltungshandeln eine Verfügung im Sinne von Art. 5 VwVG
 
 Eine Verfügung setzt begrifflich voraus, dass sie von einer **Behörde** erlassen wird. Massgebend ist die funktionelle Behördeneigenschaft: Als Behörde gilt jedes Organ, das mit der Erfüllung öffentlicher Aufgaben des Bundes betraut und dabei mit hoheitlichen Befugnissen ausgestattet ist (vgl. Art. 1 Abs. 2 VwVG). Darunter fallen die Departemente, Bundesämter, eidgenössischen Kommissionen, öffentlich-rechtlichen Anstalten (z.B. ETH, ENSI, FINMA) sowie Private, denen durch Bundesgesetz öffentlich-rechtliche Verwaltungsbefugnisse übertragen wurden (Beliehene; Art. 1 Abs. 2 lit. e VwVG).
 
-Die Anordnung muss zudem **einseitig** und **hoheitlich** ergehen. Die Behörde tritt der betroffenen Person im Über-/Unterordnungsverhältnis mit Befehlskraft (*imperium*) gegenüber. Fehlt es an der einseitigen Ausübung staatlicher Hoheitsgewalt, liegt keine Verfügung vor.
+Die Anordnung muss zudem **einseitig** und **hoheitlich** ergehen. Die Behörde tritt der betroffenen Person im Über-/Unterordnungsverhältnis mit Befehlskraft (*imperium*) gegenüber. Fehlt es an der einseitigen Ausübung staatlicher Hoheitsgewalt, liegt keine Verfügung vor. Gremien oder Ausschüsse ohne öffentlich-rechtliche Entscheidungskompetenz erlassen keine Verfügungen ([BGer 1C_95/2026 vom 17. September 2026 E. 2–3](https://mcp.opencaselaw.ch/entscheid/bger_1C_95_2026#e-2)).
 
 ### 2. Kasuistik: Behördliche Anordnung an die eigene Verwaltungseinheit
 
@@ -83,7 +87,15 @@ Tritt das Gemeinwesen dem Bürger nicht mit autoritativer Befehlskraft, sondern 
 
 Tritt die Behörde trotz vertraglicher Verhandlungen einseitig auf und setzt Bedingungen autoritativ fest, liegt eine Anordnung vor. Die Praxis grenzt strikt ab: Subventionsverträge nach Art. 16 ff. SuG binden beide Parteien vertraglich; lehnt die Behörde ein Subventionsgesuch jedoch einseitig ab oder kürzt sie den Förderbeitrag, hat dies zwingend in Verfügungsform zu erfolgen ([BGE 141 II 361 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-141-II-361_2015.html#consideration_2.2)).
 
-> **Leitsatz.** Erteilt sich die Verwaltung zur Erfüllung öffentlicher Aufgaben selbst eine Ausnahmebewilligung von gesetzlichen Verboten, stellt dieser Hoheitsakt eine Verfügung dar, sofern dadurch Rechtsschutzinteressen von Nachbarn oder beschwerdeberechtigten Organisationen berührt werden.
+### 4. Abgrenzung: Wettbewerbsjurys, Beurteilungsgremien und private/hybride Studienaufträge (SIA 143)
+
+Eine bedeutsame Abgrenzungsfrage betrifft die Rechtsnatur von Entscheiden fachtechnischer Gremien bei Architektur- und Planungswettbewerben oder Studienaufträgen, an denen die öffentliche Hand beteiligt ist.
+
+> **Wettbewerbsjury im nicht dem Beschaffungsrecht unterstellten Studienauftrag: BGer 1C_95/2026**  
+> Ein Beurteilungsgremium (Jury) bewertete und rangierte im Rahmen eines privaten bzw. hybriden Studienauftrags nach den Regeln der SIA-Ordnung 143 eingereichte Projektvorschläge. Ein unterlegener Teilnehmer focht das Juryergebnis mit verwaltungsrechtlicher Beschwerde an und machte geltend, das Gremium habe in funktioneller Hinsicht wie eine Behörde hoheitlich gehandelt, zumal auch öffentlich-rechtliche Körperschaften beteiligt waren.  
+> Das Bundesgericht verneinte das Vorliegen einer Verfügung nach Art. 5 VwVG: Eine Wettbewerbsjury bzw. ein Beurteilungsgremium, das in einem privaten oder hybriden Studienauftrag / Architekturwettbewerb nach der SIA-Ordnung 143 eingesetzt wird, handelt nicht hoheitlich mit *imperium*. Die Bewertung und Rangierung der Arbeiten stellt eine privatrechtliche Beurteilung dar. Mangels Unterstellung des Verfahrens unter das öffentliche Beschaffungsrecht (BöB/IVöB) begründet das Juryergebnis keine anfechtbare Hoheitsverfügung im Sinne von Art. 5 Abs. 1 VwVG, selbst wenn öffentlich-rechtliche Körperschaften oder Grundeigentümer am Verfahren beteiligt sind ([BGer 1C_95/2026 vom 17. September 2026 E. 2–3](https://mcp.opencaselaw.ch/entscheid/bger_1C_95_2026#e-2)).
+
+> **Leitsatz.** Erteilt sich die Verwaltung zur Erfüllung öffentlicher Aufgaben selbst eine Ausnahmebewilligung von gesetzlichen Verboten, stellt dieser Hoheitsakt eine Verfügung dar, sofern dadurch Rechtsschutzinteressen von Nachbarn oder beschwerdeberechtigten Organisationen berührt werden. Dagegen begründen fachliche Beurteilungen von Wettbewerbsjurys oder Studienauftragsgremien nach privatem Verbandsrecht (z.B. SIA 143) ausserhalb des Beschaffungsrechts mangels Hoheitlichkeit keine Verfügungen im Sinne von Art. 5 VwVG.
 
 ---
 
@@ -285,9 +297,10 @@ Verwaltungsbehörden erledigen Gesuche im Massengeschäft häufig durch formlose
 ### Für Bürgerinnen, Bürger, Unternehmen und ihre Rechtsvertretung
 
 1. **Nicht auf das Etikett vertrauen:** Ergeht ein behördliches Schreiben ohne die Bezeichnung «Verfügung» oder ohne Rechtsmittelbelehrung, das materiell Ihre Rechtsstellung berührt (z.B. Kürzung von Beiträgen, Verweigerung einer Bewilligung, Festsetzung von Gebühren), müssen Sie unverzüglich innert der gesetzlichen Frist (i.d.R. 30 Tage, im Beschaffungsrecht 10 bzw. 20 Tage) Rechtsmittel ergreifen oder vorsorglich den Erlass einer formellen Verfügung verlangen ([BGE 150 I 183 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-183_2024.html#consideration_3.4); [BS APG VD.2021.142](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_VD-2021-142_2021-12-28.html)).
-2. **Fristenlauf ab tatsächlicher Kenntnisnahme beachten:** Ein Eröffnungsmangel (z.B. Versand per A-Post statt Einschreiben) hindert den Lauf der Beschwerdefrist nicht, sobald Sie die Anordnung tatsächlich erhalten haben und ihren Regelungsgehalt erkennen konnten ([BGE 150 I 183 E. 3.5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-183_2024.html#consideration_3.5.1)).
-3. **Vorsorgliche Massnahmen bei Abweisungen sofort beantragen:** Wenn ein Gesuch abgewiesen oder darauf nicht eingetreten wird (Negativverfügung nach Art. 5 Abs. 1 lit. c VwVG), nützt die aufschiebende Wirkung einer Beschwerde nichts. Verlangen Sie mit der Beschwerdeschrift ausdrücklich die Anordnung positiver vorsorglicher Massnahmen nach Art. 56 VwVG ([BGE 117 V 185 E. 1b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-117-V-185_1991-09-10.html#consideration_1b)).
-4. **Vorgehen gegen Realakte über Art. 25a VwVG:** Greift der Staat durch tatsächliches Verhalten (Informationen, Kampagnen, bauliche Verrichtungen) in Ihre Rechte ein, erheben Sie keine direkte Beschwerde, sondern stellen Sie bei der zuständigen Fachbehörde ein schriftliches Begehren auf Erlass einer Verfügung über Realakte gemäss Art. 25a VwVG ([BGE 144 II 233 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-233_2018.html#consideration_4.1)).
+2. **Rechtsnatur von Wettbewerbsentscheiden prüfen:** Entscheide einer Jury oder eines Beurteilungsgremiums in privaten oder hybriden Studienaufträgen (z.B. nach SIA 143) sind keine anfechtbaren Verfügungen nach Art. 5 VwVG, wenn das Verfahren nicht dem öffentlichen Beschaffungsrecht untersteht ([BGer 1C_95/2026 vom 17. September 2026 E. 2–3](https://mcp.opencaselaw.ch/entscheid/bger_1C_95_2026#e-2)). Ansprüche gegen die Wertung sind allenfalls zivilrechtlich geltend zu machen, nicht mit verwaltungsrechtlicher Beschwerde.
+3. **Fristenlauf ab tatsächlicher Kenntnisnahme beachten:** Ein Eröffnungsmangel (z.B. Versand per A-Post statt Einschreiben) hindert den Lauf der Beschwerdefrist nicht, sobald Sie die Anordnung tatsächlich erhalten haben und ihren Regelungsgehalt erkennen konnten ([BGE 150 I 183 E. 3.5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-183_2024.html#consideration_3.5.1)).
+4. **Vorsorgliche Massnahmen bei Abweisungen sofort beantragen:** Wenn ein Gesuch abgewiesen oder darauf nicht eingetreten wird (Negativverfügung nach Art. 5 Abs. 1 lit. c VwVG), nützt die aufschiebende Wirkung einer Beschwerde nichts. Verlangen Sie mit der Beschwerdeschrift ausdrücklich die Anordnung positiver vorsorglicher Massnahmen nach Art. 56 VwVG ([BGE 117 V 185 E. 1b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-117-V-185_1991-09-10.html#consideration_1b)).
+5. **Vorgehen gegen Realakte über Art. 25a VwVG:** Greift der Staat durch tatsächliches Verhalten (Informationen, Kampagnen, bauliche Verrichtungen) in Ihre Rechte ein, erheben Sie keine direkte Beschwerde, sondern stellen Sie bei der zuständigen Fachbehörde ein schriftliches Begehren auf Erlass einer Verfügung über Realakte gemäss Art. 25a VwVG ([BGE 144 II 233 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-144-II-233_2018.html#consideration_4.1)).
 
 ### Für die erstinstanzliche Verwaltungsbehörde
 

@@ -2,10 +2,14 @@
 title: "Art. 257 ZPO — Rechtsschutz in klaren Fällen"
 weight: 257
 date: 2026-07-18
-lastmod: 2026-10-15
-description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen im summarischen Verfahren — unbestrittener/liquider Sachverhalt, klare Rechtslage, Kasuistik bei Mieterausweisungen und Nichteintreten."
+lastmod: 2026-11-13
+description: "Kommentar zu Art. 257 ZPO: Rechtsschutz in klaren Fällen im summarischen Verfahren — unbestrittener/liquider Sachverhalt, klare Rechtslage, Kasuistik bei Mieterausweisungen, Herausgabeklagen nach Zwangsversteigerung und Nichteintreten."
 tags: ["ZPO", "Summarisches Verfahren", "Rechtsschutz in klaren Fällen", "Mieterausweisung", "Liquider Beweis", "Kasuistik"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    note: "Einarbeitung von BGer 5A_775/2026 vom 22.09.2026 (E. 3.1–3.2): Herausgabe-/Ausweisungsklagen nach Zwangsversteigerung (Art. 656 Abs. 2 ZGB, Art. 641 Abs. 2 ZGB) und Unbeachtlichkeit dilatorischer Einwendungen (parallele Beschwerden, angebliche Mietverträge unter Zwangsverwaltung gemäss Art. 96 SchKG)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -46,7 +50,7 @@ revisions:
 
 **Rz. 5** **Anforderungen an die Einwendungen des Beklagten**: 
 * Die beklagte Partei muss ihre tatsächlichen Einwendungen oder Einreden **nicht beweisen**. Es genügt, dass sie diese **substanziiert und schlüssig vorträgt**, sodass der Sachverhalt nicht mehr als unbestritten oder liquid gelten kann ([BGE 138 III 620 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-620_2012.html#consideration_6.2)).
-* Offensichtlich haltlose, unsubstanziierte oder querulatorische Bestreitungen bringen den Rechtsschutz hingegen nicht zu Fall ([BGE 141 III 262 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-262_2015.html#consideration_3.2)).
+* Offensichtlich haltlose, unsubstanziierte oder rein dilatorische Bestreitungen bringen den Rechtsschutz hingegen nicht zu Fall ([BGE 141 III 262 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-262_2015.html#consideration_3.2)). So vermögen bloss behauptete Gegenforderungen, nichtige oder von Nichtberechtigten geschlossene Verträge sowie parallele Rechtsmittel ohne aufschiebende Wirkung die Liquidität nicht umzustossen ([BGer 5A_775/2026 vom 22. September 2026 E. 3.1–3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_775_2026#e-3-1)).
 
 #### 2. Klare Rechtslage (lit. b)
 
@@ -82,6 +86,9 @@ Ein Arbeitgeber verlangte gestützt auf Art. 339a OR und Art. 257 ZPO die Heraus
 
 **Rz. 15** **Fallgruppe 5: Geschäftsraumausweisungen vor Handelsgericht**
 Besteht zwischen zwei im Handelsregister eingetragenen Rechtssubjekten ein Streit über die Räumung von Geschäftsliegenschaften, ist das Handelsgericht auch für das Verfahren um Rechtsschutz in klaren Fällen sachlich zuständig ([BGE 142 III 515 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-515_2016.html#consideration_2.2)).
+
+**Rz. 15a** **Fallgruppe 6: Herausgabe und Ausweisung nach Zwangsversteigerung (Art. 641 Abs. 2 ZGB, Art. 656 Abs. 2 ZGB)**
+Der Erwerber von Grundstücken in einer betreibungsrechtlichen Versteigerung erwirbt das Eigentum originär und ausserbuchlich im Moment des Zuschlags (Art. 656 Abs. 2 ZGB). Verweigert der bisherige Eigentümer oder Bewohner die Räumung, ist der Rechtsschutz in klaren Fällen nach Art. 257 ZPO für die Ausweisung gestützt auf die Eigentumsklage (Art. 641 Abs. 2 ZGB) gegeben, solange die Zuschlagsentscheide weder aufgehoben noch rechtskräftig suspendiert sind ([BGer 5A_775/2026 vom 22. September 2026 E. 3.1–3.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_775_2026#e-3-1)). Die Sach- und Rechtslage bleibt liquid; weder parallele kantonale Beschwerden noch behauptete Verzugszinsen, angebliche Gegenforderungen oder ein formungültiger bzw. rückdatierter Mietvertrag einer Nichtberechtigten (Grundstück unter Zwangsverwaltung gemäss Art. 96 SchKG) bringen den klaren Fall zu Fall.
 
 ### V. Kantonale Praxisfragen
 

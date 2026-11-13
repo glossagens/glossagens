@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 248a StPO"
 weight: 99
 date: "2024-01-01"
-lastmod: "2026-10-26"
-description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug, Triage-Pflichten)."
-tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "BGer 7B_815/2026", "BGer 7B_978/2025"]
+lastmod: "2026-11-13"
+description: "Übersicht der massgeblichen Rechtsprechung des Bundesgerichts zu Art. 248a StPO (Zuständigkeit, Verfahren, Substanziierung, Fristen, Sachverständigenbeizug, Kostenverlegung, Triage-Pflichten)."
+tags: ["Rechtsprechung", "StPO", "Entsiegelung", "Zwangsmassnahmengericht", "Geheimnisschutz", "Art. 248a StPO", "BGer 7B_1409/2025", "BGer 7B_815/2026", "BGer 7B_978/2025"]
 revisions:
+  - date: "2026-11-13"
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_1409/2025 vom 26.10.2026 (publiziert 12.11.2026): Bestätigung des Entsiegelungsverfahrens als selbstständiges Gerichtsverfahren (BGer 7B_11/2026), Pflicht zur sofortigen Kostenverlegung durch das Entsiegelungsgericht bei Verfahrensabschluss (Verbot des 'Belassens bei der Hauptsache' bei Verfahrensabschluss durch Verwaltungsstrafbehörden) und Geltung der Art. 417–426 StPO (restriktive Kostenauferlegung an unbeteiligte Dritte nur nach Art. 417 und Art. 420 StPO)."
   - date: "2026-10-26"
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -296,6 +300,22 @@ revisions:
 - **E. 2.2:** Zweck der Mitwirkungs- und Substanziierungsobliegenheit: Ermöglichung der gerichtlichen Triage; Verbot überspannter Anforderungen vor dem Hintergrund des Untersuchungsgrundsatzes (Art. 6 StPO).
 - **E. 3.3:** Abgrenzung beim Arztgeheimnis / Patientendaten (Art. 264 Abs. 1 lit. c, Art. 171 StPO): Vage Vermutungen eines Beschuldigten ohne Angabe konkreter Speicherorte/Ordner genügen nicht, um eine Aussonderungspflicht des ZMG für Altdaten auszulösen.
 - **E. 4.2–4.3:** Anwaltsgeheimnis: Angabe von Namen und konkreten E-Mail-Adressen reicht im Regelfall vollkommen für eine elektronische Suchfilterung und Aussonderung aus. Das Verlangen zusätzlicher zeitlicher Eingrenzungen durch das ZMG ist ohne Vorliegen besonderer Umstände bundesrechtswidrig.
+
+---
+
+### 19. [BGer 7B_1409/2025](https://mcp.opencaselaw.ch/entscheid/bger_7B_1409_2025#e-2) vom 26.10.2026 (publiziert 12.11.2026) — Selbstständiges Gerichtsverfahren und Pflicht zur sofortigen Kostenverlegung durch das Entsiegelungsgericht (Art. 417–426 StPO)
+
+**Datum:** 26. Oktober 2026 | **Signatur:** [BGer 7B_1409/2025 vom 26. Oktober 2026 E. 2](https://mcp.opencaselaw.ch/entscheid/bger_7B_1409_2025#e-2) | **Besetzung:** II. strafrechtliche Abteilung
+
+**Kernsatz:** Das gerichtliche Entsiegelungsverfahren nach Art. 248a StPO (sowie Art. 97 Abs. 1 VStrR) ist ein selbstständiges erstinstanzliches Gerichtsverfahren (Bestätigung von BGer 7B_11/2026 vom 25. Juni 2026). Das Entsiegelungsgericht muss die Gerichtskosten des Entsiegelungsverfahrens bei dessen Abschluss zwingend selbst verlegen; ein Verweis an das Hauptverfahren («bei der Hauptsache belassen») ist unzulässig, wenn die Hauptsache durch die Verwaltungsbehörde abgeschlossen werden kann. Für die Kostenverlegung finden die allgemeinen Kostennormen der Art. 417–426 StPO Anwendung (nicht Art. 428 StPO und nicht Art. 25 Abs. 4 VStrR). Nicht beschuldigten Drittpersonen dürfen Verfahrenskosten einzig unter den restriktiven Voraussetzungen von Art. 417 und Art. 420 StPO auferlegt werden.
+
+**Sachverhalt:** In einem Verwaltungsstrafverfahren wegen Verdachts von Widerhandlungen gegen das Bundesgesetz über die direkte Bundessteuer und das Mehrwertsteuergesetz verlangte die Eidgenössische Steuerverwaltung (ESTV) die Entsiegelung sichergestellter Daten. Die Beschwerdekammer des Bundesstrafgerichts hiess das Gesuch teilweise gut, verzichtete jedoch auf eine Verlegung der Gerichtskosten und bestimmte stattdessen, die Kosten des Entsiegelungsverfahrens seien bei der Hauptsache zu belassen. Dagegen erhob eine am Verfahren beteiligte, nicht beschuldigte Drittgesellschaft Beschwerde ans Bundesgericht. Das Bundesgericht hiess die Beschwerde bezüglich der Kostenregelung gut.
+
+**Erwägungen:**
+- **E. 2.1:** Bestätigung der Grundsatzentscheidung 7B_11/2026 vom 25. Juni 2026: Das Entsiegelungsverfahren ist ein selbstständiges erstinstanzliches gerichtliches Verfahren. Das Gericht muss bei Verfahrensabschluss zwingend über die Kosten des Entsiegelungsverfahrens entscheiden; ein Verweis der Kostenfolgen an die Hauptsache ist bundesrechtswidrig, wenn das Hauptverfahren durch die Verwaltungsbehörde erledigt werden kann.
+- **E. 2.2:** Für die Kostenverlegung im Entsiegelungsverfahren gelten die Art. 417–426 StPO. Weder Art. 428 StPO (Rechtsmittelkosten) noch Art. 25 Abs. 4 VStrR sind anwendbar.
+- **E. 2.3:** Schutz unbeteiligter Dritter vor Kostenfolgen: Eine Kostenauferlegung an Dritte (Nichtbeschuldigte) kann sich einzig auf die restriktiven Bestimmungen von Art. 417 StPO (vorsätzliche oder grobfahrlässige Bewirkung von Kosten) und Art. 420 StPO stützen.
+
 
 
 
