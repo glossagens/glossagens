@@ -13,7 +13,7 @@ audit-report.json
 # Judge-Jobs eines Audit-Laufs — ephemer, enthalten Entscheidtexte.
 # Dauerhaft ist nur der Verdikt-Ledger (agent/skills/glossagens-audit/verdicts/).
 audit-jobs/
-scratch/entscheide/
+scratch/
 
 # Lokaler Zustand von wrangler (mcp/)
 mcp/.wrangler/
