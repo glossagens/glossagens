@@ -471,7 +471,10 @@ def sr_aus_frontmatter(fm):
 def fehlende_bundles(dateien):
     """Bundles, deren Daten die `{{< wortlaut >}}`-Shortcodes in `dateien` brauchen,
     die es aber noch nicht gibt. Für Beiträge, die ohne Daten kommen (pr-build.yml,
-    Branches chat/…); ein Bundle muss dafür nicht existieren, nur das Gesetz."""
+    Branches chat/…); ein Bundle muss dafür nicht existieren, nur das Gesetz.
+    Kantonale Bestimmungen (ebene: kantonal) werden hier übersprungen, da deren
+    Wortlaut nicht automatisiert bezogen werden kann, sondern durch den prüfenden
+    Agenten an der kantonalen Quelle geprüft und abgelegt werden muss."""
     bundles = []
     for datei in dateien:
         datei = (REPO / datei).resolve() if not Path(datei).is_absolute() else Path(datei)
@@ -483,6 +486,11 @@ def fehlende_bundles(dateien):
             gesetz, slug = (g[1] if g else eigen[0]), (a[1] if a else eigen[1])
             if not gesetz or not slug or (REPO / "data" / "wortlaut" / gesetz / f"{slug}.json").exists():
                 continue
+            gesetz_fm_pfad = REPO / "content" / "kommentar" / gesetz / "_index.md"
+            if gesetz_fm_pfad.exists():
+                gesetz_fm = gesetz_fm_pfad.read_text(encoding="utf-8")
+                if re.search(r"^ebene:\s*kantonal", gesetz_fm, re.M):
+                    continue
             bundle = Path("content/kommentar") / gesetz / slug
             if bundle not in bundles:
                 bundles.append(bundle)

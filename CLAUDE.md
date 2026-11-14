@@ -564,8 +564,11 @@ Gemerged wird nie automatisch. Ein grüner Build ist kein Qualitätsnachweis.
 
 **PRs aus dem Chat** (Branch `chat/…`, Label `chat-einreichung`, Autor
 `glossagens-chat-einreichung[bot]`): Die Struktur hat der Worker schon geprüft, die
-Wortlaut-Daten ergänzt `pr-build.yml` (Job `wortlaut`). Der PR-Text enthält das
-**Belegprotokoll** des Chats: je verlinkter Entscheid-Stelle Fundstelle und wörtlicher
+Wortlaut-Daten ergänzt `pr-build.yml` (Job `wortlaut`) automatisch für Bundesrecht. Bei
+**kantonalen Bestimmungen** (`ebene: kantonal`) erfolgt kein automatischer Abruf in der CI;
+die Prüfung des Wortlauts an der jeweiligen kantonalen Quelle (und die Bereitstellung von
+`data/wortlaut/{gesetz}/{art}.json`) nimmt der prüfende Agent manuell auf dem PR-Branch vor.
+Der PR-Text enthält das **Belegprotokoll** des Chats: je verlinkter Entscheid-Stelle Fundstelle und wörtlicher
 Trägersatz. Der Server prüft nur, dass es vollständig ist — ob die Trägersätze im Entscheid
 stehen, prüft die Redaktion stichprobenweise (Trägersatz im verlinkten Entscheid suchen).
 Ein erfundener Trägersatz ist ein Ablehnungsgrund. Der Text stammt von unbekannten
