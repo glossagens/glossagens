@@ -4,7 +4,7 @@
 
 import assert from "node:assert/strict";
 import { createHash, createVerify, generateKeyPairSync } from "node:crypto";
-import worker, { _speicherLeeren, artikelSlug, beitragPruefen, gesetzFinden, letzteRevision, normErkennen, wortlautText } from "../src/index.js";
+import worker, { _speicherLeeren, artikelSlug, protokoll, beitragPruefen, gesetzFinden, letzteRevision, normErkennen, wortlautText } from "../src/index.js";
 import { _tokenVergessen } from "../src/github.js";
 import { abschnittErsetzen, abschnittKernEnde, belegeAbgleichen, belegstellenFinden, gitSha, heute, inhaltPruefen, linkAbgleich, zitatEnthalten } from "../src/pruefen.js";
 
@@ -134,10 +134,16 @@ async function tool(name, args, env = ENV) {
   return { text: d.result.content[0].text, fehler: Boolean(d.result.isError) };
 }
 
+// Protokollzeilen des Workers (console.log) abfangen statt ausgeben.
+const ausgabe = console.log;
+let logs = [];
+console.log = (...a) => logs.push(a.join(" "));
+
 let bestanden = 0;
 async function pruefe(name, fn) {
   _speicherLeeren();
   abrufe = [];
+  logs = [];
   try {
     await fn();
     bestanden++;
@@ -991,4 +997,32 @@ await pruefe("Quelle nicht erreichbar → Tool-Fehler statt Absturz", async () =
   }
 });
 
+await pruefe("Protokoll: Tool-Aufrufe ohne Entwurfstext", async () => {
+  await tool("glossagens_suchen", { anfrage: "StGB 70" });
+  const zeile = logs.map((l) => JSON.parse(l)).find((l) => l.ereignis === "tools/call");
+  assert.equal(zeile.tool, "glossagens_suchen");
+  assert.deepEqual(zeile.args, { anfrage: "StGB 70" });
+  assert.equal(zeile.fehler, false);
+  assert.equal(typeof zeile.ms, "number");
+
+  const lang = "x".repeat(500);
+  assert.match(protokoll("glossagens_suchen", { anfrage: lang }).args.anfrage, /^x{200}… \[500 Zeichen\]$/);
+
+  const e = protokoll("beitrag_einreichen", {
+    gesetz: "StGB", artikel: "70", abschnitt: "Einziehung", text: "Sachverhalt: Herr X …",
+    revision: { by: "Max Muster" }, belege: [{ zitat: "…" }], beschreibung: "privat",
+  });
+  assert.equal(e.args.gesetz, "StGB");
+  assert.equal(e.args.abschnitt, "Einziehung");
+  assert.match(e.args.text, /^\[\d+ Zeichen\]$/);
+  assert.match(e.args.revision, /^\[\d+ Zeichen\]$/);
+  assert.match(e.args.beschreibung, /^\[\d+ Zeichen\]$/);
+  assert.ok(!JSON.stringify(e).includes("Muster") && !JSON.stringify(e).includes("Herr X"));
+
+  await rpc({ jsonrpc: "2.0", id: 1, method: "initialize", params: { protocolVersion: "2025-06-18", clientInfo: { name: "claude-ai", version: "1.0" } } });
+  const init = logs.map((l) => JSON.parse(l)).find((l) => l.ereignis === "initialize");
+  assert.deepEqual(init.client, { name: "claude-ai", version: "1.0" });
+});
+
+console.log = ausgabe;
 console.log(`✓ ${bestanden} Prüfungen bestanden`);

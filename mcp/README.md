@@ -79,6 +79,25 @@ Streamable HTTP, **zustandslos**: `POST /mcp` mit JSON-RPC, Antwort als JSON, ke
 Session, kein SSE (`GET /mcp` → 405). `GET /` beschreibt den Server. Unterstützte
 Protokollversionen: `2025-06-18`, `2025-03-26`, `2024-11-05`.
 
+## Nutzung auswerten
+
+Cloudflare-Dashboard → Workers → glossagens-mcp → Observability.
+
+- **Logs**: jeder Aufruf (Pfad, Status, Dauer, Land), dazu je eine JSON-Zeile
+  - `ereignis: "initialize"` mit `client` (Name und Version des Clients, z. B. claude.ai, Claude Code)
+  - `ereignis: "tools/call"` mit `tool`, `args`, `ms`, `fehler`
+
+  Filter z. B. `$metadata.message` enthält `"tool":"kommentar_lesen"`. Keine IP im Protokoll.
+  Bei `beitrag_pruefen`/`beitrag_einreichen` stehen nur `gesetz`, `artikel`, `teil`,
+  `thema`, `abschnitt`, `version` im Klartext, von Text, Revision, Belegen und Beschreibung
+  nur die Länge (sie können Angaben aus dem Chat enthalten). Sonst werden Zeichenketten
+  über 200 Zeichen gekürzt (`protokoll()` in `src/index.js`).
+- **Traces** (`[observability.traces]`): ausgehende Abrufe (glossagens.ch, GitHub,
+  bger-update) und KV-Zugriffe je Aufruf, mit Dauer.
+
+Cloudflare bewahrt die Daten nur wenige Tage auf (je nach Plan). Für eine Langzeitstatistik
+wäre Workers Analytics Engine der nächste Schritt.
+
 ## Testen
 
 ```sh

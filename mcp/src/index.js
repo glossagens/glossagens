@@ -396,6 +396,7 @@ async function bearbeiten(n, ctx) {
   switch (n.method) {
     case "initialize": {
       const gewuenscht = n.params?.protocolVersion;
+      console.log(JSON.stringify({ ereignis: "initialize", client: n.params?.clientInfo ?? null, protokoll: gewuenscht ?? null }));
       return ok({
         protocolVersion: PROTOKOLLE.includes(gewuenscht) ? gewuenscht : PROTOKOLLE[0],
         capabilities: { tools: { listChanged: false } },
@@ -411,10 +412,17 @@ async function bearbeiten(n, ctx) {
       const name = n.params?.name;
       const args = n.params?.arguments ?? {};
       const tool = werkzeuge(ctx).some((t) => t.name === name) && HANDLER[name];
-      if (!tool) return rpcFehler(n.id, -32602, `Unbekanntes Tool: ${name}`);
+      if (!tool) {
+        console.log(JSON.stringify({ ereignis: "tools/call", tool: String(name), unbekannt: true }));
+        return rpcFehler(n.id, -32602, `Unbekanntes Tool: ${name}`);
+      }
+      const start = Date.now();
       try {
-        return ok({ content: [{ type: "text", text: await tool(args, ctx) }] });
+        const text = await tool(args, ctx);
+        console.log(JSON.stringify(protokoll(name, args, { ms: Date.now() - start, fehler: false })));
+        return ok({ content: [{ type: "text", text }] });
       } catch (e) {
+        console.log(JSON.stringify(protokoll(name, args, { ms: Date.now() - start, fehler: true })));
         // Fachliche Fehler (unbekanntes Gesetz …) gehen als Tool-Ergebnis zurück,
         // damit das Modell sie liest und sich korrigieren kann.
         return ok({ content: [{ type: "text", text: e.message || String(e) }], isError: true });
@@ -423,6 +431,30 @@ async function bearbeiten(n, ctx) {
     default:
       return rpcFehler(n.id, -32601, `Unbekannte Methode: ${n.method}`);
   }
+}
+
+// --- Protokoll -----------------------------------------------------------------
+// Eine Zeile je Tool-Aufruf für Workers Logs (Dashboard → Observability). Keine IP.
+// Entwürfe können Sachverhalte aus dem Chat enthalten: bei beitrag_* nur die
+// Kennungen des Ziels im Klartext, von allem anderen nur die Länge. Sonst werden
+// lange Zeichenketten gekürzt.
+
+const PROTOKOLL_KLARTEXT = new Set(["gesetz", "artikel", "teil", "thema", "abschnitt", "version"]);
+const PROTOKOLL_MAX = 200;
+
+export function protokoll(name, args, extra = {}) {
+  const roh = args && typeof args === "object" && !Array.isArray(args) ? args : {};
+  const entwurf = name === "beitrag_pruefen" || name === "beitrag_einreichen";
+  const aus = {};
+  for (const [k, v] of Object.entries(roh)) {
+    if (entwurf && !PROTOKOLL_KLARTEXT.has(k)) aus[k] = `[${JSON.stringify(v ?? null).length} Zeichen]`;
+    else if (typeof v === "string") aus[k] = v.length > PROTOKOLL_MAX ? `${v.slice(0, PROTOKOLL_MAX)}… [${v.length} Zeichen]` : v;
+    else {
+      const j = JSON.stringify(v ?? null);
+      aus[k] = j.length > PROTOKOLL_MAX ? `[${j.length} Zeichen]` : v;
+    }
+  }
+  return { ereignis: "tools/call", tool: name, args: aus, ...extra };
 }
 
 // --- Daten ------------------------------------------------------------------

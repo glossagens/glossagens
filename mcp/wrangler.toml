@@ -30,5 +30,10 @@ BGER_UPDATE_URL = "https://www.bger-update.ch"
 binding = "EINREICHUNGEN"
 id = "37665ea63be0478eaca0366fe1a4a8ad"
 
+# Workers Logs: jeder Aufruf, dazu eine Zeile je Tool-Aufruf (protokoll() in
+# src/index.js). Traces: ausgehende fetch-Aufrufe und KV-Zugriffe als Spans.
 [observability]
+enabled = true
+
+[observability.traces]
 enabled = true
