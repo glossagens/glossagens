@@ -21,11 +21,9 @@ vertiefen oder ein falsches Zitat korrigieren.
 
 ## Vorschläge aus der aktuellen Rechtsprechung
 
-Aufgrund des täglichen Rechtsprechungs-Monitors (Abgleich von Leitentscheiden u. a. via [bger-update.ch](https://bger-update.ch)) werden hier Bestimmungen zur Neuaufnahme vorgeschlagen, zu denen jüngst praxisprägende Urteile ergangen sind und deren Kommentierung für die Praxis besonderen Mehrwert bietet:
+Aufgrund des täglichen Rechtsprechungs-Monitors (Abgleich von Leitentscheiden u. a. via [bger-update.ch](https://bger-update.ch)) werden hier Bestimmungen zur Neuaufnahme vorgeschlagen, zu denen jüngst praxisprägende Urteile ergangen sind und deren Kommentierung für die Praxis besonderen Mehrwert bietet.
 
-* **Art. 175 DBG (Vollendete Steuerhinterziehung)**:  
-  *Aktuelle Entscheide*: [BGer 9C_253/2026 vom 22.10.2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_253_2026) (publiziert am 11.11.2026)  
-  *Begründung*: Im Zusammenspiel mit dem Nachsteuerverfahren nach Art. 151 DBG stellen sich bei Art. 175 DBG regelmässig komplexe Abgrenzungsfragen zwischen den steuerrechtlichen Mitwirkungspflichten und dem strafprozessualen Verbot des Selbstbelastungszwangs (*nemo tenetur*), den Anforderungen an Vorsatz und Fahrlässigkeit sowie der Strafzumessung (Drittel- bis Dreifachbusse).
+*Derzeit sind alle vorgeschlagenen Bestimmungen aus den jüngsten Rechtsprechungs-Monitoren kommentiert (zuletzt [Art. 138 ZPO](/kommentar/zpo/art-138/), [Art. 66 UVG](/kommentar/uvg/art-066/), [Art. 151 DBG](/kommentar/dbg/art-151/) und [Art. 175 DBG](/kommentar/dbg/art-175/)). Neue Vorschläge werden laufend nachgeführt.*
 
 ## Lücken aus bestehenden Themen
 
