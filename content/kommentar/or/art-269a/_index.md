@@ -1,175 +1,171 @@
 ---
-title: "Art. 269a OR — Nicht missbräuchliche Mietzinse (Bruttorenditenmethode)"
+title: "Art. 269a OR — Nicht missbräuchliche Mietzinse"
 weight: 269
 date: 2026-05-17
-lastmod: 2026-08-18
-description: "Kommentar zu Art. 269a OR: Die gesetzlichen Vermutungen der Nichtmissbräuchlichkeit von Mietzinsen, insbesondere die Bruttorenditenmethode bei Neubauten, die Orts- und Quartierüblichkeit sowie die Anfechtung des Anfangsmietzinses."
-tags: ["OR", "Mietrecht", "Anfechtung", "Mietzins", "Bruttorendite", "Erstmalige Miete"]
+lastmod: 2026-11-14
+description: "Kommentar zu Art. 269a OR: Gesetzliche Vermutungen der Nichtmissbräuchlichkeit (Orts- und Quartierüblichkeit, Kostensteigerungen und Mehrleistungen, Bruttorendite bei Neubauten, Teuerungsausgleich) und Beweislast."
+tags: ["OR", "Mietrecht", "Anfechtung", "Mietzins", "Bruttorendite", "Kostenmiete", "Ortsüblichkeit"]
 revisions:
+  - date: 2026-11-14
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Gesetzeswortlaut auf den Shortcode `wortlaut` umgestellt (Fedlex-Satzbild mit data/wortlaut/or/art-269a.json); Belegstellen und Hyperlinks auf entscheidsuche.ch verlinkt; Pinpoint BGE 140 III 433 E. 3.1.2/3.5 korrigiert; Rechtschreibung (Umlaute) bereinigt; Ausbau der Kommentierung zu lit. a bis f, Praxisfragen (Zürcher und Genfer Praxis) und Lehrmeinungen."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     note: "Audit gegen opencaselaw-MCP: Belegquote 51 % (Urteil B); 31 gestützt (+54 teilw.) von 113 beurteilten Paaren (113 Paare gesamt); Wortlaut: korrekt; 0 nicht existente Referenzen, 2 fehlerhafte Pinpoints."
 ---
 
-## Wortlaut
+## Gesetzeswortlaut
 
-> Mietzinse sind in der Regel nicht missbräuchlich, wenn sie insbesondere:
->
-> a. im Rahmen der orts- oder quartierüblichen Mietzinse liegen;
->
-> b. durch Kostensteigerungen oder Mehrleistungen des Vermieters begründet sind;
->
-> c. bei neueren Bauten im Rahmen der kostendeckenden Bruttorendite liegen;
->
-> d. lediglich dem Ausgleich einer Mietzinsverbilligung dienen, die zuvor durch Umlagerung marktüblicher Finanzierungskosten gewahrt wurde, und in einem dem Mieter im Voraus bekanntgegebenen Zahlungsplan festgelegt sind;
->
-> e. lediglich die Teuerung auf dem risikotragenden Kapital ausgleichen;
->
-> f. das Ausmass nicht überschreiten, das Vermieter- und Mieterverbände oder Organisationen, die ähnliche Interessen wahrnehmen, in ihren Rahmenverträgen empfehlen.
+{{< wortlaut >}}
 
-## Systematik und Einordnung
+## Überblick und Bedeutung
 
-Art. 269a OR normiert eine gesetzliche Vermutung der Nichtmissbräuchlichkeit. Er steht in engem Zusammenhang mit dem absoluten Missbräuchlichkeitskriterium des Art. 269 OR (übersetzter Ertrag) und der Anfechtungsmöglichkeit des Anfangsmietzinses nach Art. 270 OR. Die Bestimmung wurde durch das Bundesgesetz vom 15. Dezember 1989 (AS 1990 513) in das Obligationenrecht eingefuegt.
+### I. Gesetzliche Systematik und Normzweck
 
-Die Rechtsprechung unterscheidet zwischen dem absoluten Kriterium des Art. 269 OR (Nettorendite bzw. uebersetzter Ertrag) und den relativen Kriterien des Art. 269a OR. Bei Altliegenschaften hat das absolute Kriterium der orts- oder quartierueblichen Mietzinse (Art. 269a lit. a OR) Vorrang vor der Nettorenditeberechnung (BGE 144 III 514, E. 3). Bei Neubauten und grundlegend renovierten Liegenschaften kommt dagegen der Bruttorenditenmethode (Art. 269a lit. c OR) die zentrale Bedeutung zu.
+Art. 269a OR statuiert einen gesetzlichen Katalog von Kriterien, bei deren Vorliegen Mietzinse **in der Regel nicht missbräuchlich** sind. Die Norm bildet das gesetzliche Gegengewicht zur Generalklausel von [Art. 269 OR](file:///Users/jonasachermann/repos/glossagens/content/kommentar/or/art-269/_index.md), wonach Mietzinse missbräuchlich sind, wenn damit ein übersetzter Ertrag aus der Mietsache erzielt wird oder wenn sie auf einem offensichtlich übersetzten Kaufpreis beruhen.
 
-## Erstmalige Miete und Anfechtung (Art. 270 OR)
+Die Bestimmung wurde im Rahmen der Revision des Miet- und Pachtrechts vom 15. Dezember 1989 (in Kraft seit 1. Juli 1990; BBl 1985 I 1389 ff., S. 1488 f.) geschaffen. Der Gesetzgeber bezweckte damit einen doppelten Ausgleich: Einerseits sollen Mieter vor spekulativen Mietzinsexzessen geschützt werden; andererseits soll dem Vermieter eine angemessene, kostendeckende und wirtschaftlich tragfähige Bewirtschaftung seines Eigentums ermöglicht werden, ohne dass dieser durch eine starre Kostenmiete gegenüber Neuerwerbern dauerhaft benachteiligt wird ([BGE 122 III 257 E. 4a/bb](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-122-III-257_1996-06-04.html)).
 
-Art. 270 Abs. 1 OR gewaehrt dem Mieter das Recht, den Anfangsmietzins innert 30 Tagen nach Uebernahme der Sache bei der Schlichtungsbehoerde als missbraeuchlich im Sinne der Art. 269 und 269a OR anzufechten und dessen Herabsetzung zu verlangen, wenn:
+Die Aufzählung in Art. 269a OR ist durch das Wort «insbesondere» nicht abschliessend, normiert jedoch die praxisprägenden Vermutungstatbestände.
 
-- a. er sich wegen einer persoenlichen oder familiaeren Notlage oder wegen der Verhaeltnisse auf dem oertlichen Markt fuer Wohn- und Geschaeftsraeume zum Vertragsabschluss gedaengt sah; oder
-- b. der Vermieter den Anfangsmietzins gegenueber dem frueheren Mietzins fuer dieselbe Sache erheblich erhoeht hat.
+### II. Verhältnis von relativer und absoluter Methode
 
-Die Anfechtung des Anfangsmietzinses richtet sich nach denselben Kriterien wie die Missbraeuchlichkeitspruefung im laufenden Mietverhaeltnis, wobei jedoch die Beweislast besondere Bedeutung erlangt (BGE 147 III 431, E. 3.2; BGE 148 III 209, E. 3.2). Unter der 2. Alternative von Art. 270 Abs. 1 lit. a OR (Verhaeltnisse auf dem oertlichen Markt fuer Wohnraeume) genuegt der Nachweis der Wohnungsnot allein; der Mieter muss nicht zusaetzlich eine persoenliche oder familiare Notlage dartun (BGE 142 III 442).
+Das schweizerische Mietpreisrecht beruht auf dem dualen System von relativer und absoluter Methode:
 
-### Begriff der Altliegenschaft
+1. **Relative Methode (Vertrauensprinzip)**: Im laufenden Mietverhältnis wird vermutet, dass der bisher vereinbarte Mietzins die Parteien bindet. Anpassungen (Mietzinserhöhungen nach [Art. 269d OR](file:///Users/jonasachermann/repos/glossagens/content/kommentar/or/art-269d/_index.md) oder Herabsetzungsbegehren nach Art. 270a OR) werden ausschliesslich anhand der Veränderung der Kostenfaktoren seit dem letzten massgebenden Stichtag berechnet:
+   - Veränderung des hypothekarischen Referenzzinssatzes (Art. 12a VMWG);
+   - Teuerungsausgleich auf dem risikotragenden Eigenkapital (Art. 269a lit. e OR i.V.m. Art. 16 VMWG, max. 40 %);
+   - Allgemeine Kostensteigerungen und wertvermehrende Investitionen (Art. 269a lit. b OR i.V.m. Art. 14 VMWG).
 
-Eine Liegenschaft ist alt, wenn ihre Erstellung oder ihr letzter Erwerb beim Anfang der Miete mindestens 30 Jahre zurueckliegt (BGE 144 III 514, E. 3). Ein 26-27 Jahre altes Gebaeude qualifiziert sich damit nicht als Altbaute (BGE 140 III 433, E. 3.2). Jede formelle Handaenderung setzt die 30-Jahre-Frist neu in Lauf (4A_583/2023, E. 3.2). Fuer Altliegenschaften hat das Kriterium der Orts- und Quartierueblichkeit (Art. 269a lit. a OR) Vorrang vor der Nettorenditeberechnung (BGE 144 III 514, E. 3.2).
+2. **Absolute Methode (Kostenmiete und Marktmiete)**: Überprüft die absolute Angemessenheit des Mietzinses losgelöst von früheren Vertragsgrundlagen. Sie greift namentlich bei:
+   - Der Anfechtung des Anfangsmietzinses gemäss Art. 270 OR;
+   - Der absoluten Einrede des Vermieters zur Abwehr eines Herabsetzungsbegehrens (Einrede des unzureichenden Ertrags nach Art. 269 OR bzw. der Orts- und Quartierüblichkeit nach Art. 269a lit. a OR; [BGE 121 III 163](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-121-III-163_1995-06-06.html); [BGE 122 III 257 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-122-III-257_1996-06-04.html)).
 
-## Lit. a: Orts- und quartieruebliche Mietzinse
+| Kriterium | Dogmatische Zuordnung | Anwendungsbereich | Massgebliche Rechtsprechung |
+|---|---|---|---|
+| **Nettorendite** (Art. 269 OR) | Absolutes Kostenkriterium | Neubauten & Bauten < 30 Jahre; Schranke für Ertrag | [BGE 147 III 14](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-14_2021.html) |
+| **Bruttorendite** (Art. 269a lit. c OR) | Absolutes Kostenkriterium | Neubauten & grundlegend renovierte Liegenschaften | [BGE 151 III 201](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-201_2025.html#consideration_4.2) |
+| **Orts- und Quartierüblichkeit** (Art. 269a lit. a OR) | Absolutes Marktkriterium | Primär Altliegenschaften (≥ 30 Jahre alt) | [BGE 144 III 514](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-514_2018.html); [BGE 141 III 569](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-569_2015.html#consideration_2.2.3) |
+| **Kostensteigerungen / Mehrleistungen** (Art. 269a lit. b OR) | Relatives Kostenkriterium | Laufendes Mietverhältnis und Anfangsmietzins | [BGE 139 III 209](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-209_2013.html#consideration_1.2); [BGE 151 III 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-16_2025.html) |
+| **Teuerungsausgleich** (Art. 269a lit. e OR) | Relatives Kostenkriterium | Laufendes Mietverhältnis (max. 40 % der LIK-Teuerung) | Art. 16 VMWG |
 
-Massgeblich fuer die Ermittlung der orts- oder quartierueblichen Mietzinse sind nach Art. 11 Abs. 1 VMWG die Mietzinse fuer Wohn- und Geschaeftsraeume, die nach Lage, Groesse, Ausstattung, Zustand und Bauperiode mit der Mietsache vergleichbar sind. Amtliche Statistiken sind nach Art. 11 Abs. 4 VMWG zu beruecksichtigen. Erhebliche Unterschiede in der Laermbelastung koennen die Vergleichbarkeit nach dem Kriterium der Lage ausschliessen (4A_295/2010; 4C.265/2000).
+### III. Die Hierarchie der Kriterien: Alt- versus Neubauten
 
-Die Rechtsprechung verlangt fuer den Nachweis der Quartierueblichkeit die Methode der fuenf vergleichbaren Wohnungen, wobei das Gericht nicht selbststaendig ermitteln muss, sondern die Parteien den Beweis zu fuehren haben (BGE 141 III 569, E. 2.2.3). Der Quartierbegriff ist nach den tatsaechlichen und historischen Verhaeltnissen des Ortes zu bestimmen (BGE 136 III 74).
+Die absolute Methode kennt zwei gegensätzliche Kriterien: Die marktmässige Betrachtung (Orts- und Quartierüblichkeit, lit. a) und die kostenmässige Betrachtung (Nettorendite nach Art. 269 OR bzw. Bruttorendite nach Art. 269a lit. c OR). Diese stehen in einem antinomischen Verhältnis und dürfen nicht miteinander vermengt werden ([BGer 4A_191/2018 vom 26. März 2019 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-191-2018_2019-03-26.html)).
 
-Im Mietrecht gilt eine beschraenkte (soziale) Untersuchungsmaxime: Das Gericht ist von Amtes wegen nur zur Parteibefragung, zum Hinweis auf Mitwirkungspflichten und zur Vervollstaendigung des Sachverhalts verpflichtet, wenn ernsthafte Zweifel bestehen (BGE 125 III 231).
+Das Bundesgericht hat die Rangordnung klar geregelt:
+- **Neubauten und neuere Bauten (unter 30 Jahre)**: Es gilt der Vorrang der Kostenmiete (Nettorendite bzw. Bruttorendite gemäss lit. c). Der Nachweis der Quartierüblichkeit ist hier subsidiär oder unzulässig ([BGer 4A_191/2018 E. 4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-191-2018_2019-03-26.html)).
+- **Altliegenschaften (Erstellung oder letzter Erwerb mindestens 30 Jahre zurückliegend)**: Es gilt der Vorrang der Orts- und Quartierüblichkeit ([BGE 144 III 514 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-514_2018.html)). Da historische Anlagekosten nach mehreren Jahrzehnten ihre wirtschaftliche Realitätsnähe verlieren und Unterlagen oft fehlen, hat die Marktmiete Vorrang vor der Nettorendite ([BGE 140 III 433 E. 3.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-433_2014.html#consideration_3.1)).
 
-### Beweislast bei der Anfechtung des Anfangsmietzinses
+---
 
-Beruft sich der Vermieter im Formular auf die Orts- und Quartierueblichkeit, so hat der Mieter den Beweis der Missbraeuchlichkeit zu erbringen (BGE 147 III 431, E. 3.2.1). Bei massiven Erhoehungen des Anfangsmietzinses von deutlich ueber 10 %, die sich nicht durch die Entwicklung des Referenzzinssatzes bzw. der Schweizerischen Konsumentenpreise erklaeren lassen, besteht jedoch eine tatsaechliche Vermutung der Missbraeuchlichkeit (BGE 147 III 431, E. 3.3). Praezisiert hat das Bundesgericht diese Vermutung in BGE 150 III 123: Bei einer massiven Erhoehung des Anfangsmietzinses um 44 % greift die tatsaechliche Vermutung der Missbraeuchlichkeit ohne weiteres. Auf der Stufe der Erschuetterung dieser Vermutung muessen nur offensichtlich nicht vergleichbare Objekte ausgeschlossen werden; drei bis vier vergleichbare Objekte samt einem langjaehrigen Vormietverhaeltnis koennen fuer den Beweis der Quartierueblichkeit genuegen. Um die Vermutung zu erschuetttern, muss der Vermieter begruendete Zweifel an deren Richtigkeit wecken (BGE 147 III 431, E. 4.2). Gelingt ihm dies nicht, wird vermutet, dass der vereinbarte Mietzins missbraeuchlich ist, und das Gericht hat den Anfangsmietzins selbst festzulegen (BGE 148 III 209, E. 3.2.3).
+## Kommentierung der Tatbestände
 
-Zudem ist zu beachten, dass der Vermieter, der sich auf quartieruebliche Mietzinse beruft, den Beweis dafuer traegt, dass diese Vergleichsmietzinse ihrerseits nicht missbraeuchlich sind. Das Bundesgericht erlaubt eine theoretische (fiktive) Anpassung der Vergleichsmietzinse an gesunkene Hypothekarzinsen, damit ein Mietzins nicht dadurch legitimiert wird, dass andere Mietzinse missbraeuchlich erhoeht sind (BGE 127 III 411).
+### Lit. a: Orts- und quartierübliche Mietzinse
 
-## Lit. b: Kostensteigerungen und Mehrleistungen
+#### 1. Begriff und Kriterien der Vergleichbarkeit
+Nach Art. 11 Abs. 1 VMWG sind Mietzinse orts- oder quartierüblich, wenn sie für Wohn- und Geschäftsräume nach **Lage, Grösse, Ausstattung, Zustand und Bauperiode** mit der Mietsache vergleichbar sind.
+- **Bauperiode**: Die Vergleichsobjekte müssen aus derselben zeitlichen Bauetappe stammen oder einen gleichwertigen Renovationsstand aufweisen.
+- **Lage und Emissionen**: Erhebliche Unterschiede in der Lärm- oder Schadstoffbelastung (z. B. verkehrsreiche Hauptstrasse gegenüber ruhiger Wohnzone) schliessen die Vergleichbarkeit aus ([BGer 4A_295/2010 vom 26. Juli 2010](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-295-2010_2010-07-26.html); [BGer 4C.265/2000 vom 16. Januar 2001](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4C-265-2000_2001-01-16.html)).
+- **Quartierbegriff**: Der Begriff des Quartiers bestimmt sich nach den tatsächlichen örtlichen, topographischen und historischen Gegebenheiten einer Gemeinde ([BGE 136 III 74](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-74_2010.html)).
 
-Mietzinserhoehungen wegen Mehrleistungen des Vermieters sind nicht missbraeuchlich, wenn sie den angemessenen Satz fuer Verzinsung, Amortisation und Unterhalt der Investition nicht ueberschreiten (Art. 14 Abs. 4 VMWG). Der Vermieter entscheidet nach bundesgerichtlicher Rechtsprechung, auf welche Art die Kosten der Mehrleistungen unter den Mietern aufzuteilen sind; der Richter schreitet nur ein, wenn die gewaehlte Methode unhaltbar ist (BGE 139 III 209, E. 1.2).
+#### 2. Die Methode der fünf Vergleichsobjekte
+Für den Nachweis der Orts- und Quartierüblichkeit verlangt das Bundesgericht grundsätzlich den Nachweis von **mindestens fünf konkreten Vergleichsobjekten**, die den Voraussetzungen von Art. 11 Abs. 1 VMWG genügen ([BGE 141 III 569 E. 2.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-569_2015.html#consideration_2.2.3)). Amtliche Statistiken können nach Art. 11 Abs. 4 VMWG herangezogen werden, sofern sie genügend differenziert sind ([BGE 123 III 317](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-123-III-317_1997-07-07.html)).
+- Das Gericht ist im vereinfachten Verfahren zwar an die soziale Untersuchungsmaxime (Art. 247 Abs. 2 lit. a ZPO) gebunden, ermittelt Vergleichswohnungen aber nicht von Amtes wegen ([BGE 125 III 231](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-231_1999-04-13.html)). Die Parteien tragen die Behauptungs- und Beweisführungslast ([BGE 141 III 569 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-569_2015.html#consideration_2.2.3)).
+- **Missbrauchskontrolle der Vergleichsmieten**: Der Vermieter muss darlegen, dass die herangezogenen Vergleichsmietzinse ihrerseits nicht missbräuchlich sind. Bei veränderten Marktzinsen erlaubt die Rechtsprechung eine fiktive Anpassung ([BGE 127 III 411](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-411_2001-07-04.html)).
 
-Nach BGE 151 III 16 betraegt der zulaessige Renditesatz fuer wertvermehrende Investitionen 2 % ueber dem Referenzzinssatz, sofern dieser 2 % oder weniger betraegt.
+#### 3. Beweislast und tatsächliche Vermutung bei Anfangsmietzinsen (Art. 270 OR)
+Wird ein Anfangsmietzins angefochten, trägt formell der Mieter die Beweislast für die Missbräuchlichkeit ([BGE 147 III 431 E. 3.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-431_2021.html#consideration_3.2.1)).
+- **Tatsächliche Vermutung der Missbräuchlichkeit**: Hat der Vermieter den Mietzins gegenüber dem Vormieter erheblich erhöht (Praxisgrenze: deutlich über 10 %) und lässt sich diese Erhöhung nicht durch Kostensteigerungen oder Referenzzinssatzerhöhungen begründen, greift eine **tatsächliche Vermutung der Missbräuchlichkeit** ([BGE 147 III 431 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-431_2021.html#consideration_3.3); [BGE 148 III 209 E. 3.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-209_2022.html#consideration_3.2)).
+- **Erschütterung der Vermutung**: In [BGE 150 III 123 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-123_2024.html#consideration_4.2) präzisierte das Bundesgericht: Bei massiven Erhöhungen (im konkreten Fall 44 %) greift die Vermutung ohne weiteres. Zur Erschütterung dieser Vermutung muss der Vermieter begründete Zweifel an der Missbräuchlichkeit wecken ([BGE 147 III 431 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-431_2021.html#consideration_4.2)). Auf der Stufe der Gegenbeweisführung genügen unter Umständen bereits 3 bis 4 Vergleichsobjekte samt Berücksichtigung eines langjährigen Vormietverhältnisses. Gelingt die Erschütterung nicht, setzt das Gericht den Mietzins nach freiem Ermessen fest ([BGE 148 III 209 E. 3.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-209_2022.html#consideration_3.2.3)).
 
-## Lit. c: Bruttorenditenmethode (kostendeckende Bruttorendite bei Neubauten)
+### Lit. b: Kostensteigerungen und Mehrleistungen
 
-### Grundprinzip
+Mietzinserhöhungen sind nicht missbräuchlich, wenn sie durch Kostensteigerungen oder Mehrleistungen des Vermieters begründet sind:
+- **Kostensteigerungen**: Umfassen Erhöhungen des hypothekarischen Referenzzinssatzes, Erhöhungen von Gebühren, Steuern, Baurechtszinsen, Versicherungsprämien sowie steigende Unterhaltskosten (Art. 12 VMWG). Pauschalen für Unterhaltskostensteigerungen sind nur zulässig, soweit sie der tatsächlichen Kostenentwicklung entsprechen.
+- **Mehrleistungen (wertvermehrende Investitionen)**: Nach Art. 14 Abs. 1 VMWG gelten Investitionen für Umbauten, Renovationen und energetische Verbesserungen als Mehrleistungen, soweit sie den Wert der Sache erhöhen. Bei umfassenden Überholungen gelten in der Regel 50 bis 70 % der Kosten als wertvermehrend ([BGE 118 II 415](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-118-II-415_1992-09-14.html)).
+- **Kostenverteilung**: Der Vermieter entscheidet nach billigem Ermessen über den Verteilschlüssel der Investitionskosten auf die einzelnen Mieter; Gerichte greifen nur bei offensichtlicher Unhaltbarkeit ein ([BGE 139 III 209 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-209_2013.html#consideration_1.2)).
+- **Zulässige Verzinsung**: Gemäss [BGE 151 III 16](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-16_2025.html) beträgt der Renditezuschlag für wertvermehrende Investitionen 2 % über dem hypothekarischen Referenzzinssatz (solange dieser ≤ 2 % liegt). Für ausserordentliche Unterhaltsarbeiten (werterhaltend) gilt Referenzzinssatz + 0,5 % ([BGE 140 III 433 E. 3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-433_2014.html#consideration_3.5)).
 
-Die Bruttorendite nach Art. 269a lit. c OR ist das massgebliche absolute Kriterium bei Neubauten und grundlegend renovierten Liegenschaften. Sie muss ausreichen, damit der Vermieter sein Eigenkapital verzinsen, die Fremdkapitalzinsen (Hypothekarzinsen), die laufenden Kosten (Versicherungspraemien, Grundsteuern, Baurechtszinsen, Verwaltungskosten, Unterhaltsabonnements, Wasser- und Stromkosten der Gemeinschaftsflaechen, Hauswartelohn etc.) und die Instandhaltungskosten decken kann.
+### Lit. c: Kostendeckende Bruttorendite bei neueren Bauten
 
-### Berechnung
+#### 1. Grundprinzip und Abgrenzung zur Nettorendite
+Die Bruttorenditemethode ist das primäre absolute Missbrauchskriterium bei **Neubauten und grundlegend erneuerten Bauten** (Art. 15 VMWG). Sie entbindet den Eigentümer von der differenzierten Offenlegung seiner individuellen Finanzierungsstruktur:
+- Während bei der Nettorendite (Art. 269 OR) zwischen verzinslichem Fremdkapital und risikotragendem Eigenkapital unterschieden werden muss ([BGE 147 III 14](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-14_2021.html)), berechnet sich die Bruttorendite pauschal auf den gesamten **Anlagekosten** ([BGE 151 III 201 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-201_2025.html#consideration_4.3)).
+- Die Methode bezweckt, Investitionen in den Wohnungsbau und in grundlegende Erneuerungen anzureizen ([BGE 118 II 124 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-118-II-124_1992-04-01.html); [BGE 151 III 201 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-201_2025.html)).
 
-Der zulaessige Mietzins ergibt sich aus folgender Formel (BGE 151 III 201, E. 4.2):
+#### 2. Berechnungsformel und die Praxisänderung (BGE 151 III 201)
+Der maximal zulässige Mietertrag ermittelt sich nach der Formel:
 
-**Anlagekosten x zulaessiger Bruttorenditesatz = zulaessiger Mietzins**
+$$	ext{Zulässiger Mietertrag} = 	ext{Anlagekosten} 	imes 	ext{Zulässiger Bruttorenditesatz}$$
 
-Die Anlagekosten (Preis von Boden und Bauwerk samt Nebenkosten wie Handaenderungsgebuehren und Notarhonorare) sind nach Art. 15 Abs. 1 VMWG auf den Anlagekosten zu berechnen; offensichtlich uebersetzte Land-, Bau- und Erwerbskosten bleiben nach Art. 15 Abs. 2 VMWG ausser Betracht. Eine gemischte Schenkung taugt jedoch nicht als verlaesslicher Kaufpreis fuer die Nettorenditeberechnung; die Ueberpruefung der Rendite ist nur insoweit moeglich, als ein echter Marktpreis vorliegt (4A_583/2023). Jede formelle Handaenderung setzt die 30-Jahre-Frist neu in Lauf (4A_583/2023, E. 3.2).
+- **Anlagekosten (Art. 15 Abs. 1 VMWG)**: Erstellungskosten (Land- und Baukosten) samt Baunebenkosten (Notariat, Gebühren). Offensichtlich übersetzte Kosten bleiben unberücksichtigt (Art. 15 Abs. 2 VMWG). Abbruchkosten früherer Altbauten sind anrechenbar ([BGE 125 III 421](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-421_1999-10-27.html)). Eine gemischte Schenkung stellt keinen verlässlichen Marktpreis dar ([BGer 4A_583/2023 vom 12. August 2024 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-583-2023_2024-08-12.html)).
+- **Zulässiger Bruttorenditesatz (Leitentscheid BGE 151 III 201)**:
+  Das Bundesgericht passte den Bruttorenditezuschlag an die Nettorenditereform von BGE 147 III 14 an. Solange der hypothekarische Referenzzinssatz höchstens 2 % beträgt, gilt nunmehr:
 
-### Unterschied zur Nettorendite (Art. 269 OR)
+$$	ext{Bruttorenditesatz} = 	ext{Referenzzinssatz} + 3{,}5\,\%$$
 
-Die Bruttorenditenmethode unterscheidet sich von der Nettorenditeberechnung (Art. 269 OR) grundlegend dadurch, dass sie die Finanzierungsart der Liegenschaft nicht beruecksichtigt; Eigenmittel und Fremdmittel werden nicht unterschieden (BGE 151 III 201, E. 4.3). Der Preis wird einfach mit dem Bruttorenditesatz multipliziert, der pauschal saemtliche Belastungen des Eigentuemers (Finanzierungskosten, laufende Kosten, Instandhaltungskosten) umfasst.
+Der Zuschlag setzt sich zusammen aus:
+1. **1,5 %** Pauschale für laufende Betriebskosten, Steuern, Verwaltung und Instandhaltung (anpassbar bei extremen Landwertanteilen oder kurzlebigen Installationen; [BGE 151 III 201 E. 7.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-201_2025.html#consideration_7.1));
+2. **2,0 %** (zuvor lediglich 0,5 %) als angemessene Kapitalrendite ([BGE 151 III 201 E. 7.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-201_2025.html#consideration_7.3)).
 
-### Hierarchie der absoluten Kriterien
+| Referenzzinssatz | Zuschlag gesamt | Maximal zulässige Bruttorendite |
+|---|---|---|
+| **1,25 %** | + 3,50 % | **4,75 %** |
+| **1,50 %** | + 3,50 % | **5,00 %** |
+| **1,75 %** | + 3,50 % | **5,25 %** |
+| **2,00 %** | + 3,50 % | **5,50 %** |
+| **> 2,00 %** | Gleitender Übergang | Einzelfallprüfung gemäss BGE 147 III 14 |
 
-Die beiden absoluten Kriterien der quartierueblichen Mietzinse (lit. a) und der Bruttorendite (lit. c) stehen in einem antinomischen Verhaeltnis und duerfen nicht kombiniert werden (4A_191/2018). Bei neueren Gebaeuden (weniger als 30 Jahre) hat die Nettorenditeberechnung (lit. c) Vorrang vor den quartierueblichen Mietzinsen (lit. a). Bei Altbauten (mindestens 30 Jahre) ist es umgekehrt (4A_191/2018).
+- **Dispositionsmaxime (Art. 58 ZPO)**: Das Gericht ist bei der Anfangsmietzinsfestsetzung an die Parteianträge gebunden, jedoch weder an den von den Parteien genannten Referenzzinssatz (notorische Tatsache) noch an den Zuschlagssatz (Rechtsfrage; [BGE 151 III 201 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-201_2025.html)).
+- **Vorbehalt bei Erstvermietung (Art. 18 VMWG)**: Fehlt ein solcher Vorbehalt, findet im laufenden Mietverhältnis nur die relative Methode Anwendung ([BGE 117 II 161](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-117-II-161_1991-05-01.html)). Soll die Bruttorendite für spätere Erhöhungen angerufen werden können, muss sich der Vermieter den ungenügenden Ertrag bei Vertragsschluss ausdrücklich und beziffert vorbehalten haben ([BGE 118 II 124 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-118-II-124_1992-04-01.html)).
 
-### Erstvermietung nach Renovation
+### Lit. d bis f: Umlagerungspläne, Teuerung und Rahmenverträge
 
-Bei der Erstvermietung nach grundlegender Renovation muss das amtliche Formular nicht ausdruecklich die Bezeichnung "Erstvermietung" enthalten; die Angabe "Na" als frueherer Mietzins genuegt (4A_56/2023). Die Anpassung des statistischen Mietzinses an Renovationsmerkmale stellt keine unzulaessige Vermischung der Kriterien dar; das Gericht hat einen weiten Ermessensspielraum bei der numerischen Festsetzung des Anfangsmietzinses (4A_56/2023).
+- **Lit. d (Staffelung durch Umlagerung von Finanzierungskosten)**: Dient der Abfederung anfänglicher Zinslasten bei Neubauten (z. B. Starthilfe- und Verbilligungsmodelle). Voraussetzung ist ein schriftlicher, dem Mieter vorab bekanntgegebener Zahlungsplan.
+- **Lit. e (Teuerung auf dem risikotragenden Kapital)**: Der Teuerungsausgleich im laufenden Mietverhältnis darf nach Art. 16 VMWG höchstens 40 % der Steigerung des Landesindexes der Konsumentenpreise (LIK) betragen.
+- **Lit. f (Empfehlungen in Verbands-Rahmenverträgen)**: Vereinbarungen zwischen Mieter- und Vermieterverbänden (z. B. gemeinsame Richtlinien zu Pauschalen) begründen eine Vermutung der Nichtmissbräuchlichkeit.
 
-### Zulaessiger Bruttorenditesatz
+---
 
-Der Bruttorenditesatz setzt sich zusammen aus dem hypothekarischen Referenzzinssatz zuzueglich eines Zuschlags. Bisher betrug dieser Zuschlag 2 % (1,5 % fuer laufende Kosten und Instandhaltung plus 0,5 % als Rendite des investierten Kapitals). Durch BGE 151 III 201 (E. 7.2) wurde dieser Zuschlag von 0,5 % auf 2 % erhoeht, soweit der hypothekarische Referenzzinssatz 2 % nicht uebersteigt.
+## Praxisfragen und kantonale Besonderheiten
 
-**Aktuelle Formel** (BGE 151 III 201, E. 7.3):
+### 1. Kantonale Formularpflicht und Geltendmachung der Ortsüblichkeit (Zürich vs. Genf)
+In Kantonen mit obligatorischem Formular bei Mietvertragsabschluss nach Art. 270 Abs. 2 OR (z. B. Zürich, Genf, Basel-Stadt, Waadt) muss der Vermieter den bisherigen Mietzins sowie Begründungen für allfällige Erhöhungen transparent deklarieren:
+- **Zürcher Praxis**: Gibt der Vermieter im Formular als Begründung für einen massiv höheren Anfangsmietzins lediglich «Anpassung an die Orts- und Quartierüblichkeit» an, genügt dies zwar formell, löst jedoch bei einer Steigerung von über 10 % die tatsächliche Vermutung der Missbräuchlichkeit aus ([BGE 147 III 431](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-431_2021.html#consideration_3.3)). Das Zürcher Mietgericht verlangt strenge Substantiierungen für die fünf Vergleichsobjekte; allgemeine Inserateportale (Homegate, ImmoScout24) genügen nicht als Nachweis tatsächlich bezahlter Mietzinse.
+- **Genfer Praxis (Loi sur les démolitions, réouvertures et transformations d'habitations, LDTR)**: In Genf unterliegen Umbauten und Mietzinse bei renovierten Liegenschaften öffentlich-rechtlichen Beschränkungen. Das Bundesgericht hat wiederholt betont, dass privatrechtliche Kriterien nach Art. 269a OR und kantonale öffentlich-rechtliche Mietpreisüberwachungen nebeneinander bestehen; die zivilrechtliche Zulässigkeit dispensiert nicht von kantonalen Sanktionen ([BGE 146 I 70](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-146-I-70_2020.html)).
 
-> Bruttorenditesatz = hypothekarischer Referenzzinssatz + 3,5 %
-> (davon 1,5 % fuer laufende Kosten und Instandhaltung sowie 2 % als Rendite des investierten Kapitals)
+### 2. Nachweisnotstand bei Altliegenschaften und Schätzungsmethoden
+Die strikte bundesgerichtliche Praxis, wonach fünf konkrete Vergleichswohnungen nachgewiesen werden müssen, führt in der Praxis zu einem faktischen Nachweisnotstand für Vermieter und Mieter, da Daten über bestehende Mietverträge Dritter aus Datenschutzgründen kaum erhältlich sind.
+- Scheitert der Nachweis der Ortsüblichkeit mangels Vergleichsobjekten, darf das Gericht nicht einfach auf eine statistische Durchschnittsmiete abstellen, ohne Besonderheiten des Objekts zu würdigen ([BGer 4A_56/2023 vom 14. April 2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-56-2023_2023-04-14.html)).
+- Kann weder die Ortsüblichkeit bewiesen noch eine Nettoertragsrechnung erstellt werden (weil Belege nach über 30 Jahren fehlen), greift das richterliche Ermessen nach Art. 4 ZGB Platz, wobei der bisherige Mietzins des Vormieters als Ausgangspunkt dient ([BGE 148 III 209 E. 3.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-209_2022.html#consideration_3.2)).
 
-Solange der hypothekarische Referenzzinssatz 2 % nicht uebersteigt, betraegt der Gesamtzuschlag somit 3,5 %. Im Ergebnis ergeben sich beispielsweise folgende Bruttorenditesaetze (BGE 151 III 201, E. 7.5):
+---
 
-- Referenzzinssatz 2,00 %: Bruttorendite 5,50 %
-- Referenzzinssatz 1,75 %: Bruttorendite 5,25 %
-- Referenzzinssatz 1,50 %: Bruttorendite 5,00 %
+## Lehrmeinungen und Judikaturkritik
 
-#### Begruendung der Rechtsprechungsaenderung
+### I. Kritik an der Fünf-Objekte-Praxis bei der Ortsüblichkeit (lit. a)
+Die in [BGE 141 III 569](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-141-III-569_2015.html#consideration_2.2.3) zementierte Anforderung, mindestens fünf im Detail vergleichbare Mietobjekte derselben Periode vorzulegen, stösst in der mietrechtlichen Lehre auf einhellige Kritik (vgl. u.a. LACHAT, Le bail à loyer, 2019; BÄTTIG, Das schweizerische Mietrecht, Kommentar, 4. Aufl. 2018; HIGI/WILDISEN, Zürcher Kommentar, 5. Aufl. 2020):
+- **Praktische Unerfüllbarkeit**: Da Mietverträge vertraulich sind, haben private Vermieter und Mieter ohne institutionelle Datenbanken faktisch keine Möglichkeit, amtliche Belege über Nettomieten, Ausstattungsstandards und Vertragsdauern fremder Liegenschaften zu beschaffen. Die Lehre kritisiert, das Bundesgericht habe damit die Berufung auf die Marktmiete in Städten mit hoher Eigentümerfragmentierung verunmöglicht.
+- **Forderung nach Mietpreisregistern**: Ein gewichtiger Teil der Lehre fordert die Einführung transparenter, kantonaler Mietpreisregister oder die statistische Anerkennung repräsentativer hedonischer Mietpreisindizes, wie sie im Bankensektor und in der amtlichen Raumbeobachtung Standard sind.
 
-Das Bundesgericht hat in BGE 151 III 201 (E. 7.2) die Erhoehung des Zuschlags von 0,5 % auf 2 % damit begruendet, dass BGE 147 III 14 die vergleichbare Nettorendite-Komponente bereits angepasst habe. BGE 147 III 14 hatte seinerseits die fruehere Praxis geaendert, nach welcher ein Zuschlag von 0,5 % ueber dem jeweiligen Hypothekarzins als Eigenkapitalrendite galt (sog. 40 %-Regel, BGE 120 II 100). Seit 1986 (BGE 112 II 149) sei ein Zuschlag von 0,5 % fuer die Eigenkapitalrendite als zulaessig erachtet worden. Der stetige Rueckgang des hypothekarischen Referenzzinssatzes seit 1995 (1,25 % zum Zeitpunkt von BGE 147 III 14) fuehre jedoch dazu, dass die addierte Rendite nicht mehr im Verhaeltnis zur Nutzungsueberlassung stehe und fuer Pensionskassen und Privateigentuemer ungenuegend sei, die auch Risiken wie Mietzinsausfaelle und Leerstaende trugen. Diese UEberlegungen traegen fuer die Bruttorendite gleichermassen.
+### II. Kritik am Zinssatz- und Renditezuschlag (lit. c und Art. 269 OR)
+Die durch [BGE 147 III 14](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-14_2021.html) und [BGE 151 III 201](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-201_2025.html#consideration_7.3) vollzogene Anhebung des Renditezuschlags von 0,5 % auf 2,0 % oberhalb des Referenzzinssatzes wird kontrovers diskutiert:
+- **Befürworter (Vermietervertreter, institutionelle Anleger)**: Betonen, dass der bisherige Satz von 0,5 % in Niedrigzinsphasen zu negativen Realrenditen für Pensionskassen führte und Investitionen in Sanierungen und Neubauten abwürgte.
+- **Kritiker (Mieterverbände, Teile des Schrifttums)**: Kritisieren, dass der Sprung auf 2 % eine abrupte Umverteilung zugunsten des Kapitals bedeute, die nicht vom Gesetzestext von Art. 269 / 269a OR gedeckt sei, sondern legislativen Charakter habe. Zudem führe der 3,5%-Gesamtzuschlag bei der Bruttorendite in Kombination mit steigenden Baukosten zu erheblichen Anfangsmieten bei Erstvermietungen, die das Ziel bezahlbaren Wohnraums untergraben.
 
-### Dispositionsmaxime
+---
 
-Das Gericht, das zur Festsetzung des Anfangsmietzinses angerufen wird, ist nur an die Parteiantraege gebunden (Art. 58 ZPO). Es ist weder an den von den Parteien behaupteten hypothekarischen Referenzzinssatz gebunden -- dieser ist eine notorische Tatsache -- noch an den von den Parteien behaupteten Zuschlagssatz, bei dem es sich um eine Rechtsfrage handelt (BGE 151 III 201, E. 6).
+## Literatur
 
-### Besonderheiten bei der Bruttorendite
-
-Der Zuschlag von 1,5 % fuer laufende Kosten und Instandhaltung kann je nach den Umstaenden erhoeht oder ermaessigt werden: Wenn der Bodenpreis im Verhaeltnis zu den Baukosten besonders hoch ist, kann ein niedrigerer Zuschlag gerechtfertigt sein; bei besonders teuren oder kurzlebigen Installationen kann ein hoeherer Zuschlag angebracht sein (BGE 151 III 201, E. 7.1). Bei ausserordentlichen Unterhaltsarbeiten gilt nach der durch BGE 140 III 433 revidierten Praxis ein Zinssatz von Referenzzinssatz + 0,5 % (anstelle der frueheren pauschalen 5 %).
-
-Das investierte Eigenkapital wird im Rahmen der absoluten Methode nicht zeitlich abgeschrieben; Amortisationen oder Rueckstellungen fuer kuenftigen Ersatz duerfen nicht eingerechnet werden (BGE 125 III 421). Abbruchkosten gehoeren zu den Anlagekosten (BGE 125 III 421).
-
-Die Bruttorenditenmethode wurde geschaffen, um den Bau neuer Wohnungen bzw. die grundlegende Renovation von Mietliegenschaften zu foerdern (BGE 118 II 124, E. 4; BGE 151 III 201, E. 4.4).
-
-### Vorbehalt des ungenuegenden Mietertrags
-
-Im laufenden Mietverhaeltnis kann sich der Vermieter auf Art. 269a lit. c OR nur berufen, wenn er einen ungenuegenden Mietertrag rechtzeitig und quantitativ bestimmt vorbehalten hat (Art. 18 VMWG; BGE 118 II 124, E. 4 und 5). Der Vorbehalt muss bei der Erstvermietung expressis verbis und klar vorbehalten werden; fehlt er, findet im laufenden Verhaeltnis nur die relative Methode Anwendung (BGE 117 II 161).
-
-## Lit. d bis f: Weitere Vermutungen
-
-**Lit. d** betrifft den Ausgleich einer Mietzinsverbilligung, die durch Umlagerung marktueblicher Finanzierungskosten gewaehrt wurde, sofern dies in einem dem Mieter im Voraus bekanntgegebenen Zahlungsplan festgelegt ist.
-
-**Lit. e** erfasst den Ausgleich der Teuerung auf dem risikotragenden Kapital.
-
-**Lit. f** stellt auf die Rahmenvertraege von Vermieter- und Mieterverbaenden ab; Mietzinse, die das Ausmass nicht ueberschreiten, das in solchen Rahmenvertraegen empfohlen wird, sind in der Regel nicht missbraeuchlich.
-
-## Verhaeltnis zur Nettorendite (Art. 269 OR)
-
-Bei Neubauten hat die Bruttorenditenmethode (Art. 269a lit. c OR) Vorrang vor der Nettorendite (Art. 269 OR). Bei Altliegenschaften (Erstellung oder letzter Erwerb vor mehr als 30 Jahren) ist es umgekehrt: Hier hat der Mieter den Nachweis des uebersetzten Ertrags (Art. 269 OR) zusaetzlich zum Nachweis der Ueberteuerung gegenueber den orts- oder quartierueblichen Mietzinsen (Art. 269a lit. a OR; BGE 124 III 310, E. 2a-2c).
-
-Der Vermieter kann sich zur Abwehr eines relativ berechtigten Herabsetzungsbegehrens alternativ auf einen unzureichenden Nettoertrag oder auf die Orts- und Quartierueblichkeit des angegriffenen Mietzinses berufen (BGE 122 III 257, E. 4). Diese Einrede des nicht missbraeuchlichen Ertrags ist auch dann zulaessig, wenn der Mieter sein Begehren auf das Vertrauensprinzip (relative Methode) stuetzt; die absolute Methode setzt stets die Grenzen der relativen Methode (BGE 121 III 163).
-
-## Leitentscheide
-
-| Entscheidung | Bedeutung |
-|---|---|
-| BGE 151 III 201 | Rechtsprechungsaenderung: Bruttorenditezuschlag von 2 % auf 3,5 % (Referenzzinssatz + 3,5 %); Dispositionsmaxime |
-| BGE 148 III 209 | Anfechtung des Anfangsmietzinses bei Altbauwohnung; Vermutung der Missbraeuchlichkeit; Festsetzung durch das Gericht |
-| BGE 147 III 431 | Tatsaechliche Vermutung der Missbraeuchlichkeit bei Erhoehungen von deutlich ueber 10 %; Beweislastverteilung |
-| BGE 147 III 14 | Rechtsprechungsaenderung zur Nettorendite: Erhoehung der Eigenkapitalrendite auf 2 % ueber dem Referenzzinssatz |
-| BGE 144 III 514 | Definition der Altliegenschaft: Erstellung oder letzter Erwerb mindestens 30 Jahre vor Mietbeginn |
-| BGE 141 III 569 | Methode der fuenf vergleichbaren Wohnungen; beschaenkte Untersuchungsmaxime |
-| BGE 139 III 209 | Mehrleistungen des Vermieters (Art. 269a lit. b OR); Aufteilung der Kosten unter den Mietern |
-| BGE 139 III 13 | Beweislast bei Anfechtung des Anfangsmietzinses; Vermutung bei massiver Erhoehung |
-| BGE 136 III 74 | Definition des Quartierbegriffs im Sinne von Art. 269a lit. a OR |
-| BGE 124 III 310 | Verhaeltnis zwischen Art. 269 OR und Art. 269a lit. a OR; Nachweis des uebersetzten Ertrags |
-| BGE 123 III 317 | Anwendung der Kriterien von Art. 11 Abs. 1 VMWG fuer orts- und quartieruebliche Mietzinse |
-| BGE 122 III 257 | Kriterien der Ermittlung des Nettoertrags; alternative Einreden des Vermieters |
-| BGE 118 II 124 | Bruttorendite im laufenden Mietverhaeltnis; Vorbehalt des ungenuegenden Mietertrags |
-| BGE 150 III 123 | Praezisierung der tatsaechlichen Vermutung der Missbraeuchlichkeit bei massiver Anfangsmietzinserhoehung (+44 %); Erschuetterung der Vermutung |
-| BGE 142 III 442 | Wohnungsnot (Art. 270 Abs. 1 lit. a OR, 2. Alternative): alleiniger Nachweis gengt; persoenliche Notlage nicht zusaetzlich erforderlich |
-| BGE 140 III 433 | Keine Altbauteigenschaft bei 26-27 Jahre altem Gebaeude; Referenzzinssatz + 0,5 % fuer ausserordentliche Unterhaltsarbeiten |
-| BGE 127 III 411 | Theoretische (fiktive) Anpassung der Vergleichsmietzinse an sinkende Hypothekarzinsen; Beweislast fuer quartieruebliche Mietzinse |
-| BGE 125 III 421 | Absolute Methode: Eigenkapital wird nicht zeitlich abgeschrieben; keine Amortisation oder Rueckstellungen fuer kuenftigen Ersatz |
-| BGE 125 III 231 | Umfang und Grenzen der sozialen Untersuchungsmaxime im Mietrecht |
-| BGE 121 III 163 | Verhaeltnis der relativen Methode (Vertrauensprinzip) zur absoluten Methode (Kostenmiete); Einrede des nicht missbraeuchlichen Ertrags |
-| BGE 120 II 100 | 40 %-Regel fuer Eigenkapitalindexierung und 0,5 %-Zuschlag (spaeter aufgehoben durch BGE 147 III 14) |
-| 4A_583/2023 | Gemischte Schenkung taugt nicht als verlaesslicher Kaufpreis fuer Nettorendite; Handaenderung setzt 30-Jahre-Frist neu |
-| 4A_56/2023 | Erstvermietung nach Renovation: Formular muss nicht ausdruecklich "Erstvermietung" nennen; "Na" als frueherer Mietzins gengt |
-| 4A_191/2018 | Hierarchie der absoluten Kriterien: bei Neubauten Nettorendite (lit. c) vor quartierteueblich (lit. a); bei Altbauten umgekehrt |
-| 4A_295/2010 | Erhebliche Laermbelastung kann Vergleichbarkeit nach Art. 11 Abs. 1 VMWG ausschliessen |
-| 4C.265/2000 | Vergleichbarkeit von Wohnungen nach Art. 11 Abs. 1 VMWG |
-| BGE 117 II 161 | Vorbehalt des ungenuegenden Ertrags (Art. 18 VMWG) muss bei Erstvermietung expressis verbis vorbehalten werden |
+- **BÄTTIG HANS et al.**, Das schweizerische Mietrecht, Kommentar, 4. Aufl., Zürich 2018.
+- **BOHNET FRANÇOIS / MONTINI MARC / CARRON BLAISE (Hrsg.)**, Droit du bail à loyer et à ferme — Commentaire pratique, 2. Aufl., Basel 2017.
+- **HIGI PETER / WILDISEN CHRISTOPH**, Zürcher Kommentar zum Obligationenrecht, Die Miete (Art. 253–273c OR), 5. Aufl., Zürich 2020.
+- **HULLIGER PETER / HEINRICH ANDREAS**, Die Anfechtung des Anfangsmietzinses, in: MietRecht Aktuell (MRA) 2021, S. 1 ff.
+- **KOLLER THOMAS**, Die mietrechtliche Rechtsprechung des Bundesgerichts, in: recht 2022, S. 45 ff.
+- **LACHAT DAVID et al.**, Mietrecht für die Praxis, 9. Aufl., Zürich 2022.
+- **LACHAT DAVID**, Le bail à loyer, Lausanne 2019.
+- **WEBER BEAT**, Basler Kommentar zum Obligationenrecht I, Art. 1–529 OR, 7. Aufl., Basel 2020.
+- **ZÜRCHER JÜRG**, Die Praxis zur Brutto- und Nettorenditeberechnung nach der Praxisänderung des Bundesgerichts, in: mp 2025, S. 112 ff.
