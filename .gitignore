@@ -8,7 +8,9 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
-audit-report.json
+audit-report*.json
+audit-bericht-*.md
+audit-queue-*.md
 
 # Judge-Jobs eines Audit-Laufs — ephemer, enthalten Entscheidtexte.
 # Dauerhaft ist nur der Verdikt-Ledger (agent/skills/glossagens-audit/verdicts/).
