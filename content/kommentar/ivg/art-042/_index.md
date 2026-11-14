@@ -2,10 +2,14 @@
 title: "Art. 42 IVG — Anspruch auf Hilflosenentschädigung"
 weight: 42
 date: 2026-08-17
-lastmod: 2026-11-04
+lastmod: 2026-11-13
 description: "Praxiskommentar zu Art. 42 IVG: Anspruch auf Hilflosenentschädigung der Invalidenversicherung, Hilflosigkeitsgrade, sechs alltägliche Lebensverrichtungen mit Grenzkasuistik, BGE 150 V 83, lebenspraktische Begleitung, Wartezeit, Leistungsausschluss bei Eingliederungsinstitutionen sowie Beweiswert von Abklärungsberichten vor Ort."
 tags: ["IVG", "Invalidenversicherung", "Hilflosenentschädigung", "Hilflosigkeit", "Lebenspraktische Begleitung", "Wartejahr", "Eingliederungsmassnahmen", "Abklärungsbericht", "Praxiskommentar"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 9C_289/2026 vom 14.10.2026 in Abschn. VIII.1 und IX: Durchbrechung von KSH-Altersrichtwerten bei schwerem kindlichem Autismus für besonders intensive Überwachung nach Art. 39 Abs. 3 Satz 2 IVV; Beweiswürdigung von Haushaltsabklärungen bei Kleinkindern."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -279,6 +283,9 @@ Unter früherem Recht verlangte die Rechtsprechung zu BGE 111 V 310 eine Prüfun
 3. die Feststellungen plausibel, begründet und nachvollziehbar dargelegt werden und den tatsächlichen Verhältnissen entsprechen.
 
 Das Gericht weicht von den Feststellungen des Abklärungsberichts nur ab, wenn dieser **manifeste Mängel oder unauflösbare Widersprüche** aufweist ([BGE 130 V 61 E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-V-61_2004.html#consideration_6.2)).
+
+**Besonderheit bei Kleinkindern mit Autismus-Spektrum-Störung ([BGer 9C_289/2026 vom 14. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_289_2026#e-4-1))**:
+Bei der Beurteilung des Bedarfs an dauernder oder besonders intensiver Überwachung (Art. 39 IVV, Art. 42ter Abs. 3 IVG) von Kleinkindern darf ein punktueller Abklärungsbericht an Ort und Stelle nicht isoliert gewürdigt werden. Zeigt sich ein vierjähriges Kind mit schwerem Autismus während des kurzen Hausbesuchs ruhig und kooperativ, schliesst dies eine besonders intensive Überwachung nicht aus. Eine ständige Überwachungsbedürftigkeit setzt nicht voraus, dass sich Krisen ununterbrochen oder gerade während der behördlichen Visite manifestieren. Massgebend sind die konsistenten Aussagen der täglichen Betreuungspersonen (Eltern, Grosseltern, Therapeuten) und der Vergleich mit dem Überwachungsbedarf eines gesunden Kindes gleichen Alters. Verwaltungsrichtlinien wie das Kreisschreiben über Hilflosigkeit (KSH), wonach eine besonders intensive Überwachung «generell erst ab 8 Jahren» in Betracht falle, binden die Gerichte nicht und sind im Einzelfall zu durchbrechen ([BGer 9C_289/2026 E. 4.1–4.2](https://mcp.opencaselaw.ch/entscheid/bger_9C_289_2026#e-4-1)).
 
 ### 2. Kompetenzabgrenzung: Abklärungsperson vs. behandelnde Ärzte
 

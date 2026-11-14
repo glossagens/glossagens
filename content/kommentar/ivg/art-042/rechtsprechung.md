@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 42 IVG"
 weight: 99
 date: 2026-08-17
-lastmod: 2026-11-04
+lastmod: 2026-11-13
 description: "Übersicht der Rechtsprechung zu Art. 42 IVG — Hilflosenentschädigung, Hilflosigkeitsgrade, sechs alltägliche Lebensverrichtungen, Wartejahr, lebenspraktische Begleitung, Beweiswert von Abklärungsberichten und Leistungsausschluss bei Eingliederungsinstitutionen."
 tags: ["Rechtsprechung", "IVG", "Hilflosenentschädigung", "Hilflosigkeit", "Lebenspraktische Begleitung", "Wartejahr"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 9C_289/2026 vom 14.10.2026 in Abschnitt II (Durchbrechung von KSH-Altersgrenzen bei Kleinkindern mit schwerem Autismus für besonders intensive Überwachung nach Art. 39 Abs. 3 Satz 2 IVV)."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -72,6 +76,11 @@ revisions:
 ---
 
 ## II. Weitere Entscheide
+
+### Überwachungsbedarf und Intensivpflegezuschlag bei Kleinkindern mit schwerem Autismus
+* **Entscheid**: [BGer 9C_289/2026 vom 14. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_9C_289_2026#e-4-1) (Urteil der III. öffentlich-rechtlichen Abteilung)
+* **Sachverhalt**: Für ein vierjähriges Kind mit schwerer Autismus-Spektrum-Störung, massiver Selbst- und Fremdgefährdung und unvorhersehbarem Impulsverhalten anerkannte die IV-Stelle zwar einen Überwachungsbedarf, verweigerte jedoch gestützt auf das Kreisschreiben über Hilflosigkeit (KSH; Anhang 2, wonach eine besonders intensive Überwachung «generell erst ab 8 Jahren» anerkannt werde) den Zuschlag von 4 Stunden für eine besonders intensive Überwachung nach Art. 39 Abs. 3 Satz 2 IVV.
+* **Kernaussage**: Verwaltungsweisungen wie das KSH binden das Gericht nicht; ihre Altersrichtwerte haben keinen absoluten Charakter. Weicht der Überwachungsbedarf eines vierjährigen Kindes infolge schwerer autistischer Krisen und akuter Gefahren nach Natur und Intensität grundlegend vom normalen Betreuungsbedarf gesunder Gleichaltriger ab, ist auch vor Erreichen der Richtaltersgrenze eine besonders intensive Überwachung von 4 Stunden anzurechnen. Dass das Kind während der kurzen häuslichen Abklärung ruhig wirkte und spielte, schliesst die Notwendigkeit permanenter Intensivüberwachung im Alltag nicht aus; massgebend sind die konsistenten Beobachtungen der Betreuungspersonen über längere Zeiträume (E. 4.1–4.2).
 
 ### 10. Begleitbedarf bei schizoaffektiver Störung und Alltagsbewährung
 **[BGer 8C_560/2025 E. 6.3 und 7.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-560-2025_2026-08-11.html#consideration_6.3)** (11. August 2026)  

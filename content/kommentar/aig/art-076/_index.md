@@ -2,10 +2,14 @@
 title: "Art. 76 AIG — Ausschaffungshaft"
 weight: 76
 date: 2026-09-17
-lastmod: 2026-10-15
+lastmod: 2026-11-13
 description: "Praxiskommentar zu Art. 76 AIG (Ausschaffungshaft): Systematik, Prüfschema, Abgrenzung zur Vorbereitungs- und Dublin-Haft, Kasuistik zur Untertauchensgefahr (lit. b Ziff. 3/4), Beschleunigungsgebot (Abs. 4), zweiseitige Grenzkasuistik und Praxishinweise."
 tags: ["AIG", "Ausländerrecht", "Zwangsmassnahmen", "Ausschaffungshaft", "Untertauchensgefahr", "Landesverweisung", "Beschleunigungsgebot", "Freiheitsentzug"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 2C_456/2026 vom 27.10.2026 (Zweigleisigkeit des Beschleunigungsgebots bei Strafvollzug, Vorbereitungspflicht im Rahmen des Zumutbaren und Zulässigkeit kurzer Anschlusshaft nach kontinuierlicher Vorbereitung)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -171,9 +175,16 @@ Die Ausschaffungshaft ist auf die Sicherstellung des Wegweisungsvollzugs zweckge
 - **Kriegssituation und Drittstaaten-Rückführung (Haft geschützt)**: Trotz des Ukraine-Kriegs und eingestellter Direktflüge nach Russland verneinte das Bundesgericht eine Undurchführbarkeit des Vollzugs nach Russland, da Rückführungen über Drittstaaten (Belgrad, Istanbul, Dubai) für die Schweizer Behörden weiterhin durchführbar waren ([BGer 2C_37/2023 E. 3.4.2](https://mcp.opencaselaw.ch/entscheid/bger_2C_37_2023)).
 
 #### 2. Das behördliche Beschleunigungsgebot (Abs. 4)
-Art. 76 Abs. 4 AIG verpflichtet die Behörden, die Vollzugsvorkehren **umgehend** zu treffen.
-- **Die Zweimonatsregel**: Nach gefestigter bundesgerichtlicher Rechtsprechung gilt das Beschleunigungsgebot in der Regel als verletzt, wenn die Behörden während **mehr als zwei Monaten keinerlei zielgerichtete Vorkehren** zur Vorbereitung oder Durchführung der Ausschaffung getroffen haben, ohne dass die Verzögerung durch das Verhalten des Betroffenen oder ausländischer Behörden verursacht wurde ([BGE 139 I 206 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_206#e-2-1); [BGE 124 II 49 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-49_1998.html#consideration_3a)).
+Art. 76 Abs. 4 AIG verpflichtet die Behörden, die Vollzugsvorkehren **umgehend** zu treffen (vgl. auch Art. 5 Ziff. 1 lit. f EMRK).
+
+##### a) Die Zweimonatsregel während der Festhaltung
+Nach gefestigter bundesgerichtlicher Rechtsprechung gilt das Beschleunigungsgebot in der Regel als verletzt, wenn die Behörden während **mehr als zwei Monaten keinerlei zielgerichtete Vorkehren** zur Vorbereitung oder Durchführung der Ausschaffung getroffen haben, ohne dass die Verzögerung durch das Verhalten des Betroffenen oder ausländischer Behörden verursacht wurde ([BGE 139 I 206 E. 2.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_206#e-2-1); [BGE 124 II 49 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-49_1998.html#consideration_3a)).
 - **Rechtsfolge**: Eine festgestellte Verletzung des Beschleunigungsgebots führt direkt zur Aufhebung des Haftentscheids und zur unverzüglichen Haftentlassung ([BGE 139 I 206 E. 2.4](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_206#e-2-4)).
+
+##### b) Verhältnis zum Strafvollzug und Vorbereitungspflicht «nach Möglichkeit»
+Befindet sich die betroffene Person im Strafvollzug oder in Untersuchungshaft, gilt eine **zweigleisige Praxis**:
+- Während des Strafvollzugs besteht die behördliche Pflicht, den Wegweisungsvollzug bereits «nach Möglichkeit» (im Rahmen des Zumutbaren) vorzubereiten, um eine anschliessende ausländerrechtliche Festhaltung ganz zu vermeiden oder auf das absolute Minimum zu beschränken ([BGE 130 II 488 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-130-II-488_2004.html#consideration_4.2); [BGE 124 II 49 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-124-II-49_1998.html#consideration_3a); [BGer 2C_456/2026 vom 27. Oktober 2026 E. 4.1](https://mcp.opencaselaw.ch/entscheid/bger_2C_456_2026#e-4-1)).
+- Die strenge Zweimonatsregel greift jedoch erst mit Beginn der ausländerrechtlichen Festhaltung. Haben die Migrationsbehörden während des Strafvollzugs kontinuierlich Vollzugsschritte unternommen (z.B. Wiederaufnahmeverfahren im Dublin- oder bilateralen Kontext eingeleitet und verlängert), konnten die genaue Entlassung aber erst nach dem Strafurteil terminieren, stellt eine kurze **Anschlusshaft** (z.B. zweieinhalb Wochen bis zum Transfer) keine Verletzung von Art. 76 Abs. 4 AIG dar ([BGer 2C_456/2026 vom 27. Oktober 2026 E. 4.1–4.2](https://mcp.opencaselaw.ch/entscheid/bger_2C_456_2026#e-4-1)).
 
 #### 3. Haftbedingungen und Trennungsgebot (Art. 81 Abs. 2 AIG)
 Gemäss Art. 81 Abs. 2 AIG und Art. 16 Abs. 1 der Rückführungsrichtlinie (2008/115/EG) ist die Ausschaffungshaft grundsätzlich in **speziellen Hafteinrichtungen** (Ausschaffungszentren) mit einem gegenüber dem Strafvollzug liberaleren Regime zu vollziehen ([BGE 146 II 201](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_II_201)).

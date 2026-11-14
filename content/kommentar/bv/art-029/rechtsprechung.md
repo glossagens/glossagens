@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 29 BV"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-10-20
-description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung, Beschleunigungsgebot, unbedingtes Replikrecht und Massnahmeverfahren (BGer 1C_411/2026), antizipierte Beweiswürdigung, Begründungspflicht bei Dass-Entscheiden (BGer 1C_524/2026), Akteneinsicht vs. Replikrecht (BGer 1C_396/2026), Überraschungsverbot bei Kündigung (BVGer A-3785/2025), Wiedererwägungsanspruch und unentgeltliche Rechtspflege."
+lastmod: 2026-11-13
+description: "Übersicht der massgeblichen Leitentscheide und weiteren Entscheide zu Art. 29 BV – Allgemeine Verfahrensgarantien, formelle Rechtsverweigerung (BGer 4D_185/2025), Beschleunigungsgebot, unbedingtes Replikrecht und Massnahmeverfahren (BGer 1C_411/2026), antizipierte Beweiswürdigung, Begründungspflicht bei Dass-Entscheiden (BGer 1C_524/2026), Akteneinsicht vs. Replikrecht (BGer 1C_396/2026), Überraschungsverbot bei Kündigung (BVGer A-3785/2025), Wiedererwägungsanspruch und unentgeltliche Rechtspflege."
 tags: ["Rechtsprechung", "BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Rechtsverzögerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "vorsorgliche Massnahmen", "Akteneinsicht", "Dass-Entscheid"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 4D_185/2025 vom 25. August 2026 in Abschnitt II (Weitere Entscheide): Formelle Rechtsverweigerung (Art. 29 Abs. 1 BV) und Versagung des Gerichtszugangs bei Zustellung an alte Adresse trotz im Rechtsschriftenkopf ausdrücklich angezeigter neuer Anschrift; Unanwendbarkeit der Zustellfiktion nach Art. 138 Abs. 3 lit. a ZPO."
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 454 ZGB"
 weight: 99
 date: 2026-11-11
-lastmod: 2026-11-11
+lastmod: 2026-11-13
 description: "Übersicht der bundesgerichtlichen und kantonalen Rechtsprechung zur Verantwortlichkeit im Kindes- und Erwachsenenschutz nach Art. 454 ZGB."
 tags: ["Rechtsprechung", "ZGB", "Erwachsenenschutz", "Kindesschutz", "Staatshaftung", "KESB", "Regress"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_134/2026 vom 30.09.2026 in Abschnitt II (Ausschluss zivilrechtlicher Direktansprüche gegen Beistände auch bei Straftaten und Blockade der Adhäsions-/Privatkläger-Legitimation nach Art. 122 StPO und Art. 81 Abs. 1 lit. b Ziff. 5 BGG); Prüfweg: Volltext via mcp.opencaselaw.ch gegengelesen."
   - date: 2026-11-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash (Medium)"
@@ -65,6 +69,11 @@ revisions:
 ---
 
 ## II. Weitere Entscheide
+
+### Ausschluss der Privatkläger-Legitimation bei ausschliesslicher Staatshaftung des Kantons
+* **Entscheid**: [BGer 7B_134/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2026#e-1-2) (Urteil der II. strafrechtlichen Abteilung)
+* **Sachverhalt**: Eine verbeiständete Person erhob Strafanzeige gegen ihren offiziellen Beistand wegen angeblicher ungetreuer Geschäftsbesorgung (Art. 158 StGB) und Amtsmissbrauchs (Art. 312 StGB) wegen verspäteter Geltendmachung von Unterhaltsrückständen. Nach Einstellung des Strafverfahrens focht die Person diese als Privatkläger an.
+* **Kernaussage**: Nach Art. 454 Abs. 3 ZGB haftet für Schäden aus Massnahmen des Erwachsenenschutzes ausschliesslich der Kanton; die geschädigte Person hat keinerlei Direktanspruch gegen die Mandatsperson (Beistand). Handelt die Mandatsperson im Rahmen ihrer behördlichen Funktion, greift die ausschliessliche Staatshaftung auch bei vorgeworfenen Straftaten. Mangels zivilrechtlicher Adhäsionsansprüche gegen den Beistand fehlt der geschädigten Person im Strafverfahren die Beschwerdelegitimation nach Art. 81 Abs. 1 lit. b Ziff. 5 BGG und Art. 382 Abs. 1 StPO (E. 1.2.1–1.2.3).
 
 ### 8. Kindesschutz-Notplatzierung, volle Kognition und vorprozessuale Anwaltskosten
 **Obergericht UR** ([OG V 20 1](https://entscheidsuche.ch/docs/UR_Gerichte/UR_OG_004_2020-OG-V-20-1_2020-08-28.pdf) vom 28. August 2020)

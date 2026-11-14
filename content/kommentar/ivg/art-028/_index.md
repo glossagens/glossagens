@@ -2,10 +2,14 @@
 title: "Art. 28 — Rentenanspruch"
 weight: 28
 date: 2026-06-07
-lastmod: 2026-10-15
+lastmod: 2026-11-13
 description: "Kommentar zu Art. 28 IVG — Rentenanspruch bei Invalidität: Voraussetzungen, Einkommensvergleich, Eingliederungsvorrang, Beitragsdauer und ordentliche vs. ausserordentliche Rente"
 tags: ["IVG", "Rentenanspruch", "Invalidität", "Einkommensvergleich", "Eingliederung"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 9C_515/2025 vom 05.10.2026 in Abschn. VI: Beweiswert von RAD-Aktenbeurteilungen ohne persönliche Untersuchung nach Art. 49 Abs. 2 IVV bei Neuanmeldungen und Erfordernis dauerhafter Erwerbseinbussen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -87,6 +91,11 @@ Psychische Leiden spielen in der IV-Praxis eine herausragende Rolle. [BGE 127 V 
 - Das Recht auf Stellungnahme zum Gutachten (Art. 29 Abs. 2 BV, Art. 6 Ziff. 1 EMRK)
 - Die Begründungspflicht bei Abweichung vom Gutachten
 - Die Möglichkeit, ergänzende Fragen zu stellen
+
+#### Beweiswert von Aktenbeurteilungen des Regionalen Ärztlichen Dienstes (RAD/SMR)
+Nach Art. 49 Abs. 2 IVV sind die Ärztinnen und Ärzte des Regionalen Ärztlichen Dienstes (RAD) nicht verpflichtet, die versicherte Person persönlich zu untersuchen. Sie können ihre Beurteilung rein auf die vorhandenen medizinischen Akten stützen, sofern die Aktenlage ein vollständiges und schlüssiges Bild der gesundheitlichen Verhältnisse vermittelt. Eine solche rein aktenmässige Beurteilung durch den RAD geniesst vollen Beweiswert, wenn sie die Berichte der behandelnden Fachpersonen nachvollziehbar würdigt und keine offenen Widersprüche verbleiben ([BGer 9C_515/2025 vom 5. Oktober 2026 E. 3.2, 4.2](https://mcp.opencaselaw.ch/entscheid/bger_9C_515_2025#e-3-2)).
+
+Wird bei einer Neuanmeldung (Art. 87 IVV) eine zwischenzeitliche somatische Befundverschlechterung (etwa durch eine Schulteroperation) geltend gemacht, genügt dies für eine Rentenzusprache nicht, wenn die Beeinträchtigung vorübergehender Natur war und im massgebenden Beurteilungszeitpunkt wieder abgeklungen ist. Ein Rentenanspruch nach Art. 28 Abs. 1 IVG setzt eine bleibende oder länger dauernde Erwerbseinbusse voraus ([BGer 9C_515/2025 E. 4.1–4.2](https://mcp.opencaselaw.ch/entscheid/bger_9C_515_2025#e-3-2)).
 
 ### VII. Aufgehobener Abs. 2 (ausserordentliche Rente)
 

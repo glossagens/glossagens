@@ -2,10 +2,14 @@
 title: "Art. 454 ZGB — Verantwortlichkeit"
 weight: 454
 date: 2026-11-11
-lastmod: 2026-11-11
+lastmod: 2026-11-13
 description: "Kausale und ausschliessliche Staatshaftung des Kantons für Schäden aus dem Kindes- und Erwachsenenschutz sowie kantonaler Rückgriff auf Mandatsträger und Behördenmitglieder."
 tags: ["ZGB", "Erwachsenenschutz", "Kindesschutz", "Staatshaftung", "Verantwortlichkeit", "KESB", "Beistandschaft", "Regress"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung des Leitentscheids BGer 7B_134/2026 vom 30.09.2026 zu Art. 454 Abs. 1 und 3 ZGB (Ausschluss von Direktansprüchen gegen Beistände auch bei Straftaten und Blockade der strafprozessualen Privatkläger-Legitimation mangels Adhäsionsansprüchen gemäss Art. 122 StPO / Art. 81 Abs. 1 lit. b Ziff. 5 BGG); Prüfweg: Urteilsvolltext via mcp.opencaselaw.ch gegengelesen."
   - date: 2026-11-11
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash (Medium)"
@@ -82,11 +86,15 @@ Beginnt ein einheitliches Dauerverhalten (z.B. eine fortdauernde Unterbringung) 
 
 ### 2. Ausschliessliche Passivlegitimation des Kantons (Abs. 3)
 
-Nach Art. 454 Abs. 3 ZGB haftet gegenüber den Geschädigten **direkt und ausschliesslich der Kanton**. Eine persönliche Aussenhaftung von Privatbeiständen, Berufsbeiständen, Gemeindebehörden, Spitalärzten (bei FU-Anordnung oder Zwangsbehandlung) oder KESB-Mitgliedern ist von Bundesrechts wegen ausgeschlossen ([BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899), S. 7093).
+Nach Art. 454 Abs. 3 ZGB haftet gegenüber den Geschädigten **direkt und ausschliesslich der Kanton**. Eine persönliche Aussenhaftung von Privatbeiständen, Berufsbeiständen, Gemeindebehörden, Spitalärzten (bei FU-Anordnung oder Zwangsbehandlung) oder KESB-Mitgliedern ist von Bundesrechts wegen ausgeschlossen ([BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899), S. 7093). Die geschädigte Person besitzt keinerlei zivilrechtlichen Direktanspruch gegen die Urheber der Schädigung.
+
+**Ausschliessliche Staatshaftung auch bei strafrechtlichen Vorwürfen gegen Beistände:**
+Dieser Haftungsausschluss im Aussenverhältnis greift nach der Rechtsprechung auch dann, wenn dem Mandatsträger strafrechtlich relevantes Verhalten (wie Amtsmissbrauch gemäss Art. 312 StGB oder ungetreue Geschäftsbesorgung gemäss Art. 158 StGB) vorgeworfen wird, solange er im Rahmen seiner behördlichen Funktion handelte ([BGer 7B_134/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2026#e-1-2), E. 1.2.1–1.2.3). Handelt die Urheberin oder der Urheber in Ausübung behördlicher Aufgaben des Erwachsenenschutzes — was sich bei der Vermögensverwaltung aus der KESB-Ernennung ergibt —, haftet stets ausschliesslich das Gemeinwesen; ein zivilrechtlicher Direktanspruch gegen die Amtsperson oder den Beistand ist ausgeschlossen.
 
 **Praktische Konsequenz:**
 - Richtet eine geschädigte Person eine Klage gegen eine **politische Gemeinde**, gegen den **Privatbeistand persönlich** oder gegen eine **psychiatrische Klinik**, fehlt die Passivlegitimation; ausschliesslich der Kanton ist im Aussenverhältnis haftbar.
 - Auch intern bleibt dem Kanton nach Aussenleistung nur der Weg über das kantonale Rückgriffsrecht bzw. eine allfällige Haftpflichtversicherung (vgl. zur Rückzession des Anteils der kantonalen Haftpflichtversicherung über dem Selbstbehalt von CHF 50'000 an den Kanton Freiburg [BGer 2C_564/2025 vom 23.9.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-564-2025_2026-09-23.html), E. 9.5).
+- **Strafprozessuale Reflexwirkung (Blockade der Privatkläger-Legitimation):** Da geschädigte Personen wegen Art. 454 Abs. 3 ZGB keine Zivilansprüche direkt gegen den Beistand geltend machen können, können sie sich im Strafverfahren gegen den Beistand nicht als Privatkläger im Zivilpunkt adhäsionsweise konstituieren (Art. 122 StPO). Dies führt dazu, dass ihnen die strafprozessuale Beschwerdelegitimation (Art. 382 Abs. 1 StPO) sowie die Legitimation zur Beschwerde in Strafsachen an das Bundesgericht gemäss Art. 81 Abs. 1 lit. b Ziff. 5 BGG fehlt, wenn die Staatsanwaltschaft eine Nichtanhandnahme oder Einstellung verfügt ([BGer 7B_134/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2026#e-1-2), E. 1.2.1–1.2.3). Art. 454 Abs. 3 ZGB blockiert somit wirksam die Privatkläger-Legitimation gegen Beistände.
 
 ---
 
@@ -190,6 +198,13 @@ In der Praxis versuchen Erben oder Angehörige häufig, mutmassliche Schädigung
 
 **Verjährungsfalle am Ende des Mandats (`Art. 455 ZGB`):** Weil die Schlussberichtsbeschwerde keinen Schadenersatz einbringt und die Verjährung nach Art. 455 Abs. 1 und 3 ZGB unter Umständen bereits mit Kenntnis der neuen Beiständin oder mit dem Zugang zu den Akten zu laufen beginnt (wie im Walliser Fall vor dem Bezirksgericht Sitten entschieden), darf mit der Anmeldung der Staatshaftungsforderung beim Kanton **nicht** auf den Abschluss von KESB-Aufsichtsverfahren gewartet werden.
 
+### 3. Keine Privatkläger-Legitimation im Strafverfahren gegen Beistände (`Art. 122 StPO` / `Art. 81 Abs. 1 lit. b Ziff. 5 BGG`)
+Reichen Betroffene oder Angehörige gegen einen amtlich ernannten Beistand Strafanzeige ein (beispielsweise wegen ungetreuer Geschäftsbesorgung nach Art. 158 StGB oder Amtsmissbrauchs nach Art. 312 StGB infolge verspäteter Geltendmachung von Forderungen oder Vermögensschädigungen), entfaltet Art. 454 Abs. 3 ZGB eine gravierende verfahrensrechtliche Reflexwirkung:
+- Gemäss Art. 122 Abs. 1 StPO kann die geschädigte Person im Strafverfahren nur dann Zivilansprüche adhäsionsweise geltend machen, wenn diese unmittelbar gegen die beschuldigte Person gerichtet werden können.
+- Weil Art. 454 Abs. 3 ZGB jegliche persönliche Haftung von behördlich eingesetzten Beiständen im Aussenverhältnis ausschliesst und die Haftung ausschliesslich dem Kanton zuweist, fehlt der geschädigten Person von vornherein ein zivilrechtlicher Direktanspruch gegen den Beistand ([BGer 7B_134/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2026#e-1-2), E. 1.2.1–1.2.3).
+- Infolgedessen kann sich die anzeigende Person im Strafverfahren nicht wirksam als Privatklägerin im Zivilpunkt konstituieren. Wird das Strafverfahren durch die Staatsanwaltschaft nicht anhand genommen oder eingestellt, fehlt ihr sowohl die kantonale Beschwerdelegitimation (Art. 382 Abs. 1 StPO) als auch die Legitimation zur Beschwerde in Strafsachen an das Bundesgericht gemäss Art. 81 Abs. 1 lit. b Ziff. 5 BGG ([BGer 7B_134/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2026#e-1-2), E. 1.2.3).
+- **Konsequenz für die Praxis:** Geschädigte können die strafrechtliche Einstellung oder Nichtanhandnahme gegen Mandatspersonen mangels Adhäsionsanspruchs regelmässig nicht selbständig anfechten; ihnen verbleibt ausschliesslich der Weg der zivilrechtlichen Staatshaftungsklage gegen den Kanton nach Art. 454 Abs. 1 und 3 ZGB.
+
 ---
 
 ## Literatur
@@ -216,7 +231,8 @@ In der Praxis versuchen Erben oder Angehörige häufig, mutmassliche Schädigung
    - Dasselbe gilt für abgeschlossene Zeiträume einer medizinischen Behandlung ohne Zustimmung ([BGer 5A_122/2026 vom 24.2.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-122-2026_2026-02-24.html), E. 1.2.5).
    - Bei faktisch beendeten Massnahmen kann zudem auf die kantonale Praxis zur vollen Kognition ([OG V 20 1](https://entscheidsuche.ch/docs/UR_Gerichte/UR_OG_004_2020-OG-V-20-1_2020-08-28.pdf)) bzw. auf Art. 5 Abs. 5 EMRK ([WKL.2023.12](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_006_WKL-2023-12_2026-02-16.pdf)) verwiesen werden.
 3. **Verjährung frühzeitig unterbrechen:** Verlieren Sie im Schlussberichtsverfahren (`Art. 425 ZGB`) keine Zeit; beantragen Sie frühzeitig Akteneinsicht und unterbrechen Sie beim Kanton die Verjährungsfrist nach Art. 455 ZGB, bevor Sie das detaillierte Quantitativ ausarbeiten ([BGer 5A_453/2025 vom 17.6.2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-453-2025_2025-06-17.html), E. 3).
-4. **Dritte (Vermieter, Gläubiger):** Prüfen Sie vor einer Klage gegen den Kanton, welche Norm des Erwachsenenschutzes gerade den Schutz Ihres Vermögens bezwecken soll, und beachten Sie für subsidiäre kantonale Staatshaftungsansprüche die teilweise kürzeren kantonalen Verjährungsfristen ([BGer 2C_518/2024 vom 12.2.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-518-2024_2026-02-12.html), E. 4.6.2 und E. 5).
+4. **Kein Adhäsions-Zivilweg im Strafverfahren gegen Beistände:** Verzichten Sie darauf, Schadenersatzansprüche gegen Mandatspersonen im Strafverfahren (Art. 122 StPO) durchsetzen zu wollen. Wegen der ausschliesslichen Staatshaftung des Kantons nach Art. 454 Abs. 3 ZGB fehlt ein Direktanspruch gegen die Mandatsperson, was auch die Anfechtung von Einstellungsverfügungen mangels Privatkläger-Legitimation ausschliesst ([BGer 7B_134/2026 vom 30. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_134_2026#e-1-2), E. 1.2.1–1.2.3). Schadenersatz ist direkt beim Kanton einzufordern.
+5. **Dritte (Vermieter, Gläubiger):** Prüfen Sie vor einer Klage gegen den Kanton, welche Norm des Erwachsenenschutzes gerade den Schutz Ihres Vermögens bezwecken soll, und beachten Sie für subsidiäre kantonale Staatshaftungsansprüche die teilweise kürzeren kantonalen Verjährungsfristen ([BGer 2C_518/2024 vom 12.2.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-518-2024_2026-02-12.html), E. 4.6.2 und E. 5).
 
 ### Für private und berufliche Mandatsträger sowie KESB-Behörden
 1. **Mitwirkungspflicht im Schadens- und Vergleichsverfahren:** Erhalten Sie als früherer Privat- oder Berufsbeistand von der kantonalen Behörde Gelegenheit zur Stellungnahme zu einem Vergleich zwischen Kanton und geschädigter Person, nehmen Sie zwingend begründet Stellung. Schweigen führt im späteren Regressverfahren zur Präklusion Ihrer Einwände ([BGer 2C_564/2025 vom 23.9.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-564-2025_2026-09-23.html), E. 9.4).

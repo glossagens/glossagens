@@ -2,10 +2,14 @@
 title: "Art. 6 — Allgemeines (Versicherungsfall)"
 weight: 6
 date: 2026-07-03
-lastmod: 2026-10-15
+lastmod: 2026-11-13
 description: "Praxiskommentar zu Art. 6 UVG: die fünf Merkmale des Unfallbegriffs (Art. 4 ATSG) mit der Kasuistik zur Ungewöhnlichkeit — Auto-Scooter, Bandencheck, Bergwanderung, Nadelstich, Raubüberfall, ärztlicher Eingriff —, die Listenverletzung nach Abs. 2 mit dem Entlastungsbeweis der 50-Prozent-Schwelle, die Behandlungsschäden nach Abs. 3 sowie Kausalität, Status quo sine und Beweisrecht."
 tags: ["UVG", "Unfallversicherung", "Unfallbegriff", "ungewöhnlicher äusserer Faktor", "Listenverletzung", "unfallähnliche Körperschädigung", "Entlastungsbeweis", "Kausalzusammenhang", "Status quo sine", "Schreckereignis", "Behandlungsschaden", "Beweiswert", "Suva"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Nachtrag BGer 8C_287/2026 vom 12.10.2026: E-Bike-Kasuistik zur Unfallschwere (mittelschwerer Unfall im engeren Sinn) und Abgrenzung Schleudertrauma- vs. Psycho-Praxis bei leichtem SHT (Commotio cerebri) in N. 67 und N. 70 eingearbeitet."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"

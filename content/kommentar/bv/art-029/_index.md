@@ -2,10 +2,14 @@
 title: "Art. 29 BV — Allgemeine Verfahrensgarantien"
 weight: 29
 date: 2026-05-23
-lastmod: 2026-10-20
+lastmod: 2026-11-13
 description: "Praxiskommentar zu Art. 29 BV: Gleiche und gerechte Behandlung, Verbot der formellen Rechtsverweigerung und Rechtsverzögerung, unbedingtes Replikrecht und 10-Tage-Praxis, antizipierte Beweiswürdigung, Begründungsdichte, Überraschungsverbot, Wiedererwägungsanspruch bei geänderten Verhältnissen sowie unentgeltliche Rechtspflege und Rechtsverbeiständung mit der massgeblichen Rechtsprechung und Kasuistiktabelle."
 tags: ["BV", "Verfahrensgarantien", "rechtliches Gehör", "Replikrecht", "antizipierte Beweiswürdigung", "Begründungspflicht", "Überraschungsverbot", "Rechtsverzögerung", "Rechtsverweigerung", "Wiedererwägung", "unentgeltliche Rechtspflege", "unentgeltliche Verbeiständung", "Bedürftigkeit", "Aussichtslosigkeit", "Offizialmaxime", "Eingrenzung"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 4D_185/2025 vom 25.08.2026 zu Art. 29 Abs. 1 BV: Formelle Rechtsverweigerung durch fehlerhafte Adressierung behördlicher Verfügungen (Zustellung an alte Adresse trotz im Rechtsschriftenkopf angezeigter neuer Wohnadresse; Unanwendbarkeit der Zustellfiktion nach Art. 138 Abs. 3 lit. a ZPO bei behördlicher Fehladressierung; Aufhebung des Nichteintretensentscheids)."
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -111,15 +115,26 @@ Das Bundesgericht statuierte Grundsätze zur Beweislast bei eingeschriebener Sen
 
 ([BGE 144 IV 57 E. 2.3.1 und 2.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-57_2018.html#consideration_2.3.1)). Trägt die Behörde nicht den Beweis, wann der Betroffene den Entscheid tatsächlich zur Hand nahm, gilt die Rüge des Nichteintretens als formelle Rechtsverweigerung nach Art. 29 Abs. 1 BV.
 
-#### 4. Grenzkasuistik: Formelle Rechtsverweigerung
+#### 4. Fehladressierung behördlicher Verfügungen und Unanwendbarkeit der Zustellfiktion
+Eine Behörde begeht eine formelle Rechtsverweigerung nach Art. 29 Abs. 1 BV, wenn sie eine Verfahrensvorschrift missachtet und einer Partei dadurch unzulässigerweise den Zugang zum Gericht versperrt. Diese Konstellation tritt regelmässig auf, wenn Gerichte oder Behörden Mitteilungen oder Fristverfügungen an eine falsche bzw. veraltete Adresse versenden, obschon die Partei ihre aktuelle Anschrift ordnungsgemäss deklariert hat.
+
+Nach der bundesgerichtlichen Rechtsprechung hat die Partei Anspruch darauf, dass an diejenige Adresse zugestellt wird, die sie der Behörde im Rahmen des Verfahrens ausdrücklich und klar bekanntgegeben hat (vgl. bereits [BGE 139 IV 228](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-228_2013.html)). Gibt eine Partei auf der ersten Seite ihrer Rechtsmittelschrift ihre neue Wohnadresse unmissverständlich an, muss die Gerichtsinstanz Zustellungen an diese Adresse vornehmen. Versendet das Gericht eine fristgebundene Verfügung — wie etwa die Aufforderung zur Leistung eines Kostenvorschusses samt Nachfristansetzung — gleichwohl an die vormalige, veraltete Adresse (z.B. an die frühere Wohnadresse bei einer getrennten Partnerschaft), liegt der Fehler ausschliesslich bei der Behörde.
+
+Die 7-tägige Zustellfiktion (wie sie etwa in Art. 138 Abs. 3 lit. a ZPO statuiert ist) greift bei einer behördlichen Fehladressierung nicht:
+- Die Fiktion der Zustellung setzt voraus, dass die Sendung an die massgebliche, von der Partei korrekt bezeichnete Adresse gerichtet wurde.
+- Wurde an eine alte Adresse versandt, obwohl die neue Adresse aus den Akten bzw. dem Rechtsschriftenkopf klar ersichtlich war, darf der Rücklauf der Sendung als «nicht abgeholt» oder «unzustellbar» nicht zulasten der Partei gewertet werden.
+- Ein auf die angebliche Säumnis (z.B. Nichtleistung des Kostenvorschusses) gestützter Nichteintretensentscheid verletzt Art. 29 Abs. 1 BV und ist aufzuheben ([BGer 4D_185/2025 vom 25. August 2026, E. 3.1–3.3](https://mcp.opencaselaw.ch/entscheid/bger_4D_185_2025#e-3-1)).
+
+#### 5. Grenzkasuistik: Formelle Rechtsverweigerung
 
 | Sachverhalt | Beurteilung | Entscheid |
 |---|---|---|
+| Nichteintreten wegen Nichtleistung des Kostenvorschusses, nachdem die Vorinstanz die Vorschussverfügung samt Nachfrist an eine alte Adresse sandte, obschon die neue Wohnadresse auf Seite 1 der Beschwerdeschrift ausdrücklich deklariert war; Zustellfiktion nach Art. 138 Abs. 3 lit. a ZPO unanwendbar | **Formelle Rechtsverweigerung bejaht**; behördliche Fehladressierung schneidet unzulässig den Gerichtszugang ab | [BGer 4D_185/2025 E. 3.1–3.3](https://mcp.opencaselaw.ch/entscheid/bger_4D_185_2025#e-3-1) |
 | Nichteintreten einer kantonalen Instanz auf eine Beschwerde wegen angeblichem Fristablauf, obschon die Vorinstanz per A-Post Plus ohne Empfangsbestätigung zugestellt hatte und das Datum der tatsächlichen Kenntnisnahme unbewiesen blieb | **Formelle Rechtsverweigerung bejaht**; die Behörde trägt die Beweislast für die Zustellung | [BGE 144 IV 57 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-57_2018.html#consideration_2.3) |
 | Nichteintreten des kantonalen Verwaltungsgerichts auf eine Beschwerde im Massnahmenvollzug unter Berufung auf kantonale Übergangsfristen | **Formelle Rechtsverweigerung bejaht**; bundesrechtliche Rechtsweggarantie verletzt | [BGE 135 I 6 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-I-6_2009.html#consideration_2) |
 | Nichteintreten auf eine Beschwerde, weil die Beschwerdeschrift trotz ausdrücklicher gesetzlicher Vorschrift überhaupt keine Anträge oder Begründung enthielt | **Keine Rechtsverweigerung**; Nichteintreten ist Folge der formellen Säumnis des Beschwerdeführers | [BGer 9C_550/2025 E. 2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_9C-550-2025_2025-10-14.html) |
 
-> **Merksatz.** Behauptet die Behörde den Ablauf einer Rechtsmittelfrist, trägt sie die volle Beweislast für die rechtswirksame Zustellung und deren Datum. Wurde nicht gegen Empfangsbestätigung (Einschreiben) zugestellt, darf kein Nichteintretensentscheid ergehen, solange der Adressat die rechtzeitige Kenntnisnahme schlüssig bestreitet.
+> **Merksatz.** Behauptet die Behörde den Ablauf einer Rechtsmittelfrist oder Säumnis bei der Fristwahrung, trägt sie die volle Verantwortung für die fehlerfreie Adressierung und den Nachweis der rechtswirksamen Zustellung. Hat die Partei eine neue Zustelladresse in ihrer Eingabe klar bezeichnet, geht jede Zustellung an die frühere Adresse ins Leere; die gesetzliche Zustellfiktion greift nicht ein und ein darauf gestützter Nichteintretensentscheid stellt eine formelle Rechtsverweigerung dar.
 
 ---
 

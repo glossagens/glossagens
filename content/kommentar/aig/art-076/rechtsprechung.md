@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 76 AIG"
 weight: 99
 date: 2026-09-17
-lastmod: 2026-09-17
+lastmod: 2026-11-13
 description: "Übersicht der massgeblichen Rechtsprechung zu Art. 76 AIG (Ausschaffungshaft): Leitentscheide des Bundesgerichts (BGE) sowie Urteile des Bundesgerichts und kantonaler Gerichte (ZH, BE, AG, AR)."
 tags: ["Rechtsprechung", "AIG", "Ausschaffungshaft", "Zwangsmassnahmen", "Ausländerrecht", "Landesverweisung"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 2C_456/2026 vom 27.10.2026 in Abschnitt II (Vorbereitungspflicht nach Möglichkeit während des Strafvollzugs, Zulässigkeit kurzer Anschlusshaft nach kontinuierlicher Vorbereitung)."
   - date: 2026-09-17
     by: "Glossagens Agent"
     model: "gemini-3.8-flash"
@@ -57,6 +61,11 @@ revisions:
 ---
 
 ## II. Weitere Entscheide (Bundesgericht und Kantone)
+
+### Zweigleisiges Beschleunigungsgebot: Vorbereitungspflicht während Strafvollzug und kurze Anschlusshaft
+* **Entscheid**: [BGer 2C_456/2026 vom 27. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_456_2026#e-4-1) (Urteil der II. öffentlich-rechtlichen Abteilung)
+* **Sachverhalt**: Ein nigerianischer Staatsangehöriger wurde nach 15 Monaten Strafvollzug zweieinhalb Wochen in Ausschaffungshaft genommen und anschliessend nach Italien überstellt. Er rügte eine Verletzung des Beschleunigungsgebots (Art. 76 Abs. 4 AIG, Art. 5 Ziff. 1 lit. f EMRK), da die Behörden den Vollzug bereits während des Strafvollzugs hätten abschliessen müssen.
+* **Kernaussage**: Bestätigung der zweigleisigen Rechtsprechung zum Beschleunigungsgebot: Während der ausländerrechtlichen Administrativhaft gilt die strikte Zweimonatsregel (BGE 139 I 206). Während des Strafvollzugs oder der Untersuchungshaft besteht demgegenüber lediglich eine Pflicht, Vollzugsmassnahmen «nach Möglichkeit» im Rahmen des Zumutbaren vorzubereiten (BGE 130 II 488). Haben die Migrationsbehörden während der Strafhaft kontinuierlich Vorkehren getroffen (Wiederaufnahmeabkommen beantragt und verlängert), bildet eine kurze Anschlusshaft von zweieinhalb Wochen zur Organisation des Transfers keine unzulässige Verzögerung nach Art. 76 Abs. 4 AIG (E. 4.1–4.2).
 
 ### [BGer 2C_263/2019 vom 27. Juni 2019](https://mcp.opencaselaw.ch/entscheid/bger_2C_263_2019), E. 2 & 3
 - **Thema**: Ausschaffungshaft gestützt auf erstinstanzliche Landesverweisung und Leib-und-Leben-Gefährdung (lit. g)

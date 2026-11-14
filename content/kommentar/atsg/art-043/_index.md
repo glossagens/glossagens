@@ -2,10 +2,14 @@
 title: "Art. 43 ATSG — Abklärung"
 weight: 43
 date: 2026-07-31
-lastmod: 2026-10-15
+lastmod: 2026-11-13
 description: "Kommentar zu Art. 43 ATSG: Abklärungspflicht des Versicherungsträgers (Amtsermittlung), Mitwirkungspflichten der versicherten Person, Mahn- und Bedenkzeitverfahren und Nichteintreten bei Pflichtverletzung."
 tags: ["ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht", "Begutachtung", "IV"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "BGer 8C_623/2025 vom 15.10.2026 eingearbeitet: Volle Geltung des Untersuchungsgrundsatzes bei Neuanmeldungen nach Art. 87 IVV und Unzulänglichkeit rudimentärer behandelndärztlicher Berichte ohne Befundentwicklung."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -31,6 +35,8 @@ revisions:
 ### I. Der Untersuchungsgrundsatz (Abs. 1 & 1bis)
 
 **3** **Umfassende Sachverhaltsermittlung.** Die Verwaltung hat alle für den Leistungsanspruch massgebenden Umstände (medizinische Befunde, Arbeits- und Einkommensverhältnisse) abzuklären. Bei Widersprüchen zwischen behandelnden Ärzten und versicherungsinternen Stellungnahmen (z.B. RAD) ist der Sachverhalt durch zusätzliche Massnahmen oder eine Begutachtung zu klären ([BGE 135 V 465 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-135-V-465_2009.html)).
+
+**3a** **Abklärungspflicht bei Neuanmeldungen und Rentenrevisionen.** Tritt der Versicherungsträger nach Art. 87 Abs. 2–3 IVV auf eine Neuanmeldung nach vorangegangener Rentenablehnung ein, greift der Untersuchungsgrundsatz nach Art. 43 Abs. 1 ATSG vollumfänglich. Die Verwaltung darf die Abweisung nicht auf rudimentäre behandelndärztliche Berichte stützen, wenn sich diese nicht mit der gesundheitlichen Entwicklung und der tatsächlichen Befundlage seit der letzten rechtskräftigen Verfügung auseinandersetzen. Da sich eine anspruchserhebliche Änderung nicht allein an Diagnosen oder Arbeitsunfähigkeitsattesten, sondern an den objektiven Befunden bemisst, verletzt das Abstellen auf knappe Vorberichte ohne hinreichende Befundentwicklung den Untersuchungsgrundsatz und zwingt zur Rückweisung zwecks medizinischer Abklärung ([BGer 8C_623/2025 vom 15.10.2026 E. 6.1–6.3](https://mcp.opencaselaw.ch/entscheid/bger_8C_623_2025#e-6-1)).
 
 **4** **Schriftlichkeit mündlicher Auskünfte.** Zur Wahrung des Akteneinsichts- und Gehörsanspruchs (Art. 29 Abs. 2 BV) sind telefonische oder mündliche Auskünfte von Arbeitgebern, Ärzten oder Versicherten unverzüglich in schriftlichen Aktennotizen festzuhalten.
 

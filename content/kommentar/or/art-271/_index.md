@@ -2,10 +2,14 @@
 title: "Art. 271 OR — Anfechtbarkeit der Kündigung (Grundsatz)"
 weight: 271
 date: 2026-09-14
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 271 OR: Anfechtung der Mietkündigung nach Treu und Glauben. Dogmatisches Prüfschema, Begründungspflicht (Abs. 2) und ausführliche Kasuistik: Sanierungs-, Umbau- und Abbruchkündigungen (BGE 151 III 481, BGE 148 III 215, BGE 142 III 91), Ertragsoptimierung und Judikaturdivergenz zur relativen Methode (BGE 120 II 105 vs. ZH OG NG220014), Umnutzung (BGE 136 III 190), Eigenbedarf (LU KG 1B 18 38), Hausfriedensstörungen und Nachbarschaftskonflikte (SH OG 10/2023/17, ZH BK MJ250038-L) sowie Beweislast und Praxishinweise."
+lastmod: 2026-11-13
+description: "Praxiskommentar zu Art. 271 OR: Anfechtung der Mietkündigung nach Treu und Glauben. Dogmatisches Prüfschema, Begründungspflicht (Abs. 2) und ausführliche Kasuistik: Sanierungs-, Umbau- und Abbruchkündigungen (BGE 151 III 481, BGE 148 III 215, BGE 142 III 91), Ertragsoptimierung und Judikaturdivergenz zur relativen Methode (BGE 120 II 105 vs. ZH OG NG220014), Umnutzung (BGE 136 III 190), Eigenbedarf und Scheinmotive (BGer 4A_477/2025, LU KG 1B 18 38), Hausfriedensstörungen und Nachbarschaftskonflikte (SH OG 10/2023/17, ZH BK MJ250038-L) sowie Beweislast, Verwirkung prozessualer Rügen (Art. 52 ZPO) und Praxishinweise."
 tags: ["OR", "Mietrecht", "Kündigungsschutz", "Treu und Glauben", "Sanierungskündigung", "Abbruchkündigung", "Ertragsoptimierung", "Eigenbedarf", "Hausfrieden", "Beweislast", "Anfechtungsfrist"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 4A_477/2025 vom 03.08.2026: Vorgeschobener Eigenbedarf als Scheinmotiv begründet Treuwidrigkeit nach Art. 271 Abs. 1 OR ohne Erfordernis einer Interessenabwägung; Verwirkung verspäteter Vertretungsrügen aus dem Schlichtungsverfahren (Art. 52, 204 ZPO)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -29,7 +33,7 @@ revisions:
 | **Abbruch der Liegenschaft** | Auszug zwingend; kein ausgereiftes Neubauprojekt nötig; rein ökonomische Motive genügen | Abbruchbewilligung offensichtlich ausgeschlossen (Denkmalschutz); Kündigungsgrund bloss vorgeschoben | [BGE 151 III 481](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-151-III-481_2025.html#consideration_3.6) |
 | **Ertragsoptimierung (Marktmiete)** | Erzielung eines höheren, nach absoluter Methode nicht missbräuchlichen Mietzinses bei Neuvermietung | Höherer Mietzins wäre missbräuchlich; Vermieter hat Möglichkeit im bestehenden Vertrag vertan ([ZH OG NG220014](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_NG220014_2023-10-03.pdf)) | [BGE 120 II 105](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-120-II-105_1994-02-22.html#consideration_3) |
 | **Umnutzung / Zweckänderung** | Ernsthafte und plausible Absicht zur geänderten geschäftlichen oder privaten Nutzung | Reine Schikane; Vorwand zur Mieterverdrängung ohne greifbares Nutzungskonzept | [BGE 136 III 190](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-190_2010.html#consideration_3) |
-| **Eigenbedarf** | Ernsthafte, aktuelle Nutzungsabsicht für Vermieter oder nahestehende Personen/Firmen | Blosse vage Möglichkeit einer künftigen Nutzung; vorgeschobener Eigenbedarf | [LU KG 1B 18 38](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_1B-18-38_2019-05-17.html) |
+| **Eigenbedarf** | Ernsthafte, aktuelle Nutzungsabsicht für Vermieter oder nahestehende Personen/Firmen | Blosse vage Möglichkeit einer künftigen Nutzung; vorgeschobener Eigenbedarf als Scheinmotiv ([BGer 4A_477/2025](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3)) | [LU KG 1B 18 38](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_1B-18-38_2019-05-17.html) |
 | **Hausfriedensstörung & Konflikte** | Wiederherstellung des Hausfriedens bei tiefgreifenden Spannungen; Mieter im Konfliktzentrum | Sachfremde Auswahl; Vermieter kündigt, obwohl er sichere Kenntnis der Alleinschuld des anderen hat | [SH OG 10/2023/17](https://entscheidsuche.ch/docs/SH_OG/SH_OG_001_10-2023-17_2024-03-19.pdf) |
 | **Zahlungsverzug & Pflichtverletzung** | Wiederholt unpünktliche Mietzinszahlung oder dauernde Missachtung der Hausordnung | Blosse Bagatellverstösse; Kündigung aus Rache oder als schikanöse Reaktion | [BGer 4A_342/2007](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-342-2007_2007-11-02.html) |
 
@@ -62,7 +66,7 @@ Die nachfolgende Prüfreihenfolge strukturiert die Kommentierung. Jede Zeile der
 | 3b | **Abbruchkündigung** | Abbruch erfordert kein ausgereiftes Neubauprojekt und keine Baufälligkeit; rein wirtschaftliche Motive zulässig. Schranke: rechtliche Unmöglichkeit / Scheingrund | Mieter beweist Missbräuchlichkeit | [E](#e-abbruchkündigung) |
 | 3c | **Ertragsoptimierungskündigung** | Zulässigkeit nach BGE 120 II 105; Judikaturdivergenz: Unzulässigkeit bei offener oder vertaner Erhöhungsmöglichkeit im Vertrag (ZH OG NG220014) | Vermieter trägt Mitwirkungslast für Ertragsberechnung | [F](#f-ertragsoptimierungskündigung-und-marktmiete) |
 | 3d | **Umnutzung & Zweckänderung** | Zulässigkeit der Kündigung zwecks grundlegender Änderung der Nutzungsart (z.B. Gewerbe zu Wohnen / Restaurantaufgabe, BGE 136 III 190) | Vermieter muss Ernsthaftigkeit der Absicht dartun | [G](#g-umnutzung-und-zweckänderung) |
-| 3e | **Eigenbedarf des Vermieters** | Ernsthafter Eigenbedarf für Vermieter oder nahestehende Personen/Firmen; keine Dringlichkeit erforderlich (LU KG 1B 18 38). Abgrenzung zu vager Absicht | Vermieter muss Eigenbedarf glaubhaft machen | [H](#h-eigenbedarf-des-vermieters-und-nahestehender-personen) |
+| 3e | **Eigenbedarf des Vermieters** | Ernsthafter Eigenbedarf für Vermieter oder nahestehende Personen/Firmen; keine Dringlichkeit erforderlich (LU KG 1B 18 38). Treuwidrigkeit bei vorgeschobenem Scheinmotiv ohne Interessenabwägung (BGer 4A_477/2025) | Vermieter muss Eigenbedarf glaubhaft machen | [H](#h-eigenbedarf-des-vermieters-und-nahestehender-personen) |
 | 3f | **Hausfriedensstörung & Konflikte** | Wahrung des Hausfriedens als Kündigungsgrund; keine lückenlose Ursachenforschungspflicht (SH OG 10/2023/17; ZH BK MJ250038-L). Videoaufnahmen | Vermieter belegt Störung und Konfliktzentrum | [I](#i-hausfriedensstörung-mieterkonflikte-und-zerrüttung) |
 | 3g | **Unpünktliche Zahlung & Pflichtverletzung** | Ordentliche Kündigung bei notorischem Verzug ohne Art. 257d OR zulässig. Abgrenzung zu Schikane bei Bagatellen | Vermieter muss Pflichtverletzungen substanziieren | [J](#j-unpünktliche-zahlung-und-weitere-vertragsverletzungen) |
 | 4 | **Prozessuale Realität & Beweislast** | Beweislastverteilung (Art. 8 ZGB); Substanziierungslast; soziale Untersuchungsmaxime im vereinfachten Verfahren (Art. 243/247 ZPO) | Mieter beweist Missbrauch; Vermieter zur Mitwirkung verpflichtet | [K](#k-prozessuale-realität-beweislast-und-soziale-untersuchungsmaxime) |
@@ -106,8 +110,9 @@ Das schweizerische Mietrecht kennt kein allgemeines Kündigungsmotivserfordernis
 Nach Art. 271 Abs. 2 OR muss die Kündigung auf Verlangen begründet werden. Aus der Systematik und dem Zweck der Bestimmung ergeben sich für die Praxis folgende Grundsätze:
 
 1. **Kein Gültigkeitserfordernis**: Die Kündigung ist als einseitiges Gestaltungsrecht mit dem formgültigen Zugang wirksam. Eine unbegründete Kündigung ist gültig. Weder das Fehlen einer Begründung auf dem amtlichen Formular noch eine verspätet oder unvollständig abgegebene Begründung berührt die Gültigkeit der Kündigung ([BGE 143 III 344 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-344_2017.html#consideration_5.3)).
-2. **Beweisindiz**: Weigert sich der Vermieter trotz Aufforderung, die Kündigung zu begründen, liefert er widersprüchliche Angaben oder erweist sich die angegebene Begründung im Prozess als unwahr (vorgeschobener Grund), bildet dies ein gewichtiges Indiz dafür, dass kein schützenswertes Interesse an der Kündigung besteht oder ein verpöntes Motiv verdeckt werden soll ([BGE 148 III 215 E. 3.1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-215_2022.html#consideration_3.1); [BGE 138 III 59 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-59_2012.html#consideration_2.1)).
+2. **Beweisindiz**: Weigert sich der Vermieter trotz Aufforderung, die Kündigung zu begründen, liefert er widersprüchliche Angaben oder erweist sich die angegebene Begründung im Prozess als unwahr (vorgeschobener Grund), bildet dies ein gewichtiges Indiz dafür, dass kein schützenswertes Interesse an der Kündigung besteht oder ein verpöntes Motiv verdeckt werden soll ([BGE 148 III 215 E. 3.1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-215_2022.html#consideration_3.1); [BGE 138 III 59 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-59_2012.html#consideration_2.1); [BGer 4A_477/2025 vom 3. August 2026 E. 5.1](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3)).
 3. **Nachschieben von Gründen**: Der Vermieter ist grundsätzlich nicht daran gehindert, die im Kündigungsschreiben genannte Begründung im Gerichtsverfahren zu ergänzen oder zu präzisieren. Ein vollständiges Auswechseln des Kündigungsgrunds indiziert jedoch, dass der ursprünglich genannte Grund vorgeschoben war ([BGE 143 III 344 E. 5.3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-344_2017.html#consideration_5.3)).
+4. **Scheinmotiv führt ohne Weiteres zur Aufhebung**: Dient der vorgebrachte Kündigungsgrund nachweislich nur als blosser Vorwand, liegt eine treuwidrige Kündigung vor; auf eine Interessenabwägung oder die Prüfung eines krassen Missverhältnisses der Interessen kommt es bei einem Scheinmotiv nicht mehr an ([BGer 4A_477/2025 vom 3. August 2026 E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3)).
 
 #### 2. Massgeblicher Beurteilungszeitpunkt (*ex tunc*)
 
@@ -286,7 +291,22 @@ Das Kantonsgericht Luzern hielt fest ([LU KG 1B 18 38 E. 5.4.2–5.4.4](https://
 - Hält der Vermieter wesentliche Beteiligungen oder nimmt er als Verwaltungsratspräsident die strategische Führung verbundener Unternehmen wahr, darf er Räumlichkeiten kündigen, um Platzreserven für die Logistik, den Einkauf oder das Marketing dieser Konzerngesellschaften zu schaffen.
 - Erforderlich ist, dass der Bedarf **konkret und aktuell** ist. Eine blosse «vage Möglichkeit», die Räume allenfalls in ferner Zukunft einmal nutzen zu wollen, genügt nicht ([BGE 138 III 59 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-59_2012.html#consideration_2.2)).
 
-> **Leitsatz.** Bei der ordentlichen Kündigung nach Art. 271 Abs. 1 OR muss der Eigenbedarf nicht dringend sein; jedes ernsthafte und plausible Nutzungsinteresse des Vermieters oder einer ihm wirtschaftlich eng verbundenen Gesellschaft ist legitim. Eine blosse vage Möglichkeit künftiger Eigennutzung vermag eine Kündigung dagegen nicht zu tragen.
+#### 3. Vorgeschobener Eigenbedarf als treuwidriges Scheinmotiv ([BGer 4A_477/2025 vom 3. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3))
+
+Wird der Eigenbedarf vom Vermieter bloss vorgeschoben, um einen unliebsamen Mieter loszuwerden oder andere, verpönte Zwecke zu verfolgen, ist die Kündigung treuwidrig.
+
+##### Der Sachverhalt
+Eine Immobiliengesellschaft kündigte ein Wohnraummietverhältnis in Genf ordentlich und begründete dies mit dringendem Eigenbedarf für die betagten Eltern des wirtschaftlich Berechtigten (Alleineigentümer der Gesellschaft). Die Beweiswürdigung der kantonalen Instanzen ergab jedoch ein völlig anderes Bild:
+- Die betagten Eltern lebten seit über 10 Jahren getrennt in zwei verschiedenen italienischen Grossstädten und dachten keineswegs daran, zusammenzuziehen; sie wussten nicht einmal von einem beabsichtigten Zuzug nach Genf.
+- Der wirtschaftlich berechtigte Sohn wohnte und arbeitete gar nicht in Genf, sondern in Lausanne.
+- Im selben Gebäude standen zum Kündigungszeitpunkt drei vergleichbare Wohnungen leer, die ohne Weiteres für die Eltern hätten hergerichtet werden können.
+
+##### Die Erwägungen des Bundesgerichts
+Das Bundesgericht bestätigte die Aufhebung der Kündigung ([E. 5.1–5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3)):
+- **Scheinmotiv begründet Treuwidrigkeit**: Das Vorschieben eines nicht realen Kündigungsgrundes (blosses Vorwandmotiv) macht die Kündigung treuwidrig und nach Art. 271 Abs. 1 OR anfechtbar.
+- **Keine Interessenabwägung erforderlich**: Steht fest, dass der Kündigungsgrund vorgetäuscht war, bedarf es keiner Interessenabwägung mehr. Auf die Frage, ob ein krasses Missverhältnis der Interessen vorliegt, kommt es bei einem Scheinmotiv von vornherein nicht an ([E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3)).
+
+> **Leitsatz.** Bei der ordentlichen Kündigung nach Art. 271 Abs. 1 OR muss der Eigenbedarf nicht dringend sein; jedes ernsthafte und plausible Nutzungsinteresse des Vermieters oder einer ihm wirtschaftlich eng verbundenen Gesellschaft ist legitim. Dient der geltend gemachte Eigenbedarf indessen als bloss vorgeschobenes Scheinmotiv (Vorwand), ist die Kündigung treuwidrig und aufzuheben, ohne dass es noch einer Interessenabwägung oder des Nachweises eines krassen Missverhältnisses bedürfte ([BGer 4A_477/2025 vom 3. August 2026 E. 5.4](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3)).
 
 ---
 

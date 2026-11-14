@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 43 ATSG — Abklärung"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-08-28
+lastmod: 2026-11-13
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 43 ATSG: Amtsermittlungsprinzip, Beweiswürdigung, Mitwirkungspflichten und Mahnverfahren."
 tags: ["Rechtsprechung", "ATSG", "Abklärung", "Amtsermittlungsprinzip", "Mitwirkungspflicht", "Sozialversicherungsrecht"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 8C_623/2025 vom 15.10.2026 in Abschnitt II (Umfassende Geltung des Untersuchungsgrundsatzes bei Eintreten auf Neuanmeldung, Pflicht zur materiellen Abklärung der Befundentwicklung seit der letzten Verfügung)."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -34,6 +38,11 @@ Zurück zum Kommentar: [Art. 43 ATSG — Abklärung](./)
 ---
 
 ## II. Weitere Entscheide
+
+### Untersuchungsgrundsatz bei Neuanmeldung: Pflicht zur Abklärung der Befundentwicklung
+* **Entscheid**: [BGer 8C_623/2025 vom 15. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_8C_623_2025#e-6-1) (Urteil der IV. öffentlich-rechtlichen Abteilung)
+* **Sachverhalt**: Die IV-Stelle trat auf die Neuanmeldung einer Versicherten ein, holte jedoch lediglich rudimentäre hausärztliche Berichte ein, die sich mit der gesundheitlichen Entwicklung seit der ursprünglichen Rentenablehnung von 2014 nicht ansatzweise auseinandersetzten. Verwaltung und Vorinstanz verneinten eine Rentenberechtigung gestützt auf diese knappen Berichte.
+* **Kernaussage**: Tritt die IV-Stelle auf eine Neuanmeldung ein, greift der Untersuchungsgrundsatz nach Art. 43 Abs. 1 ATSG vollumfänglich. Die Verwaltung muss die tatsächliche Befundentwicklung seit der letzten Verfügung materiell abklären. Knappen ärztlichen Berichten, die sich nicht zur effektiven Veränderung der Befundlage im Vergleich zum früheren Zustand äussern, fehlt der Beweiswert für eine Rentenablehnung. Die Verneinung von Leistungsansprüchen gestützt auf eine offensichtlich lückenhafte Aktenlage verletzt Art. 43 Abs. 1 und Art. 61 lit. c ATSG und führt zur Aufhebung und Rückweisung (E. 6.1–6.3).
 
 ### [BGE 141 V 281](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-141-V-281_2015.html) — Anforderungen an die Abklärung bei psychischen Leiden
 - **Kernaussage**: Verpflichtung der IV-Stelle zur Durchführung eines strukturierten Beweisverfahrens bei Schmerzstörungen und psychischen Leiden (E. 5–7).

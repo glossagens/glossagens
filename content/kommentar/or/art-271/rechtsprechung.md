@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 271 OR"
 weight: 99
 date: 2026-09-14
-lastmod: 2026-10-04
+lastmod: 2026-11-13
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 271 OR: Treuwidrigkeit der Kündigung, Sanierungs- und Abbruchkündigungen, Ertragsoptimierung, Hausfriedensstörung und Begründungspflicht, Anwendung von BGE 151 III 481 (BGer 4A_69/2026)."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Kündigungsschutz", "Treu und Glauben", "Abbruchkündigung"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 4A_477/2025 vom 03.08.2026 in Abschnitt II (vorgeschobener Eigenbedarf als Scheinmotiv, Entbehrlichkeit einer Interessenabwägung und Verwirkung von Schlichtungsrügen nach Art. 52 ZPO)."
   - date: 2026-10-04
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -87,6 +91,11 @@ Die nachfolgende Übersicht dokumentiert die massgebende Rechtsprechung des Bund
 ---
 
 ## II. Weitere Entscheide (Kantonale Gerichte und BGer)
+
+### Vorgeschobener Eigenbedarf als treuwidriges Scheinmotiv
+* **Entscheid**: [BGer 4A_477/2025 vom 3. August 2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_477_2025#e-5-3) (Urteil der I. zivilrechtlichen Abteilung)
+* **Sachverhalt**: Eine Immobiliengesellschaft kündigte eine Wohnung in Genf ordentlich und berief sich auf den Eigenbedarf der betagten Eltern des wirtschaftlich berechtigten Alleineigentümers. Die Beweiswürdigung ergab jedoch, dass die Eltern seit über 10 Jahren getrennt in verschiedenen italienischen Städten lebten und vom angeblichen Zuzug nach Genf nichts wussten, der Sohn in Lausanne wohnte und im selben Gebäude drei vergleichbare Wohnungen leer standen.
+* **Kernaussage**: Dient der geltend gemachte Kündigungsgrund (hier Eigenbedarf) nur als blosser Vorwand, liegt eine treuwidrige Kündigung nach Art. 271 Abs. 1 OR vor. Steht das Vorliegen eines Scheinmotivs fest, bedarf es keiner Interessenabwägung mehr; auf das Vorliegen eines krassen Missverhältnisses der Interessen kommt es nicht an (E. 5.4). Verfahrensrügen aus dem Schlichtungsverfahren (fehlende Vertretungsmacht bei der Schlichtung nach Art. 204 ZPO) müssen zudem nach Treu und Glauben (Art. 52 ZPO) bei erster Gelegenheit erhoben werden und sind vor Bundesgericht verwirkt (E. 4.2–4.3).
 
 ### Anwendung von BGE 151 III 481: Abbruchkündigung ohne reifes Projekt; Projektaufgabe nachträglich
 [BGer 4A_69/2026 vom 11. August 2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-69-2026_2026-08-11.html)

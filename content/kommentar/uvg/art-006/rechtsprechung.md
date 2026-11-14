@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 6 UVG"
 weight: 99
 date: 2026-07-03
-lastmod: 2026-09-04
+lastmod: 2026-11-13
 description: "Übersicht der Entscheide zu Art. 6 UVG: Unfallbegriff und ungewöhnlicher äusserer Faktor, Schreckereignis, ärztlicher Eingriff, Listenverletzung nach Abs. 2 und Entlastungsbeweis, Behandlungsschäden nach Abs. 3, Status quo sine sowie Beweiswert versicherungsinterner Berichte."
 tags: ["Rechtsprechung", "UVG", "Unfallversicherung", "Unfallbegriff", "Ungewöhnlichkeit", "Listenverletzung", "Entlastungsbeweis", "Status quo sine", "Schreckereignis", "Behandlungsschaden", "Beweiswert"]
 revisions:
+  - date: 2026-11-13
+    by: "Antigravity"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 8C_287/2026 vom 12.10.2026 in Abschnitt II (Qualifikation von E-Bike-Kollisionen als mittelschwere Unfälle im engeren Sinne, Ausschluss der Schleudertrauma-Praxis bei blosser Commotio cerebri)."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
