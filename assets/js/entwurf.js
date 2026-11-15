@@ -46,6 +46,7 @@
         var dateien = cmp.files.filter(function (f) {
           return /^content\/.*\.md$/.test(f.filename);
         });
+        var istUebernommen = Boolean(pr.merged_at || (pr.labels && pr.labels.some(function (l) { return l.name === 'übernommen'; })));
         return Promise.all(dateien.map(function (f) {
           return Promise.all([
             f.status === 'added' ? '' : roh(repo, basis, f.previous_filename || f.filename),
@@ -58,9 +59,9 @@
             nummer: pr.number,
             titel: pr.title,
             url: pr.html_url,
-            zustand: pr.merged_at ? 'übernommen' : (pr.state === 'open' ? (pr.draft ? 'Entwurf' : 'offen') : 'geschlossen'),
-            uebernommen: pr.merged_at,
-            geschlossen: pr.state === 'closed',
+            zustand: istUebernommen ? 'übernommen' : (pr.state === 'open' ? (pr.draft ? 'Entwurf' : 'offen') : 'geschlossen'),
+            uebernommen: istUebernommen,
+            geschlossen: pr.state === 'closed' && !istUebernommen,
             weitere: cmp.files.length - dateien.length,
             dateien: geladen
           };

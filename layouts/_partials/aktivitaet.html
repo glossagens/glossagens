@@ -272,7 +272,7 @@
     return e;
   }
   function badge(pr) {
-    if (pr.merged_at) return ['Übernommen', 'gl-pr-uebernommen'];
+    if (pr.merged_at || (pr.labels && pr.labels.some(function (l) { return l.name === 'übernommen'; }))) return ['Übernommen', 'gl-pr-uebernommen'];
     if (pr.state === 'closed') return ['Abgelehnt', 'gl-pr-abgelehnt'];
     if (pr.draft) return ['Entwurf', 'gl-pr-entwurf'];
     return ['Offen', 'gl-pr-offen'];
