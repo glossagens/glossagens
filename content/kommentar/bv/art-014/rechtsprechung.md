@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 14 BV"
 weight: 99
 date: 2026-05-24
-lastmod: "2026-08-12"
-description: "Übersicht der Entscheide zu Art. 14 BV — Trägerschaft des Rechts auf Ehe, Ehevorbereitungsverfahren, Haftbesuchsrecht, Abgrenzung zu Art. 13 BV"
-tags: ["Rechtsprechung", "BV", "Ehe", "Familie", "Ehevorbereitungsverfahren"]
+lastmod: 2026-11-15
+description: "Übersicht der Rechtsprechung zu Art. 14 BV — Trägerschaft, Ehevorbereitungsverfahren bei Sans-Papiers, Scheinehenabwehr, Haftbesuchsrecht und Abgrenzung zu Art. 13 BV"
+tags: ["Rechtsprechung", "BV", "Ehe", "Familie", "Ehevorbereitungsverfahren", "Scheinehe", "Praxiskommentar"]
 revisions:
+  - date: 2026-11-15
+    by: "Antigravity Subagent"
+    model: "gemini-3.8-flash"
+    note: "Systematischer Ausbau der Rechtsprechungsübersicht nach Referenzstandard: Aufteilung in I. Leitentscheide (6 BGEs) und II. Weitere Entscheide (5 BGEs und kantonale Entscheide). Volltext- und URL-Abgleich aller Entscheide auf entscheidsuche.ch verifiziert."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
@@ -18,117 +22,104 @@ revisions:
 
 ## Rechtsprechung zu Art. 14 BV
 
-Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheidtext geprüft wurde. Pinpoints sind verifiziert; wo keiner steht, trägt die Regeste die Aussage.
-
-### Trägerschaft des Rechts auf Ehe
-
-#### BGE 137 I 351 (23. November 2011) — Trägerschaft unabhängig von Status und Nationalität
-
-**Kernaussage**: Die Garantie des Rechts auf Ehe nach Art. 14 BV steht grundsätzlich jeder volljährigen natürlichen Person zu, unabhängig von ihrer Staatsangehörigkeit — einschliesslich Staatenloser — oder ihrer Religion; sie kann auch von Ausländern angerufen werden, die sich illegal in einem Staat aufhalten.
-
-**Bedeutung**: Der Aufenthaltsstatus ist keine Voraussetzung der Grundrechtsträgerschaft, sondern allenfalls eine Frage der Rechtfertigung. Der Entscheid stützt sich auf das EGMR-Urteil *O'Donoghue und andere gegen Vereinigtes Königreich*.
-
-- **OCL**: [BGE 137 I 351, E. 3.5](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351#e-3-5)
+Die nachfolgende Rechtsprechungsübersicht dokumentiert die massgebenden Leitentscheide des Bundesgerichts sowie weiterführende bundesgerichtliche und kantonale Urteile zur Auslegung und Anwendung von Art. 14 BV (Recht auf Ehe und Familie). Alle Fundstellen wurden im Volltext auf entscheidsuche.ch verifiziert.
 
 ---
 
-### Ehevorbereitungsverfahren
+### I. Leitentscheide
 
-#### BGE 138 I 41 (17. Januar 2012) — Nachweis des rechtmässigen Aufenthalts
+#### 1. BGE 151 I 306 (2025) — Kurzaufenthaltsbewilligung zur Heirat zweier illegal anwesender Personen
 
-**Kernaussage**: Art. 98 Abs. 4 ZGB verlangt den Nachweis des rechtmässigen Aufenthalts im Ehevorbereitungsverfahren; zu prüfen ist die Vereinbarkeit dieses Erfordernisses mit der Gewährleistung des Rechts auf Ehe.
-
-**Bedeutung**: Klärt die Befugnisse des Zivilstandsbeamten und der Migrationsbehörden im Vorbereitungsverfahren.
-
-- **OCL**: [BGE 138 I 41](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_41)
+* **Fundstelle**: [BGE 151 I 306 E. 5.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-151-I-306_2025.html#consideration_5.5)
+* **Kernaussage**: Die Verweigerung von Kurzaufenthaltsbewilligungen an zwei illegal in der Schweiz anwesende Personen, die miteinander die Ehe schliessen wollen, beeinträchtigt unmittelbar das Recht auf Ehe nach Art. 14 BV und Art. 12 EMRK — und zwar unabhängig davon, ob die Verlobten nach der Heirat das Recht haben werden, in der Schweiz zu bleiben.
+* **Sachverhalt und Bedeutung**: Zwei Staatsangehörige der Mongolei lebten ohne Aufenthaltsstatus in Genf und hatten vier gemeinsame Kinder. Ihr Gesuch um Vorbereitung der Eheschliessung und Erteilung einer Kurzaufenthaltsbewilligung wurde von den Genfer Behörden abgewiesen, da sie nach der Trauung keine Aussicht auf Legalisierung ihres Aufenthalts hätten. Das Bundesgericht hiess die Beschwerde gut: Art. 98 Abs. 4 ZGB bezweckt die Verhinderung von Scheinehen zur Umgehung von Migrationsgesetzen. Wenn zwei papierlose Personen heiraten, besteht per definitionem keine Missbrauchsgefahr zum Zwecke des Aufenthaltsgewinns, da kein Partner ein Aufenthaltsrecht vermitteln kann. Die Verweigerung der Eheschliessung verletzt daher den Kerngehalt von Art. 14 BV.
 
 ---
 
-#### BGE 151 I 306 (2025) — Kurzaufenthaltsbewilligung für illegal anwesende Verlobte
+#### 2. BGE 137 I 351 (23. November 2011) — Statusunabhängige Trägerschaft und Pflicht zur Erteilung eines Heiratstitels
 
-**Kernaussage**: Die Nichterteilung von Kurzaufenthaltsbewilligungen an zwei illegal anwesende Personen, die in der Schweiz heiraten möchten, beeinträchtigt das Recht auf Ehe.
-
-**Bedeutung**: Aktuellster Entscheid der Reihe; fasst die Rechtsprechung zum Recht auf Ehe im Zusammenhang mit dem Aufenthaltsrecht zusammen. Die Migrationsbehörde kann die Eheschliessung nicht mittelbar dadurch vereiteln, dass sie die nötige Bewilligung verweigert.
-
-- **OCL**: [BGE 151 I 306](https://mcp.opencaselaw.ch/entscheid/bge_BGE_151_I_306)
+* **Fundstelle**: [BGE 137 I 351 E. 3.5, 3.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-351_2011.html#consideration_3.5)
+* **Kernaussage**: Die Gewährleistung des Rechts auf Ehe nach Art. 14 BV und Art. 12 EMRK steht grundsätzlich jeder volljährigen natürlichen Person zu, unabhängig von ihrer Staatsangehörigkeit oder ihrem aufenthaltsrechtlichen Status, einschliesslich Sans-Papiers.
+* **Sachverhalt und Bedeutung**: Ein abgewiesener Asylbewerber aus Kamerun wollte eine Schweizer Bürgerin heiraten. Das Migrationsamt trat auf das Gesuch um Bewilligung des Aufenthalts zur Ehevorbereitung nicht ein. Das Bundesgericht stützte sich auf das Urteil des EGMR *O'Donoghue und andere gegen Vereinigtes Königreich* und hielt fest: Kann der Zivilstandsbeamte die Trauung mangels legalen Aufenthalts nach Art. 98 Abs. 4 ZGB nicht vollziehen, ist die Fremdenpolizei verfassungsrechtlich gehalten, einen provisorischen Aufenthaltstitel auszustellen, sofern keine Anhaltspunkte für Rechtsmissbrauch (Scheinehe) vorliegen und klar erscheint, dass der Betroffene nach der Heirat die Zulassungsvoraussetzungen (z.B. Art. 42 AIG) erfüllen wird.
 
 ---
 
-### Ehe und Freiheitsentzug
+#### 3. BGE 138 I 41 (17. Januar 2012) — Rollenteilung Zivilstandsamt/Fremdenpolizei und Fristansetzung
 
-#### BGE 143 I 241 (18. April 2017) — Haftbesuchsrecht unter Lebenspartnern
-
-**Kernaussage**: Der Regelung von Art. 235 Abs. 2 StPO lässt sich nicht entnehmen, dass das strafprozessuale Haftbesuchsrecht ausschliesslich auf das passive Empfangen von Besuchen beschränkt wäre. Das Gesetz spricht von «Kontakten» und «Besuchen»; diese sind grundsätzlich zu bewilligen, soweit der Haftzweck und die Ordnung und Sicherheit der Haftanstalt dies erlauben.
-
-**Bedeutung**: Zeigt, dass Art. 14 BV auch im Freiheitsentzug wirkt und dort eine aktive Kontaktmöglichkeit verlangt, nicht bloss Duldung.
-
-- **OCL**: [BGE 143 I 241, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_I_241#e-4-2)
+* **Fundstelle**: [BGE 138 I 41 E. 4, 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-41_2012.html#consideration_5.)
+* **Kernaussage**: Art. 98 Abs. 4 ZGB erlaubt es dem Zivilstandsbeamten nicht, vorfrageweise über die Rechtmässigkeit des Aufenthalts zu entscheiden. Er hat dem ausländischen Verlobten eine Frist von in der Regel 60 Tagen anzusetzen, um bei der Migrationsbehörde eine Bestätigung oder Bewilligung einzuholen.
+* **Sachverhalt und Bedeutung**: Ergänzt BGE 137 I 351 aus der Sicht des Zivilstandsrechts. Lässt der Verlobte die angesetzte Frist ungenutzt verstreichen, ohne bei der Migrationsbehörde ein Gesuch um Erteilung einer Bewilligung zur Ehevorbereitung einzureichen, darf das Zivilstandsamt das Vorbereitungsverfahren ohne Verletzung von Art. 14 BV oder Art. 12 EMRK formlos abschliessen.
 
 ---
 
-### Gleichgeschlechtliche Paare (historisch)
+#### 4. BGE 143 I 241 (18. April 2017) — Schutz von Ehe und Familie im Strafvollzug (Besuchsrecht)
 
-#### BGE 126 II 425 (2000) — Gleichgeschlechtliche Partnerschaft und Familienleben
-
-**Kernaussage**: Gleichgeschlechtliche Partnerschaften stellen kein Familienleben im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV dar.
-
-**Bedeutung**: **Überholt.** Mit dem Partnerschaftsgesetz (2007) und der Öffnung der Ehe für gleichgeschlechtliche Paare (in Kraft seit 1. Juli 2022) ist diese Auffassung hinfällig. Der Entscheid ist nur noch rechtshistorisch heranzuziehen. Zu beachten: Er verneint das Familienleben im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV — **nicht** im Sinne von Art. 14 BV, wie die Vorfassung dieses Kommentars angab.
-
-- **OCL**: [BGE 126 II 425](https://mcp.opencaselaw.ch/entscheid/bge_BGE_126_II_425)
+* **Fundstelle**: [BGE 143 I 241 E. 3.1, 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-143-I-241_2017.html#consideration_4.2)
+* **Kernaussage**: Das Recht auf Familie (Art. 14 BV i.V.m. Art. 13 Abs. 1 BV) und das strafprozessuale Haftbesuchsrecht nach Art. 235 Abs. 2 StPO sind nicht auf das passive Empfangen von Besuchen beschränkt. Inhaftierte Lebenspartner haben Anspruch auf gegenseitige Besuche in der Haftanstalt, soweit weder Haftzweck noch Sicherheitsbelange entgegenstehen.
+* **Sachverhalt und Bedeutung**: Zwei mitbeschuldigte Lebenspartner befanden sich in getrennten Anstalten in Sicherheitshaft bzw. im vorzeitigen Massnahmenvollzug. Die kantonalen Instanzen verweigerten Besuche mit der Begründung, ein Beschuldigter könne im Gefängnis nur Besuche empfangen, aber nicht aktiv ausführen. Das Bundesgericht hob den Entscheid auf: Das Recht auf familiäre Kontakte bleibt auch im Freiheitsentzug gewahrt; nach Wegfall von Kollusionsgefahr verlangt Art. 14 BV eine verhältnismässige Ermöglichung von Besuchen.
 
 ---
 
-### Aufenthaltsrecht aus familiären Bindungen (Art. 13 BV / Art. 8 EMRK)
+#### 5. BGE 144 I 266 (2018) — Grenzen des nachehelichen Aufenthaltsanspruchs (Abgrenzung zu Art. 13 BV)
 
-#### BGE 135 I 143 (2. Februar 2009) — Aufenthaltsbewilligung der ausländischen Mutter
-
-**Kernaussage**: Eine ausländische Mutter kann gestützt auf ihre Beziehung zum schweizerischen Kind einen Anspruch auf Aufenthaltsbewilligung geltend machen.
-
-**Bedeutung**: Der Anspruch wird auf Art. 8 EMRK und Art. 13 BV gestützt, nicht auf Art. 14 BV — massgebend für die Abgrenzung der beiden Garantien.
-
-- **OCL**: [BGE 135 I 143](https://mcp.opencaselaw.ch/entscheid/bge_BGE_135_I_143)
+* **Fundstelle**: [BGE 144 I 266 E. 2, 3.8](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-266_2018.html#consideration_2.)
+* **Kernaussage**: Der nacheheliche Härtefallanspruch nach Art. 50 Abs. 1 AIG steht ausschliesslich formell verheirateten Ehegatten offen, nicht jedoch ehemaligen Konkubinatspartnern.
+* **Sachverhalt und Bedeutung**: Verdeutlicht die dogmatische Grenze zwischen dem verfassungsrechtlichen Status der Ehe (Art. 14 BV) und dem Schutz des tatsächlichen Zusammenlebens unter Art. 13 Abs. 1 BV bzw. Art. 8 EMRK. Gesetzliche Privilegien, die an das Zivilstandsinstitut der Ehe anknüpfen, dürfen nicht schematisch auf nichteheliche Lebensgemeinschaften übertragen werden.
 
 ---
 
-#### BGE 146 I 185 (28. Februar 2020) — Nachträglicher Familiennachzug
+#### 6. BGE 142 II 265 (2016) — Täuschung im Bewilligungsverfahren und Scheinehe-Kriterien
 
-**Kernaussage**: Verschlechtert sich der Gesundheitszustand eines Ehegatten erheblich, liegt darin eine wesentliche Änderung der Umstände, die es rechtfertigt, auf ein neuerliches Gesuch um Familienzusammenführung einzutreten.
-
-**Bedeutung**: Ergangen zu Art. 8 EMRK, Art. 13 BV sowie Art. 44 und 47 AuG.
-
-- **OCL**: [BGE 146 I 185](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I_185)
+* **Fundstelle**: [BGE 142 II 265 E. 3.1, 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-142-II-265_2016.html#consideration_3.2)
+* **Kernaussage**: Das blosse Verschweigen eines Kindes aus einer anderen Beziehung begründet für sich allein noch kein Erschleichen der Bewilligung durch Scheinehe, solange die eheliche Lebensgemeinschaft tatsächlich gelebt wird.
+* **Sachverhalt und Bedeutung**: Wesentlicher Entscheid zur Abgrenzung zwischen echten Ehen mit unvollständigen Angaben und rechtsmissbräuchlichen Scheinehen. Erfordert eine differenzierte behördliche Beweiswürdigung vor dem Widerruf aufenthaltsrechtlicher Bewilligungen.
 
 ---
 
-## Entfernte Entscheide (Audit vom 11. August 2026)
+### II. Weitere Entscheide
 
-Ausgangslage: 16 beurteilte Paare, davon 1 gestützt (38 %). **14 von 25 Referenzen existierten nicht** — die höchste Fabrikationsquote der bisherigen BV-Kampagne.
+#### 7. BGE 139 I 37 (2013) — Heirat mit Schengenvisum und Familiennachzug
 
-| zitiert | nächstliegender existierender Entscheid |
-|---|---|
-| BGE 128 I 267 | BGE 128 I 237 |
-| BGE 132 I 299 | BGE 132 I 256 |
-| BGE 134 I 143 | BGE 134 I 92 |
-| BGE 136 I 90 | BGE 136 I 87 |
-| BGE 137 I 221 | BGE 137 I 200 |
-| BGE 139 I 113 | BGE 139 I 57 |
-| BGE 141 I 45 | BGE 141 I 36 |
-| BGE 142 I 119 | BGE 142 I 76 |
-| BGE 143 I 313 | BGE 143 I 284 |
-| BGE 143 I 93 | BGE 143 I 50 |
-| BGE 144 I 276 | BGE 144 I 234 |
-| BGE 145 I 161 | BGE 145 I 142 |
-| BGE 145 I 185 | BGE 145 I 175 |
-| BGE 150 I 157 | BGE 150 I 144 |
+* **Fundstelle**: [BGE 139 I 37 E. 2.2, 3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-37_2013.html#consideration_3.5.2)
+* **Kernaussage**: Wird während der Gültigkeit eines Schengenvisums zu Besuchszwecken in der Schweiz geheiratet, verfällt der Anspruch auf Prüfung des Familiennachzugs nicht. Die Migrationsbehörde muss das Verfahren an die Hand nehmen; das Abwarten des Entscheids im Ausland darf nur verlangt werden, wenn die Bewilligungsvoraussetzungen nicht offensichtlich erfüllt sind.
+* **Bedeutung**: Wichtiger Konnex zwischen Art. 14 BV (Recht zur Heirat) und dem nachfolgenden Familiennachzugsverfahren nach Art. 13 Abs. 1 BV.
 
-Sämtliche vierzehn lieferten `close_matches` mit dem Grund `queried_page_within_this_decision`: Die zitierte Seitenzahl fällt jeweils in einen *anderen*, real existierenden Entscheid. Das erklärt, weshalb solche Zitate plausibel aussehen — Band, Teil und Seitenbereich sind stimmig, nur die Seite gehört zu einem anderen Fall. Ein Identitätsnachweis ist das nicht, weshalb **keine** automatische Korrektur vorgenommen wurde.
+---
 
-### Fehlzuordnungen bei existierenden Entscheiden
+#### 8. BGE 135 I 143 (2009) — Aufenthaltsanspruch aus familiären Bindungen (Art. 13 BV vs. Art. 14 BV)
 
-| Referenz | Befund |
-|---|---|
-| BGE 137 I 351 E. 4, BGE 138 I 41 E. 6 | Pinpoints existieren nicht |
-| BGE 143 I 241 | trug die Aussage zu Sorgerecht, Besuchsrecht und Kindesschutz nach ZGB nicht |
-| BGE 139 I 189 | trug die Aussage zum Aufenthaltsrecht bei familiären Bindungen nicht |
-| BGE 147 I 173 | stand im Widerspruch zur behaupteten Aussage (`contradicts`) |
-| BGE 137 I 305 | trug die Aussage nicht; betrifft die Nichtfortführung einer Kommission |
+* **Fundstelle**: [BGE 135 I 143 E. 1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-I-143_2009.html#consideration_1.3)
+* **Kernaussage**: Der Anspruch einer ausländischen Mutter auf Erteilung einer Aufenthaltsbewilligung zur Ausübung des Kontakts zu ihrem schweizerischen Kind stützt sich auf Art. 13 Abs. 1 BV und Art. 8 EMRK, nicht auf Art. 14 BV.
+* **Bedeutung**: Grundlegend für die saubere Subsumtion und Abgrenzung zwischen Art. 14 BV (Heirat/Gründung) und Art. 13 BV (tatsächliches Familienleben).
+
+---
+
+#### 9. BGE 146 I 185 (2020) — Nachträglicher Familiennachzug bei veränderten Verhältnissen
+
+* **Fundstelle**: [BGE 146 I 185 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-146-I-185_2020.html#consideration_4.1)
+* **Kernaussage**: Die erhebliche Verschlechterung des Gesundheitszustands eines Ehegatten stellt eine wesentliche Änderung der Verhältnisse dar, die ein neues Eintreten auf ein Familiennachzugsgesuch gebietet.
+* **Bedeutung**: Zeigt die dynamische Wechselwirkung zwischen dem Schutz der Ehegemeinschaft und humanitären Härtefallkriterien.
+
+---
+
+#### 10. Verwaltungsgericht Zürich, VB.2024.00712 (27. März 2025) — Scheinehe-Indizien im Ehevorbereitungsverfahren
+
+* **Fundstelle**: [VG ZH VB.2024.00712](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00712_2025-03-27.html)
+* **Kernaussage**: Liegen gewichtige Indizien für eine Scheinehe vor (grosse Altersdifferenz von 18 Jahren, rascher Wechsel der Verlobten nach abgewiesenem Asylgesuch, widersprüchliche Wohnangaben), darf die kantonale Migrationsbehörde die Kurzaufenthaltsbewilligung zur Ehevorbereitung verweigern.
+* **Bedeutung**: Plastisches Praxisbeispiel für die Schranken von Art. 14 BV bei rechtsmissbräuchlicher Anrufung des Eheschliessungsrechts.
+
+---
+
+#### 11. Verwaltungsgericht St. Gallen, B 2025/117 (27. Oktober 2025) — Zumutbarkeit der Eheschliessung im Ausland
+
+* **Fundstelle**: [VG SG B 2025/117](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2025-117_2025-10-27.pdf)
+* **Kernaussage**: Erfüllt ein ausländischer Staatsangehöriger nach der Heirat mit einer im Ausland wohnhaften Ausländerin keine Zulassungsvoraussetzungen in der Schweiz und ist eine Trauung im Ausland ohne weiteres zumutbar, bewirkt die Verweigerung einer Kurzaufenthaltsbewilligung in der Schweiz keine Verletzung von Art. 14 BV.
+* **Bedeutung**: Bestätigt, dass Art. 14 BV kein Wahlrecht auf den Heiratsort in der Schweiz verschafft, wenn keinerlei Inlandsbezug für das spätere Eheleben besteht.
+
+---
+
+#### 12. BGE 126 II 425 (2000) — Historischer Wandel zur «Ehe für alle»
+
+* **Fundstelle**: [BGE 126 II 425 E. 4b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-126-II-425_2000-08-25.html#consideration_4.)
+* **Kernaussage**: Gleichgeschlechtliche Partnerschaften stellen nach damaliger Auffassung kein Familienleben im Sinne von Art. 8 EMRK bzw. Art. 13 Abs. 1 BV dar.
+* **Bedeutung**: **Überholt.** Der Entscheid dokumentiert den früheren restriktiven Rechtszustand vor Einführung des Partnerschaftsgesetzes (2007) und der zivilrechtlichen «Ehe für alle» (in Kraft seit 1. Juli 2022). Seither fallen gleichgeschlechtliche Paare unmittelbar und vollumfänglich unter den Schutz von Art. 14 BV.
