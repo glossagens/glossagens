@@ -17,6 +17,10 @@ revisions:
   - date: '2026-11-15'
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
+    note: "Überarbeitung nach praxisorientierter-kommentar-Skill: Alle GitHub-Alert-Kästen entfernt und in regulären Fliesstext/Unterabschnitte überführt, Eszett beseitigt, Autorennamen im Literaturverzeichnis anhand BGE 148 IV 96 E. 4.5.1 korrigiert (Andreas Eicker / Friedrich Frank / Jonas Achermann)."
+  - date: '2026-11-15'
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
     note: "Vollständige Neuerstellung als Praxiskommentar im Standard Art. 110 StPO / Art. 336 OR. Gesetzeswortlaut via {{< wortlaut >}} amtlich eingebunden (Stand 01.09.2023). Entstehungsgeschichte und Gesetzeszweck anhand der Botschaft 1971 (BBl 1971 I 993, S. 1006 f., Ziff. 213.2) belegt. Volltextbasierte Kasuistik und Judikaturanalyse: Leitentscheide BGE 148 IV 96, BGer 6B_938/2020, BGer 6B_144/2021, BGer 6B_260/2020, BStGer SK.2018.53, BStGer SK.2022.14, BStGer SK.2017.22, BStGer SK.2016.19 sowie kantonale Entscheide (BE OG SK 2020 423, SO OGer STBER.2021.42, ZH OG SU180032, ZH KG AC030127) im Volltext ausgewertet und verbatim auf entscheidsuche.ch verlinkt. Keine Code-Fences um Tabellen."
 ---
 
@@ -66,9 +70,7 @@ Prüfungsschritt 1: Konkurrenzform
     └── FOLGE: Art. 9 VStrR greift → REINE KUMULATION (Addition der Bussen)
 ```
 
-> [!IMPORTANT]
-> **Verbot der Doppelverwertung (*ne bis in idem*)**:
-> Enthält ein umfassender Tatbestand des Nebenstrafrechts den Unrechtsgehalt einer allgemeineren Ordnungswidrigkeit vollständig, verdrängt dieser das untergeordnete Delikt. Eine Kumulation von Bussen aus echter Konkurrenz darf unter keinen Umständen dazu führen, dass derselbe tatsächliche Unrechtsaspekt doppelt sanktioniert wird ([BStGer SK.2017.22 vom 14. Juni 2018 E. 6.2](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2017-22_2018-06-14.pdf)).
+**Verbot der Doppelverwertung (*ne bis in idem*)**: Enthält ein umfassender Tatbestand des Nebenstrafrechts den Unrechtsgehalt einer allgemeineren Ordnungswidrigkeit vollständig, verdrängt dieser das untergeordnete Delikt. Eine Kumulation von Bussen aus echter Konkurrenz darf nicht dazu führen, dass derselbe tatsächliche Unrechtsaspekt doppelt sanktioniert wird ([BStGer SK.2017.22 vom 14. Juni 2018 E. 6.2](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2017-22_2018-06-14.pdf)).
 
 ### 2. Anwendungsbereich von Art. 9 VStrR: Sachliche Reichweite
 
@@ -81,9 +83,7 @@ Der Ausschluss des Asperationsprinzips nach Art. 9 VStrR erfasst folgende Fallgr
 
 Art. 9 VStrR schliesst das Asperationsprinzip ausdrücklich auch für **Umwandlungsstrafen** (Ersatzfreiheitsstrafe / Haft) aus. Werden gegen eine Person mehrere Bussen verhängt und erweisen sich diese als uneinbringlich, so werden die darauf entfallenden Umwandlungstage (nach dem Schlüssel von Art. 10 Abs. 3 VStrR: CHF 30.- = 1 Tag Haft) prinzipiell addiert ([BStGer SK.2022.14 vom 10. Februar 2023 E. 5.1.3](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2022-14_2023-02-10.pdf)).
 
-> [!CAUTION]
-> **Die absolute 90-Tage-Grenze (Dreimonatsdeckel)**:
-> Die Kumulation von Umwandlungshafttagen findet ihre unüberwindbare Grenze in Art. 10 Abs. 3 VStrR: Die Ersatzfreiheitsstrafe darf für eine oder mehrere Bussen **zusammen höchstens drei Monate (90 Tage)** betragen! Auch wenn die Addition von zehn Bussen rechnerisch 600 Tage Haft ergäbe, greift die absolute gesetzliche Sperrwirkung des Dreimonatsdeckels ([BGE 141 IV 407 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-407_2015.html#consideration_3.); [BStGer SK.2022.14 E. 5.1.3](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2022-14_2023-02-10.pdf)).
+**Absolute Obergrenze von 90 Tagen (Dreimonatsdeckel)**: Die Kumulation von Umwandlungshafttagen findet ihre gesetzliche Grenze in Art. 10 Abs. 3 VStrR: Die Ersatzfreiheitsstrafe darf für eine oder mehrere Bussen zusammen höchstens drei Monate (90 Tage) betragen. Auch wenn die Addition mehrerer Bussen rechnerisch eine höhere Anzahl Hafttage ergäbe, greift die Sperrwirkung des Dreimonatsdeckels ([BGE 141 IV 407 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-407_2015.html#consideration_3.); [BStGer SK.2022.14 E. 5.1.3](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2022-14_2023-02-10.pdf)).
 
 ---
 
@@ -159,19 +159,15 @@ Um die Härten des Kumulationsprinzips verfassungs- und verhältnismässigkeitsk
 
 ### Für Strafbehörden (BAZG, ESTV, Bundesämter)
 
-> [!IMPORTANT]
-> **Vermeidung von Begründungs- und Dispositivmängeln**:
-> 1. **Präzise Trennung der Einzeldelikte**: Jeder Lebenssachverhalt bei Realkonkurrenz ist im Strafbescheid als eigenständige Widerhandlung zu bezeichnen. Für jedes Delikt ist eine eigenständige Busse festzusetzen, bevor diese zur Gesamtforderung aufsummiert werden.
-> 2. **Sorgfältige Abgrenzung zur Idealkonkurrenz**: Prüfen Sie stets, ob eine spezialgesetzliche Asperationsnorm greift (z.B. Art. 101 Abs. 4 MWSTG bei Nichtanmeldung durch ein einziges Transportfahrzeug). Liegt eine einzige Handlung vor, ist die Asperation anzuwenden!
-> 3. **Ersatzfreiheitsstrafe bei mehreren Bussen**: Wird für kumulierte Bussen später die Umwandlung beantragt (Art. 91 VStrR), darf die beantragte Haftdauer niemals die Maximaldauer von **90 Tagen** übersteigen (Art. 10 Abs. 3 VStrR).
+1. **Präzise Trennung der Einzeldelikte**: Bezeichnen Sie jeden Lebenssachverhalt bei Realkonkurrenz im Strafbescheid als eigenständige Widerhandlung und setzen Sie für jedes Delikt eine separate Busse fest, bevor Sie diese zur Gesamtforderung aufsummieren ([BGE 148 IV 96 E. 4.5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-96_2022.html#consideration_4.5.1)).
+2. **Sorgfältige Abgrenzung zur Idealkonkurrenz**: Prüfen Sie stets, ob eine spezialgesetzliche Asperationsnorm greift (z.B. Art. 101 Abs. 4 MWSTG bei Nichtanmeldung durch ein einziges Transportfahrzeug). Liegt eine einzige Handlung vor, ist das Asperationsprinzip anzuwenden.
+3. **Ersatzfreiheitsstrafe bei mehreren Bussen**: Beantragen Sie bei der Umwandlung kumulierter Bussen (Art. 91 VStrR) eine Haftdauer von höchstens **90 Tagen** (Art. 10 Abs. 3 VStrR; [BGE 141 IV 407 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-407_2015.html#consideration_3.)).
 
 ### Für die Verteidigung
 
-> [!TIP]
-> **Taktische Hebel gegen kumulierte Großbussen**:
-> 1. **Rüge der unechten Konkurrenz (Deliktsverdrängung)**: Prüfen Sie akribisch, ob zwischen den angeklagten VStrR-Vorwürfen Konsumtion, Spezialität oder mitbestrafte Vortat/Nachtat vorliegt. Gelingt der Nachweis unechter Konkurrenz, entfällt die Kumulation von vornherein!
-> 2. **Geltendmachung der Idealkonkurrenz**: Versuchen Sie aufzuzeigen, dass die mehreren Delikte auf einem einzigen Willensentschluss und einer einheitlichen Tathandlung beruhen (z.B. ein einziger Gesamtexport anstelle von Einzelfahrten), um in den Genuss spezialgesetzlicher Asperationsregeln (wie Art. 101 Abs. 4 MWSTG) zu gelangen.
-> 3. **Berufung auf das Übermassverbot bei der Gesamtsumme**: Rügen Sie eine Verletzung des Verhältnismässigkeitsprinzips (Art. 5 Abs. 2 BV), wenn die lineare Aufsummierung der Einzelbussen zu einer existenzvernichtenden Gesamtbelastung führt. Verlangen Sie eine Herabsetzung der Einzelbussen im Lichte des Gesamtschuldgehalts.
+1. **Rüge der unechten Konkurrenz (Deliktsverdrängung)**: Prüfen Sie, ob zwischen den angeklagten VStrR-Vorwürfen Konsumtion, Spezialität oder mitbestrafte Vortat bzw. Nachtat vorliegt. Gelingt der Nachweis unechter Konkurrenz, entfällt die Kumulation ([BStGer SK.2017.22 E. 6.2](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_SK-2017-22_2018-06-14.pdf)).
+2. **Geltendmachung der Idealkonkurrenz**: Zeigen Sie auf, dass die mehreren Delikte auf einer einheitlichen Tathandlung beruhen, um in den Anwendungsbereich spezialgesetzlicher Asperationsregeln (wie Art. 101 Abs. 4 MWSTG) zu gelangen.
+3. **Berufung auf das Übermassverbot bei der Gesamtsumme**: Rügen Sie eine Verletzung des Verhältnismässigkeitsprinzips (Art. 5 Abs. 2 BV), wenn die lineare Aufsummierung der Einzelbussen zu einer unangemessenen Gesamtbelastung führt, und beantragen Sie eine Herabsetzung der Einzelbussen im Lichte des Gesamtschuldgehalts.
 
 ---
 
@@ -179,6 +175,6 @@ Um die Härten des Kumulationsprinzips verfassungs- und verhältnismässigkeitsk
 
 - **Achermann Jonas**, Basler Kommentar zum Verwaltungsstrafrecht, Basel 2020, N 1–37 zu Art. 9 VStrR.
 - **Ackermann Jürg-Beat**, Basler Kommentar zum Strafrecht, Bd. I, 4. Aufl., Basel 2019, N 103 zu Art. 49 StGB.
-- **Eicker Fredy / Frank Benjamin / Achermann Jonas**, Verwaltungsstrafrecht und Verwaltungsstrafverfahrensrecht, Bern 2012, S. 74 ff.
+- **Eicker Andreas / Frank Friedrich / Achermann Jonas**, Verwaltungsstrafrecht und Verwaltungsstrafverfahrensrecht, Bern 2012, S. 74 ff.
 - **Heimgartner Stefan**, Basler Kommentar zum Strafrecht, Bd. I, 4. Aufl., Basel 2019, N 30 vor Art. 103 StGB.
 - **Schwob Renate**, Verwaltungsstrafrecht des Bundes, Schweizerische Juristische Kartothek (SJK), Karte 1287, Genf 1985, S. 8 f.
