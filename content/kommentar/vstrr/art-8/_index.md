@@ -16,6 +16,10 @@ revisions:
   - date: '2026-11-15'
     by: "Antigravity"
     model: "Gemini 3.8 Flash"
+    note: "Überarbeitung nach praxisorientierter-kommentar: GitHub-Alert-Kästen im Abschnitt Praxishinweise entfernt und in reguläre Aufzählungen ohne Ausrufezeichen/Metaphern überführt; Vornamen und Titel im Literaturverzeichnis korrigiert (Andreas Eicker / Friedrich Frank / Jonas Achermann sowie vollständige BSK-Herausgeberangaben)."
+  - date: '2026-11-15'
+    by: "Antigravity"
+    model: "Gemini 3.8 Flash"
     note: "Vollständige Neuerstellung als Praxiskommentar im Standard Art. 110 StPO / Art. 336 OR. Gesetzeswortlaut via {{< wortlaut >}} amtlich eingebunden (Stand 01.09.2023). Gesetzgeberische Motive und Zweck anhand der Botschaft 1971 (BBl 1971 I 993, S. 1007, Ziff. 213.2) belegt. Rechtsprechung systematisch ausgewertet: Leitentscheide BGE 149 IV 395, BGer 6B_1186/2022, BGE 144 IV 136, BGer 6B_596/2019, BGer 6B_260/2020, BStGer SK.2019.41 sowie kantonale Urteile (ZH OG SU190013, ZH OG SU230058, AG OG SST.2022.14, BS APG BES.2014.109, BL KG 460 16 270) im Volltext verifiziert und verbatim auf entscheidsuche.ch verlinkt. Keine Code-Fences um Tabellen."
 ---
 
@@ -132,26 +136,22 @@ Wird eine Busse mangels Bezahlung nachträglich nach Art. 10 VStrR in eine Ersat
 
 ### Für Strafbehörden (BAZG, ESTV, Bundesämter)
 
-> [!IMPORTANT]
-> **Substanziierungsfalle bei der 5'000-Franken-Grenze**:
-> 1. Liegt der geschätzte Bussenbetrag bis CHF 5'000.-, genügt im Strafbescheid eine knappe Begründung zu Tatschwere, objektiver Rechtsgutsgefährdung und Verschulden. Steuererklärungen und Lohnausweise müssen nicht eingeholt werden.
-> 2. Zeichnet sich ab, dass die Busse CHF 5'000.- übersteigen könnte (insb. bei Deliktsbeträgen im Steuer- oder Zollrecht), müssen zwingend von Beginn weg die Einkommens- und Vermögensverhältnisse ermittelt werden (Art. 34 Abs. 3 StGB). Ohne diese Erhebungen ist der Bussenentscheid im Rechtsmittelverfahren nicht haltbar!
-> 3. Vorgelegte Notlagenbeweise der Gegenpartei dürfen nicht mit dem Hinweis auf Art. 8 VStrR ungelesen verworfen werden; sie sind im Rahmen des Entschliessungsermessens kurz zu würdigen.
+1. **Begründungsdichte bei Bussen bis CHF 5'000.-**: Liegt der geschätzte Bussenbetrag bis CHF 5'000.-, genügt im Strafbescheid eine knappe Begründung zu Tatschwere, objektiver Rechtsgutsgefährdung und Verschulden. Steuererklärungen und Lohnausweise müssen nicht eingeholt werden ([BGer 6B_596/2019 E. 3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-596-2019_2019-08-13.html)).
+2. **Abklärungspflicht bei Überschreiten der Schwelle**: Zeichnet sich ab, dass die Busse CHF 5'000.- übersteigen könnte (insbesondere bei höheren Deliktsbeträgen im Steuer- oder Zollrecht), erheben Sie von Beginn weg die Einkommens- und Vermögensverhältnisse (Art. 34 Abs. 3 StGB). Ohne diese Erhebungen hält der Bussenentscheid im Rechtsmittelverfahren nicht stand ([BGE 149 IV 395 E. 3.6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html#consideration_3.6.2)).
+3. **Würdigung eingereichter Notlagenbelege**: Verwerfen Sie vorgelegte Notlagenbeweise der beschuldigten Person nicht pauschal mit dem Hinweis auf Art. 8 VStrR, sondern würdigen Sie diese kurz im Rahmen des pflichtgemässen Ermessens ([ZH OG SU190013 E. VI.2](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SU190013_2020-02-19.pdf)).
 
 ### Für die Verteidigung
 
-> [!TIP]
-> **Taktisches Vorgehen bei drohenden Bussen bis CHF 5'000.-**:
-> 1. **Proaktive Substanziierungslast**: Verlassen Sie sich nicht darauf, dass die Behörde Ihre wirtschaftlichen Verhältnisse ermittelt. Art. 8 VStrR entbindet die Behörde von Amtsermittlungen. Reichen Sie Steuererklärungen, Betreibungsauszüge, Verlustscheine oder Belege über Unterstützungspflichten unaufgefordert ein und beantragen Sie ausdrücklich die Ausübung des pflichtgemässen Ermessens zugunsten einer Bussenminderung.
-> 2. **Rüge der Ermessensunterschreitung**: Hat die Behörde die vorgebrachten Belege über eine existenzielle Notlage völlig ignoriert mit dem Argument, Art. 8 VStrR «verbiete» oder «erlaube keine» Berücksichtigung, liegt ein Rechtsfehler vor (Verkennung des fakultativen Charakters nach [ZH OG SU190013 E. VI.2](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SU190013_2020-02-19.pdf)).
-> 3. **Angriff auf Bussen über CHF 5'000.-**: Hat die Vorinstanz eine Busse von über CHF 5'000.- ausgesprochen, ohne die finanziellen Grundlagen einwandfrei abzuklären, rügen Sie die Verletzung von Art. 106 Abs. 3 StGB i.V.m. Art. 8 VStrR e contrario nach [BGE 149 IV 395](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html#consideration_3.6.2).
+1. **Proaktive Substanziierungslast bei Bussen bis CHF 5'000.-**: Verlassen Sie sich nicht auf behördliche Amtsermittlungen. Reichen Sie Steuererklärungen, Betreibungsauszüge, Verlustscheine oder Belege über Unterstützungspflichten unaufgefordert ein und beantragen Sie ausdrücklich die Ausübung des pflichtgemässen Ermessens zugunsten einer Bussenminderung ([ZH OG SU190013 E. VI.2](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SU190013_2020-02-19.pdf)).
+2. **Rüge der Ermessensunterschreitung**: Hat die Behörde vorgebrachte Belege über eine existenzielle Notlage mit der Begründung ignoriert, Art. 8 VStrR schliesse deren Berücksichtigung aus, rügen Sie eine Rechtsverletzung infolge Verkennung des fakultativen Charakters der Norm ([ZH OG SU190013 E. VI.2](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SU190013_2020-02-19.pdf)).
+3. **Rüge bei Bussen über CHF 5'000.-**: Hat die Vorinstanz eine Busse von über CHF 5'000.- ausgesprochen, ohne die finanziellen Grundlagen abzuklären, rügen Sie die Verletzung von Art. 106 Abs. 3 StGB i.V.m. Art. 8 VStrR e contrario ([BGE 149 IV 395 E. 3.6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-149-IV-395_2023.html#consideration_3.6.2)).
 
 ---
 
 ## Literatur
 
-- **Achermann Jonas**, Basler Kommentar zum Verwaltungsstrafrecht, Basel 2020, N 1–35 zu Art. 8 VStrR.
-- **Eicker Fredy / Frank Benjamin / Achermann Jonas**, Verwaltungsstrafrecht und Verwaltungsstrafverfahrensrecht, Bern 2012, S. 71 ff.
-- **Heimgartner Stefan**, Basler Kommentar zum Strafrecht, Bd. I, 4. Aufl., Basel 2019, N 10 ff. zu Art. 106 StGB und N 30 vor Art. 103 StGB.
-- **Pittet Jacques**, Basler Kommentar zum Bundesgesetz über die Mehrwertsteuer, Basel 2015, N 7 zu Art. 97 MWSTG.
+- **Achermann Jonas**, in: Frank/Eicker/Markwalder/Achermann (Hrsg.), Basler Kommentar, Verwaltungsstrafrecht, Basel 2020, N 1 ff. zu Art. 8 VStrR.
+- **Eicker Andreas / Frank Friedrich / Achermann Jonas**, Verwaltungsstrafrecht und Verwaltungsstrafverfahrensrecht, Bern 2012, S. 71 f.
+- **Heimgartner Stefan**, in: Niggli/Wiprächtiger (Hrsg.), Basler Kommentar, Strafrecht I, 4. Aufl., Basel 2019, N 10 ff. zu Art. 106 StGB.
+- **Pittet Jacques**, in: Zweifel/Beusch/Glauser/Robinson (Hrsg.), Basler Kommentar, Bundesgesetz über die Mehrwertsteuer, Basel 2015, Art. 97 MWSTG.
 - **Schwob Renate**, Verwaltungsstrafrecht des Bundes, Schweizerische Juristische Kartothek (SJK), Karte 1287, Genf 1985.
