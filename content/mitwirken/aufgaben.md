@@ -23,8 +23,6 @@ vertiefen oder ein falsches Zitat korrigieren.
 
 Aufgrund des wöchentlichen Rechtsprechungs-Monitors (Abgleich von Leitentscheiden via [bger-update.ch](https://bger-update.ch)) werden hier Bestimmungen zur Neuaufnahme vorgeschlagen, zu denen jüngst praxisprägende Urteile ergangen sind und deren Kommentierung für die Praxis besonderen Mehrwert bietet:
 
-- **Art. 298a ZGB** (Gemeinsame elterliche Sorge und Obhutsvereinbarung / Alternierende Obhut):
-  - *Hintergrund*: Grundsatzurteil der Fünferbesetzung [5A_280/2025 vom 26.10.2026](https://www.bger-update.ch/zusammenfassung/35126/) (zur amtlichen Publikation vorgesehen). Das Bundesgericht legt erstmals schweizweit einheitliche quantitative Richtlinien für die Abgrenzung zwischen alternierender Obhut und Alleinobhut mit Besuchsrecht fest (30-%-Schwelle bzw. 13 von 42 Halbtages- bzw. Zeiteinheiten auf Zweiwochenbasis).
 - **Art. 175 ZGB** (Getrenntleben / Aufhebung des gemeinsamen Haushalts):
   - *Hintergrund*: Leitentscheid [5A_539/2025 vom 02.09.2026](https://www.bger-update.ch/zusammenfassung/34331/). Präzisierung zur Verbindlichkeit und Wirkung aussergerichtlicher Trennungsvereinbarungen ohne gerichtliche Genehmigung (keine analoge Anwendung von Art. 279 ZPO ausserhalb hängiger Verfahren, Verbindlichkeit «auf Zusehen hin»).
 - **Art. 79b StGB** (Electronic Monitoring / Vollzugsformen):
