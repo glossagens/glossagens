@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 308 ZGB"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-08-20
-description: "Übersicht der massgeblichen Rechtsprechung zu Art. 308 ZGB (Kindesschutzbeistandschaft, Erziehungsbeistandschaft, Besuchsrechtsbeistandschaft)."
-tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung"]
+lastmod: 2026-11-16
+description: "Übersicht der massgeblichen Rechtsprechung zu Art. 308 ZGB (Kindesschutzbeistandschaft, Erziehungsbeistandschaft, Besuchsrechtsbeistandschaft, medizinische Vertretungsbeistandschaft)."
+tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Beistandschaft", "Besuchsrecht", "Vaterschaftsfeststellung", "medizinische Vertretung"]
 revisions:
+  - date: 2026-11-16
+    by: "Antigravity Agent"
+    model: "gemini-4-argon-medium"
+    note: "Aufnahme von BGer 5A_224/2026 vom 29. Oktober 2026 (publiziert 16.11.2026): Vertretungsbeistandschaft im medizinischen Bereich, Abgrenzung von Art. 308 Abs. 2 zu Art. 306 Abs. 2 ZGB, Subsidiaritäts- und Verhältnismässigkeitsanforderungen beim Entzug der elterlichen Vertretungsbefugnis; Urteilsvolltext via swiss-caselaw MCP geprüft."
   - date: 2026-08-20
     by: "Glossagens Agent"
     model: "gemini-3.7-flash"
@@ -111,6 +115,13 @@ revisions:
 - **Thema**: Erziehungsbeistandschaft bei organisatorischer Überforderung und instabilen Betreuungsstrukturen
 - **Kernaussage**: Eine unzureichende, unvorhersehbare Alltags- und Betreuungsorganisation bei alleinerziehenden Elternteilen mit multiplen Belastungsfaktoren begründet eine konkrete Kindeswohlgefährdung, welche die Ernennung eines Erziehungsbeistands nach Art. 308 Abs. 1 und 2 ZGB rechtfertigt.
 - **Einschlägig für**: Art. 308 Abs. 1 und 2 ZGB; Betreuungssetting; Überforderung
+
+---
+
+### [BGer 5A_224/2026 vom 29. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_224_2026) (E. 6.2, E. 6.4)
+- **Thema**: Vertretungsbeistandschaft im medizinischen Bereich; Abgrenzung Art. 308 Abs. 2 zu Art. 306 Abs. 2 ZGB; Subsidiarität und Verhältnismässigkeit
+- **Kernaussage**: Die Ernennung eines Beistands zur Vertretung des urteilsunfähigen Kindes in medizinischen Angelegenheiten (Einwilligung in Abklärungen und Behandlungen anstelle der Eltern) stützt sich auf Art. 308 Abs. 2 i.V.m. Abs. 3 ZGB und nicht auf Art. 306 Abs. 2 ZGB (welcher die objektive Verhinderung oder konkrete Interessenkollisionen betrifft). Ein Entzug der elterlichen Vertretungsbefugnis im medizinischen Bereich verlangt den Nachweis einer konkreten Kindeswohlgefährdung und eine tragfähige, substanziierte Begründung im Einzelfall. Die pauschale Übertragung der gesamten medizinischen Vertretung an die Beistandsperson mit dem blossen Argument, es könnten künftig weitere medizinische Probleme auftreten, verletzt Bundesrecht. Können zerstrittene Eltern mit gemeinsamer elterlicher Sorge nicht kooperieren, ist vorrangig zu prüfen, ob die Vertretungsmacht im medizinischen Bereich einem Elternteil allein übertragen werden kann, bevor den Eltern dieses Recht gänzlich entzogen und einem Beistand übertragen wird.
+- **Einschlägig für**: Art. 308 Abs. 2 und 3 ZGB; Art. 306 Abs. 2 ZGB; medizinische Beistandschaft; Subsidiarität; Verhältnismässigkeit; Begründungspflicht
 
 ---
 

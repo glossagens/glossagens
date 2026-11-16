@@ -2,10 +2,14 @@
 title: "Art. 13 — Berufsgeheimnis"
 weight: 13
 date: 2026-08-29
-lastmod: 2026-10-15
+lastmod: 2026-11-16
 description: "Kommentar zu Art. 13 BGFA — Berufsgeheimnis der Anwältinnen und Anwälte: zeitlich unbegrenzt, gegenüber jedermann, Entbindung, Voraus-Entbindung, Entsiegelung von Anwaltsakten, fahrlässige Verletzung, Hilfspersonen."
 tags: ["BGFA", "Berufsgeheimnis", "Anwaltsrecht", "Entbindung", "Art. 321 StGB", "Entsiegelung", "Honorarstreitigkeit", "Hilfspersonen"]
 revisions:
+  - date: 2026-11-16
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 2C_226/2026 vom 1.10.2026 (publ. 16.11.2026): Entbindung bei laufendem Mandat zwecks Honorareintreibung (periodische Rechnungsstellung genügt ohne wiederholte Kostenvorschüsse, Rz. 18bis), eigenes Entbindungsinteresse bei Streitverkündung/Streithilfe und sachliche Begrenzung (Rz. 19bis), Parteistellung ausschliesslich des Geheimnisträgers (Rz. 18bis); Volltext via opencaselaw / swiss-caselaw verifiziert."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -90,7 +94,11 @@ revisions:
 
 **18** **Pflicht zur Vermeidung der Entbindung** Anwältinnen und Anwälte müssen **alles Notwendige vorkehren**, um ein späteres Entbindungsverfahren zwecks Honorareintreibung zu vermeiden: rechtzeitige Rechnungsstellung, Einholung von Kostenvorschüssen, klare Kommunikation über die Honorarforderung. Erst wenn diese Massnahmen ausgeschöpft sind und die Klientin nicht freiwillig zahlt, kommt eine Entbindung in Betracht ([ZH VG VB.2022.00028](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00028_2022-05-13.html), E. 3.1; [ZH VG VB.2024.00623](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00623_2025-12-11.html), E. 5.3 f.; [ZH VG VB.2026.00106](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00106_2026-04-10.html)). Eine allfällige Verletzung der Pflicht zur periodischen Rechnungsstellung kann jedoch nicht zur Verweigerung der Entbindung führen ([ZH VG VB.2022.00028](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00028_2022-05-13.html), E. 3.4).
 
+**18bis** **BGer 2C_226/2026 — Entbindung bei laufendem Mandat und periodischer Rechnungsstellung** In [BGer 2C_226/2026 vom 1. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_226_2026) präzisierte das Bundesgericht die Vermeidungsobliegenheiten bei fortlaufenden Mandaten (E. 7.3): Wurde anfänglich ein Kostenvorschuss vereinbart und bezahlt, ist der Anwalt im Rahmen eines fortlaufenden Mandatsverhältnisses nicht verpflichtet, laufend weitere Kostenvorschüsse zu verlangen. Es reicht für die Bejahung eines schutzwürdigen Entbindungsinteresses vollauf aus, wenn für die erbrachten Dienstleistungen periodisch Rechnung gestellt und Zahlungsausstände rechtzeitig thematisiert wurden (E. 7.2 f.; unter Verweis auf Urteil 2C_528/2025 vom 3. März 2026 E. 5.2). Der Anwalt muss nicht die Beendigung des gesamten Mandates abwarten, um für fällige Teilhonorare eine Entbindung zu erwirken. Zudem stellte das Bundesgericht klar, dass nach Art. 321 Ziff. 2 StGB ausschliesslich der natürlichen Person als Geheimnisträger Parteistellung im Entbindungsverfahren zukommt; Kanzleigesellschaften (AG oder GmbH) können weder um Entbindung ersuchen noch entbunden werden (E. 4.2, 5).
+
 **19** **Sachliche Begrenzung der Entbindung** Die Entbindung ist **sachlich zu begrenzen** auf das für die Durchsetzung der Forderung erforderliche Mass. So wurde in [ZH VG VB.2026.00106](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00106_2026-04-10.html) die Entbindung auf die Honorarforderung beschränkt; es war nicht ersichtlich, inwiefern der Anwalt sein Wissen über die gesundheitliche Situation der Klientin Dritten gegenüber preisgeben müsste. Die Entbindung wurde nur in diesem engen Umfang ausgesprochen.
+
+**19bis** **Einbezug Dritter, Streitverkündung und sachliche Konnexität** Die Entbindung vom Anwaltsgeheimnis darf grundsätzlich nicht lediglich dazu dienen, einen Dritten in einem Zivilprozess gegen einen ehemaligen Klienten zu unterstützen ([BGer 2C_226/2026 vom 1. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_226_2026), E. 7.1 unter Verweis auf BGer 2C_215/2015 E. 5.2 und 2P.313/1999 E. 2d). Ein eigenes schutzwürdiges Entbindungsinteresse liegt jedoch vor, wenn dem Anwalt bzw. seiner Kanzlei in einem Verfahren gegen den Klienten der Streit verkündet wird (etwa wegen von Gerichtsbehörden rückvergüteter und mit Honorarforderungen verrechneter Prozesskostenvorschüsse) und er als Streithelfer beitritt, um drohende Vermögensnachteile von sich abzuwenden (E. 7.4). Die Entbindung ist in solchen Fällen verhältnismässig und sachlich streng auf diejenigen Tatsachen zu begrenzen, die einen direkten sachlichen Zusammenhang mit den im Streit liegenden Punkten aufweisen (E. 7.2, 7.4).
 
 **20** **Entbindung nach dem Tod der Klientin** Nach dem Tod der Klientin geht die Geheimnisherrschaft **nicht automatisch** auf die Erben über. Eine Weiterführung des Mandatsverhältnisses mit den Erben führt nicht ohne Weiteres zu einem Übergang der Geheimnisherrschaft ([ZH VG VB.2022.00526](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2022-00526_2023-05-09.html), E. 3.4). Der Anwalt kann sich gegenüber den Erben nur nach Entbindung durch die Aufsichtsbehörde äussern.
 
@@ -151,6 +159,7 @@ revisions:
 | Fall | Gericht | Jahr | Kern |
 |------|---------|------|------|
 | Voraus-Entbindung in Vollmacht unzulässig | [SG VG B 2022/139](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2022-139_2023-03-16.pdf) | 2023 | Pauschale Voraus-Entbindung genügt nicht; Verletzung von Art. 13 BGFA bejaht |
+| Entbindung bei laufendem Mandat & Streitverkündung | [BGer 2C_226/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_226_2026) | 2026 | Periodische Rechnung genügt ohne Zweitvorschuss; Streitverkündung begründet eigenes Entbindungsinteresse |
 | Entbindung für Honorar, sachliche Begrenzung | [ZH VG VB.2026.00106](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2026-00106_2026-04-10.html) | 2026 | Entbindung nur im Umfang der Honorarforderung; Gesundheitssache ausgenommen |
 | Weitergabe nach Mandatsablehnung | [ZH VG VB.2023.00622](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2023-00622_2025-01-09.html) | 2025 | Auch namentliche Nennung der Staatsanwältin ist geheimnisfähig |
 | E-Mail-Einreichung als Verletzung | [ZH VG VB.2025.00765](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2025-00765_2026-05-28.html) | 2026 | Verweis statt Verwarnung bei Geheimnisverletzung |

@@ -7,6 +7,10 @@ description: "Praxiskommentar zu Art. 91a SVG: Tatbestandsmerkmale, Vortests und
 tags: ["SVG", "Strassenverkehrsrecht", "Vereitelung Blutprobe", "Atemalkoholprobe", "Vortest", "Nachtrunk", "Selbstbelastungsverbot"]
 revisions:
   - date: 2026-11-16
+    by: "Antigravity Agent"
+    model: "Gemini 4 Hydrogen (Low)"
+    note: "BGer 6B_399/2026 vom 12.10.2026 zum Eventualvorsatz bei Unfallflucht mit Drittschaden eingearbeitet; Entscheid via opencaselaw-Link eingebunden."
+  - date: 2026-11-16
     by: "Antigravity"
     model: "Gemini 4 Hydrogen (Low)"
     note: "Umfassender praxisorientierter Ausbau nach dem Muster von Art. 110 StPO / Art. 336 OR; Wortlaut via wortlaut.py (Fedlex Stand 2026-07-01), Materialien (BBl 2010 8447, BBl 1999 4462), Lehre und Judikaturkritik eingearbeitet; alle 9 BGE-/BGer-Entscheide direkt gegen entscheidsuche.ch (HTTP 200) und deren Sachverhalte/Dispositive geprüft."
@@ -101,9 +105,19 @@ Bereits das Unterlassen der sofortigen Meldung eines Unfalls an die Polizei erf�
 
 ### D. Subjektiver Tatbestand: Vorsatz und Eventualvorsatz
 
-Art. 91a SVG ist ein **Vorsatzdelikt**; fahrlässiges Handeln ist straflos. **Eventualvorsatz** genügt. Die Täterschaft muss wissen oder zumindest ernsthaft für möglich halten und in Kauf nehmen, dass eine Massnahme angeordnet wurde oder objektiv zu erwarten ist und ihr Verhalten deren Zweck vereitelt.
+Art. 91a SVG ist ein **Vorsatzdelikt**; fahrlässiges Handeln ist straflos. **Eventualvorsatz** (Art. 12 Abs. 2 Satz 2 StGB) genügt. Die Täterschaft muss die Verwirklichung der Tatbestandselemente ernsthaft für möglich halten und in Kauf nehmen — namentlich, dass eine Massnahme zur Feststellung der Fahrunfähigkeit angeordnet wurde oder mit deren Anordnung objektiv gerechnet werden musste, und dass ihr Verhalten (z. B. Wegfahrt, unterlassene Meldung, Nachtrunk) deren Durchführung oder Zweck vereitelt.
 
-In der Praxis liegt hier der zentrale Verteidigungsansatz: Kann nicht ausgeschlossen werden, dass der Lenker gutgläubig davon ausging, keinen zurechenbaren Unfall verursacht zu haben (z. B. bei unbemerktem Bagatellkontakt), oder fehlt der Nachweis, dass er mit einer Kontrolle rechnen musste, ist nach dem Grundsatz *in dubio pro reo* ein Freispruch auszusprechen.
+#### 1. Eventualvorsatz nach Verkehrsunfall mit Drittschaden und Unfallflucht
+
+Besondere praktische Bedeutung kommt dem Eventualvorsatz bei der pflichtwidrigen Entfernung vom Unfallort zu. Wer nach einem Verkehrsunfall mit Sach- oder Personenschaden Dritten gegenüber die gesetzliche Meldepflicht verletzt (Art. 51 SVG) und die Unfallstelle verlässt, ohne die Polizei beizuziehen oder die geschädigte Person unverzüglich zu verständigen, handelt bezüglich der Beweisvereitelung in aller Regel zumindest eventualvorsätzlich.
+
+- **Eventualvorsatz bei Verlassen des Unfallorts nach Drittschaden ([BGer 6B_399/2026 vom 12.10.2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_399_2026)):** Wer nach einem Verkehrsunfall mit Drittschaden den Unfallort verlässt, ohne die Polizei zu verständigen, muss objektiv damit rechnen, dass die Polizei bei vorschriftsgemässer Meldung (Art. 51 SVG) eine Massnahme zur Feststellung der Fahrunfähigkeit — namentlich eine Atemalkoholkontrolle — anordnen würde. Das Bundesgericht bekräftigt und präzisiert seine neuere Rechtsprechung, wonach nach Unfällen mit Drittschaden grundsätzlich von einer hohen Wahrscheinlichkeit einer Kontrollanordnung auszugehen ist und die Flucht den subjektiven Tatbestand des Eventualvorsatzes nach Art. 91a Abs. 1 SVG erfüllt.
+
+> **Leitsatz.** Bei Verkehrsunfällen mit Drittschaden besteht regelmässig eine hohe objektive Wahrscheinlichkeit einer Kontrollanordnung durch die Polizei. Verlässt der Fahrzeugführer die Unfallstelle unberechtigt ohne Benachrichtigung der Polizei, begründet dies in der Regel den Eventualvorsatz auf Vereitelung der Feststellungsmassnahme.
+
+#### 2. Grenzen und Verteidigungsansätze (*in dubio pro reo*)
+
+In der Praxis liegt hier der massgebliche Verteidigungsansatz: Kann nicht ausgeschlossen werden, dass der Lenker den Eintritt eines Drittschadens gar nicht bemerkt hat (z. B. unbemerkter Bagatellkontakt beim Rangieren) oder mangels Erkennbarkeit gutgläubig von einem reinen Eigenschaden ausging, fehlt es am Vorsatz bezüglich der Meldepflicht und damit am Rechnenmüssen mit einer polizeilichen Überprüfung. Nach dem Grundsatz *in dubio pro reo* (Art. 10 Abs. 3 StPO) ist diesfalls ein Freispruch auszusprechen.
 
 ---
 
@@ -139,7 +153,7 @@ Abs. 1 sieht **Freiheitsstrafe bis zu drei Jahren oder Geldstrafe** vor; Abs. 2 
 
 ## V. Praxishinweise
 
-- **Für die Verteidigung:** Prüfen Sie als Erstes, ob der Tatbestand am **subjektiven Element** scheitert (fehlende Erkennbarkeit des Unfalls oder fehlendes Rechnen-Müssen mit einer Kontrolle). Bei blosser Verweigerung eines **Vortests** ist auf [BGE 146 IV 88](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-88_2020.html) zu verweisen: Ohne Vereitelung der eigentlichen Blutprobe fehlt der Taterfolg. Berufen Sie sich bei E-Bikes unter 25 km/h auf die Privilegierung nach Abs. 2 (blosse Busse).
+- **Für die Verteidigung:** Prüfen Sie als Erstes, ob der Tatbestand am **subjektiven Element** scheitert (fehlende Erkennbarkeit des Unfalls oder des Drittschadens; fehlendes Rechnenmüssen mit einer Kontrolle). Nach Unfällen mit Drittschaden bejaht das Bundesgericht bei unbefugtem Verlassen der Unfallstelle regelmässig den Eventualvorsatz ([BGer 6B_399/2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_399_2026)); die Verteidigung muss sich daher primär auf den Nachweis konzentrieren, dass der Schaden für den Lenker objektiv unbemerkt blieb. Bei blosser Verweigerung eines **Vortests** ist auf [BGE 146 IV 88](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-88_2020.html) zu verweisen: Ohne Vereitelung der eigentlichen Blutprobe fehlt der Taterfolg. Berufen Sie sich bei E-Bikes unter 25 km/h auf die Privilegierung nach Abs. 2 (blosse Busse).
 - **Für Polizei und Staatsanwaltschaft:** Dokumentieren Sie die **Anfangsanzeichen** (z. B. Cannabisgeruch, gerötete Augen, Nervosität) sowie den genauen Ablauf der **Belehrung** lückenlos im Rapport. Ordnen Sie bei Verweigerung eines Vortests stets unverzüglich eine Blutprobe an und holen Sie bei mündlicher Anordnung die schriftliche Genehmigung zeitnah nach.
 - **Für die Gerichte:** Trennen Sie sauber zwischen der objektiven Erwartbarkeit einer Kontrolle nach einem Unfall und dem Nachweis des Eventualvorsatzes. Bei Teilfreisprüchen vom Vorwurf des Art. 91a SVG ist die Kosten- und Entschädigungsfolge (Art. 429 StPO) entsprechend anzupassen.
 

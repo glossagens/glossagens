@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-11-06
+lastmod: 2026-11-16
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Obligatorische Landesverweisung, Härtefallklausel, Interessenabwägung, Bemessung der Dauer der Landesverweisung, Ausschluss der Reconsideration-Praxis (BGer 2C_187/2026), Secondos, Freizügigkeitsabkommen und EMRK-Konformität."
 tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Reconsideration", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-16
+    by: "Antigravity Agent"
+    model: "Gemini 3.8 Flash"
+    note: "Aufnahme von BGer 6B_81/2025 vom 22. Oktober 2026 (publiziert am 16.11.2026): Härtefallprüfung und Interessenabwägung bei Secondos; Bestätigung der 10-jährigen Landesverweisung bei versuchter vorsätzlicher Tötung mit Schusswaffe trotz Geburt und lebenslangem Aufenthalt in der Schweiz; Überwiegen der Sicherheitsinteressen bei schweren Gewaltdelikten («Zweijahresregel»). Urteil via OpenCaseLaw MCP im Volltext verifiziert."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
@@ -106,6 +110,14 @@ revisions:
 - **Thema**: Verzicht auf Landesverweisung geschützt bei 20-jährigem Secondo trotz schwerer Katalogtaten.
 - **Kernaussage**: Bei einem in der Schweiz geborenen und aufgewachsenen jungen Erwachsenen mit klaglosem Vorleben und günstiger Legalprognose überwiegen die privaten Verbleibsinteressen das öffentliche Fernhalteinteresse, wenn die Tat (versuchte schwere Körperverletzung) als exzessive alkoholbedingte Situationsüberreaktion ohne gefestigte kriminelle Gesinnung zu werten ist und er im Heimatland Serbien über keine sozialen Strukturen verfügt.
 - **Einschlägig für**: Art. 66a Abs. 2 StGB, Art. 8 EMRK.
+
+---
+
+### [BGer 6B_81/2025 vom 22. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_81_2025) E. 7.4–7.5 — Härtefallprüfung bei Secondos: Überwiegen der Sicherheitsinteressen bei schwerer Waffengewalt
+- **Thema**: Obligatorische Landesverweisung (Art. 66a Abs. 1 lit. a StGB) und Härtefallklausel (Art. 66a Abs. 2 StGB) bei einem in der Schweiz geborenen Ausländer («Secondo»); Grenzen des Verbleibsinteresses bei schweren Gewaltdelikten mit Schusswaffeneinsatz («Zweijahresregel»).
+- **Sachverhalt**: Ein 1992 in der Schweiz geborener bosnisch-herzegowinischer Staatsangehöriger (lebenslanger Aufenthalt in der Schweiz) trug als Sicherheitsangestellter in einer Lounge über längere Zeit illegal eine geladene Faustfeuerwaffe auf sich. Bei einer tätlichen Auseinandersetzung zog er die Waffe, richtete sie entsichert auf den Kontrahenten, schlug mit dem Pistolenlauf gegen eine Autoscheibe und führte anschliessend eine Schlagbewegung gegen den Hinterkopf des Opfers aus. Dabei löste sich ein Schuss, der dem Opfer eine lebensgefährliche Streifschussverletzung am Kopf zufügte. Er wurde wegen versuchter vorsätzlicher Tötung und Waffenrechtsdelikten zu zehn Jahren Freiheitsstrafe und einer zehnjährigen Landesverweisung (inkl. SIS-Ausschreibung) verurteilt.
+- **Kernaussage**: Das Bundesgericht schützt die zehnjährige Landesverweisung. Zwar begründen Geburt und lebenslanger Aufenthalt in der Schweiz auf der ersten Prüfungsstufe das Vorliegen eines schweren persönlichen Härtefalls (Art. 66a Abs. 2 Satz 2 StGB). Bei Verurteilungen zu Freiheitsstrafen von über zwei Jahren («Zweijahresregel») bedarf es auf der zweiten Stufe (Interessenabwägung nach Art. 8 Ziff. 2 EMRK) jedoch ausserordentlicher Umstände, damit das private Verbleibsinteresse überwiegt. Bei schweren Gewaltdelikten mit Schusswaffengewalt, ausgeprägter Gefährlichkeit und fehlender Einsicht setzt sich das öffentliche Sicherheitsbedürfnis der Allgemeinheit regelmässig durch; angesichts der Gefährdung des menschlichen Lebens als höchstem Rechtsgut genügt hierfür bereits ein geringes Rückfallrisiko (E. 7.5). Private Bindungen (Eltern, erwachsener Bruder) begründen ohne Abhängigkeit kein überwiegendes Interesse, zumal der Täter keine eigene Familie (Ehepartner, Kinder) hat, die Einbürgerung zur Vermeidung des Militärdienstes unterliess und im Herkunftsland über Sprachkenntnisse und soziale Kontakte (Grosseltern) verfügt (E. 7.4). *(Hinweis: Bezüglich der Freiheitsstrafe erfolgte eine Rückweisung an die Vorinstanz einzig wegen unterlassener Prüfung der Anrechnung ausgestandener Ersatzmassnahmen für die Untersuchungshaft nach Art. 237 StPO i.V.m. Art. 51 StGB, E. 6.5; die Landesverweisung und deren Dauer von zehn Jahren wurden hingegen vollumfänglich bestätigt.)*
+- **Einschlägig für**: Art. 66a Abs. 1 lit. a und Abs. 2 StGB, Art. 8 EMRK, Art. 13 BV.
 
 ---
 

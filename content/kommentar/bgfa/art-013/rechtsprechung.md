@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 13 BGFA — Berufsgeheimnis"
 weight: 99
 date: 2026-08-29
-lastmod: "2026-10-08"
+lastmod: 2026-11-16
 description: "Leitentscheide und weitere Rechtsprechung zu Art. 13 BGFA — Berufsgeheimnis, Entbindung, Voraus-Entbindung, Entsiegelung, fahrlässige Verletzung, Hilfspersonen."
 tags: ["Rechtsprechung", "BGFA", "Berufsgeheimnis", "Entbindung", "Art. 321 StGB"]
 revisions:
+  - date: 2026-11-16
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 2C_226/2026 vom 1.10.2026 (publ. 16.11.2026): Entbindung bei laufendem Mandat für Honorarinkasso, periodische Rechnungsstellung ohne Erfordernis wiederholter Kostenvorschüsse, Entbindungsinteresse bei Streitverkündung/Streithilfe, Parteistellung des Geheimnisträgers; Volltext via opencaselaw / swiss-caselaw verifiziert."
   - date: 2026-10-08
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -92,6 +96,16 @@ revisions:
 ## Weitere Entscheide
 
 ### Entbindung vom Berufsgeheimnis — Honorarstreitigkeiten
+
+#### BGer 2C_226/2026 (1. Oktober 2026)
+
+**Entbindung vom Anwaltsgeheimnis bei laufendem Mandat zwecks Honorareintreibung; periodische Rechnungsstellung ohne Erfordernis wiederholter Kostenvorschüsse; Einbezug Dritter und Streitverkündung.** Die Durchsetzung fälliger Honorare begründet regelmässig ein schutzwürdiges persönliches Interesse des Anwalts an der Entbindung zur Abwendung erheblicher Vermögensnachteile (E. 3.3, 7.1). An die Substanziierung des Geheimhaltungsinteresses des Klienten dürfen keine überspannten Anforderungen gestellt werden (E. 7.1). Bei einem fortlaufenden Mandat ist der Anwalt nicht verpflichtet, wiederholte Kostenvorschüsse einzufordern; wurde ein Anfangsvorschuss geleistet, genügt die periodische Rechnungsstellung für die Bejahung eines schutzwürdigen Entbindungsinteresses (E. 7.3). Der Anwalt muss nicht das Mandatsende abwarten, um für fällige Teilhonorare entbunden zu werden. Eine Entbindung darf zwar nicht lediglich der Unterstützung Dritter in Zivilprozessen gegen den Mandanten dienen (E. 7.1); wird dem Anwalt bzw. seiner Kanzlei jedoch der Streit verkündet (hier bzgl. verrechneter Kostenvorschuss-Rückvergütungen), hat er ein eigenes schutzwürdiges Interesse an der Entbindung als Streithelfer zur Abwehr von Regressansprüchen, beschränkt auf Tatsachen mit sachlichem Konnex zum Streitgegenstand (E. 7.4). Parteistellung im Entbindungsverfahren kommt ausschliesslich der natürlichen Person als Geheimnisträger zu, nicht Kanzleigesellschaften (E. 4.2, 5).
+
+- Docket: [BGer 2C_226/2026](https://mcp.opencaselaw.ch/entscheid/bger_2C_226_2026)
+- Datum: 1. Oktober 2026 (publiziert am 16. November 2026)
+- Kammer: II. öffentlich-rechtliche Abteilung
+- Erwägung: 4.2, 5, 7.1–7.4
+- Referenzen: Art. 13 Abs. 1 BGFA; Art. 321 Ziff. 2 StGB; Art. 85a SchKG
 
 #### BGer 2C_224/2026 (10. September 2026)
 
@@ -284,4 +298,4 @@ Entbindung vom Berufsgeheimnis beurteilt sich nach Bundesrecht; massgebend ist d
 
 ---
 
-*Zuletzt aktualisiert: 29. August 2026*
+*Zuletzt aktualisiert: 16. November 2026*

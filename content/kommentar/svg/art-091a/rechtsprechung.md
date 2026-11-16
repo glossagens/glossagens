@@ -7,6 +7,10 @@ description: "Übersicht der Rechtsprechung zu Art. 91a SVG (Vereitelung von Mas
 tags: ["Rechtsprechung", "SVG", "Vereitelung Blutprobe", "Vortest", "Nachtrunk"]
 revisions:
   - date: 2026-11-16
+    by: "Antigravity Agent"
+    model: "Gemini 4 Hydrogen (Low)"
+    note: "BGer 6B_399/2026 vom 12.10.2026 (Eventualvorsatz bei Verlassen des Unfallorts nach Drittschaden) unter II. Weitere Entscheide ergänzt (Link via opencaselaw)."
+  - date: 2026-11-16
     by: "Antigravity"
     model: "Gemini 4 Hydrogen (Low)"
     note: "Links auf entscheidsuche.ch umgestellt (HTTP 200 verifiziert) und um BGer 6B_138/2024, 6B_1139/2020 sowie 6B_531/2020 ergänzt."
@@ -41,6 +45,10 @@ revisions:
 ---
 
 ## II. Weitere Entscheide
+
+* **Eventualvorsatz bei Verlassen des Unfallorts nach Verkehrsunfall mit Drittschaden**
+  [BGer 6B_399/2026 vom 12.10.2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_399_2026)
+  Wer nach einem Verkehrsunfall mit Drittschaden den Unfallort verlässt, ohne die Polizei zu benachrichtigen (Art. 51 SVG), muss objektiv damit rechnen, dass die Polizei bei ordnungsgemässer Meldung eine Massnahme zur Feststellung der Fahrunfähigkeit (insb. Atemalkoholkontrolle) angeordnet hätte. Das Bundesgericht bekräftigt seine neuere Rechtsprechung: Bei Verkehrsunfällen mit Drittschaden ist regelmässig von einer hohen Wahrscheinlichkeit einer Kontrollanordnung auszugehen; die Flucht erfüllt diesfalls den subjektiven Tatbestand des Eventualvorsatzes nach Art. 91a Abs. 1 SVG.
 
 * **Flucht mit Motorroller und spätere zwangsweise Blutentnahme**
   [BGer 6B_138/2024 vom 1.5.2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-138-2024_2024-05-01.html)
