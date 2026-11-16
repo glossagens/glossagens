@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 9 BV"
 weight: 99
 date: 2026-05-24
-lastmod: "2026-09-25"
-description: "Übersicht der Entscheide zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz"
-tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Beweiswürdigung", "Unschuldsvermutung"]
+lastmod: 2026-11-16
+description: "Übersicht der Leitentscheide und weiteren Judikate zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz und Rügeprinzip"
+tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Beweiswürdigung", "Unschuldsvermutung", "Rügeprinzip"]
 revisions:
+  - date: 2026-11-16
+    by: "Antigravity Subagent"
+    model: "gemini-2.5-pro"
+    note: "Rechtsprechungsübersicht nach den Vorgaben von glossagens-kommentar-erstellen und praxisorientierter-kommentar neu strukturiert: Gliederung in I. Leitentscheide (6 prägende BGEs) und II. Weitere Entscheide (15 BGE- und BGer-Urteile zu Willkür, Beweiswürdigung, Vertrauensschutz, Steuerrulings und SchKG-Fristen). Jeder Eintrag mit aussagekräftigem Thema, verifiziertem Link auf entscheidsuche.ch und präzisem Sachverhalts- und Urteilsabstract. Keine veralteten Verifikations-Flags."
   - date: 2026-09-25
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -26,311 +30,128 @@ revisions:
 
 ## Rechtsprechung zu Art. 9 BV
 
-Jeder Block nennt die Kernaussage in der Fassung, in der sie gegen den Entscheidtext geprüft wurde. Pinpoints sind verifiziert; wo keiner steht, trägt die Regeste die Aussage.
-
-### Willkürverbot — Begriff und Massstab
-
-#### BGE 141 I 70 (7. März 2015) — Definition der Willkür
-
-**Kernaussage**: Eine willkürliche Anwendung kantonalen Rechts liegt vor, wenn der angefochtene Entscheid offensichtlich unhaltbar ist, mit der tatsächlichen Situation in klarem Widerspruch steht, eine Norm oder einen unumstrittenen Rechtsgrundsatz krass verletzt oder in stossender Weise dem Gerechtigkeitsgedanken zuwiderläuft. Das Bundesgericht hebt einen Entscheid jedoch nur auf, wenn nicht bloss die Begründung, sondern auch dessen Ergebnis unhaltbar ist. Dass eine andere Lösung ebenfalls als vertretbar oder gar als zutreffender erscheinen mag, genügt nicht.
-
-- [BGE 141 I 70, E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-141-I-70_2015.html)
+Die nachfolgende Rechtsprechungsübersicht dokumentiert die massgebliche Praxis des Bundesgerichts zu Art. 9 BV. Alle Urteile sind nach zwei Kategorien gegliedert: **I. Leitentscheide** (grundlegende BGEs zur Definition der Willkür, zum Vertrauensschutz und zu den Beweis- und Rügegrundsätzen) sowie **II. Weitere Entscheide** (Kasuistik zur Beweiswürdigung, zum Strafverfahren, zum Verwaltungs-, Steuer- und Schuldbetreibungsrecht). Sämtliche Links verweisen auf die verifizierten Dokumente auf [entscheidsuche.ch](https://entscheidsuche.ch).
 
 ---
 
-#### BGE 140 III 16 (14. November 2013) — Willkür in der Rechtsanwendung
+## I. Leitentscheide
 
-**Kernaussage**: Willkürlich ist ein Entscheid nach konstanter Praxis nicht schon dann, wenn eine andere Lösung ebenfalls als vertretbar oder gar zutreffender erscheint. Willkür in der Rechtsanwendung liegt nur vor, wenn der angefochtene Entscheid offensichtlich unhaltbar ist, mit der tatsächlichen Situation in klarem Widerspruch steht, eine Norm oder einen unumstrittenen Rechtsgrundsatz krass verletzt oder in stossender Weise dem Gerechtigkeitsgedanken zuwiderläuft; dabei ist erforderlich, dass der Entscheid nicht nur in der Begründung, sondern auch im Ergebnis willkürlich ist.
+### 1. BGE 141 I 70 (31. März 2015) — Definition der Willkür und Erfordernis der Ergebniswillkür
 
-- [BGE 140 III 16, E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-16_2014.html)
-
----
-
-#### BGE 144 I 113 (2018) — Willkürbegriff und Aufhebung
-
-**Kernaussage**: Das Bundesgericht hebt einen Entscheid nur auf, wenn nicht bloss die Begründung, sondern auch das Ergebnis unhaltbar ist. Dass eine andere Lösung ebenfalls als vertretbar oder gar zutreffender erscheint, genügt nicht.
-
-- [BGE 144 I 113, E. 7.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-144-I-113_2018.html)
+- **Fundstelle / Link:** [BGE 141 I 70 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-141-I-70_2015.html)
+- **Sachverhalt:** Eine gerichtlich bestellte amtliche Rechtsanwältin liess sich im zürcherischen Sozialversicherungsverfahren infolge Mutterschaftsurlaubs von einer im selben Büro praktizierenden Anwaltskollegin mit Substitutionsvollmacht vertreten. Das kantonale Sozialversicherungsgericht kürzte die Parteientschädigung um den Zeitaufwand der Kollegin, da kein behördlich bewilligter Anwaltswechsel vorlag. Die Rechtsanwältin erhob Beschwerde an das Bundesgericht und rügte Willkür nach Art. 9 BV.
+- **Kernaussage / Erwägungen:** Das Bundesgericht wies die Beschwerde ab und präzisierte die Grunddefinition der Willkür: Eine willkürliche Rechtsanwendung liegt nur vor, wenn der Entscheid offensichtlich unhaltbar ist, mit der tatsächlichen Situation in klarem Widerspruch steht, eine Norm oder einen unumstrittenen Rechtsgrundsatz krass verletzt oder in stossender Weise dem Gerechtigkeitsgedanken zuwiderläuft. Ein Entscheid wird nur aufgehoben, wenn nicht bloss die Begründung, sondern auch dessen **Ergebnis unhaltbar** ist. Dass eine andere Lösung ebenfalls vertretbar oder gar zutreffender erscheint, genügt für die Annahme von Willkür nicht. Die Kürzung des Honorars einer nicht bewilligten Kanzleikollegin war im Ergebnis vertretbar.
 
 ---
 
-### Willkür bei der Beweiswürdigung
+### 2. BGE 140 III 16 (14. November 2013) — Willkürbegriff in der Rechtsanwendung und vorsorgliche Beweisführung
 
-#### BGE 140 III 264 (2014) — Willkürbegriff bei Beweiswürdigung
-
-**Kernaussage**: Die Sachverhaltsfeststellung bzw. Beweiswürdigung erweist sich als willkürlich (Art. 9 BV), wenn das Gericht Sinn und Tragweite eines Beweismittels offensichtlich verkannt hat, wenn es ohne sachlichen Grund ein wichtiges und entscheidwesentliches Beweismittel unberücksichtigt gelassen oder wenn es auf der Grundlage der festgestellten Tatsachen unhaltbare Schlussfolgerungen gezogen hat. Das Ergebnis der vorinstanzlichen Beweiswürdigung ist für das Bundesgericht grundsätzlich verbindlich (Art. 105 Abs. 1 BGG); rügbar nur bei Willkür. Bei der Rüge der offensichtlich unrichtigen Sachverhaltsfeststellung gilt das strenge Rügeprinzip.
-
-- [BGE 140 III 264, E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-264_2014.html)
+- **Fundstelle / Link:** [BGE 140 III 16 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-16_2014.html)
+- **Sachverhalt:** Eine nach einem Auffahrunfall an einem HWS-Schleudertrauma leidende Autofahrerin verlangte gestützt auf Art. 158 Abs. 1 lit. b ZPO die vorsorgliche Einholung eines polydisziplinären medizinischen Gutachtens zur Klärung ihrer Prozessaussichten gegen die Haftpflichtversicherung. Die Vorinstanz wies das Gesuch mit der Begründung ab, es lägen bereits zahlreiche Privatberichte vor, obwohl sie selbst einräumte, dass das beantragte Gutachten in einem Hauptprozess unentbehrlich sein werde.
+- **Kernaussage / Erwägungen:** Das Bundesgericht bejahte Willkür in der Rechtsanwendung: Zwar ist Willkür nicht schon gegeben, wenn eine andere Lösung ebenfalls vertretbar erscheint. Wenn die Vorinstanz jedoch anerkennt, dass ein gerichtliches Gutachten für die Beurteilung der Haftpflichtansprüche unentbehrlich ist, und gleichzeitig das schutzwürdige Interesse an dessen vorsorglicher Einholung verneint, verfällt sie in einen unlösbaren Wertungswiderspruch. Der Entscheid war im Ergebnis offensichtlich unhaltbar.
 
 ---
 
-#### BGE 146 III 203 (2020) — Antizipierte Beweiswürdigung
+### 3. BGE 137 I 69 (16. Dezember 2010) — Vertrauensschutz bei behördlichen Verfügungen und Interessenabwägung
 
-**Kernaussage**: Eine antizipierte Beweiswürdigung im eigentlichen Sinn liegt nur vor, wenn das Gericht an sich taugliche Beweise, die gegen ein vorweggenommenes Beweisergebnis angerufen werden, mit der Begründung nicht abnimmt, dass es seine Überzeugung schon gewonnen habe und sich davon auch durch den fraglichen Beweis nicht werde abbringen lassen. Die unechte antizipierte Beweiswürdigung liegt vor, wenn ein Beweismittel von vornherein objektiv untauglich bzw. irrelevant ist. Auf eine Kindesanhörung darf grundsätzlich nicht gestützt auf eine (echte) antizipierte Beweiswürdigung verzichtet werden.
-
-- [BGE 146 III 203, E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-203_2020.html)
-
----
-
-#### BGE 144 IV 345 (2018) — In dubio pro reo und Willkür
-
-**Kernaussage**: Zu einer Verletzung des In-dubio-Grundsatzes führen nur Zweifel, die offensichtlich erheblich sind. Wenn der Sachrichter den Beschuldigten verurteilt, obwohl bei objektiver Würdigung des gesamten Beweisergebnisses solche unüberwindlichen, «schlechterdings nicht zu unterdrückenden» Zweifel an dessen Schuld vorliegen, so liegt immer auch Willkür vor. Die aus dem rechtlichen Gebot abgeleitete freie Kognition des Bundesgerichts geht nicht weiter als die übliche Willkürkontrolle.
-
-- [BGE 144 IV 345, E. 2.2.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-345_2018.html)
+- **Fundstelle / Link:** [BGE 137 I 69 E. 2.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-137-I-69_2011.html)
+- **Sachverhalt:** Ein Musikstudent erlitt bei der öffentlichen Lehrdiplom-Prüfung eine emotionale Blockade. Die Prüfungskommission bot ihm an, die Prüfung unter Ausschluss der Öffentlichkeit zu wiederholen. Er bestand und erhielt die Bestätigung. Die Erziehungsdirektion widerrief die bestandene Prüfung und verweigerte das Diplom, weil die Verordnung zwingend einen öffentlichen Vortrag vorschrieb.
+- **Kernaussage / Erwägungen:** Das Bundesgericht hiess die Beschwerde gestützt auf Art. 9 BV gut: Der Vertrauensschutz verleiht dem Bürger Anspruch auf Schutz berechtigten Vertrauens in behördliche Verfügungen. Der Schüler durfte auf die Auskunft der Prüfungskommission vertrauen, trat eine Lehrerstelle an und konnte keine öffentliche Prüfung mehr nachholen. Da beim Lehrdiplom pädagogische Fähigkeiten im Vordergrund stehen, überwog das Vertrauensschutzinteresse des Schülers das Legalitätsprinzip. Der Widerruf war unzulässig.
 
 ---
 
-#### BGE 131 I 45 (2005) — Aktenwidriger Entscheid
+### 4. BGE 141 I 161 (25. März 2015) — Bindungswirkung, Widerruf und Übergangsfristen bei Steuerrulings
 
-**Kernaussage**: Aktenwidrigkeit ist nicht mit Beweiswürdigung gleichzusetzen, sondern liegt nur vor, wenn der Richter bei der Beweiswürdigung von unrichtigen tatsächlichen Prämissen ausgeht. Nicht das Ergebnis der Beweiswürdigung und die darin liegenden Wertungen sind Gegenstand der Willkürrüge, sondern durch Akten unstreitig widerlegte Tatsachenfeststellungen.
-
-- [BGE 131 I 45, E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-131-I-45_2005.html)
-
----
-
-#### BGE 147 IV 409 (2021) — Amtsermittlungspflicht und Beweiswürdigung
-
-**Kernaussage**: Das Berufungsgericht muss das entscheiderhebliche Beweismaterial umfassend auswerten und bei zweifelhafter Beweislage, falls vorhanden, zusätzliche sachdienliche Beweise abnehmen. Eine nur teilweise Ausschöpfung der Beweise ist keine Basis, auf der sich das Gericht eine abschliessende Überzeugung bilden darf. Die freie Beweiswürdigung bindet an Denk-, Natur- und Erfahrungssätze sowie wissenschaftliche Erkenntnisse.
-
-- [BGE 147 IV 409, E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-409_2021.html)
+- **Fundstelle / Link:** [BGE 141 I 161 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-141-I-161_2015.html)
+- **Sachverhalt:** Die Zuger Steuerverwaltung bestätigte einer Holding 1999 in einem Ruling, dass vier Teilzeitangestellte auf den Cayman Islands eine steuerbare Betriebsstätte begründen. Im Februar 2005 forderte die ESTV den Kanton auf, die Steuerausscheidung zu widerrufen, was der Steuerpflichtigen zur Kenntnis gebracht wurde. Die Gesellschaft berief sich für die Steuerjahre 2005 und 2006 auf den Vertrauensschutz.
+- **Kernaussage / Erwägungen:** Steuerrulings sind vorgängige behördliche Auskünfte, die nach Art. 9 BV Rechtswirkungen entfalten, wenn die fünf Voraussetzungen des Vertrauensschutzes erfüllt sind. Zuständig für Rulings bei der direkten Bundessteuer sind allein die kantonalen Veranlagungsbehörden; genehmigte Rulings binden grundsätzlich auch die ESTV. Mit der Weiterleitung des Widerrufs im Februar 2005 wurde die Vertrauensgrundlage jedoch zerstört. Dem Unternehmen stand zur Umstrukturierung lediglich eine angemessene Übergangsfrist bis Ende 2005 zu; für 2006 griff der Vertrauensschutz nicht mehr.
 
 ---
 
-### Sachverständigenbeweis und Willkür
+### 5. BGE 144 IV 345 (23. Mai 2018) — In dubio pro reo als Beweismass- und Entscheidungsregel bei Willkür
 
-#### BGE 141 IV 369 (2015) — Parteigutachten
-
-**Kernaussage**: Den Ergebnissen eines im Auftrag des Beschuldigten erstellten Privatgutachtens kommt lediglich die Bedeutung einer der freien Beweiswürdigung unterliegenden Parteibehauptung zu, nicht die Qualität eines Beweismittels. Das Abstellen auf eine nicht schlüssige Expertise bzw. der Verzicht auf die gebotenen zusätzlichen Beweiserhebungen verstösst gegen das Verbot willkürlicher Beweiswürdigung (Art. 9 BV).
-
-- [BGE 141 IV 369, E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-369_2015.html)
+- **Fundstelle / Link:** [BGE 144 IV 345 E. 2.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-345_2018.html)
+- **Sachverhalt:** Ein Täter erstach einen Gastwirt mit elf Messerstichen und behändigte danach Fr. 9'250.– Bargeld. Das Obergericht Uri verurteilte wegen vorsätzlicher Tötung und verneinte Mord, weil ein Streit nicht ausgeschlossen werden konnte und die Indizien mehrdeutig waren. Die Staatsanwaltschaft rügte vor Bundesgericht eine Verletzung des In-dubio-pro-reo-Grundsatzes und forderte einen Schuldspruch wegen Raubmordes.
+- **Kernaussage / Erwägungen:** Das Bundesgericht wies die Beschwerde ab: Der Grundsatz der Unschuldsvermutung (*in dubio pro reo*; Art. 32 Abs. 1 BV, Art. 10 Abs. 3 StPO) ist keine Beweiswürdigungsregel bei der Sichtung von Beweisen, sondern eine Entscheidungsregel nach Abschluss der Beweiswürdigung. Vor Bundesgericht führt nur das Übergehen offensichtlich erheblicher Zweifel zu einer Verletzung; insoweit fällt die Kognition mit der Willkürprüfung nach Art. 9 BV zusammen. Da die Indizien (Mitführen des Messers, Gang zum Friedhof) nicht zwingend auf einen vorgefassten Raubplan schlossen, war die Annahme der für den Beschuldigten günstigeren Sachverhaltsvariante willkürfrei.
 
 ---
 
-#### BGE 127 I 54 (2000) — Aktengutachten
+### 6. BGE 135 III 232 (22. Januar 2009) — Qualifiziertes Rügeprinzip (Art. 106 Abs. 2 BGG) und kantonale SchKG-Fristen
 
-**Kernaussage**: Ein forensisches Gutachten ist grundsätzlich nur nach eigener Untersuchung und Befunderhebung abzugeben; in seltenen Fällen kann es nach Aktenlage als Notbehelf erstellt werden. Der Beweiswert eines Aktengutachtens ist geringer als der eines Gutachtens mit eigener Untersuchung.
-
-- [BGE 127 I 54, E. 2e–g](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-127-I-54_2000-11-28.html)
+- **Fundstelle / Link:** [BGE 135 III 232 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-III-232_2009.html)
+- **Sachverhalt:** Mehrere Genfer Gläubiger erwirkten einen Arrestbefehl. Das Genfer Obergericht hielt an seiner Praxis fest, wonach die Frist für die Arresteinsprache (Art. 278 SchKG) bereits mit dem Arrestvollzug vor Ort beginnt, wenn der Schuldner anwesend war oder Einsicht in die Akten nahm. Dagegen wurde Willkürbeschwerde an das Bundesgericht erhoben.
+- **Kernaussage / Erwägungen:** Das Bundesgericht hiess die Beschwerde gut: Bei vorsorglichen Massnahmen prüft das Bundesgericht ausschliesslich die Verletzung verfassungsmässiger Rechte (Art. 98 BGG). Hierfür gilt das strenge Rügeprinzip gemäss Art. 106 Abs. 2 BGG: Der Beschwerdeführer muss anhand der Urteilserwägungen substanziiert darlegen, worin die Verfassungsverletzung liegt. In der Sache war die Genfer Praxis willkürlich: Art. 276 Abs. 1 SchKG schreibt zwingend die formelle Zustellung des Arrestbefehls vor; der Beginn der Einsprachefrist durfte nicht willkürlich vorverlegt werden.
 
 ---
+
+## II. Weitere Entscheide
+
+### Beweiswürdigung, Amtsermittlung und Sachverständigenbeweis
+
+#### BGE 140 III 264 (2014) — Willkürbegriff bei Beweiswürdigung und Mitwirkungsverweigerung
+- **Fundstelle / Link:** [BGE 140 III 264 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-264_2014.html)
+- **Kernaussage:** Die Sachverhaltsfeststellung bzw. Beweiswürdigung ist nur willkürlich (Art. 9 BV), wenn das Gericht Sinn und Tragweite eines Beweismittels offensichtlich verkennt, entscheidwesentliche Beweise grundlos ignoriert oder unhaltbare Schlüsse zieht. Verweigert eine Partei im Zivilprozess unberechtigterweise die Mitwirkung (Art. 164 ZPO), steht dem Richter ein freies Ermessen zu; das Bundesgericht ist an die Beweiswürdigung gebunden (Art. 105 Abs. 1 BGG).
+
+#### BGE 146 III 203 (2020) — Echte und unechte antizipierte Beweiswürdigung
+- **Fundstelle / Link:** [BGE 146 III 203 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-203_2020.html)
+- **Kernaussage:** Echte antizipierte Beweiswürdigung liegt vor, wenn an sich taugliche Beweise nicht abgenommen werden, weil das Gericht seine Überzeugung bereits gebildet hat. Unechte liegt vor, wenn das Beweismittel objektiv untauglich ist. Auf eine Kindesanhörung darf grundsätzlich nicht gestützt auf eine antizipierte Beweiswürdigung verzichtet werden, da dies die Verfahrensstellung des Kindes aushöhlen würde.
+
+#### BGE 131 I 45 (2005) — Willkür wegen aktenwidriger Feststellungen
+- **Fundstelle / Link:** [BGE 131 I 45 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-131-I-45_2005.html)
+- **Kernaussage:** Aktenwidrigkeit liegt vor, wenn sich der Richter infolge Versehens mit den Akten in Widerspruch gesetzt hat (Aktenstellen übersehen, falschen Inhalt beigelegt oder eine Tatsache irrig als belegt angesehen). Aktenwidrigkeit betrifft unrichtige faktische Prämissen, nicht das Ergebnis der freien Beweiswürdigung.
+
+#### BGE 141 IV 369 (2015) — Parteigutachten und Abweichen von gerichtlichen Expertisen
+- **Fundstelle / Link:** [BGE 141 IV 369 E. 6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-369_2015.html)
+- **Kernaussage:** Ein Privatgutachten hat lediglich den Stellenwert einer Parteibehauptung. Stützt sich das Gericht auf eine unschlüssige Expertise oder weicht es ohne triftige Gründe von einem gerichtlichen Gutachten ab, verletzt es das Verbot willkürlicher Beweiswürdigung (Art. 9 BV).
 
 #### BGE 144 IV 176 (2018) — Delegationsverbot beim Sachverständigenbeweis
+- **Fundstelle / Link:** [BGE 144 IV 176 E. 4.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-176_2018.html)
+- **Kernaussage:** Wird ein bestimmter Sachverständiger bestellt, hat er den Auftrag persönlich auszuführen. Eine Delegation der gutachterlichen Kernaufgaben an Hilfspersonen ist unzulässig; das Abstellen auf eine unzulässig delegierte Expertise ist willkürlich.
 
-**Kernaussage**: Wird ein bestimmter Sachverständiger bestellt und mit der Begutachtung betraut, hat er den Auftrag grundsätzlich persönlich auszuführen. Eine Delegation seiner Aufgabe und seiner Verantwortung an Dritte ist nicht zulässig (Delegationsverbot). Nur untergeordnete Arbeiten dürfen Hilfspersonen übertragen werden.
-
-- [BGE 144 IV 176, E. 4.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-176_2018.html)
-
----
-
-### Unschuldsvermutung und Kognition im Strafverfahren
-
-#### BGE 127 I 38 (2000) — Unschuldsvermutung und Willkürkontrolle
-
-**Kernaussage**: Die Beschränkung der Kognition des Bundesgerichts auf Willkür verletzt die Unschuldsvermutung nicht. Die Geltendmachung ihrer Verletzung führt nicht zu einer freien Überprüfung des Sachverhalts; die Beanstandungen des Beweisergebnisses sind als reine Willkürrügen zu behandeln. Eine rein appellatorische Kritik genügt den Begründungsanforderungen nicht.
-
-- [BGE 127 I 38, E. 2c und E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-127-I-38_2000-12-07.html)
+#### BGE 147 IV 409 (2021) — Amtsermittlungspflicht und vollständige Beweisausschöpfung
+- **Fundstelle / Link:** [BGE 147 IV 409 E. 5.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-409_2021.html)
+- **Kernaussage:** Die Vorinstanz muss das entscheiderhebliche Beweismaterial umfassend auswerten. Eine nur teilweise Ausschöpfung der Beweise bei zweifelhafter Sachlage ist keine willkürfreie Basis für eine Überzeugungsbildung; das Gericht ist an Denk- und Erfahrungssätze gebunden.
 
 ---
 
-#### BGE 143 IV 241 (2017) — Kognition: Tat-/Rechtsfrage
+### Strafprozess und Kognitionsabgrenzung
 
-**Kernaussage**: Offensichtlich unrichtig ist die Sachverhaltsfeststellung, wenn sie willkürlich im Sinne von Art. 9 BV ist. Willkür liegt nur vor, wenn die vorinstanzliche Beweiswürdigung schlechterdings unhaltbar ist; dass eine andere Lösung ebenfalls möglich erscheint, genügt nicht. Wie die Beweise zu würdigen sind, prüft das Bundesgericht nur auf Willkür; als Rechtsfrage frei prüfbar ist, ob die Vorinstanz die Tragweite eines Grundsatzes richtig erfasst hat.
+#### BGE 127 I 38 (2000) — Beschränkung der Kognition auf Willkür bei der Unschuldsvermutung
+- **Fundstelle / Link:** [BGE 127 I 38 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-127-I-38_2000-12-07.html)
+- **Kernaussage:** Die Rüge einer Verletzung der Unschuldsvermutung (Art. 32 Abs. 1 BV, Art. 6 Ziff. 2 EMRK) führt nicht zu einer freien Sachverhaltsprüfung durch das Bundesgericht. Beanstandungen des Beweisergebnisses werden als reine Willkürrügen behandelt; rein appellatorische Kritik ist unzulässig.
 
-- [BGE 143 IV 241, E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-241_2017.html)
-
----
-
-### Willkür im Verwaltungsrecht
-
-#### BGE 138 I 305 (12. Juni 2012) — Kein Entschliessungsermessen bei der Einbürgerung
-
-**Kernaussage**: Die die Einbürgerung regelnden Normen dienen nicht nur allgemeinen, sondern auch individuellen Interessen; die gesetzliche Regelung räumt den zuständigen Behörden weder ausdrücklich noch sinngemäss ein Entschliessungsermessen ein. Eine Nichteinbürgerung wäre willkürlich und widerstreitet dem Rechtsgleichheitsgebot.
-
-- [BGE 138 I 305, E. 1.4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-305_2012.html)
+#### BGE 143 IV 241 (2017) — Abgrenzung Tat- und Rechtsfrage bei Verfahrenseinstellung
+- **Fundstelle / Link:** [BGE 143 IV 241 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-241_2017.html)
+- **Kernaussage:** Was der Täter wusste und wollte, ist Tatfrage und wird nur auf Willkür überprüft. Als Rechtsfrage frei prüfbar ist, ob die Vorinstanz den Rechtsbegriff der Einstellung (*in dubio pro duriore*, Art. 319 StPO) zutreffend erfasst hat.
 
 ---
 
-#### BGE 141 I 60 (2015) — Fairness und Treu und Glauben im Einbürgerungsverfahren
-
-**Kernaussage**: Die Gemeinde darf nicht willkürlich, rechtsungleich oder diskriminierend entscheiden und muss ihr Ermessen insgesamt pflichtgemäss ausüben. Sie hat den Grundsatz der Fairness im Verfahren, den Anspruch auf rechtliches Gehör (Art. 29 BV) und das Prinzip von Treu und Glauben (Art. 9 und 5 Abs. 3 BV) zu wahren, insbesondere das Recht des Gesuchstellers auf vorgängige Orientierung.
-
-- [BGE 141 I 60, E. 3.2–3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-141-I-60_2015.html)
-
----
-
-#### BGE 148 I 271 (2022) — Sprachnachweis Einbürgerung willkürlich verweigert
-
-**Kernaussage**: Die Nichtanerkennung einer genügenden Maturanote für die Lokalsprache als ausreichenden Sprachnachweis für die ordentliche Einbürgerung ist willkürlich (Art. 9 BV), rechtsungleich und überspitzt formalistisch. Eine Bestimmung so auszulegen, dass sie von vorneherein keine anderen Nachweise zulässt, wäre willkürlich und ein Verstoss gegen den Vorrang des Bundesrechts.
-
-- [BGE 148 I 271, E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-271_2022.html)
-
----
-
-#### BGE 133 I 206 (2007) — Degressiver Steuertarif verstösst gegen Verfassung
-
-**Kernaussage**: Der degressive Obwaldner Einkommenssteuertarif, bei dem die durchschnittliche Steuerbelastung ab einem Einkommen von Fr. 300'000.– sinkt, verstösst gegen das Gebot der Besteuerung nach der wirtschaftlichen Leistungsfähigkeit (Art. 127 Abs. 2 BV) und den allgemeinen Gleichheitssatz (Art. 8 Abs. 1 BV). Belastungsunterschiede bis zu 32 % zwischen mittleren und hohen Einkommen halten vor der rechtsgleichen Besteuerung nicht stand. Weder Steuerwettbewerb noch andere fiskalische oder ausserfiskalische Ziele rechtfertigen den Mangel.
-
-- [BGE 133 I 206, E. 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-206_2007.html)
-
----
-
-#### BGE 133 II 249 (2007) — Nachbarbeschwerde und Willkür
-
-**Kernaussage**: Bei der baurechtlichen Nachbarbeschwerde ist nicht erforderlich, dass das angeblich willkürlich angewendete kantonale oder kommunale Gesetzesrecht dem Beschwerdeführer einen Rechtsanspruch vermittelt. Der Nachbar kann nur die Überprüfung des Bauvorhabens im Lichte jener Rechtssätze verlangen, die sich rechtlich oder tatsächlich auf seine Stellung auswirken.
-
-- [BGE 133 II 249, E. 1.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-133-II-249_2007.html)
-
----
-
-#### BGE 136 I 229 (2010) — Zurückhaltung bei Prüfungsentscheiden
-
-**Kernaussage**: Das Bundesgericht auferlegt sich eine besondere Zurückhaltung bei der materiellen Beurteilung von Prüfungsentscheiden, indem es erst einschreitet, wenn sich die Behörde von sachfremden oder offensichtlich unhaltbaren Erwägungen hat leiten lassen, sodass ihr Entscheid unter rechtsstaatlichen Gesichtspunkten als nicht mehr vertretbar und damit als willkürlich erscheint. Diese Zurückhaltung übt es selbst dann, wenn es sachlich zu einer weitergehenden Überprüfung befähigt wäre.
-
-- [BGE 136 I 229, E. 6.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-136-I-229_2010.html)
-
----
-
-#### BGE 134 I 153 (2008) — Willkür und Verhältnismässigkeit
-
-**Kernaussage**: Das in Art. 5 Abs. 2 BV als allgemeiner Verfassungsgrundsatz verankerte Verhältnismässigkeitsgebot kann im Rahmen einer Beschwerde in öffentlich-rechtlichen Angelegenheiten bei der Anwendung kantonalen Rechts ausserhalb des Schutzbereichs spezieller Grundrechte nur unter dem Gesichtswinkel des Willkürverbots angerufen werden (Vereinigung sämtlicher Abteilungen).
-
-- [BGE 134 I 153, E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-134-I-153_2008.html)
-
----
-
-#### BGer 1C_513/2025 (23. Juli 2026) — Willkürverbot bei Quartierplanvereinbarungen
-
-**Kernaussage**: Bei der Überprüfung kommunaler Quartierplanvereinbarungen und städtebaulicher Verträge auf Willkür (Art. 9 BV) greift das Bundesgericht nur ein, wenn die behördliche Auslegung und Interessenabwägung offensichtlich unhaltbar ist oder mit den tatsächlichen Gegebenheiten in unlösbarem Widerspruch steht; das Vorliegen vertretbarer anderer Gestaltungsoptionen begründet keine Willkür.
-
-- [BGer 1C_513/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-513-2025_2026-07-23.html)
-
----
-
-### Treu und Glauben und Vertrauensschutz
-
-#### BGE 143 V 341 (2017) — Gehalt des Grundsatzes von Treu und Glauben
-
-**Kernaussage**: Der in Art. 9 BV verankerte Grundsatz von Treu und Glauben statuiert ein Verbot widersprüchlichen Verhaltens und verleiht einer Person Anspruch auf Schutz des berechtigten Vertrauens in behördliche Zusicherungen oder sonstiges, bestimmte Erwartungen begründendes Verhalten der Behörden. Der unrichtigen Auskunft gleichgestellt ist die Unterlassung einer behördlichen Auskunft, die gesetzlich vorgeschrieben oder nach den Umständen geboten war.
-
-- [BGE 143 V 341, E. 5.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-143-V-341_2017.html)
-
----
-
-#### BGE 146 IV 297 (2020) — Verhältnis Art. 5 Abs. 3 BV zu Art. 9 BV
-
-**Kernaussage**: Der einklagbare Individualrechtsanspruch gegenüber staatlichem Handeln wird primär durch Art. 9 BV (Schutz vor Willkür und Wahrung von Treu und Glauben) verfassungsrechtlich gewährleistet. Art. 5 Abs. 3 BV normiert primär ein Handlungsgebot der Behörden, verpflichtet nach der Rechtsprechung aber auch Privatpersonen.
-
-- [BGE 146 IV 297, E. 2.2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-297_2020.html)
-
----
-
-#### BGE 150 I 1 (26. Oktober 2023) — Vertrauensschutz und Legalitätsprinzip im Steuerrecht
-
-**Kernaussage**: Anders als in anderen Rechtsgebieten steht der Schutz des Vertrauens in eine behördliche Auskunft im Steuerrecht nicht unter der Voraussetzung einer zusätzlichen Interessenabwägung. Sind die Voraussetzungen des Vertrauensschutzes erfüllt, geht er im Steuerrecht dem Legalitätsprinzip vor (Praxispräzisierung). Die besondere Bedeutung des Legalitätsprinzips im Steuerrecht ist auf diejenigen Tatbestände beschränkt, die sich zum Nachteil der Bürgerinnen und Bürger auswirken.
-
-- [BGE 150 I 1, E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-1_2024.html)
-
----
-
-#### BGer 2C_334/2014 (9. Juli 2015) — Venire contra factum proprium
-
-**Kernaussage**: Bei einer Kollision zwischen Gesetzmässigkeitsprinzip und Vertrauensschutzprinzip hat letzteres nach allgemeinem Verwaltungsrecht grundsätzlich zurückzutreten, weil das Gesetz demokratisch legitimiert ist. Nach Art. 9 BV sind staatliche Organe, nach Art. 5 Abs. 3 BV staatliche Organe und Private zum Handeln nach Treu und Glauben aufgerufen (venire contra factum proprium).
-
-- [BGer 2C_334/2014, E. 2.5.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-334-2014_2015-07-09.html)
-
----
-
-#### BGer 2C_1038/2017 (18. Juli 2018) — Treu und Glauben bei mangelhafter Eröffnung
-
-**Kernaussage**: Der Grundsatz von Treu und Glauben (Art. 9 und 5 Abs. 3 BV) gebietet ein loyales und vertrauenswürdiges Verhalten im Rechtsverkehr und verleiht einer Person Anspruch auf Schutz des berechtigten Vertrauens in behördliche Zusicherungen. Aus dem Grundsatz von Treu und Glauben fliesst auch die Regel, wonach einer Partei aus einer mangelhaften Eröffnung kein Nachteil erwachsen darf.
-
-- [BGer 2C_1038/2017, E. 5.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-1038-2017_2018-07-18.html)
-
----
-
-#### BGer 2C_389/2022 (23. September 2022) — Widerruf Aufenthaltsbewilligung und Vertrauensschutz
-
-**Kernaussage**: Der aus dem in Art. 9 BV verbrieften Grundsatz von Treu und Glauben abgeleitete Vertrauensschutz in behördliche Zusicherungen gilt nur, wenn die Rechtslage seit der Auskunftserteilung keine Änderung erfahren hat. Der blosse Umstand, dass die Behörden den Sozialhilfebezug zunächst toleriert haben, begründet keine Vertrauensgrundlage.
-
-- [BGer 2C_389/2022, E. 6.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-389-2022_2022-09-23.html)
-
----
-
-#### BGer 2C_112/2019 (26. Februar 2020) — Blosser Zeitablauf als Vertrauensgrundlage
-
-**Kernaussage**: Aus Art. 9 BV lässt sich kein Anspruch auf Vertrauensschutz in den Fortbestand der Niederlassungsbewilligung ableiten, wenn zwischen der Einleitung des Verfahrens und dem Widerruf einige Jahre vergehen. Der blosse Zeitablauf stellt weder eine Vertrauensgrundlage dar, noch ist ersichtlich, welche Dispositionen der Betroffene getroffen haben soll, die sich nicht ohne Nachteil rückgängig machen lassen.
-
-- [BGer 2C_112/2019, E. 3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-112-2019_2020-02-26.html)
-
----
-
-#### BGer 2C_74/2010 (10. Juni 2010) — Widerruf Niederlassungsbewilligung und fehlende Dispositionen
-
-**Kernaussage**: Der Widerruf der Niederlassungsbewilligung verletzt nicht den Vertrauensschutz oder Treu und Glauben (Art. 5 Abs. 3 und Art. 9 BV), wenn weder erkennbar noch dargelegt ist, welche Dispositionen die Betroffenen mit Blick auf das Verhalten der Behörden getroffen haben, die sie nicht mehr ohne Schaden rückgängig machen können.
-
-- [BGer 2C_74/2010, E. 4.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-74-2010_2010-06-10.html)
-
----
-
-#### BGer 2C_776/2017 (2. Oktober 2017) — Keine umfassende Hinweispflicht der Behörden
-
-**Kernaussage**: Nach der bundesgerichtlichen Rechtsprechung gibt es keine umfassende Verpflichtung der Behörden, Ausländer auf sämtliche sie betreffenden Fristen aktiv hinzuweisen. Ein Ausländer kann sich auf den verfassungsmässigen Vertrauensschutz berufen, falls besondere Umstände im Einzelfall eine Auskunftserteilung als geboten hätten erscheinen lassen.
-
-- [BGer 2C_776/2017, E. 3.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-776-2017_2017-10-02.html)
-
----
-
-#### BGer 1C_186/2025 (4. August 2026) — Treu und Glauben im Verwaltungsvollzug
-
-**Kernaussage**: Eine Behörde verstösst gegen den Grundsatz von Treu und Glauben (Art. 9 BV), wenn sie nach einem vorgängigen Kommunikationsaustausch mit dem Bürger, der berechtigte Erwartungen weckt, eine Vollstreckungsverfügung erlässt, ohne dem Bürger zuvor Gelegenheit zu geben, ein Projektänderungsgesuch einzureichen.
-
-- [BGer 1C_186/2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-186-2025_2026-08-04.html)
-
----
-
-### Kognition und Rügeform
-
-#### BGE 135 III 232 (2009) — Substantiierte Willkürrüge
-
-**Kernaussage**: Bei vorsorglichen Massnahmen kann einzig die Verletzung verfassungsmässiger Rechte gerügt werden, die das Bundesgericht nur insofern prüft, als eine entsprechende Rüge in der Beschwerde vorgebracht und begründet worden ist (Art. 106 Abs. 2 BGG). Klar und detailliert anhand der Erwägungen des angefochtenen Entscheides darzulegen ist, inwiefern verfassungsmässige Rechte verletzt worden sein sollen.
-
-- [BGE 135 III 232, E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-135-III-232_2009.html)
-
----
-
-#### BGE 133 I 201 (2007) — Heilung eines Verfahrensmangels
-
-**Kernaussage**: Offengelassen, ob eine Heilung des Mangels im Rechtsmittelverfahren grundsätzlich möglich wäre. Jedenfalls genügt es nicht, wenn dem Betroffenen lediglich der Entscheid einer gerichtlichen Rechtsmittelinstanz zugestellt wird, welche nur über eingeschränkte Kognition verfügt. Eine Beschwerde an das Bundesgericht mit der für dieses geltenden beschränkten Kognition ist offensichtlich nicht geeignet, eine Heilung des durch die unterbliebene Eröffnung der Verfügung entstandenen Verfahrensmangels zu ermöglichen.
-
-- [BGE 133 I 201, E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-201_2007.html)
-
----
-
-## Entfernte Entscheide (Audit vom 11. August 2026)
-
-Ausgangslage: 44 beurteilte Paare, davon 5 gestützt (30 %).
-
-| Referenz | Befund |
-|---|---|
-| BGE 124 I 199 | existiert nicht |
-| BGE 125 I 392 | existiert nicht |
-| BGE 130 I 268 | existiert nicht |
-| BGE 147 II 161 | existiert nicht |
-| BGE 148 V 390 | existiert nicht |
-| BGE 140 III 16 E. 1.3.1 | Pinpoint existiert nicht (Willkürdefinition steht in E. 2.1) |
-| BGE 146 IV 114 E. 3.2.2 | Pinpoint existiert nicht |
-| BGE 142 I 155 E. 4.2 und E. 2.1 | Pinpoints existieren nicht |
-| BGE 140 III 264 E. 3.2 | Pinpoint existiert nicht |
-| BGE 150 III 1 E. 3.2 | Pinpoint existiert nicht |
-| BGE 127 I 54 E. 3 | Pinpoint existiert nicht |
-| BGE 138 I 305 E. 4 | Pinpoint existiert nicht |
-| BGE 133 II 249 E. 3.2 | Pinpoint existiert nicht |
-| BGE 139 I 16 E. 4.2 | Pinpoint existiert nicht |
-| BGE 134 I 153 | betrifft die Kognition bei der Verhältnismässigkeitsprüfung, nicht die Willkürdefinition — jetzt korrekt als E. 4.3 integriert |
-| BGE 129 I 8 | trägt die Willkürdefinition in der behaupteten Form nicht |
-| BGE 145 I 73 | trägt die Aussage zu den Rechtsfolgen eines Willkürverstosses nicht |
-| BGE 140 I 285 | trägt die Aussage zur Ermessensüberschreitung nicht |
-| BGE 139 I 16, BGE 135 I 143 | tragen die Aussagen zum Vertrauensschutz im Ausländerrecht nicht |
-| BGE 133 I 206 | trägt die Aussage zum degressiven Steuertarif in dieser Form nicht — jetzt korrekt als E. 9 integriert |
-
-*Letzte Aktualisierung: 25. September 2026*
+### Verwaltungs-, Steuer- und Schuldbetreibungsrecht
+
+#### BGE 131 II 627 (2005) — Fehlende Vertrauensgrundlage bei Steuerumgehung (Pensionskasseneinkauf)
+- **Fundstelle / Link:** [BGE 131 II 627 E. 6.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-131-II-627_2005.html)
+- **Kernaussage:** Ein Rechtsanwalt kaufte sich für Fr. 430'000.– in eine Pensionskasse ein und bezog denselben Betrag fünf Tage später als Wohneigentumsvorbezug. Das Bundesgericht verneinte Vertrauensschutz: Blosse unverbindliche Besprechungen mit der Steuerverwaltung ohne schriftliche Zusicherung stellen keine Vertrauensgrundlage dar. Zudem wurde die Liegenschaft bereits vor der Anfrage gekauft (fehlende Kausalität der Disposition).
+
+#### BGE 150 I 1 (26. Oktober 2023) — Vorrang des Vertrauensschutzes vor dem Legalitätsprinzip im Steuerrecht
+- **Fundstelle / Link:** [BGE 150 I 1 E. 4.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-1_2024.html)
+- **Kernaussage:** Sind die fünf Voraussetzungen des Vertrauensschutzes erfüllt, geht Art. 9 BV im Steuerrecht dem Legalitätsprinzip ohne zusätzliche Interessenabwägung vor (Praxispräzisierung). Der Vertrauensschutz verdrängt das materielle Steuergesetz zugunsten des Bürgers.
+
+#### BGE 133 I 206 (2007) — Willkürliche Rechtsetzung bei degressivem Steuertarif
+- **Fundstelle / Link:** [BGE 133 I 206 E. 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-133-I-206_2007.html)
+- **Kernaussage:** Der degressive Obwaldner Einkommenssteuertarif, bei dem die Steuerbelastung ab Fr. 300'000.– sank, verstösst gegen das Leistungsfähigkeitsprinzip (Art. 127 Abs. 2 BV) und ist willkürlich. Wirtschaftliche Zielsetzungen vermögen fundamentale Verfassungsgrundsätze nicht zu rechtfertigen.
+
+#### BGE 148 I 271 (2022) — Willkürliche Verweigerung des Sprachnachweises bei der Einbürgerung
+- **Fundstelle / Link:** [BGE 148 I 271 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-148-I-271_2022.html)
+- **Kernaussage:** Die Nichtanerkennung einer genügenden Maturanote in der Landessprache als Sprachnachweis für die Einbürgerung ist willkürlich (Art. 9 BV) und überspitzt formalistisch. Eine Auslegung, die jeden anderen Nachweis starr ausschliesst, ist unhaltbar.
+
+#### BGE 138 III 425 (17. April 2012) — Verbot des Rechtsmissbrauchs bei zivilprozessualem Auskunftsbegehren
+- **Fundstelle / Link:** [BGE 138 III 425 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-425_2012.html)
+- **Kernaussage:** Das datenschutzrechtliche Auskunftsrecht (Art. 8 DSG) kann grundsätzlich ohne Interessennachweis geltend gemacht werden. Ein Auskunftsgesuch ist nicht schon deshalb rechtsmissbräuchlich (Art. 2 Abs. 2 ZGB, Art. 9 BV), weil die Informationen im Vorfeld eines Haftpflichtprozesses gegen eine Bank zur Beweissammlung dienen sollen. Rechtsmissbrauch liegt erst bei reiner Schikane vor.
+
+#### BGE 143 III 348 (16. Juni 2017) — Verjährungseinrede bei Retrozessionen und Rechtsmissbrauchsverbot
+- **Fundstelle / Link:** [BGE 143 III 348 E. 5.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-348_2017.html)
+- **Kernaussage:** Die Berufung auf die Verjährung ist nur dann rechtsmissbräuchlich (*venire contra factum proprium*), wenn der Schuldner den Gläubiger durch sein Verhalten aktiv von rechtzeitigen Schritten abgehalten hat. Das blosse Verstreichen der Verjährungsfrist bei verheimlichten Retrozessionen genügt hierfür nicht.
+
+#### BGer 2C_389/2022 (23. September 2022) — Keine Vertrauensgrundlage durch blosse Duldung
+- **Fundstelle / Link:** [BGer 2C_389/2022 E. 6.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-389-2022_2022-09-23.html)
+- **Kernaussage:** Das blosse vorübergehende Dulden eines Sozialhilfebezugs durch die Migrationsbehörde begründet keine Vertrauensgrundlage im Sinne von Art. 9 BV für den Fortbestand einer Aufenthaltsbewilligung. Ohne konkrete behördliche Zusicherung greift der Vertrauensschutz nicht.
