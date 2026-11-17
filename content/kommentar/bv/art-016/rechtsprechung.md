@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 16 BV"
 weight: 99
 date: 2026-05-17
-lastmod: "2026-08-12"
+lastmod: 2026-11-17
 description: "Uebersicht der Leitentscheide zu Art. 16 BV — Meinungs- und Informationsfreiheit."
 tags: ["Rechtsprechung", "BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Urteil des Verwaltungsgerichts des Kantons Bern 100 2026 52 vom 20.10.2026 (gemeindeeigene Wahlplakatständer bei kantonalen Wahlen, Unzulässigkeit des pauschalen Ortsansässigkeitskriteriums) sowie BGer 1C_595/2022 und 1C_155/2023 vom 10.7.2023 in Abschnitt 2 und Abschnitt 20 aufgenommen; Sachverhalt, Leitsatz und Erwägungen gegen den Volltext auf entscheidsuche (PDF bzw. HTML) geprüft (kein audit.py-Lauf)."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
@@ -89,6 +93,36 @@ revisions:
 - Auf den Inhalt einer Meinungsäusserung kommt es grundsätzlich nicht an. Auch inhaltlich provozierende oder schockierende Äusserungen verdienen grundrechtlichen Schutz (BGE 138 I 274, E. 2.2.1).
 
 - Ein generelles Verbot von Plakaten mit aussenpolitischen Themen ist nicht zulässig ([BGE 138 I 274, E. 3.4.1](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_274#e-3-4-1)).
+
+---
+
+#### BGer 1C_595/2022 und 1C_155/2023 vom 10. Juli 2023 — Wahlplakate auf öffentlichem Grund und Vorrang kommunaler Urnengänge
+
+**Sachverhalt**: Eine Partei (PARAT) und ihr Kandidat für die Ergänzungswahl ans Verwaltungsgericht des Kantons Zug durften an den zehn in der städtischen Verordnung über die politische Aussenwerbung festgelegten Standorten der Stadt Zug jeweils ein Wahlplakat aufhängen. Ihr Gesuch, an fünf weiteren Standorten Plakatständer aufzustellen, wurde abgewiesen. Sie rügten eine Verletzung der Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV), der Wahl- und Abstimmungsfreiheit (Art. 34 Abs. 2 BV) sowie der Rechtsgleichheit und beanstandeten zudem den reglementarischen Vorrang kommunaler vor kantonalen Urnengängen.
+
+**Leitsatz**: Das Aufstellen von Plakatständern mit Wahlplakaten fällt als Form politischer Meinungsäusserung in den Schutzbereich von Art. 16 Abs. 2 BV, begründet wegen des damit verbundenen gesteigerten Gemeingebrauchs des öffentlichen Grunds aber nur einen bedingten Anspruch auf Bewilligung zur Nutzung bestehender Infrastruktur ([BGer 1C_595/2022 und 1C_155/2023 vom 10. Juli 2023, E. 8.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_8.1) und [E. 8.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_8.2)). Eine zahlenmässige Begrenzung auf zehn stark frequentierte Standorte aus Gründen der Verkehrssicherheit, des Ortsbildschutzes und begrenzter Kapazitäten ist verhältnismässig ([E. 10.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_10.2)). Bei zeitlicher Überschneidung mehrerer Urnengänge darf bei ungenügenden Kapazitäten in der Regel ein Vorrang kommunaler gegenüber kantonalen Urnengängen vorgesehen werden, sofern dadurch kantonale Wahlwerbung nicht ausgeschlossen wird ([E. 12.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_12.3)).
+
+**Zentrale Erwägungen**:
+
+- **Bedingter Anspruch auf Nutzung bestehender Infrastruktur**: Es besteht grundsätzlich kein Anspruch darauf, dass der Staat positiv neue Einrichtungen schafft oder eine Nutzung an beliebigem Ort, zu beliebiger Zeit und in beliebiger Weise zulässt; ausschlaggebend sind genügende Kapazitäten sowie die zweckmässige Nutzung und rechtsgleiche Zugänglichkeit unter Einbezug des besonderen ideellen Gehalts des Freiheitsrechts ([BGer 1C_595/2022 und 1C_155/2023 vom 10. Juli 2023, E. 8.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_8.2)).
+
+- **Vorrang vs. Ausschluss**: Die Vorrangsregelung gilt nicht absolut und impliziert keinen Ausschluss politischer Plakate für kantonale Urnengänge, sondern lediglich einen Vorrang kommunaler Werbung bei gleichzeitiger Durchführung mehrerer Urnengänge und knappen Kapazitäten ([BGer 1C_595/2022 und 1C_155/2023 vom 10. Juli 2023, E. 12.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_12.3)).
+
+---
+
+#### VGer BE 100 2026 52 vom 20. Oktober 2026 — Zugang zu gemeindeeigenen Wahlplakatständern bei kantonalen Wahlen
+
+**Sachverhalt**: Die Grünliberale Partei (GLP) Seeland ersuchte die Einwohnergemeinde Aarberg um Nutzung der gemeindeeigenen Wahlplakatständer (fünf Standorte für je sechs Plakate im Weltformat) im Hinblick auf die Grossratswahlen vom 29. März 2026 im Wahlkreis Biel-Seeland. Die Gemeinde wies das Gesuch ab, weil ihre Aussenreklamenverordnung für Grossratswahlen kumulativ verlangte, dass die Kandidierenden aus Aarberg oder dem Verwaltungskreis stammen und ihre Partei in Aarberg als Ortspartei vertreten ist. Die GLP Seeland trat zwar im Verwaltungskreis an, verfügte jedoch in Aarberg über keine Ortspartei. Da die Wahlen während des Verfahrens stattfanden, trat das Verwaltungsgericht des Kantons Bern wegen grundsätzlicher Bedeutung und Wiederholungsgefahr trotz Wegfalls des aktuellen praktischen Interesses auf die Beschwerde ein (E. 1.3) und überprüfte die Bestimmung im Rahmen der akzessorischen Normenkontrolle (E. 3.1).
+
+**Leitsatz**: Ein pauschales Ortsansässigkeitskriterium bzw. der vollständige Ausschluss nicht ortsansässiger Parteien und Gruppierungen von der Nutzung gemeindeeigener Wahlplakatständer bei kantonalen Wahlen verstösst gegen die Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV) und das Rechtsgleichheitsgebot (Art. 8 Abs. 1 BV). Das Verwaltungsgericht präzisiert damit die bundesgerichtliche Rechtsprechung zum bedingten Anspruch auf gesteigerten Gemeingebrauch bei Wahlplakaten ([BGE 138 I 274](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-274_2012.html); [BGer 1C_595/2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html)), weil der Ausschluss wegen fehlender Ortsansässigkeit sachlich nicht gerechtfertigt und nicht erforderlich ist, da mildere Mittel wie ein Losverfahren oder eine Vergabe nach Eingangsdatum zur Verfügung stehen ([VGer BE 100 2026 52 vom 20. Oktober 2026](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2026-52_2026-10-20.pdf), E. 3.2–3.5).
+
+**Zentrale Erwägungen**:
+
+- **Schutzbereich und bedingter Anspruch**: Das Aufhängen von Plakaten bzw. Aufstellen von Wahlplakatständern fällt in den Schutzbereich von Art. 16 Abs. 2 BV und betrifft zugleich als gesteigerter Gemeingebrauch nur einen bedingten Anspruch auf Nutzung bestehender Infrastruktur ([VGer BE 100 2026 52 vom 20. Oktober 2026](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2026-52_2026-10-20.pdf), E. 3.2 f.).
+
+- **Fehlender sachlicher Grund bei kantonalen Wahlen**: Für Ungleichbehandlungen im Schutzbereich von Grundrechten gilt ein strenger und bei politischen Rechten ein besonders strenger Prüfmassstab (E. 3.4.2). Bei Grossratswahlen treten die Kandidierenden im gesamten Wahlkreis an und können in allen Gemeinden des Wahlkreises gewählt werden; die Ortsansässigkeit hat keinen Einfluss auf ihre Wählbarkeit (E. 3.4.3).
+
+- **Mildere Zuteilungsmittel statt Ausschluss**: Weder beschränkte Kapazitäten noch der Schutz des Ortsbilds, die Verkehrssicherheit oder Praktikabilitätsüberlegungen rechtfertigen bei kantonalen Wahlen die Besserstellung bzw. das Monopol ortsansässiger Parteien. Das Ortsansässigkeitskriterium ist nicht erforderlich, weil der Gemeinde mildere Mittel — etwa die Vergabe nach Eingangsdatum (*first come – first serve*), ein Losverfahren oder die Aufteilung der insgesamt 30 Plakatplätze über die Standorte hinweg auf mehr als sechs Parteien (ggf. per Los) — zur Verfügung stehen ([VGer BE 100 2026 52 vom 20. Oktober 2026](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2026-52_2026-10-20.pdf), E. 3.4.4).
 
 ---
 
@@ -370,6 +404,8 @@ revisions:
 
 | Entscheidung | Jahr | Kurztitel | Bedeutung |
 |---|---|---|---|
+| VGer BE 100 2026 52 | 2026 | Wahlplakatständer / Ortsansässigkeit | Pauschaler Ausschluss nicht ortsansässiger Parteien bei kantonalen Wahlen verletzt Art. 16 Abs. 2 und Art. 8 Abs. 1 BV; mildere Mittel (z. B. Losverfahren) vorzuziehen |
+| BGer 1C_595/2022 | 2023 | Wahlplakate Stadt Zug | Bedingter Anspruch auf gesteigerten Gemeingebrauch; begrenztes Standortkontingent und blosser Vorrang kommunaler Urnengänge zulässig |
 | BGE 149 I 248 | 2023 | Partielles Bettelverbot | Bettelei fällt nicht unter den Schutzbereich der Meinungsfreiheit, sondern unter die persönliche Freiheit |
 | BGE 149 I 218 | 2022 | Verdeckte Fahndung | Eingriff in die Meinungs- und Informationsfreiheit durch verdeckte Fahndungsmassnahmen |
 | BGE 148 II 273 | 2022 | Archivzugang und Person der Zeitgeschichte | Informationsfreiheit bei der Einsichtnahme in Archivgut vor Ablauf der Schutzfrist |

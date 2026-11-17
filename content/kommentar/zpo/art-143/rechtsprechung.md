@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 143 ZPO"
 weight: 99
 date: 2026-11-10
-lastmod: 2026-11-10
+lastmod: 2026-11-17
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts sowie kantonaler Entscheide zur Fristeinhaltung nach Art. 143 ZPO."
-tags: ["Rechtsprechung", "ZPO", "Fristen", "Postaufgabe", "Elektronischer Rechtsverkehr", "Zahlung"]
+tags: ["Rechtsprechung", "ZPO", "Fristen", "Postaufgabe", "Elektronischer Rechtsverkehr", "Zahlung", "Weiterleitungspflicht"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Ergänzung um Mietgericht ZH MH260011-L vom 5. November 2026 (ZMP 2026 Nr. 17) zur Abgrenzung von Art. 143 Abs. 1bis ZPO und Art. 63 ZPO. Volltext und PDF-URL über entscheidsuche.ch (search_by_case_number, fetch_document) verifiziert; Sachverhalt und Kernaussagen gegen Regeste sowie E. I.3–I.6 geprüft; kein hugo-Build ausgeführt."
   - date: 2026-11-10
     by: "Glossagens Agent"
     model: "Gemini 3.8 Flash (Medium)"
@@ -132,3 +136,13 @@ revisions:
 
 - **Sachverhalt**: Ein Beschwerdeführer legte seine Eingabe vor 24.00 Uhr in ein Fach eines «MyPost24»-Automaten. Der Automat druckte infolge Papiermangels keine Quittung aus. Das Fach schloss sich jedoch ordnungsgemäss.
 - **Kernaussage**: Versagt ein automatisierter Postaufgabeschalter die Quittungsausgabe infolge technischer Störung, darf dies der Partei nicht zum Nachteil gereichen, wenn sie den Vorfall unverzüglich bei der Post und beim Gericht meldet und den Vorgang durch Fehlermeldungen oder Zeugen glaubhaft macht.
+
+### Abgrenzung von Weiterleitungspflicht (Art. 143 Abs. 1bis ZPO) und Neueinreichungsfrist (Art. 63 ZPO); Wahlmöglichkeit bei Aberkennungsklage im Mietrecht
+
+[Mietgericht ZH MH260011-L vom 5. November 2026 (ZMP 2026 Nr. 17)](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_BK_004_MH260011-L_2026-11-05.pdf) (Regeste sowie E. I.3–I.6; nicht rechtskräftig)
+
+- **Sachverhalt**: Nach Erteilung der provisorischen Rechtsöffnung für eine Pachtzinsforderung erhob die Klägerin eine Aberkennungsklage (Art. 83 Abs. 2 SchKG) beim örtlich und sachlich unzuständigen Mietgericht des Bezirksgerichts A. Dieses trat am 14. Juli 2026 (versandt am 21. Juli 2026) nicht ein und wies die Klägerin unzutreffend darauf hin, die Klage sei innert eines Monats ab Rechtskraft bei der Schlichtungsbehörde in Miet- und Pachtsachen neu einzureichen. Die Klägerin reichte die Aberkennungsklage am 24. September 2026 bei der Schlichtungsbehörde in Miet- und Pachtsachen des Bezirksgerichts Zürich ein, welche die Eingabe mangels Schlichtungspflicht (Art. 198 lit. e Ziff. 1 ZPO) am 30. September 2026 an das Mietgericht Zürich weiterleitete.
+- **Kernaussage**:
+  1. Wird gegen einen Nichteintretensentscheid wegen fehlender Zuständigkeit kein Rechtsmittel ergriffen, beginnt die Nachfrist nach Art. 63 Abs. 1 ZPO bereits mit der Zustellung (Eröffnung) des Entscheids zu laufen (nicht erst mit dessen Rechtskraft); bei der Aberkennungsklage gilt gemäss Art. 63 Abs. 3 ZPO zudem die kürzere 20-tägige Klagefrist von Art. 83 Abs. 2 SchKG (E. I.4). Unzutreffende Auskünfte des zuerst angerufenen unzuständigen Gerichts über die Fristwahrung begründen vor dem zuständigen Gericht keinen Vertrauensschutz (E. I.5).
+  2. Eine verspätete Aberkennungsklage ist ihrer Rechtsnatur nach als negative Feststellungsklage nach Art. 85a SchKG entgegenzunehmen, wofür im Kanton Zürich bei diesem Streitwert das Einzelgericht für SchKG-Klagen sachlich zuständig ist (Art. 198 lit. e Ziff. 2 ZPO i.V.m. § 24 lit. b GOG/ZH) und nicht das Mietgericht; alternativ steht der Klägerin ein allgemeines negatives Feststellungsgesuch nach Art. 88 ZPO bei der Schlichtungsbehörde in Miet- und Pachtsachen offen (E. I.6).
+  3. Hängt es vom Willen der klagenden Partei ab, welches Gericht im Anschluss an ein Nichteintreten die Klage zu behandeln hat, darf keine direkte Weiterleitung nach Art. 143 Abs. 1bis ZPO erfolgen; vielmehr ist nach Art. 63 ZPO vorzugehen (Regeste).

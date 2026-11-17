@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 248 StPO"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-10-29
-description: "Rechtsprechungsübersicht zu Art. 248 StPO: Siegelungsverfahren, Beschränkung auf Art. 264 StPO (BGE 151 IV 30), Ausschluss von Unternehmensjuristen und Geschäftsgeheimnissen (BGer 7B_544/2026), Smartphones und Privatgeheimnisse (BGE 151 IV 344/350), vorsorgliche Datenspiegelung (Praxisänderung BGE 152 IV 107), Substanziierung beim Anwaltsgeheimnis (BGer 7B_815/2026), Siegelung Nichtbeschuldigter (BGer 7B_558/2025) sowie Formstrenge für Entsiegelungsgesuche (BGer 7B_165/2026)."
-tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Inhouse Privilege", "Smartphone", "Beschlagnahme", "Datenspiegelung", "BGE 152 IV 107", "Art. 264 StPO", "BGer 7B_544/2026", "BGer 7B_815/2026"]
+lastmod: 2026-11-17
+description: "Rechtsprechungsübersicht zu Art. 248 StPO: Siegelungsverfahren, Beschränkung auf Art. 264 StPO (BGE 151 IV 30), Ausschluss von Unternehmensjuristen und Geschäftsgeheimnissen (BGer 7B_544/2026), Aufklärungspflicht über Siegelungsrechte (BGer 7B_894/2026), akzessorische Rügen und Akteneinsicht in gesiegelte Geräte (BGer 7B_691/2026), Smartphones und Privatgeheimnisse (BGE 151 IV 344/350), vorsorgliche Datenspiegelung (Praxisänderung BGE 152 IV 107), Substanziierung beim Anwaltsgeheimnis (BGer 7B_815/2026), Siegelung Nichtbeschuldigter (BGer 7B_558/2025) sowie Formstrenge für Entsiegelungsgesuche (BGer 7B_165/2026)."
+tags: ["Rechtsprechung", "StPO", "Siegelung", "Entsiegelung", "Geheimnisschutz", "Inhouse Privilege", "Smartphone", "Beschlagnahme", "Datenspiegelung", "BGE 152 IV 107", "Art. 264 StPO", "BGer 7B_894/2026", "BGer 7B_691/2026", "BGer 7B_544/2026", "BGer 7B_815/2026"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Aufnahme der Entscheide BGer 7B_894/2026 vom 30. Oktober 2026 (Aufklärungspflicht bei Hausdurchsuchung und Siegelung privat genutzter Smartphones) und BGer 7B_691/2026 vom 13. Oktober 2026 (Prüfpflicht für akzessorische Rügen trotz ungenügender Substanziierung, Akteneinsicht in gesiegelte Mobiltelefone, Arztgeheimnis-Substanziierung und Privatsphäre bei bandenmässigem BetmG-Handel); Prüfweg: Volltexte über swiss-caselaw MCP (get_decision, get_erwaegung) geprüft, entscheidsuche.ch noch ohne Treffer (Fallback auf mcp.opencaselaw.ch)."
   - date: 2026-10-29
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -146,23 +150,44 @@ revisions:
   2. *Anwaltsgeheimnis (Art. 264 Abs. 1 lit. a/d, Art. 171 StPO):* Die Nennung der Anwaltsnamen und konkreten E-Mail-Adressen genügt im Regelfall vollkommen für eine gerichtliche Triage mittels elektronischer Filter. Zusätzliche zeitliche Angaben über die Korrespondenzzeiträume darf das ZMG nur bei Vorliegen besonderer Umstände verlangen (z.B. wenn die Mandatierung erst nach der Sicherstellung erfolgte oder eine derart aussergewöhnliche Datenmenge vorliegt, dass eine zeitliche Eingrenzung unumgänglich ist) ([E. 4.2, 4.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026)).
   3. *Arztgeheimnis / Patientendaten (Art. 264 Abs. 1 lit. c, Art. 171 StPO):* Macht ein Beschuldigter auf privaten Geräten geltend, es befänden sich möglicherweise noch Patientendaten darauf (etwa wegen früherer ärztlicher Tätigkeit), reichen vage Vermutungen ohne Angabe von konkreten Speicherorten, Dateipfaden oder Ordnern nicht aus, um eine Triagepflicht auszulösen ([E. 3.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=07.10.2026_7B_815/2026)).
 
-### 11. [BGer 7B_219/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-219-2026_2026-08-20.html) — Information Wall vor dem ZMG
+### 11. [BGer 7B_894/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_894_2026) — Behördliche Aufklärungspflicht über Siegelungsrechte; Siegelung privat genutzter Smartphones
+
+* **Datum:** 30. Oktober 2026 | **Dossier:** [7B_894/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_894_2026) | **Besetzung:** II. strafrechtliche Abteilung (Abrecht, Kölz, Hofmann, Gerichtsschreiberin Kern)
+* **Thema:** Informations- und Aufklärungspflicht der Polizei bei der Hausdurchsuchung über Siegelungsrechte und Glaubhaftmachungspflicht; Ungenügen blosser Gesetzesabdrucke auf Formularen; Siegelungsantrag bei privat genutzten Smartphones; Gutheissung und Rückweisung.
+* **Sachverhalt:** In einer Strafuntersuchung wegen qualifizierter Widerhandlung gegen das BetmG stellte die Kantonspolizei Zürich am 9. April 2026 bei einer Hausdurchsuchung mehrere Mobiltelefone (darunter ein «ab Person» «in Betrieb» sichergestelltes «iPhone 17 Pro»), ein MacBook und eine SIM-Karte sicher. Der Beschuldigte beantragte gleichentags die Siegelung auf dem Formular «Durchsuchungsprotokoll - Beiblatt Siegelung», ohne das Begründungsfeld auszufüllen. Das ZMG Meilen erklärte den Siegelungsantrag für ungültig, trat auf das Entsiegelungsgesuch der Staatsanwaltschaft nicht ein und gab die Geräte frei, weil das Formular informiert habe und eine frühere Vollmacht vom 8. Januar 2026 bei den Akten gelegen habe.
+* **Kernaussagen des Bundesgerichts:**
+  1. *Aufklärungs- und Protokollierungspflicht:* Die Strafbehörden müssen die betroffene Person rechtzeitig (spätestens nach Abschluss der Hausdurchsuchung), verständlich und protokolliert (Art. 143 Abs. 1 lit. c und Abs. 2 StPO) über ihre Siegelungsrechte informieren; dies gilt insbesondere bei juristischen Laien ([E. 2.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_894_2026)).
+  2. *Ungenügende Formulare und fehlende anwaltliche Aufklärung:* Ein blosser Abdruck von Gesetzesbestimmungen im Hausdurchsuchungsbefehl oder auf einem Formular genügt regelmässig nicht; ebenso wenig ein Siegelungs-Beiblatt, das nirgends angibt, dass Geheimhaltungsinteressen glaubhaft gemacht werden müssen ([E. 2.3 und 3.3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_894_2026)). Ohne Beleg für eine konkrete anwaltliche Aufklärung in diesem Verfahren darf dem Betroffenen das fehlende Anrufen von Siegelungsgründen nicht entgegengehalten werden ([E. 3.3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_894_2026)).
+  3. *Privat genutzte Smartphones:* Da privat genutzte Smartphones notorisch sensible Daten der höchstpersönlichen Sphäre enthalten (Verweis auf BGE 151 IV 344 E. 2.7), kann dem Betroffenen bei aktuell privat genutzten Geräten nicht vorgeworfen werden, keine Siegelungsgründe glaubhaft gemacht zu haben ([E. 3.3.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_894_2026)).
+
+### 12. [BGer 7B_691/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026) — Akzessorische Rügen trotz ungenügender Substanziierung; Akteneinsicht in gesiegelte Geräte; Arztgeheimnis und Privatsphäre
+
+* **Datum:** 13. Oktober 2026 | **Dossier:** [7B_691/2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026) | **Besetzung:** II. strafrechtliche Abteilung (Abrecht, Koch, Kölz, Gerichtsschreiberin Kern)
+* **Thema:** Entsiegelung von vier bei Verhaftung sichergestellten Mobiltelefonen bei bandenmässigem Betäubungsmittelhandel (THC-Indooranlage); Abgrenzung Akteneinsicht in Verfahrensakten vs. gesiegelte Datenträger; Pflicht zur Prüfung akzessorischer Rügen; Substanziierung des Arztgeheimnisses; Interessenabwägung bei Privatgeheimnissen; Abweisung.
+* **Sachverhalt:** Die Staatsanwaltschaft Zürich-Sihl ermittelt gegen A. wegen bandenmässiger Widerhandlung gegen das BetmG (Indoor-THC-Hanfanlage mit 23'918 Marihuanapflanzen und 1'106 kg verkaufsfertigem Marihuana). Bei der Verhaftung am 19. März 2026 wurden vier eingeschaltete Mobiltelefone in seinem unmittelbaren Gewahrsam sichergestellt und auf Antrag von A. gesiegelt; die Kantonspolizei sicherte gleichentags/folgetags die Daten. Das ZMG Zürich hiess das Entsiegelungsgesuch gut. Vor Bundesgericht rügte A. die Verweigerung der Akteneinsicht in die gesiegelten Mobiltelefone und eines Augenscheins, fehlenden Tatverdacht, Verletzung des Arztgeheimnisses sowie eine Verletzung seiner Privatsphäre (kompromittierende Inhalte mit Prostituierten).
+* **Kernaussagen des Bundesgerichts:**
+  1. *Keine «Akteneinsicht» in gesiegelte Objekte ohne besonderen Grund:* Die Einsicht in sichergestellte Aufzeichnungen selbst ist (anders als bei Entsiegelungsverfahrensakten nach Art. 248a Abs. 2 StPO) nur zurückhaltend zu gewähren, wenn die betroffene Person nachvollziehbar begründet, weshalb sie ohne Gesamtdurchsicht überhaupt nicht zur Substanziierung bereits plausibel gemachter Geheimnisse fähig wäre ([E. 4.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026)). Bei unmittelbarem Gewahrsam bei Festnahme und eindeutigen Asservatnummern kann der anwaltlich vertretene Beschuldigte aus eigener Kenntnis substanziieren ([E. 4.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026)).
+  2. *Pflicht zur Prüfung akzessorischer Rügen:* Werden Siegelungsgründe nach Art. 264 StPO angeführt, muss das Entsiegelungsgericht akzessorische Rügen (insb. Tatverdacht) **auch dann prüfen**, wenn es die Geheimnisrügen mangels Substanziierung nicht schützt (Verweis auf [BGE 151 IV 175 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-175_2025.html#consideration_3.4); [E. 5.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026)). Ein zulässiger Verweis auf den Haftanordnungsentscheid wahrt die Begründungspflicht ([E. 5.2 f.](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026)).
+  3. *Substanziierung des Arztgeheimnisses:* Wer als Patient das Arztgeheimnis anruft, muss den Namen der behandelnden Ärztin oder des Arztes sowie das konkrete betroffene Gerät bzw. den Speicherort angeben; das blosse Vorbringen «ganz konkreter Leiden» reicht nicht ([E. 6.1–6.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026)).
+  4. *Privatsphäre bei bandenmässigem BetmG-Handel:* Bei Verbrechen nach Art. 19 Abs. 2 lit. b und c BetmG (Freiheitsstrafe 1 bis 20 Jahre) überwiegt das hohe Strafverfolgungsinteresse selbst gegenüber für den verheirateten Beschuldigten kompromittierender Korrespondenz, Bildern und Videos mit Prostituierten ([E. 7.1–7.3](https://mcp.opencaselaw.ch/entscheid/bger_7B_691_2026)).
+
+### 13. [BGer 7B_219/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-219-2026_2026-08-20.html) — Information Wall vor dem ZMG
 
 * **Datum:** 20. August 2026 | **Dossier:** [7B_219/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-219-2026_2026-08-20.html)
 * **Thema:** Akteneinsichtsschranken für die Staatsanwaltschaft im Entsiegelungsverfahren; Wahrung des Einsichtsverbots aus Art. 248 Abs. 1 StPO durch das ZMG.
 * **Kernaussage:** Das Verwendungsverbot bindet auch das Zwangsmassnahmengericht. Versiegelte Unterlagen oder Arbeitsergebnisse des Triage-Experten dürfen der gesuchstellenden Staatsanwaltschaft vor dem rechtskräftigen Abschluss des Entsiegelungsverfahrens nicht zur Einsicht überlassen werden («Information Wall»); eine vorzeitige Übermittlung stellt eine schwere Verletzung des Siegelungsschutzes dar.
 
-### 12. [BGE 144 IV 74](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html) — Abgrenzung zwischen siegelungsfähigen und nicht siegelungsfähigen Asservaten
+### 14. [BGE 144 IV 74](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html) — Abgrenzung zwischen siegelungsfähigen und nicht siegelungsfähigen Asservaten
 
 * **Datum:** 17. Januar 2018 | **Publikation:** [BGE 144 IV 74](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html)
 * **Kernaussage:** Offensichtlich nicht dem Geheimnisschutz unterliegende Gegenstände (z.B. Betäubungsmittel, Waffen, Deliktsgut, Bargeld) dürfen von der Siegelung ausgenommen und der Staatsanwaltschaft ohne Entsiegelungsentscheid zur weiteren Verwendung überlassen werden ([E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html#consideration_2.2)). Zu durchsuchende gesiegelte Beweismittel sind erst nach erfolgter Entsiegelung und Durchsuchung förmlich zu beschlagnahmen ([E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-74_2018.html#consideration_2.3)).
 
-### 13. [BGE 141 IV 77](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html) — Verwirkung der Siegelungsfrist und Wirkungen der Siegelung
+### 15. [BGE 141 IV 77](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html) — Verwirkung der Siegelungsfrist und Wirkungen der Siegelung
 
 * **Datum:** 21. November 2014 | **Publikation:** [BGE 141 IV 77](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html)
 * **Kernaussage:** Das Siegelungsbegehren unterliegt einer gesetzlichen Verwirkungsfrist. Wird die Frist versäumt, erlischt der Siegelungsschutz und die Strafbehörde darf die Gegenstände sichten ([E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-77_2015.html#consideration_4.1)).
 
-### 14. [BGE 148 IV 221](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-221_2022.html) — Frühere Rechtsprechung zur Unzulässigkeit der Datenspiegelung
+### 16. [BGE 148 IV 221](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-221_2022.html) — Frühere Rechtsprechung zur Unzulässigkeit der Datenspiegelung
 
 * **Datum:** 27. Mai 2022 | **Publikation:** [BGE 148 IV 221](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-221_2022.html)
 * **Kernaussage (historisches Kontrasturteil):** Die Anordnung einer Datenspiegelung durch die Untersuchungsbehörde vor der Siegelung stellte nach dieser Praxis einen erheblichen Verfahrensmangel dar, der zur Unverwertbarkeit und Vernichtung aller Kopien führte ([E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-221_2022.html)). Diese Rechtsprechung wurde mit [BGE 152 IV 107](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-152-IV-107_2026.html) ausdrücklich aufgegeben.
@@ -171,25 +196,25 @@ revisions:
 
 ## III. Kantonale Rechtsprechung
 
-### 15. [LU KG 2N 26 4 vom 10. März 2026](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-26-4_2026-03-10.html) — Kein Anspruch auf physische Prüfung der Siegel aus Akteneinsichtsrecht
+### 17. [LU KG 2N 26 4 vom 10. März 2026](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-26-4_2026-03-10.html) — Kein Anspruch auf physische Prüfung der Siegel aus Akteneinsichtsrecht
 
 * **Gericht:** Kantonsgericht Luzern, 1. Abteilung | **Fundstelle:** [LU KG 2N 26 4](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-26-4_2026-03-10.html)
 * **Sachverhalt:** Der wegen Betrugs beschuldigte A. liess sichergestellte Datenträger siegeln. Gestützt auf Art. 101 StPO verlangte er von der Staatsanwaltschaft die physische Besichtigung der gesiegelten Geräte bei der Fachgruppe IT-Forensik der Luzerner Polizei sowie die Offenlegung der Siegelungsdokumentation, um die Unversehrtheit der Siegel und den Stromanschluss im Faraday-Raum zu überprüfen.
 * **Kernaussage:** Aus dem Akteneinsichtsrecht (Art. 101 StPO) ergibt sich **kein vorsorglicher Anspruch auf Prüfung der physischen Siegel** oder Vorlage einer lückenlosen Fotodokumentation der «chain of custody» ([E. 3.4](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-26-4_2026-03-10.html)). Die Behörde genügt ihrer Protokollierungspflicht (Art. 100 StPO) durch die aktenkundige Erfassung des Siegelungsvorgangs. Ein allgemeines Misstrauen ist unbegründet; allfällige Rügen wegen Siegelbruchs sind im Entsiegelungsverfahren vor dem ZMG vorzubringen.
 
-### 16. [BE OG BK 26 207 vom 3. Juni 2026](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2026-207_2026-06-03.pdf) — Datenspiegelungskompetenz nach erklärtem Siegelungsbegehren
+### 18. [BE OG BK 26 207 vom 3. Juni 2026](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2026-207_2026-06-03.pdf) — Datenspiegelungskompetenz nach erklärtem Siegelungsbegehren
 
 * **Gericht:** Obergericht des Kantons Bern, Beschwerdekammer in Strafsachen | **Fundstelle:** [BE OG BK 26 207](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2026-207_2026-06-03.pdf)
 * **Sachverhalt:** Die Regionale Staatsanwaltschaft Bern-Mittelland verfügte die forensische Spiegelung eines beschlagnahmten iPhones 15 Pro durch die Fachgruppe Digitale Forensik der Kantonspolizei, *nachdem* der Beschuldigte anlässlich seiner Einvernahme die Siegelung verlangt hatte. Der Beschuldigte rügte, mit dem Siegelungsantrag sei die Kompetenz sofort an das ZMG übergegangen.
 * **Kernaussage:** Die Zuständigkeit zur Anordnung einer technischen Datenspiegelung zur Beweissicherung bei drohendem Datenverlust verbleibt bei der Staatsanwaltschaft, selbst wenn die betroffene Person die Siegelung bereits beantragt hat ([E. 4.4.1](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2026-207_2026-06-03.pdf)). Die technische Extraktion stellt kein unzulässiges Sichten oder Verwenden im Sinne von Art. 248 Abs. 1 StPO dar; erst die spätere inhaltliche Durchsuchung unterliegt dem richterlichen Genehmigungsvorbehalt des ZMG.
 
-### 17. [AG OG SBK.2026.141 vom 29. Juni 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-141_2026-06-29.pdf) — Unzulässigkeit vorzeitiger förmlicher Beschlagnahmeverfügungen
+### 19. [AG OG SBK.2026.141 vom 29. Juni 2026](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-141_2026-06-29.pdf) — Unzulässigkeit vorzeitiger förmlicher Beschlagnahmeverfügungen
 
 * **Gericht:** Obergericht des Kantons Aargau, Beschwerdekammer in Strafsachen | **Fundstelle:** [AG OG SBK.2026.141](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-141_2026-06-29.pdf)
 * **Sachverhalt:** Nach Sicherstellung von Gaming-Notebook, iPhone 17 Pro Max, USB-Stick und SD-Karte und sofortigem Siegelungsbegehren des Beschuldigten erliess die Staatsanwaltschaft Muri-Bremgarten einen förmlichen «Durchsuchungs- und Beschlagnahmebefehl (Art. 263 StPO)».
 * **Kernaussage:** Förmliche Beschlagnahmebefehle nach Art. 263 StPO sind während hängiger Siegelung bundesrechtswidrig ([E. 2.3](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SBK-2026-141_2026-06-29.pdf)). Bis zum rechtskräftigen Entsiegelungsentscheid verbleibt es ausschliesslich bei einer vorläufigen Sicherstellung. Die Beschlagnahmeverfügung wurde auf Beschwerde hin aufgehoben.
 
-### 18. [ZH OG UF240002 vom 22. August 2025](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UF240002_2025-08-22.pdf) — Fristwahrung bei interkantonalen Gerichtsstandskonflikten
+### 20. [ZH OG UF240002 vom 22. August 2025](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UF240002_2025-08-22.pdf) — Fristwahrung bei interkantonalen Gerichtsstandskonflikten
 
 * **Gericht:** Obergericht des Kantons Zürich, III. Strafkammer | **Fundstelle:** [ZH OG UF240002](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UF240002_2025-08-22.pdf)
 * **Kernaussage:** Die 20-tägige Frist zur Einreichung des Entsiegelungsgesuchs (Art. 248 Abs. 3 StPO) ist eine gesetzliche Verwirkungsfrist und wird durch hängige Gerichtsstandskonflikte zwischen Staatsanwaltschaften nicht gehemmt ([E. 2](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UF240002_2025-08-22.pdf)). Die aktuell ermittelnde Behörde muss das Gesuch fristwahrend beim örtlich zuständigen ZMG einreichen.

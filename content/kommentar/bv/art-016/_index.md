@@ -2,10 +2,14 @@
 title: "Art. 16 — Meinungs- und Informationsfreiheit"
 weight: 16
 date: 2026-05-17
-lastmod: "2026-08-12"
+lastmod: 2026-11-17
 description: "Kommentar zu Art. 16 BV — Meinungs- und Informationsfreiheit: Meinungsbildung, Meinungsaeusserung, Informationsfreiheit, Zensurverbot und Verhaeltnis zur Versammlungsfreiheit."
 tags: ["BV", "Meinungsfreiheit", "Informationsfreiheit", "Versammlungsfreiheit", "Grundrechte"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Gesetzeswortlaut auf {{< wortlaut >}} umgestellt (data/wortlaut/bv/art-016.json via scripts/wortlaut.py erzeugt); Urteil des Verwaltungsgerichts des Kantons Bern 100 2026 52 vom 20.10.2026 (gemeindeeigene Wahlplakatständer, Unzulässigkeit des pauschalen Ortsansässigkeitskriteriums bei kantonalen Wahlen) sowie ergänzende Präzisierung zu BGE 138 I 274 und BGer 1C_595/2022 eingearbeitet; Volltext des Berner Entscheids (PDF) sowie BGE 138 I 274 E. 2.2.2 und BGer 1C_595/2022 E. 8.1/8.2/12.3 über entscheidsuche geprüft und Aussagen gegen den Wortlaut beurteilt (kein audit.py-Lauf)."
   - date: 2026-08-11
     by: "Claude Code"
     model: "claude-opus-5"
@@ -16,15 +20,9 @@ revisions:
     note: "Vorfassung ohne revisions-Block, trug agent_verified: true"
 ---
 
-## Art. 16 BV — Meinungs- und Informationsfreiheit
+## Gesetzeswortlaut
 
-### Wortlaut
-
-> 1 Die Meinungs- und Informationsfreiheit ist gewährleistet.
->
-> 2 Jede Person hat das Recht, ihre Meinung frei zu bilden und sie ungehindert zu äussern und zu verbreiten.
->
-> 3 Jede Person hat das Recht, Informationen frei zu empfangen, aus allgemein zugänglichen Quellen zu beschaffen und zu verbreiten.
+{{< wortlaut >}}
 
 ### I. Einleitung
 
@@ -70,6 +68,7 @@ Der Schutzbereich umfasst insbesondere:
 - **Plakatierung**: Das Aushängen von Plakaten zu aussenpolitischen Themen ist eine Form der Meinungsäusserung, die in den Schutzbereich von Art. 16 Abs. 2 BV fällt (BGE 138 I 274, E. 2.2.1)
 - **Digitale Meinungsäusserungen**: Kommentare in sozialen Medien (vgl. BGE 149 I 2, E. 2.3.1: Grundrechtsbindung der SRG auch im übrigen publizistischen Angebot betreffend Löschung von Benutzerkommentaren)
 - **Plakatierung**: Das Aushängen von Plakaten zu aussenpolitischen Themen im Bahnhof fällt in den Schutzbereich der Meinungsäusserungsfreiheit; ein generelles Verbot solcher Plakate ist als Zensurmassnahme unzulässig (BGE 138 I 274, E. 2.2.1 und 3.4). Hingegen besteht kein direkter grundrechtlicher Anspruch auf Zurverfügungstellung eines Fahrzeugs der städtischen Verkehrsbetriebe als Werbeträger (BGE 127 I 84, E. 4c und 4d)
+- **Wahlplakate auf öffentlichem Grund**: Das Aufstellen von Wahlplakatständern und das Aushängen von Wahlplakaten bilden eine Form der politischen Meinungsäusserung im Schutzbereich von Art. 16 Abs. 2 BV ([BGer 1C_595/2022 und 1C_155/2023 vom 10.7.2023, E. 8.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_8.1); [VGer BE 100 2026 52 vom 20.10.2026](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2026-52_2026-10-20.pdf))
 
 ##### c) Schutzbereichsgrenzen
 
@@ -116,6 +115,12 @@ Die Anordnung eines DNA-Profils und einer erkennungsdienstlichen Erfassung bei d
 #### 4. Verhältnismässigkeit der Routenverschiebung bei Kundgebungen
 
 In BGE 151 I 257 hat das Bundesgericht entschieden, dass die Verschiebung einer Marschkundgebung von der Kantonsstrasse auf Nebenstrassen und Wanderwege einen Eingriff in die Meinungs- und Versammlungsfreiheit darstellt, weil die Appellwirkung der Kundgebung dadurch vermindert wird (BGE 151 I 257, E. 4). Der Eingriff erweist sich als unverhältnismässig, weil die Kundgebung unter Auflagen und Bedingungen zumindest abschnittsweise entlang der Kantonsstrasse hätte bewilligt werden können (BGE 151 I 257, E. 7 und 8). Massgebend für die Interessenabwägung im Bewilligungsverfahren ist nicht, ob die Anliegen der Veranstaltenden der Behörde mehr oder weniger wertvoll erscheinen (BGE 151 I 257, E. 3.3.5).
+
+#### 5. Zugang zu gemeindeeigenen Wahlplakatständern
+
+Das Aufstellen von Wahlplakatständern auf öffentlichem Grund impliziert einen gesteigerten Gemeingebrauch, sodass bloss ein bedingter Anspruch auf Bewilligung der Nutzung bestehender öffentlicher Sachen bzw. Infrastruktur besteht; ein Anspruch darauf, dass der Staat positiv neue Einrichtungen schafft oder eine Nutzung an beliebigem Ort, zu beliebiger Zeit und in beliebiger Weise zulässt, besteht nicht ([BGE 138 I 274, E. 2.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-138-I-274_2012.html#consideration_2.2.2); [BGer 1C_595/2022 und 1C_155/2023 vom 10.7.2023, E. 8.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_8.2)). Neben genügenden Kapazitäten und der polizeilichen Gefahrenabwehr sind namentlich die zweckmässige Nutzung sowie die rechtsgleiche Zugänglichkeit der öffentlichen Sache zu berücksichtigen, wobei der besondere ideelle Gehalt des Freiheitsrechts in die Interessenabwägung einzubeziehen ist ([BGer 1C_595/2022 und 1C_155/2023 vom 10.7.2023, E. 8.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_8.2)). Bei zeitlicher Überschneidung mehrerer Urnengänge darf eine Gemeinde bei ungenügenden Kapazitäten in der Regel einen Vorrang kommunaler gegenüber kantonalen Urnengängen vorsehen, sofern dadurch politische Plakate für kantonale Urnengänge nicht ausgeschlossen werden ([BGer 1C_595/2022 und 1C_155/2023 vom 10.7.2023, E. 12.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1C-595-2022_2023-07-10.html#consideration_12.3)).
+
+Präzisierend zur bundesgerichtlichen Rechtsprechung (BGE 138 I 274; BGer 1C_595/2022) hat das Verwaltungsgericht des Kantons Bern entschieden, dass ein pauschales Ortsansässigkeitskriterium bzw. der vollständige Ausschluss nicht ortsansässiger Parteien und Gruppierungen von gemeindeeigenen Wahlplakatständern bei kantonalen Wahlen (Grossratswahlen) gegen die Meinungsäusserungsfreiheit (Art. 16 Abs. 2 BV) und das Rechtsgleichheitsgebot (Art. 8 Abs. 1 BV) verstösst ([VGer BE 100 2026 52 vom 20.10.2026](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2026-52_2026-10-20.pdf), E. 3.4.3–3.5). Weil die Kandidierenden bei Grossratswahlen im gesamten Wahlkreis antreten und wählbar sind, fehlt für die Ungleichbehandlung ein ernsthafter sachlicher Grund; der Ausschluss lässt sich weder mit begrenzten Platzverhältnissen noch mit Ortsbildschutz, Verkehrssicherheit oder Praktikabilitätsüberlegungen rechtfertigen, da mildere Mittel — etwa die Vergabe nach Eingangsdatum (*first come – first serve*), ein Losverfahren oder eine Aufteilung der Plakatplätze über mehrere Standorte — zur Verfügung stehen ([VGer BE 100 2026 52 vom 20.10.2026](https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2026-52_2026-10-20.pdf), E. 3.4.4).
 
 ### VII. Grundrechtsbindung privater Rechtssubjekte
 

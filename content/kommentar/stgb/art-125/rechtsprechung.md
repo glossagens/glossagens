@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 125 StGB"
 weight: 99
 date: 2026-07-04
-lastmod: "2026-11-11"
-description: "Übersicht der Rechtsprechung zu Art. 125 StGB — Fahrlässige Körperverletzung: Sorgfaltspflichtverletzung, Vertrauensgrundsatz bei Kontrollverantwortung, erlaubtes Risiko, Pflichtwidrigkeitszusammenhang, alternative Kausalität, Abgrenzung zum Eventualvorsatz und subjektiver Sorgfaltsmassstab."
+lastmod: "2026-11-17"
+description: "Übersicht der Rechtsprechung zu Art. 125 StGB — Fahrlässige Körperverletzung: Sorgfaltspflichtverletzung, Vertrauensgrundsatz bei Kontrollverantwortung, Tierhalter-Sorgfalt, erlaubtes Risiko, Pflichtwidrigkeitszusammenhang, alternative Kausalität, Abgrenzung zum Eventualvorsatz und subjektiver Sorgfaltsmassstab."
 tags: ["Rechtsprechung", "StGB", "Fahrlässige Körperverletzung", "Sorgfaltspflicht", "Vertrauensgrundsatz", "Erlaubtes Risiko", "Eventualvorsatz", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "BGer 6B_745/2025 vom 27. Oktober 2026 (erhöhte Sorgfaltspflicht bei unberechenbarem Junghund, natürliche Kausalität ohne Kollision bei Ausweichmanöver) in Abschnitt I eingefügt; Volltext und Erwägungen E. 2.4, 2.5, 3.2, 3.4.1, 3.4.2 via swiss-caselaw MCP (get_decision, get_erwaegung) verifiziert; Fallback-Link auf mcp.opencaselaw.ch gesetzt (auf entscheidsuche.ch noch nicht indexiert)"
   - date: 2026-11-11
     by: "Antigravity (Commentary Editor)"
     model: "claude-opus-4-6"
@@ -67,6 +71,14 @@ revisions:
 - **Sachverhalt**: Das Opfer erlitt einen Milzriss, der ohne sofortigen operativen Eingriff mit hoher Wahrscheinlichkeit zum Tode geführt hätte. Medizinische Hilfe war jedoch verfügbar und konnte rechtzeitig geleistet werden.
 - **Kernaussage**: Ein Milzriss, der ohne rasche Operation lebensbedrohlich verlaufen würde, stellt eine lebensgefährliche und damit schwere Schädigung im Sinne von Art. 125 Abs. 2 StGB dar. Ob im konkreten Fall rasche medizinische Hilfe zur Stelle war oder nicht, ist für die Qualifikation als schwere Schädigung unerheblich — entscheidend ist die objektive Lebensgefährdung der Verletzung, nicht die effektive Rettung (E. 2).
 - **Einschlägig für**: Art. 125 Abs. 2 StGB, Art. 122 StGB (schwere Schädigung, Lebensgefahr, objektive Gefährdung).
+
+---
+
+### [BGer 6B_745/2025 vom 27. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_745_2025) E. 2.4, 2.5, 3.2, 3.4.1, 3.4.2 — Erhöhte Sorgfaltspflicht bei unberechenbarem Junghund; natürliche Kausalität ohne Berührung bei Ausweichmanöver
+
+- **Sachverhalt**: Am 15. März 2023 führte C.________ ihren einjährigen, unangeleinten Mischlingsrüden (Appenzeller Sennenhund/Australian Shepherd) spazieren. Kurz vor einer Kuppe mit eingeschränkter Sicht auf eine darunterliegende, 2,5 Meter breite betonierte und von Velofahrern befahrene Landwirtschaftsstrasse rief sie den Hund zurück, um ihn anzuleinen. Der Hund setzte sich zunächst, rannte dann aber plötzlich über die Felder auf die Strasse hinunter und direkt auf den dort ohne Helm fahrenden Velofahrer B.A.________ zu. Dieser stürzte schwer auf die linke Seite und erlitt ein lebensgefährliches Schädel-Hirn-Trauma mit intraspinalem Subduralhämatom sowie multiple Frakturen (Schlüsselbein, Rippen, Becken), lag bis zum 22. April 2023 im Koma, musste sich drei schweren neurochirurgischen Eingriffen unterziehen und trägt potenziell bleibende neurologische Schäden davon. Das erstinstanzliche Polizeigericht verurteilte die Hundehalterin wegen fahrlässiger schwerer Körperverletzung sowie kantonaler und kommunaler Übertretungen; die waadtländische Cour d'appel pénale sprach sie am 13. Mai 2025 mit dem Argument frei, der Hund sei laut späterer veterinäramtlicher Beurteilung freundlich gewesen und an einen einjährigen Hund könnten geringere Gehorsamsanforderungen gestellt werden.
+- **Kernaussage**: Das Bundesgericht heisst die Beschwerde der Privatkläger gut, hebt den Freispruch auf und weist die Sache an die Vorinstanz zurück. Auch ohne nachgewiesene physische Kollision zwischen Hund und Fahrrad ist der natürliche Kausalzusammenhang zu bejahen, wenn der Hund plötzlich auf den Velofahrer zuläuft und durch den Überraschungseffekt oder zur Vermeidung des Kontakts ein Ausweichmanöver auslöst, das zum Sturz und zu den Verletzungen führt (E. 2.5). Zudem unterbricht das ordnungsgemässe Befahren der Strasse durch den Velofahrer den adäquaten Kausalzusammenhang nicht (E. 3.4.2). In materieller Hinsicht konkretisiert Art. 16 Abs. 2 des waadtländischen Hundepolizeigesetzes (LPolC/VD) die Pflicht des Halters, seinen Hund jederzeit beherrschen zu können und ihn andernfalls anzuleinen (E. 3.4.1). Da die Halterin die unübersichtliche Stelle mit der darunterliegenden velobefahrenen Strasse kannte und wusste, dass ihr als übermütig beschriebener Hund zuweilen Velofahrern nachjagte, hätte sie ihn früher anleinen oder an der Schleppleine führen müssen; selbst wenn sie im Begriff war, ihn anzuleinen, verletzte sie durch den Kontrollverlust ihre Sorgfaltspflicht (E. 2.4, 3.4.2). Ausdrücklich verwirft das Bundesgericht die vorinstanzliche Folgerung, wonach geringere Gehorsamserwartungen an einen einjährigen Hund den Sorgfaltsmassstab absenken: Da das Verhalten eines jungen Hundes unberechenbar ist, gebietet dies im Gegenteil eine gesteigerte Vorsicht (*«une prudence accrue»*, E. 3.4.2).
+- **Einschlägig für**: Art. 125 Abs. 2 StGB, Art. 12 Abs. 3 StGB, Art. 16 Abs. 2 LPolC/VD (Sorgfaltspflichtverletzung bei Tierhaltung, Junghund, natürliche und adäquate Kausalität bei Ausweichmanöver ohne Kollision).
 
 ---
 

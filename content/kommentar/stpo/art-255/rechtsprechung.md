@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 255 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-11-13
+lastmod: 2026-11-17
 description: "Übersicht der Rechtsprechung zu Art. 255 StPO: Leitentscheide des Bundesgerichts sowie Bundesgerichts- und Kantonsgerichtsurteile zu DNA-Probenahme, CODIS-Profilierung, Schwellenwerten, Polizeikompetenzen und Löschungsfristen."
 tags: ["Rechtsprechung", "StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Verhältnismässigkeit", "Polizei", "Zwangsmassnahmen"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Ergänzung von BGer 7B_974/2025 vom 27. Oktober 2026 (publiziert am 17.11.2026): Keine konkreten Anhaltspunkte nach Art. 255 Abs. 1bis StPO bei über zwei Jahre alten Diebstahlsvorstrafen nach Einstellung des aktuellen Diebstahlsverdachts und blossem Vorwurf nach Art. 115 Abs. 1 lit. b AIG bzw. irregulärem Aufenthalt; Aufhebung der Profilierungsanordnung und Löschung in CODIS. Prüfweg: Volltext über swiss-caselaw MCP (get_decision) abgerufen und gegen E. 1.3, E. 2.2–2.4, E. 3 sowie Dispositiv geprüft; auf entscheidsuche.ch nicht vorhanden (0 Treffer), daher OpenCaseLaw-Link verwendet; kein hugo-Build ausgeführt."
   - date: 2026-11-13
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -113,6 +117,17 @@ revisions:
 
 ---
 
+### [BGer 7B_974/2025 vom 27. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_974_2025) E. 2.4 und E. 3
+- **Thema**: Anforderungen an «konkrete Anhaltspunkte» nach Art. 255 Abs. 1bis StPO; fehlende Indizienkraft über zwei Jahre alter Diebstahlsvorstrafen ohne neuen Deliktsbezug sowie eines irregulären Aufenthaltsstatus (Art. 115 AIG); keine Umdeutung zu einer «Verwurzelung in der Kriminalität»; Aufhebung und Löschung in CODIS
+- **Sachverhalt**: A. wurde am 18. Juli 2025 in Genf angehalten, nachdem ihn eine Person verdächtigt hatte, ihr am 13. Juli 2025 ein Portemonnaie gestohlen zu haben. Bei der polizeilichen Kontrolle zeigte sich, dass A. — der sich seit 2002 in der Schweiz aufhielt und beim kantonalen Migrationsamt ein Regularisierungsgesuch eingereicht hatte — keine gültige Aufenthaltsbewilligung besass. Am 19. Juli 2025 stellte die Staatsanwaltschaft Genf das Verfahren betreffend den Portemonnaie-Diebstahl ein, verurteilte A. per Strafbefehl wegen rechtswidrigen Aufenthalts (Art. 115 Abs. 1 lit. b AIG; Einsprache erhoben) und ordnete gestützt auf Art. 255 Abs. 1bis StPO die Erstellung seines DNA-Profils an. Die Genfer Chambre pénale de recours wies die Beschwerde ab und schloss aus früheren Verurteilungen wegen versuchten einfachen Diebstahls (2017), rechtswidrigen Aufenthalts (2021) und einfachen Diebstahls (November 2022) sowie namentlich aus dem fehlenden regulären Aufenthaltsstatus auf die Befürchtung einer «Verwurzelung in der Kriminalität» («ancrage dans la délinquance») im Vermögensbereich.
+- **Kernaussage**:
+  1. Wurde der anfängliche Diebstahlsverdacht eingestellt und wird der beschuldigten Person im hängigen Verfahren einzig eine Widerhandlung gegen Art. 115 Abs. 1 lit. b AIG vorgeworfen, genügen frühere Verurteilungen wegen versuchten (2017) bzw. einfachen Diebstahls (November 2022), deren jüngste zum Zeitpunkt der Anordnung mehr als zwei Jahre zurücklag, mangels eines neuen gleichartigen Delikts nicht als konkreter Anhaltspunkt für eine Beteiligung an weiteren Diebstählen (E. 2.4).
+  2. Weder der im hängigen Verfahren einzig verfolgte Verstoss gegen die Ausländergesetzgebung (Art. 115 Abs. 1 lit. b AIG) noch die einschlägige Vorstrafe von 2021 oder der irreguläre Aufenthaltsstatus in der Schweiz stellen ernsthafte oder konkrete Indizien für eine Verwicklung in Diebstähle dar und dürfen nicht zu einer «Verwurzelung in der Kriminalität» umgedeutet werden (E. 2.3 f.).
+  3. Das Bundesgericht heisst die Beschwerde gut (soweit es darauf eintritt; hinsichtlich der nicht vorinstanzlich behandelten Probenahme tritt es nach Art. 42 Abs. 2 und Art. 80 Abs. 1 BGG nicht ein, E. 1.3), hebt die Anordnung vom 19. Juli 2025 auf und ordnet die Löschung eines allfällig bereits erstellten DNA-Profils sowie dessen Eintrags in CODIS an (E. 3 und Dispositiv Ziff. 1).
+- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 Abs. 1 StPO; Art. 115 Abs. 1 lit. b AIG; Art. 13 Abs. 2 BV; Art. 8 EMRK
+
+---
+
 ### [BGer 7B_176/2023 vom 24. Mai 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-176-2023_2024-05-24.html) E. 3.3 f.
 - **Thema**: Ungeeignetheit des DNA-Beweises bei Cyberkriminalität, Ransomware-Erpressung und Geldwäscherei
 - **Sachverhalt**: Die Staatsanwaltschaft II des Kantons Zürich ermittelte gegen einen IT-Spezialisten wegen gewerbsmässiger Datenbeschädigung, schwerer Geldwäscherei und versuchter Erpressung. Dem Beschuldigten wurde vorgeworfen, Ransomware-Angriffe auf Firmennetzwerke orchestriert und Kryptowährungen erpresst zu haben. Bei der Durchsuchung fand sich zudem Kinderpornografie. Die Staatsanwaltschaft ordnete einen Wangenabstrich zur Erstellung eines DNA-Profils für CODIS an; das Obergericht Zürich schützte die Massnahme unter Hinweis auf die Schwere der Straftaten.
@@ -208,4 +223,4 @@ revisions:
 
 ---
 
-*Stand der Rechtsprechung: 16. September 2026*
+*Stand der Rechtsprechung: 17. November 2026*

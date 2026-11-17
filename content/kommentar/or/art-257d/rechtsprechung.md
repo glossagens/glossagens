@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 257d OR — Zahlungsrückstand des Mieters"
 weight: 99
 date: 2026-10-08
-lastmod: 2026-10-30
+lastmod: 2026-11-17
 description: "Systematische Übersicht der Rechtsprechung zu Art. 257d OR: Zahlungsrückstand des Mieters — Bundesgerichtliche Leitentscheide (BGE) und kantonale Gerichtspraxis zu Zahlungsansetzung, relativer Empfangstheorie, Verrechnung, Hinterlegung, verfrühter Kündigung und Mieterausweisung (Art. 257 ZPO)."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Zahlungsrückstand", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Ergänzung von BGer 4A_407/2026 vom 23.09.2026 (veröffentlicht am 17.11.2026): Rechtsmissbräuchliche Berufung des Mieters auf eine vor Ablauf der 30-tägigen Zahlungsfrist zugestellte Kündigung bei objektiviertem fehlendem Zahlungswillen von vornherein sowie Anforderungen an die klare Rechtslage (Art. 257 Abs. 1 lit. b ZPO) und Verrechnungseinrede; Volltext via swiss-caselaw MCP (get_decision, get_erwaegung) verifiziert, entscheidsuche.ch ohne Treffer (Rückfall-URL opencaselaw.ch)."
   - date: 2026-10-30
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -176,6 +180,18 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide (BGE) sowie weit
   3. Die Kündigung wegen Zahlungsrückstands ist nur unter äusserst restriktiven Ausnahmebedingungen treuwidrig (Art. 271 Abs. 1 OR). Hatte der Mieter im Vorfeld bereits wiederholt verspätet bezahlt, scheidet Rechtsmissbrauch des Vermieters aus. Den Vermieter trifft vor Ablauf der Zahlungsfrist auch keinerlei Pflicht zur Nachfrage oder Vorwarnung (E. 5.1 und 5.3).
 - **Konkreter Sachverhalt**: Mietverhältnis über einen Campingplatz im Tessin; Mieter erteilte nach Abmahnung wegen CHF 10'500.- Mietzinsausstand einen Zahlungsauftrag an seine Bank, der wegen eines Bankfehlers nicht verbucht wurde. Ausserordentliche Kündigung nach Fristablauf hielt vor Bundesgericht stand.
 - **Einschlägig für**: Art. 257d Abs. 1 und 2 OR; Art. 271 Abs. 1 OR; Art. 101 OR
+
+---
+
+### [BGer 4A_407/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_407_2026) (23. September 2026)
+- **Thema**: Zustellung der Kündigung vor Ablauf der Zahlungsfrist; Rechtsmissbrauch bei fehlendem Zahlungswillen von vornherein; klare Rechtslage (Art. 257 ZPO); rechtzeitige Verrechnung
+- **Kernaussage**:
+  1. Eine vor Ablauf der 30-tägigen Zahlungsfrist ausgesprochene und zugestellte Kündigung nach Art. 257d Abs. 2 OR ist grundsätzlich nichtig. Es ist jedoch offenkundig rechtsmissbräuchlich (Art. 2 Abs. 2 ZGB), wenn sich der Mieter auf die bereits vor Fristablauf erfolgte Zustellung der Kündigung beruft, sofern er den Ausstand nicht innert Frist beglichen hat, nicht durch die verfrühte Kündigung von der Zahlung abgehalten wurde und ihm von vornherein jeglicher Zahlungswille fehlte (E. 2.4.2, 2.4.4–2.4.5).
+  2. Der fehlende Zahlungswille stellt keine blosse psychologische Vermutung dar, sondern ist eine anhand objektiver Anhaltspunkte (hier: bewusste Täuschung bei Vertragsschluss durch gefälschte Lohnabrechnungen in Kombination mit sofortigem und fortgesetztem Zahlungsverzug, gestützt durch einen Strafbefehl) im summarischen Verfahren sofort beweisbare Tatsache (E. 2.4.5).
+  3. Zwar erfordert die Prüfung von Treu und Glauben in der Regel eine wertende Abwägung der gesamten Umstände, was einen klaren Fall im Sinne von Art. 257 Abs. 1 lit. b ZPO ausschliesst; ein klarer Fall ist jedoch nicht zu verneinen, wenn das Verhalten einer Partei offenkundig einen Rechtsmissbrauch darstellt und sich in eine anerkannte Fallgruppe einordnen lässt (E. 2.4.3).
+  4. Eine Verrechnungseinrede zur Abwendung der Kündigung muss klar und eindeutig innert der 30-tägigen Zahlungsfrist abgegeben werden und dem Vermieter zugehen; bestrittene Gegenforderungen sind im Ausweisungsverfahren nach Art. 257 ZPO sofort liquide zu beweisen (E. 2.1.3–2.1.4, 2.4.1).
+- **Konkreter Sachverhalt**: Untermieter erschlich sich mit drei gefälschten Lohnabrechnungen über einen Nettolohn von Fr. 30'000.– einen befristeten Untermietvertrag über eine 4.5-Zimmer-Wohnung (Bruttomietzins Fr. 3'900.–/Monat) und leistete weder die vereinbarte Mietkaution noch den Dezembermietzins 2025 (Strafbefehl vom 20. Mai 2026 wegen Betrugs und Urkundenfälschung zu 180 Tagen Freiheitsstrafe). Die eingeschriebene Zahlungsaufforderung vom 20. Dezember 2025 galt am 30. Dezember 2025 als zugestellt (Zahlungsfrist bis 29. Januar 2026). Die Untervermieter kündigten am 27. Januar 2026 auf amtlichem Formular per 28. Februar 2026; die Kündigung wurde am 28. Januar 2026 (einen Tag vor Fristablauf) zugestellt. Das Bundesgericht bestätigte das Ausweisungsurteil des Zürcher Obergerichts.
+- **Einschlägig für**: Art. 257d Abs. 1 und 2 OR; Art. 2 Abs. 2 ZGB; Art. 257 Abs. 1 ZPO; Art. 120 OR
 
 ---
 

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 251 StGB"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-09-25
-description: "Übersicht der massgebenden Leitentscheide und weiteren Urteile zu Art. 251 StGB: Urkundenfälschung i.e.S., Geistigkeitstheorie, Falschbeurkundung, qualifizierte schriftliche Lüge, Buchführung, Covid-19-Kredite (BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Mietzinsformulare, Rechnungen und echte Konkurrenz zum Betrug."
+lastmod: 2026-11-17
+description: "Übersicht der massgebenden Leitentscheide und weiteren Urteile zu Art. 251 StGB: Urkundenfälschung i.e.S., Geistigkeitstheorie, Vertretung juristischer Personen, Falschbeurkundung, qualifizierte schriftliche Lüge, Buchführung, Covid-19-Kredite (BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026), Mietzinsformulare, Rechnungen und echte Konkurrenz zum Betrug."
 tags: ["Rechtsprechung", "StGB", "Urkundenfälschung", "Falschbeurkundung", "Urkundenbegriff", "Erhöhte Glaubwürdigkeit", "Covid-19-Kredit", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Aufnahme von BGer 6B_421/2026 vom 26. Oktober 2026 (materielle Urkundenfälschung bei Errichtung von Arbeitsverträgen, Lohnausweisen, Lohnabrechnungen und Kündigungsschreiben im Namen einer bereits gelöschten GmbH bzw. ohne Vertretungsbefugnis im Rahmen der Operation «Papyrus»); Volltext und Erwägungen E. 1.2, 2.1.1, 2.2.1, 2.2.2 und 3.3 über swiss-caselaw MCP (get_decision, get_erwaegung) verifiziert; entscheidsuche.ch ohne Treffer (0 Hits), Verlinkung auf mcp.opencaselaw.ch/entscheid/bger_6B_421_2026."
   - date: 2026-09-25
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -103,6 +107,14 @@ revisions:
 ---
 
 ## II. Weitere Entscheide des Bundesgerichts und der kantonalen Gerichte
+
+### [BGer 6B_421/2026 vom 26. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_421_2026) E. 1.2, 2.2.1, 2.2.2 — Materielle Urkundenfälschung bei Errichtung im Namen einer gelöschten oder nicht vertretenen juristischen Person (Operation «Papyrus»)
+
+- **Sachverhalt**: Am 20. August 2018 reichte A. über seinen Anwalt beim Genfer Office cantonal de la population et des migrations (OCPM) im Rahmen der Operation «Papyrus» ein Gesuch um eine Aufenthaltsbewilligung ein. Zum Nachweis einer angeblich zehnjährigen ununterbrochenen Erwerbstätigkeit in Genf legte er einen Arbeitsvertrag (datiert vom 27. Juni 2011), ein Kündigungsschreiben (datiert vom 1. November 2011) und einen Lohnausweis (Juli–Dezember 2011) im Namen der B. Sàrl sowie Lohnabrechnungen und Lohnausweise für 2012/2013 im Namen der C. Sàrl vor. Tatsächlich hatte er für keine der beiden Gesellschaften je gearbeitet; Arbeitsvertrag und Kündigungsschreiben der B. Sàrl hatte er selbst mitunterzeichnet. Die B. Sàrl war bereits 2015 im Handelsregister gelöscht worden, und die Dokumente der C. Sàrl stammten nicht vom damaligen Gesellschafter-Geschäftsführer. Die Cour de justice des Kantons Genf verurteilte A. u.a. wegen Urkundenfälschung (Art. 251 Ziff. 1 StGB) sowie versuchten täuschenden Verhaltens gegenüber Behörden (Art. 22 Abs. 1 StGB i.V.m. Art. 118 Abs. 1 AIG) zu einer bedingten Geldstrafe von 150 Tagessätzen.
+- **Kernaussage**: Zwar geniessen einfach-schriftliche Arbeitsverträge, Lohnausweise und Lohnabrechnungen mangels gegenteiliger gesetzlicher Bestimmung keine erhöhte Glaubwürdigkeit, weshalb eine Falschbeurkundung ausscheidet. Eine **materielle Urkundenfälschung** (Urkundenfälschung i.e.S.) liegt jedoch vor, wenn ein Dokument im Namen einer juristischen Person von jemandem erstellt wird, der diese im Aussenverhältnis nicht rechtsgültig verpflichten kann — sei es, weil die Gesellschaft im tatsächlichen Erstellungszeitpunkt (hier erst ab Lancierung der Operation «Papyrus» im Februar 2017 und damit nach der Handelsregisterlöschung der B. Sàrl 2015) nicht mehr existierte, sei es, weil der Ersteller (bei der C. Sàrl) keine Organ- oder Vertretungsbefugnis besass. In beiden Fällen fallen scheinbarer und wirklicher Aussteller auseinander (E. 2.2.1). Art. 251 Ziff. 1 StGB erfasst sowohl das Herstellen als auch das Gebrauchen unechter Urkunden (E. 1.2); der Wille, mittels falscher Belege ein Regularisierungsgesuch voranzutreiben, begründet die unrechtmässige Vorteilsabsicht (E. 2.2.2).
+- **Einschlägig für**: Materielle Urkundenfälschung (Urkundenfälschung i.e.S.), Geistigkeitstheorie bei juristischen Personen, fehlende Vertretungsmacht, gelöschte Gesellschaft, Abgrenzung zur Falschbeurkundung bei Arbeitsverträgen und Lohnausweisen, Vorteilsabsicht.
+
+---
 
 ### [BGer 6B_963/2024 vom 21. Oktober 2025](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-963-2024_2025-10-21.html) E. 3–5 — Falschangabe des Umsatzerlöses beim Covid-19-Kredit
 

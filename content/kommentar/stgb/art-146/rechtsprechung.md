@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 146 StGB"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-10-26
-description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Motivationszusammenhang, umfassende Judikatur zu Covid-19-Krediten und Kurzarbeitsentschädigung (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026, BGer 6B_403/2025), Arglistverneinung bei erfahrenen Rohstoffhändlern (BGer 7B_20/2025), Prozessbetrug und Gewerbsmässigkeit."
-tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Vermögensdelikte", "Covid-19-Kredit", "Kurzarbeitsentschädigung", "Sanktionsgeschäft", "Besonderer Teil"]
+lastmod: 2026-11-17
+description: "Übersicht der Rechtsprechung zu Art. 146 StGB — Arglist, Lügengebäude, besondere Machenschaften, Opfermitverantwortung, Sozialhilfebetrug (BGer 6B_238/2026), Motivationszusammenhang, umfassende Judikatur zu Covid-19-Krediten und Kurzarbeitsentschädigung (BGE 150 IV 169, BGE 151 IV 113, BGE 151 IV 201, BGer 6B_148/2026, BGer 6B_403/2025), Arglistverneinung bei erfahrenen Rohstoffhändlern (BGer 7B_20/2025), Prozessbetrug und Gewerbsmässigkeit."
+tags: ["Rechtsprechung", "StGB", "Betrug", "Arglist", "Motivationszusammenhang", "Opfermitverantwortung", "Sozialhilfebetrug", "Vermögensdelikte", "Covid-19-Kredit", "Kurzarbeitsentschädigung", "Sanktionsgeschäft", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Aufnahme von BGer 6B_238/2026 vom 21. Oktober 2026 (vereint mit 6B_265/2026) zum gewerbsmässigen Sozialhilfebetrug: Loyalitätsprinzip und Verneinung der Opfermitverantwortung in der ersten Deliktsperiode; teilweise Gutheissung und Rückweisung für die zweite Deliktsperiode nach Einschaltung der Sozialinspektion mangels Prüfung von fortbestehendem Irrtum, arglistiger Einwirkung und Abgrenzung zu gesetzlichen Auszahlungspflichten; Bestätigung der sechsjährigen Landesverweisung. Entscheid via swiss-caselaw MCP (get_decision Volltext, get_erwaegung für E. 3.2.1, 3.4.3, 3.5.4) verifiziert; entscheidsuche.ch ergab 0 Treffer, Fallback-URL https://mcp.opencaselaw.ch/entscheid/bger_6B_238_2026 verwendet."
   - date: 2026-10-26
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -165,6 +169,16 @@ revisions:
 
 ## III. Weitere Bundesgerichts- und kantonale Entscheide
 
+### [BGer 6B_238/2026 vom 21. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_238_2026) (vereint mit 6B_265/2026) E. 3.2.1, 3.4.3, 3.5.4 — Gewerbsmässiger Sozialhilfebetrug und Zäsur bei konkretem Behördenverdacht
+- **Thema**: Gewerbsmässiger Betrug beim Sozialhilfebezug durch Verschweigen von Einkünften und Bankkonten; Loyalitätsprinzip und Opfermitverantwortung vor Entstehen konkreten Verdachts; erforderliche Prüfung von Irrtum, Arglist und gesetzlichen Auszahlungspflichten nach Einschaltung der Sozialinspektion; Landesverweisung.
+- **Kernaussage**:
+  1. *Erste Deliktsperiode (30. Juni 2016 bis 31. Juli 2019 — vor Einschaltung der Sozialinspektion; E. 3.2.1, 3.4.3–3.4.4)*: Die Sozialhilfe beruht primär auf den Grundsätzen der Solidarität und Loyalität und nicht auf jenen der Überwachung. Mangels konkreter Anhaltspunkte für eine Anspruchsänderung muss die Sozialbehörde keine besonderen Abklärungen vornehmen. Erste Zweifel begründen keine die Arglist ausschliessende Opfermitverantwortung, wenn der Sozialdienst Belege einfordert, die Bezüger befragt, Bankvollmachten einholt und Auskünfte bei mehreren Banken einholt, während das Paar den Anschein voller Kooperation wahrt und Einkünfte von total Fr. 194'236.95 auf verschwiegene Konten leitet. Die Verurteilung der Beschwerdeführerin wegen gewerbsmässigen Betrugs (und Geldwäscherei, E. 3.6) für diese Periode wurde bestätigt.
+  2. *Zweite Deliktsperiode (1. März 2020 bis 31. August 2021 — nach Einschaltung der Sozialinspektion; E. 3.5.4)*: Das Bundesgericht hiess die Beschwerde der Ehefrau (6B_265/2026) teilweise gut, hob das Urteil für die zweite Periode auf und wies die Sache zurück. Ohne Feststellung, ob und ab wann die Bezüger vom konkreten Verdacht (ab März 2020) und der Einschaltung der Sozialinspektion wussten (belegt war erst das Vorladungsschreiben vom 1. Dezember 2020), lässt sich die Umleitung von Löhnen auf ein weiteres nicht deklariertes Konto ab August 2020 nicht als bewusstes Ausnutzen der laufenden Untersuchung («astuce très poussée») qualifizieren. Zudem fehlte eine eigenständige rechtliche Prüfung, ob der Sozialdienst angesichts seiner ernsthaften und konkreten Verdachtsmomente bei den weiteren Zahlungen überhaupt noch einem Irrtum unterlag, ob dieser arglistig hervorgerufen oder bestärkt wurde und ob ein Kausalzusammenhang zwischen Irrtum und Vermögensdisposition bestand — oder ob die Auszahlungen vielmehr aufgrund gesetzlicher Leistungspflichten (hier Verweis auf Art. 36 BE-LASoc bzw. einen Leistungsstopp ausschliessende Vorgaben) erfolgten.
+  3. *Landesverweisung (E. 4, 5)*: Die sechsjährige obligatorische Landesverweisung samt SIS-Ausschreibung wurde für beide Ehegatten (kosovarische Staatsangehörige) bestätigt — beim Ehemann (6B_238/2026) trotz Aufenthalts in der Schweiz seit dem dritten Altersjahr angesichts der 28-monatigen Freiheitsstrafe, sieben Vorstrafen, erheblicher Schulden (u.a. Fr. 480'405.25 Sozialhilfeschulden) und fehlender ausserordentlicher Umstände.
+- **Einschlägig für**: Art. 146 Abs. 1 und 2 StGB — Sozialhilfebetrug, Arglist und Loyalitätsprinzip vs. Opfermitverantwortung, Irrtum und Kausalität bei konkretem Behördenverdacht, gesetzliche Auszahlungspflichten; Art. 66a StGB.
+
+---
+
 ### [BGer 6B_85/2026, 6B_96/2026 vom 13. August 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.08.2026_6B_85/2026) E. 2.1–2.3, 3.2 — Motivationszusammenhang bei Lieferkettenverschleierung
 - **Thema**: Fehlender Motivationszusammenhang zwischen Täuschung und Vermögensschaden; Irrtum bei juristischen Personen; Schadensberechnung bei Zwischenhändlern; Dispositionsmaxime und Rügeobliegenheit im Adhäsionsprozess.
 - **Kernaussage**: Der Betrugstatbestand verlangt, dass die durch die arglistige Täuschung motivierte Vermögensdisposition den Vermögensschaden bewirkt. Bezieht sich der Irrtum des handelnden Vorgesetzten der geschädigten Arbeitgeberin ausschliesslich auf die Identität der Zwischenhändlerin (Verschleierung der Lieferkette), nicht aber auf die Möglichkeit eines Direktbezugs beim Hersteller, fehlt es am Motivationszusammenhang, wenn der Schaden als Preisdifferenz gegenüber Direktbezugskonditionen berechnet wird. Der Schaden darf nicht auf Sachverhalte oder Vergleichsmassstäbe abgestellt werden, die nicht Gegenstand der Täuschung waren (E. 2.1–2.3). Im Adhäsionsverfahren findet Art. 222 Abs. 2 ZPO keine Anwendung; die beschuldigte Person muss Zivilforderungen nicht substanziiert bestreiten (Art. 124 Abs. 2 StPO; E. 3.2).
@@ -214,4 +228,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-10-26*
+*Letzte Aktualisierung: 2026-11-17*

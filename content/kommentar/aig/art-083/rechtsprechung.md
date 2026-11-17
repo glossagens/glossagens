@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 83 AIG"
 weight: 99
 date: 2026-08-29
-lastmod: 2026-10-21
-description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse, Non-Refoulement bei trans Personen (BGer 2C_513/2025) und länderspezifische Praxis (einschliesslich Referenzurteile)"
+lastmod: 2026-11-17
+description: "Übersicht der Rechtsprechung zu Art. 83 AIG — Vorläufige Aufnahme, Vollzugshindernisse, Non-Refoulement bei trans Personen (BGer 2C_513/2025) und länderspezifische Praxis (einschliesslich Syrien nach dem Regimewechsel, BVGer D-5927/2026, und Referenzurteile)"
 tags: ["Rechtsprechung", "AIG", "vorläufige Aufnahme", "Wegweisungsvollzug", "Vollzugshindernisse", "Länderpraxis", "BVGer"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Aufnahme von BVGer D-5927/2026 vom 15. Oktober 2026 (Syrien nach dem Sturz des Assad-Regimes, Begründungspflicht nach Art. 35 Abs. 1 VwVG / Art. 29 Abs. 2 BV und regionalspezifische Zumutbarkeitsprüfung nach Art. 83 Abs. 4 AIG); Prüfweg: Volltext, Entscheidsstruktur und Erwägungen (E. 3.2, 3.3, 3.6.1–3.6.4, 3.7, 4) via swiss-caselaw MCP verifiziert, entscheidsuche-Suche ergab 0 Treffer (Rückfall-Link auf mcp.opencaselaw.ch); kein Hugo-Build gemäss Auftrag."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -138,6 +142,14 @@ revisions:
 
 ---
 
+### BVGer D-5927/2026 — Syrien: Begründungspflicht und regionalspezifische Zumutbarkeitsprüfung nach dem Sturz des Assad-Regimes
+- **Fundstelle**: [BVGer D-5927/2026 E. 3.2, 3.6–3.7 und 4](https://mcp.opencaselaw.ch/entscheid/bvger_D-5927_2026) (15. Oktober 2026)
+- **Thema**: Wegweisungsvollzug nach Syrien nach dem Regimewechsel / Begründungspflicht des SEM (Art. 35 Abs. 1 VwVG, Art. 29 Abs. 2 BV) / Tauglichkeit von Ländernotizen / Regionalspezifische Prüfung (Hama)
+- **Kernaussage**: In der ersten richterlichen Überprüfung eines Wegweisungsvollzugs nach Syrien nach dem Sturz des Assad-Regimes am 8. Dezember 2024 hebt das Bundesverwaltungsgericht eine Vollzugsverfügung des SEM betreffend einen Beschwerdeführer aus der Stadt Hama wegen Verletzung der Begründungspflicht bzw. des Anspruchs auf rechtliches Gehör (Art. 35 Abs. 1 VwVG, Art. 29 Abs. 2 BV) auf und weist die Sache zur Neubeurteilung an die Vorinstanz zurück. Bei schweren Eingriffen in besonders hochrangige Rechtsgüter gelten im Asylverfahren erhöhte Anforderungen an die Begründungspflicht (E. 3.2). Das SEM hatte den Vollzug unter Hinweis auf eine veränderte Sicherheitslage pauschal nicht mehr in alle Landesteile als unzumutbar bezeichnet und die Lage in Hama ohne Begründung als stabil eingestuft. Das Gericht rügt, die als einzige Quelle herangezogene eigene Ländernotiz des SEM vom 30. Januar 2026 sei als ausschliessliche Grundlage einer individuellen Beurteilung offensichtlich untauglich, da sie bewusst auf eine detaillierte Analyse der Sicherheitslage verzichtet, nicht systematisch nach Provinzen und Städten differenziert, angesichts der volatilen Lage am Verfügungsdatum (29. Juli 2026) kritikwürdig war und die punktuellen Hinweise zu Hama (hoher Anteil aussergerichtlicher Tötungen, Ausschreitungen, Entführungen, extreme Armut) der Annahme einer stabilen Lage vielmehr widersprechen (E. 3.6.2). Zudem verkannte das SEM Hama als «Kleinstadt», obwohl es sich um eine Provinzhauptstadt und mit geschätzt knapp einer Million Einwohnern um eines der grössten urbanen Zentren Syriens handelt, deren Sicherheits-, humanitäre und sozioökonomische Verhältnisse nach anderen Massstäben zu prüfen sind (E. 3.6.3). Ohne rechtsgenügliche Auseinandersetzung mit der konkreten Herkunftsregion und deren nachvollziehbarer Verknüpfung mit der persönlichen Situation genügt der Entscheid den gesetzlichen Anforderungen nicht (E. 3.6.4).
+- **Einschlägig für**: Art. 83 Abs. 4 AIG (sowie Art. 35 Abs. 1 VwVG, Art. 29 Abs. 2 BV)
+
+---
+
 ### BVGE 2015/3 — Syrien: Generelle Unzumutbarkeit des Wegweisungsvollzugs
 - **Fundstelle**: [BVGE 2015/3 E. 6–7](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2015-3_2015-02-18.pdf) (18. Februar 2015)
 - **Thema**: Bürgerkriegslage Syrien / Keine innerstaatliche Fluchtalternative
@@ -231,4 +243,4 @@ revisions:
 
 ---
 
-Zuletzt aktualisiert: 2026-10-21 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/aig/art-083/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+83+AIG)
+Zuletzt aktualisiert: 2026-11-17 | [Bearbeiten](https://github.com/jonasachermann/glossagens/edit/main/content/kommentar/aig/art-083/rechtsprechung.md) | [Anregung einreichen](https://github.com/jonasachermann/glossagens/issues/new?template=anregung.yml&title=Rechtsprechung+Art.+83+AIG)

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 303 StGB"
 weight: 99
 date: 2026-05-22
-lastmod: "2026-08-31"
-description: "Übersicht der Rechtsprechung zu Art. 303 StGB — Falsche Anschuldigung: Nichtschuldiger, wider besseres Wissen, Eventualabsicht, mittelbare falsche Anschuldigung und Konsumtion von Ehrverletzungsdelikten."
+lastmod: 2026-11-17
+description: "Übersicht der Rechtsprechung zu Art. 303 StGB — Falsche Anschuldigung: Behördenbegriff, teilweise wahre Anzeige, Nichtschuldiger, wider besseres Wissen, Eventualabsicht, mittelbare falsche Anschuldigung und Konsumtion von Ehrverletzungsdelikten."
 tags: ["Rechtsprechung", "StGB", "falsche Anschuldigung", "wider besseres Wissen", "Eventualabsicht", "Rechtspflegedelikt", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Ergänzt um Corte dei reclami penali del Tribunale d'appello TI 60.2026.122 vom 1. Oktober 2026 (Abschnitt IV. Kantonale Entscheide); Volltext über entscheidsuche__search_by_case_number und entscheidsuche__fetch_document abgerufen, Sachverhalt und Kernaussagen gegen den italienischen Originaltext geprüft, verbatim auf entscheidsuche.ch verlinkt"
   - date: 2026-08-31
     by: "Claude Code"
     model: "glm-5.1"
@@ -107,3 +111,14 @@ revisions:
 
 - **Kernaussage**: Ein Strafantrag wegen Art. 303 StGB kann Ehrverletzungsdelikte mitumfassen, sofern der Antrag den Willen erkennen lässt, auch die Ehrverletzung zu verfolgen. Art. 303 ist kein Antragsdelikt. Fehlt «wider besseres Wissen», ist weder Art. 303 noch Art. 174 erfüllt; bei Eventualvorsatz kommt nur Art. 173 StGB in Betracht (E. 2b).
 - **Einschlägig für**: Art. 303, Art. 173, Art. 174 StGB — Strafantragsrecht; Konsumtion.
+
+---
+
+## IV. Kantonale Entscheide
+
+### [Corte dei reclami penali del Tribunale d'appello TI, 60.2026.122 vom 1. Oktober 2026](https://entscheidsuche.ch/docs/TI_Gerichte/TI_TRAP_002_60-2026-122_2026-10-01.html) — Parlamentarische Kommission als Behörde; teilweise wahre Anzeige
+
+- **Kanton**: Tessin
+- **Sachverhalt**: Ein Tessiner Grossrat und Präsident der Justiz- und Rechtskommission (*Commissione giustizia e diritti*) legte der Kommission am 16. September 2024 ein angeblich anonym in seinem Briefkasten vorgefundenes Schreiben samt Ausdrucken eines WhatsApp-Chats vom November 2020 vor, in dem der damalige Präsident des kantonalen Strafgerichts einer ehemaligen Sekretärin drei Kinderfotos gesandt hatte. Obwohl der Versand dieser drei Fotos tatsächlich stattgefunden hatte, behauptete das Schreiben wahrheitswidrig weitere obszöne Fotos (u.a. von Frauen mit an den Brustwarzen befestigten Schildern) und schürte den haltlosen Verdacht von Kinderpornografie und Zoophilie (Art. 197 Abs. 4 und 5 StGB). Zudem verschwieg der Kommissionspräsident seine Vorkenntnis und die konzertierte Herkunft der auf dem Kopierer seiner Druckerei vervielfältigten Dokumente und drängte auf Weiterleitung an den ausserordentlichen Staatsanwalt. Die Generalstaatsanwaltschaft stellte das Verfahren wegen falscher Anschuldigung ein; auf Beschwerde des betroffenen Richters hob die Corte dei reclami penali die Einstellungsverfügung auf und wies die Akten zur weiteren Untersuchung unter dem Grundsatz *in dubio pro duriore* zurück.
+- **Kernaussage**: Eine parlamentarische Kommission mit gesetzlicher Anzeigepflicht (im Tessin Art. 55 Abs. 1 *Legge sul Gran Consiglio*, LGC) ist eine «Behörde» im Sinne von Art. 303 StGB; wirkt der Täter an der Erstellung der Eingabe mit und legt sie der Kommission vor, kann der objektive Tatbestand bereits mit dieser Vorlage vollendet sein, unabhängig von einer späteren Weiterleitung oder der tatsächlichen Eröffnung eines Strafverfahrens. Zwar bleibt eine bloss unzutreffende rechtliche Würdigung wahrheitsgemäss geschilderter Tatsachen straflos; strafbar nach Art. 303 StGB ist jedoch auch eine teilweise wahre Anzeige, wenn ihr gezielt wesentliche Umstände vorenthalten oder unwahre zusätzliche Tatsachenbehauptungen beigefügt werden, um falsche strafrechtliche Verdachtsmomente zu konstruieren (massgebend ist der Gesamtinhalt der Anzeige). Das sichere Wissen um die Unschuld («wider besseres Wissen») ist als innere Tatsache aus den äusseren Umständen abzuleiten, und hinsichtlich der Strafverfolgungsabsicht genügt Eventualabsicht.
+- **Einschlägig für**: Art. 303 Abs. 1 — Begriff der Behörde (parlamentarische Kommission); teilweise wahre Anzeige mit unwahren Zusätzen; wider besseres Wissen; Eventualabsicht; Privatklägerlegitimation nach Art. 382 Abs. 1 StPO.

@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 9 BV"
 weight: 99
 date: 2026-05-24
-lastmod: 2026-11-16
+lastmod: 2026-11-17
 description: "Übersicht der Leitentscheide und weiteren Judikate zu Art. 9 BV — Willkürverbot, Grundsatz von Treu und Glauben, Vertrauensschutz und Rügeprinzip"
 tags: ["Rechtsprechung", "BV", "Willkürverbot", "Treu und Glauben", "Vertrauensschutz", "Beweiswürdigung", "Unschuldsvermutung", "Rügeprinzip"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "BGer 8C_524/2026 vom 20. Oktober 2026 in II. Weitere Entscheide (Verwaltungs-, Steuer- und Schuldbetreibungsrecht) ergänzt. Prüfweg: Volltext und E. 1.2, 3.1, 3.2, 4 via swiss-caselaw MCP (get_decision, get_erwaegung) wörtlich geprüft; entscheidsuche.ch ergab noch 0 Treffer, daher Rückfall-Link auf mcp.opencaselaw.ch/entscheid/bger_8C_524_2026."
   - date: 2026-11-16
     by: "Antigravity Subagent"
     model: "gemini-2.5-pro"
@@ -155,3 +159,8 @@ Die nachfolgende Rechtsprechungsübersicht dokumentiert die massgebliche Praxis 
 #### BGer 2C_389/2022 (23. September 2022) — Keine Vertrauensgrundlage durch blosse Duldung
 - **Fundstelle / Link:** [BGer 2C_389/2022 E. 6.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-389-2022_2022-09-23.html)
 - **Kernaussage:** Das blosse vorübergehende Dulden eines Sozialhilfebezugs durch die Migrationsbehörde begründet keine Vertrauensgrundlage im Sinne von Art. 9 BV für den Fortbestand einer Aufenthaltsbewilligung. Ohne konkrete behördliche Zusicherung greift der Vertrauensschutz nicht.
+
+#### BGer 8C_524/2026 (20. Oktober 2026) — Willkürliches einzelrichterliches Nichteintreten im kantonalen Sozialhilfeverfahren
+- **Fundstelle / Link:** [BGer 8C_524/2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/bger_8C_524_2026)
+- **Sachverhalt:** Die Sozialen Dienste der Stadt St. Gallen kürzten die Sozialhilfeleistungen einer Unterstützungsbezügerin um Fr. 67.60. Nach einem Nichteintretensentscheid des Departements des Innern trat die Abteilungspräsidentin des Verwaltungsgerichts des Kantons St. Gallen als Einzelrichterin gestützt auf Art. 39bis Abs. 1 lit. a Ziff. 2 VRP/SG auf die Beschwerde nicht ein, obwohl sich das Gericht inhaltlich mit den Vorbringen auseinandersetzte und die Beschwerde materiell als unbegründet verwarf.
+- **Kernaussage:** Das Bundesgericht hiess die Beschwerde im vereinfachten Verfahren wegen offensichtlicher Begründetheit gut (Art. 109 Abs. 2 lit. b BGG). Zwar begründet Art. 30 Abs. 1 BV keinen Anspruch auf Beurteilung durch ein Kollegialgericht, sodass die Anwendung des kantonalen Zuständigkeitsrechts unter dem Blickwinkel der Willkür geprüft wird (E. 3.1). Art. 39bis Abs. 1 lit. a Ziff. 2 VRP/SG erfasst indessen einzig Eingaben mit offensichtlichem Begründungsmangel, nicht aber hinreichend begründete Beschwerden ohne materielle Erfolgsaussicht. Das einzelrichterliche Nichteintreten verstiess gegen Art. 9 BV; die Sache wurde an die Vorinstanz zur Beurteilung in ordentlicher Dreierbesetzung zurückgewiesen.

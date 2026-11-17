@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 257 ZPO"
 weight: 99
 date: 2026-07-18
-lastmod: 2026-11-13
+lastmod: 2026-11-17
 description: "Übersicht der Rechtsprechung zu Art. 257 ZPO — Rechtsschutz in klaren Fällen, Mieterausweisungen, Bestreitungslast, klare Rechtslage und Nichteintreten."
 tags: ["Rechtsprechung", "ZPO", "Rechtsschutz in klaren Fällen", "Mieterausweisung", "Liquider Beweis", "Kasuistik"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Aufnahme von BGer 4A_407/2026 vom 23. September 2026 unter II. Weitere Entscheide des Bundesgerichts: Ausweisung nach verfrühter Zahlungsverzugskündigung (Art. 257d OR), klare Rechtslage bei offenkundigem Rechtsmissbrauch (Art. 2 Abs. 2 ZGB) und sofortige Beweisbarkeit des fehlenden Zahlungswillens. Belegprüfung gegen Volltext und Erwägungen via swiss-caselaw MCP (get_decision, get_erwaegung); entscheidsuche.ch noch 0 Treffer, daher Rückfall-Link auf opencaselaw."
   - date: 2026-11-13
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -92,6 +96,14 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ## II. Weitere Entscheide des Bundesgerichts
 
+### [BGer 4A_407/2026](https://mcp.opencaselaw.ch/entscheid/bger_4A_407_2026) (23. September 2026)
+- **Thema**: Klare Rechtslage bei offenkundigem Rechtsmissbrauch (Art. 2 Abs. 2 ZGB) und fehlendem Zahlungswillen nach verfrühter Zahlungsverzugskündigung (Art. 257d OR)
+- **Kernaussage**: Eine klare Rechtslage nach Art. 257 Abs. 1 lit. b ZPO ist nicht stets zu verneinen, sobald eine missbräuchliche Rechtsausübung geltend gemacht wird; das Rechtsmissbrauchsverbot setzt keine wertende Berücksichtigung aller Umstände voraus, wenn das Verhalten der betroffenen Partei offenkundig einen Missbrauch darstellt, insbesondere wenn es sich in eine in Rechtsprechung und Lehre anerkannte Fallgruppe einordnen lässt (E. 2.4.3). Beruft sich die Mieterschaft auf eine vor Ablauf der 30-tägigen Zahlungsfrist (Art. 257d Abs. 1 OR) zugestellte — und damit grundsätzlich nichtige — Kündigung, ohne den Ausstand fristgerecht beglichen zu haben oder durch die verfrühte Kündigung davon abgehalten worden zu sein, und ist ihr fehlender Zahlungswille evident, ist dies offenkundig rechtsmissbräuchlich und der klare Fall zu bejahen (E. 2.4.2, E. 2.4.4). Der fehlende Zahlungswille gilt im summarischen Verfahren als sofort beweisbare Tatsache (Art. 257 Abs. 1 lit. a ZPO), wenn er sich auf objektive Anhaltspunkte stützt, etwa die Erschleichung des Mietvertrags mittels gefälschter Lohnabrechnungen (gestützt durch einen Strafbefehl) in Kombination mit sofortigem und fortgesetztem Zahlungsverzug (E. 2.4.5).
+- **Konkreter Sachverhalt**: Ein Untermieter leistete nach Übergabe einer Wohnung per 1. Dezember 2025 weder die vereinbarte Kaution noch den Dezembermietzins von Fr. 3'900.–. Die Untervermieter setzten ihm schriftlich eine 30-tägige Zahlungsfrist bis zum 29. Januar 2026 mit Kündigungsandrohung, stellten die Kündigung per 28. Februar 2026 aber bereits am 28. Januar 2026 (einen Tag vor Fristablauf) zu. Im Berufungsverfahren reichten die Untervermieter einen Strafbefehl wegen Betrugs und Urkundenfälschung ein, wonach der Untermieter drei Lohnabrechnungen mit einem Nettolohn von Fr. 30'000.– gefälscht hatte; der Untermieter erhob Einsprache gegen den Strafbefehl und berief sich pauschal auf Mietzinsherabsetzung bzw. Verrechnung wegen erst ab April 2026 geplanter Sanierungsarbeiten. Das Bundesgericht schützte das vom Obergericht des Kantons Zürich angeordnete Ausweisungsurteil nach Art. 257 ZPO.
+- **Einschlägig für**: Art. 257 Abs. 1 lit. a und b ZPO, Art. 2 Abs. 2 ZGB, Art. 257d OR, Mieterausweisung, Rechtsmissbrauch, Verrechnungseinrede
+
+---
+
 ### [BGer 5A_775/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_775_2026#e-3-1) (22. September 2026)
 - **Thema**: Rechtsschutz in klaren Fällen bei Ausweisungs- und Herausgabeklagen nach Zwangsversteigerung (Art. 656 Abs. 2 ZGB, Art. 641 Abs. 2 ZGB)
 - **Kernaussage**: Der Erwerber von Grundstücken in einer betreibungsrechtlichen Versteigerung erwirbt das Eigentum originär und ausserbuchlich im Zeitpunkt des Zuschlags (Art. 656 Abs. 2 ZGB). Die Sach- und Rechtslage für eine Ausweisung nach Art. 641 Abs. 2 ZGB bleibt im Verfahren nach Art. 257 ZPO liquid, solange die Zuschlagsentscheide nicht rechtskräftig aufgehoben oder suspendiert sind. Parallele kantonale Beschwerden, angebliche Gegenforderungen, Verzugszinsen oder formungültige/rückdatierte Mietverträge einer Nichtberechtigten (Grundstück unter Zwangsverwaltung gemäss Art. 96 SchKG) bringen den klaren Fall nicht zu Fall (E. 3.1–3.2).
@@ -126,4 +138,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-08-29*
+*Letzte Aktualisierung: 2026-11-17*

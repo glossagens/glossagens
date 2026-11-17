@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 132 ZPO"
 weight: 99
 date: 2026-10-14
-lastmod: 2026-10-14
+lastmod: 2026-11-17
 description: "Übersicht der Rechtsprechung zu Art. 132 ZPO: Nachfristansetzung bei Formmängeln, Ungebührlichkeit und Weitschweifigkeit sowie Schriftenrückgabe bei Rechtsmissbrauch und Querulanz."
 tags: ["Rechtsprechung", "ZPO", "Verfahrensrecht", "Nachfrist", "Rechtsmissbrauch"]
+revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Entscheid Mietgericht Zürich MJ260055-L vom 7. Oktober 2026 (ZMP 2026 Nr. 16) ergänzt und `revisions` nachgetragen; Prüfweg: Entscheid über entscheidsuche__search_by_case_number und entscheidsuche__fetch_document im Volltext abgerufen und Sachverhalt sowie Kernaussagen gegen den Volltext verifiziert; kein hugo-Build und kein git commit."
 ---
 
 ## I. Leitentscheide
@@ -77,3 +82,8 @@ tags: ["Rechtsprechung", "ZPO", "Verfahrensrecht", "Nachfrist", "Rechtsmissbrauc
 [OGer ZH PP230040 vom 20. September 2024](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_PP230040_2024-09-20.pdf)
 * **Sachverhalt**: Eine Klageschrift ging per unqualifizierter elektronischer Übermittlung ein.
 * **Kernaussage**: In Anwendung von Art. 132 Abs. 1 ZPO (analog Art. 42 Abs. 5 BGG) ist der Partei Frist anzusetzen, um das handschriftlich unterzeichnete Original nachzureichen. Erfolgt innert Frist keine Einreichung des Originals, gilt die Eingabe als nicht erfolgt.
+
+### Kantonale Praxis: Querulatorische Ersteingabe, objektiver Massstab und Nichteintretensentscheid statt Rücksendung
+[Mietgericht Zürich MJ260055-L vom 7. Oktober 2026 (ZMP 2026 Nr. 16)](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_BK_004_MJ260055-L_2026-10-07.pdf)
+* **Sachverhalt**: Ein Mieter reichte gegen seine Vermieterin sowie eine Sozialarbeiterin (ohne Klagebewilligung) mehrere im Wesentlichen gleichlautende Klagen ein, in denen er unter anderem einen rechtskräftigen Schlichtungsvergleich aufheben lassen wollte, eine Mietzinsminderung wegen angeblichen «terroristischen Lärms» verlangte und pauschale Vorwürfe gegen Vermieterschaft, Nachbarn, Sozialbehörden, Schlichtungsbehörde und Polizei erhob. Gemäss einem beigelegten Spitalaustrittsbericht lagen beim Kläger eine soziale Phobie und eine Alkoholkrankheit vor. Das Mietgericht Zürich trat mit Beschluss auf die Klage nicht ein und reduzierte die Gerichtsgebühr auf Fr. 900.–.
+* **Kernaussage**: Die Annahme querulatorischen Prozessierens nach Art. 132 Abs. 3 ZPO setzt keine Vielzahl von Eingaben voraus; auch eine erstmalige Klage kann nach Würdigung der Gesamtumstände querulatorisch oder rechtsmissbräuchlich sein (insbesondere bei Anträgen ohne vernünftige Überlegungen, Hinwegsetzung über Prozesshindernisse wie Art. 241 ZPO und fehlende Klagebewilligung sowie Rundumschlägen). Massgebend ist ein objektiver Massstab, weshalb eine psychische Erkrankung oder fehlende Krankheitseinsicht unbeachtlich bleibt. Bei einer erstmalig querulatorisch auftretenden Partei gibt das Gericht einem begründeten Nichteintretensentscheid in der Regel den Vorzug vor der formlosen Rücksendung, um der Partei die Problematik zu erklären, zusätzlichen Leidensdruck zu vermeiden und nach dem Prinzip der Rechtsstaatlichkeit die Überprüfung im ordentlichen Instanzenzug zu wahren.

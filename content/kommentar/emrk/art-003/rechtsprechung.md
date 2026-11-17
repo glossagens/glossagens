@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 3 EMRK"
 weight: 99
 date: 2026-06-12
-lastmod: 2026-10-19
+lastmod: 2026-11-17
 description: "Umfassende Übersicht der Rechtsprechung zu Art. 3 EMRK: Leitentscheide des Bundesgerichts, massgebende EGMR-Urteile mit und ohne Schweizer Beteiligung sowie kantonale Gerichtsentscheide."
 tags: ["Rechtsprechung", "EMRK", "Folterverbot", "unmenschliche Behandlung", "erniedrigende Behandlung", "Non-Refoulement", "Haftbedingungen", "Polizeigewalt", "Champ-Dollon"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "EGMR Roux c. Suisse (Nr. 45008/22 vom 12.11.2026) unter Abschnitt II (EGMR-Leitentscheide) sowie in der Übersichtstabelle (Abschnitt IV) ergänzt und damit verbundenes Urteil BGer 6B_1444/2021 verifiziert. Volltext über entscheidsuche.ch (CH_BGE_012_20261112-45008-22_2026-11-12) und swiss-caselaw (hudoc_ch_45008_22) sowie BGer 6B_1444/2021 gegen das Originalurteil geprüft."
   - date: 2026-10-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -96,6 +100,13 @@ revisions:
 - **Thema**: Polizeigewalt bei Personenkontrolle in Genf; materielle und prozessuale Konventionsverletzung
 - **Sachverhalt**: Ein Staatsangehöriger aus Burkina Faso leistete bei einer Identitätskontrolle passiven Widerstand. Gendarmen setzten Schlagstöcke ein und brachten ihn gewaltsam zu Boden, wobei er eine Fraktur des Schlüsselbeins erlitt. Die Strafanzeige gegen die Beamten wurde kantonal eingestellt.
 - **Kernaussage**: Die Schweiz verletzte Art. 3 EMRK doppelt: Die Anwendung von Schlagstöcken und körperlicher Gewalt gegen einen unbewaffneten Betroffenen war unverhältnismässig (materielle Verletzung). Zudem war die amtliche Untersuchung mangelhaft geführt worden (prozessuale Verletzung).
+
+---
+
+### [EGMR, Roux c. Suisse](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_20261112-45008-22_2026-11-12.html) (Nr. 45008/22 vom 12.11.2026)
+- **Thema**: Polizeigewalt bei Festnahme trotz aktivem Widerstand in Genf; Korrektur von [BGer 6B_1444/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1444-2021_2022-05-17.html); materielle und prozessuale Verletzung
+- **Sachverhalt**: Bei einer Identitätskontrolle durch drei Zivilfahnder in Genf widersetzte sich der an paranoider Schizophrenie leidende Beschwerdeführer, flüchtete in das angehaltene Fahrzeug einer Nachbarin (Frau B.) und wehrte sich im Wageninnern heftig mit Fusstritten, nachdem die Fahrerin ausgestiegen war. Ein Beamter versetzte ihm wiederholt Faustschläge ins Gesicht (und schlug laut Zeugin B. auch noch weiter auf ihn ein, als er bereits gefesselt am Boden lag), was zu einer Nasenbeinfraktur, einem leichten Schädeltrauma und einem linken orbitalen Hämatom führte. Die Genfer Strafbehörden stellten das Verfahren gegen den Beamten ein; das Bundesgericht wies die Beschwerde ab ([BGer 6B_1444/2021 vom 17.05.2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1444-2021_2022-05-17.html)).
+- **Kernaussage**: Der EGMR verurteilte die Schweiz einstimmig wegen doppelter Verletzung von Art. 3 EMRK (Ziff. 16–25): Materiell begründeten die nationalen Gerichte trotz des aktiven Widerstands nicht überzeugend, weshalb wiederholte Schläge ins Gesicht strikt notwendig waren, ob nach dem Aussteigen der Fahrerin nicht mildere Mittel (wie Pfefferspray) in Betracht gekommen wären, und vermochten weitere Schläge am Boden nach Fesselung nicht auszuschliessen (unmenschliche und erniedrigende Behandlung, Ziff. 21–25). Prozessual war die fast dreijährige Untersuchung angesichts weniger Zeugen schleppend, verzichtete auf eine Konfrontation zwischen Zeugin B. und den Beamten und erhob zentrale Fotobeweise (Verletzungen, Blutspritzer) nicht von Amtes wegen (Ziff. 16–20). Entschädigung: EUR 11'000.– Genugtuung und EUR 15'000.– Parteikosten (Ziff. 28).
 
 ---
 
@@ -200,9 +211,10 @@ revisions:
 | 6 | [BGE 148 IV 314](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-314_2022.html) | BGer 2022 | Diplomatische Garantien bei Auslieferung nach Armenien müssen realistisch, überprüfbar und konkret sein |
 | 7 | [BGE 111 Ib 68](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_003_BGE-111-IB-68_1985-05-29.html) | BGer 1985 | Extraterritoriales Non-Refoulement-Gebot: Abschiebung bei drohender unmenschlicher Behandlung unzulässig |
 | 8 | [EGMR Dembele c. Suisse](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_20130924-74010-11_2013-09-24.html) | EGMR 2013 | Verurteilung der Schweiz wegen Polizeigewalt (Schlüsselbeinbruch) und mangelhafter Untersuchung |
-| 9 | [EGMR Tarakhel c. Suisse](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_20141104-29217-12_2014-11-04.html) | EGMR 2014 | Verurteilung der Schweiz wegen Dublin-Überstellung einer Familie nach Italien ohne individuelle Unterbringungsgarantien |
-| 10 | [EGMR Bardali c. Suisse](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_20201124-31623-17_2020-11-24.html) | EGMR 2020 | Haftbedingungen Champ-Dollon: Keine Verletzung bei Fläche zwischen 3 und 4 m² ohne gravierende Zusatzmängel |
-| 11 | [EGMR Muršić v. Croatia](https://hudoc.echr.coe.int/eng?i=001-167565) | EGMR 2016 | 3 m²-Mindeststandard pro Häftling in Mehrbettzellen begründet starke Vermutung einer Konventionsverletzung |
-| 12 | [EGMR Paposhvili v. Belgium](https://hudoc.echr.coe.int/eng?i=001-169662) | EGMR 2016 | Abschiebehindernis bei schwerer Krankheit bei realem Risiko raschen irreversiblen Verfalls oder intensiven Leidens |
-| 13 | [EGMR Gäfgen v. Germany](https://hudoc.echr.coe.int/eng?i=001-99015) | EGMR 2010 | Absoluter Charakter des Misshandlungsverbots: Folterandrohung schliesst jede Güterabwägung aus |
-| 14 | [EGMR Jalloh v. Germany](https://hudoc.echr.coe.int/eng?i=001-76307) | EGMR 2006 | Zwangsweiser Brechmitteleinsatz bei Drogenschluckern ist unmenschlich und erniedrigend; Verwertungsverbot |
+| 9 | [EGMR Roux c. Suisse](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_20261112-45008-22_2026-11-12.html) | EGMR 2026 | Verurteilung der Schweiz trotz aktivem Widerstand (Nasenbeinbruch durch Gesichtsschläge; Korrektur von [BGer 6B_1444/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1444-2021_2022-05-17.html)) und wegen unwirksamer Untersuchung |
+| 10 | [EGMR Tarakhel c. Suisse](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_20141104-29217-12_2014-11-04.html) | EGMR 2014 | Verurteilung der Schweiz wegen Dublin-Überstellung einer Familie nach Italien ohne individuelle Unterbringungsgarantien |
+| 11 | [EGMR Bardali c. Suisse](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_012_20201124-31623-17_2020-11-24.html) | EGMR 2020 | Haftbedingungen Champ-Dollon: Keine Verletzung bei Fläche zwischen 3 und 4 m² ohne gravierende Zusatzmängel |
+| 12 | [EGMR Muršić v. Croatia](https://hudoc.echr.coe.int/eng?i=001-167565) | EGMR 2016 | 3 m²-Mindeststandard pro Häftling in Mehrbettzellen begründet starke Vermutung einer Konventionsverletzung |
+| 13 | [EGMR Paposhvili v. Belgium](https://hudoc.echr.coe.int/eng?i=001-169662) | EGMR 2016 | Abschiebehindernis bei schwerer Krankheit bei realem Risiko raschen irreversiblen Verfalls oder intensiven Leidens |
+| 14 | [EGMR Gäfgen v. Germany](https://hudoc.echr.coe.int/eng?i=001-99015) | EGMR 2010 | Absoluter Charakter des Misshandlungsverbots: Folterandrohung schliesst jede Güterabwägung aus |
+| 15 | [EGMR Jalloh v. Germany](https://hudoc.echr.coe.int/eng?i=001-76307) | EGMR 2006 | Zwangsweiser Brechmitteleinsatz bei Drogenschluckern ist unmenschlich und erniedrigend; Verwertungsverbot |

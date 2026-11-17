@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 176 ZGB"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-10-21
-description: "Übersicht der Rechtsprechung zu Art. 176 ZGB (Eheschutz/Getrenntleben): Leitentscheide zu Unterhaltsbemessung, hypothetischem Einkommen, Schulstufenmodell, Erwerbsobliegenheit, Konkubinat, Mankotragung, Wohnungs- und Hausratzuteilung, Gütertrennung sowie Kinderbelangen und alternierender Obhut, mit kantonalen Entscheiden zu Hausrat, Auszugsfrist und Verfahrensfragen."
-tags: ["Rechtsprechung", "ZGB", "Eheschutz", "Getrenntleben", "Unterhalt", "Schulstufenmodell", "Wohnungszuteilung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut"]
+lastmod: 2026-11-17
+description: "Übersicht der Rechtsprechung zu Art. 176 ZGB (Eheschutz/Getrenntleben): Leitentscheide zu Unterhaltsbemessung, hypothetischem Einkommen, Schulstufenmodell, Erwerbsobliegenheit, Konkubinat, Mankotragung, Wohnungs- und Hausratzuteilung (inkl. Begriff der Familienwohnung), Gütertrennung sowie Kinderbelangen und alternierender Obhut, mit kantonalen Entscheiden zu Hausrat, Auszugsfrist und Verfahrensfragen."
+tags: ["Rechtsprechung", "ZGB", "Eheschutz", "Getrenntleben", "Unterhalt", "Schulstufenmodell", "Wohnungszuteilung", "Familienwohnung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut"]
 revisions:
+  - date: 2026-11-17
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Aufnahme von BGer 5A_621/2025 vom 18.09.2026 (unter II. Weitere Bundesgerichtsentscheide): Begriff der Familienwohnung ohne gemeinsames Bewohnen und Zuteilung nach Art. 176 Abs. 1 Ziff. 2 ZGB analog im Scheidungsverfahren (Art. 276 Abs. 1 ZPO, Art. 98 BGG). Prüfweg: Volltext und E. 5.1/5.2 über swiss-caselaw (get_decision, get_erwaegung) geprüft, get_decision_structure noch ohne Eintrag; entscheidsuche__search_by_case_number am 17.11.2026 ohne Treffer, daher Link auf mcp.opencaselaw.ch/entscheid/bger_5A_621_2025; kein audit.py/hugo-Build."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -154,6 +158,15 @@ revisions:
 - **Kernaussage**: Bei der Festsetzung von Unterhaltsbeiträgen ist grundsätzlich vom tatsächlichen Einkommen auszugehen; ein hypothetisches Einkommen darf angerechnet werden, wenn dessen Erzielung zumutbar (Rechtsfrage) und tatsächlich möglich ist (Tatfrage). Nach dem Schulstufenmodell (BGE 144 III 481, BGE 147 III 308) ist von einem betreuenden Elternteil in der Regel eine Erwerbstätigkeit von 50 % ab obligatorischer Einschulung des jüngsten Kindes, 80 % ab Beginn der Sekundarstufe I und 100 % ab vollendetem 16. Altersjahr zu erwarten. Von diesen Richtlinien darf das Sachgericht im pflichtgemässen Ermessen (Art. 4 ZGB) abweichen, wenn besondere Umstände des Einzelfalls dies rechtfertigen (z.B. erhöhte Betreuungslast bei vier Kindern oder Behinderung). Weicht das Gericht jedoch ab und verlangt es von einer gesunden, gut ausgebildeten Partei trotz Sekundarschulbesuch der jüngsten Tochter (13 Jahre) und alternierender Obhut (wöchentlicher Wechsel) nur ein 50%-Pensum auf unbestimmte Dauer, muss dies im Urteil konkret und nachvollziehbar begründet werden. Der blosse Hinweis, es handle sich um Eheschutzmassnahmen, genügt keinesfalls. Eine unbegründete Abweichung verletzt Art. 29 Abs. 2 BV und führt zur Aufhebung und Rückweisung. Zudem ist bei alternierender Obhut die Erwerbsfähigkeit beider Eltern ohnehin nur im Umfang der tatsächlichen Betreuung eingeschränkt.
 - **E. 5.4** (wörtlich): «Il suit de là que faute pour la Cour de justice d'avoir exposé les circonstances pour lesquelles il conviendrait ici de s'écarter des lignes directrices sur les paliers scolaires en exigeant de l'intimée qu'elle reprenne une activité à 50 % pour une durée indéterminée, il n'est pas possible de vérifier si son raisonnement est conforme au droit [...]. Le moyen du recourant doit dès lors être admis et la cause renvoyée à la Cour de justice pour complément d'instruction et, cas échéant, nouvelle décision sur ce point.»
 - **Einschlägig für**: Abs. 1 Ziff. 1; Verfahren (Art. 29 Abs. 2 BV)
+
+---
+
+### [BGer 5A_621/2025 vom 18. September 2026 — Familienwohnung ohne gemeinsames Bewohnen; Zuteilung im Scheidungsverfahren](https://mcp.opencaselaw.ch/entscheid/bger_5A_621_2025)
+- **Thema**: Begriff der Familienwohnung (Art. 169 und Art. 176 Abs. 1 Ziff. 2 ZGB); vorsorgliche Massnahmen im Scheidungsverfahren (Art. 276 Abs. 1 ZPO); Willkürprüfung (Art. 98 BGG)
+- **Kernaussage**: Im Rahmen vorsorglicher Massnahmen im Scheidungsverfahren richtet sich die Zuteilung der Familienwohnung sinngemäss nach Art. 176 Abs. 1 Ziff. 2 ZGB. Eine Wohnung kann selbst dann als Familienwohnung qualifizieren, wenn die Ehegatten sie nach einer Renovation nie gemeinsam bewohnt haben, sofern sie den Willen hatten, dort dauernd ihre eheliche Gemeinschaft zu begründen (im konkreten Fall zudem durch die Angabe als offizielle Adresse/Wohnsitz in einem früheren Eheschutzverfahren untermauert). Ob ein anfänglicher gemeinsamer Bezug durch beide Ehegatten erforderlich ist, wird in der Lehre kontrovers diskutiert; entscheidet sich die Vorinstanz für die Auffassung, wonach der gemeinsame Widmungsentschluss genügt, hält dies unter der beschränkten Kognition des Art. 98 BGG vor dem Willkürverbot stand. Die Beweis- bzw. Glaubhaftmachungslast für den Verlust des Familienwohnungscharakters trägt der Ehegatte, der ihn behauptet. Bei der Zuteilung nach grösserem Nutzen und Zumutbarkeit des Umzugs ist das Vorhandensein minderjähriger Kinder nicht zwingend; die Zuteilung an die Ehefrau ohne eigenes Erwerbseinkommen zulasten des im Ausland wohnhaften Eigentümers, der bei Aufenthalten in der Schweiz im Hotel logierte und die Wohnung nie bewohnte, war nicht willkürlich.
+- **E. 5.1.4** (wörtlich): «Cela étant, une telle critique n'aurait pas abouti au vu du pouvoir de cognition dont dispose ici la Cour de céans, le choix d'une solution opéré par l'autorité cantonale sur une question controversée en doctrine ne pouvant pas être qualifié d'insoutenable [...].»
+- **Hinweis**: Link über opencaselaw als Rückfallebene, da entscheidsuche.ch den Entscheid am 17.11.2026 noch nicht führt.
+- **Einschlägig für**: Abs. 1 Ziff. 2 (und Art. 276 Abs. 1 ZPO analog); Art. 169 ZGB
 
 ---
 
@@ -466,4 +479,4 @@ Die Kommentierung zu Art. 176 ZGB weist drei echte Divergenzen auf, die in der �
 
 ---
 
-*Letzte Aktualisierung: 24. September 2026. Alle Entscheide im Volltext geprüft; Linkziele auf Erreichbarkeit geprüft.*
+*Letzte Aktualisierung: 17. November 2026. Bestand vom 24. September 2026 sowie seither ergänzte Entscheide (inkl. BGer 5A_621/2025) im Volltext geprüft; Linkziel für BGer 5A_621/2025 über opencaselaw als Rückfallebene.*
