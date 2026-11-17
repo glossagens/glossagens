@@ -4,7 +4,7 @@ ebene: bund
 sr: "351.1"
 kuerzel: "IRSG"
 gesetz_name: "Bundesgesetz über internationale Rechtshilfe in Strafsachen"
-weight: 29
+weight: 30
 date: 2026-11-06
 lastmod: 2026-11-06
 description: "Kommentierte Artikel zum Bundesgesetz über internationale Rechtshilfe in Strafsachen (Rechtshilfegesetz, IRSG, SR 351.1, vom 20. März 1981)."

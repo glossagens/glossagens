@@ -4,7 +4,7 @@ ebene: bund
 sr: "910.1"
 kuerzel: "LwG"
 gesetz_name: "Bundesgesetz über die Landwirtschaft"
-weight: 51
+weight: 55
 date: '2026-11-01'
 lastmod: "2026-11-01"
 description: "Kommentierte Artikel zum Bundesgesetz über die Landwirtschaft (Landwirtschaftsgesetz, LwG, SR 910.1, vom 29. April 1998)."

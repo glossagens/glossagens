@@ -4,7 +4,7 @@ ebene: bund
 sr: "455"
 kuerzel: "TSchG"
 gesetz_name: "Tierschutzgesetz"
-weight: 35
+weight: 32
 date: '2026-11-06'
 lastmod: '2026-11-06'
 description: "Kommentierte Artikel zum Tierschutzgesetz (TSchG, SR 455, vom 16. Dezember 2005)."

@@ -4,7 +4,7 @@ ebene: bund
 sr: "451"
 kuerzel: "NHG"
 gesetz_name: "Bundesgesetz über den Natur- und Heimatschutz"
-weight: 29
+weight: 31
 date: 2026-11-02
 lastmod: 2026-11-02
 description: "Kommentierte Artikel zum Bundesgesetz über den Natur- und Heimatschutz (NHG, SR 451, vom 1. Juli 1966)."
