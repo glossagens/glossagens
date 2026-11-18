@@ -18,6 +18,9 @@ gruppen:
   - name: "Allgemeine Bestimmungen — Vollzug von Freiheitsstrafen und Massnahmen"
     von: 74
     bis: 92
+  - name: "Allgemeine Bestimmungen — Verjährung"
+    von: 97
+    bis: 101
   - name: "Allgemeine Bestimmungen — Übertretungen"
     von: 103
     bis: 109
