@@ -3,7 +3,6 @@ name: glossagens-content-creation
 description: >-
   Create and maintain legal commentary articles for the Glossagens Hugo site, with built-in grounding checks (judge the claim against the verbatim Erwägung before writing; audit harness only run when explicitly requested by the user). No LLM-backed opencaselaw tool is ever called — only free lookups. Offers three workflows: /kommentar (full creation), /recherche (research only), /loop (iterative gap analysis with subagents).
 version: 5.0.0
-author: Hermes Agent
 tools:
   - mcp__fedlex-connector__get_article
   - mcp__fedlex-connector__get_law_text
@@ -45,7 +44,7 @@ tools:
 
 # Glossagens Content Creation
 
-Create and maintain legal commentary articles for the Glossagens Hugo site at `/opt/glossagens/`.
+Create and maintain legal commentary articles for the Glossagens Hugo site in this repository (working directory = repo root).
 
 Articles are stored as **Hugo Page Bundles** — each article gets its own directory:
 - `content/kommentar/{gesetz}/art-{NNN}/_index.md` — commentary
@@ -68,7 +67,7 @@ Create a new commentary from scratch or comprehensively update an existing one.
 2. GESETZESTEXT abrufen und als Daten ablegen: `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` (→ Teil B, Abschnitt 2)
 3. GESETZGEBERISCHE IDEEN & ZWECKE ERMITTELN — Materialien zur Schaffung und zu allfälligen Revisionen via `get_article_purpose`, `get_article_history`, `get_materialien` analysieren (→ Teil B, Abschnitt 2b)
 4. LEHRMEINUNGEN & THEMENBEHANDLUNG IN DER LEHRE PRÜFEN — Abklärung, ob Lehrmeinungen zur Auslegung des Artikels bestehen oder das Themengebiet in der Lehre behandelt wird (→ Teil B, Abschnitt 2c)
-5. RECHERCHE — parallele Subagenten-Recherche nach Rechtsprechung, Materialien und Lehrmeinungen (→ Teil B, Abschnitt 3)
+5. RECHERCHE — Recherche (selbst; Subagenten nur auf Wunsch) nach Rechtsprechung, Materialien und Lehrmeinungen (→ Teil B, Abschnitt 3)
 6. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
 7. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext bzw. die Botschaft (→ Teil D.1)
 8. KOMMENTAR schreiben/ergänzen (→ Teil C) — inklusive Entstehungsgeschichte, Ratio Legis, Revisionsmotiven sowie massgeblicher Lehrmeinungen zur Auslegung und Themenbehandlung
@@ -194,7 +193,7 @@ Continuously research which topics and decisions are still **missing** from the 
 1. **Artikel und Gesetz** aus Benutzeranweisung extrahieren. Bei Mehrdeutigkeit nachfragen.
 
 2. **Pfade ableiten:**
-   - Ordner:               `/opt/glossagens/content/kommentar/{gesetz}/art-{NNN}/`
+   - Ordner:               `content/kommentar/{gesetz}/art-{NNN}/`
    - Kommentardatei:       `_index.md`
    - Rechtsprechungsdatei: `rechtsprechung.md`
 
@@ -386,7 +385,7 @@ gewollt, damit kein leerer Wortlaut-Abschnitt live geht.
 
 ## 3. RECHERCHE — Subagenten für Rechtsprechung, Materialien und Lehre
 
-Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeitig.
+Die drei Vorlagen gelten als Recherche-Checklisten: selbst nacheinander abarbeiten; als Subagenten-Aufträge nur auf ausdrücklichen Wunsch des Benutzers.
 
 ### Subagent-Vorlage A: Bundesgerichtsentscheide
 
@@ -511,7 +510,7 @@ Starte parallele Subagenten (Agent-Tool) für alle drei Vorlage-Typen gleichzeit
 
 ## 4. RECHTSPRECHUNGSDATEI — Aktualisieren
 
-Öffne oder erstelle `/opt/glossagens/content/kommentar/{gesetz}/art-{NNN}/rechtsprechung.md`.
+Öffne oder erstelle `content/kommentar/{gesetz}/art-{NNN}/rechtsprechung.md`.
 
 Nur **neue** Entscheide eintragen (Abgleich mit BEKANNTE_ENTSCHEIDE) — und nur solche,
 deren `Kernaussage` in der Belegprüfung `yes` oder `partial` erhalten hat (→ Teil D.1).
@@ -528,39 +527,25 @@ description: "Übersicht der Entscheide zu Art. {N} {ABBREV} – {Kurztitel}"
 tags: ["Rechtsprechung", "{ABBREV}", "{topic1}"]
 revisions:
   - date: {YYYY-MM-DD}
-    by: "Glossagens Agent"
+    by: "{Agent}"
     model: "{MODELL-ID}"        # exakte KI-Modell-ID des Bearbeiters
     note: "{was; Prüfweg}"      # siehe Teil D.5
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide
 
-### {citation_string_de}, E. {X.X}
-- **Thema**: {Stichwort}
-- **Kernaussage**: {2–4 Sätze}
-- **Einschlägig für**: {Abs./Tatbestandsmerkmal}
+### {fettgedrucktes Thema}
+[{citation_string_de} E. {X.X}]({entscheidsuche-URL}#consideration_{X.X})
+* **Sachverhalt:** {kurz}
+* **Kernaussage:** {2–4 Sätze; der Behauptungssatz, gegen den die Belegprüfung läuft}
 
----
+## II. Weitere Entscheide
 
-## Weitere Bundesgerichtsentscheide
-
-### {citation_string_de}, E. {X.X}
-- **Thema**: {Stichwort}
-- **Kernaussage**: {2–4 Sätze}
-
----
-
-## Kantonale Entscheide
-
-### {citation_string_de}, E. {X.X}
-- **Kanton**: {Kanton}
-- **Thema**: {Stichwort}
-- **Kernaussage**: {2–4 Sätze}
-
----
-
-*Letzte Aktualisierung: {DATUM}*
+{gleiche Einträge: weitere BGer-Urteile, kantonale Entscheide, EGMR}
 ```
+
+Mindestens 10 Entscheide, davon mindestens 5 unter I (BGE) und 5 unter II. Das ist die
+einzige Stelle, die diese Struktur festlegt; `.agents/rules/glossagens-kommentar-erstellen.md` verweist darauf.
 
 ---
 
@@ -568,21 +553,12 @@ revisions:
 
 ```bash
 # Build-Check
-cd /opt/glossagens && hugo --minify 2>&1 | tail -5
+hugo --minify 2>&1 | tail -5
 
 # Commit (nur bei erfolgreichen Build)
 git add content/kommentar/{gesetz}/
 git commit -m "feat: {ABBREV} Art. {N} kommentiert"
 git push origin main
-```
-
-**Git-Auth-Setup** (falls noch nicht konfiguriert):
-```bash
-cd /opt/glossagens
-git config user.email "agent@glossagens.ch"
-git config user.name "Glossagens Agent"
-source .env && echo "$GITHUB_TOKEN" | gh auth login --with-token
-git remote set-url origin "https://$(gh auth token)@github.com/glossagens/glossagens.git"
 ```
 
 **Bei Push-Ablehnung** (Remote hat neue Commits):
@@ -611,7 +587,7 @@ description: "Kommentar zu Art. {N} {ABBREV} – {Kurztitel}"
 tags: ["{ABBREV}", "{topic1}", "{topic2}"]
 revisions:
   - date: {YYYY-MM-DD}
-    by: "Glossagens Agent"
+    by: "{Agent}"
     model: "{MODELL-ID}"        # exakte KI-Modell-ID des Bearbeiters
     note: "{was; Prüfweg}"      # siehe Teil D.5
 ---
@@ -682,7 +658,7 @@ revisions:
 
 Für jedes neue Gesetz: Zuerst einen Ordner `content/kommentar/{gesetz}/` anlegen und darin eine `_index.md` für die Gesetzesübersicht.
 
-**Pfad:** `/opt/glossagens/content/kommentar/{gesetz}/_index.md`
+**Pfad:** `content/kommentar/{gesetz}/_index.md`
 
 **Frontmatter:**
 ```yaml
@@ -952,7 +928,7 @@ Revisionseintrag nach der Prüfung:
 lastmod: {heute}
 revisions:
   - date: {heute}
-    by: "Glossagens Agent"
+    by: "{Agent}"
     model: "{exakte Modell-ID}"
     note: "{was}; Belege gegen den Entscheidtext geprüft"  # bzw. ", Audit-Lauf ohne offene Befunde" nur falls Audit beauftragt
 ```
@@ -1067,7 +1043,7 @@ Rerank sind kleine LLM-Aufrufe).
 
 ## Tipps für Subagenten
 
-1. **Parallel starten**: Subagenten A, B und C gleichzeitig (parallele Agent-Tool-Aufrufe in einer Nachricht).
+1. **Subagenten nur auf Wunsch**: Der Benutzer lehnt parallele Agent-Calls ab; Recherche A, B und C standardmässig selbst nacheinander durchführen, Subagenten nur auf ausdrücklichen Wunsch.
 
 2. **Enge Fragestellung** (im /loop): Nicht «alles zu Art. X», sondern «Entscheide zur Frage Y in Art. X Abs. Z» — enger Auftrag, präzisere Ergebnisse.
 

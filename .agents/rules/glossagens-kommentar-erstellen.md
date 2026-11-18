@@ -2,180 +2,50 @@
 trigger: always_on
 ---
 
-# Agenten-Leitfaden: Generische Erstellung von Gesetzeskommentaren
+# Agenten-Leitfaden: Erstellung von Gesetzeskommentaren
 
-Dieser Leitfaden definiert die standardisierte Vorgehensweise für den autonomen Glossagens-Agenten zur vollautomatischen Erstellung, Erweiterung und Pflege von Gesetzeskommentaren. Er dient als Runbook, um beliebige Gesetzesbestimmungen auf ein wissenschaftlich fundiertes, verifiziertes Niveau im Stil des Onlinekommentars (onlinekommentar.ch) zu heben.
+Dieser Leitfaden hält nur fest, was bei **jedem** Kommentar gilt: Qualitätsmassstab, Mindestzahlen und Zitierweise. Ablauf, Quellen und Werkzeuge, Dateistruktur, Frontmatter, Wortlaut-Shortcode, Linkziel, Belegprüfung und Revisions-Vermerk stehen **ausschliesslich** im Skill `./agent/skills/glossagens-content-creation/SKILL.md` und in `CLAUDE.md` — dort nachlesen, hier nicht wiederholen.
 
-nehme immer noch zusätzlich die Anforderungen und die Workflows von ./agent/skills/glossagens-content-creation hinzu.
-Wird verlangt, dass der Kommentar «praxisorientiert» sein soll (oder als «Praxiskommentar» verfasst werden soll), gilt zusätzlich zwingend der Stil und Aufbau gemäss ./agent/skills/praxisorientierter-kommentar (Muster: Art. 110 StPO, Art. 336 OR mit ausführlichen Lebenssachverhalten, Gegenüberstellung von Anwendungs- und Verwerfungsfällen und taktischen Merksätzen). Das Grundgerüst bleiben auch dort die abstrakten Tatbestandsmerkmale der Norm: Gegliedert wird entlang des Prüfschemas, die Praxisschilderungen werden den einzelnen Merkmalen zugeordnet — nie nach Urteilen oder Fallgeschichten.
-
----
-
-## 1. Ziel und Qualitätskriterien
-
-Jeder kommentierte Gesetzesartikel muss folgende Qualitätskriterien erfüllen:
-1. **Strukturkonformität**: Aufbau als standardisiertes Hugo Page Bundle.
-2. **Kommentierungstiefe, Gesetzeszweck & Lehrmeinungen**: Umfassende und strukturierte Aufbereitung des Gesetzeswortlauts, der systematischen Einordnung sowie der dogmatischen Bedeutung.
-   - Die **gesetzgeberischen Ideen und Zwecke der Bestimmung** (sowohl bei deren ursprünglicher Schaffung als auch bei allfälligen späteren Gesetzesänderungen) sind zwingend anhand der amtlichen Gesetzesmaterialien (Botschaften des Bundesrates via `get_article_purpose`, `get_article_history`, `get_materialien`) zu eruieren und in die Kommentierung einzuarbeiten.
-   - Es ist stets zwingend zu prüfen, **ob Lehrmeinungen zur Auslegung des fraglichen Artikels bestehen oder ob ein Themengebiet von der Lehre behandelt wird** (via `find_scholarship_citing_statute`, `search_scholarship`, `get_commentary`, `search_commentaries`, `get_doctrine`). Relevante Lehrmeinungen, Auslegungsansätze, dogmatische Kontroversen und wissenschaftliche Einordnungen sind substanziell in die Kommentierung einzubeziehen. **Insbesondere sind Lehrmeinungen aufzunehmen, welche eine gerichtliche Praxis (insb. des Bundesgerichts oder kantonaler Gerichte) kritisieren**, als zu eng/weit, unbillig, formalistisch oder teleologisch verfehlt erachten oder abweichende Lösungen vorschlagen.
-   - Der Umfang und die Tiefe orientieren sich am Standard renommierter Onlinekommentare (onlinekommentar.ch).
-3. **Sprache und Stil**: 
-   - Schweizer Rechtsterminologie (z.B. "grosser" statt "großer", zwingend **kein Eszett / ß**).
-   - Akademischer, präziser und juristisch einwandfreier Stil – keine umgangssprachlichen Wendungen.
-4. **Praxisorientierung**: Identifikation von mindestens **ein bis zwei kantonalen Praxisfragen** (typische Hürden oder Streitpunkte in der kantonalen Gerichtspraxis).
-5. **Fundierte Rechtsprechung**: Dokumentation von **mindestens 10 praxisrelevanten Entscheiden** (Leitentscheide des Bundesgerichts sowie kantonale Gerichtsentscheide; es können auch mehr sein).
-6. **Verifizierbarkeit & Qualitätskontrolle (Halluzinationsverbot)**: 
-   - Direkte Verlinkung aller zitierten Urteile (in der Regel via OpenCaseLaw.ch / MCP-Urteilsdatenbank).
-   - Jede zitierte Quelle (Urteile, Literatur, Gesetzesmaterialien) **muss tatsächlich existieren**. Es dürfen unter keinen Umständen Urteile, Literaturstellen oder Materialien erfunden werden.
-7. **Gesetzesübersicht nicht anpassen**: Das Inhaltsverzeichnis der Gesetzesseite wird durch Hugo (`articles.html`) und `data/systematik/{gesetz}.yaml` **vollautomatisch** gerendert. Eine Anpassung oder Ergänzung von `content/kommentar/{gesetz}/_index.md` bei der Erstellung, Erweiterung oder Pflege einzelner Artikel ist **vollkommen überflüssig und untersagt**. Die Revisionshistorie gehört ausschliesslich in das jeweilige Artikel-Bundle (`art-{nr}/_index.md` und `rechtsprechung.md`). `content/kommentar/{gesetz}/_index.md` wird ausschliesslich einmalig bei der erstmaligen Aufnahme eines völlig neuen Gesetzes angelegt.
-8. **Tabellenformatierung (Keine Code-Fences)**: Tabellen (Prüfschemas, Kasuistik, Schwellenwert-Gegenüberstellungen, Muster A/B) müssen zwingend als **reines Markdown direkt in den Textfluss** gesetzt werden (`| Spalte | ... |`). Sie dürfen **unter keinen Umständen** in Markdown-Codeblöcke (` ```markdown ... ``` `) eingefasst werden. Ein Codeblock verhindert das HTML-Rendering durch Hugo und führt dazu, dass Tabellen als unleserlicher Quelltext mit horizontalem Scrollbalken dargestellt werden.
+Immer zusätzlich: Anforderungen und Workflows von `./agent/skills/glossagens-content-creation`.
+Wird verlangt, dass der Kommentar «praxisorientiert» sein soll (oder als «Praxiskommentar» verfasst werden soll), gilt zusätzlich zwingend der Stil und Aufbau gemäss `./agent/skills/praxisorientierter-kommentar` (Muster: Art. 110 StPO, Art. 336 OR mit ausführlichen Lebenssachverhalten, Gegenüberstellung von Anwendungs- und Verwerfungsfällen und taktischen Merksätzen). Das Grundgerüst bleiben auch dort die abstrakten Tatbestandsmerkmale der Norm: Gegliedert wird entlang des Prüfschemas, die Praxisschilderungen werden den einzelnen Merkmalen zugeordnet — nie nach Urteilen oder Fallgeschichten.
 
 ---
 
-## 2. Quellenrecherche und Zitierweise
+## 1. Qualitätskriterien
 
-### A. Quellenarten & Recherche
-Bei der Recherche sind folgende Quellenarten aktiv einzubeziehen:
-- **Gesetzesmaterialien (Ermittlung von Gesetzeszweck und Revisionsmotiven)**: Eruierung der gesetzgeberischen Ideen, Motive und Zwecke der Bestimmung (Schaffung und allfällige Revisionen) über `get_article_purpose` (wörtliche Botschaftserwägungen zum Normzweck), `get_article_history` (Revisionschronologie), `get_materialien` (BBl-Fundstellen, Berichte, Vernehmlassungen) und `search_botschaft`. Es gilt das Verbot der Spekulation über die Teleologie (Regel R4): Der gesetzgeberische Wille ist stets anhand der authentischen Materialien nachzuweisen und mit BBl-Fundstellen zu belegen.
-- **Rechtsprechung**: Recherche nach Bundesgerichtsentscheiden (bger.ch / swiss-caselaw Server) sowie kantonalen Urteilen (entscheidsuche.ch).
-- **Lehre & Literatur (systematische Prüfung & Judikaturkritik)**:
-  - *Bestehen Lehrmeinungen zur Auslegung des Artikels?*: Gezielte Abfrage via `find_scholarship_citing_statute` (über SR-Nummer und Artikel), `get_commentary` und `search_commentaries` (OnlineKommentar, OpenLegalCommentary, kantonale Kommentare) sowie `get_doctrine`.
-  - *Wird das Themengebiet von der Lehre behandelt?*: Thematische Recherche via `search_scholarship` nach Rechtsbegriffen/Problemfeldern, `find_scholarship_citing_decision` für Lehrmeinungen zu wegweisenden Urteilen sowie `get_scholarship_full_text` zur vertieften Analyse.
-  - *Kritik an der Rechtsprechung*: Gezielt nach Lehrmeinungen suchen, welche die Gerichtspraxis kritisieren (Urteilsanmerkungen, Praxiskritik via `find_scholarship_citing_decision`, Suche nach Urteilskritik via `search_scholarship`). Diese kritischen Stimmen sind für Praktiker und Argumentationen vor Gericht von höchstem Wert und zwingend darzustellen.
-  - Zitation ausschliesslich von Schweizer Quellen (Schweizer Autoren / Schweizer Publikationen / Domainendung `.ch`). Reine OA-Quellen direkt verlinken.
+Jeder kommentierte Artikel erfüllt:
 
-### B. Zitierregeln (onlinekommentar.ch)
-Es sind strikt die Zitierrichtlinien des Onlinekommentars anzuwenden:
-- **Urteile**: BGE-Nummer oder BGer-Urteilsnummer mit Datum und Erwägung.
-  - *Beispiele*: `BGE 142 III 16 E. 3.1`; `BGer 4A_123/2020 vom 1.3.2021 E. 4.2`
-- **Literatur**: Autor, Titel, Auflage, Erscheinungsort/-jahr, zitierte Stelle (N oder S.).
-  - *Beispiel*: `BK-Autor, Berner Kommentar, 2. Aufl., Bern 2021, N 12` oder `S. 45`
-- **Materialien**: BBl-Fundstelle mit Seitenzahl.
-  - *Beispiel*: `BBl 2017 399, S. 450` bzw. `BBl 2017 399 ff.`
+1. **Struktur**: Hugo Page Bundle (`art-{nr}/_index.md` + `rechtsprechung.md`), Frontmatter und `revisions` gemäss `CLAUDE.md`.
+2. **Tiefe**: Wortlaut, systematische Einordnung und dogmatische Bedeutung umfassend aufbereitet; Umfang und Tiefe orientieren sich am Standard von onlinekommentar.ch.
+   - **Gesetzgeberischer Zweck** (Schaffung und spätere Revisionen) ist zwingend anhand der amtlichen Materialien nachzuweisen (BBl-Fundstelle); keine Spekulation über die Teleologie (Regel R4).
+   - **Lehre** ist stets zu prüfen. Insbesondere sind Lehrmeinungen aufzunehmen, die eine gerichtliche Praxis kritisieren oder abweichende Lösungen vorschlagen.
+3. **Sprache**: Schweizer Rechtschreibung (zwingend **kein ß**), akademisch, präzise, nicht umgangssprachlich.
+4. **Praxisfragen**: mindestens ein bis zwei kantonale Praxisfragen (typische Hürden oder Streitpunkte), je mit klärendem Entscheid verknüpft.
+5. **Rechtsprechung**: mindestens **10 praxisrelevante Entscheide** auf `rechtsprechung.md`, davon mindestens 5 Leitentscheide (BGE) unter «I. Leitentscheide» und mindestens 5 weitere (BGer, kantonal) unter «II. Weitere Entscheide».
+6. **Halluzinationsverbot**: Jede zitierte Quelle (Urteil, Literatur, Materialien) muss tatsächlich existieren und den Satz tragen, für den sie steht. Nichts erfinden, nichts aus dem Gedächtnis zitieren.
+7. **Gesetzesübersicht** `content/kommentar/{gesetz}/_index.md` bei der Bearbeitung einzelner Artikel **nicht anfassen** (auch nicht für `revisions`). Sie wird nur einmalig bei der Aufnahme eines neuen Gesetzes angelegt.
+8. **Tabellen** als reines Markdown im Textfluss, **nie** in Code-Fences (Hugo rendert sie sonst als Quelltext).
 
 ---
 
-## 3. Dateistruktur (Hugo Page Bundles)
+## 2. Zitierregeln (onlinekommentar.ch)
 
-Kommentarartikel dürfen nicht als Flat-Files, sondern müssen zwingend als **Hugo Page Bundles** angelegt werden:
-
-```text
-content/kommentar/{gesetz}/
-├── _index.md                             ← Übersicht des Gesetzes
-└── art-{nr}/                             ← Ordner für das Page Bundle des Artikels
-    ├── _index.md                         ← Hauptkommentar (Branch Bundle, nicht index.md!)
-    └── rechtsprechung.md                 ← Rechtsprechungsübersicht (Leaf Bundle)
-```
-
-### Frontmatter-Schema für den Hauptkommentar (`art-{nr}/_index.md`)
-```yaml
----
-title: "Art. {nr} {Gesetz} — {Kurztitel}"
-weight: {nr}
-date: YYYY-MM-DD
-lastmod: YYYY-MM-DD
-description: "Kurze Beschreibung des Artikels und seiner Kernpunkte."
-tags: ["{Gesetz}", "{Kategorie}", "{Hauptthema}"]
-revisions:
-  - date: YYYY-MM-DD
-    by: "{Agent}"
-    model: "{exakte Modell-ID}"
-    note: "{Was}; {Prüfweg: welche Belege wie geprüft, was nicht}"
----
-```
-
-### Frontmatter-Schema für die Rechtsprechung (`art-{nr}/rechtsprechung.md`)
-```yaml
----
-title: "Rechtsprechung zu Art. {nr} {Gesetz}"
-weight: 99
-date: YYYY-MM-DD
-lastmod: YYYY-MM-DD
-description: "Übersicht der Rechtsprechung zu Art. {nr} {Gesetz}."
-tags: ["Rechtsprechung", "{Gesetz}", "{Hauptthema}"]
-revisions:
-  - date: YYYY-MM-DD
-    by: "{Agent}"
-    model: "{exakte Modell-ID}"
-    note: "{Was}; {Prüfweg: welche Belege wie geprüft, was nicht}"
----
-```
-
-`revisions` ist Pflicht bei jeder Änderung, neuester Eintrag zuoberst. Die `note` sagt wahrheitsgemäss, wie die Belege geprüft wurden. `agent_verified` und `mcp_verified` gibt es nicht mehr — nicht setzen.
+- **Urteile**: BGE-Nummer oder BGer-Urteilsnummer mit Datum und Erwägung — `BGE 142 III 16 E. 3.1`; `BGer 4A_123/2020 vom 1.3.2021 E. 4.2`.
+- **Literatur**: Autor, Titel, Auflage, Ort/Jahr, Stelle (N oder S.) — `BK-Autor, Berner Kommentar, 2. Aufl., Bern 2021, N 12`. Nur Schweizer Quellen.
+- **Materialien**: BBl-Fundstelle mit Seitenzahl — `BBl 2017 399, S. 450`.
 
 ---
 
-## 4. Inhaltliche Gliederung
+## 3. Gliederung
 
-### A. Hauptkommentar (`art-{nr}/_index.md`)
-Der Kommentarartikel ist wie folgt zu gliedern:
+**`_index.md`**: Gesetzeswortlaut (nur `{{< wortlaut >}}`) → Überblick und Bedeutung (Normzweck, Entstehungsgeschichte mit BBl) → Kommentierung (Rechtsprechung und Lehre im Text, mit Links) → Praxisfragen → Literatur.
 
-1. **Gesetzeswortlaut**: ausschliesslich die Zeile `{{< wortlaut >}}`; die Daten erzeugt `python3 scripts/wortlaut.py content/kommentar/{gesetz}/art-{NNN}` aus der amtlichen Quelle (`data/wortlaut/{gesetz}/art-{NNN}.json`, mit committen). Kein Blockquote, kein `{: .gesetzeszitat}`, keine eigene Quellenzeile.
-2. **Überblick und Bedeutung**: Einordnung der Norm in die Systematik des Gesetzes, gesetzgeberische Ideen und Normzwecke (Ratio Legis bei der Schaffung der Norm sowie die Überlegungen bei allfälligen späteren Änderungen) unter direktem Beizug der Gesetzesmaterialien (Botschaft des Bundesrates mit BBl-Fundstellen) und Dogmatik.
-3. **Kommentierung**: Absatzweise oder thematische Gliederung der Bestimmung. Hierbei sind Kernaussagen der wichtigsten Bundesgerichtsentscheide sowie relevante Lehrmeinungen zur Auslegung des Artikels oder Behandlung des Themengebiets — **insbesondere solche, welche die gerichtliche Praxis kritisieren** — direkt im Text mit korrekter Zitierweise und Hyperlinks zu zitieren (z.B. `([BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2))`).
-4. **Praxisfragen**: Dokumentation kantonaler Besonderheiten, Streitpunkte oder verfahrensrechtlicher Hürden (z.B. Fristberechnungen, Unterschriftsmängel, Zustellungsfragen). Jede Frage muss mit dem klärenden Entscheid verknüpft sein.
-5. **Literatur**: Eigenständiger Nachweis der relevanten Kommentare, Aufsätze und Monografien, die sich mit der Auslegung des Artikels oder dem spezifischen Themengebiet befassen (insb. Urteilsanmerkungen und kritische Beiträge).
-
-### B. Rechtsprechungsseite (`art-{nr}/rechtsprechung.md`)
-Die Rechtsprechungsseite listet **mindestens 10 ausgewählte Entscheide** auf (es können auch mehr sein), aufgeteilt in zwei Abschnitte:
-
-1. **I. Leitentscheide (mindestens 5)**: Die wegweisendsten Entscheide des Bundesgerichts (BGEs), welche die grundlegende Auslegung der Norm definieren (mindestens 5 Entscheide).
-2. **II. Weitere Entscheide (mindestens 5)**: Ergänzende Entscheide (weitere Bundesgerichtsurteile sowie kantonale Obergerichts-/Kantonsgerichtsentscheide), die spezifische Detailfragen, Verfahrensaspekte oder kantonale Praktiken regeln (mindestens 5 Entscheide).
-
-Jeder Eintrag muss Folgendes enthalten:
-* Ein aussagekräftiges, fettgedrucktes Thema als Überschrift.
-* Zitatsyntax mit funktionierendem Link und Erwägung (z.B. `[BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2)`).
-* Ein Abstract, das den Sachverhalt kurz skizziert und die prozessuale bzw. materielle Kernaussage präzise auf den Punkt bringt.
+**`rechtsprechung.md`**: «I. Leitentscheide» und «II. Weitere Entscheide». Je Eintrag eine fettgedruckte Themenüberschrift, der verlinkte Zitiertext mit Erwägung, **Sachverhalt** (kurz) und **Kernaussage** (die Aussage, gegen die die Belegprüfung läuft).
 
 ---
 
-## 5. Vorgehensweise des Agenten (Workflow)
+## 4. Abschluss
 
-Bei der Erstellung oder dem Ausbau eines Kommentars geht der Agent nach folgendem 5-Schritte-Prozess vor:
-
-```mermaid
-graph TD
-    A[Schritt 1: Recherche & Quellensuche] --> B[Schritt 2: Strukturierung & Planung]
-    B --> C[Schritt 3: Inhaltliche Ausformulierung]
-    C --> D[Schritt 4: Verlinkung & Referenzierung]
-    D --> E[Schritt 5: Verifikation & Build]
-```
-
-### Schritt 1: Recherche & Quellensuche
-* Abfrage der nationalen Urteilsdatenbanken (über den `swiss-caselaw`-Server, `bger.ch` oder `entscheidsuche.ch`) nach der Gesetzesnorm (z.B. `Art. 701 OR` oder `Art. 222 ZPO`).
-* Recherche in den Gesetzesmaterialien: Zwingende Eruierung der gesetzgeberischen Ideen, Zwecke und Revisionsmotive der Bestimmung über `get_article_purpose`, `get_article_history` und `get_materialien`.
-* **Prüfung auf Lehrmeinungen und Behandlung des Themengebiets in der Lehre**:
-  * Abfrage vorhandener Kommentare und Literatur zur Auslegung des Artikels (`find_scholarship_citing_statute`, `get_commentary`, `search_commentaries`, `get_doctrine`).
-  * Ermittlung, ob und wie das Themengebiet oder dogmatische Kontroversen von der Lehre behandelt werden (`search_scholarship`, `find_scholarship_citing_decision`, `get_scholarship_full_text`).
-  * **Gezielte Identifikation von Urteilskritik**: Recherche nach Lehrmeinungen, die bestehende Bundesgerichtsentscheide oder kantonale Praktiken kritisieren oder ablehnen.
-* Filterung nach Relevanz (meistzitierte Urteile, publizierte BGEs, prägende und judikaturkritische Lehrmeinungen).
-* Identifikation von Streitpunkten in der kantonalen Gerichtspraxis und im Schrifttum.
-
-### Schritt 2: Strukturierung & Planung
-* Auswahl von mindestens 10 qualitativ besten Entscheiden, die das Spektrum des Artikels abdecken.
-* Festlegung der dogmatischen Einordnung, des Normzwecks, der Revisionsgründe und der massgeblichen Lehrmeinungen zur Auslegung für den Abschnitt «Überblick und Bedeutung».
-* Festlegung der ein bis zwei kantonale Praxisfragen, die im Kommentar behandelt werden sollen.
-* Erstellung einer Taskliste (`task.md`) zur Abarbeitung.
-
-### Schritt 3: Inhaltliche Ausformulierung
-* Erstellung des Page Bundles und Befüllung der `_index.md` und `rechtsprechung.md` unter Einhaltung des Onlinekommentar-Stils.
-* Formulierung der Abstracts und Kommentierungen in präziser, sachlicher Schweizer Juristensprache (kein Eszett).
-* Aktuelle Materialien (BBl) und Schweizer Literatur einbinden.
-* **Keine Anpassung der Gesetzesübersicht**: Die Artikelliste auf `content/kommentar/{gesetz}/_index.md` wird von Hugo vollautomatisch generiert; die Datei darf bei Artikeländerungen nicht angefasst werden.
-
-### Schritt 4: Verlinkung & Referenzierung
-* Erstellung of Hyperlinks für alle Entscheide.
-* **Linkziel: entscheidsuche.ch**, opencaselaw nur als Rückfall (siehe CLAUDE.md, „Verlinkung von
-  Entscheiden"). Die URL nie konstruieren, sondern verbatim aus `document_url` von
-  `mcp__entscheidsuche__search_by_case_number` übernehmen.
-* Formatierung gemäss Zitierregeln: `[BGE 144 III 519 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-519_2018.html#consideration_5.2)` — Anker
-  `#consideration_{E-Nr}` nur bei HTML-Dokumenten und nur, wenn die Erwägung dort existiert; bei
-  PDF-Dokumenten ohne Anker verlinken.
-* Kreuzverweise: Einbau der Links direkt in den fliessenden Erläuterungstext des Hauptkommentars.
-
-### Schritt 5: Verifikation & Build
-* Durchführung der Qualitätskontrolle (Verifikation: Existieren alle zitierten Urteile, Literaturstellen und Materialien wirklich?).
-* **Audit nur auf Wunsch**: Ein nachgelagerter Audit-Lauf (`audit.py` / `glossagens-audit`) wird **nur dann durchgeführt, wenn der Benutzer dies ausdrücklich so wünscht**. Standardmässig reichen Belegprüfung vor dem Schreiben und der Build-Check.
-* Ausführung des lokalen `hugo`-Befehls.
-* Prüfung des Outputs auf Build-Fehler, fehlende Parameter im Frontmatter oder fehlerhafte Markdown-Syntax.
-* Bei erfolgreichem Build: Commit und Push.
+- Belegprüfung vor dem Schreiben ist Pflicht (Skill, Teil D.1).
+- **Audit nur auf ausdrücklichen Wunsch des Users** — standardmässig reichen Belegprüfung und Build-Check.
+- `hugo` lokal bauen; bei grünem Build committen und pushen.
