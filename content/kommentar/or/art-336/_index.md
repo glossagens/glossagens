@@ -2,10 +2,14 @@
 title: "Art. 336 OR — Missbräuchliche Kündigung"
 weight: 336
 date: 2026-05-23
-lastmod: 2026-10-15
+lastmod: 2026-11-18
 description: "Praxiskommentar zu Art. 336 OR: die verpönten Kündigungsmotive (Persönlichkeitseigenschaft, verfassungsmässige Rechte, Vereitelung, Rache, Dienstpflichten, Gewerkschaft, Arbeitnehmervertretung, Massenentlassung), die ungeschriebenen Missbrauchstatbestände (Alterskündigung, Sündenbock, Konflikt am Arbeitsplatz, Verdachtskündigung) sowie Motivkausalität, Beweismass und Einspracheobliegenheit — mit der Kasuistik der Gerichte zu jeder Fallgruppe."
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht", "Kündigungsfreiheit", "Rachekündigung", "Alterskündigung", "Verdachtskündigung", "Änderungskündigung", "Impfobligatorium", "Beweismass", "Einsprache"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 4A_445/2025: Missbräuchlichkeit der Kündigung nach gescheiterter Änderungskündigung bei Ausnutzung einer arbeitgeberseitigen Fürsorgepflichtverletzung (Art. 328/336 OR)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -145,7 +149,7 @@ Wie weit diese Vermutung *nicht* reicht, zeigt der jüngste Bundesgerichtsentsch
 
 > «Die zeitliche Nähe der Kündigung zur Geltendmachung des «Exit Multiples» führt nicht zu einer Art Beweislastumkehr, in dem Sinne, dass die Beschwerdegegnerin den strikten Beweis für sämtliche geltend gemachte Kündigungsgründe zu erbringen hätte.»
 
-([BGer 4A_388/2025 E. 6.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-388-2025_2026-03-03.html)). Die Arbeitgeberin musste den Anschein lediglich *entkräften*, was ihr mit einer Zeugenaussage, der Rückstufung des Klägers vom COO zum Group Legal Counsel und dem E-Mail-Verkehr mit dem CEO gelang — obwohl die Vorinstanz ausdrücklich offenliess, ob die behaupteten Leistungsmängel überhaupt zutrafen.
+([BGer 4A_388/2025 E. 6.4.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-388-2025_2026-03-03.html)). Die Arbeitgeberin musste den Anschein lediglich *entkräften*, was ihr mit einer Zeugenaussage, der Rückstufung des Klägers vom COO zum Group Legal Counsel und dem E-Mail-Verkehr mit dem CEO gelang — obwohl die Vorinstanz ausdrücklich offenliess, ob die behaupteten Leistungsmängel überhaupt zutrafen. Werden die vom Arbeitgeber vorgebrachten sachlichen Vorwürfe demgegenüber durch ein objektives Gutachten vollumfänglich widerlegt, begründet dies ein starkes Indiz für ein vorgeschobenes, missbräuchliches Kündigungsmotiv ([BGer 4A_445/2025 vom 9. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_4A_445/2025), unten H.4.b).
 
 #### 5. Mehrere Motive: das ausschlaggebende zählt
 
@@ -331,7 +335,7 @@ Die Grundregel — der meistzitierte Satz des ganzen Kommentars:
 
 Wie wenig dafür genügt, zeigt [BGE 136 III 513](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-513_2010.html): Ein Gespräch mit dem Direktor und eine schriftliche Verwarnung reichten. Wie viel fehlen kann, zeigt [BGE 132 III 115](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-115_2006.html): Dort war der Kläger auf Betreiben eines Serviceleiters entlassen worden, mit dem er sich nicht verstand — «Dem angefochtenen Urteil ist nicht zu entnehmen, dass sich die Beklagte vorgängig auch nur ansatzweise darum bemüht hätte, das Verhältnis unter den genannten Personen zu entspannen» ([E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-115_2006.html#consideration_5.1)). Verschärfend kam hinzu, dass auch andere Arbeitnehmer mit demselben Vorgesetzten Schwierigkeiten hatten und dieser dem Kläger nicht direkt vorgesetzt war — «erscheint darüber hinaus die Vermutung berechtigt, dass geeignete Massnahmen eine Lösung hätten bewirken können».
 
-**Mobbing.** Blosses Mobbing begründet den Missbrauch nicht ohne weiteres. Missbräuchlich kann die Kündigung aber sein, «wenn sie wegen einer Leistungseinbusse des Arbeitnehmers ausgesprochen wird, die sich ihrerseits als Folge des Mobbing erweist. Denn die Ausnutzung eigenen rechtswidrigen Verhaltens bildet einen typischen Anwendungsfall des Rechtsmissbrauchs. Der Arbeitgeber, der Mobbing nicht verhindert, verletzt seine Fürsorgepflicht (Art. 328 OR). Er kann daher die Kündigung nicht mit den Folgen seiner eigenen Vertragsverletzung rechtfertigen» ([BGE 125 III 70 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-70_1998-10-13.html#consideration_2.)). Im entschiedenen Fall misslang der Mobbing-Nachweis; ergänzend hielt das Bundesgericht fest, die Aufforderung an eine arbeitsunfähige Arbeitnehmerin, sich vertrauensärztlich — auch psychiatrisch — begutachten zu lassen, sei ohne besondere Umstände keine schwere Persönlichkeitsverletzung: «Es dürfte heute allgemein bekannt sein, dass seelische Erkrankungen ebenso unverschuldet sind wie körperliche […]» ([E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-70_1998-10-13.html#consideration_3.)).
+**Mobbing.** Blosses Mobbing begründet den Missbrauch nicht ohne weiteres. Missbräuchlich kann die Kündigung aber sein, «wenn sie wegen einer Leistungseinbusse des Arbeitnehmers ausgesprochen wird, die sich ihrerseits als Folge des Mobbing erweist. Denn die Ausnutzung eigenen rechtswidrigen Verhaltens bildet einen typischen Anwendungsfall des Rechtsmissbrauchs. Der Arbeitgeber, der Mobbing nicht verhindert, verletzt seine Fürsorgepflicht (Art. 328 OR). Er kann daher die Kündigung nicht mit den Folgen seiner eigenen Vertragsverletzung rechtfertigen» ([BGE 125 III 70 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-70_1998-10-13.html#consideration_2.)). Diesen Grundsatz wandte das Bundesgericht jüngst auch auf die Konstellation an, in welcher der Arbeitgeber die durch eine Fürsorgepflichtverletzung vertiefte Zerrüttung und Isolation gezielt ausnutzt, um eine unbillige Änderungskündigung durchzudrücken (dazu unten H.4.b zu [BGer 4A_445/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_4A_445/2025)). Im entschiedenen Fall misslang der Mobbing-Nachweis; ergänzend hielt das Bundesgericht fest, die Aufforderung an eine arbeitsunfähige Arbeitnehmerin, sich vertrauensärztlich — auch psychiatrisch — begutachten zu lassen, sei ohne besondere Umstände keine schwere Persönlichkeitsverletzung: «Es dürfte heute allgemein bekannt sein, dass seelische Erkrankungen ebenso unverschuldet sind wie körperliche […]» ([E. 3c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-70_1998-10-13.html#consideration_3.)).
 
 #### 2. Die Alterskündigung: eine Rechtsprechung in Bewegung
 
@@ -381,11 +385,27 @@ Das Bundesgericht bestätigte die Missbräuchlichkeit:
 
 #### 4. Die Änderungskündigung
 
-Sie ist nicht schon als solche missbräuchlich. Ein Arbeitsvertrag muss an veränderte wirtschaftliche oder betriebliche Bedürfnisse angepasst werden können; es widerspräche dem Interesse beider Seiten, den Arbeitgeber vor die Alternative «unverändert weiter oder Beendigung» zu stellen. Missbräuchlich wird sie durch das Motiv:
+##### a. Das Prinzip und die zwei Fallgruppen
+
+Die Änderungskündigung (*congé-modification*) ist nicht schon als solche missbräuchlich. Ein Arbeitsvertrag muss an veränderte wirtschaftliche oder betriebliche Bedürfnisse angepasst werden können; es widerspräche dem Interesse beider Seiten, den Arbeitgeber vor die Alternative «unverändert weiter oder Beendigung» zu stellen. Missbräuchlich wird sie durch das Motiv oder die Modalität:
 
 > «Der Missbrauch der Kündigung liegt darin, dass ohne sachlich schutzwürdigen Grund die Kündigung ausgesprochen wird, dass für die Änderung der Lohn- und Arbeitsbedingungen keine betrieblichen oder marktbedingten Gründe bestehen.»
 
 ([BGE 123 III 246 E. 3b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-123-III-246_1997-04-22.html#consideration_3.)). Zwei Fallgruppen sind zu trennen: die **inhaltlich unbillige** Änderung ohne betriebliche Rechtfertigung — und, unabhängig davon, die **modale** Missbräuchlichkeit, wenn die Änderung ohne Einhaltung der Kündigungsfrist oder rückwirkend erzwungen werden soll (oben E.2). Nur die zweite Variante lag BGE 123 III 246 zugrunde; die Angemessenheit der Lohnreduktion selbst war deshalb «unbeachtlich» ([E. 4e](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-123-III-246_1997-04-22.html#consideration_4.)).
+
+##### b. Ausnutzung einer Fürsorgepflichtverletzung: der Spital-Leitfall
+
+Wie die inhaltliche Unbilligkeit und die Verletzung der Fürsorgepflicht ineinandergreifen, präzisierte das Bundesgericht mit Urteil [BGer 4A_445/2025 vom 9. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_4A_445/2025) (I. zivilrechtliche Abteilung: Hurni, Denys, May Canellas).
+
+**Sachverhalt.** Eine leitende Oberärztin bzw. Chefärztin (*médecin-chef*) einer Viszeralchirurgie sah sich im Spitalbetrieb internen Spannungen und Reibungen ausgesetzt. Nach einer intraoperativen Komplikation wurde sie vom Spitalbetreiber vorsorglich suspendiert, wobei ihr für den Fall der Entlastung die unverzügliche Wiedereinsetzung zugesichert wurde. Ein daraufhin eingeholtes externes medizinisches Fachgutachten entlastete die Chirurgin vollumfänglich und bescheinigte ihr ein fachlich wie methodisch einwandfreies Vorgehen. Trotz dieses klaren Befunds verweigerte die Spitalleitung die zugesagte Rehabilitation und Wiedereinsetzung und unterliess es pflichtwidrig, die Konfliktsituation im Team objektiv zu untersuchen oder zu entschärfen. Stattdessen nutzte der Arbeitgeber die durch die Suspendierung verfestigte Isolation der Ärztin aus, um ihr eine einschneidende Änderungskündigung vorzulegen: eine erhebliche Lohnreduktion verbunden mit einer Demotion unter Verlust des Chefärztinnen-Status. Nachdem die Ärztin die Annahme dieses verschlechterten Vertragsangebots verweigert hatte, kündigte das Spital das Arbeitsverhältnis ordentlich.
+
+**Rechtliche Würdigung und Dogmatik:**
+
+1. **Grenze der Kündigungsfreiheit bei Änderungskündigung**: Das Bundesgericht rief in Erinnerung, dass auch die Ausübung einer Änderungskündigung und die anschliessende Beendigung bei Nichtannahme den Schranken des Missbrauchsverbots (Art. 336 OR) unterstehen.
+2. **Ausnutzung eigenen rechtswidrigen Verhaltens (Art. 328 i.V.m. Art. 336 OR)**: Der Spitalbetreiber hatte seine arbeitgeberseitige Fürsorgepflicht nach Art. 328 OR in schwerer Weise verletzt: Trotz unübersehbarer Alarmsignale wurde keine neutrale Untersuchung der teaminternen Konflikte durchgeführt; zudem wurde die Ärztin trotz des entlastenden Gutachtens im Abseits stehen gelassen. Missbräuchlich ist es, eine solche arbeitgeberseitig selbst geschaffene oder vertiefte Zerrüttung und Verhandlungsschwäche gezielt dafür einzusetzen, der Arbeitnehmerin eine massive Demotion und Lohnkürzung aufzuzwingen. Die Kündigung nach Ablehnung der Änderungskündigung erweist sich damit als unzulässige Ausnutzung einer eigenen Fürsorgepflichtverletzung (*nemo auditur propriam turpitudinem allegans*).
+3. **Beweisrechtliche Indizwirkung vorgeschobener Vorwürfe**: Das Urteil stärkt zudem die Beweisführung der gekündigten Partei (vgl. oben B.4): Schiebt der Arbeitgeber sachliche oder fachliche Gründe vor — hier angebliche Qualitätsmängel beim chirurgischen Eingriff —, die sich im Verfahren bzw. durch ein Fachgutachten als haltlos erweisen, bildet dies ein gewichtiges tatsächliches Indiz für das Vorliegen eines unzulässigen, missbräuchlichen Kündigungsmotivs.
+
+> **Merksatz.** Wer als Arbeitgeber seine Fürsorgepflicht verletzt (unterlassene Konfliktlösung, Nichtbeachtung entlastender Gutachten) und die so erzeugte Notlage für eine Schlechterstellung (Demotion, Lohnkürzung) instrumentalisiert, handelt bei Nichtannahme und Kündigung missbräuchlich. Vorgeschobene fachliche Vorwürfe, die widerlegt werden, entlasten den Arbeitgeber nicht, sondern beweisen das missbräuchliche Motiv.
 
 #### 5. Die Verdachtskündigung und die interne Untersuchung
 
@@ -537,6 +557,7 @@ Der Kündigungsgrund ist Tatfrage ([BGE 130 III 699 E. 4.1](https://entscheidsuc
 6. **Gesundheitsbezogene Weisungen an der betrieblichen Notwendigkeit ausrichten** und diese im Zeitpunkt der Anordnung dokumentieren — die Verhältnismässigkeit wird nicht retrospektiv beurteilt ([BGer 4A_60/2026 E. 4.2.3](https://mcp.opencaselaw.ch/entscheid/bger_4A_60_2026)).
 7. **Auf Arbeitnehmervertreter besonders achten.** Wirtschaftliche Gründe sind zulässig, aber der Arbeitgeber trägt die Beweislast, und an den Nachweis werden «besonders hohe Anforderungen» gestellt ([BGE 138 III 359 E. 6.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-359_2012.html#consideration_6.3)).
 8. **Bei Massenentlassungen die Konsultation nach Art. 335f OR vollständig durchführen und protokollieren.** Abs. 2 lit. c verlangt keinen Motivbeweis — der Formfehler allein trägt die Missbräuchlichkeit.
+9. **Änderungskündigungen nicht auf eigene Fürsorgepflichtverletzungen stützen.** Wer Mitarbeitende pflichtwidrig suspendiert, Teamkonflikte nicht aufarbeitet oder entlastende Fachgutachten ignoriert, darf die daraus resultierende Notlage nicht für eine Änderungskündigung (Demotion, Lohnkürzung) instrumentalisieren; die Kündigung bei Ablehnung ist missbräuchlich ([BGer 4A_445/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_4A_445/2025)).
 
 ## Rechtsprechung
 

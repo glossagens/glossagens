@@ -2,10 +2,14 @@
 title: "Art. 80 SchKG — Definitive Rechtsöffnung"
 weight: 80
 date: 2026-05-23
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 80 SchKG: Definitive Rechtsöffnung — Vollstreckbare Gerichtsurteile, gerichtliche Vergleiche, vollstreckbare öffentliche Urkunden, Verwaltungsverfügungen, ausländische Titel (LugÜ), Aberkennungsurteil, Prozessstandschaft, Prüfungsbefugnis, Grenzkasuistik."
-tags: ["SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "Gerichtsurteil", "Vergleich", "Prüfungsbefugnis", "Grenzkasuistik", "LugÜ", "Aberkennungsurteil"]
+lastmod: 2026-11-18
+description: "Praxiskommentar zu Art. 80 SchKG: Definitive Rechtsöffnung — Vollstreckbare Gerichtsurteile, gerichtliche Vergleiche, vollstreckbare öffentliche Urkunden, Verwaltungsverfügungen, Abtretung im Strafurteil (BGer 4A_291/2026), ausländische Titel (LugÜ), Aberkennungsurteil, Prozessstandschaft, Prüfungsbefugnis, Grenzkasuistik."
+tags: ["SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "Gerichtsurteil", "Vergleich", "Prüfungsbefugnis", "Grenzkasuistik", "LugÜ", "Aberkennungsurteil", "Zession"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 4A_291/2026 (5er-Besetzung, zur Publikation vorgesehen): Definitive Rechtsöffnung für durch Strafurteil nach Art. 73 Abs. 2 StGB abgetretene Schadenersatzforderung; Dispositivauslegung und Scheitern der Tilgungseinrede bei Direktzahlung an Zedent."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -55,6 +59,7 @@ revisions:
 - **Formelle Rechtskraft**: Das Urteil muss rechtskräftig und vollstreckbar sein (Art. 336 ZPO). Ein kantonales Rückweisungsurteil mit Parteientschädigung entfaltet keine definitive Rechtsöffnungswirkung, solange der Endentscheid aussteht.
 - **Bestimmtheit des Dispositivs**: Die Leistungspflicht muss aus dem Urteilsdispositiv klar hervorgehen. Ein Urteil über Volljährigenunterhalt bildet nur dann einen definitiven Titel, wenn Dauer und Betrag der Beiträge exakt festgesetzt sind ([BGE 144 III 193 E. 2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-144-III-193_2018.html#consideration_2.2)).
 - **Dispositiv muss auf die Betreibung Bezug nehmen**: Nach [BGE 107 III 60 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-107-III-60_1981-07-02.html#consideration_3) muss das Dispositiv des Zivilurteils oder des Verwaltungsentscheides mit Bestimmtheit auf die hängige Betreibung Bezug nehmen und den Rechtsvorschlag ausdrücklich als aufgehoben erklären — vollumfänglich oder in einer bestimmten Höhe. Fehlt dieser ausdrückliche Bezug, ist die Fortsetzung der Betreibung nur über das Rechtsöffnungsverfahren nach Art. 80 SchKG möglich (Änderung der Rechtsprechung).
+- **Strafurteile und Adhäsionsentscheide**: Vollstreckbare zivilrechtliche Schadenersatz- und Genugtuungszusprüche in Strafurteilen (Art. 122 ff. StPO) stellen vollwertige definitive Rechtsöffnungstitel dar. Dies gilt ebenso, wenn die geschädigte Person bzw. Privatklägerin ihren titulierten Ersatzanspruch im Rahmen der staatlichen Einziehung oder Ersatzforderung (Art. 73 Abs. 2 StGB) an das Gemeinwesen abgetreten hat ([BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026)).
 
 ### II. Gleichgestellte Titel (Abs. 2)
 
@@ -81,6 +86,7 @@ revisions:
 ### IV. Rechtsnachfolge und Zession
 
 **Rz. 7** Der Zessionar oder Gesamtrechtsnachfolger eines titulierten Anspruchs kann sich auf den Rechtsöffnungstitel des Rechtsvorgängers berufen, wenn er die Rechtsnachfolge durch Urkunden liquide nachweist ([BGE 140 III 372 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-372_2014.html#consideration_3)). Beantragt der Gläubiger irrtümlich nur provisorische Rechtsöffnung, darf der Richter dennoch definitive Rechtsöffnung erteilen.
+- **Abtretung im Strafurteil (Art. 73 Abs. 2 StGB)**: Tritt die Privatklägerin ihre im Strafurteil zugesprochene zivilrechtliche Schadenersatzforderung im Rahmen von Art. 73 Abs. 2 StGB an das Gemeinwesen ab und nimmt das Strafgericht im Dispositiv davon Vormerk («... und wird davon Vormerk genommen, dass die Privatklägerin ihre Forderungen im entsprechenden Umfang an den Staat abgetreten hat»), bildet das Urteil einen definitiven Rechtsöffnungstitel zugunsten des Kantons als Zessionar ([BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026)). Die Vormerknahme im Urteilsdispositiv weist die Rechtsnachfolge formell liquide nach.
 
 ### V. Prozessstandschaft
 
@@ -120,6 +126,10 @@ revisions:
 
 **Rz. 22 — Ausserkantonale Verwaltungsverfügung und direkte Fortsetzung (BGE 119 V 329)**: In [BGE 119 V 329 E. 2b](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-119-V-329_1993-06-29.html) präzisierte das Bundesgericht die Praxis bei Verfügungen ausserkantonaler Behörden: Wenn eine ausserkantonale Verwaltungs- oder Rekursbehörde über die Aufhebung des Rechtsvorschlages entscheidet, kann der Gläubiger direkt die Fortsetzung der Betreibung verlangen, ohne das Rechtsöffnungsverfahren nach Art. 80 SchKG zu durchlaufen. Der Schuldner verliert jedoch seine Einwendungen nach Art. 81 Abs. 1 SchKG nicht, wenn das Eidgenössische Versicherungsgericht den Rechtsvorschlag im Dispositiv seines Urteils selbst beseitigt hat (E. 5b).
 
+**Rz. 23 — Zession im Strafurteil und Scheitern der Tilgungseinrede (BGer 4A_291/2026)**: In [BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026) (Fünferbesetzung, zur Publikation vorgesehen) betrieb der Kanton Zürich einen verurteilten Straftäter für Fr. 70'000.-- aus einer zivilrechtlichen Schadenersatzforderung, die ihm die Privatklägerin nach Art. 73 Abs. 2 StGB abgetreten hatte (nach Zuerkennung einer staatlichen Ersatzforderung gemäss Art. 71 StGB). Im Strafurteil hiess es im Dispositiv: «... und wird davon Vormerk genommen, dass die Privatklägerin ihre Forderungen im entsprechenden Umfang an den Staat abgetreten hat». Der Schuldner wand ein, die Abtretung sei im Dispositiv nicht verbindlich verfügt worden und er habe Fr. 70'000.-- per Vergleich direkt an die Privatklägerin bezahlt, womit die Schuld getilgt sei. Das Bundesgericht verwarf beide Einwände:
+1. *Dispositivauslegung und Prüfungsumfang*: Aus der Formulierung des Dispositivs («es wird davon Vormerk genommen...») ergibt sich die vollzogene Abtretung hinreichend klar als urkundlicher Nachweis der Rechtsnachfolge. Das Rechtsöffnungsgericht prüft nicht den materiellen Bestand der Forderung, sondern ausschliesslich die formelle Vollstreckbarkeit aus dem vorgelegten Titel.
+2. *Tilgungseinrede (Art. 81 Abs. 1 SchKG)*: Eine Direktzahlung des Schuldners an die Privatklägerin (Zedentin) nach erlangter Kenntnis von der Abtretung befreit diesen nicht von seiner Schuld gegenüber dem Zessionar (Kanton; Art. 167 OR e contrario). Die Tilgungseinrede scheitert, da der Schuldner an die falsche Person geleistet hat. Praxisfolge: Leistet der Schuldner trotz Kenntnis der Abtretung an den ursprünglichen Gläubiger, tilgt er die titulierte Forderung des Zessionars nicht und trägt das volle Risiko einer doppelten Inanspruchnahme.
+
 ---
 
 ## Praxisfragen
@@ -150,6 +160,9 @@ Ja. Ausländische Urteile aus Vertragsstaaten des Lugano-Übereinkommens (LugÜ)
 
 ### 9. Wer ist bei Unterhaltsforderungen nach Eintritt der Volljährigkeit betreibungslegitimiert?
 Nach [BGE 142 III 78 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-142-III-78_2016.html#consideration_3) geht der Unterhaltsanspruch mit der Volljährigkeit des Kindes auf dieses über. Der ehemals sorgeberechtigte Elternteil ist nicht berechtigt, nach Eintritt der Volljährigkeit in eigenem Namen Unterhaltsbeiträge für die Zeit der Minderjährigkeit in Betreibung zu setzen und dafür Rechtsöffnung zu verlangen.
+
+### 10. Befreit eine Direktzahlung an die Privatklägerin den Schuldner, wenn der Anspruch an den Staat abgetreten wurde?
+Nein. Weiss der Schuldner um die Abtretung der Zivilforderung an das Gemeinwesen (z.B. im Rahmen von Art. 73 Abs. 2 StGB mit Vormerknahme im Dispositiv des Strafurteils), befreit ihn eine nachträgliche Direktzahlung oder ein Vergleich mit der Privatklägerin (Zedentin) nicht gegenüber dem Zessionar (Staat). Die Tilgungseinrede nach Art. 81 Abs. 1 SchKG scheitert, da an die nicht mehr empfangszuständige Person geleistet wurde ([BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026)).
 
 ---
 

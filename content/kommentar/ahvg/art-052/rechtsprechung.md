@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 52 AHVG"
 weight: 99
 date: 2026-10-27
-lastmod: 2026-10-27
+lastmod: 2026-11-18
 description: "Übersicht der Leitentscheide des Bundesgerichts und ausgewählter kantonaler Gerichtsentscheide zur Arbeitgeberhaftung und subsidiären Organhaftung nach Art. 52 AHVG."
 tags: ["Rechtsprechung", "AHVG", "Organhaftung", "Arbeitgeberhaftung", "Verwaltungsrat", "Verjährung", "Schadenersatz"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 9C_478/2025: Präzisierung der Strohmann-Haftung nach Art. 52 AHVG (Übernahmeverschulden des formellen GmbH-Geschäftsführers; fehlender Bankzugang unterbricht Kausalität nicht; Überwachungspflicht trotz Zahlungsplänen)."
   - date: 2026-10-27
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -62,6 +66,11 @@ revisions:
 ---
 
 ## II. Weitere Entscheide
+
+### Strohmann-Geschäftsführer einer GmbH: Übernahmeverschulden und fehlender Bankzugang
+[BGer 9C_478/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.10.2026_9C_478/2025) (22. Oktober 2026)
+* **Sachverhalt**: Formeller Geschäftsführer einer GmbH (A.________) agierte als reiner Strohmann («homme de paille») ohne Entlöhnung durch die Gesellschaft (sondern über seine Ein-Personen-GmbH) und ohne Zugriff auf die Bankkonten. Die Gesellschaft stellte die Beitragszahlungen an die Ausgleichskasse ein. Trotz zweier vereinbarter Ratenzahlungspläne, die nicht eingehalten wurden, fielen weitere Ausstände an, bis die Gesellschaft in Konkurs geriet. Die Ausgleichskasse nahm den Geschäftsführer nach Art. 52 AHVG für Beitragsausstände von Fr. 73'013.55 in Anspruch. Der Geschäftsführer wandte ein, keinen faktischen Einfluss und keinen Bankzugang besessen zu haben, von den Hintermännern getäuscht worden zu sein und auf die Ratenpläne vertraut zu haben.
+* **Kernaussage**: Wer formell ein Mandat als Geschäftsführer einer GmbH übernimmt, haftet nach Art. 52 AHVG unabhängig davon, ob er faktisch Einfluss auf die Geschäftsführung hatte. Die blosse Übernahme des Mandats ohne Absicht oder Möglichkeit zur tatsächlichen Ausübung begründet ein schweres Übernahmeverschulden (*culpa in eligendo* / *faute concomitante*). Weder der fehlende Bankzugang noch die Täuschung durch Hintermänner unterbrechen den adäquaten Kausalzusammenhang. Zudem entlastet die Vereinbarung von Ratenzahlungsplänen zwischen Gesellschaft und Kasse das Organ nicht von seiner Pflicht zur laufenden Kontrolle der Beitragsentrichtung.
 
 ### Haftung des Strohmann-Geschäftsführers einer GmbH und Übernahmeverschulden
 [BGer 9C_673/2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-673-2024_2025-03-11.html) (11. März 2025)

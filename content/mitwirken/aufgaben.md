@@ -23,17 +23,21 @@ vertiefen oder ein falsches Zitat korrigieren.
 
 Aufgrund des täglichen Rechtsprechungs-Monitors (Abgleich von Leitentscheiden via [bger-update.ch](https://bger-update.ch)) werden hier Bestimmungen zur Neuaufnahme vorgeschlagen, zu denen jüngst praxisprägende Urteile ergangen sind und deren Kommentierung für die Praxis besonderen Mehrwert bietet:
 
+- **Art. 373 OR** (Werkvertrag / Pauschalpreis und Zusatzarbeiten):
+  - *Hintergrund*: Urteil [4A_423/2025 vom 13.10.2026](https://www.bger-update.ch/zusammenfassung/35272/) (publiziert am 18.11.2026).
+  - *Praxisrelevanz*: Das Urteil präzisiert die Durchbrechung des Pauschalpreisprinzips nach Art. 373 Abs. 1 OR bei Zusatzarbeiten: Ein vereinbarter vertraglicher Schriftformvorbehalt für Mehrkosten und Zusatzofferten kann durch schlüssiges Verhalten (Duldung der Bauausführung, Weisungen der Bauleitung und Bezahlung von Akontozahlungen) stillschweigend nach Art. 16 OR aufgehoben werden. Von zentraler Bedeutung für Bauunternehmen, Bauleitungen und Besteller im privaten Baurecht.
 - **Art. 145a IPRG** (Wertpapiere / kollisionsrechtliche Qualifikation):
-  - *Hintergrund*: Kantonsgericht Freiburg [FR TC 101 2023 350](https://www.bger-update.ch/weitere/4614/) (hervorgehoben am 17.11.2026).
-  - *Praxisrelevanz*: Erste publizierte kantonale Anwendung des seit 2021 geltenden Art. 145a IPRG zur kollisionsrechtlichen Qualifikation von Forderungszertifikaten (Oil-Royalty-Zertifikate als Wertpapiere statt Anknüpfung über Art. 100 IPRG).
-- **Art. 175 ZGB** (Getrenntleben / Aufhebung des gemeinsamen Haushalts):
-  - *Hintergrund*: Leitentscheid [5A_539/2025 vom 02.09.2026](https://www.bger-update.ch/zusammenfassung/34331/). Präzisierung zur Verbindlichkeit und Wirkung aussergerichtlicher Trennungsvereinbarungen ohne gerichtliche Genehmigung (keine analoge Anwendung von Art. 279 ZPO ausserhalb hängiger Verfahren, Verbindlichkeit «auf Zusehen hin»).
-- **Art. 79b StGB** (Electronic Monitoring / Vollzugsformen):
-  - *Hintergrund*: Urteil [7B_699/2026 vom 10.11.2026](https://www.bger-update.ch/zusammenfassung/35105/). Bestätigung und Schärfung der Vollzugsvoraussetzungen von Electronic Monitoring: Das Verhältnismässigkeitsprinzip entbindet nicht von der zwingenden gesetzlichen Rückfall- und Gefährlichkeitsprognose.
-- **Art. 29quinquies AHVG** (Splitting der Beitragszeit und Einkommensteilung):
-  - *Hintergrund*: Urteil [9C_407/2025 vom 09.11.2026](https://www.bger-update.ch/zusammenfassung/35091/). Massgebend für das Ende der Splittingperiode bei Eintritt einer Invalidität ist der medizinisch-rechtliche Invaliditätseintritt und nicht der spätere Rentenzahlungsbeginn.
+  - *Hintergrund*: Kantonsgericht Freiburg [FR TC 101 2023 350](https://www.bger-update.ch/weitere/4614/) (hervorgehoben im November 2026).
+  - *Praxisrelevanz*: Erste publizierte kantonale Leitentscheidung zur Auslegung des seit 2021 in Kraft stehenden Art. 145a IPRG. Klärt die kollisionsrechtliche Qualifikation moderner Forderungszertifikate (Oil-Royalty-Zertifikate als Wertpapiere mit eigenständiger kollisionsrechtlicher Anknüpfung statt Anknüpfung über das Sachstatut nach Art. 100 IPRG).
 - **Art. 7 BGFA** (Kantonale Ausbildungsanforderungen und Praktika):
-  - *Hintergrund*: Urteil [2C_175/2026 vom 10.11.2026](https://www.bger-update.ch/zusammenfassung/35097/). Grundlegende Bestätigung der kantonalen Organisationsautonomie: Kantone dürfen ein Kanzleipraktikum zwingend verlangen; die Freizügigkeit nach Art. 7 BGFA schützt nicht vor kantonalen Zulassungsvoraussetzungen zum Anwaltsexamen.
+  - *Hintergrund*: Urteil [2C_175/2026 vom 10.11.2026](https://www.bger-update.ch/zusammenfassung/35097/).
+  - *Praxisrelevanz*: Grundlegende Bestätigung der kantonalen Organisationsautonomie im Anwaltsrecht: Kantone dürfen ein Kanzleipraktikum zwingend für die Zulassung zur kantonalen Anwaltsprüfung verlangen; die Freizügigkeit nach Art. 7 BGFA schützt nicht vor kantonalen Ausbildungsvoraussetzungen.
+- **Art. 69 ff. RTVG** (Haushaltabgabe für Radio und Fernsehen):
+  - *Hintergrund*: Urteil [9C_678/2026 vom 05.11.2026](https://www.bger-update.ch/zusammenfassung/35277/) (publiziert am 18.11.2026).
+  - *Praxisrelevanz*: Klärt die verwaltungs- und prozessrechtlichen Voraussetzungen der Abgabebefreiung (Art. 69b RTVG) sowie die Parteistellung und Rechtsmittellegitimation bei gemeinschaftlichen Haushalten.
+- **Art. 85bis IVV** (Verrechnung von Nachzahlungen / Kinderrenten):
+  - *Hintergrund*: Urteil [8C_509/2025](https://www.bger-update.ch/weitere/4211/) (hervorgehoben am 18.11.2026).
+  - *Praxisrelevanz*: Klärt das Verhältnis von Art. 85bis Abs. 2 lit. b IVV, Art. 85 ATSG und Art. 51 AVIG: Nachforderungs- und Nachzahlungsbeträge für Kinderrenten der Invalidenversicherung stehen als Verrechnungssubstrat für Vorleistungen der Arbeitslosenversicherung zur Verfügung; eine gesonderte Abtretungserklärung ist bei gesetzlichem Rückforderungsanspruch entbehrlich.
 
 ## Lücken aus bestehenden Themen
 

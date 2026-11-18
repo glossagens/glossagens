@@ -8,6 +8,10 @@ tags: ["Rechtsprechung", "StGB", "Verjährung", "Verfolgungsverjährung", "Ersti
 revisions:
   - date: 2026-11-18
     by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 6B_55/2026: Verjährungsbeendende Wirkung nach Art. 97 Abs. 3 StGB bei kassiertem und zurückgewiesenem Abwesenheitsurteil (Eingrenzung von BGE 146 IV 59 auf Neubeurteilungsverfahren)."
+  - date: 2026-11-18
+    by: "Antigravity"
     model: "gemini-3.8-flash"
     note: "Erstaufnahme der Rechtsprechungsübersicht mit 12 strukturierten Leitentscheiden und weiteren Urteilen. Sämtliche Entscheide über entscheidsuche.ch verlinkt, Erwägungsanker bei BGE geprüft."
 ---
@@ -28,6 +32,11 @@ revisions:
 [BGE 146 IV 59 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html#consideration_3.4)
 * **Sachverhalt:** Das Bezirksgericht Münchwilen verurteilte eine Beschuldigte am 21. Februar 2008 in Abwesenheit wegen Pfändungsbetrugs und weiterer Vergehen. Zehn Jahre später — am 20. März 2018 — bewilligte das Gericht auf ihr Gesuch hin eine Neubeurteilung (Art. 368 StPO) und fällte ein neues Urteil. Die Vorinstanz ging davon aus, das Abwesenheitsurteil von 2008 habe die Verjährung beendet.
 * **Kernaussage:** Ein Abwesenheitsurteil (Art. 366 StPO) gilt nur unter der resolutiven Bedingung, dass kein Gesuch um Neubeurteilung gutgeheissen wird, als erstinstanzliches Urteil im Sinne von Art. 97 Abs. 3 StGB. Wird eine Neubeurteilung durchgeführt, fällt das Abwesenheitsurteil ex tunc dahin. Die zwischen den beiden Urteilen verstrichene Zeit (hier 10 Jahre) ist voll an die Verjährung anzurechnen; die Taten waren verjährt.
+
+### Abwesenheitsurteil bei Berufungskassation: Keine Wiederbelebung der Verjährung (Eingrenzung von BGE 146 IV 59)
+[BGer 6B_55/2026 vom 24. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)
+* **Sachverhalt:** Vor Ablauf der 15-jährigen Verfolgungsverjährung fällte das Amtsgericht am 30. Mai 2022 ein Abwesenheitsurteil. Das Obergericht des Kantons Solothurn hob dieses Urteil auf Berufung hin am 12. Dezember 2022 nach Art. 409 StPO auf und wies die Sache zurück. Bei der Neuverurteilung am 3. September 2024 machte der Verurteilte Verfolgungsverjährung geltend, da die 15 Jahre im Sommer 2022 abgelaufen wären und das Urteil durch die Berufungskassation dahingefallen sei.
+* **Kernaussage:** Das Bundesgericht (I. strafrechtliche Abteilung: Muschietti, Guidon, Glassey; publiziert Mitte November 2026; besprochen auf bger-update.ch als Leitartikel) wies die Beschwerde ab: Art. 97 Abs. 3 StGB bestimmt, dass die Verjährung nicht mehr eintritt, wenn vor Ablauf der Verjährungsfrist ein erstinstanzliches Urteil ergangen ist. Dies gilt nach ständiger Rechtsprechung auch dann, wenn das erstinstanzliche Urteil später im Rechtsmittelverfahren aufgehoben und die Sache zurückgewiesen wird. BGer 6B_55/2026 klärt nun erstmals ausdrücklich, dass diese verjährungsbeendende Wirkung auch für Abwesenheitsurteile gilt, die im Berufungsverfahren nach Art. 409 StPO kassiert und zurückgewiesen werden. BGE 146 IV 59 (Dahinfallen unter resolutiver Bedingung bei Neubeurteilung) wird strikt auf das Neubeurteilungsverfahren (Art. 368 ff. StPO) beschränkt. Bei Berufungskassation lebt die Verfolgungsverjährung nach Art. 97 Abs. 3 StGB nicht wieder auf.
 
 ### Verjährungsbeendigung für den gesamten Lebenssachverhalt trotz rechtlicher Umqualifikation
 [BGE 143 IV 450 E. 1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-450_2017.html#consideration_1)

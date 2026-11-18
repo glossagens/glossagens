@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 336 OR"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-09-04
+lastmod: 2026-11-18
 description: "Übersicht der Entscheide zu Art. 336 OR — missbräuchliche Kündigung des Arbeitsvertrags: Leitentscheide des Bundesgerichts zu den benannten und ungeschriebenen Missbrauchstatbeständen, zu Motivkausalität, Beweismass und Einspracheobliegenheit sowie ausgewählte kantonale Entscheide."
 tags: ["OR", "Arbeitsvertrag", "Kündigung", "missbräuchliche Kündigung", "Arbeitsrecht", "Rechtsprechung"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 4A_445/2025: Missbräuchlichkeit der Kündigung nach gescheiterter Änderungskündigung bei Ausnutzung einer arbeitgeberseitigen Fürsorgepflichtverletzung (Art. 328/336 OR)."
   - date: 2026-09-04
     by: "Claude Code"
     model: "claude-opus-5"
@@ -201,6 +205,18 @@ Ausführliche Auswertung mit den Sachverhalten: → [Kommentar zu Art. 336 OR](.
 **KERNAUSSAGE:** Eine Änderungskündigung ist nicht bereits als solche missbräuchlich; missbräuchlich ist sie, wenn die Kündigung als Druckmittel für eine sachlich nicht gerechtfertigte Vertragsänderung dient oder wenn eine Änderung ohne Einhaltung der Kündigungsfrist erzwungen werden soll. Die Weigerung, eine sofortige Lohnreduktion anzunehmen, ist Geltendmachung eines Anspruchs im Sinne von Art. 336 Abs. 1 lit. d OR. Die Einsprache nach Art. 336b OR muss nicht begründet werden; die gekündigte Person muss keine Kompromissvorschläge unterbreiten. Kriterien für die Entschädigung nach Art. 336a OR.
 
 **EINSCHLÄGIG FÜR:** Art. 336 Abs. 1 lit. a, lit. c und lit. d, Art. 336a und Art. 336b OR
+
+---
+
+### [BGer 4A_445/2025 vom 9. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_4A_445/2025) — Änderungskündigung und Ausnutzung einer Fürsorgepflichtverletzung
+
+**THEMA:** Ungeschriebener Missbrauchstatbestand / Änderungskündigung / Fürsorgepflichtverletzung / Beweislast
+
+**SACHVERHALT:** Eine leitende Oberärztin bzw. Chefärztin (*médecin-chef*) einer Viszeralchirurgie wurde nach internen Reibungen und einer intraoperativen Komplikation vom Spitalbetreiber suspendiert. Obwohl ein daraufhin eingeholtes externes medizinisches Fachgutachten ihr ein fachlich vollkommen korrektes Vorgehen attestierte, verweigerte das Spital die zugesagte Wiedereinsetzung und unterliess eine objektive Klärung des internen Konflikts. Stattdessen unterbreitete es ihr eine Änderungskündigung (*congé-modification*) mit massiver Verschlechterung der Anstellungsbedingungen (Demotion und erhebliche Lohnkürzung). Nachdem die Ärztin die Annahme des Änderungsangebots verweigert hatte, kündigte das Spital das Arbeitsverhältnis ordentlich.
+
+**KERNAUSSAGE:** Die Kündigungsfreiheit findet ihre Grenze am Missbrauchsverbot (Art. 336 OR). Verletzt der Arbeitgeber seine Fürsorgepflicht (Art. 328 OR), indem er trotz deutlicher Alarmsignale keine objektive Untersuchung des Teamkonflikts anordnet, eine Mitarbeiterin trotz entlastenden Fachgutachtens im Abseits stehen lässt und die selbst herbeigeführte Notlage ausnutzt, um eine massive Verschlechterung der Arbeitsbedingungen durchzusetzen, ist die nach Ablehnung der Änderungskündigung ausgesprochene Kündigung missbräuchlich. Werden die vom Arbeitgeber zur Rechtfertigung vorgeschobenen sachlichen Vorwürfe im Verfahren vollumfänglich widerlegt, begründet dies ein starkes Indiz für die Missbräuchlichkeit des Kündigungsmotivs.
+
+**EINSCHLÄGIG FÜR:** Art. 336 Abs. 1, Art. 328 OR
 
 ---
 

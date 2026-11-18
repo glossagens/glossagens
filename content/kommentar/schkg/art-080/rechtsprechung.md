@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 80 SchKG"
 weight: 99
 date: 2026-09-12
-lastmod: 2026-09-13
-description: "Übersicht der Rechtsprechung zu Art. 80 SchKG — Definitive Rechtsöffnung, Vollstreckungstitel, gerichtliche Vergleiche, Verwaltungsverfügungen, Ausländische Titel (LugÜ), Aberkennungsurteil, Prozessstandschaft, Prüfungsbefugnis, Grenzkasuistik."
-tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "gerichtlicher Vergleich", "LugÜ", "Aberkennungsurteil", "Prüfungsbefugnis", "Grenzkasuistik"]
+lastmod: 2026-11-18
+description: "Übersicht der Rechtsprechung zu Art. 80 SchKG — Definitive Rechtsöffnung, Vollstreckungstitel, gerichtliche Vergleiche, Verwaltungsverfügungen, Zession im Strafurteil (BGer 4A_291/2026), Ausländische Titel (LugÜ), Aberkennungsurteil, Prozessstandschaft, Prüfungsbefugnis, Grenzkasuistik."
+tags: ["Rechtsprechung", "SchKG", "Rechtsöffnung", "definitive Rechtsöffnung", "Vollstreckungstitel", "gerichtlicher Vergleich", "LugÜ", "Aberkennungsurteil", "Prüfungsbefugnis", "Grenzkasuistik", "Zession"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 4A_291/2026 (5er-Besetzung, zur Publikation vorgesehen): Definitive Rechtsöffnung für durch Strafurteil nach Art. 73 Abs. 2 StGB abgetretene Schadenersatzforderung; Dispositivauslegung und Scheitern der Tilgungseinrede bei Direktzahlung an Zedent."
   - date: 2026-09-13
     by: "Claude Code"
     model: "glm-5.1"
@@ -33,6 +37,17 @@ revisions:
 Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kantonalen Gerichtspraxis zur definitiven Rechtsöffnung nach Art. 80 SchKG.
 
 ## I. Leitentscheide des Bundesgerichts (BGE)
+
+### [BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026) (zur Publikation vorgesehen)
+- **Thema**: Definitive Rechtsöffnung für abgetretene Schadenersatzforderung aus Strafurteil (Art. 73 Abs. 2 StGB); Dispositivauslegung und Prüfungsbefugnis; Scheitern der Tilgungseinrede bei Direktzahlung an Zedent (Art. 81 Abs. 1 SchKG)
+- **Kernaussage**:
+  1. *Definitive Rechtsöffnung für abgetretene Schadenersatzforderung*: Der Zessionar (Gemeinwesen/Kanton) kann sich gestützt auf ein Strafurteil auf den Rechtsöffnungstitel des Zedenten berufen, wenn die Rechtsnachfolge liquide nachgewiesen ist.
+  2. *Dispositivauslegung und Prüfungsbefugnis*: Aus der Dispositivformulierung («... und wird davon Vormerk genommen, dass die Privatklägerin ihre Forderungen im entsprechenden Umfang an den Staat abgetreten hat») ergibt sich die vollzogene Abtretung hinreichend klar als liquider Nachweis der Rechtsnachfolge. Das Rechtsöffnungsgericht prüft nicht den materiellen Bestand der Forderung, sondern ausschliesslich die formelle Vollstreckbarkeit aus dem vorgelegten Titel.
+  3. *Scheitern der Tilgungseinrede (Art. 81 Abs. 1 SchKG)*: Eine Direktzahlung des Schuldners an die Privatklägerin (Zedentin) nach Kenntnis der Abtretung befreit ihn nicht von der Schuld gegenüber dem Zessionar (Staat; Art. 167 OR e contrario). Die Tilgungseinrede scheitert, da der Schuldner an die falsche Person geleistet hat.
+- **Konkreter Sachverhalt**: Der Kanton Zürich betrieb einen verurteilten Straftäter für Fr. 70'000.-- aus einer zivilrechtlichen Schadenersatzforderung, die ihm die Privatklägerin gemäss Art. 73 Abs. 2 StGB abgetreten hatte (nach Zuerkennung einer Ersatzforderung an den Staat nach Art. 71 StGB). Im Strafurteil hiess es: «... und wird davon Vormerk genommen, dass die Privatklägerin ihre Forderungen im entsprechenden Umfang an den Staat abgetreten hat». Der Schuldner machte im Rechtsöffnungsverfahren geltend, die Abtretung sei im Dispositiv nicht verbindlich verfügt worden und er habe Fr. 70'000.-- per Vergleich direkt an die Privatklägerin bezahlt, womit die Schuld getilgt sei. Das Bundesgericht (I. zivilrechtliche Abteilung, Fünferbesetzung: Hurni, Kiss, Denys, Rüedi, Eddé) wies die Beschwerde des Schuldners ab.
+- **Einschlägig für**: Art. 80 Abs. 1 SchKG; Art. 81 Abs. 1 SchKG; Art. 73 Abs. 2 StGB; Art. 164 ff. OR
+
+---
 
 ### [BGE 143 III 564](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-143-III-564_2017.html) (2017)
 - **Thema**: Definitive Rechtsöffnung; Auslegung gerichtlicher Vergleiche; Verbot richterlicher Vertragsauslegung
@@ -201,4 +216,4 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide sowie der kanton
 
 ---
 
-*Letzte Aktualisierung: 2026-09-13*
+*Letzte Aktualisierung: 2026-11-18*

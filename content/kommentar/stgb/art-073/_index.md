@@ -2,10 +2,14 @@
 title: "Art. 73 — Verwendung zu Gunsten des Geschädigten"
 weight: 73
 date: 2026-08-29
-lastmod: 2026-10-15
+lastmod: 2026-11-18
 description: "Praxisorientierter Kommentar zu Art. 73 StGB: Zusprechung eingezogener Vermögenswerte, Ersatzforderungen, Geldstrafen und Bussen an den Geschädigten; Antragsprinzip, Abtretungspflicht, Aktivlegitimation des Versicherers, Subsidiarität zur direkten Aushändigung nach Art. 70 Abs. 1 a.E., kantonales Nachverfahren (Abs. 3) sowie Kasuistik."
 tags: ["StGB", "Einziehung", "Zusprechung", "Geschädigter", "Abtretung", "Versicherer", "Subsidiarität", "Nachverfahren", "Kasuistik", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 4A_291/2026 (5er-Besetzung, zur Publikation vorgesehen): Wirksamkeit der Abtretung im Strafurteilsdispositiv nach Art. 73 Abs. 2 StGB und keine Tilgungswirkung einer Direktzahlung an die Privatklägerin."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -117,15 +121,22 @@ Diese Ausnahme gilt **nur** bei der Zusprechung von eingezogenen Vermögenswerte
 
 **17** Die Abtretung ist eine **empfängnisbedürftige Willenserklärung**, die formlos, aber **unbedingt** und **eindeutig** sein muss. Eine bedingte Abtretung genügt nicht, da sie den Rechtsverkehr über die Forderungszuweisung in Schwebe halten würde. Das Bundesgericht hat in **[BGE 145 IV 237](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html)** festgehalten, dass die kantonale Instanz zu Unrecht eine doppelt bedingte Abtretung als ungültig qualifiziert hatte, da im konkreten Kontext (Einziehung nach Art. 70 StGB bei Individualdelikt) ohnehin keine Abtretung erforderlich gewesen wäre ([BGE 145 IV 237 E. 5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.2); [ZH Obergericht SB130459 vom 18.02.2015](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB130459_2015-02-18.pdf)).
 
+### 4. Vollzug im Strafurteilsdispositiv, Gläubigerstellung des Staates und Ausschluss der Tilgung bei Direktzahlung
+
+**18** Die zivil- und vollstreckungsrechtliche Tragweite der Abtretung nach Art. 73 Abs. 2 StGB hat das Bundesgericht in **[BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026)** (I. zivilrechtliche Abteilung, Fünferbesetzung, zur Publikation vorgesehen) grundlegend geklärt:
+- **Auslegung des Strafurteilsdispositivs**: Verwendet das Sachgericht im Urteilsdispositiv die Klausel, dass die Gerichtskasse angewiesen wird, den Erlös an die Privatklägerschaft auszurichten, und «davon Vormerk genommen wird, dass die Privatklägerin ihre Forderungen im entsprechenden Umfang an den Staat abgetreten hat», so handelt es sich nicht um die blosse Absichtserklärung einer noch vorzunehmenden Abtretung. Bei objektiver Auslegung beurkundet das Dispositiv vielmehr den **formell und materiell bereits wirksam vollzogenen Abtretungsakt**. Ein gesonderter Zessionsvertrag oder eine nachträgliche schriftliche Erklärung ist nicht erforderlich.
+- **Materielle Gläubigerstellung und definitiver Rechtsöffnungstitel**: Durch den wirksamen Vollzug der Abtretung im Strafurteil wird das Gemeinwesen **materieller Gläubiger** der Schadenersatzforderung gegenüber dem verurteilten Täter. Das Strafurteil bildet für den Staat einen **definitiven Rechtsöffnungstitel** im Sinne von [Art. 80 SchKG](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#art_80).
+- **Keine befreiende Wirkung von Direktzahlungen ([Art. 167 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_167))**: Leistet der Verurteilte nach rechtskräftigem Abschluss des Strafverfahrens Zahlungen direkt an die Privatklägerin — etwa gestützt auf eine nachträglich mit ihr geschlossene Raten- oder Erlassvereinbarung —, so tilgt dies die Forderung gegenüber dem Staat **nicht**. Da der Verurteilte durch das Strafurteil Kenntnis vom Übergang der Forderung auf das Gemeinwesen hatte, fehlt es ihm an der Gutgläubigkeit nach Art. 167 OR. Das kantonale Inkasso kann die Forderung ungeachtet der Direktzahlung auf dem Betreibungsweg durchsetzen; der Einwand der Tilgung nach [Art. 81 Abs. 1 SchKG](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#art_81) ist ausgeschlossen.
+
 ---
 
 ## V. Aktivlegitimation des subrogierenden Versicherers
 
-**18** Hat ein Sach- oder Vermögensversicherer den Schaden des Geschädigten **vollumfänglich oder teilweise reguliert**, geht der Schadenersatzanspruch gemäss [Art. 72 VVG](https://www.fedlex.admin.ch/eli/cc/221_229_1/de#art_72) legalzessorisch auf den Versicherer über. Dieser ist aktivlegitimiert, die Zusprechung nach Art. 73 Abs. 1 lit. b StGB für sich zu beanspruchen ([BGE 145 IV 237 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.1)).
+**19** Hat ein Sach- oder Vermögensversicherer den Schaden des Geschädigten **vollumfänglich oder teilweise reguliert**, geht der Schadenersatzanspruch gemäss [Art. 72 VVG](https://www.fedlex.admin.ch/eli/cc/221_229_1/de#art_72) legalzessorisch auf den Versicherer über. Dieser ist aktivlegitimiert, die Zusprechung nach Art. 73 Abs. 1 lit. b StGB für sich zu beanspruchen ([BGE 145 IV 237 E. 5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.1)).
 
-**19** Das Bundesgericht hat in **[BGE 145 IV 237](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html)** erstmals ausdrücklich klargestellt, dass der Versicherer als **mittelbar Geschädigter** (*Reflexgeschädigter*) im Sinne von Art. 73 StGB aktivlegitimiert ist. Dies gilt jedenfalls im Kontext der Zusprechung eingezogener Vermögenswerte nach lit. b i.V.m. Art. 70 StGB bei Individualdelikten. Eine gegenteilige Lösung würde dazu führen, dass der Staat sich auf Kosten des Versicherers bereichert und der Täter doppelt belastet wird ([BGE 145 IV 237 E. 5.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.1.2)).
+**20** Das Bundesgericht hat in **[BGE 145 IV 237](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html)** erstmals ausdrücklich klargestellt, dass der Versicherer als **mittelbar Geschädigter** (*Reflexgeschädigter*) im Sinne von Art. 73 StGB aktivlegitimiert ist. Dies gilt jedenfalls im Kontext der Zusprechung eingezogener Vermögenswerte nach lit. b i.V.m. Art. 70 StGB bei Individualdelikten. Eine gegenteilige Lösung würde dazu führen, dass der Staat sich auf Kosten des Versicherers bereichert und der Täter doppelt belastet wird ([BGE 145 IV 237 E. 5.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.1.2)).
 
-**20** Bei der Zusprechung an den Versicherer sind die Voraussetzungen des **nicht versicherten Schadens** und der **Uneinbringlichkeit** im Kontext von Individualdelikten entbehrlich: Die Einziehung und die Zusprechung dienen hier dem Geschädigten (bzw. seinem Subrogatar), und die Versicherung hat den Schaden gerade getragen, weil der Täter ihn nicht ersetzt hat ([BGE 145 IV 237 E. 5.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.1.2); Baumann, BSK StGB I, N. 13 f. zu Art. 73 StGB).
+**21** Bei der Zusprechung an den Versicherer sind die Voraussetzungen des **nicht versicherten Schadens** und der **Uneinbringlichkeit** im Kontext von Individualdelikten entbehrlich: Die Einziehung und die Zusprechung dienen hier dem Geschädigten (bzw. seinem Subrogatar), und die Versicherung hat den Schaden gerade getragen, weil der Täter ihn nicht ersetzt hat ([BGE 145 IV 237 E. 5.1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.1.2); Baumann, BSK StGB I, N. 13 f. zu Art. 73 StGB).
 
 ---
 
@@ -133,19 +144,19 @@ Diese Ausnahme gilt **nur** bei der Zusprechung von eingezogenen Vermögenswerte
 
 ### 1. Abs. 3 als Gesetzgebungsauftrag
 
-**21** Art. 73 Abs. 3 StGB richtet sich als **Gesetzgebungsauftrag** ausschliesslich an die Kantone. Die Bestimmung ist **nicht direkt anwendbar**; der Geschädigte kann daraus keine Ansprüche auf ein besonderes Verfahren oder auf eine adhäsionsweise Beurteilung der Zivilforderungen im Strafverfahren ableiten ([BGer 6B_405/2008 E. 1.3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-405-2008_2008-12-12.html#consideration_1.3.4); Schmid, a.a.O., N. 67 zu Art. 73 StGB).
+**22** Art. 73 Abs. 3 StGB richtet sich als **Gesetzgebungsauftrag** ausschliesslich an die Kantone. Die Bestimmung ist **nicht direkt anwendbar**; der Geschädigte kann daraus keine Ansprüche auf ein besonderes Verfahren oder auf eine adhäsionsweise Beurteilung der Zivilforderungen im Strafverfahren ableiten ([BGer 6B_405/2008 E. 1.3.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-405-2008_2008-12-12.html#consideration_1.3.4); Schmid, a.a.O., N. 67 zu Art. 73 StGB).
 
 ### 2. Kantonales Nachverfahren
 
-**22** Die Kantone haben einfache und rasche Verfahren vorzusehen, mit denen die Zusprechung nachträglich angeordnet werden kann, wenn sie im Strafurteil nicht mehr möglich ist (z.B. weil der Geschädigte sich erst nach dem Urteil meldet oder weil die Einziehung bereits rechtskräftig vollzogen wurde). In der Praxis der Kantone wird diese Aufgabe durch verwaltungsrechtliche Verfügung der Staatsanwaltschaft oder durch ein summarisches gerichtliches Verfahren erfüllt ([ZH Obergericht SB150503 vom 30.01.2017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB150503_2017-01-30.pdf); [BStGer BB.2020.164 vom 09.12.2020](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-164_2020-12-09.pdf)).
+**23** Die Kantone haben einfache und rasche Verfahren vorzusehen, mit denen die Zusprechung nachträglich angeordnet werden kann, wenn sie im Strafurteil nicht mehr möglich ist (z.B. weil der Geschädigte sich erst nach dem Urteil meldet oder weil die Einziehung bereits rechtskräftig vollzogen wurde). In der Praxis der Kantone wird diese Aufgabe durch verwaltungsrechtliche Verfügung der Staatsanwaltschaft oder durch ein summarisches gerichtliches Verfahren erfüllt ([ZH Obergericht SB150503 vom 30.01.2017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB150503_2017-01-30.pdf); [BStGer BB.2020.164 vom 09.12.2020](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-164_2020-12-09.pdf)).
 
-**23** Ein solches Nachverfahren ist auch zulässig, wenn der Antrag vor dem erstinstanzlichen Einziehungsentscheid gestellt, jedoch darin nicht beurteilt wurde. Die Einziehung zu Gunsten des Staates steht einer späteren Verwendung nach Art. 73 StGB **grundsätzlich nicht entgegen** ([BGer 6B_53/2009 E. 2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.6); Schmid, a.a.O., N. 71 zu Art. 73 StGB).
+**24** Ein solches Nachverfahren ist auch zulässig, wenn der Antrag vor dem erstinstanzlichen Einziehungsentscheid gestellt, jedoch darin nicht beurteilt wurde. Die Einziehung zu Gunsten des Staates steht einer späteren Verwendung nach Art. 73 StGB **grundsätzlich nicht entgegen** ([BGer 6B_53/2009 E. 2.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.6); Schmid, a.a.O., N. 71 zu Art. 73 StGB).
 
 ### 3. Verfahrensbeteiligung des Geschädigten
 
-**24** Der Geschädigte hat gestützt auf Art. 73 StGB **auch ohne vorgängige Konstituierung als Privatkläger** ein rechtlich geschütztes Interesse, in das selbstständige Einziehungsverfahren einbezogen zu werden, und ihm stehen die entsprechenden Partei- und Verfahrensrechte zu ([BGer 1B_581/2012 E. 2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-581-2012_2012-11-27.html#consideration_2.5); Schmid, StPO-Praxiskommentar, 2009, N. 3 zu Art. 105 StPO).
+**25** Der Geschädigte hat gestützt auf Art. 73 StGB **auch ohne vorgängige Konstituierung als Privatkläger** ein rechtlich geschütztes Interesse, in das selbstständige Einziehungsverfahren einbezogen zu werden, und ihm stehen die entsprechenden Partei- und Verfahrensrechte zu ([BGer 1B_581/2012 E. 2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-581-2012_2012-11-27.html#consideration_2.5); Schmid, StPO-Praxiskommentar, 2009, N. 3 zu Art. 105 StPO).
 
-**25** Der Antrag nach Art. 73 StGB kann auch noch im **Berufungsverfahren** gestellt werden ([BGer 6B_53/2009 E. 2.7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.7)). Die Vorinstanz ist verpflichtet, über einen gestellten Antrag sachlich zu befinden; ein blosses Nichteintreten verletzt Art. 73 StGB ([BGer 6B_53/2009 E. 2.8](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.8)).
+**26** Der Antrag nach Art. 73 StGB kann auch noch im **Berufungsverfahren** gestellt werden ([BGer 6B_53/2009 E. 2.7](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.7)). Die Vorinstanz ist verpflichtet, über einen gestellten Antrag sachlich zu befinden; ein blosses Nichteintreten verletzt Art. 73 StGB ([BGer 6B_53/2009 E. 2.8](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.8)).
 
 ---
 
@@ -153,11 +164,11 @@ Diese Ausnahme gilt **nur** bei der Zusprechung von eingezogenen Vermögenswerte
 
 ### 1. Kein Ausschluss der Adhäsionsklage
 
-**26** Die Zusprechung nach Art. 73 StGB schliesst die Geltendmachung von Zivilansprüchen im Strafverfahren (Adhäsionsklage nach [Art. 117 ff. StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_117)) nicht aus. Beide Wege stehen dem Geschädigten nebeneinander offen. Der Geschädigte kann sowohl Schadenersatz im Zivilpunkt des Strafurteils beanspruchen als auch die Zusprechung eingezogener Vermögenswerte nach Art. 73 StGB verlangen, sofern die kumulativen Voraussetzungen beider Bestimmungen erfüllt sind. Das Doppelbelastungsverbot wird durch die Abtretungspflicht nach Abs. 2 sichergestellt (vgl. [BGE 145 IV 237 E. 5.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.2.1)).
+**27** Die Zusprechung nach Art. 73 StGB schliesst die Geltendmachung von Zivilansprüchen im Strafverfahren (Adhäsionsklage nach [Art. 117 ff. StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_117)) nicht aus. Beide Wege stehen dem Geschädigten nebeneinander offen. Der Geschädigte kann sowohl Schadenersatz im Zivilpunkt des Strafurteils beanspruchen als auch die Zusprechung eingezogener Vermögenswerte nach Art. 73 StGB verlangen, sofern die kumulativen Voraussetzungen beider Bestimmungen erfüllt sind. Das Doppelbelastungsverbot wird durch die Abtretungspflicht nach Abs. 2 sichergestellt (vgl. [BGE 145 IV 237 E. 5.2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_5.2.1)).
 
 ### 2. Konkurrenz mit der direkten Aushändigung nach Art. 70 Abs. 1 a.E. StGB
 
-**27** Soweit die Originalwerte noch identifizierbar und direkt an den Geschädigten zurückgebbar sind, gebührt die **direkte Aushändigung nach Art. 70 Abs. 1 a.E. StGB** absolutem Vorrang. Die Zusprechung nach Art. 73 StGB tritt erst ein, wenn eine direkte Aushändigung nicht mehr möglich ist (weil die Werte bereits verwertet, verbraucht oder nicht mehr greifbar sind) oder wenn die Einziehung bereits zu Gunsten des Staates vollzogen wurde ([BGE 145 IV 237 E. 3.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_3.2.2); [BGer 6B_53/2009 E. 2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.5)).
+**28** Soweit die Originalwerte noch identifizierbar und direkt an den Geschädigten zurückgebbar sind, gebührt die **direkte Aushändigung nach Art. 70 Abs. 1 a.E. StGB** absolutem Vorrang. Die Zusprechung nach Art. 73 StGB tritt erst ein, wenn eine direkte Aushändigung nicht mehr möglich ist (weil die Werte bereits verwertet, verbraucht oder nicht mehr greifbar sind) oder wenn die Einziehung bereits zu Gunsten des Staates vollzogen wurde ([BGE 145 IV 237 E. 3.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html#consideration_3.2.2); [BGer 6B_53/2009 E. 2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html#consideration_2.5)).
 
 ---
 
@@ -165,36 +176,65 @@ Diese Ausnahme gilt **nur** bei der Zusprechung von eingezogenen Vermögenswerte
 
 ### 1. Verwertungserlös eines beschlagnahmten Fahrzeugs (BGer 6B_53/2009)
 
-**28** In **[BGer 6B_53/2009 vom 24.08.2009](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html)** hatte das Obergericht Zug den Antrag der Geschädigten auf Zusprechung des Verwertungserlöses eines eingezogenen Personenwagens (CHF 52'013.80) nach Art. 73 StGB nicht beurteilt, sondern ihn als durch die erstinstanzliche Einziehungsverfügung abgewiesen erachtet.
+**29** In **[BGer 6B_53/2009 vom 24.08.2009](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-53-2009_2009-08-24.html)** hatte das Obergericht Zug den Antrag der Geschädigten auf Zusprechung des Verwertungserlöses eines eingezogenen Personenwagens (CHF 52'013.80) nach Art. 73 StGB nicht beurteilt, sondern ihn als durch die erstinstanzliche Einziehungsverfügung abgewiesen erachtet.
 - *Entscheid des Bundesgerichts*: Die erstinstanzliche Einziehung des Verwertungserlöses zu Gunsten des Staates steht einer späteren Zusprechung nach Art. 73 StGB **nicht entgegen**. Die Vorinstanz hätte den Antrag sachlich beurteilen müssen. Aufhebung und Zurückweisung (E. 2.4–2.8).
 
 ### 2. Aktivlegitimation und Akteneinsicht im selbstständigen Einziehungsverfahren (BGer 1B_581/2012)
 
-**29** In **[BGer 1B_581/2012 vom 27.11.2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-581-2012_2012-11-27.html)** verweigerte die Staatsanwaltschaft Nidwalden dem mutmasslich Geschädigten die Akteneinsicht im selbstständigen Einziehungsverfahren mit der Begründung, es fehle ein glaubhafter Bezug zwischen seinem Schaden und dem beschlagnahmten Konto.
+**30** In **[BGer 1B_581/2012 vom 27.11.2012](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-581-2012_2012-11-27.html)** verweigerte die Staatsanwaltschaft Nidwalden dem mutmasslich Geschädigten die Akteneinsicht im selbstständigen Einziehungsverfahren mit der Begründung, es fehle ein glaubhafter Bezug zwischen seinem Schaden und dem beschlagnahmten Konto.
 - *Entscheid des Bundesgerichts*: Art. 73 StGB setzt einen direkten Konnex zwischen dem Anlassdelikt und der Geschädigtenstellung voraus — **nicht** aber zwischen dem Anlassdelikt und dem beschlagnahmten Vermögenswert. Dem mutmasslich Geschädigten steht die Akteneinsicht zu, um beurteilen zu können, ob er sich als Privatkläger konstituieren will (E. 2.5).
 
 ### 3. Fehlender rechtskräftiger Schadenersatz: Keine Zusprechung (BGer 6B_405/2008)
 
-**30** In **[BGer 6B_405/2008 vom 12.12.2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-405-2008_2008-12-12.html)** verweist das Kantonsgericht St. Gallen die Zivilforderungen des Geschädigten auf den Zivilweg und lehnt die Zusprechung nach Art. 73 StGB ab.
+**31** In **[BGer 6B_405/2008 vom 12.12.2008](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-405-2008_2008-12-12.html)** verweist das Kantonsgericht St. Gallen die Zivilforderungen des Geschädigten auf den Zivilweg und lehnt die Zusprechung nach Art. 73 StGB ab.
 - *Entscheid des Bundesgerichts*: Die Zusprechung nach Art. 73 StGB setzt zwingend voraus, dass der Schadenersatz gerichtlich oder durch Vergleich **festgesetzt** ist. Fehlt ein rechtskräftiger Ziviltitel, ist die Zusprechung nicht möglich. Art. 73 Abs. 3 StGB gewährt keinen Anspruch auf ein adhäsionsartiges Verfahren; es handelt sich um einen Gesetzgebungsauftrag an die Kantone (E. 1.3.3–1.3.4).
 
 ### 4. Versicherer als Geschädigter und Entbehrlichkeit der Abtretung (BGE 145 IV 237)
 
-**31** In **[BGE 145 IV 237](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html)** (Qualifizierter Vertrauensmissbrauch, Urkundenfälschung, Geldwäscherei) hatte eine Versicherung (A. Ltd) den Geschädigten (C. SA) mit EUR 1'022'285.73 entschädigt und begehrte die Zusprechung der eingezogenen marokkanischen Immobilien nach Art. 73 Abs. 1 lit. b StGB. Die Vorinstanzen hatten die Zusprechung wegen mangelhafter Abtretung abgelehnt.
+**32** In **[BGE 145 IV 237](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-237_2019.html)** (Qualifizierter Vertrauensmissbrauch, Urkundenfälschung, Geldwäscherei) hatte eine Versicherung (A. Ltd) den Geschädigten (C. SA) mit EUR 1'022'285.73 entschädigt und begehrte die Zusprechung der eingezogenen marokkanischen Immobilien nach Art. 73 Abs. 1 lit. b StGB. Die Vorinstanzen hatten die Zusprechung wegen mangelhafter Abtretung abgelehnt.
 - *Entscheid des Bundesgerichts*: (1) Der Versicherer, der den Geschädigten entschädigt hat, ist **aktivlegitimiert**, die Zusprechung nach Art. 73 Abs. 1 lit. b StGB zu verlangen (E. 5.1). (2) Bei Einziehung nach Art. 70 StGB wegen **Individualdelikten** ist die **Abtretungspflicht nach Abs. 2 entbehrlich**, da die Einziehung bereits im Interesse des Geschädigten erfolgt und ein Doppelbereicherungsrisiko ausgeschlossen ist (E. 5.2). Aufhebung und Zurückweisung.
 
 ### 5. Zusprechung im Rückweisungsverfahren (BGer 6B_107/2021)
 
-**32** In **[BGer 6B_107/2021 vom 18.05.2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-107-2021_2022-05-18.html)** (Gewerbsmässiger Betrug) verlangte die Geschädigte die Zusprechung eingezogener Vermögenswerte auf einem Bankkonto im Rahmen eines bundesgerichtlichen Rückweisungsverfahrens, obwohl die Einziehung dieses Kontos nicht Gegenstand des Rückweisungsentscheids war.
+**33** In **[BGer 6B_107/2021 vom 18.05.2022](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-107-2021_2022-05-18.html)** (Gewerbsmässiger Betrug) verlangte die Geschädigte die Zusprechung eingezogener Vermögenswerte auf einem Bankkonto im Rahmen eines bundesgerichtlichen Rückweisungsverfahrens, obwohl die Einziehung dieses Kontos nicht Gegenstand des Rückweisungsentscheids war.
 - *Entscheid des Bundesgerichts*: Der Rückweisungsentscheid bindet die Vorinstanz auf den Gegenstand der neuen Beurteilung. Der Antrag auf Zusprechung eines Kontos, das nicht Gegenstand des Rückweisungsverfahrens war, musste im dafür vorgesehenen **Nachverfahren** geltend gemacht werden. Das Nichteintreten der Erstinstanz verstösst nicht gegen den Grundsatz der materiellen Wahrheit (E. 2.3.3).
 
 ### 6. Kantonale Praxis: Zusprechung im Einstellungsverfahren (BStGer BB.2020.164)
 
-**33** Das Bundesstrafgericht hat in mehreren Entscheiden aus dem Jahr 2020 klargestellt, dass der Antrag auf Zusprechung nach Art. 73 StGB auch im Rahmen einer **Einstellungsverfügung nach Art. 320 Abs. 2 StPO** gestellt und beurteilt werden kann ([BStGer BB.2020.164 vom 09.12.2020](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-164_2020-12-09.pdf); [BStGer BB.2020.171 vom 09.12.2020](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-171_2020-12-09.pdf)). Wenn die Staatsanwaltschaft über die Einziehung entscheidet, muss sie auch über Anträge nach Art. 73 StGB befinden, sofern die Voraussetzungen beurteilt werden können (Thommen, in: Ackermann [Hrsg.], Kommentar Kriminelles Vermögen, 2018, N. 20 und 93 zu Art. 73 StGB).
+**34** Das Bundesstrafgericht hat in mehreren Entscheiden aus dem Jahr 2020 klargestellt, dass der Antrag auf Zusprechung nach Art. 73 StGB auch im Rahmen einer **Einstellungsverfügung nach Art. 320 Abs. 2 StPO** gestellt und beurteilt werden kann ([BStGer BB.2020.164 vom 09.12.2020](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-164_2020-12-09.pdf); [BStGer BB.2020.171 vom 09.12.2020](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-171_2020-12-09.pdf)). Wenn die Staatsanwaltschaft über die Einziehung entscheidet, muss sie auch über Anträge nach Art. 73 StGB befinden, sofern die Voraussetzungen beurteilt werden können (Thommen, in: Ackermann [Hrsg.], Kommentar Kriminelles Vermögen, 2018, N. 20 und 93 zu Art. 73 StGB).
+
+### 7. Vollzug der Abtretung im Strafurteil und Ausschluss der Tilgungswirkung bei Direktzahlung an die Privatklägerin (BGer 4A_291/2026)
+
+**35** In **[BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026)** (I. zivilrechtliche Abteilung, Fünferbesetzung, zur Publikation vorgesehen) wurde der Verurteilte durch das Bezirksgericht Zürich zur Bezahlung von Schadenersatz an die Privatklägerin (CHF 190'209.60) und einer Ersatzforderung an den Staat (CHF 70'000.--, Art. 71 Abs. 1 StGB) verpflichtet. Dispositivziffer 40 wies die Kasse an, den Erlös an die Privatklägerin zu überweisen, und nahm davon Vormerk, dass die Privatklägerin ihre Forderung im entsprechenden Umfang an den Staat abgetreten hatte (Verwendung nach Art. 73 StGB). Nach Eintritt der Rechtskraft vereinbarte der Verurteilte mit der Privatklägerin eine direkte Zahlung und überwies ihr CHF 70'000.-- statt diesen Betrag an die Gerichtskasse zu leisten. Der Kanton Zürich betrieb ihn daraufhin für CHF 70'000.-- aus der abgetretenen Forderung und verlangte definitive Rechtsöffnung.
+- *Entscheid des Bundesgerichts*:
+  1. *Auslegung des Dispositivs*: Aus der Formulierung «es wird davon Vormerk genommen, dass die Privatklägerin ihre Forderungen im entsprechenden Umfang an den Staat abgetreten hat» ergibt sich, dass die Abtretung bereits formell und materiell wirksam vollzogen ist und nicht erst noch separat erklärt werden muss.
+  2. *Definitiver Rechtsöffnungstitel*: Durch die richterliche Abtretung im Strafurteil wird der Staat materieller Gläubiger der Schadenersatzforderung und kann gestützt auf das Strafurteil als definitiven Rechtsöffnungstitel ([Art. 80 SchKG](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#art_80)) vorgehen.
+  3. *Keine befreiende Wirkung der Direktzahlung ([Art. 167 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_167))*: Eine spätere Zahlung des Schuldners direkt an die Privatklägerin befreit diesen gegenüber dem Staat nicht. Da der Schuldner aufgrund des Strafurteils Kenntnis von der Abtretung an den Staat hatte, fehlte es an der Gutgläubigkeit im Sinne von Art. 167 OR. Die vom Kanton verlangte definitive Rechtsöffnung wurde geschützt.
 
 ---
 
-## IX. Literatur
+## IX. Kantonale Praxisfragen
+
+### 1. Durchsetzung der abgetretenen Forderung durch das kantonale Inkasso und Rechtsöffnung
+
+**36** In der Vollstreckungspraxis kantonaler Gerichts- und Finanzkassen (wie im Kanton Zürich) stellt sich die Frage, wie die gemäss Art. 73 Abs. 2 StGB abgetretene Schadenersatzforderung vollstreckt wird, wenn der Verurteilte die Ersatzforderung nicht an die Staatskasse bezahlt.
+- *Streitpunkt*: Bildet das Strafurteil mit der Vormerkung der Abtretung einen definitiven Rechtsöffnungstitel für das Gemeinwesen, oder muss der Staat den Zivilweg beschreiten bzw. eine separate Zessionsurkunde vorlegen?
+- *Praxis*: Gemäss [BGer 4A_291/2026 vom 02.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026) wird der Staat durch die Vormerkung im Urteilsdispositiv unmittelbar materieller Gläubiger. Das rechtskräftige Strafurteil beurkundet die Abtretung vollstreckbar und dient dem Gemeinwesen als definitiver Rechtsöffnungstitel nach [Art. 80 SchKG](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#art_80).
+
+### 2. Risiken aussergerichtlicher Vergleiche und Direktzahlungen an die Privatklägerschaft
+
+**37** Häufig versuchen Verurteilte nach Abschluss des Strafverfahrens, mit der Privatklägerschaft privatrechtliche Ratenzahlungen, Vergleiche oder Schuldreduktionen zu vereinbaren, um dem staatlichen Inkasso zuvorzukommen.
+- *Streitpunkt*: Kann sich der Verurteilte gegenüber der Betreibung des Staates darauf berufen, er habe die Forderung durch direkte Zahlung an das Opfer bereits getilgt?
+- *Praxis*: Eine solche Direktzahlung befreit den Verurteilten gegenüber dem Staat nicht ([BGer 4A_291/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026)). Da das Strafurteil dem Schuldner eröffnet wurde, hat er positive Kenntnis von der Abtretung; eine schuldentlastende Zahlung an die Altgläubigerin nach [Art. 167 OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_167) ist ausgeschlossen. Der Schuldner riskiert damit, doppelt leisten zu müssen (unter Vorbehalt einer zivilrechtlichen Bereicherungsklage gegen die Privatklägerin gemäss [Art. 62 ff. OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_62)).
+
+### 3. Ausgestaltung des kantonalen Nachverfahrens (Abs. 3)
+
+**38** Wurde über die Zusprechung im Sachurteil nicht befunden, verlangt Art. 73 Abs. 3 StGB von den Kantonen ein einfaches und rasches Verfahren.
+- *Praxis*: Die Kantone haben hierfür unterschiedliche Wege gewählt: Einige weisen die Zuständigkeit der Vollzugsbeschwerde bzw. dem Zwangsmassnahmengericht zu, während andere (wie Zürich) die Staatsanwaltschaft bzw. das Obergericht im Beschwerdeverfahren nach Art. 393 StPO entscheiden lassen (vgl. [ZH Obergericht SB150503 vom 30.01.2017](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB150503_2017-01-30.pdf); [BStGer BB.2020.164 vom 09.12.2020](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2020-164_2020-12-09.pdf)).
+
+---
+
+## X. Literatur
 
 - **BAUMANN FLORIAN**, Basler Kommentar: Strafrecht I (Art. 1–110 StGB), 4. Aufl., Basel 2019, Art. 73.
 - **HIRSIG-VOUILLOZ MADELEINE**, in: Commentaire romand Code pénal I, 2009, Art. 73.

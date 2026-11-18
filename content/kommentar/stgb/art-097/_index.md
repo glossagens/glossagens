@@ -3,9 +3,13 @@ title: "Art. 97 StGB — Verfolgungsverjährung: Fristen"
 weight: 97
 date: 2026-11-18
 lastmod: 2026-11-18
-description: "Praxiskommentar zu Art. 97 StGB: Verfolgungsverjährung, Fristenstufen nach abstrakter Höchststrafe, Sonderfrist für Kinderopfer bis zum 25. Altersjahr und definitives Verjährungsende durch erstinstanzliches Urteil — mit umfassender Kasuistik zu Urteilsbegriff, Strafbefehl, Freispruch, Abwesenheitsurteil und prozessualen Fallen."
+description: "Praxiskommentar zu Art. 97 StGB: Verfolgungsverjährung, Fristenstufen nach abstrakter Höchststrafe, Sonderfrist für Kinderopfer bis zum 25. Altersjahr und definitives Verjährungsende durch erstinstanzliches Urteil — mit umfassender Kasuistik zu Urteilsbegriff, Strafbefehl, Freispruch, Abwesenheitsurteil (Neubeurteilung vs. Berufungskassation) und prozessualen Fallen."
 tags: ["StGB", "Verjährung", "Verfolgungsverjährung", "Fristen", "Erstinstanzliches Urteil", "Strafbefehl", "Freispruch", "Abwesenheitsurteil", "Kinderopfer", "Verfahrenseinstellung", "Beschleunigungsgebot"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 6B_55/2026: Verjährungsbeendende Wirkung nach Art. 97 Abs. 3 StGB bei kassiertem und zurückgewiesenem Abwesenheitsurteil (Eingrenzung von BGE 146 IV 59 auf Neubeurteilungsverfahren)."
   - date: 2026-11-18
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -51,8 +55,8 @@ Die Prüfung der Verfolgungsverjährung folgt einem strikten stufenweisen Aufbau
 | **3. Fristenstufe** | Welcher Fristenkategorie (30, 15, 10 oder 7 Jahre) ist die Tat zuzuordnen? | Art. 97 Abs. 1 lit. a–d StGB; Art. 109 StGB | Bestimmung anhand der angedrohten Höchststrafe; Vorbehalt spezialgesetzlicher Fristen (lex specialis) |
 | **4. Opferschutz-Sonderfrist** | Richtete sich die Tat gegen ein Kind unter 16 Jahren (Katalogdelikt)? | Art. 97 Abs. 2 StGB | Frist läuft in jedem Fall mindestens bis zum vollendeten 25. Lebensjahr des Opfers |
 | **5. Zäsur durch Sachentscheid** | Ist vor Ablauf der Frist ein erstinstanzliches Gerichtsurteil ergangen? | Art. 97 Abs. 3 StGB | Fällung/Eröffnung eines erstinstanzlichen Sachurteils (Schuldspruch oder Freispruch) beendet Verjährung definitiv |
-| **6. Negative Abgrenzung** | Liegt eine blosse Verfahrenseinstellung, ein Strafbefehl mit Einsprache oder ein Abwesenheitsurteil vor? | Art. 97 Abs. 3 StGB i.V.m. Art. 354, 368 StPO | Kein Verjährungsstopp: Zeit läuft ungehindert weiter; Neubeurteilung lässt Abwesenheitsurteil ex tunc entfallen |
-| **7. Rechtsmittel & Rückweisung** | Lebt die Verjährung bei Aufhebung und Rückweisung an die erste Instanz wieder auf? | Art. 97 Abs. 3 StGB | Grundsatz: Keine Wiederbelebung; Verjährung bleibt nach erstinstanzlichem Sachurteil dauerhaft blockiert |
+| **6. Negative Abgrenzung** | Liegt eine blosse Verfahrenseinstellung, ein Strafbefehl mit Einsprache oder ein Abwesenheitsurteil vor? | Art. 97 Abs. 3 StGB i.V.m. Art. 354, 368 StPO | Kein Verjährungsstopp bei Einstellung/Strafbefehl; Neubeurteilung (Art. 368 StPO) lässt Abwesenheitsurteil ex tunc entfallen ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html)); anders bei Berufungskassation ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)) |
+| **7. Rechtsmittel & Rückweisung** | Lebt die Verjährung bei Aufhebung und Rückweisung an die erste Instanz wieder auf? | Art. 97 Abs. 3 StGB i.V.m. Art. 409 StPO | Grundsatz: Keine Wiederbelebung; Verjährung bleibt nach erstinstanzlichem Sachurteil dauerhaft blockiert — gilt auch bei Kassation von Abwesenheitsurteilen ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)) |
 | **8. Zeitlicher Geltungsbereich** | Gilt altes oder neues Verjährungsrecht (Revisionen 2002 / 2014)? | Art. 97 Abs. 4 StGB, Art. 2 Abs. 2, Art. 389 StGB | Lex mitior; bereits eingetretene Verjährung lebt nie wieder auf; laufende Fristen unterstehen neuem Recht |
 
 ### Zentrale Leitentscheide
@@ -231,6 +235,7 @@ Nicht jeder behördliche Erledigungsakt beendet die Verjährung nach Art. 97 Abs
 | **Strafbescheid (VStrR)** | Art. 64 VStrR | **NEIN** | Reiner behördlicher Vorhalt ([BGE 139 IV 62 E. 1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-62_2013.html#consideration_1.4)) |
 | **Strafverfügung (VStrR)** | Art. 70 VStrR | **JA** | Verwaltungsjustizentscheid nach Einsprache ([BGE 147 IV 274](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-147-IV-274_2021.html)) |
 | **Abwesenheitsurteil bei Neubeurteilung** | Art. 366, 368 StPO | **NEIN (resolutiv)** | Fällt bei Gutheissung der Neubeurteilung ex tunc dahin ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html)) |
+| **Abwesenheitsurteil bei Berufungskassation** | Art. 366, 409 StPO | **JA** | Beendet Verjährung definitiv; keine Wiederbelebung bei Rückweisung ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)) |
 
 #### 1. Der Strafbefehl mit Einsprache: Keine Verjährungshemmung ([BGE 142 IV 11](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-11_2016.html))
 
@@ -241,9 +246,13 @@ Dem Beschuldigten wurde eine am 12. Mai 2011 begangene Übertretung vorgeworfen 
 Das Bundesgericht bestätigte die Verfahrenseinstellung infolge Verjährung:
 > «Einem Strafbefehl, gegen welchen Einsprache erhoben wurde, fehlt demnach die Urteilsqualität. Unabhängig davon, ob nach Einspracheerhebung weitere Untersuchungen stattfinden, kann ein solcher Strafbefehl kein 'erstinstanzliches Urteil' im Sinne von Art. 97 Abs. 3 StGB sein.» ([BGE 142 IV 11 E. 1.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-11_2016.html#consideration_1.2.2)).
 
-#### 2. Das Abwesenheitsurteil und die Neubeurteilungsfalle ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html))
+#### 2. Das Abwesenheitsurteil: Neubeurteilungsfalle ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html)) vs. Berufungskassation ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026))
 
-Wird eine beschuldigte Person in ihrer Abwesenheit verurteilt (Art. 366 StPO), steht das Urteil unter einer **auflösenden (resolutiven) Bedingung**.
+Wird eine beschuldigte Person in ihrer Abwesenheit verurteilt (Art. 366 StPO), hängt die verjährungsbeendende Wirkung nach Art. 97 Abs. 3 StGB entscheidend davon ab, auf welchem verfahrensrechtlichen Weg das Urteil angefochten wird:
+
+##### a) Das Neubeurteilungsverfahren (Art. 368 ff. StPO): Resolutive Bedingung gemäss BGE 146 IV 59
+
+Verlangt die verurteilte Person eine Neubeurteilung nach Art. 368 StPO, steht das erstinstanzliche Abwesenheitsurteil unter einer **auflösenden (resolutiven) Bedingung**.
 
 **Lebenssachverhalt zu [BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html):**  
 Das Bezirksgericht Münchwilen verurteilte eine Beschuldigte am 21. Februar 2008 in Abwesenheit wegen Pfändungsbetrugs (Art. 163 StGB), Ausweisfälschung (Art. 252 StGB) und Verkehrsdelikten. Zehn Jahre später — am 20. März 2018 — bewilligte das Gericht auf ihr Gesuch hin eine Neubeurteilung (Art. 368 StPO) und fällte ein neues Urteil. Das Obergericht Thurgau ging davon aus, das Abwesenheitsurteil von 2008 habe die Verjährung definitiv beendet.  
@@ -252,11 +261,26 @@ Das Bundesgericht hob den Entscheid auf:
 
 Die während zehn Jahren verstrichene Zeit zählte voll: Sämtliche angeklagten Delikte waren im Zeitpunkt des neuen Urteils 2018 verjährt.
 
+##### b) Die Berufungskassation (Art. 409 StPO): Definitiver Verjährungsstopp gemäss BGer 6B_55/2026
+
+Wird gegen ein Abwesenheitsurteil hingegen nicht das Neubeurteilungsverfahren (Art. 368 ff. StPO) beschritten, sondern ordentliche Berufung (Art. 398 ff. StPO) erhoben und hebt das Berufungsgericht das Urteil wegen schwerer Verfahrensmängel nach Art. 409 StPO auf, so greift die Doktrin des resolutiven Dahinfallens **nicht**.
+
+Das Bundesgericht klärte diese grundlegende Differenzierung in [BGer 6B_55/2026 vom 24. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026) (I. strafrechtliche Abteilung: Muschietti, Guidon, Glassey; besprochen auf bger-update.ch):
+
+**Lebenssachverhalt zu [BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026):**  
+Vor Ablauf der 15-jährigen Verfolgungsverjährung fällte das Amtsgericht am 30. Mai 2022 ein Abwesenheitsurteil. Das Obergericht des Kantons Solothurn hob dieses Urteil auf Berufung der Verteidigung hin am 12. Dezember 2022 gestützt auf Art. 409 StPO auf und wies die Sache zur Neubeurteilung an das Amtsgericht zurück. Bei der Neuverurteilung durch das Amtsgericht am 3. September 2024 machte der Verurteilte Verfolgungsverjährung geltend: Die 15-jährige Verjährungsfrist wäre im Sommer 2022 abgelaufen gewesen; durch die kassatorische Aufhebung des Abwesenheitsurteils durch das Obergericht sei dieses ex tunc beseitigt worden, weshalb die Verjährung vor der Neuverurteilung im September 2024 eingetreten sei.
+
+**Entscheidung des Bundesgerichts:**  
+Das Bundesgericht wies die Beschwerde des Verurteilten ab und bestätigte den Schuldspruch:
+1. *Gesetzeszweck von Art. 97 Abs. 3 StGB:* Die Bestimmung statuiert eine Zäsur. Ist vor Fristablauf ein erstinstanzliches Urteil ergangen, tritt die Verjährung nicht mehr ein. Dies gilt nach ständiger Praxis auch dann, wenn das erstinstanzliche Urteil später im Rechtsmittelverfahren aufgehoben und die Sache zurückgewiesen wird.
+2. *Keine Ausdehnung von BGE 146 IV 59:* Die Sonderregel des resolutiven Dahinfallens gemäss BGE 146 IV 59 beruht auf der spezifischen Gesetzeskonzeption des Neubeurteilungsverfahrens (Art. 368 Abs. 3 StPO), wo das Abwesenheitsurteil von Gesetzes wegen durch das neue Urteil ersetzt wird. Sie ist strikt auf dieses Institut beschränkt und lässt sich nicht auf den ordentlichen Rechtsmittelweg übertragen.
+3. *Geltung auch für kassierte Abwesenheitsurteile:* Ergeht vor Ablauf der Verjährungsfrist ein erstinstanzliches Abwesenheitsurteil und wird dieses im Berufungsverfahren nach Art. 409 StPO aufgehoben und zurückgewiesen, lebt die Verfolgungsverjährung nicht wieder auf. Der staatliche Strafanspruch bleibt nach Art. 97 Abs. 3 StGB dauerhaft gesichert.
+
 #### 3. Gesetzwidrige Verfahrenseinstellung hemmt die Verjährung nicht ([BGer 6B_479/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-479-2018_2019-07-19.html))
 
 Wird ein Verfahren durch gerichtliche Verfügung fälschlicherweise nach Art. 8 Abs. 1 StPO i.V.m. Art. 53 StGB eingestellt, anstatt dass ein Urteil mit Schuldspruch und Strafbefreiung ergeht, hindert diese fehlerhafte Einstellungsverfügung den Verjährungseintritt nicht. Das Bundesgericht hielt fest, dass Verfahrenseinstellungen keine Urteile sind; läuft die Verjährungsfrist während des Rechtsmittelverfahrens ab, ist die Tat definitiv verjährt ([BGer 6B_479/2018 vom 19. Juli 2019, E. 2.4.2 f.](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-479-2018_2019-07-19.html)).
 
-> **Leitsatz.** Weder ein mit Einsprache angefochtener Strafbefehl noch eine gerichtliche Verfahrenseinstellung hindern den Fortlauf der Verjährung. Ein Abwesenheitsurteil verliert seine verjährungsunterbrechende Wirkung rückwirkend, sobald ein Gesuch um Neubeurteilung gutgeheissen wird.
+> **Leitsatz.** Weder ein mit Einsprache angefochtener Strafbefehl noch eine gerichtliche Verfahrenseinstellung hindern den Fortlauf der Verjährung. Ein Abwesenheitsurteil verliert seine verjährungsunterbrechende Wirkung rückwirkend nur bei Gutheissung eines Neubeurteilungsgesuchs (Art. 368 StPO; BGE 146 IV 59); wird es hingegen auf Berufung hin kassiert und zurückgewiesen (Art. 409 StPO), bleibt die Verfolgungsverjährung nach Art. 97 Abs. 3 StGB dauerhaft beendet (BGer 6B_55/2026).
 
 ---
 
@@ -268,6 +292,8 @@ Wird ein erstinstanzliches Urteil durch die Berufungsinstanz oder das Bundesgeri
 
 Nach ständiger Rechtsprechung des Bundesgerichts lebt die Verjährung bei einer Aufhebung im Rechtsmittelverfahren **nicht** wieder auf:
 > «Die Verfolgungsverjährung hört mit der Ausfällung eines erstinstanzlichen Urteils zu laufen auf. [...] Wenn das erstinstanzliche Urteil in der Folge im Rechtsmittelverfahren aufgehoben wird, beginnt die Verjährung nicht neu zu laufen.» ([BGE 143 IV 450 E. 1.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-450_2017.html#consideration_1.2); [BGer 6B_983/2010 vom 19. April 2011, E. 4.2.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-983-2010_2011-04-19.html)).
+
+Diesen Grundsatz wandte das Bundesgericht in [BGer 6B_55/2026 vom 24. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026) ausdrücklich auch auf Abwesenheitsurteile an: Hebt die kantonale Berufungsinstanz ein erstinstanzliches Abwesenheitsurteil nach Art. 409 StPO auf und weist sie die Sache an das Erstgericht zurück, beginnt die Verfolgungsverjährung nicht neu zu laufen. Das ursprüngliche Sachurteil entfaltet seine verjährungsbeendende Zäsurwirkung nach Art. 97 Abs. 3 StGB unwiderruflich fort; die Ausnahme des resolutiven Dahinfallens (BGE 146 IV 59) bleibt auf das Neubeurteilungsverfahren (Art. 368 StPO) beschränkt.
 
 Derselbe Grundsatz gilt nach der Praxis der kantonalen Gerichte selbst dann, wenn das Obergericht das erstinstanzliche Urteil und den Strafbefehl aufhebt und die Sache an die Staatsanwaltschaft zur Durchführung eines neuen Vorverfahrens zurückweist ([Luzerner Kantonsgericht 2N 14 127 vom 9. Dezember 2014](https://entscheidsuche.ch/docs/LU_Gerichte/LU_KG_001_2N-14-127_2014-12-09.html); [Aargauer Obergericht SST.2010.127 vom 24. Juni 2010](https://entscheidsuche.ch/docs/AG_Gerichte/AG_OG_008_SST-2010-127_2010-06-24.pdf)).
 
@@ -317,7 +343,7 @@ Vor Zürcher Bezirksgerichten kam es wiederholt vor, dass Gerichte kurz vor Verj
 **Für die beschuldigte Person und ihre Verteidigung:**
 
 1. Gegen Strafbefehle stets fristgerecht Einsprache erheben, wenn die Verjährung naht; die Einsprache vernichtet die Urteilswirkung und lässt die Verjährungsfrist bis zum ersten gerichtlichen Urteil weiterlaufen ([BGE 142 IV 11 E. 1.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-11_2016.html#consideration_1.2.2)).
-2. Bei einem Abwesenheitsurteil sofort die Neubeurteilung (Art. 368 StPO) prüfen: Wird das Gesuch gutgeheissen, fällt das Abwesenheitsurteil rückwirkend dahin und die gesamte Zwischenzeit zählt zur Verfolgungsverjährung ([BGE 146 IV 59 E. 3.4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html#consideration_3.4)).
+2. Bei einem Abwesenheitsurteil die Rechtsmittelwahl taktisch genau prüfen: Zwar lässt ein gutgeheissenes Neubeurteilungsgesuch (Art. 368 StPO) das Abwesenheitsurteil rückwirkend dahinfallen, sodass die Zwischenzeit zur Verfolgungsverjährung zählt ([BGE 146 IV 59 E. 3.4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html#consideration_3.4)). Wird hingegen ordentliche Berufung eingelegt und hebt das Obergericht das Urteil nach Art. 409 StPO auf und weist es zurück, lebt die Verjährung nicht wieder auf; der Verjährungsstopp durch das ursprüngliche Abwesenheitsurteil bleibt wirksam ([BGer 6B_55/2026 vom 24. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)).
 3. Bei Vorwürfen mit Tatzeitpunkt vor dem 1. Januar 2014 zwingend auf die alte 7-jährige Frist (Art. 97 Abs. 1 lit. c aStGB) anstelle der neuen 10-jährigen Frist pochen (*Lex mitior*, Art. 389 Abs. 1 StGB; [BGer 6B_479/2018 E. 2.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-479-2018_2019-07-19.html)).
 4. Gesetzwidrige Einstellungsverfügungen der ersten Instanz bei drohender Verjährung nicht vorschnell anfechten: Läuft die Verjährung während der Beschwerdefrist oder vor Obergericht ab, ist die Tat definitiv verjährt ([BGer 6B_479/2018 E. 2.4.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-479-2018_2019-07-19.html)).
 5. Die Einrede der Verjährung kann in jedem Stadium des Verfahrens, auch erstmals vor Bundesgericht, ohne Verwirkungsfolge erhoben werden ([BGE 129 IV 49 E. 5.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-49_2003.html#consideration_5.4)).
@@ -328,6 +354,7 @@ Vor Zürcher Bezirksgerichten kam es wiederholt vor, dass Gerichte kurz vor Verj
 2. Vor Fristablauf muss zwingend die Fällung und Dispositiveröffnung des erstinstanzlichen Sachurteils erfolgen; auf die Begründungsausfertigung kommt es nicht an ([BGE 130 IV 101 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-130-IV-101_2004.html#consideration_2)).
 3. An der gerichtlichen Hauptverhandlung niemals informell per Verfügung nach Art. 53 StGB einstellen; erforderlich ist ein Urteil mit Schuldspruch und Strafbefreiung, um den Verjährungsstopp zu sichern ([BGE 139 IV 220 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-220_2013.html#consideration_3.4)).
 4. Auch bei drohendem Freispruch das erstinstanzliche Urteil zügig fällen; auch das freisprechende Sachurteil beendet die Verjährung definitiv und schützt vor Verjährung im Rechtsmittelverfahren der Staatsanwaltschaft ([BGE 139 IV 62 E. 1.5.9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-139-IV-62_2013.html#consideration_1.5.9)).
+5. Bei Abwesenheitsurteilen, die in der Berufung nach Art. 409 StPO wegen formeller Mängel aufgehoben und zurückgewiesen werden, tritt trotz zwischenzeitlichen Ablaufs der ursprünglichen Verjährungsfrist keine Verjährung ein; Art. 97 Abs. 3 StGB schützt den staatlichen Strafanspruch dauerhaft ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)).
 
 **Für die Privatklägerschaft:**
 

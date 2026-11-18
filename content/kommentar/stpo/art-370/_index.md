@@ -2,10 +2,14 @@
 title: "Art. 370 StPO — Abwesenheitsverfahren: Neues Urteil"
 weight: 370
 date: 2026-07-17
-lastmod: 2026-10-15
-description: "Praxiskommentar zu Art. 370 StPO: Das neue Urteil nach Neubeurteilung — De-novo-Kognition, Anfechtbarkeit mit den üblichen Rechtsmitteln (Berufung/Beschwerde), Rechtskraft als Zäsur sowie das Dahinfallen des Abwesenheitsurteils ex tunc mit den massgeblichen Konsequenzen für Verfolgungsverjährung (BGE 146 IV 59), Haftregime (BGer 1B_478/2021), retrospektive Konkurrenz und Verfahrenskosten."
-tags: ["Abwesenheitsverfahren", "Neubeurteilung", "Neues Urteil", "Rechtsmittel", "Berufung", "Rechtskraft", "Dahinfallen", "Verfolgungsverjährung", "Resolutive Bedingung", "Sicherheitshaft", "Zäsurwirkung"]
+lastmod: 2026-11-18
+description: "Praxiskommentar zu Art. 370 StPO: Das neue Urteil nach Neubeurteilung — De-novo-Kognition, Anfechtbarkeit mit den üblichen Rechtsmitteln (Berufung/Beschwerde), Rechtskraft als Zäsur sowie das Dahinfallen des Abwesenheitsurteils ex tunc mit den massgeblichen Konsequenzen für Verfolgungsverjährung (BGE 146 IV 59; Eingrenzung in BGer 6B_55/2026 bei Berufungskassation), Haftregime (BGer 1B_478/2021), retrospektive Konkurrenz und Verfahrenskosten."
+tags: ["Abwesenheitsverfahren", "Neubeurteilung", "Neues Urteil", "Rechtsmittel", "Berufung", "Rechtskraft", "Dahinfallen", "Verfolgungsverjährung", "Resolutive Bedingung", "Berufungskassation", "Art. 409 StPO", "Sicherheitshaft", "Zäsurwirkung"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 6B_55/2026: Eingrenzung von BGE 146 IV 59 auf Neubeurteilungen; keine Wiederauflebung der Verjährung bei Berufungskassation (Art. 409 StPO) eines Abwesenheitsurteils."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -36,7 +40,7 @@ Die Vorschrift entfaltet eine fundamentale Scharnierfunktion zwischen dem vormal
 Die zentrale dogmatische Weichenstellung der Norm liegt in Abs. 2: Ein Abwesenheitsurteil erwächst nur **resolutiv bedingt in formelle Rechtskraft** ([BGE 146 IV 59 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html#consideration_3.4)). Wird ein Neubeurteilungsgesuch gutgeheissen und erscheint die beschuldigte Person zur Verhandlung, entfaltet das nachfolgende Urteil rückwirkende Gestaltungswirkung (*ex tunc*). Mit der Rechtskraft des neuen Urteils fällt das Abwesenheitsurteil samt allen Nebenfolgen unwiderruflich dahin. 
 
 Daraus ergeben sich gravierende praktische Konsequenzen:
-1. **Verfolgungsverjährung:** Das Abwesenheitsurteil verliert mit seinem Dahinfallen rückwirkend die Eigenschaft als verjährungsunterbrechendes erstinstanzliches Urteil i.S.v. Art. 97 Abs. 3 StGB; die Verjährung lief während der Zwischenzeit weiter ([BGE 146 IV 59 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html#consideration_3.4)).
+1. **Verfolgungsverjährung:** Das Abwesenheitsurteil verliert mit seinem Dahinfallen rückwirkend die Eigenschaft als verjährungsunterbrechendes erstinstanzliches Urteil i.S.v. Art. 97 Abs. 3 StGB; die Verjährung lief während der Zwischenzeit weiter ([BGE 146 IV 59 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html#consideration_3.4)). Das Bundesgericht grenzt diese Rechtswirkung jedoch strikt auf das Neubeurteilungsverfahren (Art. 368–370 StPO) ein: Wird das Abwesenheitsurteil hingegen mit Berufung angefochten und vom Berufungsgericht nach Art. 409 StPO aufgehoben und zurückgewiesen, beendet es den Lauf der Verjährung dauerhaft; die Verjährung lebt nicht wieder auf ([BGer 6B_55/2026 vom 24. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)).
 2. **Haftregime:** Eine verurteilte Person, die nach ihrer Ergreifung ein Neubeurteilungsgesuch stellt, befindet sich nicht im ordentlichen Strafvollzug, sondern in gerichtlich anzuordnender Sicherheitshaft ([BGer 1B_478/2021 vom 28. September 2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-478-2021_2021-09-28.html)).
 3. **Konkurrenz und Zäsur:** Ein dahingefallenes Abwesenheitsurteil entfaltet keine Warnwirkung für spätere Taten und bildet keine Zäsur für eine Zusatzstrafe nach Art. 49 Abs. 2 StGB ([ZH OG SB130394 vom 4. Februar 2014](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_SB130394_2014-02-04.pdf)).
 4. **Verfahrenskosten:** Die Kosten des obsolet gewordenen Abwesenheitsverfahrens fallen mangels anderslautender Verlegung zulasten des Staates ([GR KG SK1 2020 12 vom 19. Mai 2021](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_004_SK1-2020-12_2021-05-19.pdf)).
@@ -180,6 +184,33 @@ Dahinfallen von Urteil 1 ex tunc (Art. 370 Abs. 2)
           des neuen Urteils abgelaufen, greift das Verfahrenshindernis der Verjährung!
 ```
 
+#### 2a. Grundlegende Eingrenzung von BGE 146 IV 59: Keine Wiederauflebung der Verjährung bei Berufungskassation nach Art. 409 StPO (BGer 6B_55/2026)
+
+Mit Urteil [BGer 6B_55/2026 vom 24. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026) (I. strafrechtliche Abteilung: Muschietti, Guidon, Glassey; publiziert Mitte November 2026; Leitartikel auf bger-update.ch) präzisierte und begrenzte das Bundesgericht die Tragweite des Grundsatzurteils BGE 146 IV 59 in folgenschwerer Weise:
+
+* **Ausgangssachverhalt**: Im Verfahren wegen qualifizierter Delikte gegen das Betäubungsmittelgesetz erliess das Amtsgericht Olten-Gösgen am 30. Mai 2022 nach jahrelangem Fernbleiben des Beschuldigten ein Abwesenheitsurteil. Die absolute Verfolgungsverjährung von 15 Jahren wäre im Juni/Juli 2022 abgelaufen. Die Verteidigung stellte kein Gesuch um Neubeurteilung (Art. 368 StPO), sondern erhob ordentliche Berufung (Art. 398 ff. StPO). Das Obergericht des Kantons Solothurn hiess die Berufung am 12. Dezember 2022 gut, hob das Abwesenheitsurteil wegen eines wesentlichen, nicht heilbaren Verfahrensmangels nach Art. 409 StPO auf und wies die Sache zur Neubeurteilung an das Amtsgericht zurück. Am 3. September 2024 fällte das Amtsgericht ein erneutes Urteil und sprach den Beschuldigten schuldig. Dieser berief sich auf BGE 146 IV 59 und machte geltend, mit der gerichtlichen Aufhebung sei das Abwesenheitsurteil dahingefallen, weshalb die Verjährung im Sommer 2022 vollendet worden und das Verfahren wegen Verfolgungsverjährung einzustellen sei.
+
+* **Dogmatische Differenzierung des Bundesgerichts**:
+  1. **Exklusive Geltung von Art. 370 Abs. 2 StPO für das Neubeurteilungsverfahren**: Das Bundesgericht grenzt BGE 146 IV 59 ausdrücklich auf das spezifische Verfahren der Neubeurteilung (Art. 368–370 StPO) ein. Die Fiktion der resolutiven Bedingung und das ex tunc wirkende Dahinfallen des Abwesenheitsurteils stützen sich unmittelbar auf den Gesetzesbefehl von Art. 370 Abs. 2 StPO. Nur wenn die erste Instanz das Neubeurteilungsgesuch gutheisst und ein neues Urteil fällt, wird das bisherige Abwesenheitsurteil rückwirkend beseitigt.
+  2. **Nichtanwendbarkeit bei Berufungskassation (Art. 409 StPO)**: Ficht die beschuldigte Person das Abwesenheitsurteil hingegen mit Berufung an (Art. 371 Abs. 1, Art. 398 ff. StPO) und hebt das Berufungsgericht den Entscheid wegen schwerer Verfahrensfehler auf, greift Art. 370 Abs. 2 StPO nicht.
+  3. **Dauerhafte Verjährungsbeendigung gemäss Art. 97 Abs. 3 StGB**: Nach ständiger bundesgerichtlicher Rechtsprechung beendet jedes erstinstanzliche Urteil die Verfolgungsverjährung nach Art. 97 Abs. 3 StGB endgültig. Wird ein solches Urteil im ordentlichen Rechtsmittelweg durch das Berufungsgericht aufgehoben und die Sache an die erste Instanz zurückgewiesen, führt dies nach gefestigter Praxis nicht dazu, dass die Verjährung wieder auflebt. Das Bundesgericht stellt klar, dass dies uneingeschränkt auch für Abwesenheitsurteile gilt: Das Abwesenheitsurteil wahrt seine verjährungsbeendende Wirkung selbst dann, wenn es im Berufungsverfahren gestützt auf Art. 409 StPO kassiert wird.
+
+```
+Konstellation 1: Neubeurteilung (Art. 368–370 StPO)
+Abwesenheitsurteil ──► Neubeurteilungsgesuch ──► Neues Urteil (Art. 370 Abs. 1)
+                                                       │
+                                                       ▼ [Rechtskraft]
+                                            Dahinfallen ex tunc (Art. 370 Abs. 2)
+                                            ==> Verjährung lief weiter (BGE 146 IV 59)!
+
+Konstellation 2: Berufungskassation (Art. 409 StPO)
+Abwesenheitsurteil ──► Berufung (Art. 371/398) ──► Aufhebung & Rückweisung (Art. 409)
+       │                                                       │
+       ▼                                                       ▼
+Beendet Verjährung                                  KEINE Wiederauflebung der Verjährung;
+dauerhaft (Art. 97 Abs. 3 StGB)                     Verjährung bleibt beendet (BGer 6B_55/2026)!
+```
+
 #### 3. Auswirkungen auf das Haftregime (Sicherheitshaft statt Strafvollzug)
 
 Befindet sich die verurteilte Person nach ihrer Verhaftung in Haft, bestimmt die Natur des Urteils über das anwendbare Haftregime:
@@ -254,6 +285,7 @@ In der kantonalen Gerichtspraxis stellt sich die verfahrensökonomische Koordina
 | Sachverhalt / Konstellation | Rechtsfolge nach Art. 370 Abs. 2 StPO | Leitentscheid / Beleg |
 |---|---|---|
 | **Verfolgungsverjährung** vor Rechtskraft des neuen Urteils eingetreten | **Verfahrenseinstellung**; Abwesenheitsurteil fällt rückwirkend dahin; keine Ruhezeit der Verjährung | [BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html) |
+| **Berufungskassation und Rückweisung (Art. 409 StPO)** statt Neubeurteilung | **Keine Wiederauflebung der Verjährung**; Abwesenheitsurteil beendet Verjährung dauerhaft nach Art. 97 Abs. 3 StGB; Eingrenzung von BGE 146 IV 59 | [BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026) |
 | **Freiheitsentzug** während Hängigkeit des Neubeurteilungsverfahrens | **Sicherheitshaft** nach Art. 230 ff. StPO; kein ordentlicher Strafvollzug; Gericht zuständig für Entlassungsgesuche | [BGer 1B_478/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-478-2021_2021-09-28.html) |
 | **Erneutes Säumnis** an der Verhandlung nach Art. 369 StPO | **Kein neues Urteil**; Rückzugsfiktion (Art. 369 Abs. 4); Abwesenheitsurteil erstarkt definitiv; Verwirkung | [BE OG BK 2016 550](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2016-550_2017-02-28.pdf) |
 | **Kosten** des ursprünglichen Abwesenheitsverfahrens | **Zulasten des Staates** (Art. 423 Abs. 1 StPO); Kostenauflage an Beschuldigten nur bei schuldhafter Verursachung (Art. 417) | [GR KG SK1 2020 12](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_004_SK1-2020-12_2021-05-19.pdf) |
@@ -277,6 +309,7 @@ In der kantonalen Gerichtspraxis stellt sich die verfahrensökonomische Koordina
 * **Zu [Art. 369 StPO](../art-369/)**: Art. 369 StPO normiert das Zwischenverfahren (Prüfung des Gesuchs, Ansetzung der Verhandlung, Rückzugsfiktion). Art. 370 StPO regelt das Ergebnis dieses Verfahrens: den Erlass des neuen Urteils und das Dahinfallen des alten Urteils.
 * **Zu [Art. 371 StPO](../art-371/)**: Art. 371 StPO ordnet das Verhältnis zwischen Neubeurteilungsgesuch und Berufung gegen das Abwesenheitsurteil. Ist die Neubeurteilung bewilligt und ergeht ein neues Urteil nach Art. 370 StPO, wird Art. 371 StPO gegenstandslos, da die Berufung gegen das neue Urteil den allgemeinen Regeln (Art. 398 ff. StPO) folgt.
 * **Zu Art. 97 Abs. 3 StGB**: Art. 97 Abs. 3 StGB beendet die Verfolgungsverjährung mit dem erstinstanzlichen Urteil. Bei Abwesenheitsurteilen gilt dieser Effekt gemäss [BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html) nur unter der resolutiven Bedingung von Art. 370 Abs. 2 StPO.
+* **Zur Berufungskassation nach Art. 409 StPO ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026))**: Hebt das Berufungsgericht ein Abwesenheitsurteil gestützt auf Art. 409 StPO wegen eines wesentlichen Verfahrensmangels auf und weist die Sache an die Vorinstanz zurück, greift die resolutive Bedingung von Art. 370 Abs. 2 StPO nicht. Das Abwesenheitsurteil beendet die Verjährung dauerhaft nach Art. 97 Abs. 3 StGB; die Verjährung lebt bei der Rückweisung nicht wieder auf.
 * **Zu Art. 410 ff. StPO (Revision)**: Das Neubeurteilungsverfahren ist keine Revision, sondern ein primärer gesetzlicher Rechtsbehelf zur Gewährleistung des Anspruchs auf rechtliches Gehör. Revisionsgründe (neue Tatsachen/Beweismittel gemäss Art. 410 StPO) müssen nicht dargetan werden.
 
 ---
@@ -285,8 +318,11 @@ In der kantonalen Gerichtspraxis stellt sich die verfahrensökonomische Koordina
 
 #### Für die Verteidigung
 
-1. **Verjährungsprüfung als vordringlichste Verteidigungshandlung**:
-   Nach bewilligtem Neubeurteilungsgesuch muss die Verteidigung als allererstes das Verjährungsdatum der angeklagten Taten berechnen. Fällt das Abwesenheitsurteil mit dem neuen Urteil dahin, ruhte die Verjährung in der Zwischenzeit nicht ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html)). Liegt die Tatbegehung (z.B. bei Vergehen oder Delikten mit 10- bzw. 15-jähriger Verjährungsfrist) entsprechend lange zurück, ist an der Hauptverhandlung umgehend die Einrede des Verfahrenshindernisses der Verjährung zu erheben und die Einstellung des Verfahrens (Art. 329 Abs. 4 StPO) zu verlangen.
+1. **Verjährungsprüfung und fundamentale Weichenstellung zwischen Neubeurteilung und Berufung**:
+   Nach einem Abwesenheitsurteil muss die Verteidigung zuallererst den Verjährungsstand der angeklagten Taten ermitteln. Droht der Eintritt der absoluten Verfolgungsverjährung (Art. 97 Abs. 1 StGB), hat die Wahl des Rechtsbehelfs existentielle Bedeutung:
+   * **Weg der Neubeurteilung (Art. 368 ff. StPO)**: Das Abwesenheitsurteil fällt bei Gutheissung des Gesuchs und Erlass des neuen Urteils rückwirkend dahin; die Verjährung lief in der Zwischenzeit weiter ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html)). Die Verteidigung kann das Verfahrenshindernis der Verjährung einwenden und die Einstellung des Verfahrens (Art. 329 Abs. 4 StPO) verlangen.
+   * **Weg der Berufung (Art. 371 Abs. 1, Art. 398 ff. StPO)**: Ficht die Verteidigung das Urteil mit Berufung an und hebt das Berufungsgericht das Urteil gestützt auf Art. 409 StPO wegen schwerer Verfahrensmängel auf, beendet das ursprüngliche Abwesenheitsurteil die Verjährung dauerhaft nach Art. 97 Abs. 3 StGB; die Verjährung lebt bei der Rückweisung nicht wieder auf ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)).
+   * **Taktischer Grundsatz**: Steht die Verjährung bevor und sind die Säumnisgründe entschuldbar (Art. 368 StPO), muss prioritär die Neubeurteilung verlangt werden; eine blosse Berufung vernichtet die verjährungsbeendende Wirkung des Abwesenheitsurteils selbst bei voller Kassation nicht!
 2. **Haftregime aktiv hinterfragen**:
    Wird der Mandant aufgrund eines bestehenden Abwesenheitsurteils verhaftet und in eine Strafvollzugsanstalt verlegt, ist unverzüglich das Neubeurteilungsgesuch einzureichen und beim Gericht die Haftprüfung zu verlangen. Befindet sich der Mandant nach Gesuchsbewilligung weiterhin im Strafvollzug, ist dies rechtswidrig: Der Titel für den Vollzug ist resolutiv bedingt weggefallen ([BGer 1B_478/2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-478-2021_2021-09-28.html)). Anträge auf Haftentlassung oder Ersatzmassnahmen sind an die gerichtliche Verfahrensleitung nach Art. 230 ff. StPO zu richten, nicht an das Amt für Justizvollzug.
 3. **Persönliches Erscheinen des Mandanten sicherstellen**:
@@ -298,8 +334,8 @@ In der kantonalen Gerichtspraxis stellt sich die verfahrensökonomische Koordina
 
 #### Für die Staatsanwaltschaft
 
-1. **Kein Vertrauen auf die Rechtskraft des Abwesenheitsurteils**:
-   Bei Abwesenheitsurteilen gegen flüchtige oder unbekannt abwesende Personen muss die Staatsanwaltschaft die Verjährungsfristen im internen Fristenkontrollsystem weiterführen. Die Ruhetheorie existiert nicht mehr ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html)).
+1. **Kein Vertrauen auf die Rechtskraft bei Neubeurteilungen — Gelassenheit bei Berufungskassation**:
+   Bei Abwesenheitsurteilen gegen flüchtige oder unbekannt abwesende Personen muss die Staatsanwaltschaft die Verjährungsfristen weiterführen, da bei Bewilligung einer Neubeurteilung nach Art. 368 ff. StPO die Ruhetheorie nicht gilt und die Verjährung rückwirkend weiterläuft ([BGE 146 IV 59](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-146-IV-59_2020.html)). Wird das Abwesenheitsurteil hingegen auf Berufung der Verteidigung hin vom Berufungsgericht nach Art. 409 StPO aufgehoben und zurückgewiesen, droht der Staatsanwaltschaft kein Verjährungsverlust: Das Abwesenheitsurteil hat die Verfolgungsverjährung nach Art. 97 Abs. 3 StGB dauerhaft beendet ([BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026)).
 2. **Neues Urteil muss eigenständig angefochten werden**:
    Hatte die Staatsanwaltschaft gegen das Abwesenheitsurteil seinerzeit Berufung eingelegt (z.B. Strafmassberufung), fällt diese Berufung mit der Rechtskraft des neuen Urteils dahin (Art. 370 Abs. 2 StPO). Ist die Staatsanwaltschaft mit dem im neuen Urteil ausgesprochenen Strafmass unzufrieden, **muss sie gegen das neue Urteil zwingend eigenständig Berufung anmelden** (Art. 399 Abs. 1 StPO). Ein Verweis auf das frühere, sistierte Rechtsmittel genügt nicht.
 3. **Kostenauflage nach Art. 417 StPO beantragen**:

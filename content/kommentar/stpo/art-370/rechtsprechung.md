@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 370 StPO"
 weight: 99
 date: 2026-07-17
-lastmod: 2026-09-25
-description: "Übersicht der Leitentscheide und kantonalen Urteile zu Art. 370 StPO: Neues Urteil nach Neubeurteilung, Anfechtbarkeit mit den üblichen Rechtsmitteln (Berufung/Beschwerde), resolutive Bedingung der Rechtskraft, Verfolgungsverjährung (BGE 146 IV 59), Sicherheitshaft (BGer 1B_478/2021) und kantonale Praxis."
-tags: ["Rechtsprechung", "StPO", "Abwesenheitsverfahren", "Neues Urteil", "Berufung", "Verjährung", "Resolutive Bedingung", "Sicherheitshaft", "Dahinfallen"]
+lastmod: 2026-11-18
+description: "Übersicht der Leitentscheide und kantonalen Urteile zu Art. 370 StPO: Neues Urteil nach Neubeurteilung, Anfechtbarkeit mit den üblichen Rechtsmitteln (Berufung/Beschwerde), resolutive Bedingung der Rechtskraft, Verfolgungsverjährung (BGE 146 IV 59; Eingrenzung in BGer 6B_55/2026), Sicherheitshaft (BGer 1B_478/2021) und kantonale Praxis."
+tags: ["Rechtsprechung", "StPO", "Abwesenheitsverfahren", "Neues Urteil", "Berufung", "Verjährung", "Resolutive Bedingung", "Berufungskassation", "Art. 409 StPO", "Sicherheitshaft", "Dahinfallen"]
 revisions:
+  - date: 2026-11-18
+    by: "Antigravity"
+    model: "inherit"
+    note: "Einarbeitung von BGer 6B_55/2026: Eingrenzung von BGE 146 IV 59 auf Neubeurteilungen; keine Wiederauflebung der Verjährung bei Berufungskassation (Art. 409 StPO) eines Abwesenheitsurteils."
   - date: 2026-09-25
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -34,6 +38,21 @@ Die Rechtsprechung zu Art. 370 StPO gliedert sich entlang der beiden Absätze de
   * Damit verliert das Abwesenheitsurteil rückwirkend die Eigenschaft als verjährungsunterbrechendes Urteil im Sinne von Art. 97 Abs. 3 StGB. Die Strafprozessordnung kennt kein Institut des «Ruhens» der Verfolgungsverjährung während des Neubeurteilungsverfahrens. Die gesamte zwischen der Tatbegehung und dem neuen Urteil verstrichene Zeit ist bei der Verfolgungsverjährung vollumfänglich anzurechnen.
 * **Ausgang**: Gutheissung der Beschwerde; Aufhebung des vorinstanzlichen Urteils und Rückweisung zur Prüfung der Verfahrenseinstellung wegen Verjährung.
 * **Einschlägig für**: Abs. 2; Art. 97 Abs. 3 StGB, Art. 329 Abs. 4 StPO
+
+---
+
+### [BGer 6B_55/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.09.2026_6B_55/2026) vom 24. September 2026
+
+* **Spruchkörper**: I. strafrechtliche Abteilung: Muschietti, Guidon, Glassey (publiziert Mitte November 2026; besprochen auf bger-update.ch als Leitartikel)
+* **Thema**: Verhältnis Abwesenheitsurteil und Verfolgungsverjährung (Art. 97 Abs. 3 StGB); ausdrückliche Eingrenzung von BGE 146 IV 59 auf das Neubeurteilungsverfahren (Art. 368–370 StPO); keine Wiederauflebung der Verjährung bei Aufhebung des Abwesenheitsurteils und Rückweisung durch das Berufungsgericht (Art. 409 StPO)
+* **Sachverhalt**: Im Verfahren wegen qualifizierter Widerhandlungen gegen das Betäubungsmittelgesetz erliess das Amtsgericht Olten-Gösgen nach jahrelanger Sistierung und Fernbleiben des Beschuldigten am 30. Mai 2022 ein Abwesenheitsurteil. Die Verjährungsfrist von 15 Jahren wäre im Juni/Juli 2022 abgelaufen. Die Verteidigung erhob gegen das Abwesenheitsurteil Berufung gemäss Art. 398 ff. StPO (kein Gesuch um Neubeurteilung nach Art. 368 StPO). Das Obergericht des Kantons Solothurn hob das Abwesenheitsurteil am 12. Dezember 2022 gestützt auf Art. 409 StPO wegen eines wesentlichen Verfahrensmangels auf und wies die Sache zur neuen Entscheidung an das Amtsgericht Olten-Gösgen zurück. Das Amtsgericht verurteilte den Beschuldigten am 3. September 2024 erneut. Der Beschuldigte erhob Berufung und anschliessend Beschwerde in Strafsachen an das Bundesgericht: Er rügte den Eintritt der Verfolgungsverjährung und berief sich auf den Grundsatzentscheid BGE 146 IV 59. Er argumentierte, mit der kassatorischen Aufhebung des Abwesenheitsurteils durch das Obergericht sei dieses dahingefallen, weshalb die Verjährung im Sommer 2022 abgelaufen sei und das Verfahren hätte eingestellt werden müssen.
+* **Kernaussage**: Das Bundesgericht wies die Beschwerde ab und stellte die dogmatische Reichweite von BGE 146 IV 59 klar:
+  * Gemäss Art. 97 Abs. 3 StGB tritt die Verfolgungsverjährung nicht mehr ein, wenn vor Ablauf der Verjährungsfrist ein erstinstanzliches Urteil ergangen ist.
+  * Das Bundesgericht grenzt den Grundsatzentscheid BGE 146 IV 59 ausdrücklich auf den Fall der **Neubeurteilung (Art. 368–370 StPO)** ein. Nur wenn ein Gesuch um Neubeurteilung bewilligt und das Abwesenheitsurteil durch ein neues Urteil ersetzt wird (resolutive Bedingung), fällt das Urteil nach Art. 370 Abs. 2 StPO ex tunc dahin und läuft die Verjährung weiter, als wäre es nie ergangen.
+  * Wird ein Abwesenheitsurteil hingegen von der beschuldigten Person im ordentlichen Rechtsmittelweg mit **Berufung** angefochten (Art. 371 Abs. 1, Art. 398 ff. StPO) und vom Berufungsgericht wegen eines wesentlichen Verfahrensmangels nach Art. 409 StPO aufgehoben und an die erste Instanz zurückgewiesen, findet Art. 370 Abs. 2 StPO keine Anwendung.
+  * In dieser Konstellation beendet das Abwesenheitsurteil den Lauf der Verjährung dauerhaft nach Art. 97 Abs. 3 StGB. Nach ständiger Rechtsprechung führt die Aufhebung eines erstinstanzlichen Urteils mit Rückweisung an die Vorinstanz nicht dazu, dass die Verjährung wieder auflebt. Das erstinstanzliche Abwesenheitsurteil wahrt diese verjährungsbeendende Wirkung somit auch bei einer Aufhebung nach Art. 409 StPO.
+* **Ausgang**: Abweisung der Beschwerde des Beschuldigten; Bestätigung, dass keine Verfolgungsverjährung eingetreten ist.
+* **Einschlägig für**: Abs. 2; Art. 371 Abs. 1, Art. 409 StPO, Art. 97 Abs. 3 StGB
 
 ---
 
