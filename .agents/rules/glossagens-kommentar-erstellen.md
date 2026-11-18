@@ -175,6 +175,7 @@ graph TD
 
 ### Schritt 5: Verifikation & Build
 * Durchführung der Qualitätskontrolle (Verifikation: Existieren alle zitierten Urteile, Literaturstellen und Materialien wirklich?).
+* **Audit nur auf Wunsch**: Ein nachgelagerter Audit-Lauf (`audit.py` / `glossagens-audit`) wird **nur dann durchgeführt, wenn der Benutzer dies ausdrücklich so wünscht**. Standardmässig reichen Belegprüfung vor dem Schreiben und der Build-Check.
 * Ausführung des lokalen `hugo`-Befehls.
 * Prüfung des Outputs auf Build-Fehler, fehlende Parameter im Frontmatter oder fehlerhafte Markdown-Syntax.
 * Bei erfolgreichem Build: Commit und Push.

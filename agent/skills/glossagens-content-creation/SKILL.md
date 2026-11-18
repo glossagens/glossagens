@@ -1,7 +1,7 @@
 ---
 name: glossagens-content-creation
 description: >-
-  Create and maintain legal commentary articles for the Glossagens Hugo site, with built-in grounding checks (judge the claim against the verbatim Erwägung before writing, run the audit harness before commit). No LLM-backed opencaselaw tool is ever called — only free lookups. Offers three workflows: /kommentar (full creation), /recherche (research only), /loop (iterative gap analysis with subagents).
+  Create and maintain legal commentary articles for the Glossagens Hugo site, with built-in grounding checks (judge the claim against the verbatim Erwägung before writing; audit harness only run when explicitly requested by the user). No LLM-backed opencaselaw tool is ever called — only free lookups. Offers three workflows: /kommentar (full creation), /recherche (research only), /loop (iterative gap analysis with subagents).
 version: 5.0.0
 author: Hermes Agent
 tools:
@@ -72,11 +72,11 @@ Create a new commentary from scratch or comprehensively update an existing one.
 6. RECHTSPRECHUNGSDATEI aktualisieren (→ Teil B, Abschnitt 4)
 7. **BELEGPRÜFUNG vor dem Schreiben** — jedes Paar (Aussage, Beleg) gegen den wörtlichen Entscheidtext bzw. die Botschaft (→ Teil D.1)
 8. KOMMENTAR schreiben/ergänzen (→ Teil C) — inklusive Entstehungsgeschichte, Ratio Legis, Revisionsmotiven sowie massgeblicher Lehrmeinungen zur Auslegung und Themenbehandlung
-9. **SCHLUSSATTEST** — Audit-Lauf über das fertige Bundle (→ Teil D.3)
+9. **SCHLUSSATTEST (NUR AUF AUSDRÜCKLICHEN WUNSCH DES USERS)** — Audit-Lauf über das fertige Bundle (→ Teil D.3). Wird standardmässig übersprungen, ausser der User verlangt ausdrücklich ein Audit.
 10. QUALITÄTSKONTROLLE — Checklisten (→ Teil D.4)
 11. HUGO BUILD + COMMIT (→ Teil B, Abschnitt 5)
 
-> Schritt 7 und 9 sind **nicht optional**. Was davon erledigt ist, hält die `note` der Revision fest (→ Teil D.5).
+> Schritt 7 (Belegprüfung vor dem Schreiben) ist **nicht optional**. Schritt 9 (Audit-Lauf via `audit.py`) wird **nur durchgeführt, wenn der User dies ausdrücklich so wünscht**.
 
 ---
 
@@ -154,9 +154,10 @@ Continuously research which topics and decisions are still **missing** from the 
 │     - Geprüfte Entscheide → rechtsprechung.md         │
 │     - Kommentar ergänzen: neue Abschnitte, Kasuistik  │
 │                                                       │
-│  7. SCHLUSSATTEST (Teil D.3)                          │
-│     audit.py über das Bundle; offene Paare durch      │
-│     Judge-Subagenten beurteilen lassen.               │
+│  7. SCHLUSSATTEST (Teil D.3, nur auf Wunsch des Users)│
+│     Falls vom User ausdrücklich gewünscht: audit.py   │
+│     über das Bundle; offene Paare durch Judge-        │
+│     Subagenten beurteilen lassen.                     │
 │     Befunde offen → zurück zu Schritt 5.              │
 │                                                       │
 │  8. FORTSCHRITTSBERICHT                               │
@@ -713,17 +714,14 @@ Ein Kommentar ist nicht dadurch belegt, dass er Entscheide zitiert, sondern dadu
 zitierten Entscheide die Sätze tragen, für die sie stehen. Die Prüfeinheit ist deshalb das
 **Paar (Behauptungssatz, Beleg)**, nie das Zitat für sich.
 
-Zwei Kontrollpunkte, beide obligatorisch:
+Zwei Kontrollpunkte (D.1 obligatorisch; D.3 nur auf ausdrücklichen Wunsch des Users):
 
 | | Wann | Wie | Fragt |
 |---|---|---|---|
-| **D.1 Belegprüfung** | **vor** dem Schreiben, pro Paar | eigenes Urteil gegen den wörtlichen Entscheidtext | Trägt dieser Entscheid diesen Satz? |
-| **D.3 Schlussattest** | **nach** dem Schreiben, pro Bundle | `audit.py` + unabhängige Judge-Subagenten | Existiert alles Zitierte, stimmen Pinpoints, Verbatim — und stützt jeder Beleg seinen Satz? |
+| **D.1 Belegprüfung** | **vor** dem Schreiben, pro Paar | eigenes Urteil gegen den wörtlichen Entscheidtext | Trägt dieser Entscheid diesen Satz? (**Obligatorisch**) |
+| **D.3 Schlussattest** | **nach** dem Schreiben, pro Bundle | `audit.py` + unabhängige Judge-Subagenten | Existiert alles Zitierte, stimmen Pinpoints, Verbatim — und stützt jeder Beleg seinen Satz? (**NUR wenn vom User ausdrücklich gewünscht**) |
 
-Die Reihenfolge ist Absicht. Die Einzelprüfung früh verhindert, dass ein falscher
-Beleg überhaupt in den Text kommt; der Audit-Lauf am Schluss fängt, was beim
-Schreiben entstanden ist — umgestellte Sätze, verrutschte Belege, aus dem
-Gedächtnis ergänzte Zitate.
+Die Einzelprüfung vor dem Schreiben (D.1) ist für jeden Beleg stets obligatorisch. Ein Audit-Lauf nach dem Schreiben (D.3 via `audit.py`) wird hingegen **ausschliesslich dann durchgeführt, wenn der User dies ausdrücklich verlangt** (z. B. via `/audit` oder entsprechende Aufforderung). Standardmässig unterbleibt das Audit.
 
 **Beide Kontrollpunkte laufen ohne LLM-Tool von opencaselaw.** `check_claim_support`
 und `attest_response` sind serverseitige Claude-Aufrufe, die den Betreiber je
@@ -841,9 +839,12 @@ mcp__entscheidsuche__search_by_case_number: { "case_number": "BGE 144 III 519", 
 
 ---
 
-## D.3 — Schlussattest (Audit-Lauf über das Bundle)
+## D.3 — Schlussattest (Audit-Lauf über das Bundle — nur auf ausdrücklichen Wunsch)
 
-Auf dem **fertigen** Bundle, beide Dateien auf einmal:
+> [!IMPORTANT]
+> **Audit nur auf ausdrücklichen Wunsch:** Ein Audit (`audit.py` bzw. Schlussattest mit Judge-Subagenten) wird **ausschliesslich dann durchgeführt, wenn der Benutzer dies ausdrücklich so wünscht** (z. B. via `/audit`, «führe ein Audit durch» oder eine entsprechende unmissverständliche Anweisung). Im Standardablauf bei der Erstellung oder Überarbeitung wird **kein** Audit ausgeführt.
+
+Wird ein Audit vom Benutzer ausdrücklich gewünscht, erfolgt der Lauf auf dem **fertigen** Bundle, beide Dateien auf einmal:
 
 ```bash
 python3 agent/skills/glossagens-audit/audit.py content/kommentar/{gesetz}/art-{nr} --emit-jobs
@@ -862,7 +863,7 @@ Geprüft werden **beide** Dateien: `_index.md` und `rechtsprechung.md`. Die
 Rechtsprechungsübersicht behauptet in jeder `Kernaussage` etwas über einen Entscheid — sie
 ist so belegpflichtig wie der Kommentartext.
 
-**Nicht committen, solange Paare `offen` sind oder Befunde offenstehen.** Beheben
+Wurde ein Audit ausdrücklich beauftragt: **Nicht committen, solange Paare `offen` sind oder Befunde offenstehen.** Beheben
 heisst je nach Klasse:
 
 | Issue | Behebung |
@@ -899,7 +900,7 @@ Paare (Literaturzitate, Materialien) bleiben aus dem Nenner.
 - [ ] Kein Beleg mit `no` / `contradicts` / `unrelated` im Text verblieben?
 - [ ] `partial`-Aussagen um den Qualifikator ergänzt oder wörtlich zitiert?
 - [ ] Jeder Pinpoint durch `get_erwaegung` belegt — keiner geschätzt?
-- [ ] Audit-Lauf über das Bundle ohne `offen` und ohne offene Befunde (D.3)?
+- [ ] Audit-Lauf über das Bundle durchgeführt (NUR falls vom User ausdrücklich gewünscht; D.3)?
 - [ ] Kein Aufruf von `check_claim_support` / `attest_response` / `reflect`?
 
 **Quellenintegrität:**
@@ -939,7 +940,7 @@ bleibt Pflicht:
 1. Der Gesetzeswortlaut stammt per `{{< wortlaut >}}` aus der amtlichen Quelle (`scripts/wortlaut.py`),
 2. jede Zitierung ist aus einer Tool-Antwort kopiert,
 3. jedes Paar (Aussage, Beleg) ist gegen den wörtlichen Entscheidtext beurteilt (D.1), und
-4. der Audit-Lauf über das Bundle zeigt kein `offen` und keine offenen Befunde mehr (D.3).
+4. falls vom User ausdrücklich gewünscht: der Audit-Lauf über das Bundle zeigt kein `offen` und keine offenen Befunde mehr (D.3).
 
 Fehlt ein Schritt — etwa weil eine Quelle nicht erreichbar war —, steht das ebenso in der
 `note`. Nichts behaupten, was nicht geschehen ist: Die `note` ist eine Aussage über den
@@ -953,7 +954,7 @@ revisions:
   - date: {heute}
     by: "Glossagens Agent"
     model: "{exakte Modell-ID}"
-    note: "{was}; Belege gegen den Entscheidtext geprüft, Audit-Lauf ohne offene Befunde"
+    note: "{was}; Belege gegen den Entscheidtext geprüft"  # bzw. ", Audit-Lauf ohne offene Befunde" nur falls Audit beauftragt
 ```
 
 ---
@@ -1005,9 +1006,9 @@ Aktualisierungsdatum: {DATUM}
 
 Verhältnis zu den anderen Skills: `/lint` prüft den **Gesetzeswortlaut**, `/audit` prüft
 den **Belegapparat bestehender** Artikel nachträglich und maschinell über den gesamten
-Bestand. Teil D ist die vorgelagerte Fassung derselben Prüfung — sie soll verhindern, dass
-`/audit` überhaupt etwas zu finden hat. Bei grösseren Überarbeitungen nach dem Commit
-zusätzlich `/audit {gesetz} art-{NNN}` laufen lassen.
+Bestand. Teil D.1 ist die vorgelagerte Fassung derselben Prüfung — sie soll verhindern, dass
+Fehler überhaupt in den Text gelangen. Ein Lauf von `/audit {gesetz} art-{NNN}` erfolgt
+**nur dann, wenn der Benutzer dies ausdrücklich wünscht**.
 
 ---
 
@@ -1097,8 +1098,8 @@ Rerank sind kleine LLM-Aufrufe).
   stammt. Regesten verweisen auf «E. 4», wo nur `4.1`/`4.2.1` existiert — `cite`
   merkt das nicht
 - **Selbst geschrieben, selbst attestiert**: Das eigene Urteil über den eigenen Satz
-  ist eine Vorprüfung. Das Attest muss von einem Judge kommen, der den Satz nicht
-  geschrieben hat — dafür der Audit-Lauf am Ende (Teil D.3)
+  ist eine Vorprüfung (Teil D.1). Ein nachgelagerter Audit-Lauf durch einen unabhängigen Judge
+  erfolgt, falls vom Benutzer ausdrücklich gewünscht (Teil D.3)
 - **LLM-Tool von opencaselaw aufgerufen**: `check_claim_support`, `attest_response`
   und `reflect` kosten den Betreiber je Aufruf $0.05–$0.50. Sie sind gesperrt; im
   August 2026 hat ein Überzug des Kontingents die Sperrung des Clients ausgelöst

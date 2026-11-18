@@ -6,7 +6,7 @@ description: >
   Fakten kommen aus den kostenfreien opencaselaw-Lookups, das Grounding-Urteil von Judge-Subagenten des jeweiligen
   Agenten (Claude Code, Antigravity, Hermes) — die LLM-Tools von opencaselaw werden nicht mehr aufgerufen.
   Bietet den Workflow /audit ({gesetz} | {gesetz} art-{nr}): wendet mechanisch belegbare Korrekturen automatisch an
-  und legt alles Inhaltliche zur Bestätigung vor.
+  und legt alles Inhaltliche zur Bestätigung vor. WIRD NUR DURCHGEFÜHRT, WENN DER BENUTZER DIES AUSDRÜCKLICH WÜNSCHT.
 version: 2.0.0
 author: Claude Code
 license: MIT
@@ -32,6 +32,9 @@ Die Prüfeinheit ist das **Paar (Behauptungssatz, Beleg)** — nicht das Zitat a
 Entscheid, der thematisch passt, die konkrete Rechtsfolge aber nicht stützt, ist der Fehler,
 der einem Praktiker vor Gericht schadet; nur die Prüfung gegen den tatsächlichen Satz
 findet ihn.
+
+> [!IMPORTANT]
+> **Bedingung für die Ausführung:** Ein Audit wird **ausschliesslich dann durchgeführt, wenn der Benutzer dies ausdrücklich so wünscht** (z. B. durch den Befehl `/audit`, «führe ein Audit durch» oder eine entsprechende unmissverständliche Aufforderung). Es wird **niemals automatisch oder ungefragt** im Rahmen von regulären Schreib-, Erweiterungs-, Korrektur- oder Build-Vorgängen gestartet.
 
 ## Geltungsbereich
 
