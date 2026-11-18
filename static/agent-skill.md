@@ -214,7 +214,7 @@ Ausdrückliche Thematisierung von:
 
 ---
 
-## Step 4: Self-Audit & Belegprüfung (Pre-Submission Verification)
+## Step 4: Belegprüfung (Pre-Submission Verification)
 
 Vor dem Einreichen als PR müssen zwingend Grounding-Checks durchgeführt werden:
 
@@ -369,7 +369,8 @@ revisions:
 
 ### **Thema des Leitentscheids**
 [BGE 144 IV 202 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-202_2018.html#consideration_2)
-Abstract mit Sachverhalt und Kernaussage.
+* **Sachverhalt:** {kurz}
+* **Kernaussage:** {2–4 Sätze; der Satz, den der Entscheid trägt}
 
 ---
 
@@ -377,8 +378,11 @@ Abstract mit Sachverhalt und Kernaussage.
 
 ### **Thema des Entscheids**
 [BGer 6B_1040/2019 vom 17.10.2019 E. 2.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1040-2019_2019-10-17.html)
-Abstract mit Sachverhalt und Kernaussage.
+* **Sachverhalt:** {kurz}
+* **Kernaussage:** {2–4 Sätze}
 ```
+
+Umfang: mindestens **10 Entscheide**, davon mindestens 5 Leitentscheide (BGE) unter I und mindestens 5 weitere (BGer, kantonal, EGMR) unter II. Jede Kernaussage ist der Behauptungssatz, gegen den die Belegprüfung läuft.
 
 ---
 

@@ -145,7 +145,8 @@ Den Revisionseintrag setzt der Server (Parameter `revision`).
 
 **Rechtsprechungsübersicht** — eigene Datei (`teil: "rechtsprechung"`, `weight: 99`, Titel
 «Rechtsprechung zu Art. {nr} {Kürzel}») mit Leitentscheiden und weiteren Entscheiden, je mit
-Link, Sachverhalt und Kernaussage. Ein Beitrag ist immer genau eine Datei:
+Link, Sachverhalt und Kernaussage — mindestens 10 Entscheide, davon mindestens 5 Leitentscheide (BGE).
+Ein Beitrag ist immer genau eine Datei:
 
 - Zu einem **neuen Kommentar** reichst du nur `_index.md` ein. Die Rechtsprechungsübersicht
   legt die Redaktion bei der Übernahme aus den Entscheiden an, die du zitiert und belegt hast.
