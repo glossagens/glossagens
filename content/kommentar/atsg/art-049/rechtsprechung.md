@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 49 ATSG — Verfügung"
 weight: 99
 date: 2026-05-23
-lastmod: 2026-08-28
+lastmod: 2026-11-19
 description: "Übersicht der Leitentscheide und weiteren Urteile zu Art. 49 ATSG: Verfügungspflicht, Begründungspflicht, Feststellungsverfügung und aufschiebende Wirkung."
 tags: ["Rechtsprechung", "ATSG", "Verfügung", "Feststellungsverfügung", "Rechtsmittelbelehrung"]
 revisions:
+  - date: 2026-11-19
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 8C_50/2026 vom 29. Oktober 2026 unter «II. Weitere Entscheide» (Pflicht zur unverzüglichen Rüge von Notifikationsmängeln und Grenzen des Vertrauensschutzes nach Treu und Glauben bei berufsmässiger Vertretung)."
   - date: 2026-08-28
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -52,3 +56,8 @@ Zurück zum Kommentar: [Art. 49 ATSG — Verfügung](./)
 
 ### [BGer 8C_445/2025 vom 10.07.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-445-2025_2026-07-10.html) — Zwischenverfügungspflicht bei Begutachtungsstreit
 - **Kernaussage**: Anspruch auf Erlass einer Zwischenverfügung nach Art. 49 ATSG bei Uneinigkeit über die Anordnung einer Begutachtung (E. 4.2).
+
+### [BGer 8C_50/2026 vom 29. Oktober 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.10.2026_8C_50/2026) — Rügepflicht bei Notifikationsmängeln und Grenzen des Vertrauensschutzes
+- **Sachverhalt**: Ein Versicherter verlangte nach Ablehnung von Versicherungsleistungen durch die Suva (CNA) eine formelle Verfügung. Seine Rechtsschutzversicherung (Assista) reichte eine Vollmacht ein, die Assista in 1214 Vernier (Hauptsitz) als Mandatarin bezeichnete; die Korrespondenz erfolgte auf dem Briefkopf der Lausanner Zweigstelle. Die Suva ermittelte die Adresse des statutarischen Sitzes in Vernier und stellte die Verfügung vom 5. März 2025 dorthin zu, wo sie am 7. März 2025 mit rotem Eingangsstempel in Empfang genommen und intern nach Lausanne weitergeleitet wurde (zweiter Eingangsstempel: 10. März 2025). Die Rechtsschutzversicherung erhob am 8. April 2025 namens des Versicherten Einsprache. Die Suva trat wegen Verspätung nicht darauf ein (Ablauf der 30-tägigen Frist am 7. April 2025). Das kantonale Gericht hiess die Beschwerde des Versicherten gestützt auf den Vertrauensschutz nach Art. 49 Abs. 3 ATSG gut und bejahte Fristwahrung ab Zustellung in Lausanne.
+- **Kernaussage**: Der verfassungsrechtliche Vertrauensschutz bei mangelhafter Eröffnung (Art. 49 Abs. 3 ATSG i.V.m. Art. 5 Abs. 3 BV / Art. 2 ZGB) findet seine Schranke im Grundsatz von Treu und Glauben und dem Verbot des *venire contra factum proprium*. Erkennt eine berufsmässige Vertretung anhand zweier Eingangsstempel auf der Verfügung, dass die Zustellung bereits früher an den in der Vollmacht genannten statutarischen Hauptsitz erfolgt war, darf sie nicht passiv bleiben und den vermeintlichen Notifikationsmangel für das spätere Rechtsmittelverfahren reservieren. Sie ist verpflichtet, die verfahrensrechtliche Unklarheit unverzüglich zu rügen bzw. abzuklären. Unterlässt sie dies, verliert sie den Schutz von Art. 49 Abs. 3 ATSG; die 30-tägige Einsprachefrist läuft ab der ersten wirksamen Zustellung am Sitz (E. 4.2 und E. 5.1–5.2).
+- **Einschlägig für**: Art. 49 Abs. 3 ATSG (Grenzen des Vertrauensschutzes bei mangelhafter Eröffnung); Art. 52 Abs. 1 ATSG (Beginn der Einsprachefrist bei Eröffnungsmängeln); Art. 37 Abs. 3 ATSG (Zustellungsort bei Abweichung zwischen Vollmacht und Briefkopf).

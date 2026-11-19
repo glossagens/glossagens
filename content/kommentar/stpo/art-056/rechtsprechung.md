@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 56 StPO"
 weight: 99
 date: 2026-09-01
-lastmod: 2026-10-21
+lastmod: 2026-11-19
 description: "Übersicht der massgebenden Rechtsprechung des Bundesgerichts und kantonaler Gerichte zu Art. 56 StPO: Leitentscheide zu persönlichem Interesse, Vorbefassung, Verwandtschaft und Befangenheitsanschein."
 tags: ["Rechtsprechung", "StPO", "Strafprozess", "Ausstand", "Befangenheit", "Vorbefassung", "Unparteilichkeit", "Gerichtsschreiber"]
 revisions:
+  - date: 2026-11-19
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_885/2026 vom 13. Oktober 2026 (Ausstandsverfahren dient nicht der Überprüfung der Untersuchungsführung; keine Befangenheit des Staatsanwalts bei unterlassener Verfahrensvereinigung nach Art. 29/30 StPO, Schutz des Untersuchungsgeheimnisses Dritter nach Art. 73 StPO und Nichterhebung von Strafregisterauszügen vor Untersuchungsabschluss; Abgrenzung zu 7B_261/2026 und 7B_890/2026)."
   - date: 2026-10-21
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -183,6 +187,19 @@ revisions:
 - **Thema**: Zulässige Haltung der Staatsanwaltschaft im Vorverfahren; ungeschickte Äusserungen in einer Vernehmlassung und Grenzziehung zur Fehlerkumulation (lit. f)
 - **Kernaussage**: Im Vorverfahren ist die Staatsanwaltschaft zwar zur Unparteilichkeit verpflichtet (Art. 6 Abs. 2 StPO), darf jedoch im Rahmen der Ermittlungen – anders als ein Gericht – vorübergehend eine orientiertere Haltung einnehmen und ihren vorläufigen Überzeugungen Ausdruck verleihen ([E. 4.2.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_7B_129/2026)). Äusserungen sind objektiv im Gesamtkontext und nach dem verfolgten Zweck zu würdigen. Pointierte oder ungeschickte Formulierungen («propos maladroits ou déplacés») in einer Vernehmlassung vor einem kantonalen Verwaltungsgericht, in der die Staatsanwaltschaft nicht als Entscheidungsbehörde auftritt, sondern eine angefochtene Beweismassnahme verteidigt (hier u.a. die Bemerkung, der Beschuldigte schweige «aus Furcht vor der Wahrheitsfindung» und verzögere das Verfahren zum Schutz seiner Anstellung), begründen für sich allein keinen objektiven Anschein der Befangenheit ([E. 4.2.3 und 4.5.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_7B_129/2026)). Ebenso wenig genügt die Kumulation isolierter Kanzleiversehen (mehrfache fehlerhafte Aktenzustellung an Opferangehörige) und einer im Rechtsmittelweg behobenen Rechtsverzögerung bei einem Zwischenentscheid für einen Ausstand; dies bildet die klare Grenze zur Kumulationsdoktrin nach BGer 7B_890/2026 ([E. 4.6 f.](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.09.2026_7B_129/2026)).
 - **Einschlägig für**: Art. 56 lit. f StPO i.V.m. Art. 29 Abs. 1 BV und Art. 61 lit. a StPO (Staatsanwaltschaft, Vorverfahren, Meinungsäusserungen, Abgrenzung zur Kumulationsdoktrin)
+
+---
+
+### [BGer 7B_885/2026 vom 13. Oktober 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.10.2026_7B_885/2026)
+- **Thema**: Ausstand der Staatsanwaltschaft bei Handlungen der Verfahrensleitung (Verfahrenstrennung, Untersuchungsgeheimnis, Strafregisterbeizug); keine Verfahrenskontrolle über Art. 56 lit. f StPO
+- **Sachverhalt**: Zwei Privatkläger erstatteten nach einem Polizeieinsatz Strafanzeige gegen vier Polizisten (Verfahren P_1). Die Untersuchung wurde vom Genfer Generalprokurator geleitet. Nachdem die Privatkläger erfuhren, dass gegen einen der Polizisten ein Parallelverfahren wegen ähnlicher Vorwürfe geführt und am 5. Dezember 2024 rechtskräftig eingestellt worden war (Verfahren P_2), verlangten sie den Ausstand des Generalprokurators. Sie rügten: (1) unterlassene Verfahrensvereinigung gemäss Art. 29 StPO trotz sachlicher Konnexität; (2) Nichtoffenlegung jenes Verfahrens unter Berufung auf das Untersuchungsgeheimnis (Art. 73 Abs. 1 StPO); und (3) Ungleichbehandlung beim Strafregisterbeizug (Beizug der Vorstrafen des Privatklägers, nicht aber der Polizisten). Die kantonale Beschwerdekammer wies das Ausstandsgesuch ab.
+- **Kernaussage**:
+  1. Das Ausstandsverfahren dient nicht dazu, die Zweckmässigkeit oder Richtigkeit der Untersuchungsführung zu überprüfen oder Zwischenentscheide der Verfahrensleitung infrage zu stellen ([E. 2.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.10.2026_7B_885/2026), Bestätigung von [BGE 143 IV 69 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-69_2017.html#consideration_3.2)). Für verfahrensleitende Entscheide stehen die ordentlichen Rechtsmittel (Art. 393 ff. StPO) offen, die primär zu ergreifen sind.
+  2. Nur besonders schwere oder wiederholte Fehler, die eine gravierende Verletzung der Amtspflichten darstellen, begründen den objektiven Anschein der Befangenheit nach Art. 56 lit. f StPO ([E. 2.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.10.2026_7B_885/2026), Bestätigung von [BGE 141 IV 178 E. 3.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-178_2015.html#consideration_3.2.3)).
+  3. Der Verzicht auf eine Verfahrensvereinigung nach Art. 29 und 30 StPO beruhte auf sachlichen Gründen (P_2 war bei Beginn der Einvernahmen in P_1 bereits eingestellt; getrennte Führung diente der Prozessökonomie, dem Beschleunigungsgebot und dem Schutz nicht betroffener Mitbeschuldigter vor Verfahrensverzögerungen). Die blosse Ähnlichkeit der Vorwürfe begründet keine Vereinigungspflicht ([E. 2.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.10.2026_7B_885/2026)).
+  4. Die Wahrung des Untersuchungsgeheimnisses Dritter (Art. 73 Abs. 1 StPO) und der Verzicht auf Einvernahmen zu rechtskräftig eingestellten Delikten (Art. 320 Abs. 4 StPO) stellen keine Pflichtverletzung dar. Ebenso wenig begründet das Zuwarten mit dem Strafregisterbeizug (Art. 318 Abs. 1 StPO) Befangenheit ([E. 2.4 und 2.5](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.10.2026_7B_885/2026)).
+  5. Scharfe Abgrenzung zu Fällen persönlicher Befangenheit ([BGer 7B_261/2026 vom 29. Mai 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.05.2026_7B_261/2026), Ausstand desselben Generalprokurators wegen Opferstellung seines Vaters nach Art. 56 lit. a StPO) und Bestätigung der Grenzziehung zur Kumulationsdoktrin ([BGer 7B_890/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.09.2026_7B_890/2026)): Vertretbare Ermessensentscheide der Verfahrensleitung begründen weder einzeln noch in ihrer Gesamtschau einen Ausstandsgrund ([E. 2.6](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=13.10.2026_7B_885/2026)).
+- **Einschlägig für**: Art. 56 lit. f StPO i.V.m. Art. 29, 30 und Art. 73 Abs. 1 StPO (Staatsanwaltschaft, Handlungen der Verfahrensleitung, Verfahrenseinheit, Untersuchungsgeheimnis, keine Verfahrenskontrolle)
 
 ---
 

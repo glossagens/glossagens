@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-10-28
+lastmod: 2026-11-19
 description: "Übersicht der Rechtsprechung zu Art. 221 StPO – Dringender Tatverdacht, Fluchtgefahr, Kollusionsgefahr, einfache und qualifizierte Wiederholungsgefahr (Abs. 1bis n.F.), Ausführungsgefahr und Ersatzmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen"]
 revisions:
+  - date: 2026-11-19
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 7B_1403/2026 vom 10.11.2026 unter II. Weitere Bundesgerichtsentscheide: Ausgeprägte Fluchtgefahr bei Kombination von Freiheitsstrafe und obligatorischer Landesverweisung trotz anerkannter Flüchtlingseigenschaft (Art. 64 Abs. 1 lit. e AsylG, Art. 61 Abs. 1 lit. e AIG); Durchbrechung des Rückschiebungsverbots bei Gemeingefährlichkeit (Art. 5 Abs. 2 AsylG); restriktive Härtefallprüfung (Art. 66a Abs. 2 StGB); Spurenverwischung als Fluchtindiz; Untauglichkeit von Electronic Monitoring bei fehlender persönlicher Verlässlichkeit."
   - date: 2026-10-28
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -93,6 +97,18 @@ revisions:
 - **Ergebnis**: Teilweise Gutheissung der Beschwerde und Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung; Abweisung des Antrags auf unverzügliche Haftentlassung.
 - **Einschlägig für**: Abs. 1 lit. a und Art. 237 StPO
 
+### [BGer 7B_1403/2026 vom 10.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.11.2026_7B_1403/2026) E. 2 f.
+- **Thema**: Fluchtgefahr bei Kombination von Freiheitsstrafe und Landesverweisung, Flüchtlingseigenschaft als Fluchtanreiz und Untauglichkeit von Electronic Monitoring
+- **Sachverhalt**: Einem im Kanton Zürich wohnhaften kosovarischen Staatsangehörigen und anerkannten Flüchtling wird versuchte vorsätzliche Tötung vorgeworfen (zwei Messerstiche in Brust und Bauch an einem Bahnhof nach vorangehendem Streit). Nach der Tat entfernte er sich vom Tatort, warf Tatwaffe und Pullover auf dem Heimweg weg und wartete zu Hause das Eintreffen der Polizei ab, nachdem Zeugen ihn bereits identifiziert hatten. Er ist kinderlos, hoch verschuldet (> Fr. 100'000.--), seine Unternehmung befindet sich in Liquidation und im Kosovo lebt Verwandtschaft. Die Vorinstanz (Obergericht Zürich) schützte die Fortdauer der Untersuchungshaft wegen Fluchtgefahr. Vor Bundesgericht beantragte er die Entlassung, eventualiter unter Anordnung umfassender Ersatzmassnahmen (Hausarrest unter 24-stündigem Electronic Monitoring, Schriftensperre, Meldepflicht, Rayon- und Kontaktverbote).
+- **Kernaussage**:
+  1. *Kumulation von Sanktion und Landesverweisung als Fluchtanreiz*: Die Aussicht auf eine mehrjährige Freiheitsstrafe in Verbindung mit einer obligatorischen Landesverweisung (Art. 66a Abs. 1 lit. a StGB) begründet einen besonders intensiven Fluchtanreiz. Wer die Schweiz nach Verbüssung einer Strafe voraussichtlich ohnehin verlassen muss, hat keinen Grund, freiwillig für ein Strafverfahren im Land zu bleiben; die drohende Landesverweisung verstärkt den Anreiz zur Flucht ins Herkunftsland (E. 2.5).
+  2. *Flüchtlingsstatus bildet kein Fluchthindernis*: Das Bestehen der Flüchtlingseigenschaft steht der Fluchtgefahr nicht entgegen. Im Falle einer Verurteilung erlöschen das Aufenthaltsrecht (Art. 61 Abs. 1 lit. e AIG) und das Asylrecht (Art. 64 Abs. 1 lit. e AsylG) von Gesetzes wegen. Ein Beschuldigter hat bei Verurteilung somit kein legales Bleiberecht mehr und nimmt den Verlust des Status für eine Flucht in Kauf. Auf das Rückschiebungsverbot (Art. 5 Abs. 2 AsylG i.V.m. Art. 66d Abs. 1 lit. a StGB) kann er sich bei Gemeingefährlichkeit nach Verurteilung wegen eines schweren Gewaltverbrechens gegen Leib und Leben voraussichtlich nicht berufen (E. 2.5).
+  3. *Restriktive Härtefallprüfung im Haftverfahren*: Die Härtefallklausel nach Art. 66a Abs. 2 StGB ist restriktiv anzuwenden und im Haftprüfungsverfahren nur zu berücksichtigen, wenn ihre Voraussetzungen offensichtlich erfüllt sind (E. 2.5).
+  4. *Impulsives Nachtatverhalten*: Spurenverwischung (Wegwerfen von Tatwaffe und Kleidung, Unterlassen von Hilfeleistung) indiziert Impulsivität und eine erhöhte Fluchtneigung; das Abwarten der Polizei am Wohnort entkräftet dies nicht, wenn der Täter bereits von Zeugen identifiziert worden war (E. 2.8).
+  5. *Untauglichkeit von Ersatzmassnahmen und Electronic Monitoring*: Bei ausgeprägter Fluchtgefahr genügen Ersatzmassnahmen nach Art. 237 StPO nicht. Auch eine lückenlose 24-Stunden-Überwachung mittels Fussfessel (Electronic Monitoring) kann eine Flucht über die offenen Schengen-Binnengrenzen nicht verhindern, da die Meldung nur *ex post* erfolgt (E. 3.3.2). Zudem setzen Ersatzmassnahmen persönliche Verlässlichkeit und behördliche Kooperationsbereitschaft voraus, woran es fehlt, wenn der Beschuldigte in früheren Verfahren wiederholt Einvernahmen unentschuldigt ferngeblieben ist, polizeilich vorgeführt werden musste oder unbefugt den Wohnkanton gewechselt hat (E. 3.3.2).
+- **Ergebnis**: Abweisung der Beschwerde; Bestätigung der Untersuchungshaft wegen Fluchtgefahr.
+- **Einschlägig für**: Abs. 1 lit. a und Art. 237 StPO
+
 ### [BGer 7B_708/2026 vom 17.06.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html) E. 3–5
 - **Thema**: Qualifizierte Wiederholungsgefahr bei Sexualdelikten (Abs. 1bis) und Voraussetzungen für Ersatzmassnahmen
 - **Kernaussage**: Werden einem Beschuldigten Vergewaltigungen zum Nachteil zweier vormaliger Partnerinnen vorgeworfen und diagnostiziert die Psychiatrie dranghafte Sexualität sowie dissoziale Züge, entfällt die Wiederholungsgefahr nicht mit dem Einwand, die Partnerschaften seien beendet; die Risikofaktoren aktualisieren sich bei jeder neuen Bekanntschaft. Ersatzmassnahmen (wie Sexualitäts- und Deeskalations-Coachings) können Haft erst ersetzen, wenn sie bereits in Haft begonnen wurden und erste verlässliche Berichte über die Kooperationsbereitschaft vorliegen.
@@ -156,4 +172,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-10-28*
+*Letzte Aktualisierung: 2026-11-19*

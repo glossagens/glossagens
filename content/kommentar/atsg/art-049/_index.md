@@ -2,10 +2,14 @@
 title: "Art. 49 ATSG — Verfügung"
 weight: 49
 date: 2026-05-23
-lastmod: 2026-10-15
+lastmod: 2026-11-19
 description: "Kommentar zu Art. 49 ATSG: Verfügungspflicht, Feststellungsverfügung, Begründungsdichte, Rechtsmittelbelehrung, Drittbeteiligung und aufschiebende Wirkung."
 tags: ["ATSG", "Sozialversicherungsrecht", "Verfügung", "Feststellungsverfügung", "Rechtsmittelbelehrung", "aufschiebende Wirkung"]
 revisions:
+  - date: 2026-11-19
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 8C_50/2026 vom 29. Oktober 2026: Rz. 9 zu den Grenzen des Vertrauensschutzes nach Art. 49 Abs. 3 ATSG (Treu und Glauben, Rügepflicht bei Notifikationsmängeln für berufsmässige Vertreter) eingefügt sowie Praxisfrage 2 nachgeführt."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -44,13 +48,15 @@ revisions:
 
 **7** **Begründungsdichte.** Die Begründung muss die wesentlichen tatsächlichen Feststellungen und die rechtlichen Erwägungen enthalten, damit die betroffene Person die Tragweite des Entscheids erfassen und sachgerecht anfechten kann (Art. 29 Abs. 2 BV; [BGE 138 V 271 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-271_2012.html)).
 
-**8** **Schutz vor Nachteilen bei fehlerhafter Eröffnung.** Enthält die Verfügung eine falsche oder unvollständige Rechtsmittelbelehrung oder mangelhafte Adressierung, darf der versicherten Person daraus kein Rechtsnachteil entstehen (Art. 49 Abs. 3 Satz 2 ATSG). Reicht sie das Rechtsmittel infolge fehlerhafter Belehrung bei einer unzuständigen Behörde oder nach Fristablauf ein, gilt die Frist als gewahrt ([BGE 130 III 396 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-III-396_2004.html)).
+**8** **Schutz vor Nachteilen bei fehlerhafter Eröffnung.** Enthält die Verfügung eine falsche oder unvollständige Rechtsmittelbelehrung oder eine sonstige mangelhafte Notifikation (z.B. unzutreffende Adressierung), darf der betroffenen Person daraus kein Rechtsnachteil entstehen (Art. 49 Abs. 3 Satz 2 ATSG). Die Rechtsprechung knüpft an eine mangelhafte Eröffnung nicht zwingend die Nichtigkeit: Der Schutz der Parteien ist gewahrt, wenn die Eröffnung ihren Zweck trotz des Mangels erreicht ([BGE 122 I 97 E. 3a/aa](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-122-I-97_1996.html)). Reicht die betroffene Person das Rechtsmittel infolge fehlerhafter Belehrung bei einer unzuständigen Behörde oder nach Fristablauf ein, gilt die Frist grundsätzlich als gewahrt ([BGE 130 III 396 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-III-396_2004.html)).
+
+**9** **Grenzen des Vertrauensschutzes nach Treu und Glauben.** Der Vertrauensschutz nach Art. 49 Abs. 3 Satz 2 ATSG konkretisiert die verfassungsrechtliche Vertrauensgarantie (Art. 9 und Art. 29 Abs. 1 und 2 BV), findet seine Schranke jedoch am Grundsatz von Treu und Glauben (Art. 5 Abs. 3 BV, Art. 2 ZGB) und dem Verbot widersprüchlichen Verhaltens (*venire contra factum proprium*). Die betroffene Person ist verpflichtet, sich über das Vorhandensein und den Inhalt einer Verfügung zu informieren, sobald sie deren Erlass vermuten kann ([BGE 144 IV 57 E. 2.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_009_BGE-144-IV-57_2017.html); [BGE 139 IV 228 E. 1.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-139-IV-228_2013.html)). Wer einen erkannten Eröffnungs- oder Verfahrensmangel feststellt, muss diesen unverzüglich rügen, solange er noch behoben werden kann; es ist treuwidrig, passiv abzuwarten, um den Formmangel erst später im Rechtsmittelverfahren vorzubringen ([BGE 151 II 625 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_011_BGE-151-II-625_2024.html); [BGE 134 V 306 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-134-V-306_2008.html)). Für eine berufsmässige Vertretung gilt insoweit ein erhöhter Sorgfaltsmassstab: Stellt eine Versicherung eine Verfügung an den in der Vollmacht genannten statutarischen Hauptsitz der Mandatarin zu und leitet dieser die Akte intern an eine regionale Geschäftsstelle weiter, sodass auf der Verfügung zwei Eingangsstempel mit unterschiedlichen Daten prangen, darf die Mandatarin nicht einfach annehmen, die Frist beginne erst mit dem späteren internen Maileingang zu laufen. Sie muss die verfahrensrechtliche Unklarheit unverzüglich rügen bzw. abklären. Unterlässt sie dies, zerstört das passive Zuwarten den Vertrauensschutz nach Art. 49 Abs. 3 ATSG; die 30-tägige Einsprachefrist (Art. 52 Abs. 1 ATSG) beginnt mit der wirksamen ersten Zustellung am Sitz zu laufen ([BGer 8C_50/2026 vom 29. Oktober 2026 E. 4.2 und 5.1–5.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.10.2026_8C_50/2026)).
 
 ### IV. Aufschiebende Wirkung (Abs. 5)
 
-**9** **Regelfall und Entzug.** Einsprache und Beschwerde haben von Gesetzes wegen aufschiebende Wirkung. Der Versicherungsträger kann diese entziehen, wenn triftige Gründe vorliegen.
+**10** **Regelfall und Entzug.** Einsprache und Beschwerde haben von Gesetzes wegen aufschiebende Wirkung. Der Versicherungsträger kann diese entziehen, wenn triftige Gründe vorliegen.
 
-**10** **Rückerstattungsausnahme.** Bei Verfügungen über die Rückerstattung unrechtmässig bezogener Leistungen (Art. 25 ATSG) ist der Entzug der aufschiebenden Wirkung gesetzlich zwingend ausgeschlossen (Abs. 5 Satz 2; [BGE 129 V 370 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-129-V-370_2003.html)).
+**11** **Rückerstattungsausnahme.** Bei Verfügungen über die Rückerstattung unrechtmässig bezogener Leistungen (Art. 25 ATSG) ist der Entzug der aufschiebenden Wirkung gesetzlich zwingend ausgeschlossen (Abs. 5 Satz 2; [BGE 129 V 370 E. 3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-129-V-370_2003.html)).
 
 ---
 
@@ -62,7 +68,7 @@ revisions:
 
 ### 2. Heilung von Eröffnungsmängeln und Fristwahrung vor kantonalen Gerichten
 **Problem:** Wie behandeln kantonale Versicherungsgerichte Beschwerden, wenn die IV-Stelle eine unklare Rechtsmittelbelehrung erteilt hat (z.B. Verweis auf falsche kantonale Instanz oder fehlender Hinweis auf die 30-tägige Frist)?  
-**Kantonale Praxis & Bundesgericht:** Nach ständiger kantonaler Praxis greift der Vertrauensschutz von Art. 49 Abs. 3 Satz 2 ATSG uneingeschränkt: Das kantonale Gericht überweist falsch eingereichte Rechtsschriften von Amtes wegen an die zuständige Instanz (Art. 30 ATSG). Eine Fristversäumnis schadet dem Versicherten nicht, es sei denn, er war anwaltlich vertreten und der Fehler war für die Rechtsvertretung bei einfacher Gesetzeslektüre offensichtlich erkennbar ([BGE 130 III 396 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-III-396_2004.html)).
+**Kantonale Praxis & Bundesgericht:** Nach ständiger kantonaler Praxis greift der Vertrauensschutz von Art. 49 Abs. 3 Satz 2 ATSG uneingeschränkt: Das kantonale Gericht überweist falsch eingereichte Rechtsschriften von Amtes wegen an die zuständige Instanz (Art. 30 ATSG). Eine Fristversäumnis schadet dem Versicherten nicht, es sei denn, er war anwaltlich vertreten und der Fehler war für die Rechtsvertretung bei einfacher Gesetzeslektüre offensichtlich erkennbar ([BGE 130 III 396 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-130-III-396_2004.html)). Der Vertrauensschutz versagt ferner nach Treu und Glauben, wenn eine berufsmässige Vertretung einen Zustellmangel erkennt (z.B. doppelte Eingangsstempel auf der Verfügung) und diesen nicht unverzüglich rügt, sondern die Einsprachefrist eigenmächtig ab dem späteren Datum berechnet ([BGer 8C_50/2026 E. 5.1–5.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.10.2026_8C_50/2026)).
 
 ---
 

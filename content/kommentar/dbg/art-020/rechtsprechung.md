@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 20 DBG"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-11-09
+lastmod: 2026-11-19
 description: "Übersicht der Leitentscheide und weiteren Entscheide zu Art. 20 DBG — Ertrag aus beweglichem Vermögen, verdeckte Gewinnausschüttung, simuliertes Darlehen, Dreieckstheorie, Kapitaleinlageprinzip (KER), Aktienrückkauf und Teilliquidation."
 tags: ["Rechtsprechung", "DBG", "Einkommensteuer", "Ertrag", "bewegliches Vermögen", "verdeckte Gewinnausschüttung", "Kapitaleinlageprinzip", "Dividende"]
 revisions:
+  - date: 2026-11-19
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 9C_608/2025 vom 3. September 2026 unter II. Weitere Entscheide (Rückkauf eigener Anteile durch ausländische Körperschaft zwecks Kapitalherabsetzung als steuerbare Teilliquidation nach Art. 20 Abs. 1 lit. c Satz 1 DBG unabhängig vom Anfallen von Verrechnungssteuer nach Art. 4a VStG)."
   - date: 2026-11-09
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -83,3 +87,8 @@ revisions:
 **[BGer 2C_449/2017](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_002_2C-449-2017_2018-02-26.html)** vom 26. Februar 2018  
 *Sachverhalt:* Ein Aktionär bezog von seiner Gesellschaft ein ungesichertes Darlehen von CHF 800'000 für den Kauf einer privaten Wohnliegenschaft. Es wurden weder Zinsen bezahlt noch Amortisationen geleistet; die Darlehensschuld überstieg das sonstige Vermögen des Aktionärs bei weitem.  
 *Kernaussage:* Fehlen Sicherheiten, Zinszahlung und Amortisationsfähigkeit, ist das Darlehen als simuliert zu qualifizieren und im Zeitpunkt der Auszahlung vollumfänglich als verdeckte Gewinnausschüttung nach Art. 20 Abs. 1 lit. c DBG aufzurechnen (E. 3.2–3.4).
+
+### Rückkauf eigener Anteile durch ausländische Körperschaft als steuerbare Teilliquidation
+**[BGer 9C_608/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=03.09.2026_9C_608/2025)** vom 3. September 2026  
+*Sachverhalt:* Ein im Kanton Waadt unbeschränkt steuerpflichtiger Gesellschafter hielt Anteile an einer französischen Société civile (D.________), deren Kapital in Anteile gegliedert war (Art. 49 Abs. 3 DBG). Die Gesellschaft beschloss eine Kapitalherabsetzung durch Rückkauf und anschliessende Vernichtung von Anteilen. Der Steuerpflichtige veräusserte 2'221 Anteile an die Gesellschaft und erzielte einen Erlös von EUR 349'363.30. Die kantonale Steuerverwaltung rechnete die Differenz zum Nennwert (CHF 350'817) als steuerbaren Liquidationsüberschuss auf. Der Steuerpflichtige rügte die Verletzung des Legalitätsprinzips (Art. 127 Abs. 1 BV) und machte geltend, es handle sich um einen steuerfreien privaten Kapitalgewinn (Art. 16 Abs. 3 DBG); eine Besteuerung als Teilliquidation nach Art. 20 Abs. 1 lit. c DBG setze zwingend das Anfallen von Schweizer Verrechnungssteuer nach Art. 4a VStG voraus.  
+*Kernaussage:* Klärt eine bisher offene Rechtsfrage (vgl. BGer 2C_1059/2017 vom 19. Februar 2020 E. 6.1): Der Rückkauf eigener Anteile mit anschliessender Kapitalherabsetzung und Vernichtung stellt auch bei einer ausländischen Körperschaft eine steuerbare Teilliquidation dar. Die erste Satzhälfte von Art. 20 Abs. 1 lit. c DBG («Liquidationsüberschüsse») bildet eine hinreichend bestimmte gesetzliche Grundlage gemäss Art. 127 Abs. 1 BV. Der Verweis auf Art. 4a VStG in Satz 2 regelt lediglich den Realisationszeitpunkt im inländischen Verrechnungssteuerkontext, begründet aber keine *conditio sine qua non* für die materielle Einkommenssteuerpflicht in der Schweiz (E. 4.2–4.3, 7.1–7.5).
