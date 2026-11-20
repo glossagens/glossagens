@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 49 ZPO"
 weight: 99
 date: 2026-09-02
-lastmod: 2026-09-02
+lastmod: 2026-11-20
 description: "Übersicht der Entscheide zu Art. 49 ZPO — Ausstandsgesuch, Gebot der Unverzüglichkeit (10-Tage-Regel), Verwirkungsfristen, Glaubhaftmachung und Stellungnahme der abgelehnten Gerichtsperson."
 tags: ["Rechtsprechung", "ZPO", "Ausstand", "Befangenheit", "Unverzüglichkeit", "Stellungnahme"]
 revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "gemini-3-pro"
+    note: "Ergänzung von BGer 4A_126/2026 vom 30.09.2026 (Unverzüglichkeit bei mündlichen Verhandlungen, vorläufige Rechtsansicht bei Vergleichsverhandlungen nach Art. 124 Abs. 3 ZPO)."
   - date: 2026-09-02
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -109,3 +113,13 @@ revisions:
 ### 12. [BGer 4A_104/2015](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-104-2015_2015-05-20.html) vom 20. Mai 2015 — Verwirkung nach 40 Tagen
 
 - **Kernaussage:** Ein Zuwarten von 40 Tagen bis zur Stellung des Ausstandsgesuchs schliesst die Unverzüglichkeit definitiv aus (E. 6).
+
+---
+
+### 13. [BGer 4A_126/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=30.09.2026_4A_126/2026) vom 30. September 2026 — Unverzüglichkeit bei mündlichen Verhandlungen und vorläufige Einschätzung bei Vergleichsverhandlungen (Art. 124 Abs. 3 ZPO)
+
+- **Thema:** Rechtzeitigkeit des Ausstandsgesuchs nach Vorkommnissen an mündlichen Verhandlungen; richterliche Rechts- und Schadenseinschätzung in der informellen Vergleichsphase begründet keine Befangenheit.
+- **Sachverhalt:** In einem Lizenzvertragsstreit fand nach einem Schriftenwechsel eine gerichtliche Verhandlung statt. In der informellen Vergleichsphase (Art. 124 Abs. 3 ZPO) gab der Instruktionsrichter eine vorläufige Einschätzung der Sach- und Rechtslage ab und bezifferte den mutmasslichen Schaden. Drei Tage nach der Verhandlung reichte die Beklagte gestützt auf Art. 49 ZPO ein Ausstandsgesuch wegen Befangenheit ein.
+- **Kernaussage:**
+  1. *Unverzüglichkeit (Art. 49 Abs. 1 ZPO):* Nach Praxis und Lehre (Botschaft ZPO, BBl 2006 7221 ff.; Trezzini) stellt sich die Frage, ob Ausstandsgründe aus mündlichen Verhandlungen unverzüglich an der Verhandlung selbst vorgebracht werden müssen (vgl. BGer 5A_316/2012 E. 6.1) oder ob eine Eingabe wenige Tage danach (hier: 3 Tage) noch rechtzeitig ist (vgl. BGer 5A_463/2017 E. 3.4). Das Bundesgericht liess die Frage der Rechtzeitigkeit offen, da das Gesuch materiell unbegründet war (E. 3.1).
+  2. *Keine Befangenheit bei Vergleichsverhandlungen (Art. 47 Abs. 1 lit. f ZPO):* Eine vorläufige rechtliche Beurteilung und die Nennung von Vergleichsbeträgen bzw. eine Schadensschätzung im Rahmen einer Vergleichsverhandlung nach Art. 124 Abs. 3 ZPO begründen für sich allein keinen Anschein der Befangenheit gemäss Art. 47 Abs. 1 lit. f ZPO (Bestätigung von BGE 152 III 61; E. 5.1 & 5.2).

@@ -2,10 +2,14 @@
 title: "Art. 28 — Rentenanspruch"
 weight: 28
 date: 2026-06-07
-lastmod: 2026-11-13
+lastmod: 2026-11-20
 description: "Kommentar zu Art. 28 IVG — Rentenanspruch bei Invalidität: Voraussetzungen, Einkommensvergleich, Eingliederungsvorrang, Beitragsdauer und ordentliche vs. ausserordentliche Rente"
 tags: ["IVG", "Rentenanspruch", "Invalidität", "Einkommensvergleich", "Eingliederung"]
 revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 9C_364/2025 vom 21.10.2026 zur zwingenden einjährigen Wartefrist (Art. 28 Abs. 1 lit. b IVG) und deren vollständigem Neuablauf bei Neuanmeldungen nach Ablauf der Frist von Art. 29bis IVV; lastmod auf 2026-11-20 setzen."
   - date: 2026-11-13
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -38,7 +42,9 @@ Die versicherte Person muss ihre Erwerbsfähigkeit oder die Fähigkeit, sich im 
 
 #### 2. Arbeitsunfähigkeit während eines Jahres (Abs. 1 lit. b)
 
-Die versicherte Person muss während eines Jahres **ohne wesentlichen Unterbruch** durchschnittlich mindestens 40 Prozent arbeitsunfähig gewesen sein. Der Begriff der Arbeitsunfähigkeit richtt sich nach [Art. 6 ATSG](https://www.fedlex.admin.ch/eli/cc/2000/235/235/art_6/de) ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.2). Ein «wesentlicher Unterbruch» liegt nicht vor, wenn die Arbeitsfähigkeit innerhalb des Jahres nur vorübergehend wiederhergestellt war.
+Die versicherte Person muss während eines Jahres **ohne wesentlichen Unterbruch** durchschnittlich mindestens 40 Prozent arbeitsunfähig gewesen sein. Der Begriff der Arbeitsunfähigkeit richtet sich nach [Art. 6 ATSG](https://www.fedlex.admin.ch/eli/cc/2000/235/235/art_6/de) ([BGE 130 V 343](https://mcp.opencaselaw.ch/entscheid/bge_BGE_130_V_343) E. 2.2). Ein «wesentlicher Unterbruch» liegt nicht vor, wenn die Arbeitsfähigkeit innerhalb des Jahres nur vorübergehend wiederhergestellt war.
+
+Die einjährige Wartezeit nach Art. 28 Abs. 1 lit. b IVG ist eine **zwingende, kumulative Anspruchsvoraussetzung**. Bei einer Neuanmeldung nach einer rechtskräftigen Rentenaufhebung kann die Wartezeit nur dann entfallen, wenn die Voraussetzungen eines Wiederauflebens nach [Art. 29bis IVV](https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/de#art_29_bis) erfüllt sind (erneuter Eintritt einer rentenbegründenden Arbeitsunfähigkeit innert drei Jahren seit der Aufhebung). Sind seit der Rentenaufhebung hingegen mehr als drei Jahre vergangen, ist Art. 29bis IVV unanwendbar; die versicherte Person muss die Wartefrist von einem Jahr (durchschnittlich mindestens 40 % Arbeitsunfähigkeit ohne wesentlichen Unterbruch) zwingend vollumfänglich neu durchlaufen. Der Rentenanspruch entsteht somit frühestens nach Ablauf dieses Wartejahres und darf von den Gerichten nicht bereits rückwirkend auf den Zeitpunkt des erneuten Eintritts der Arbeitsunfähigkeit festgesetzt werden ([BGer 9C_364/2025 vom 21. Oktober 2026 E. 4.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=21.10.2026_9C_364/2025)).
 
 #### 3. Invaliditätsgrad von mindestens 40 Prozent (Abs. 1 lit. c)
 

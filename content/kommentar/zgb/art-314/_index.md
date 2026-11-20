@@ -2,10 +2,14 @@
 title: "Art. 314 ZGB — Verfahren im Kindesschutz"
 weight: 314
 date: "2026-05-15"
-lastmod: 2026-10-15
+lastmod: 2026-11-20
 description: "Kommentar zu Art. 314 ZGB – Verfahrensverweis auf das Erwachsenenschutzrecht, Untersuchungsmaxime, Anhörungspflicht, Mediation und Beistandschaft im Dispositiv."
 tags: ["ZGB", "Kindesschutz", "Verfahrensrecht", "Anhörungspflicht", "KESB"]
 revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Einarbeitung von BGer 5A_203/2026 vom 26.10.2026 zur Entbehrlichkeit einer mündlichen Parteiverhandlung nach Art. 314 Abs. 1 ZGB i.V.m. Art. 447 ZGB und Art. 6 Ziff. 1 EMRK bei gefestigter autonomer Kindesverweigerung"
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -66,7 +70,7 @@ revisions:
 
 **7** Im Kindesschutzverfahren besteht kraft Art. 314 Abs. 1 i.V.m. Art. 447 Abs. 1 ZGB ein Recht auf persönliche — d.h. mündliche — Anhörung. «Persönliche Anhörung» nach Art. 447 Abs. 1 ZGB bedeutet mündliche Anhörung ([BGer 5A_750/2024 vom 2. Mai 2025, E. 3.2.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_750_2024#e-3-2-1)). Das Recht auf mündliche Anhörung ergibt sich nicht aus Art. 29 Abs. 2 BV (der gibt keinen Anspruch auf mündliche Anhörung), sondern aus Art. 447 ZGB (für betroffene Erwachsene) und Art. 314a ZGB (für das Kind). Eltern als Inhaber der elterlichen Sorge sind kraft der Intensität ihrer Betroffenheit in der Regel persönlich anzuhören ([BGer 5A_543/2014 vom 17. März 2015, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_543_2014#e-2-1)).
 
-**8** Die persönliche Anhörung entfällt, soweit sie als «unverhältnismässig» erscheint (Art. 447 Abs. 1 ZGB). Unverhältnismässig ist die persönliche Anhörung dort, wo es auf den persönlichen Eindruck der Behörde von der betroffenen Person nicht entscheidend ankommt — namentlich bei rein schriftlich beurteilbaren Sachverhalten ([BGer 5A_750/2024 vom 2. Mai 2025, E. 3.2.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_750_2024#e-3-2-1)). Die Behörde muss die Unverhältnismässigkeit begründen.
+**8** Die persönliche Anhörung entfällt, soweit sie als «unverhältnismässig» erscheint (Art. 447 Abs. 1 ZGB). Unverhältnismässig ist die persönliche Anhörung dort, wo es auf den persönlichen Eindruck der Behörde von der betroffenen Person nicht entscheidend ankommt — namentlich bei rein schriftlich beurteilbaren Sachverhalten ([BGer 5A_750/2024 vom 2. Mai 2025, E. 3.2.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_750_2024#e-3-2-1)). Die Behörde muss die Unverhältnismässigkeit begründen. Eine erneute persönliche Anhörung oder mündliche Parteiverhandlung eines Elternteils ist insbesondere dann entbehrlich, wenn ein im jugendlichen Alter stehendes Kind (etwa ein 16-jähriger Sohn) jeglichen persönlichen Kontakt zu diesem Elternteil autonom und kategorisch ablehnt. In diesem Fall steht nicht mehr die Erziehungsfähigkeit oder die persönliche Glaubwürdigkeit des Elternteils im Vordergrund, sondern die autonome Willensbildung des urteilsfähigen Jugendlichen ([BGer 5A_203/2026 vom 26. Oktober 2026, E. 5.1–5.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.10.2026_5A_203/2026)). Wurde der Elternteil zudem in eng zusammenhängenden vorangegangenen Verfahren bereits persönlich angehört und steht der Sachverhalt fest, verletzt der Verzicht auf eine erneute mündliche Verhandlung weder Art. 314 Abs. 1 i.V.m. Art. 447 ZGB noch die verfassungsrechtlichen Verfahrensgarantien.
 
 **9** Die Verletzung der Anhörungspflicht nach Art. 447 ZGB kann durch die Beschwerdeinstanz geheilt werden, wenn (a) die Verletzung nicht besonders schwerwiegend ist und (b) die betroffene Person sich vor einer Instanz mit vollständiger Kognition äussern kann. Heilung setzt voraus, dass die Beschwerdeinstanz die Anhörung tatsächlich durchführt ([BGer 5A_2/2016 vom 28. April 2016](https://mcp.opencaselaw.ch/entscheid/bger_5A_2_2016)). Bei vollständig unterbliebener Kindesanhörung (Art. 314a ZGB) scheidet Heilung aus; die Sache ist zur Anhörung zurückzuweisen (BGer 5A_2/2016 vom 28. April 2016).
 
@@ -80,7 +84,7 @@ revisions:
 
 ### Konventionsrechtliche Dimension (Art. 6 EMRK)
 
-**12** Im Kindesschutzverfahren hat die betroffene Person gestützt auf Art. 6 Ziff. 1 EMRK grundsätzlich Anspruch auf eine (publikums-)öffentliche Verhandlung. Die Öffentlichkeit kann nicht pauschal mit Hinweis auf den «Schutz des Privatlebens» vom Verfahren ausgeschlossen werden; ein ausnahmsweiser Ausschluss bedarf spezieller Gründe, etwa der Beeinträchtigung der Gesundheit und Entwicklung des Kindes ([BGer 5A_93/2022 vom 20. September 2022, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_93_2022#e-4-2)). Art. 6 EMRK gilt ergänzend neben Art. 447 ZGB.
+**12** Im Kindesschutzverfahren hat die betroffene Person gestützt auf Art. 6 Ziff. 1 EMRK grundsätzlich Anspruch auf eine (publikums-)öffentliche Verhandlung. Die Öffentlichkeit kann nicht pauschal mit Hinweis auf den «Schutz des Privatlebens» vom Verfahren ausgeschlossen werden; ein ausnahmsweiser Ausschluss bedarf spezieller Gründe, etwa der Beeinträchtigung der Gesundheit und Entwicklung des Kindes ([BGer 5A_93/2022 vom 20. September 2022, E. 4.2](https://mcp.opencaselaw.ch/entscheid/bger_5A_93_2022#e-4-2)). Art. 6 EMRK gilt ergänzend neben Art. 447 ZGB. Der konventionsrechtliche Anspruch auf eine mündliche Parteiverhandlung greift indessen nicht absolut: Steht bei einem Besuchsrechtsstreit nicht das Verhalten oder die Erziehungsfähigkeit des Elternteils zur Beurteilung, sondern ausschliesslich die gefestigte und autonome Ablehnungshaltung eines urteilsfähigen Jugendlichen (16 Jahre), gebietet Art. 6 Ziff. 1 EMRK keine erneute mündliche Verhandlung der Eltern (Abgrenzung zur EGMR-Rechtsprechung in *Morales c. Suisse* vom 9. Mai 2023, Nr. 69212/17; [BGer 5A_203/2026 vom 26. Oktober 2026, E. 5.1–5.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.10.2026_5A_203/2026)).
 
 ---
 

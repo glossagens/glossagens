@@ -2,10 +2,14 @@
 title: "Art. 49 ZPO — Ausstandsgesuch"
 weight: 49
 date: 2026-09-02
-lastmod: 2026-10-15
+lastmod: 2026-11-20
 description: "Kommentar zu Art. 49 ZPO: Form, Frist (Unverzüglichkeit) und Glaubhaftmachung des Ausstandsgesuchs im Zivilprozess sowie Stellungnahme der betroffenen Gerichtsperson."
 tags: ["ZPO", "Ausstand", "Befangenheit", "Gerichtsperson", "Unverzüglichkeit", "Verwirkung", "Stellungnahme"]
 revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "gemini-3-pro"
+    note: "Einarbeitung von BGer 4A_126/2026 vom 30.09.2026 zur Unverzüglichkeit bei mündlichen Verhandlungen und zur richterlichen Einschätzung bei Vergleichsverhandlungen gemäss Art. 124 Abs. 3 ZPO."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -39,6 +43,7 @@ revisions:
 **4** Nach konstanter bundesgerichtlicher Rechtsprechung gilt als Richtwert für die Unverzüglichkeit eine Frist von **rund 10 Tagen** ab Kenntnis des Grundes bzw. der Besetzung ([BGer 4A_600/2015 vom 1. April 2016 E. 6.3](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-600-2015_2016-04-01.html)). 
 - Ein Zuwarten von **21 Tagen** ohne stichhaltige Begründung gilt als verspätet und führt zur Verwirkung des Rügerechts ([BGer 5A_110/2026 vom 4. August 2026 E. 4.1](https://mcp.opencaselaw.ch/entscheid/5A_110/2026)).
 - Ebenso wurden Fristen von **24 Tagen** ([BGer 4A_56/2019 vom 27. Mai 2019 E. 4.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-56-2019_2019-05-27.html)) und **40 Tagen** ([BGer 4A_104/2015 vom 20. Mai 2015 E. 6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-104-2015_2015-05-20.html)) als verspätet qualifiziert.
+- **Vorkommnisse in mündlichen Verhandlungen:** Bei Ausstandsgründen, die sich aus dem Gang einer mündlichen Verhandlung ergeben, stellt sich nach bundesgerichtlicher Praxis und Lehre (Botschaft ZPO, [BBl 2006 7221](https://www.fedlex.admin.ch/eli/fga/2006/1056/de), S. 7274; Trezzini) die Frage, ob diese zwingend sogleich an der Verhandlung selbst gerügt werden müssen ([BGer 5A_316/2012 vom 16. Oktober 2012 E. 6.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=16.10.2012_5A_316/2012)) oder ob eine schriftliche Eingabe wenige Tage danach noch als unverzüglich anzusehen ist (vgl. [BGer 5A_463/2017 vom 24. Oktober 2017 E. 3.4](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=24.10.2017_5A_463/2017)). In [BGer 4A_126/2026 vom 30. September 2026 E. 3.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=30.09.2026_4A_126/2026) liess das Bundesgericht die Frage der Rechtzeitigkeit bei einem drei Tage nach der Verhandlung eingereichten Gesuch ausdrücklich offen, da das Begehren materiell unbegründet war.
 - Eine Ausnahme greift nur, wenn die Befangenheit derart offensichtlich ist, dass die Gerichtsperson von Amtes wegen hätte in den Ausstand treten müssen ([BGE 150 I 68 E. 4.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-150-I-68_2023.html#consideration_4.1)).
 
 ### 3. Keine Erneuerung durch Wiederholung
@@ -53,6 +58,7 @@ revisions:
 **7** Das Bundesgericht stellt an den materiellen Gehalt von Ausstandsgründen strenge Anforderungen:
 - **Verfahrensfehler:** Materielle oder formelle Verfahrensfehler einer Gerichtsperson stellen deren Unbefangenheit nur ausnahmsweise infrage, wenn sie besonders schwer wiegen oder sich wiederholen und eine vorgefasste Meinung manifestieren ([BGE 152 III 61 E. 6.2.12](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-152-III-61_2025.html); [BGE 143 IV 69 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-69_2017.html#consideration_3.2)). Gewöhnliche Verfahrensfehler sind auf dem ordentlichen Rechtsmittelweg zu rügen.
 - **Strafanzeigen:** Die blosse Einreichung einer Strafanzeige oder Aufsichtsbeschwerde gegen eine Gerichtsperson begründet für sich allein keinen Anschein der Befangenheit ([BGer 5A_434/2026 vom 22. Mai 2026 E. 5.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-434-2026_2026-05-22.html); [BGer 5A_979/2025 vom 11. Dezember 2025 E. 4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-979-2025_2025-12-11.html)). Andernfalls hätte es eine Partei in der Hand, sich durch eine gezielte Anzeige eine ihr missliebige Gerichtsperson vom Hals zu schaffen. Anders verhält es sich nur, wenn der Konflikt nachweisbar eine persönliche Dimension angenommen hat ([BGer 7B_1111/2025 vom 1. Juni 2026 E. 5.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1111-2025_2026-06-01.html)).
+- **Vergleichsverhandlungen und vorläufige Rechtsansichten ([Art. 124 Abs. 3 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_124)):** Das Gericht ist im Rahmen der materiellen Prozessleitung ausdrücklich berufen, jederzeit eine gütliche Einigung zu versuchen ([Art. 124 Abs. 3 ZPO](https://www.fedlex.admin.ch/eli/cc/2010/262/de#art_124)). Eine vorläufige rechtliche Beurteilung der Sach- und Rechtslage, die Erörterung von Prozessrisiken oder die Schätzung des mutmasslichen Schadens sowie das Unterbreiten konkreter Vergleichsbeträge durch die instruierende Gerichtsperson in der informellen Vergleichsphase begründen für sich allein keinen Anschein der Befangenheit gemäss [Art. 47 Abs. 1 lit. f ZPO](https://glossagens.ch/kommentar/zpo/art-047/) ([BGer 4A_126/2026 vom 30. September 2026 E. 5.1 & 5.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=30.09.2026_4A_126/2026), Bestätigung von [BGE 152 III 61 E. 6.2.12](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-152-III-61_2025.html)). Vorläufige richterliche Einschätzungen dienen der Orientierung der Parteien über die Prozessaussichten; eine unzulässige Voreingenommenheit liegt erst dann vor, wenn die richterlichen Äusserungen erkennen lassen, dass sich das Gericht bereits vor Abschluss des Verfahrens endgültig festgelegt hat und für Gegenargumente oder das Beweisergebnis nicht mehr offen ist.
 
 ---
 

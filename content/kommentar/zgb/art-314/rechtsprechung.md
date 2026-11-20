@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 314 ZGB"
 weight: 99
 date: 2026-05-15
-lastmod: 2026-08-19
+lastmod: 2026-11-20
 description: "Übersicht der Rechtsprechung zu Art. 314 ZGB – Verfahren im Kindesschutz, Untersuchungsmaxime, Anhörungspflicht und vorsorgliche Massnahmen."
 tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Verfahrensrecht"]
+revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "antigravity"
+    note: "Einarbeitung von BGer 5A_203/2026 vom 26.10.2026 zur Entbehrlichkeit einer mündlichen Parteiverhandlung nach Art. 314 Abs. 1 ZGB i.V.m. Art. 447 ZGB und Art. 6 Ziff. 1 EMRK bei gefestigter autonomer Kindesverweigerung."
 ---
 
 # Rechtsprechung zu Art. 314 ZGB
@@ -70,6 +75,12 @@ tags: ["Rechtsprechung", "ZGB", "Kindesschutz", "Verfahrensrecht"]
 ### **Rechtsgrundlage der mündlichen Anhörungspflicht und Gehörsanspruch der Eltern**
 * **Fundstelle**: [BGer 5A_543/2014 vom 17. März 2015, E. 2.1](https://mcp.opencaselaw.ch/entscheid/bger_5A_543_2014#e-2-1)
 * **Sachverhalt & Kernaussage**: Der verfassungsrechtliche Gehörsanspruch nach Art. 29 Abs. 2 BV verschafft keinen Anspruch auf mündliche Anhörung. Ein gesetzliches Recht auf mündliche Anhörung ergibt sich im Verfahren vor der KESB jedoch aus Art. 314a ZGB (für das Kind) sowie Art. 314 Abs. 1 i.V.m. Art. 447 ZGB (für betroffene Erwachsene). Eltern sind aufgrund ihrer Betroffenheit in aller Regel persönlich anzuhören.
+
+---
+
+### **Entbehrlichkeit einer erneuten mündlichen Anhörung bei autonomer Verweigerungshaltung urteilsfähiger Jugendlicher**
+* **Fundstelle**: [BGer 5A_203/2026 vom 26. Oktober 2026, E. 5.1–5.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.10.2026_5A_203/2026) (vgl. auch [Zusammenfassung auf bger-update.ch](https://www.bger-update.ch/zusammenfassung/35333/))
+* **Sachverhalt & Kernaussage**: Ein Vater beantragte nach jahrelang sistiertem Besuchsrecht zu seinem mittlerweile 16-jährigen Sohn die Aufhebung der Sistierung sowie eine mündliche Verhandlung und erneute Begutachtung. Der Sohn lehnte den persönlichen Kontakt zum Vater autonom und kategorisch ab. Das Obergericht des Kantons Bern wies die Beschwerde ohne erneute mündliche Verhandlung ab. Das Bundesgericht verneinte eine Verletzung von Art. 314 Abs. 1 ZGB i.V.m. Art. 447 ZGB und Art. 6 Ziff. 1 EMRK: Im Kindesschutzverfahren besteht kein Anspruch auf eine erneute persönliche Anhörung oder mündliche Parteiverhandlung der Eltern, wenn der im jugendlichen Alter stehende Sohn (16 Jahre) jeden persönlichen Kontakt zum Vater autonom und kategorisch ablehnt. In einem solchen Fall steht nicht mehr die Erziehungsfähigkeit oder Glaubwürdigkeit des Elternteils im Vordergrund (Abgrenzung zu EGMR *Morales c. Suisse* vom 9. Mai 2023, Nr. 69212/17), sondern die autonome Willensbildung des Kindes. Bei vorangegangener Anhörung in eng verwandten Verfahren und feststehendem Sachverhalt verletzt der Verzicht auf eine erneute mündliche Verhandlung weder Art. 6 EMRK noch Art. 314 Abs. 1 ZGB.
 
 ---
 

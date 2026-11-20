@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 52 StGB — Geringfügigkeit von Schuld und Tatfolgen"
 weight: 99
 date: 2026-10-01
-lastmod: 2026-10-03
+lastmod: 2026-11-20
 description: "Rechtsprechungssammlung zu Art. 52 StGB: Grundsatzentscheide des Bundesgerichts und kantonale Praxis zu Geringfügigkeit, Quervergleich, verfahrensrechtlicher Umsetzung und Kostenfolgen."
 tags: ["Rechtsprechung", "StGB", "Strafbefreiung", "Geringfügigkeit", "Schuld", "Tatfolgen", "Quervergleich"]
 revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 7B_1310/2024 vom 02.11.2026 zum Kompensationsverbot und Schwellenwert bei Sachbeschädigung Fr. 1500.-; lastmod auf 2026-11-20 setzen."
   - date: 2026-10-01
     by: "Glossagens Agent"
     model: "glm-5.2"
@@ -82,6 +86,11 @@ revisions:
 - **Sachverhalt**: Ein Strafverfahren wegen Amtsgeheimnisverletzung (Art. 320 StGB) wurde gestützt auf Art. 8 Abs. 1 und 4 StPO i.V.m. Art. 52 StGB eingestellt. Dem Beschuldigten wurden gestützt auf Art. 426 Abs. 2 StPO die Verfahrenskosten auferlegt und eine Parteientschädigung verweigert. Er rügte eine Verletzung der Unschuldsvermutung.
 - **Kernaussage**: Die Verfahrenseinstellung nach Art. 52 StGB erfolgt nicht mangels Tatverdachts oder wegen erwiesener Schuldlosigkeit, sondern wegen fehlenden staatlichen Strafbedürfnisses. Steht fest, dass die beschuldigte Person die Untersuchung durch ein rechtswidriges und schuldhaftes Verhalten veranlasst hat, ist eine Kostenauflage nach Art. 426 Abs. 2 StPO zulässig und verstösst nicht gegen Art. 32 Abs. 1 BV oder Art. 6 Ziff. 2 EMRK (E. 1.4).
 
+### [BGer 7B_1310/2024 vom 2. November 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.11.2026_7B_1310/2024) E. 3.7.1 — Kompensationsverbot und Schwellenwert bei Sachbeschädigung (Fr. 1'500.-)
+- **Thema**: Striktes Kompensationsverbot zwischen Schuld und Tatfolgen; Nichtanwendbarkeit von Art. 52 StGB bei Sachbeschädigung mit Reparaturkosten von rund Fr. 1'500.- (keine signifikante Abweichung vom typischen Regelfall).
+- **Sachverhalt**: Nach einem Verkehrsstreit auf der Autobahn A1 schlug ein Rollerfahrer auf die Hand und den Aussenspiegel eines Personenwagens (Maserati) ein. Der Aussenspiegel ging zu Bruch, was Reparaturkosten in Höhe von Fr. 1'504.30 verursachte. Die Staatsanwaltschaft und das Kantonsgericht Waadt verfügten bzw. bestätigten die Nichtanhandnahme des Strafverfahrens (Art. 310 Abs. 1 lit. c i.V.m. Art. 8 Abs. 1 StPO) wegen Art. 52 StGB sowohl für die Tätlichkeiten als auch für die Sachbeschädigung (Art. 144 StGB). Der Fahrzeughalter erhob Beschwerde in Strafsachen an das Bundesgericht.
+- **Kernaussage**: Die II. strafrechtliche Abteilung des Bundesgerichts (Besetzung: Koch, Kölz, Hofmann) hiess die Beschwerde bezüglich der Sachbeschädigung gut: Art. 52 StGB setzt kumulativ geringe Schuld und geringe Tatfolgen voraus. Das Kompensationsverbot (BGE 135 IV 130 E. 5.3.3) verbietet es, nicht geringfügige Tatfolgen durch ein allenfalls geringes Verschulden oder eine entschuldbare Affekthandlung auszugleichen. Ein Fahrzeugschaden von rund Fr. 1'500.- weicht im Quervergleich zu typischen Regelfällen der Sachbeschädigung (Art. 144 StGB) nicht signifikant nach unten ab und stellt keine geringfügige Tatfolge dar. Die Nichtanhandnahme bezüglich Sachbeschädigung verletzte Bundesrecht (E. 3.7.1).
+
 ### [Obergericht Zug, Beschluss BS 2022 48 vom 22. November 2022](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_003_BS-2022-48_2022-11-22.pdf) E. 4, 6 — Mittelfinger-Emoji per SMS und Anwaltsentschädigung bei Bagatelle
 - **Thema**: Beschimpfung via Kurznachricht; Geringfügigkeit bei Fehlen von Öffentlichkeit; keine Parteientschädigung für Verteidiger bei Bagatelluntersuchung.
 - **Sachverhalt**: In einem geschäftlichen Konflikt sandte der Beschuldigte seinem Kontrahenten um 23.29 Uhr eine SMS mit drei «Mittelfinger»-Emojis und drei lachenden Emojis, nachdem dieser Betreibungen über CHF 90 Mio. eingeleitet hatte. Wochen später folgten spöttische Bemerkungen über dessen Herkunft. Der Beschuldigte zeigte keinerlei Reue und verweigerte eine Entschuldigung. Die Staatsanwaltschaft Zug stellte das Verfahren gestützt auf Art. 52 StGB ein, wogegen der Privatkläger Beschwerde erhob.
@@ -97,4 +106,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-10-03*
+*Letzte Aktualisierung: 2026-11-20*

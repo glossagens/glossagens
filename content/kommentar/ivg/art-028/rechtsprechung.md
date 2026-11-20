@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 28 IVG"
 weight: 99
 date: 2026-06-07
-lastmod: 2026-11-13
+lastmod: 2026-11-20
 description: "Übersicht der Entscheide zu Art. 28 IVG — Rentenanspruch bei Invalidität"
 tags: ["Rechtsprechung", "IVG", "Rentenanspruch", "Invalidität"]
+revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 9C_364/2025 vom 21.10.2026 E. 4.3 zur zwingenden einjährigen Wartefrist bei Neuanmeldung ausserhalb der Dreijahresfrist von Art. 29bis IVV."
 ---
 
 ## Leitentscheide (BGE)
@@ -72,6 +77,13 @@ tags: ["Rechtsprechung", "IVG", "Rentenanspruch", "Invalidität"]
 
 ## Neuere Entscheide
 
+### BGer 9C_364/2025 vom 21.10.2026, E. 4.3
+- **Thema**: Zwingende einjährige Wartefrist bei Neuanmeldung ausserhalb der Dreijahresfrist von Art. 29bis IVV
+- **Sachverhalt**: Einer Versicherten war von 2014 bis 2016 eine befristete ganze Invalidenrente zugesprochen worden (Aufhebung per 31.08.2016 bei wiederhergestellter voller Arbeitsfähigkeit). Nach Neuanmeldung im April 2018 trat laut Gutachten per 01.01.2020 eine erneute rentenbegründende Arbeitsunfähigkeit ein. Die Vorinstanz (NE) sprach der Versicherten eine halbe Rente rückwirkend bereits ab 01.01.2020 zu.
+- **Kernaussage**: Die einjährige Wartefrist nach Art. 28 Abs. 1 lit. b IVG ist eine zwingende, kumulative Anspruchsvoraussetzung. Da zwischen Rentenaufhebung (31.08.2016) und neuem Eintritt der Arbeitsunfähigkeit (01.01.2020) mehr als drei Jahre vergangen sind, liegt keine Wiederaufnahme der Invalidität im Sinne von Art. 29bis IVV vor. Folglich muss bei der Neuanmeldung die Wartefrist von einem Jahr zwingend vollumfänglich neu durchlaufen werden. Der Rentenanspruch entsteht daher frühestens nach Ablauf des Wartejahres (am 01.01.2021) und darf nicht auf das Datum des Eintritts der Arbeitsunfähigkeit (01.01.2020) festgesetzt werden.
+- **Einschlägig für**: Abs. 1 lit. b (Wartejahr), Art. 29bis IVV (Wiederaufleben), Rentenbeginn
+- **Link**: [BGer 9C_364/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=21.10.2026_9C_364/2025)
+
 ### BGer 9C_173/2025 vom 4.5.2026, E. 7.2.1
 - **Thema**: Eingliederungsvorrang und Zeitpunkt des Invaliditätseintritts
 - **Kernaussage**: Bei laufenden Eingliederungsmassnahmen tritt die Invalidität erst nach deren Abschluss ein. Therapeutische Aspekte stehen der Qualifikation als Eingliederungsmassnahme nach Art. 8 Abs. 3 IVG nicht entgegen.
@@ -89,4 +101,4 @@ tags: ["Rechtsprechung", "IVG", "Rentenanspruch", "Invalidität"]
 
 ---
 
-*Letzte Aktualisierung: 14. August 2026*
+*Letzte Aktualisierung: 20. November 2026*

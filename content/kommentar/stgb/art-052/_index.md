@@ -2,10 +2,14 @@
 title: "Art. 52 StGB — Geringfügigkeit von Schuld und Tatfolgen"
 weight: 52
 date: 2026-10-01
-lastmod: 2026-10-15
+lastmod: 2026-11-20
 description: "Praxiskommentar zu Art. 52 StGB (SR 311.0): Strafbefreiung bei Geringfügigkeit von Schuld und Tatfolgen — zwingender Charakter, Quervergleich, Kasuistik (angewandt vs. verworfen), prozessuale Durchsetzung via Art. 8 StPO und Kostenfolgen."
 tags: ["StGB", "Strafbefreiung", "Geringfügigkeit", "Schuld", "Tatfolgen", "Opportunitätsprinzip", "Strafverzicht", "Quervergleich", "Strafbedürfnis"]
 revisions:
+  - date: 2026-11-20
+    by: "Antigravity (Commentary Editor)"
+    model: "gemini-3.8-flash"
+    note: "Einarbeitung von BGer 7B_1310/2024 vom 02.11.2026 zum Kompensationsverbot und Schwellenwert bei Sachbeschädigung Fr. 1500.-; lastmod auf 2026-11-20 setzen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -82,7 +86,7 @@ revisions:
 **6** Der Begriff der Tatfolgen erfasst **nicht nur den tatbestandsmässigen Erfolg**, sondern **sämtliche vom Täter verschuldeten Auswirkungen der Tat** ([BGE 135 IV 130 E. 5.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-130_2009.html#consideration_5.3.2)). Hierzu zählen Vermögensschäden, eingetretene Gefährdungen Dritter, Reputationsschäden sowie die Beeinträchtigung des öffentlichen Friedens oder des Vertrauens in staatliche Institutionen.
 
 **7** Schuld und Tatfolgen müssen **strikte kumulativ** geringfügig sein:
-> **Grundsatz der fehlenden Kompensationsmöglichkeit.** Sind die Tatfolgen nicht gering (z.B. Verletzung von Rechtsgütern mit spürbarer Intensität, Gefährdung unbeteiligter Personen oder Verunsicherung der Allgemeinheit), ist Art. 52 StGB von vornherein ausgeschlossen. Schwerwiegendere Tatfolgen können unter keinen Umständen durch ein noch so geringes Verschulden oder vorbildliches Nachtatverhalten ausgeglichen werden ([BGE 135 IV 130 E. 5.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-130_2009.html#consideration_5.3.2)).
+> **Grundsatz der fehlenden Kompensationsmöglichkeit.** Sind die Tatfolgen nicht gering (z.B. Verletzung von Rechtsgütern mit spürbarer Intensität, Gefährdung unbeteiligter Personen oder Verunsicherung der Allgemeinheit), ist Art. 52 StGB von vornherein ausgeschlossen. Schwerwiegendere Tatfolgen können unter keinen Umständen durch ein noch so geringes Verschulden oder vorbildliches Nachtatverhalten ausgeglichen werden ([BGE 135 IV 130 E. 5.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-130_2009.html#consideration_5.3.2)). Selbst wenn das Verschulden im Rahmen einer spontanen Konfliktsituation im Strassenverkehr als leicht gewertet werden könnte, schliessen nicht geringfügige Tatfolgen — wie etwa ein Sachschaden von rund Fr. 1'500.- bei Zerstörung eines Fahrzeug-Aussenspiegels — eine Verfahrenseinstellung oder Strafbefreiung für die Sachbeschädigung zwingend aus ([BGer 7B_1310/2024 vom 2. November 2026 E. 3.7.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.11.2026_7B_1310/2024)).
 
 #### Kasuistik zu den Tatfolgen: Angewandt vs. Verworfen
 
@@ -90,9 +94,13 @@ revisions:
 > In einer hochemotionalen geschäftlichen Auseinandersetzung über Forderungen von CHF 90 Mio. sendete der Beschuldigte seinem Widersacher spät abends eine private Kurznachricht mit drei «Mittelfinger»-Emojis und spöttischen Bemerkungen über dessen familiäre Herkunft. Der Adressat erstattete Strafanzeige wegen Beschimpfung (Art. 177 StGB). Der Beschuldigte zeigte sich uneinsichtig und lehnte jede Entschuldigung ab.  
 > **Die Weichenstellung des Obergerichts Zug:** Das Obergericht schützte die Einstellung der Staatsanwaltschaft nach Art. 52 StGB ([OG ZG BS 2022 48 vom 22. November 2022 E. 4.2](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_003_BS-2022-48_2022-11-22.pdf)). Zwar war der Straftatbestand erfüllt und der Täter handelte vorsätzlich. Die Tatfolgen waren jedoch minimal: Die Herabsetzung erfolgte rein bilateral per Textnachricht, entfaltete keinerlei Breiten- oder Aussenwirkung in der Öffentlichkeit und löste beim Empfänger keine gravierende Kränkung aus. Mangels nennenswerter Tatfolgen fehlte ein öffentliches Strafbedürfnis.
 
-> **Verwerfungsfall: Nacktwandern auf belebtem Wanderweg an Sonntagnachmittag**  
+> **Verwerfungsfall I: Nacktwandern auf belebtem Wanderweg an Sonntagnachmittag**  
 > Ein Mann wanderte an einem sonnigen Sonntagnachmittag vollkommen entblösst auf einem beliebten Wanderweg in der Nähe von Herisau und passierte dabei Familien mit Kleinkindern. Er berief sich auf sein Recht auf freie Persönlichkeitsentfaltung und forderte Strafbefreiung gemäss Art. 52 StGB für die kantonale Übertretung der groben Verletzung von Sitte und Anstand.  
 > **Die Weichenstellung des Bundesgerichts:** Das Bundesgericht verwarf die Anwendung von Art. 52 StGB ([BGE 138 IV 13 E. 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-13_2012.html#consideration_9)). Die Tatfolgen waren keineswegs gering: Das Nacktwandern an einem belebten Ort löste bei einem namhaften Teil der anwesenden Erholungssuchenden Empörung und Irritation aus. Wer die Öffentlichkeit gezielt mit Anstössigkeiten konfrontiert, schafft spürbare Tatfolgen, die eine Strafbefreiung general- und spezialpräventiv verbieten.
+
+> **Verwerfungsfall II: Zerschlagener Aussenspiegel nach Verkehrsstreit (Schaden Fr. 1'500.-)**  
+> Nach einem Verkehrsstreit auf der Autobahn A1 schlug ein Rollerfahrer auf die Hand und den Aussenspiegel eines Personenwagens (Maserati). Der Aussenspiegel ging zu Bruch (Reparaturkosten Fr. 1'504.30). Die Waadtländer Vorinstanz schützte die Nichtanhandnahme (Art. 310 Abs. 1 lit. c i.V.m. Art. 8 Abs. 1 StPO) wegen Art. 52 StGB sowohl hinsichtlich der Tätlichkeiten als auch bezüglich der Sachbeschädigung (Art. 144 StGB).  
+> **Die Weichenstellung des Bundesgerichts:** Das Bundesgericht hiess die Beschwerde bezüglich der Sachbeschädigung gut ([BGer 7B_1310/2024 vom 2. November 2026 E. 3.7.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.11.2026_7B_1310/2024)). Art. 52 StGB verlangt die kumulative Geringfügigkeit von Schuld und Tatfolgen. Das Kompensationsverbot ([BGE 135 IV 130 E. 5.3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-135-IV-130_2009.html#consideration_5.3.3)) verbietet es, nicht geringfügige Tatfolgen durch geringes Verschulden oder entschuldbare Affekthandlungen auszugleichen. Ein Fahrzeugschaden von rund Fr. 1'500.- weicht im Quervergleich zu typischen Regelfällen der Sachbeschädigung nach Art. 144 StGB nicht signifikant nach unten ab und ist daher nicht geringfügig. Die Nichtanhandnahme verletzte Bundesrecht.
 
 ---
 
@@ -164,6 +172,7 @@ Die nachfolgende Tabelle veranschaulicht anhand der publizierten Rechtsprechung 
 | **Beschimpfung (Art. 177 StGB):** Versenden von 3 Mittelfinger-Emojis per SMS an Gläubiger nach Betreibung. | Rein private Kurznachricht; keine Öffentlichkeit; Täter zeigt keine Reue, entschuldigt sich nicht. | **Strafbefreiung bejaht:** Objektive Tatschwere und Tatfolgen minimal; Fehlen von Öffentlichkeit gibt den Ausschlag. | [OG ZG BS 2022 48 E. 4.3](https://entscheidsuche.ch/docs/ZG_Obergericht/ZG_OG_003_BS-2022-48_2022-11-22.pdf) |
 | **Grobe Verletzung von Sitte und Anstand:** Nacktwandern auf belebtem Wanderweg an Sonntagnachmittag. | Täter beruft sich auf Freiheitsrechte; spaziert vor Familien mit Kleinkindern. | **Strafbefreiung verneint:** Tatfolgen erheblich (öffentliche Empörung); Generalprävention verbietet Strafverzicht. | [BGE 138 IV 13 E. 9](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-138-IV-13_2012.html#consideration_9) |
 | **Gewässerverunreinigung (Art. 70 GSchG):** Bohrmeister leitet Spülwasser in Meteorschacht zur Thur. | Sofortiger Bohr-Stopp bei Kontrolle, Übernahme der Einsatzkosten; 25 Jahre Berufserfahrung. | **Strafbefreiung verneint:** Fachkunde und leichte Abklärung im Geoportal begründen nicht geringe Schuld. | [KG SG AK.2024.309-AK E. 4](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_001_AK-2024-309-AK_2024-08-22.pdf) |
+| **Sachbeschädigung (Art. 144 StGB):** Rollerfahrer zerschlägt nach Verkehrsstreit Aussenspiegel (Schaden Fr. 1'504.30). | Verkehrsstreit auf Autobahn A1; Spontantat/Affekt; Tätlichkeiten und Sachbeschädigung. | **Strafbefreiung verneint:** Schaden von rund Fr. 1'500.- weicht nicht signifikant vom Regelfall ab; Kompensationsverbot verbietet Ausgleich durch geringes Verschulden. | [BGer 7B_1310/2024 E. 3.7.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.11.2026_7B_1310/2024) |
 | **Betrug (Art. 146 StGB):** Unberechtigter Bezug von CHF 3'489.- Taggeldern durch falschen Zwischenverdienst. | Ehemaliger Polizist; vollständige Rückzahlung innert 14 Tagen nach Aufforderung. | **Strafbefreiung verneint:** Schutz staatlicher Sozialwerke und Generalprävention verlangen Ahndung. | [BGer 6B_477/2022 E. 2.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_6B-477-2022_2022-08-25.html#consideration_2.2) |
 | **Rechtswidriger Aufenthalt (Art. 115 AIG):** Sans-Papiers arbeitet jahrelang ohne Bewilligung als Haushaltshilfe. | Vorbildliche Integration; Selbstanzeige/Offenlegung zwecks kantonaler Härtefallbewilligung. | **Strafbefreiung verneint:** Regelfall von Art. 115 AIG; Quervergleich erlaubt keine Ausnahme ohne Sondersachverhalt. | [BGer 6B_519/2020 E. 2.5](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_6B-519-2020_2021-09-27.html#consideration_2.5) |
 
