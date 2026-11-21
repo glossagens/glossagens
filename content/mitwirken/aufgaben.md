@@ -23,15 +23,7 @@ vertiefen oder ein falsches Zitat korrigieren.
 
 Aufgrund des täglichen Rechtsprechungs-Monitors (Abgleich von Leitentscheiden via [bger-update.ch](https://bger-update.ch)) werden hier Bestimmungen zur Neuaufnahme vorgeschlagen, zu denen jüngst praxisprägende Urteile ergangen sind und deren Kommentierung für die Praxis besonderen Mehrwert bietet:
 
-- **Art. 14 JStPO** (Nichtöffentlichkeit und Teilzulassung im Jugendstrafverfahren):
-  - *Hintergrund*: Urteil [7B_848/2026 vom 13.10.2026](https://www.bger-update.ch/zusammenfassung/35349/) (publiziert am 20.11.2026).
-  - *Praxisrelevanz*: Klärt die prozessualen Voraussetzungen und Gehörsrechte der Parteien (Art. 29 Abs. 2 BV / Art. 6 EMRK) bei Gerichtsentscheiden über die Teilzulassung von Medienvertretern im sonst vertraulichen Jugendstrafverfahren.
-- **Art. 69 ff. RTVG** (Haushaltabgabe für Radio und Fernsehen):
-  - *Hintergrund*: Urteil [9C_678/2026 vom 05.11.2026](https://www.bger-update.ch/zusammenfassung/35277/) (publiziert am 18.11.2026).
-  - *Praxisrelevanz*: Klärt die verwaltungs- und prozessrechtlichen Voraussetzungen der Abgabebefreiung (Art. 69b RTVG) sowie die Parteistellung und Rechtsmittellegitimation bei gemeinschaftlichen Haushalten.
-- **Art. 85bis IVV** (Verrechnung von Nachzahlungen / Kinderrenten):
-  - *Hintergrund*: Urteil [8C_509/2025](https://www.bger-update.ch/weitere/4211/) (hervorgehoben am 18.11.2026).
-  - *Praxisrelevanz*: Klärt das Verhältnis von Art. 85bis Abs. 2 lit. b IVV, Art. 85 ATSG und Art. 51 AVIG: Nachforderungs- und Nachzahlungsbeträge für Kinderrenten der Invalidenversicherung stehen als Verrechnungssubstrat für Vorleistungen der Arbeitslosenversicherung zur Verfügung; eine gesonderte Abtretungserklärung ist bei gesetzlichem Rückforderungsanspruch entbehrlich.
+*Derzeit sind alle jüngsten Vorschläge aus dem Rechtsprechungs-Monitor abgearbeitet.*
 
 ## Lücken aus bestehenden Themen
 
