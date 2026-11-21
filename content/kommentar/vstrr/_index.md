@@ -4,7 +4,7 @@ ebene: bund
 sr: "313.0"
 kuerzel: "VStrR"
 gesetz_name: "Bundesgesetz über das Verwaltungsstrafrecht"
-weight: 29
+weight: 30
 date: '2026-11-06'
 lastmod: "2026-11-06"
 description: Kommentierte Artikel zum Bundesgesetz über das Verwaltungsstrafrecht (VStrR, SR 313.0, vom 22. März 1974).

@@ -4,7 +4,7 @@ ebene: bund
 sr: "514.51"
 kuerzel: "KMG"
 gesetz_name: "Kriegsmaterialgesetz"
-weight: 33
+weight: 34
 date: "2026-11-09"
 lastmod: "2026-11-09"
 description: "Kommentierte Artikel zum Bundesgesetz über das Kriegsmaterial (Kriegsmaterialgesetz, KMG, SR 514.51, vom 13. Dezember 1996)."

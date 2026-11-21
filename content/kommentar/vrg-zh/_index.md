@@ -5,7 +5,7 @@ kanton: "ZH"
 srl: "175.2"
 kuerzel: "VRG"
 gesetz_name: "Verwaltungsrechtspflegegesetz des Kantons Zürich"
-weight: 60
+weight: 63
 date: '2026-11-07'
 lastmod: '2026-11-07'
 description: "Kommentierte Paragraphen zum Zürcher Verwaltungsrechtspflegegesetz (VRG, LS 175.2, vom 24. Mai 1959)."

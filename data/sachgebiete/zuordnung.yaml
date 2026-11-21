@@ -150,8 +150,18 @@ ivg:
     - { von: 28, bis: 35, sachgebiete: [iv.rente] }
     - { von: 42, bis: 42, sachgebiete: [iv.hilflosenentschaedigung] }
 
+ivv:
+  standard: [iv]
+  bereiche:
+    - { von: 85, bis: 85, sachgebiete: [iv.rente] }
+
 jstg:
   standard: [strafrecht]
+
+jstpo:
+  standard: [strafprozess]
+  bereiche:
+    - { von: 14, bis: 14, sachgebiete: [strafprozess, grundrechte] }
 
 kg:
   standard: [wirtschaftsaufsicht]
@@ -200,6 +210,11 @@ rpg:
     - { von: 22, bis: 22, sachgebiete: [raumplanung.baubewilligung] }
     - { von: 24, bis: 24, sachgebiete: [raumplanung.ausserhalb_bauzone] }
     - { von: 27, bis: 27, sachgebiete: [raumplanung.nutzungsplanung] }
+
+rtvg:
+  standard: [verkehr_energie]
+  bereiche:
+    - { von: 68, bis: 70, sachgebiete: [verkehr_energie, steuern.kausalabgaben] }
 
 schkg:
   standard: [schkg]

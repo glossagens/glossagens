@@ -4,7 +4,7 @@ ebene: bund
 sr: "955.0"
 kuerzel: "GwG"
 gesetz_name: "Bundesgesetz über die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung"
-weight: 58
+weight: 61
 description: "Kommentierte Artikel zum Geldwäschereigesetz (GwG, SR 955.0, vom 10. Oktober 1997)."
 ---
 
