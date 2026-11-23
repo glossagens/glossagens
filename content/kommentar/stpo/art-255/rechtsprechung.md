@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 255 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-11-17
+lastmod: 2026-11-23
 description: "Übersicht der Rechtsprechung zu Art. 255 StPO: Leitentscheide des Bundesgerichts sowie Bundesgerichts- und Kantonsgerichtsurteile zu DNA-Probenahme, CODIS-Profilierung, Schwellenwerten, Polizeikompetenzen und Löschungsfristen."
 tags: ["Rechtsprechung", "StPO", "DNA-Profil", "Probenahme", "Wangenabstrich", "CODIS", "Verhältnismässigkeit", "Polizei", "Zwangsmassnahmen"]
 revisions:
+  - date: 2026-11-23
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Ergänzung von BGer 7B_1157/2025 vom 9. November 2026 (publiziert am 23.11.2026): Repressive Natur von Art. 255 Abs. 1bis StPO zur Aufklärung von Alttaten; zwingende Berücksichtigung der Löschfrist eines bereits im CODIS registrierten Profils (Art. 16 DNA-Profil-Gesetz) als zentrales Kriterium der Verhältnismässigkeit (Bestätigung von BGer 7B_139/2026); Verletzung der Begründungspflicht (Art. 112 Abs. 1 lit. b BGG) bei unterbliebener Feststellung bestehender Profile und Löschfristen führt zur Aufhebung und Rückweisung nach Art. 112 Abs. 3 BGG. Prüfweg: Volltext über swiss-caselaw MCP (get_decision) abgerufen und gegen E. 1.3, E. 2.2.1, E. 2.2.2, E. 2.3.1–2.3.3 sowie Dispositiv geprüft."
   - date: 2026-11-17
     by: "Antigravity (Commentary Editor)"
     model: "antigravity"
@@ -128,6 +132,17 @@ revisions:
 
 ---
 
+### [BGer 7B_1157/2025 vom 9. November 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=09.11.2026_7B_1157/2025) E. 2.2 f.
+- **Thema**: Repressive Natur von Art. 255 Abs. 1bis StPO; Verhältnismässigkeit einer erneuten DNA-Profilierung bei bestehendem CODIS-Profil; Löschfrist als zentrales Kriterium; Begründungspflicht nach Art. 112 Abs. 1 lit. b BGG und Aufhebung nach Art. 112 Abs. 3 BGG
+- **Sachverhalt**: Der wegen Kokainhandels (Art. 19 Abs. 1 lit. c und d BetmG) und Bruchs einer gerichtlichen Landesverweisung per Strafbefehl verurteilte Beschuldigte (Einsprache erhoben) wurde von der Staatsanwaltschaft Genf zur molekulargenetischen Profilerstellung nach Art. 255 Abs. 1bis StPO verpflichtet, um frühere Alttaten aufzuklären. Er wies fünf Vorstrafen auf (unter anderem Betäubungsmitteldelikte). Der Beschuldigte erhob Beschwerde und machte geltend, sein DNA-Profil sei bereits zwischen 2019 und 2023 mehrfach erstellt worden und befinde sich im CODIS, wo es voraussichtlich bis 2043 gespeichert bleibe, weshalb eine erneute Profilierung unverhältnismässig sei. Die Genfer Chambre pénale de recours wies die Beschwerde ab mit der pauschalen Erwägung, selbst wenn das Profil bereits erstellt worden sei und erst nach vielen Jahren gelöscht würde, bestehe stets ein überwiegendes öffentliches Interesse.
+- **Kernaussage**:
+  1. Art. 255 Abs. 1bis StPO regelt als repressive Zwangsmassnahme die Voraussetzungen, unter denen ein DNA-Profil zur Aufklärung allfälliger vergangener Straftaten erstellt werden darf («begangen haben»; E. 2.2.1 unter Hinweis auf BGer 7B_642/2025 E. 4.3.2).
+  2. Unter Bestätigung der Grundsatzrechtsprechung gemäss BGer 7B_139/2026 (E. 5.5.1 f.) ist die im CODIS (Art. 16 DNA-Profil-Gesetz) registrierte Löschfrist des bestehenden Profils ein zentrales Kriterium für die Verhältnismässigkeit einer erneuten Profilierung: Ist die Löschfrist länger als die Verfolgungsverjährung der mutmasslich begangenen Taten, steht das Profil für alle Abgleiche zur Verfügung und eine Neuanordnung ist mangels Erforderlichkeit unverhältnismässig (E. 2.3.2).
+  3. Stellt das kantonale Gericht im Sachverhalt nicht fest, ob und bis wann bereits ein DNA-Profil der beschuldigten Person im CODIS gespeichert ist, fehlt die tatsächliche Grundlage für die Verhältnismässigkeitsprüfung. Dieser Mangel verletzt Art. 112 Abs. 1 lit. b BGG und führt zur Aufhebung des Entscheids und Rückweisung an die Vorinstanz gestützt auf Art. 112 Abs. 3 BGG (E. 2.2.2, 2.3.2 f.).
+- **Einschlägig für**: Art. 255 Abs. 1bis StPO; Art. 197 Abs. 1 lit. c und d StPO; Art. 16 DNA-Profil-Gesetz; Art. 112 Abs. 1 lit. b und Abs. 3 BGG
+
+---
+
 ### [BGer 7B_176/2023 vom 24. Mai 2024](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-176-2023_2024-05-24.html) E. 3.3 f.
 - **Thema**: Ungeeignetheit des DNA-Beweises bei Cyberkriminalität, Ransomware-Erpressung und Geldwäscherei
 - **Sachverhalt**: Die Staatsanwaltschaft II des Kantons Zürich ermittelte gegen einen IT-Spezialisten wegen gewerbsmässiger Datenbeschädigung, schwerer Geldwäscherei und versuchter Erpressung. Dem Beschuldigten wurde vorgeworfen, Ransomware-Angriffe auf Firmennetzwerke orchestriert und Kryptowährungen erpresst zu haben. Bei der Durchsuchung fand sich zudem Kinderpornografie. Die Staatsanwaltschaft ordnete einen Wangenabstrich zur Erstellung eines DNA-Profils für CODIS an; das Obergericht Zürich schützte die Massnahme unter Hinweis auf die Schwere der Straftaten.
@@ -223,4 +238,4 @@ revisions:
 
 ---
 
-*Stand der Rechtsprechung: 17. November 2026*
+*Stand der Rechtsprechung: 23. November 2026*
