@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 426 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-10-29
+lastmod: 2026-11-23
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 426 StPO – Kostentragungspflicht der beschuldigten Person und der Partei im selbstständigen Massnahmeverfahren."
-tags: ["Rechtsprechung", "StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "Freispruch", "Einstellung", "Teilfreispruch", "Beschleunigungsgebot", "BGer 7B_155/2025"]
+tags: ["Rechtsprechung", "StPO", "Kosten", "Verfahrenskosten", "Kostentragung", "Freispruch", "Einstellung", "Teilfreispruch", "Beschleunigungsgebot", "BGer 7B_155/2025", "BGer 7B_1239/2025", "Fürsorgepflicht"]
 revisions:
+  - date: 2026-11-23
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "BGer 7B_1239/2025 vom 30. September 2026 unter «II. Weitere Entscheide» ergänzt: Verletzung der arbeitgeberischen Fürsorgepflicht nach Art. 328 Abs. 1 OR (insb. gegenüber jungen Praktikantinnen) als zivilrechtliche Verhaltensnorm nach Art. 426 Abs. 2 StPO."
   - date: 2026-10-29
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -94,6 +98,16 @@ revisions:
 ---
 
 ## II. Weitere Bundesgerichts- und Kantonsgerichtsentscheide
+
+### BGer 7B_1239/2025 vom 30. September 2026, E. 2.2–2.3.4
+
+- **Thema**: Arbeitgeberische Fürsorgepflicht (Art. 328 Abs. 1 OR) als zivilrechtliche Verhaltensnorm nach Art. 426 Abs. 2 StPO; Schutz von Praktikanten und Auszubildenden
+- **Sachverhalt**: Strafverfahren gegen einen Rechtsanwalt (Praktikumsleiter) wegen Tätlichkeiten und Belästigung einer jungen Anwaltspraktikantin. Die Staatsanwaltschaft stellte das Verfahren mangels strafbaren Verhaltens ein. Das kantonale Gericht auferlegte dem freigesprochenen/entlassenen Praktikumsleiter jedoch die Kosten des Vorverfahrens gestützt auf Art. 426 Abs. 2 StPO, weil er seine arbeitgeberische Fürsorgepflicht nach Art. 328 OR vorwerfbar verletzt habe.
+- **Kernaussage**: Art. 328 Abs. 1 OR (Pflicht des Arbeitgebers zum Schutz und zur Achtung der Persönlichkeit des Arbeitnehmers, Konkretisierung von Art. 28 ZGB) stellt eine zivilrechtliche Verhaltensnorm im Sinne der bundesgerichtlichen Rechtsprechung zu Art. 426 Abs. 2 StPO dar (E. 2.2). Die Vigilanz des Arbeitgebers ist gegenüber jungen Auszubildenden und Praktikanten, die erstmals im Berufsleben stehen, besonders hoch. Inadäquate und grenzüberschreitende Verhaltensweisen verletzen Art. 328 OR auch dann, wenn sie strafrechtlich nicht sanktionierbar sind und noch keine systematische Schikane (Mobbing) darstellen (E. 2.3.2). Ein solches widerrechtliches und schuldhaftes Verhalten ist adäquat kausal für die Einleitung der Strafuntersuchung und rechtfertigt nach Art. 426 Abs. 2 StPO die Auferlegung der Verfahrenskosten trotz Freispruch bzw. Einstellung (E. 2.3.3 f.).
+- **Einschlägig für**: Abs. 2 (Kostentragung bei Einstellung); Arbeitgeberische Fürsorgepflicht (Art. 328 Abs. 1 OR) als Verhaltensnorm; Schutz von Praktikanten und Auszubildenden; Kausalität
+- **URL**: [BGer 7B_1239/2025](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=30.09.2026_7B_1239/2025)
+
+---
 
 ### BGer 6B_650/2024 vom 15. Juni 2026, E. 3.4
 
@@ -214,4 +228,4 @@ revisions:
 
 ## Prüfvermerk
 
-Die auf dieser Seite zitierten Urteile wurden am 23.10.2026 im Volltext über die Urteilsdatenbank `entscheidsuche.ch` abgeglichen. Die Erwägungsanker `#consideration_X.Y` sind nur bei HTML-Dokumenten (BGE) gesetzt, bei denen sie im Quelltext nachgewiesen sind.
+Die auf dieser Seite zitierten Urteile wurden am 23.10.2026 im Volltext über die Urteilsdatenbank `entscheidsuche.ch` bzw. am 23.11.2026 via `bger.ch` (BGer 7B_1239/2025) abgeglichen. Die Erwägungsanker `#consideration_X.Y` sind nur bei HTML-Dokumenten (BGE) gesetzt, bei denen sie im Quelltext nachgewiesen sind.

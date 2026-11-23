@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 14 AsylG"
 weight: 99
 date: 2026-06-05
-lastmod: 2026-06-05
+lastmod: 2026-11-23
 description: "Übersicht der Entscheide zu Art. 14 AsylG – Ausschliesslichkeit des Asylverfahrens"
 tags: ["Rechtsprechung", "AsylG", "Ausschliesslichkeit", "Härtefall"]
+revisions:
+  - date: 2026-11-23
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aufnahme der Entscheide BGer 2D_6/2026 vom 18.09.2026 (Bestätigung BGE 149 I 72: fehlender Bewilligungsanspruch, keine Parteistellung im kantonalen Zustimmungsverfahren, Nichteintreten auf subsidiäre Verfassungsbeschwerde nach Art. 115 lit. b BGG) und BGer 2D_7/2026 vom 22.09.2026 (Anforderungen an die fortgeschrittene Integration gemäss Art. 14 Abs. 2 lit. c AsylG i.V.m. Art. 31 VZAE: Sprachniveau A2 genügt bei mehrjährigem illegalem Aufenthalt nicht)."
 ---
 
 ## Leitentscheide (BGE)
@@ -53,6 +58,20 @@ tags: ["Rechtsprechung", "AsylG", "Ausschliesslichkeit", "Härtefall"]
 
 ## Weitere Bundesgerichtsentscheide
 
+### [BGer 2D_6/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026) vom 18. September 2026
+- **Thema**: Härtefallbewilligung / Fehlende Parteistellung im kantonalen Zustimmungsverfahren / Unzulässigkeit der subsidiären Verfassungsbeschwerde
+- **Sachverhalt**: Ein abgewiesener Asylsuchender verlangte nach zehn Jahren illegalem Aufenthalt im Kanton Luzern die Erteilung einer Härtefallbewilligung gemäss Art. 14 Abs. 2 AsylG.
+- **Kernaussage**: Bestätigung von BGE 149 I 72. Art. 14 Abs. 2 AsylG räumt keinen Rechtsanspruch auf eine Bewilligung ein (Art. 83 lit. c Ziff. 2 BGG). Der Ausländer hat im kantonalen Verfahren zur Einreichung eines Zustimmungsgesuchs beim Bund keine Parteistellung und ist mangels rechtlich geschützten Interesses nicht zur subsidiären Verfassungsbeschwerde legitimiert (Art. 115 lit. b BGG). Ein zehnjähriger rein illegaler Aufenthalt verschafft ohne besondere familiäre Bindungen auch keinen Schutzbereich nach Art. 8 EMRK.
+- **Einschlägig für**: Art. 14 Abs. 2 und 4 AsylG; Art. 83 lit. c Ziff. 2 BGG; Art. 115 lit. b BGG; Art. 8 EMRK
+- **URL**: http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026
+
+### [BGer 2D_7/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_2D_7/2026) vom 22. September 2026
+- **Thema**: Härtefallbewilligung / Anforderungen an die fortgeschrittene Integration / Sprachniveau A2 unzureichend
+- **Sachverhalt**: Äthiopischer Staatsangehöriger, 2016 eingereist, Asylgesuch abgewiesen, tauchte unter und lebte jahrelang illegal in der Schweiz. Er beantragte ein Härtefallgesuch nach Art. 14 Abs. 2 AsylG und wies Sprachkenntnisse auf Niveau A2 vor.
+- **Kernaussage**: Präzisierung zur «besonders ausgeprägten Integration» bei illegalem Voraufenthalt. Sprachkompetenzen auf Niveau A2 genügen bei mehrjährigem Aufenthalt nicht den qualifizierten Anforderungen an eine vertiefte Integration gemäss Art. 14 Abs. 2 AsylG i.V.m. Art. 31 VZAE; ein Härtefall setzt überdurchschnittliche Integrationsleistungen voraus.
+- **Einschlägig für**: Art. 14 Abs. 2 AsylG; Art. 31 VZAE; Art. 58a AIG
+- **URL**: http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_2D_7/2026
+
 ### [BGer 2C_218/2013](https://mcp.opencaselaw.ch/entscheid/bger_2C_218_2013) vom 26. März 2013
 - **Thema**: Familiennachzug / Ausschliesslichkeit
 - **Kernaussage**: Ergänzt [BGE 139 I 330](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_I_330) zur Frage des ausländerrechtlichen Familiennachzugs im Kontext des Ausschliesslichkeitsgrundsatzes.
@@ -71,4 +90,4 @@ tags: ["Rechtsprechung", "AsylG", "Ausschliesslichkeit", "Härtefall"]
 
 ---
 
-*Letzte Aktualisierung: 2026-06-05*
+*Letzte Aktualisierung: 2026-11-23*

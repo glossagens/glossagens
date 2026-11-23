@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 66a StGB"
 weight: 99
 date: 2026-05-17
-lastmod: 2026-11-16
+lastmod: 2026-11-23
 description: "Übersicht der Rechtsprechung zu Art. 66a StGB — Obligatorische Landesverweisung, Härtefallklausel, Interessenabwägung, Bemessung der Dauer der Landesverweisung, Ausschluss der Reconsideration-Praxis (BGer 2C_187/2026), Secondos, Freizügigkeitsabkommen und EMRK-Konformität."
 tags: ["Rechtsprechung", "StGB", "Landesverweisung", "Härtefallklausel", "Interessenabwägung", "Dauer der Landesverweisung", "Reconsideration", "EMRK", "Freizügigkeitsabkommen", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-23
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aufnahme von BGer 6B_205/2025 vom 29. September 2026: Härtefallprüfung bei psychischer Erkrankung (paranoide Schizophrenie); Überwiegen der Sicherheitsinteressen bei schweren Gewalttaten («Zweijahresregel») trotz Art. 59 StGB; Trennung von Sachurteil und Vollzugshindernissen (Syrien / Art. 66d StGB)."
   - date: 2026-11-16
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
@@ -221,3 +225,14 @@ revisions:
 - **Sachverhalt**: Ein 59-jähriger türkischer Staatsangehöriger mit 45 Jahren Aufenthalt in der Schweiz wurde wegen mehrfacher versuchter schwerer Körperverletzung zu 34 Monaten Freiheitsstrafe und einer achtjährigen Landesverweisung verurteilt. Er rügte, eine Überstellung in die Türkei führe mangels eines staatlichen Methadonprogramms zu Verwahrlosung und unmenschlicher Behandlung (Art. 3 EMRK).
 - **Kernaussage**: Das Fehlen eines mit der Schweiz vergleichbaren staatlich finanzierten Methadonprogramms begründet keinen Härtefall, wenn im Herkunftsstaat eine medizinische Grundversorgung gewährleistet ist und schweizerische Therapien den Konsum nicht verhindern konnten. Das Bundesgericht rügt die Vorinstanz für den blossen Verweis auf Internetangebote privater Kliniken, hält das Urteil im Ergebnis aber aufrecht. Dem Substitutionsbedarf ist im Rahmen der Vollzugsplanung (Art. 66d Abs. 1 lit. b StGB i.V.m. Art. 3 EMRK) durch geeignete Rückkehrhilfe Rechnung zu tragen.
 - **Einschlägig für**: Art. 66a Abs. 2 StGB, Art. 66d StGB, Art. 3 EMRK.
+
+---
+
+### [BGer 6B_205/2025 vom 29. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.09.2026_6B_205/2025) E. 6 — Härtefallprüfung bei paranoider Schizophrenie, Zweijahresregel und Vollzugshindernisse
+- **Thema**: Obligatorische Landesverweisung (Art. 66a Abs. 1 lit. a StGB) bei versuchter vorsätzlicher Tötung; Verneinung des schweren persönlichen Härtefalls (Art. 66a Abs. 2 StGB) bei gut behandelbarer paranoider Schizophrenie und Grundversorgung im Herkunftsland (Syrien); Überwiegen der Fernhalteinteressen bei schweren Gewalttaten («Zweijahresregel») trotz Massnahme nach Art. 59 StGB; Trennung von Sachurteil und Vollzugshindernissen (Art. 66d StGB).
+- **Sachverhalt**: Ein 1999 geborener syrischer Staatsangehöriger verübte eine Messerattacke, die beim Opfer zu Schnittwunden im Gesicht führte. Er wurde wegen versuchter vorsätzlicher Tötung zu 3,5 Jahren Freiheitsstrafe, einer stationären therapeutischen Massnahme (Art. 59 StGB) und einer siebenjährigen Landesverweisung (Art. 66a Abs. 1 lit. a StGB) verurteilt. Der an paranoider Schizophrenie leidende Täter rügte eine Verletzung der Härtefallklausel (Art. 66a Abs. 2 StGB) sowie die Unzumutbarkeit wegen der geopolitischen Lage in Syrien.
+- **Kernaussage**: Das Bundesgericht (I. strafrechtliche Abteilung: von Felten, Guidon, Bischoff) weist die Beschwerde ab:
+  1. *Härtefallprüfung bei psychischer Erkrankung (Art. 66a Abs. 2 StGB):* Eine paranoide Schizophrenie begründet keinen schweren persönlichen Härtefall, wenn die Erkrankung gut behandelbar ist, eine medizinische Grundversorgung im Herkunftsland erhältlich ist und der Täter dort seine prägende Kindheit und Jugend (bis zum 16. Lebensjahr) verbracht hat (E. 6.3.2).
+  2. *Interessenabwägung bei schweren Gewalttaten («Zweijahresregel»):* Bei einer Freiheitsstrafe von über zwei Jahren wiegt das öffentliche Fernhalte- und Sicherheitsinteresse schwer. Auch bei positivem Verlauf einer Massnahme nach Art. 59 StGB besteht bei Schizophrenie-Patienten ein statistisch deutlich erhöhtes Risiko für Gewalttaten, das die privaten Verbleibsinteressen überwiegt (E. 6.4).
+  3. *Trennung von Sachurteil und Vollzugshindernissen (Art. 66d StGB):* Die geopolitische Sicherheitslage im Herkunftsland und ein allfälliges Non-refoulement-Hindernis (Art. 3 EMRK, Art. 66d Abs. 1 lit. a/b StGB) hindern den richterlichen Ausspruch der Landesverweisung nicht, sondern sind Gegenstand des Vollzugsverfahrens (E. 6.2).
+- **Einschlägig für**: Art. 66a Abs. 1 lit. a und Abs. 2 StGB, Art. 59 StGB, Art. 66d StGB, Art. 3 EMRK, Art. 8 EMRK.

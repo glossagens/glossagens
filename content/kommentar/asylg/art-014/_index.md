@@ -2,10 +2,14 @@
 title: "Art. 14 — Verhältnis zum ausländerrechtlichen Verfahren (Ausschliesslichkeit)"
 weight: 14
 date: 2026-06-05
-lastmod: 2026-10-15
+lastmod: 2026-11-23
 description: "Kommentar zu Art. 14 AsylG – Ausschliesslichkeit des Asylverfahrens und Härtefallregelung"
 tags: ["AsylG", "Ausschliesslichkeit", "Asylverfahren", "Härtefall", "Aufenthaltsbewilligung"]
 revisions:
+  - date: 2026-11-23
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Einarbeitung der Urteile BGer 2D_6/2026 vom 18.09.2026 (Bestätigung BGE 149 I 72: fehlender Rechtsanspruch auf Härtefallbewilligung, keine Parteistellung im kantonalen Zustimmungsverfahren und Unzulässigkeit der subsidiären Verfassungsbeschwerde nach Art. 115 lit. b BGG bei langjährigem illegalem Aufenthalt) sowie BGer 2D_7/2026 vom 22.09.2026 (Qualifizierte Integrationsanforderungen gemäss Art. 14 Abs. 2 lit. c AsylG i.V.m. Art. 31 VZAE: Unzureichendheit von Sprachkompetenzen auf Niveau A2 bei mehrjährigem Aufenthalt)."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -52,11 +56,19 @@ Die Härtefallregelung des Art. 14 Abs. 2 AsylG ermöglicht dem Kanton mit **Zus
 - **Schwerwiegender persönlicher Härtefall** wegen fortgeschrittener Integration (lit. c);
 - **Keine Widerrufsgründe** nach Art. 62 Abs. 1 AIG (lit. d).
 
-Die Härtefallregelung ist **restriktiv** anwendbar. Ein abgewiesener Asylsuchender, der sich jahrelang ohne Aufenthaltsbewilligung in der Schweiz aufhält, kann weder aus Art. 14 Abs. 2 AsylG noch aus Art. 8 EMRK einen Aufenthaltsanspruch herleiten, wenn die Integration nicht besonders ausgeprägt ist ([BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72), E. 2).
+Die Härtefallregelung ist **restriktiv** anzuwenden:
+
+1. **Qualifizierte Integrationsanforderungen (lit. c i.V.m. Art. 31 VZAE):** Die Annahme eines schwerwiegenden persönlichen Härtefalls setzt eine fortgeschrittene und überdurchschnittliche Integration voraus. Bei Personen mit mehrjährigem oder gar illegalem Aufenthalt genügen blosse Grundkenntnisse oder elementare Bemühungen nicht: Das Bundesgericht hat klargestellt, dass Sprachkompetenzen auf Niveau A2 bei einem mehrjährigen Aufenthalt den qualifizierten Anforderungen an eine vertiefte Integration gemäss Art. 14 Abs. 2 lit. c AsylG i.V.m. Art. 31 VZAE nicht genügen; ein Härtefall setzt überdurchschnittliche Integrationsleistungen voraus ([BGer 2D_7/2026 vom 22. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_2D_7/2026)). Bei einem Untertauchen nach Abweisung des Asylgesuchs fehlt es zudem bereits an der Voraussetzung des bekannten Aufenthaltsorts (lit. b).
+
+2. **Fehlender Rechtsanspruch und Rechtsmittellegitimation:** Art. 14 Abs. 2 AsylG vermittelt keinen Rechtsanspruch auf Erteilung einer Bewilligung (Art. 83 lit. c Ziff. 2 BGG). In Bestätigung von [BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72) (E. 2) hielt das Bundesgericht in [BGer 2D_6/2026 vom 18. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026) fest, dass auch ein zehnjähriger rein illegaler Aufenthalt ohne besondere familiäre Bindungen keinen Konventionsschutz unter dem Aspekt des Schutzes des Privatlebens gemäss Art. 8 EMRK verschafft. Mangels eines rechtlich geschützten Interesses hat der abgewiesene Asylsuchende im kantonalen Verfahren zur Einreichung eines Zustimmungsgesuchs beim Bund keine Parteistellung und ist nicht zur subsidiären Verfassungsbeschwerde legitimiert (Art. 115 lit. b BGG).
 
 ### Absatz 4 — Parteistellung
 
-Die betroffene Person hat nur beim **Zustimmungsverfahren des SEM** Parteistellung, nicht beim kantonalen Verfahren. Das Bundesgericht hat klargestellt, dass die subsidiäre Verfassungsbeschwerde zulässig ist, um sich gegen die Verweigerung der Parteistellung nach Art. 14 Abs. 4 AsylG im kantonalen Verfahren zu beschweren ([BGE 137 I 128](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_128), E. 3.1). Das fehlende Rechtsmittel gegen kantonale Entscheide, die ein Aufenthaltsbewilligungsverfahren nach Art. 14 Abs. 4 AsylG verweigern, verstösst gegen die Rechtsweggarantie nach Art. 29a BV. Das Bundesgericht kann dies Art. 190 BV zufolge nur feststellen ([BGE 137 I 128](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_128), E. 4.3).
+Die betroffene Person hat nur beim **Zustimmungsverfahren des SEM** Parteistellung, nicht beim kantonalen Verfahren zur Einreichung eines Gesuchs an den Bund. 
+
+Das Bundesgericht hatte in [BGE 137 I 128](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_128) (E. 3.1 und 4.3) erwogen, dass das fehlende Rechtsmittel gegen kantonale Entscheide, die ein Härtefallverfahren nach Art. 14 Abs. 4 AsylG verweigern, gegen die Rechtsweggarantie nach Art. 29a BV verstösst, was zufolge Art. 190 BV jedoch nur festgestellt werden konnte. 
+
+Mit [BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72) (E. 2) und der Bestätigung in [BGer 2D_6/2026 vom 18. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026) wurde die Praxis jedoch konsolidiert: Da Art. 14 Abs. 2 AsylG keinen Rechtsanspruch verleiht und die Parteistellung im kantonalen Verfahren gesetzlich ausgeschlossen ist (Art. 14 Abs. 4 AsylG), verfügt die betroffene Person über keine geschützte Rechtsposition. Folglich fehlt ihr das für die subsidiäre Verfassungsbeschwerde nach Art. 115 lit. b BGG erforderliche rechtlich geschützte Interesse; die kantonale Weigerung, ein Zustimmungsgesuch an das SEM zu richten, kann daher auch nicht mit Verfassungsbeschwerde angefochten werden.
 
 ### Absatz 5 — Gegenstandslosigkeit
 
@@ -78,6 +90,10 @@ Bereits erteilte Aufenthaltsbewilligungen bleiben gültig und können gemäss de
 
 - **Härtefallbewilligung und Rechtsweggarantie:** Anspruch auf eine asylrechtliche Härtefallbewilligung; Verhältnis zwischen Art. 14 AsylG und Art. 8 EMRK. Ein abgewiesener Asylsuchender kann sich weder auf Art. 14 Abs. 4 AsylG noch auf Art. 8 EMRK berufen, wenn keine besonders ausgeprägte Integration vorliegt ([BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72), E. 1–2).
 
+- **Fehlender Rechtsanspruch und keine Parteistellung bei Härtefall nach illegalem Aufenthalt ([BGer 2D_6/2026 vom 18. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026)):** Bestätigung von BGE 149 I 72. Art. 14 Abs. 2 AsylG räumt keinen Rechtsanspruch auf eine Bewilligung ein (Art. 83 lit. c Ziff. 2 BGG). Der Ausländer hat im kantonalen Verfahren zur Einreichung eines Zustimmungsgesuchs beim Bund keine Parteistellung und ist mangels rechtlich geschützten Interesses nicht zur subsidiären Verfassungsbeschwerde legitimiert (Art. 115 lit. b BGG). Ein zehnjähriger rein illegaler Aufenthalt verschafft ohne besondere familiäre Bindungen auch keinen Schutzbereich nach Art. 8 EMRK.
+
+- **Qualifizierte Integrationsanforderungen und unzureichendes Sprachniveau A2 ([BGer 2D_7/2026 vom 22. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_2D_7/2026)):** Sprachkompetenzen auf Niveau A2 genügen bei mehrjährigem Aufenthalt nicht den qualifizierten Anforderungen an eine vertiefte Integration gemäss Art. 14 Abs. 2 lit. c AsylG i.V.m. Art. 31 VZAE; ein Härtefall setzt überdurchschnittliche Integrationsleistungen voraus.
+
 - **Parteistellung und Rechtsweggarantie:** Die subsidiäre Verfassungsbeschwerde ist zulässig, um sich gegen die Verweigerung der Parteistellung nach Art. 14 Abs. 4 AsylG zu beschweren. Das fehlende Rechtsmittel verstösst gegen die Rechtsweggarantie (Art. 29a BV); das Bundesgericht kann dies aufgrund von Art. 190 BV nur feststellen ([BGE 137 I 128](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_128), E. 3.1, 4.3).
 
 - **Nothilfe trotz Ausschliesslichkeit:** Asylbewerber mit asylrechtlichem Nichteintretensentscheid haben trotz des Ausschliesslichkeitsgrundsatzes einen verfassungsrechtlichen Anspruch auf Nothilfe (Art. 7 und 12 BV) ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166), E. 1–7).
@@ -85,9 +101,11 @@ Bereits erteilte Aufenthaltsbewilligungen bleiben gültig und können gemäss de
 ### Abgrenzungen
 
 - **Art. 7 BV / Art. 12 BV:** Nothilfeanspruch besteht trotz Ausschliesslichkeitsgrundsatz ([BGE 131 I 166](https://mcp.opencaselaw.ch/entscheid/bge_BGE_131_I_166)).
-- **Art. 8 EMRK:** Privatleben kann bei besonders ausgeprägter Integration einen Anspruch begründen; illegaler Aufenthalt allein reicht nicht ([BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72)).
+- **Art. 8 EMRK:** Privatleben kann bei besonders ausgeprägter Integration einen Anspruch begründen; illegaler Aufenthalt allein reicht nicht ([BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72); [BGer 2D_6/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026)).
 - **Art. 12 EMRK / Art. 14 BV:** Recht auf Eheschliessung durchbricht den Ausschliesslichkeitsgrundsatz nicht, verlangt aber eine provisorische Regelung durch die Migrationsbehörde ([BGE 137 I 351](https://mcp.opencaselaw.ch/entscheid/bge_BGE_137_I_351)).
 - **Art. 30 AIG:** Bewilligungsanspruch für Menschenhandelsopfer als Ausnahme vom Ausschliesslichkeitsgrundsatz ([BGE 145 I 308](https://mcp.opencaselaw.ch/entscheid/bge_BGE_145_I_308)).
+- **Art. 31 VZAE / Art. 58a AIG:** Kriterien für die fortgeschrittene Integration bei Art. 14 Abs. 2 lit. c AsylG; Sprachniveau A2 allein genügt bei mehrjährigem Aufenthalt nicht ([BGer 2D_7/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=22.09.2026_2D_7/2026)).
 - **Art. 44 Abs. 3 AsylG:** Vorläufige Aufnahme als andere Form des Aufenthaltsrechts.
-- **Art. 83 lit. c Ziff. 2 BGG:** Beschwerde offen, wenn ein Recht auf Aufenthalt in vertretbarer Weise geltend gemacht wird ([BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72), E. 1).
+- **Art. 83 lit. c Ziff. 2 BGG:** Beschwerde in öffentlich-rechtlichen Angelegenheiten ist unzulässig bei Härtefallbewilligungen nach Art. 14 Abs. 2 AsylG, es sei denn, ein Anspruch wird in vertretbarer Weise dargetan ([BGE 149 I 72](https://mcp.opencaselaw.ch/entscheid/bge_BGE_149_I_72); [BGer 2D_6/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026)).
+- **Art. 115 lit. b BGG:** Subsidiäre Verfassungsbeschwerde gegen die Verweigerung der Einreichung eines Härtefall-Zustimmungsgesuchs ist mangels Parteistellung und rechtlich geschützten Interesses unzulässig ([BGer 2D_6/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=18.09.2026_2D_6/2026)).
 - **Art. 43 AsylG:** Arbeitsverbot grundsätzlich vereinbar mit Art. 8 EMRK, aber Ausnahmen bei ausserordentlichen Situationen ([BGE 138 I 246](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_I_246)).

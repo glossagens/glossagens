@@ -2,10 +2,14 @@
 title: "Art. 158 StGB — Ungetreue Geschäftsbesorgung"
 weight: 158
 date: 2026-06-07
-lastmod: 2026-10-16
-description: "Praxiskommentar zu Art. 158 StGB: Treuebruch (Ziff. 1) und Missbrauch der Vertretungsmacht (Ziff. 2) — Geschäftsführerstellung, Pflichtverletzung, Vermögensschaden, Churning, Retrozessionen, unterlassene Verlustmeldung, missachtete Anlagebeschränkungen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Bereicherungsabsicht, Antragsdelikt (Ziff. 3) — mit Prüfschema, zweiseitiger Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
-tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Churning", "Retrozessionen", "Einpersonen-AG", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Vermögensschaden", "Pflichtverletzung", "Informationspflicht"]
+lastmod: 2026-11-23
+description: "Praxiskommentar zu Art. 158 StGB: Treuebruch (Ziff. 1) und Missbrauch der Vertretungsmacht (Ziff. 2) — Geschäftsführerstellung (inkl. Stiftungen), Pflichtverletzung, In-sich-Geschäfte, Vermögensschaden, Churning, Retrozessionen, unterlassene Verlustmeldung, missachtete Anlagebeschränkungen, Einpersonen-AG, überschuldete Gesellschaften, Schmiergelder, Bereicherungsabsicht, Antragsdelikt (Ziff. 3) — mit Prüfschema, zweiseitiger Grenzkasuistik, Judikaturdivergenzen und Praxishinweisen."
+tags: ["StGB", "Ungetreue Geschäftsbesorgung", "Vermögensverwaltung", "Treuebruch", "Vertretungsmacht", "Churning", "Retrozessionen", "Einpersonen-AG", "Stiftung", "In-sich-Geschäft", "überschuldete Gesellschaften", "Wirtschaftsstrafrecht", "Besonderer Teil", "Bereicherungsabsicht", "Vermögensschaden", "Pflichtverletzung", "Informationspflicht"]
 revisions:
+  - date: 2026-11-23
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Einarbeitung von BGer 6B_410/2024 vom 28.10.2026 (5er-Besetzung): Ungetreue Geschäftsbesorgung bei Stiftungen (F.-Stiftung); Gleichstellung der Vermögensfürsorgepflicht von Stiftungsorganen mit Organen von Kapitalgesellschaften unabhängig von der Rechtsform (C.1, E. 7.2.9, 7.10.2); In-sich-Geschäfte, Liegenschaftstransaktionen mit überteuerten Projektunterlagen und Schuldentilgung zulasten des Stiftungsvermögens (D.2, D.6); Vermögensschaden durch Entnahme liquider Mittel gegen nicht werthaltige Buchdarlehen mangels Bonität der Organe (E.1, E. 5.7, 7.1); Anklagegrundsatz (Art. 9 StPO) und freie rechtliche Qualifikation von Sachverhalten als In-sich-Geschäfte (J.1, E. 4.1 f.); Praxishinweise zu Strafminderung bei überlanger Verfahrensdauer (K, E. 2.1–2.3)."
   - date: 2026-10-16
     by: "Hermes Agent"
     model: "glm-5.2"
@@ -101,9 +105,11 @@ Die Geschäftsführerstellung kann sich aus drei Quellen ergeben:
 
 | Quelle | Beispiele |
 |---|---|
-| **Gesetz** | Verwaltungsrat (Art. 716a OR), Vormund (Art. 392 ZGB), Konkursverwalter |
+| **Gesetz** | Stiftungsrat (Art. 83d ZGB), Verwaltungsrat (Art. 716a OR), Vormund/Beistand (Art. 392 ff. ZGB), Konkursverwalter |
 | **Behördlicher Auftrag** | Bestellung eines Konkurs- oder Nachlassverwalters, eines Liquidators |
 | **Rechtsgeschäft** | Vermögensverwaltungsvertrag, Treuhandvertrag, Auftrag, Depotvertrag |
+
+Die **Rechtsform** des Rechtsträgers (Stiftung vs. AG/GmbH) ist für Art. 158 StGB unerheblich: Die Organe einer Stiftung unterstehen derselben qualifizierten Vermögensfürsorgepflicht wie die Organe von Kapitalgesellschaften ([BGer 6B_410/2024 vom 28. Oktober 2026 E. 7.2.9, 7.10.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_6B_410/2024)).
 
 Auch eine **faktische Geschäftsführerstellung** genügt: Wer ohne formelle Bestellung faktisch wie ein Geschäftsführer handelt und über fremde Vermögenswerte verfügt, ist Täter ([BGE 129 IV 124 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-124_2003.html); [BGer 6B_824/2011 vom 17. August 2012 E. 3b](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-824-2011_2012-08-17.html); [BGE 120 IV 190 E. 2b](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-223-2010_2011-01-13.html)).
 
@@ -147,6 +153,7 @@ Die Pflichtwidrigkeit ist **ex ante** zu beurteilen: Massgeblich ist, ob die ein
 | **Verdeckte Gewinnausschüttung** | Private Entnahmen zulasten des Reinvermögens; private Kreditkartennutzung | [BGE 141 IV 104](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-104_2015.html); [BGE 151 IV 258](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-258_2025.html) |
 | **Liquidatorpflichtverletzung** | Unterlassene Rückforderung unberechtigter Zahlungen; aktive Unterstützung bei Gläubigerschädigung | [BGer 6B_804/2025 E. 3.4–5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-804-2025_2026-06-02.html) |
 | **Unterlassene Verlustmeldung / missachtete Anlagebeschränkungen** | Verletzung der vertraglichen Informationspflicht bei erheblichen Verlusten; Missachtung vertraglicher Risikolimite und Kapitalschutzmassnahmen | [BGer 6B_355/2026 E. 2.3.3, 2.4.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.09.2026_6B_355/2026) |
+| **In-sich-Geschäfte und Zweckentfremdung bei Stiftungen** | Entnahme von Stiftungsmitteln zur Tilgung privater Organverbindlichkeiten gegen minderwertige Gegenforderungen; überteuerte Projektunterlagen | [BGer 6B_410/2024 E. 5.7, 7.1, 7.2.9](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_6B_410/2024) |
 
 #### D.3 Churning (Kommissionsschinderei)
 
@@ -202,6 +209,16 @@ Die blosse Annahme von **Schmiergeldern** erfüllt den Tatbestand der ungetreuen
 
 > **BGE 129 IV 124 — Schmiergelder bei Bankmitarbeitern**: Zwei Bankangestellte nahmen von einer Immobiliengesellschaft Zuwendungen im Zusammenhang mit dem Erwerb von Immobilien und der Vermittlung von Hypothekengeschäften an. Das Bundesgericht stellte klar: Die blosse Verletzung der Herausgabepflicht hinsichtlich der Zuwendungen erfüllt den Tatbestand nicht; erforderlich ist, dass die Zuwendungen den Angestellten zu einem geschäftsschädigenden Verhalten verleitet haben (E. 4.1).
 
+#### D.6 In-sich-Geschäfte und Zweckentfremdung bei Stiftungen und Körperschaften
+
+Die Organe einer Stiftung unterstehen einer strengen Treue- und Vermögensfürsorgepflicht. Handeln Organe in schwerwiegenden Interessenkonflikten — namentlich bei **In-sich-Geschäften** oder Transaktionen zwischen verflochtenen Gesellschaften und der Stiftung —, verletzen sie ihre Fürsorgepflicht, wenn sie das Stiftungsvermögen sachfremden oder eigennützigen Zwecken zuführen.
+
+> **BGer 6B_410/2024 vom 28. Oktober 2026 — In-sich-Geschäfte und Darlehenstilgung bei der F.-Stiftung**: Stiftungsräte einer gemeinnützigen Stiftung (F.-Stiftung) und Organe verflochtener Gesellschaften transferierten liquide Stiftungsgelder zur Tilgung privater Bankdarlehen der Organe. Als buchhalterische Gegenleistung wurden der Stiftung minderwertige Gegenforderungen eingebucht. Zudem wurden Liegenschaftstransaktionen auf der Grundlage überteuerter Projektunterlagen (W.-Projekt) abgewickelt. Das Bundesgericht (5er-Besetzung: Muschietti, von Felten, Wohlhauser, Guidon, Glassey) bestätigte die Schuldsprüche wegen mehrfacher qualifizierter ungetreuer Geschäftsbesorgung (Art. 158 Ziff. 1 Abs. 3 StGB):
+> 
+> 1. **Rechtsformunabhängige Organpflichten**: Die Organe einer Stiftung unterstehen denselben qualifizierten Fürsorgepflichten wie die Organe einer Aktiengesellschaft oder GmbH. Die Rechtsform des Rechtsträgers begründet keine Privilegierung bei der Vermögensverwaltung (E. 7.2.9, 7.10.2).
+> 2. **Pflichtwidrigkeit von In-sich-Geschäften**: Die Zuführung von Stiftungsmitteln an private Gläubiger der Organe zur Begleichung persönlicher Bankschulden stellt eine krasse Zweckentfremdung und Pflichtverletzung dar, die weder durch den Stiftungszweck noch durch statutarische Befugnisse gedeckt werden kann.
+> 3. **Bereicherungsabsicht**: Indem die Organe ihre privaten Bankschulden durch Stiftungsgelder tilgen liessen, handelten sie in direkter Bereicherungsabsicht zum eigenen Vorteil bzw. zum Vorteil der involvierten Gesellschaften (Art. 158 Ziff. 1 Abs. 3 StGB).
+
 ### E. Vermögensschaden
 
 #### E.1 Der allgemeine Schadensbegriff
@@ -212,6 +229,8 @@ Der Tatbestand erfordert als **Verletzungsdelikt** einen Vermögensschaden. Ein 
 - **konkreter Vermögensgefährdung** von erheblichem Ausmass: Das Vermögen wird in einem Masse gefährdet, dass es in seinem wirtschaftlichen Wert vermindert ist. Dies ist der Fall, wenn der Gefährdung im Rahmen einer sorgfältigen Bilanzierung durch Wertberichtigung oder Rückstellung Rechnung getragen werden muss ([BGE 142 IV 346 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-346_2016.html); [BGE 129 IV 124 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-129-IV-124_2003.html); [BGE 121 IV 104 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-121-IV-104_1995-02-03.html)).
 
 Zwischen der Pflichtverletzung und dem Vermögensschaden muss ein **Kausalzusammenhang** bestehen.
+
+Die Entnahme liquider Mittel eines Rechtsträgers (z. B. einer Stiftung) zur Tilgung privater Schulden der Organe bewirkt einen **tatsächlichen Vermögensschaden**, wenn die dafür als Ausgleich eingebuchte Gegenforderung (Darlehen) mangels Bonität der Organe nicht werthaltig ist ([BGer 6B_410/2024 E. 5.7, 7.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_6B_410/2024)). Der blosse buchhalterische Ausweis einer nominellen Forderung schliesst den Schaden nicht aus; massgebend ist die reale Einbringlichkeit und wirtschaftliche Werthaltigkeit ex ante.
 
 #### E.2 Schaden bei überschuldeten Gesellschaften — Praxiswechsel
 
@@ -274,6 +293,8 @@ Art. 165 StGB (Misswirtschaft) ist ein **konkretes Gefährdungsdelikt** und setz
 
 Die Anklageschrift muss die dem Beschuldigten vorgeworfenen Handlungen bzw. Unterlassungen, die den Tatbestand der ungetreuen Geschäftsbesorgung erfüllen sollen, **hinreichend konkret umschreiben**. Dies gilt insbesondere für die Pflichtverletzung: Die Anklage muss darlegen, welche konkreten Pflichten verletzt wurden und welches Verhalten dem Täter als pflichtwidrig vorgeworfen wird. Dass die nähere rechtliche Würdigung der Pflichtverletzung Teil der rechtlichen Beurteilung ist, genügt nicht, wenn die Anklage nicht erkennen lässt, welches konkrete Handeln oder Unterlassen den Vorwurf begründet ([BGer 6B_804/2025 E. 3.2–3.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-804-2025_2026-06-02.html)).
 
+Vom Sachverhaltsvorwurf zu unterscheiden ist die **rechtliche Subsumtion**: Die Einordnung von angeklagten Vermögensdispositionen als In-sich-Geschäfte oder verdeckte Gewinnausschüttungen ist eine rein rechtliche Würdigung von Tatsachen. Das Sachgericht ist gemäss [Art. 9 StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_9) an den angeklagten Sachverhalt gebunden, nicht aber an dessen rechtliche Einordnung durch die Staatsanwaltschaft ([BGer 6B_410/2024 E. 4.1, 4.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_6B_410/2024)).
+
 #### J.2 Beweislast und Beweismass
 
 Die Strafverfolgungsbehörde trägt die **Behauptungs- und Beweislast** für alle Tatbestandsmerkmale, einschliesslich der Pflichtwidrigkeit und des Kausalzusammenhangs. An den **Vorsatznachweis** sind hohe Anforderungen zu stellen, da der objektive Tatbestand — namentlich das Merkmal der Pflichtverletzung — relativ unbestimmt ist ([BGE 142 IV 346 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-346_2016.html)). Eventualvorsatz und Eventualabsicht genügen für die Qualifikation nach Ziff. 1 Abs. 3 und Ziff. 2.
@@ -287,12 +308,14 @@ Die Strafverfolgungsbehörde trägt die **Behauptungs- und Beweislast** für all
 3. Bei Retrozessionen ist entscheidend, ob der Vermögensverwalter seine Kunden **vollständig und kumulativ** über Wesen, Höhe und Anspruch auf die Retrozessionen aufgeklärt hat. Ein blosser Hinweis auf die Existenz von Retrozessionen genügt nicht; die Kunden müssen in der Lage sein, ihre Herausgabeansprüche geltend zu machen ([BGE 144 IV 294 E. 3.2–3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html); [BGer 6B_431/2024 E. 3.4.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-431-2024_2025-11-10.html)).
 4. Bei der Einpersonen-AG prüfen, ob die Entnahme das **Reinvermögen im Umfang des Aktienkapitals und der gebundenen Reserven** angetastet hat. Entnahmen, die den Verfügungsrahmen des Aktienkapitals und der gebundenen Reserven nicht überschreiten, sind nicht pflichtwidrig ([BGE 141 IV 104 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-104_2015.html)).
 5. Der Vorsatznachweis bei der ungetreuen Geschäftsbesorgung ist anspruchsvoll: Da das Merkmal der Pflichtwidrigkeit relativ unbestimmt ist, genügt die blosse Kenntnis der Tatumstände nicht; hinzukommen muss das Bewusstsein der Pflichtwidrigkeit ([BGE 142 IV 346 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-142-IV-346_2016.html)).
+6. Bei krasser Überlänge des Strafverfahrens (Verletzung des Beschleunigungsgebots nach Art. 5 StPO bzw. Art. 6 Ziff. 1 EMRK, etwa bei einer Verfahrensdauer von knapp elf Jahren für ein Wirtschaftsdelikt) ist eine substantielle Reduktion der Strafe — im Leitentscheid [BGer 6B_410/2024 E. 2.1–2.3](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_6B_410/2024) um ein Drittel — als angemessene Kompensation einzufordern.
 
 **Für die Strafverfolgungsbehörden:**
 
 1. Die Anklageschrift muss die konkret vorgeworfenen **Pflichtverletzungen** (aktives Tun oder Unterlassen) benennen — nicht nur die rechtliche Qualifikation. Ein pauschaler Vorwurf der «Pflichtverletzung» genügt dem Anklagegrundsatz nicht ([BGer 6B_804/2025 E. 3.2–3.6](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-804-2025_2026-06-02.html)).
 2. Bei Retrozessionsfällen ist der Schaden durch die **Nicht-Vermehrung der Aktiven** zu beziffern: Der Kunde kann ohne Information seine Herausgabeansprüche nicht geltend machen ([BGE 144 IV 294 E. 3.2–3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-294_2018.html)).
 3. Bei überschuldeten Gesellschaften ist der Vermögensschaden im **Bruttovermögen** zu beziffern, nicht im Nettovermögen. Aktivenentzug schädigt die Gesellschaft auch dann, wenn sie überschuldet ist ([BGE 151 IV 258 E. 1.3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-151-IV-258_2025.html)).
+4. Bei Stiftungen und Trusts begründen In-sich-Geschäfte und Darlehensgewährungen an Organe zur Begleichung privater Schulden einen vollendeten Vermögensschaden nach Art. 158 Ziff. 1 StGB, wenn die dafür eingebuchte Gegenforderung mangels Bonität der Organe nicht werthaltig ist. Die Einordnung als In-sich-Geschäft oder verdeckte Vorteilszuwendung bindet das Gericht als rechtliche Subsumtion nicht an den Wortlaut der Anklage ([BGer 6B_410/2024 E. 4.1, 5.7, 7.1](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_6B_410/2024)).
 
 ---
 
