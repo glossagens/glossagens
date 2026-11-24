@@ -2,10 +2,14 @@
 title: "Art. 285 StGB — Gewalt und Drohung gegen Behörden und Beamte"
 weight: 285
 date: 2026-07-03
-lastmod: 2026-11-06
-description: "Kommentar zu Art. 285 StGB: Gewalt und Drohung gegen Behörden und Beamte — Tatbestandsmerkmale der Hinderung, Nötigung und tätlichen Angriffs (Ziff. 1), Gleichstellung von Transport- und Sicherheitsorganen sowie Qualifikationen bei Zusammenrottung (Ziff. 2)."
+lastmod: 2026-11-24
+description: "Kommentar zu Art. 285 StGB: Gewalt und Drohung gegen Behörden und Beamte — Tatbestandsmerkmale der Hinderung, Nötigung und tätlichen Angriffs (Ziff. 1), funktionaler Beamtenbegriff bei privaten Trägern (BGer 6B_295/2026), Gleichstellung von Transport- und Sicherheitsorganen sowie Qualifikationen bei Zusammenrottung (Ziff. 2)."
 tags: ["StGB", "Gewalt gegen Beamte", "Drohung", "Amtshandlung", "Beamtenbegriff", "Zusammenrottung", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-24
+    by: "Antigravity Agent"
+    model: "inherit"
+    note: "Aufnahme von BGer 6B_295/2026 vom 29. Oktober 2026 (publiziert am 24.11.2026): Funktionaler Beamtenbegriff nach Art. 110 Abs. 3 StGB bei stellvertretender Leitung einer privat betriebenen kantonalen Asylunterkunft (Schutzbereich von Art. 285 Ziff. 1 StGB; Rz 2 und 2a)."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -47,7 +51,9 @@ revisions:
 ## II. Tatbestandsmerkmale des Grundtatbestands (Ziff. 1)
 
 ### 1. Beamtenbegriff und gleichgestellte Organe
-**2** Beamte im Sinne von [Art. 110 Abs. 3 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_110) sind Träger öffentlicher Funktionen. Ziff. 1 Abs. 2 stellt Sicherheits- und Kontrollpersonal konzessionierter Transportunternehmen (z.B. Bahn- und Busbetriebe) den staatlichen Beamten strafrechtlich gleich. Auch Primarlehrer erfüllen den Beamtenbegriff, soweit sie öffentliche Aufgaben wahrnehmen ([BGer 6B_891/2010 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-891-2010_2011-01-11.html)).
+**2** Beamte im Sinne von [Art. 110 Abs. 3 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_110) sind Träger öffentlicher Funktionen. Der strafrechtliche Beamtenbegriff ist funktional zu verstehen: Entscheidend ist, ob die übertragene Funktion amtlicher Natur ist, d. h. der Erfüllung einer dem Gemeinwesen zustehenden öffentlich-rechtlichen Aufgabe dient ([BGE 149 IV 57 E. 1.4.1](https://mcp.opencaselaw.ch/entscheid/bge_149%20IV%2057#e-1-4-1); [BGE 141 IV 329 E. 1.3](https://mcp.opencaselaw.ch/entscheid/bge_141%20IV%20329#e-1-3)). Unerheblich ist, ob das Anstellungsverhältnis öffentlich-rechtlich oder privatrechtlich ausgestaltet ist. Ziff. 1 Abs. 2 stellt überdies Sicherheits- und Kontrollpersonal konzessionierter Transportunternehmen (z. B. Bahn- und Busbetriebe) den staatlichen Beamten strafrechtlich gleich. Auch Primarlehrer erfüllen den Beamtenbegriff, soweit sie öffentliche Aufgaben wahrnehmen ([BGer 6B_891/2010 E. 3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-891-2010_2011-01-11.html)).
+
+**2a** **Funktionale Beamtenstellung bei privaten Betreibern staatlicher Asylunterkünfte**: Überträgt das Gemeinwesen eine staatliche Kernaufgabe gestützt auf eine gesetzliche Grundlage an eine privatrechtliche Trägerschaft, kommt den mit Leitungs- und Betreuungsfunktionen betrauten Mitarbeitenden funktionale Beamteneigenschaft zu. So bejahte das Bundesgericht den Beamtenstatus für den stellvertretenden Leiter einer kantonalen Notunterkunft für Asylsuchende, die durch eine private Aktiengesellschaft im Auftrag des Kantons betrieben wurde ([BGer 6B_295/2026 vom 29. Oktober 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.10.2026_6B_295/2026) E. 1.3.2, 1.4.3 f.). Da die Unterbringung und Betreuung von Asylsuchenden eine dem Gemeinwesen obliegende öffentliche Aufgabe darstellt ([Art. 24 ff. AsylG](https://www.fedlex.admin.ch/eli/cc/1999/358/de#art_24); BGE 149 IV 183 E. 3.1), handelt zumindest das Leitungspersonal in amtlicher Funktion. Daran ändert nichts, dass für privatrechtlich Angestellte kein strafprozessualer Ermächtigungsvorbehalt gemäss [Art. 7 Abs. 2 lit. b StPO](https://www.fedlex.admin.ch/eli/cc/2010/267/de#art_7) gilt; Strafbarkeit und Strafverfolgungsmodalitäten sind autonom zu beurteilen (E. 1.4.1). Vom Schutzbereich des Art. 285 StGB nicht erfasst werden demgegenüber private Sicherheits- und Wachangestellte, wenn eine gesetzliche Grundlage für die Übertragung hoheitlicher Zwangsbefugnisse fehlt (Abgrenzung zu [BGer 6B_947/2022 vom 6. Dezember 2022](https://mcp.opencaselaw.ch/entscheid/bger_6B_947_2022) E. 3.5).
 
 ### 2. Tathandlungen: Hinderung, Nötigung und tätlicher Angriff
 **3** Erfasst werden drei Begehungsformen: die **Hinderung** an einer Amtshandlung durch physische Zwangseinwirkung, die **Nötigung** zu einer Amtshandlung sowie der **tätliche Angriff** während der Amtsausübung ([BGE 120 IV 136 E. 2a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-120-IV-136_1994-05-10.html)). Blosse passive Widersetzlichkeit ohne Gewaltanwendung erfüllt nicht Art. 285, sondern gegebenenfalls [Art. 286 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_286) ([BGE 133 IV 97 E. 6.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-133-IV-97_2007.html); [BGE 107 IV 113 E. 4d](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-107-IV-113_1981-09-04.html)).

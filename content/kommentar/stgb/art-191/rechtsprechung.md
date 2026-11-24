@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 191 StGB"
 weight: 99
 date: 2026-06-02
-lastmod: 2026-11-06
+lastmod: 2026-11-24
 description: "Übersicht der Entscheide zu Art. 191 StGB — Schändung, Widerstandsunfähigkeit, Urteilsunfähigkeit, Missbrauch"
 tags: ["Rechtsprechung", "StGB", "Schändung", "Sexualstrafrecht"]
 revisions:
+  - date: 2026-11-24
+    by: "Antigravity Agent"
+    model: "inherit"
+    note: "Aufnahme von BGer 6B_491/2026 vom 29. Oktober 2026: Widerstandsunfähigkeit bei situativer Vulnerabilität im quasi-therapeutischen Massagekontext (Schockstarre); Abgrenzung zu BGE 148 IV 329 und Art. 198 aStGB."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
@@ -84,4 +88,18 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 6. November 2026*
+### BGer 6B_491/2026 vom 29. Oktober 2026
+- **Thema**: Schändung (Art. 191 aStGB); Widerstandsunfähigkeit bei situativer Vulnerabilität im quasi-therapeutischen Massagekontext; Schockstarre (*sidération*); Abgrenzung zu Art. 198 aStGB (Kuss auf Mundwinkel als Attouchement)
+- **Besetzung**: I. strafrechtliche Abteilung, Fünferbesetzung (Muschietti [Präsident], von Felten, Wohlhauser, Guidon, Glassey)
+- **Sachverhalt**: Anlässlich eines Karate-Sommerlagers führte der 38-jährige Beschwerdeführer bei einer 17-jährigen, massageunerfahrenen Teilnehmerin auf seinem Zimmer eine Ganzkörpermassage durch. Während die Jugendliche nackt auf einer Behandlungsliege lag (zunächst auf dem Bauch, dann auf dem Rücken), entfernte der Täter überraschend das abdeckende Tuch und nahm sexuelle Handlungen an ihr vor (wiederholte Streich- und Druckbewegungen zwischen Brüsten und Schambereich, Berührung des Intimbereichs). Zu einem späteren Zeitpunkt küsste er sie in einem Aufenthaltsraum überraschend auf den Mundwinkel.
+- **Kernaussage**:
+  - Die Widerstandsunfähigkeit nach Art. 191 aStGB kann aus einer Kumulation situativer Vulnerabilitätsfaktoren resultieren: jugendliches Alter, Massageunerfahrenheit, quasi-therapeutisches Vertrauensverhältnis (*quasi-rapport patient-soignant*), entblösste Körperlage auf einer Liege und die überraschende Positionierung des Täters hinter dem Kopf des Opfers. Weder Schlaf, Rauschmittel, physische Fesselung noch eine schwere psychische Beeinträchtigung sind hierfür zwingend erforderlich (E. 2.4.3).
+  - Das Bundesgericht bestätigt und überträgt die in BGer 6B_917/2024 vom 19. August 2026 (Arzt-Patienten-Verhältnis) begründeten Grundsätze auf nicht-professionelle, faktisch-therapeutische Kontexte: Die überraschende Konfrontation mit sexuellen Handlungen in einer Vertrauensbeziehung kann eine Schockstarre (*sidération* / *tétanisée*) auslösen, welche eine rechtzeitige Willensbildung und Gegenwehr verunmöglicht (E. 2.4.3).
+  - Dogmatische Abgrenzung zu BGE 148 IV 329 E. 5.2: Nicht der blosse Irrtum über die Natur der Handlung begründet die Widerstandsunfähigkeit, sondern die tatsächliche Unmöglichkeit des Opfers, die sexuelle Natur des Angriffs in einer Lage situativer Vulnerabilität rechtzeitig zu erkennen und abzuwehren (E. 2.4.3).
+  - Abgrenzung von sexueller Handlung (Art. 191 StGB) und Attouchement (Art. 198 aStGB): Wiederholte Druck- und Streichbewegungen im Intim- und Brustbereich gehen über eine blosse Belästigung hinaus und erfüllen eine sexuelle Handlung nach Art. 191 StGB (E. 2.5). Demgegenüber erfüllt ein überraschend aufgedrängter Kuss auf den Mundwinkel den Tatbestand des sexuellen Attouchements gemäss Art. 198 Abs. 2 aStGB (E. 3.1, 3.2, 3.5).
+- **Einschlägig für**: Widerstandsunfähigkeit — situative Vulnerabilität, faktisch-therapeutischer Kontext, Massage, Schockstarre (*sidération*); Abgrenzung zu BGE 148 IV 329; sexuelle Belästigung / Attouchement (Art. 198 aStGB)
+- **Fundstelle**: [BGer 6B_491/2026 vom 29. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_6B_491_2026)
+
+---
+
+*Letzte Aktualisierung: 24. November 2026*

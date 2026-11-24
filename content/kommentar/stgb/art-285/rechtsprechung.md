@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 285 StGB"
 weight: 99
 date: 2026-08-31
-lastmod: 2026-11-06
-description: "Übersicht der Rechtsprechung zu Art. 285 StGB — Gewalt und Drohung gegen Behörden und Beamte: Drohungsschwelle, Hinderung durch Gewalt, tätlicher Angriff (BGer 6B_330/2026), rechtswidrige Amtshandlung, Zusammenrottung und Abgrenzung zu Art. 286 StGB."
+lastmod: 2026-11-24
+description: "Übersicht der Rechtsprechung zu Art. 285 StGB — Gewalt und Drohung gegen Behörden und Beamte: Drohungsschwelle, funktionaler Beamtenbegriff bei privaten Trägern (BGer 6B_295/2026), Hinderung durch Gewalt, tätlicher Angriff (BGer 6B_330/2026), rechtswidrige Amtshandlung, Zusammenrottung und Abgrenzung zu Art. 286 StGB."
 tags: ["Rechtsprechung", "StGB", "Gewalt gegen Beamte", "Drohung", "Amtshandlung", "Zusammenrottung", "Besonderer Teil"]
 revisions:
+  - date: 2026-11-24
+    by: "Antigravity Agent"
+    model: "inherit"
+    note: "Aufnahme von BGer 6B_295/2026 vom 29. Oktober 2026 (publiziert am 24.11.2026): Funktionaler Beamtenbegriff (Art. 110 Abs. 3 StGB) bei stellvertretender Leitung einer im kantonalen Auftrag privat betriebenen Asylunterkunft; Abgrenzung zu Sicherheitsangestellten (BGer 6B_947/2022) und Art. 7 Abs. 2 lit. b StPO (BGE 149 IV 183)."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -82,6 +86,14 @@ revisions:
 ---
 
 ## II. Weitere Entscheide
+
+### [BGer 6B_295/2026 vom 29. Oktober 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.10.2026_6B_295/2026) E. 1.3, 1.4 — Funktionaler Beamtenbegriff: Privater Betreiber einer kantonalen Asylunterkunft
+
+- **Sachverhalt**: Ein in einer unterirdischen kantonalen Notunterkunft für Asylsuchende untergebrachter Asylbewerber forderte telefonisch vom stellvertretenden Leiter der Unterkunft einen Transfer in eine andere Asylunterkunft und drohte, die Unterkunft anzuzünden, falls er bis zum Abend keine Vollzugsmeldung erhalte. Am selben Abend setzte er im Zimmer ein Leintuch an seinem Bett mit Feuerzeug und Deospray in Brand, worauf die Flammen auf vier Betten übergriffen, bevor das Feuer von einem Mitbewohner gelöscht werden konnte. Die Unterkunft wurde von einer privatrechtlichen Aktiengesellschaft im Auftrag des Kantons betrieben. Der Beschuldigte wurde wegen versuchter qualifizierter Brandstiftung sowie versuchter Gewalt und Drohung gegen Behörden und Beamte (Art. 285 Ziff. 1 Abs. 1 i.V.m. Art. 22 Abs. 1 StGB) schuldig gesprochen. Mit Beschwerde in Strafsachen rügte er, der stellvertretende Leiter der privaten Betreiberorganisation sei kein Beamter im Sinne des Strafgesetzbuches.
+- **Kernaussage**: Der stellvertretende Leiter einer privatrechtlich organisierten kantonalen Asylunterkunft ist funktionaler Beamter im Sinne von Art. 110 Abs. 3 StGB und fällt unter den Schutzbereich von Art. 285 StGB (E. 1.4.4). Für die Beamtenstellung ist massgebend, ob die übertragene Funktion amtlicher Natur ist, d. h. der Erfüllung einer dem Gemeinwesen zustehenden öffentlich-rechtlichen Aufgabe dient; auf die öffentlich-rechtliche oder privatrechtliche Rechtsform des Anstellungsverhältnisses kommt es nicht an (E. 1.3.2). Die Unterbringung und Betreuung von Asylsuchenden ist eine staatliche Kernaufgabe (Art. 24 ff. AsylG), die der Kanton gesetzlich auf private Träger übertragen darf; zumindest das Leitungspersonal nimmt dabei amtliche Aufgaben wahr (E. 1.4.3). Dass für privatrechtlich Angestellte kein strafprozessualer Ermächtigungsvorbehalt nach Art. 7 Abs. 2 lit. b StPO gilt (BGE 149 IV 183), schliesst die Beamteneigenschaft im materiellen Strafrecht nicht aus (E. 1.4.1). Vom Schutzbereich des Art. 285 StGB nicht erfasst werden demgegenüber blosse private Sicherheitsangestellte, wenn eine gesetzliche Grundlage für die Übertragung hoheitlicher Zwangsbefugnisse fehlt (Abgrenzung zu BGer 6B_947/2022; E. 1.4.2).
+- **Einschlägig für**: Art. 285 Ziff. 1 StGB, Art. 110 Abs. 3 StGB (funktionaler Beamtenbegriff, Übertragung öffentlicher Aufgaben an Private, Asylbetreuung, Abgrenzung privates Sicherheitspersonal).
+
+---
 
 ### [BGer 6B_330/2026 vom 23. September 2026](https://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.09.2026_6B_330/2026) E. 2.1.2, 2.2 — Tätlicher Angriff: Intensität einer Tätlichkeit genügt
 

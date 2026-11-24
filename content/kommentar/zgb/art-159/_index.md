@@ -2,32 +2,29 @@
 title: "Art. 159 — Eheliche Gemeinschaft und Pflichten der Ehegatten"
 weight: 159
 date: 2026-07-17
-lastmod: 2026-08-09
-description: "Kommentar zu Art. 159 ZGB — Begründung der ehelichen Gemeinschaft durch die Trauung; Pflichten der Ehegatten (Wohl der Gemeinschaft, Fürsorge für Kinder, Treue und Beistand); Prozesskostenvorschuss und Konkubinat"
-tags: ["ZGB", "Ehe", "eheliche-Gemeinschaft", "Treuepflicht", "Beistandspflicht", "Prozesskostenvorschuss", "Eherecht"]
+lastmod: 2026-11-24
+description: "Kommentar zu Art. 159 ZGB — Begründung der ehelichen Gemeinschaft durch die Trauung; Pflichten der Ehegatten (Wohl der Gemeinschaft, Fürsorge für Kinder, Treue und Beistand); Beistandspflicht für aussereheliche Kinder; Prozesskostenvorschuss und Konkubinat"
+tags: ["ZGB", "Ehe", "eheliche-Gemeinschaft", "Treuepflicht", "Beistandspflicht", "Prozesskostenvorschuss", "Stiefkinder", "aussereheliche-Kinder", "Ueberschussverteilung", "Eherecht"]
+revisions:
+  - date: 2026-11-24
+    by: "Antigravity Agent"
+    model: "inherit"
+    note: "Einarbeitung des Leitentscheids BGer 5A_615/2025 vom 09.09.2026 (zur Publikation in der Amtlichen Sammlung vorgesehen): Präzisierung der Beistandspflicht nach Art. 159 Abs. 3 ZGB gegenüber ausserehelichen Kindern des Ehegatten; drei kumulative Voraussetzungen (Subsidiarität, Schutz des familienrechtlichen Existenzminimums, Begrenzungsregel) und Berücksichtigung erst im Rahmen der Überschussverteilung."
 ---
 
-## Wortlaut
+## Gesetzeswortlaut
 
-> **Art. 159 ZGB**
->
-> 1 Durch die Trauung werden die Ehegatten zur ehelichen Gemeinschaft verbunden.
->
-> 2 Sie verpflichten sich gegenseitig, das Wohl der Gemeinschaft in einträchtigem Zusammenwirken zu wahren und für die Kinder gemeinsam zu sorgen.
->
-> 3 Sie schulden einander Treue und Beistand.
-
-*Quelle: Fedlex (SR 210), Stand 1.7.2026*
+{{< wortlaut >}}
 
 ## Überblick und Bedeutung
 
 Art. 159 ZGB ist die **Grundnorm des ehelichen Gemeinschaftsrechts**. Die Bestimmung legt fest, dass die Ehegatten durch die Trauung zur ehelichen Gemeinschaft verbunden werden und sich gegenseitig zu bestimmten Pflichten verpflichten: das Wohl der Gemeinschaft in einträchtigem Zusammenwirken zu wahren, für die Kinder gemeinsam zu sorgen sowie einander Treue und Beistand zu leisten. Art. 159 ZGB konkretisiert die verfassungsrechtliche Garantie der Ehe (Art. 14 BV) und die staatsvertragsrechtlichen Vorgaben (insb. Art. 8 EMRK).
 
-Die Norm steht im **Siebenten Titel des ZGB** (Wirkungen der Ehe im allgemeinen) und ist Ausgangspunkt für zahlreiche eherechtliche Pflichten. Aus Art. 159 Abs. 2 und 3 ZGB leiten sich namentlich die **Unterhaltspflicht** (Art. 163 ZGB; [Art. 163](../art-163)), die **Schlüsselgewalt** (Art. 166 ZGB), die **Beistandspflicht** als Prozesskostenvorschusspflicht (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB) sowie die eheliche Treuepflicht als Scheidungsgrund (Art. 114 ZGB) ab.
+Die Norm steht im **Siebenten Titel des ZGB** (Wirkungen der Ehe im allgemeinen) und ist Ausgangspunkt für zahlreiche eherechtliche Pflichten. Aus Art. 159 Abs. 2 und 3 ZGB leiten sich namentlich die **Unterhaltspflicht** (Art. 163 ZGB; [Art. 163](../art-163)), die **Schlüsselgewalt** (Art. 166 ZGB), die **Beistandspflicht** als Prozesskostenvorschusspflicht (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB), die **Beistandspflicht bei Unterhaltspflichten gegenüber nicht gemeinsamen (vorehelichen und ausserehelichen) Kindern** des anderen Ehegatten (Art. 159 Abs. 3 ZGB i.V.m. Art. 278 Abs. 2 ZGB; Leitentscheid [BGer 5A_615/2025 vom 9. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_615_2025)) sowie die eheliche Treuepflicht als Scheidungsgrund (Art. 114 ZGB) ab.
 
 ### Systematische Stellung
 
-Art. 159 ZGB ist die **Eingangsnorm der Wirkungen der Ehe im allgemeinen**. Die in Abs. 2 und 3 formulierten Pflichten werden durch nachfolgende Bestimmungen konkretisiert: Art. 163 ZGB regelt die Unterhaltspflicht, Art. 166 ZGB die Schlüsselgewalt, Art. 170 ZGB die Auskunftspflicht. Art. 159 Abs. 3 ZGB (Treue und Beistand) ist die Grundlage sowohl für die moralische Treuepflicht als auch für die rechtliche **Beistandspflicht**, die sich in der Pflicht zur Leistung eines Prozesskostenvorschusses (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB) manifestiert.
+Art. 159 ZGB ist die **Eingangsnorm der Wirkungen der Ehe im allgemeinen**. Die in Abs. 2 und 3 formulierten Pflichten werden durch nachfolgende Bestimmungen konkretisiert: Art. 163 ZGB regelt die Unterhaltspflicht, Art. 166 ZGB die Schlüsselgewalt, Art. 170 ZGB die Auskunftspflicht. Art. 159 Abs. 3 ZGB (Treue und Beistand) ist die Grundlage sowohl für die moralische Treuepflicht als auch für die rechtliche **Beistandspflicht**, die sich in der Pflicht zur Leistung eines Prozesskostenvorschusses (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB) sowie im Beistand bei der Erfüllung von Unterhaltspflichten gegenüber Kindern des andern Ehegatten (Art. 159 Abs. 3 ZGB i.V.m. Art. 278 Abs. 2 ZGB) manifestiert.
 
 ## Abs. 1 — Begründung der ehelichen Gemeinschaft durch die Trauung
 
@@ -57,7 +54,10 @@ Die **Treuepflicht** (Art. 159 Abs. 3 ZGB) umfasst die physische und emotionale 
 
 ### 2. Beistandspflicht
 
-Die **Beistandspflicht** (Art. 159 Abs. 3 ZGB) verpflichtet die Ehegatten, einander beizustehen, namentlich in Notlagen, bei Krankheit, in rechtlichen Auseinandersetzungen und im Alltag. Die Beistandspflicht konkretisiert sich in der **Unterhaltspflicht** (Art. 163 ZGB), der Erwerbsobliegenheit beider Ehegatten und der **Pflicht zur Leistung eines Prozesskostenvorschusses** (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB; [BGE 142 III 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_36) E. — keine Prozesskostenvorschusspflicht für den Konkubinatspartner).
+Die **Beistandspflicht** (Art. 159 Abs. 3 ZGB) verpflichtet die Ehegatten, einander beizustehen, namentlich in Notlagen, bei Krankheit, in rechtlichen Auseinandersetzungen und im Alltag. Die Beistandspflicht konkretisiert sich in verschiedenen Dimensionen:
+- in der gemeinsamen **Unterhaltspflicht** (Art. 163 ZGB; [Art. 163](../art-163)) und der gegenseitigen Verpflichtung zum zumutbaren Einsatz der Arbeitskraft;
+- in der prozessualen **Pflicht zur Leistung eines Prozesskostenvorschusses** (Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB; [BGE 142 III 36](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_36));
+- in der **Unterstützung bei der Erfüllung von Unterhaltspflichten gegenüber nicht gemeinsamen Kindern** des Partners: für voreheliche Stiefkinder ausdrücklich in Art. 278 Abs. 2 ZGB verankert, für während der Ehe geborene aussereheliche Kinder des Partners direkt auf Art. 159 Abs. 3 ZGB gestützt ([BGE 127 III 68](https://mcp.opencaselaw.ch/entscheid/bge_127%20III%2068) E. 3; Leitentscheid [BGer 5A_615/2025 vom 9. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_615_2025) E. 4.1.2.1).
 
 Macht ein Ehegatte im Rahmen eherechtlicher Pflichten eine gesundheitsbedingte Einschränkung seiner Erwerbsfähigkeit geltend, so genügt ein einfaches Arztzeugnis nicht; nach **[BGer 5A_639/2025 vom 11. Juli 2026 / 1. September 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=11.07.2026_5A_639/2025)** verlangt die Beistands- und Mitwirkungspflicht fundierte, nachvollziehbar begründete medizinische Berichte, die konkrete funktionelle Einschränkungen detailliert darlegen.
 
@@ -74,6 +74,37 @@ Die Pflicht zur Leistung eines Prozesskostenvorschusses besteht **nicht** gegen�
 ### Wegfall durch rechtskräftige Scheidung
 
 Nach der **rechtskräftigen Scheidung** entfällt die Pflicht zur Leistung eines Prozesskostenvorschusses an den früheren Ehegatten. Die Pflicht beruht auf Art. 159 Abs. 3 ZGB i.V.m. Art. 163 ZGB und ist eine eherechtliche Pflicht, die mit dem Ende der Ehe endet. Dies hat das Bundesgericht in BGer 5A_599/2026 bestätigt: Die Beschwerdeführerin machte geltend, nach dem Teilurteil vom 15. Oktober 2021 sei sie rechtskräftig geschieden, weshalb die Subsidiaritätsregel (unentgeltliche Rechtspflege subsidiär zum Kostenvorschussgesuch) nicht mehr greifen könne, weil keine familienrechtlichen Pflichten mehr bestünden. Das Bundesgericht bestätigte, dass die Pflicht zur Leistung eines Prozesskostenvorschusses an den anderen Ehegatten auf Art. 159 Abs. 3 ZGB und Art. 163 ZGB beruhe ([BGer 5A_599/2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_599_2026) E. 5, 5.2). Im konkreten Fall war die Pflicht jedoch nicht mehr Gegenstand des Verfahrens, da die Beschwerdeführerin ohnehin keinen Vorschuss beanspruchte.
+
+## Beistandspflicht gegenüber ausserehelichen Kindern und Stiefkindern (BGer 5A_615/2025)
+
+### 1. Dogmatische Verankerung und Rechtsnatur
+
+Während Art. 278 Abs. 2 ZGB ausdrücklich normiert, dass jeder Ehegatte dem andern in der Erfüllung der Unterhaltspflicht gegenüber *vorehelichen Kindern* in angemessener Weise beizustehen hat, fehlt im Gesetz eine entsprechende Bestimmung für Kinder, die *während der Ehe* aus einer ausserehelichen Beziehung eines Ehegatten hervorgegangen sind. Nach ständiger Rechtsprechung des Bundesgerichts ([BGE 127 III 68](https://mcp.opencaselaw.ch/entscheid/bge_127%20III%2068) E. 3; BGer 5A_129/2019 vom 10. Mai 2019 E. 4.3.1; BGer 5A_788/2017 vom 2. Juli 2018 E. 7.1) fliesst eine solche Pflicht direkt aus der allgemeinen Beistandspflicht von **Art. 159 Abs. 3 ZGB**.
+
+Das Bundesgericht hat diese Rechtsprechung im zur Publikation in der Amtlichen Sammlung vorgesehenen Leitentscheid **[BGer 5A_615/2025 vom 9. September 2026](https://mcp.opencaselaw.ch/entscheid/bger_5A_615_2025)** präzisiert und die Schranken sowie die methodische Umsetzung eingehend geklärt:
+- **Analogie und Obergrenze**: Die Beistandspflicht nach Art. 159 Abs. 3 ZGB führt inhaltlich zu analogen Resultaten wie Art. 278 Abs. 2 ZGB. Zugleich bildet das Fehlen einer ausdrücklichen Gesetzesbestimmung für aussereheliche Kinder die äusserste Schranke («emprise maximum») der aus Art. 159 Abs. 3 ZGB abgeleiteten Pflicht; der beistandspflichtige Ehegatte darf rechtlich keinesfalls strenger belastet werden als bei einem vorehelichen Stiefkind (BGer 5A_615/2025 E. 4.1.2.1 f.).
+- **Unabhängigkeit vom gemeinsamen Wohnsitz**: Die Beistandspflicht greift unabhängig davon, ob das Kind im ehelichen Haushalt lebt oder bei seinem anderen leiblichen Elternteil aufwächst ([BGE 127 III 68](https://mcp.opencaselaw.ch/entscheid/bge_127%20III%2068) E. 3; BGer 5A_615/2025 E. 4.1.2.1).
+- **Erstreckung auf den Volljährigenunterhalt**: Sie gilt auch für Unterhaltsbeiträge an volljährige Kinder in Erstausbildung (Art. 277 Abs. 2 ZGB; BGer 5A_615/2025 E. 4.1.2.1; BGer 5A_440/2014 E. 4.3.2.2).
+- **Kein Direktanspruch und zeitliche Befristung**: Die Beistandspflicht verleiht dem Kind keinen direkten Alimentenanspruch gegen den Ehegatten des unterhaltspflichtigen Elternteils. Sie besteht ausschliesslich als interne eheliche Beistandspflicht unter den Ehegatten, gilt nur während der Dauer der Ehe und endet mit der formellen Scheidung (BGer 5A_615/2025 E. 4.1.2.1).
+
+### 2. Drei kumulative Voraussetzungen der Beistandspflicht
+
+Die Beistandspflicht des Ehegatten nach Art. 159 Abs. 3 ZGB zugunsten eines ausserehelichen Kindes des Partners ist nach [BGer 5A_615/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_615_2025) E. 4.1.2.2 dreifach kumulativ beschränkt:
+
+1. **Subsidiarität gegenüber den leiblichen Eltern**:
+   Die Beistandspflicht ist strikt subsidiär zur originären Unterhaltspflicht beider biologischer Eltern. Bevor die eheliche Beistandspflicht zum Tragen kommt, muss die Erwerbskraft der leiblichen Eltern voll ausgeschöpft sein ([BGE 120 II 285](https://mcp.opencaselaw.ch/entscheid/bge_120%20II%20285) E. 2b; BGer 5A_788/2017 E. 7.1). Bei einem ausserehelichen Kind sind die Anforderungen an die Ausschöpfung der finanziellen Leistungsfähigkeit des leiblichen Elternteils besonders streng: Dieser kann gehalten sein, eine zumutbare Erwerbstätigkeit in seiner Freizeit auszuüben oder seine persönlichen Ausgaben und Lebenshaltungskosten einzuschränken, um den Unterhalt des Kindes vorrangig aus eigenen Kräften sicherzustellen (BGer 5A_615/2025 E. 4.1.2.2).
+2. **Schutz des familienrechtlichen Existenzminimums des Ehegatten**:
+   Die Pflicht greift nur, soweit der beistandspflichtige Ehegatte nach Deckung des eigenen Bedarfs und desjenigen der gemeinsamen bzw. eigenen Kinder über ausreichende Ressourcen verfügt. Das Bundesgericht stellt klar, dass insoweit das **familienrechtliche Existenzminimum** (und nicht nur das betreibungsrechtliche Existenzminimum nach SchKG) des beistandspflichtigen Ehegatten unantastbar bleibt – dies jedenfalls dann, wenn der Unterhaltsanspruch eines volljährigen Kindes zur Beurteilung steht (BGer 5A_615/2025 E. 4.1.2.2 unter Bezugnahme auf [BGE 147 III 265](https://mcp.opencaselaw.ch/entscheid/bge_147%20III%20265) E. 7.3).
+3. **Begrenzungsregel (Verbot der Besserstellung)**:
+   Die Beistandspflicht darf im Ergebnis keinesfalls dazu führen, dass der Unterhaltsbeitrag für das aussereheliche Kind höher ausfällt, als wenn der barunterhaltspflichtige Elternteil nicht verheiratet wäre (BGer 5A_615/2025 E. 4.1.2.2; BGer 5A_129/2019 E. 4.3.1).
+
+### 3. Berücksichtigung bei der Unterhaltsbemessung: Strikte Trennung und Überschussverteilung
+
+In methodischer Hinsicht zieht [BGer 5A_615/2025](https://mcp.opencaselaw.ch/entscheid/bger_5A_615_2025) (E. 4.1.2.3, E. 4.3.2) eine klare Trennlinie im Rahmen der zweistufigen Methode mit Überschussverteilung ([BGE 147 III 265](https://mcp.opencaselaw.ch/entscheid/bge_147%20III%20265)):
+
+- **Kein Vorwegabzug**: Unterhaltsbeiträge an gemeinsame Kinder (auch volljährige Kinder) dürfen vom verfügbaren Betrag des barunterhaltspflichtigen Elternteils vor der Überschussverteilung abgezogen werden ([BGE 147 III 265](https://mcp.opencaselaw.ch/entscheid/bge_147%20III%20265) E. 7.3; BGer 5A_615/2025 E. 4.1.1, 4.3.1). Für ein *aussereheliches Kind* gilt dies jedoch nicht: Dessen Unterhalt darf **nicht vorweg vom Einkommen in Abzug gebracht werden**. Eine schematische Gleichbehandlung mit gemeinsamen Kindern und ein vorweggenommener Abzug, ohne zuvor die Subsidiarität und die Erwerbskraft beider biologischer Eltern geprüft zu haben, ist nach Art. 9 BV willkürlich und verletzt Bundesrecht (BGer 5A_615/2025 E. 4.3.2).
+- **Konkretisierung erst im Stadium der Überschussverteilung**: Liegen die drei kumulativen Voraussetzungen vor, ist die Beistandspflicht ausschliesslich bei der **Verteilung des Überschusses** zu berücksichtigen (BGer 5A_615/2025 E. 4.1.2.3). Der Umstand, dass ein Ehegatte Unterhaltsbeiträge an ein aussereheliches Kind zu erbringen hat, bildet eine besondere Veranlagung, die es dem Sachrichter im Rahmen seines weiten Ermessens (Art. 4 ZGB) erlaubt, von der hälftigen Überschussverteilung abzuweichen und diesem Ehegatten einen höheren Überschussanteil zuzusprechen, damit er seinen Barunterhaltspflichten nachkommen kann.
+- **Formen der Beistandsleistung**: Wird das aussereheliche Kind im gemeinsamen Haushalt betreut, erfolgt der Beistand vorrangig durch Naturalunterhalt (Wohnraum, Verpflegung, Betreuung). Lebt das Kind ausserhalb, besteht die Beistandspflicht primär darin, dass der andere Ehegatte einen höheren finanziellen Beitrag an die laufenden gemeinsamen Haushaltskosten leistet, wodurch dem unterhaltspflichtigen Partner liquide Mittel für die Alimentenzahlung verbleiben (BGer 5A_615/2025 E. 4.1.2.2). Nur unter ausserordentlichen Umständen kann verlangt werden, dass der Ehegatte zur Erfüllung des Beistands eine eigene Erwerbstätigkeit aufnimmt oder ausweitet.
 
 ## Eheliche Gemeinschaft und Konkubinat
 
@@ -110,6 +141,10 @@ Nach der Scheidung lebt die Unterhaltspflicht als nachehelicher Unterhalt (Art. 
 ## Verhältnis zu anderen Normen
 
 - **[Art. 163 ZGB](../art-163)** — Unterhalt der Familie (konkretisiert Art. 159 Abs. 2, 3)
+- **[Art. 278 Abs. 2 ZGB](../art-278)** — Beistandspflicht gegenüber vorehelichen Kindern (Stiefkindern)
+- **[Art. 276a ZGB](../art-276a)** — Rangfolge von Unterhaltspflichten
+- **[Art. 277 Abs. 2 ZGB](../art-277)** — Volljährigenunterhalt
+- **Art. 4 ZGB** — Richterliches Ermessen bei der Abweichung von der hälftigen Überschussverteilung
 - **[Art. 173 ZGB](../art-173)** — Unterhaltsbeitrag im Eheschutz
 - **Art. 166 ZGB** — Schlüsselgewalt
 - **Art. 170 ZGB** — Auskunftspflicht
@@ -121,7 +156,9 @@ Nach der Scheidung lebt die Unterhaltspflicht als nachehelicher Unterhalt (Art. 
 
 ## Literaturhinweise
 
+- **BGer 5A_615/2025** (9.9.2026; zur Publikation in der Amtlichen Sammlung vorgesehen): Beistandspflicht nach Art. 159 Abs. 3 ZGB für aussereheliche Kinder des Ehegatten; drei kumulative Voraussetzungen (Subsidiarität gegenüber beiden leiblichen Eltern, Wahrung des familienrechtlichen Existenzminimums, Begrenzungsregel); Berücksichtigung erst im Stadium der Überschussverteilung (kein Vorwegabzug) — [OCL](https://mcp.opencaselaw.ch/entscheid/bger_5A_615_2025)
 - **BGE 142 III 36** (17.12.2015): Keine Prozesskostenvorschusspflicht für den Konkubinatspartner; Pflicht beruht auf Art. 159 Abs. 3 und Art. 163 ZGB — [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_142_III_36)
+- **BGE 127 III 68** (2000): Pflicht zur gegenseitigen Unterstützung (Art. 159 Abs. 3 ZGB) als Grundlage der Beistandspflicht für aussereheliche Kinder des Partners — [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_127_III_68)
 - **BGE 129 III 417** (22.5.2003): Eheschutz, Unterhaltsbeitrag, Willkür durch Verletzung des Verbotes der reformatio in peius — [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_129_III_417)
 - **BGE 138 III 97** (18.1.2012): Ehegattenunterhalt während des Getrenntlebens, Konkubinat — [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_138_III_97)
 - **BGE 118 II 235** (16.1.1992): Verlust des Rentenanspruchs des im Konkubinat lebenden geschiedenen Ehegatten — [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_118_II_235)
@@ -134,4 +171,4 @@ Nach der Scheidung lebt die Unterhaltspflicht als nachehelicher Unterhalt (Art. 
 - **BGer 5A_599/2026** (1.7.2026) E. 5, 5.2: Pflicht zur Leistung eines Prozesskostenvorschusses beruht auf Art. 159 Abs. 3 und Art. 163 ZGB; Wegfall nach rechtskräftiger Scheidung — [OCL](https://mcp.opencaselaw.ch/entscheid/bger_5A_599_2026)
 - **BGE 121 II 1** (1995): Art. 7 Abs. 2 ANAG; Scheinehe; eheliche Gemeinschaft im Ausländerrecht — [OCL](https://mcp.opencaselaw.ch/entscheid/bge_BGE_121_II_1)
 
-*Letzte Aktualisierung: 2026-08-09*
+*Letzte Aktualisierung: 2026-11-24*

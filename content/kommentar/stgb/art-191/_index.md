@@ -2,10 +2,14 @@
 title: "Art. 191 StGB — Schändung"
 weight: 191
 date: 2026-06-02
-lastmod: 2026-11-06
+lastmod: 2026-11-24
 description: "Kommentar zu Art. 191 StGB: Schändung, Urteilsunfähigkeit, Widerstandsunfähigkeit, Missbrauch, Vorsatz, Konkurrenz, Berufsverbot Art. 67 Abs. 4 StGB."
 tags: ["StGB", "Schändung", "Sexualstrafrecht", "Widerstandsunfähigkeit", "Urteilsunfähigkeit"]
 revisions:
+  - date: 2026-11-24
+    by: "Antigravity Agent"
+    model: "inherit"
+    note: "Einarbeitung von BGer 6B_491/2026 vom 29. Oktober 2026: Erweiterung der Widerstandsunfähigkeit auf situative Vulnerabilität im quasi-therapeutischen Kontext (Massage, Schockstarre); Abgrenzung zu BGE 148 IV 329 und zu Art. 198 aStGB (Kuss auf Mundwinkel als Attouchement)."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
@@ -52,9 +56,11 @@ revisions:
 - körperliche Invalidität oder Fesselung
 - besondere Körperlage (z.B. gynäkologischer Untersuchungsstuhl: BGE 103 IV 165)
 - Summierung mehrerer Faktoren (z.B. Schläfrigkeit, Alkoholisierung, Irrtum über Identität des Sexualpartners: BGE 119 IV 230, E. 3a)
-- therapeutisches Behandlungsverhältnis bei überraschendem Zugriff auf Intimbereich, wenn das Opfer die Handlung lagebedingt nicht wahrnehmen und einordnen kann (BGE 133 IV 49, E. 7; BGE 148 IV 329, E. 5.3.1)
+- therapeutisches oder quasi-therapeutisches Vertrauensverhältnis bei überraschendem Zugriff auf den Intimbereich in entblösster Körperlage, wenn das Opfer die Handlung lagebedingt nicht wahrnehmen und rechtzeitig abwehren kann (BGE 133 IV 49, E. 7; BGE 148 IV 329, E. 5.3.1; BGer 6B_491/2026 vom 29.10.2026, E. 2.4.3; BGer 6B_917/2024 vom 19.8.2026, E. 2.3.1)
 
-(BGE 133 IV 49, E. 7.2; BGer 6B_723/2025 v. 30.4.2026, E. 2.1.4–2.1.5)
+(BGE 133 IV 49, E. 7.2; BGer 6B_723/2025 v. 30.4.2026, E. 2.1.4–2.1.5; BGer 6B_491/2026 v. 29.10.2026, E. 2.1)
+
+**7a** **Situative Vulnerabilität im quasi-therapeutischen Kontext** Das Bundesgericht hat die Fallgruppen der Widerstandsunfähigkeit dahingehend präzisiert, dass diese auch aus einer Kumulation situativer Vulnerabilitätsfaktoren resultieren kann, ohne dass Schlaf, Rauschmittel, Fesselung oder eine schwere psychische Beeinträchtigung vorliegen müssen ([BGer 6B_491/2026 vom 29. Oktober 2026 E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_491_2026)). Befindet sich das Opfer in einer quasi-therapeutischen Beziehung (etwa bei einer Gefälligkeitsmassage durch eine als erfahren geltende Vertrauensperson), nackt auf einer Behandlungsliege und mit dem Täter ausserhalb seines Blickfeldes (z.B. hinter dem Kopf stehend), begründen das jugendliche Alter, die Unerfahrenheit und das dadurch erzeugte Vertrauen eine situative Hilflosigkeit. Wird das Opfer von sexuellen Handlungen überrascht und verfällt in eine Schockstarre (*sidération*), fehlt ihm die reale Möglichkeit, den sexuellen Charakter des Angriffs rechtzeitig zu erfassen und einen Abwehrwillen zu betätigen ([BGer 6B_491/2026 E. 2.4.3](https://mcp.opencaselaw.ch/entscheid/bger_6B_491_2026); unter Verweis auf [BGer 6B_917/2024 vom 19. August 2026 E. 2.3.1](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-917-2024_2026-08-19.html)). Das Bundesgericht überträgt damit die Grundsätze zur professionellen Arzt-Patienten-Beziehung auf faktisch-therapeutische Behandlungen und grenzt sie von [BGE 148 IV 329 E. 5.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_148-IV-329_2022-07-28.html) ab: Nicht der blosse Irrtum über die Natur der Handlung begründet die Widerstandsunfähigkeit, sondern die tatsächliche Unmöglichkeit des Opfers, die sexuelle Natur des Angriffs in einer Lage situativer Vulnerabilität rechtzeitig zu erkennen und abzuwehren.
 
 **8** **Schlafende Personen** Eine schlafende Person ist widerstandsunfähig per se im Sinne von Art. 191 StGB ([BGer 6B_381/2026 vom 21. Oktober 2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/6B_381/2026); [BGer 6B_327/2024 vom 11. Dezember 2024 E. 2.1.4](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-327-2024_2024-12-11.html); [BGer 7B_746/2023 vom 30. Juli 2024 E. 4.3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-746-2023_2024-07-30.html)). Das Bundesgericht schärft dabei die dogmatische Grenze: Zusätzliche persönliche Umstände wie eine abhängige Persönlichkeitsstörung, kognitive Schwächen, sexuelle Unerfahrenheit oder das körperliche Übergewicht des Täters begründen für sich allein keine Widerstandsunfähigkeit nach Art. 191 StGB — sie können jedoch den psychischen Druck im Sinne von Art. 189 StGB verstärken. Die Widerstandsunfähigkeit folgt in solchen Konstellationen ausschliesslich aus dem Schlafzustand selbst ([BGer 6B_381/2026 E. 3.2](https://mcp.opencaselaw.ch/entscheid/6B_381/2026)).
 
@@ -68,15 +74,15 @@ revisions:
 
 ### Tathandlung
 
-**11** **Beischlaf, beischlafsähnliche, andere sexuelle Handlungen** Der Tatbestand erfasst die gesamte Bandbreite sexueller Handlungen: vaginalem und (beischlafsähnlichem) analem oder oralem Geschlechtsverkehr sowie jede andere sexuelle Handlung (z.B. Berührung von Genitalien, Einführen von Fingern oder Gegenständen). Der Begriff «sexuelle Handlung» ist nach objektiv-zeitgemässem Normverständnis auszulegen (BGE 148 IV 329, E. 4.3).
+**11** **Beischlaf, beischlafsähnliche, andere sexuelle Handlungen** Der Tatbestand erfasst die gesamte Bandbreite sexueller Handlungen: vaginalem und (beischlafsähnlichem) analem oder oralem Geschlechtsverkehr sowie jede andere sexuelle Handlung (z.B. Berührung von Genitalien, Einführen von Fingern oder Gegenständen). Der Begriff «sexuelle Handlung» ist nach objektiv-zeitgemässem Normverständnis auszulegen (BGE 148 IV 329, E. 4.3). Wiederholte, intensive Streich- und Druckbewegungen zwischen den Brüsten bis hin zum Schambereich gehen über eine blosse Belästigung hinaus und erfüllen eine sexuelle Handlung i.S.v. Art. 191 StGB ([BGer 6B_491/2026 E. 2.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_491_2026)). Demgegenüber erfüllt ein überraschend aufgedrängter Kuss auf den Mundwinkel den Begriff des sexuellen Attouchements nach Art. 198 Abs. 2 aStGB ([BGer 6B_491/2026 E. 3.1, 3.5](https://mcp.opencaselaw.ch/entscheid/bger_6B_491_2026)).
 
-**12** **Missbrauch; Vorbestehender Zustand** Der Täter muss den Zustand der Urteilsunfähigkeit oder Widerstandsunfähigkeit ausnutzen («missbrauchen»); er muss diesen Zustand ausnutzen, nicht notwendigerweise verursachen. Herbeiführen des Zustands durch den Täter selbst ist demgegenüber von Art. 189 Abs. 2 StGB (a.F.: Art. 189 StGB) erfasst (sexuelle Nötigung durch Herbeiführen der Widerstandsunfähigkeit).
+**12** **Missbrauch; Vorbestehender Zustand** Der Täter muss den Zustand der Urteilsunfähigkeit oder Widerstandsunfähigkeit ausnutzen («missbrauchen»); er muss diesen Zustand ausnutzen, nicht notwendigerweise verursachen. Das Merkmal des Ausnützens («profiter») setzt voraus, dass der Täter die situative Hilflosigkeit und das ihm entgegengebrachte Vertrauen bewusst instrumentalisiert ([BGer 6B_491/2026 E. 2.6.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_491_2026)). Herbeiführen des Zustands durch den Täter selbst ist demgegenüber von Art. 189 Abs. 2 StGB (a.F.: Art. 189 StGB) erfasst (sexuelle Nötigung durch Herbeiführen der Widerstandsunfähigkeit).
 
 ---
 
 ## Subjektiver Tatbestand
 
-**13** **Vorsatz; Eventualvorsatz** Art. 191 StGB erfordert Vorsatz (Art. 12 Abs. 1 StGB). Eventualvorsatz genügt (BGer 6B_723/2025 v. 30.4.2026, E. 2.1.6). Der Täter muss den Zustand der Urteils- oder Widerstandsunfähigkeit des Opfers kennen oder zumindest in Kauf nehmen. In der alten Fassung war das Kenntniselement («in Kenntnis ihres Zustandes») ausdrücklicher Tatbestandsbestandteil; seit der Revision 2024 folgt es aus dem allgemeinen Vorsatzerfordernis.
+**13** **Vorsatz; Eventualvorsatz** Art. 191 StGB erfordert Vorsatz (Art. 12 Abs. 1 StGB). Eventualvorsatz genügt (BGer 6B_723/2025 v. 30.4.2026, E. 2.1.6; BGer 6B_491/2026 v. 29.10.2026, E. 2.1). Der Täter muss den Zustand der Urteils- oder Widerstandsunfähigkeit des Opfers kennen oder zumindest in Kauf nehmen; beim Ausnutzen einer situativen Vulnerabilität genügt es, dass der Täter die schutzlose Lage und das Vertrauen des Opfers erkennt oder in Kauf nimmt, dass dieses sich lagebedingt nicht wehren kann ([BGer 6B_491/2026 E. 2.6.1–2.6.2](https://mcp.opencaselaw.ch/entscheid/bger_6B_491_2026)). In der alten Fassung war das Kenntniselement («in Kenntnis ihres Zustandes») ausdrücklicher Tatbestandsbestandteil; seit der Revision 2024 folgt es aus dem allgemeinen Vorsatzerfordernis.
 
 **14** **Abgrenzung Fahrlässigkeit** Fahrlässige Schändung ist nicht strafbar (Art. 12 Abs. 1 StGB; keine ausdrückliche Strafbarkeit für Fahrlässigkeit in Art. 191). Der Täter, der die Widerstandsunfähigkeit des Opfers nur hätte erkennen können (aber nicht erkannte), ist nicht nach Art. 191 strafbar, wohl aber allenfalls nach anderen Tatbeständen (z.B. sexuelle Handlungen mit Kindern nach Art. 187 StGB, wo Fahrlässigkeit teilweise erfasst ist).
 
