@@ -1,11 +1,11 @@
 ---
 title: "Familienasyl und Familienzusammenführung im Schutzbereich"
 date: 2026-10-27
-lastmod: 2026-10-27
-description: "Systematische Darstellung des Familienasyls nach Art. 51 AsylG und des Familiennachzugs bei Schutzbedürftigen: Ableitung der Flüchtlingseigenschaft, Einreisebewilligung bei Trennung durch Flucht, Ausschlussgründe (subjektive Nachfluchtgründe BVGE 2015/40, Asylunwürdigkeit), vorläufige Aufnahme (Art. 85a AIG) und die EGMR-Rechtsprechung zur Dreijahresfrist (B.F. v. Switzerland)."
+lastmod: 2026-11-25
+description: "Systematische Darstellung des Familienasyls nach Art. 51 AsylG und des Familiennachzugs bei Schutzbedürftigen: Ableitung der Flüchtlingseigenschaft, Einreisebewilligung bei Trennung durch Flucht, Ausschlussgründe (subjektive Nachfluchtgründe BVGE 2015/40, Asylunwürdigkeit), vorläufige Aufnahme (Art. 85c AIG) und die EGMR-Rechtsprechung zur Dreijahresfrist (B.F. v. Switzerland)."
 tags: ["Asylrecht", "Familienasyl", "Flüchtlingsrecht", "Familienzusammenführung", "AsylG", "AIG", "Vorläufige Aufnahme", "EMRK", "Kindeswohl", "SEM", "Bundesverwaltungsgericht"]
 typ: grundlage
-kurz: "Das Familienasyl nach Art. 51 AsylG bezweckt die Einheit der Kernfamilie von anerkannten Flüchtlingen: Ehegatten und minderjährige Kinder werden derivativ als Flüchtlinge anerkannt und erhalten Asyl. Wurden sie durch die Flucht getrennt, besteht ein Rechtsanspruch auf Bewilligung der Einreise aus dem Ausland (Art. 51 Abs. 4 AsylG). Bei vorläufig aufgenommenen Personen und Flüchtlingen regelt Art. 85a AIG den Nachzug unter einer dreijährigen Wartefrist, die nach der Rechtsprechung des EGMR (B.F. and others v. Switzerland) und des Bundesgerichts einer Einzelfallprüfung am Massstab von Art. 8 EMRK unterliegt."
+kurz: "Das Familienasyl nach Art. 51 AsylG bezweckt die Einheit der Kernfamilie von anerkannten Flüchtlingen: Ehegatten und minderjährige Kinder werden derivativ als Flüchtlinge anerkannt und erhalten Asyl. Wurden sie durch die Flucht getrennt, besteht ein Rechtsanspruch auf Bewilligung der Einreise aus dem Ausland (Art. 51 Abs. 4 AsylG). Bei vorläufig aufgenommenen Personen und Flüchtlingen regelt Art. 85c AIG den Nachzug unter einer dreijährigen Wartefrist, die nach der Rechtsprechung des EGMR (B.F. and others v. Switzerland) und des Bundesgerichts einer Einzelfallprüfung am Massstab von Art. 8 EMRK unterliegt."
 sachgebiete: [auslaenderrecht.asyl, auslaenderrecht.familiennachzug]
 normen:
   - { gesetz: asylg, art: art-051 }
@@ -13,14 +13,18 @@ normen:
   - { gesetz: asylg, art: art-054 }
   - { gesetz: asylg, art: art-003 }
   - { gesetz: asylg, art: art-007 }
-  - { gesetz: aig, art: art-085a }
+  - { gesetz: aig, art: art-085c }
   - { gesetz: aig, art: art-044 }
   - { gesetz: aig, art: art-047 }
   - { gesetz: emrk, art: art-008 }
   - { gesetz: bv, art: art-013 }
   - { gesetz: bgg, art: art-083 }
-stichworte: ["Familienasyl", "Art. 51 AsylG", "Flüchtlingseigenschaft", "derivative Flüchtlingseigenschaft", "Einreisebewilligung", "Trennung durch Flucht", "Subjektive Nachfluchtgründe", "Art. 54 AsylG", "Asylunwürdigkeit", "Vorläufige Aufnahme", "Art. 85a AIG", "Dreijährige Wartefrist", "EGMR B.F. v. Switzerland", "Art. 8 EMRK", "Art. 23 Genfer Flüchtlingskonvention", "SEM", "Bundesverwaltungsgericht"]
+stichworte: ["Familienasyl", "Art. 51 AsylG", "Flüchtlingseigenschaft", "derivative Flüchtlingseigenschaft", "Einreisebewilligung", "Trennung durch Flucht", "Subjektive Nachfluchtgründe", "Art. 54 AsylG", "Asylunwürdigkeit", "Vorläufige Aufnahme", "Art. 85c AIG", "Dreijährige Wartefrist", "EGMR B.F. v. Switzerland", "Art. 8 EMRK", "Art. 23 Genfer Flüchtlingskonvention", "SEM", "Bundesverwaltungsgericht"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity"
+    model: "gemini-4-neon"
+    note: "Normverweis für den Familiennachzug bei vorläufiger Aufnahme von Art. 85a AIG (Erwerbstätigkeit) auf Art. 85c AIG (Familiennachzug, in Kraft seit 1.6.2024; geprüft gegen Fedlex Stand 1.11.2026) korrigiert."
   - date: 2026-10-27
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -33,7 +37,7 @@ Während der ordentliche [Familiennachzug nach dem Ausländer- und Integrationsg
 
 Das schweizerische Recht unterscheidet im Schutzbereich zwei grundlegend verschiedene Institute:
 1. **Das Familienasyl (Art. 51 AsylG)** für nahe Angehörige von anerkannten Flüchtlingen mit Asyl (Ausweis B): Die Familienmitglieder erhalten keinen blossen ausländerrechtlichen Aufenthaltstitel, sondern werden selbst derivativ als Flüchtlinge anerkannt und erhalten volles Asyl.
-2. **Der Familiennachzug bei vorläufiger Aufnahme (Art. 85a AIG)** für vorläufig aufgenommene Personen und vorläufig aufgenommene Flüchtlinge (Ausweis F): Hierbei handelt es sich um eine ausländerrechtliche Zulassung zur vorläufigen Aufnahme nach einer gesetzlichen Mindestwartefrist von drei Jahren.
+2. **Der Familiennachzug bei vorläufiger Aufnahme (Art. 85c AIG)** für vorläufig aufgenommene Personen und vorläufig aufgenommene Flüchtlinge (Ausweis F): Hierbei handelt es sich um eine ausländerrechtliche Zulassung zur vorläufigen Aufnahme nach einer gesetzlichen Mindestwartefrist von drei Jahren.
 
 Überlagert wird diese Ordnung von den Garantien des Schutzes des Familienlebens gemäss [Art. 8 EMRK](/kommentar/emrk/art-008/), [Art. 13 Abs. 1 BV](/kommentar/bv/art-013/) sowie Art. 23 der Genfer Flüchtlingskonvention (FK). Namentlich das Urteil des Europäischen Gerichtshofs für Menschenrechte (EGMR) in Sachen *B.F. and others v. Switzerland* von 2023 zwang die schweizerische Praxis dazu, starre Fristenregeln zugunsten verhältnismässiger Einzelfallprüfungen zu lockern.
 
@@ -49,7 +53,7 @@ Die Kernbestimmungen des Familienasyls und seiner Schranken finden sich im 3. Ka
 
 {{< wortlaut gesetz="asylg" art="art-054" >}}
 
-Ergänzt wird dieser Rahmen durch Art. 85a AIG (Familiennachzug bei vorläufiger Aufnahme), Art. 37–38 der Asylverordnung 1 (AsylV 1, SR 142.311) sowie Art. 74 VZAE.
+Ergänzt wird dieser Rahmen durch Art. 85c AIG (Familiennachzug bei vorläufiger Aufnahme), Art. 37–38 der Asylverordnung 1 (AsylV 1, SR 142.311) sowie Art. 74 VZAE.
 
 ---
 
@@ -123,11 +127,11 @@ Dies ist praktisch bedeutsam, weil ein derivativer Status erlischt, wenn die Ehe
 
 ---
 
-## Familiennachzug bei vorläufiger Aufnahme (Art. 85a AIG) {#vorlaeufige-aufnahme}
+## Familiennachzug bei vorläufiger Aufnahme (Art. 85c AIG) {#vorlaeufige-aufnahme}
 
 ### Die gesetzliche Dreijahresfrist und ihre Kriterien {#dreijahresfrist}
 
-Wird eine Person nicht als Flüchtling anerkannt oder vom Asyl ausgeschlossen, aber der Vollzug der Wegweisung als unzulässig, unzumutbar oder unmöglich qualifiziert, wird sie vorläufig aufgenommen (Status F). Für den Nachzug von Ehegatten und minderjährigen Kindern gilt Art. 85a AIG (früher Art. 85 Abs. 7 AIG):
+Wird eine Person nicht als Flüchtling anerkannt oder vom Asyl ausgeschlossen, aber der Vollzug der Wegweisung als unzulässig, unzumutbar oder unmöglich qualifiziert, wird sie vorläufig aufgenommen (Status F). Für den Nachzug von Ehegatten und minderjährigen Kindern gilt Art. 85c AIG (früher Art. 85 Abs. 7 AIG):
 1. **Wartefrist**: Der Nachzug kann *frühestens drei Jahre* nach Anordnung der vorläufigen Aufnahme beantragt werden.
 2. **Kumulative Voraussetzungen**:
    - Zusammenwohnen im gemeinsamen Haushalt;
@@ -152,7 +156,7 @@ Das Bundesgericht hielt in [BGE 141 I 49 E. 3.5.2](https://entscheidsuche.ch/doc
 
 > «Il découle de cette procédure que les autorités cantonales ne sont pas compétentes pour statuer sur l'inclusion, dans l'admission provisoire d'un étranger déjà au bénéfice de ce statut, des membres de sa famille»
 
-Die kantonalen Migrationsämter dürfen Gesuche nach Art. 85a AIG daher nicht in eigener Kompetenz abweisen, sondern sind verpflichtet, das Dossier mit ihrer Stellungnahme an das SEM weiterzuleiten (Verbot der Rechtsverweigerung).
+Die kantonalen Migrationsämter dürfen Gesuche nach Art. 85c AIG daher nicht in eigener Kompetenz abweisen, sondern sind verpflichtet, das Dossier mit ihrer Stellungnahme an das SEM weiterzuleiten (Verbot der Rechtsverweigerung).
 
 ---
 
@@ -186,7 +190,7 @@ Das Bundesgericht verlangt eine prospektive Gesamtbetrachtung der Erwerbsfähigk
 |---|---|---|---|
 | **Gesuch um Familienasyl (Art. 51 AsylG)** | Staatssekretariat für Migration (SEM) | AsylG, VwVG | Prüfung der Identität, Kinds- und Eheverhältnisse; Einreisebewilligung durch SEM. |
 | **Beschwerde Familienasyl** | Bundesverwaltungsgericht (BVGer, Abt. IV/V) | Art. 105 AsylG, VGG | **Letztinstanzlich**: Keine Beschwerde an das Bundesgericht möglich ([Art. 83 lit. d Ziff. 1 BGG](/kommentar/bgg/art-083/)). |
-| **Nachzug vorläufig Aufgenommene (Art. 85a AIG)** | Kantonales Migrationsamt (Vorprüfung) → SEM (Entscheid) | Art. 85a AIG, Art. 74 VZAE | Zwingende Weiterleitung an das SEM; Beschwerde an das BVGer. |
+| **Nachzug vorläufig Aufgenommene (Art. 85c AIG)** | Kantonales Migrationsamt (Vorprüfung) → SEM (Entscheid) | Art. 85c AIG, Art. 74 VZAE | Zwingende Weiterleitung an das SEM; Beschwerde an das BVGer. |
 | **Ausländerrechtlicher Nachzug (Art. 44 AIG)** | Kantonales Migrationsamt → Kantonale Gerichte | AIG, kantonales VRG | Weiterzug an das Bundesgericht bei Rechtsanspruch aus [Art. 8 EMRK](/kommentar/emrk/art-008/) ([Art. 82 lit. a](/kommentar/bgg/art-083/), [Art. 83 lit. c Ziff. 2 BGG](/kommentar/bgg/art-083/)). |
 
 ---
@@ -217,7 +221,7 @@ Das Bundesgericht verlangt eine prospektive Gesamtbetrachtung der Erwerbsfähigk
 | **BVGE 2013/21** | [BVGE 2013/21](https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_BVGE-2013-21_2013-05-31.pdf) | Originäre Flüchtlingseigenschaft | Trotz Erwerbs von Familienasyl (derivativer Status) besteht ein schutzwürdiges Interesse an der separaten Feststellung eigener originärer Flüchtlingsgründe. |
 | **BGE 145 II 105** | [BGE 145 II 105 E. 3.7](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-145-II-105_2019.html#consideration_3.7) | Subsidiarität des AIG / Fristen | Das AIG ist subsidiär zum AsylG; ein erfolgloses Familienasylgesuch lässt die AIG-Nachzugsfristen nach Art. 47 AIG nach Abweisung neu aufleben. |
 | **BGE 139 I 330** | [BGE 139 I 330 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-139-I-330_2013.html#consideration_3.2) | Sozialhilfeunabhängigkeit bei Flüchtlingen | Konventionskonforme Auslegung von Art. 44 AIG: Sozialhilfeabhängigkeit hindert den Nachzug nicht, wenn realistische Aussicht auf wirtschaftliche Autonomie besteht. |
-| **BGE 141 I 49** | [BGE 141 I 49 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-141-I-49_2015.html#consideration_3.5.2) | Weiterleitungspflicht bei Art. 85a AIG | Kantone dürfen Nachzugsgesuche vorläufig Aufgenommener nicht eigenmächtig abweisen; zwingende Entscheidungskompetenz des SEM. |
+| **BGE 141 I 49** | [BGE 141 I 49 E. 3.5.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-141-I-49_2015.html#consideration_3.5.2) | Weiterleitungspflicht bei Art. 85c AIG | Kantone dürfen Nachzugsgesuche vorläufig Aufgenommener nicht eigenmächtig abweisen; zwingende Entscheidungskompetenz des SEM. |
 | **BGE 147 I 268** | [BGE 147 I 268 E. 1.2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-147-I-268_2021.html#consideration_1.2.3) | Vorläufige Aufnahme & Kernfamilie | Der Schutz des Familienlebens nach Art. 8 EMRK beschränkt sich primär auf die Kernfamilie; bei Volljährigen ist ein qualifiziertes Abhängigkeitsverhältnis erforderlich. |
 | **BGE 149 I 66** | [BGE 149 I 66 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_001_BGE-149-I-66_2023.html#consideration_4.2) | EMRK und Zulassungsschranken | Staaten dürfen die Zuwanderung grundsätzlich autonom regeln; Grenzen ergeben sich bei langjähriger Verwurzelung und völkerrechtlichen Schutzpflichten. |
 

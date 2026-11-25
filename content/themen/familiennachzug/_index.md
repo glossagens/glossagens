@@ -1,7 +1,7 @@
 ---
 title: "Familiennachzug im schweizerischen Ausländerrecht (AIG)"
 date: 2026-10-27
-lastmod: 2026-11-02
+lastmod: 2026-11-25
 description: "Systematische Darstellung des Familiennachzugs nach dem Ausländer- und Integrationsgesetz (AIG): Gesetzliche Ansprüche, Voraussetzungen (Zusammenwohnen, bedarfsgerechte Wohnung, keine Sozialhilfe/EL, Sprachkompetenzen), Nachzugsfristen (Art. 47 AIG), Erlöschensgründe, umgekehrter Familiennachzug und Rechtsschutz."
 tags: ["Ausländerrecht", "Familiennachzug", "AIG", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Integrationskriterien", "Kindeswohl", "EMRK", "BV", "BGG"]
 typ: grundlage
@@ -16,13 +16,17 @@ normen:
   - { gesetz: aig, art: art-050 }
   - { gesetz: aig, art: art-051 }
   - { gesetz: aig, art: art-058a }
-  - { gesetz: aig, art: art-085a }
+  - { gesetz: aig, art: art-085c }
   - { gesetz: emrk, art: art-008 }
   - { gesetz: bv, art: art-013 }
   - { gesetz: bv, art: art-014 }
   - { gesetz: bgg, art: art-083 }
 stichworte: ["Familiennachzug", "AIG", "Rechtsanspruch", "Aufenthaltsbewilligung", "Niederlassungsbewilligung", "Ehegattennachzug", "Kindernachzug", "Zusammenwohnen", "Bedarfsgerechte Wohnung", "Sozialhilfeabhängigkeit", "Ergänzungsleistungen", "Sprachnachweis", "Nachzugsfristen", "Nachträglicher Familiennachzug", "wichtige familiäre Gründe", "Art. 47 AIG", "Rechtsmissbrauch", "Scheinehe", "Art. 51 AIG", "Umgekehrter Familiennachzug", "Inländerdiskriminierung", "Art. 8 EMRK", "Art. 13 BV"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity"
+    model: "gemini-4-neon"
+    note: "Normverweis für den Familiennachzug bei vorläufig Aufgenommenen von Art. 85a AIG (Erwerbstätigkeit) auf Art. 85c AIG (Familiennachzug, in Kraft seit 1.6.2024; geprüft gegen Fedlex Stand 1.11.2026) korrigiert."
   - date: 2026-11-02
     by: "Claude (claude.ai)"
     model: "claude-sonnet-5-5"
@@ -57,7 +61,7 @@ Die Kernbestimmungen des Familiennachzugs sind im 7. Kapitel des AIG (Art. 42–
 
 {{< wortlaut gesetz="aig" art="art-051" >}}
 
-Ergänzt werden diese Bestimmungen durch Art. 45 AIG (Nachzug bei Kurzaufenthaltern), Art. 85a AIG (Familiennachzug bei vorläufig Aufgenommenen) sowie Art. 73–75 der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE, SR 142.201).
+Ergänzt werden diese Bestimmungen durch Art. 45 AIG (Nachzug bei Kurzaufenthaltern), Art. 85c AIG (Familiennachzug bei vorläufig Aufgenommenen) sowie Art. 73–75 der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE, SR 142.201).
 
 ---
 
@@ -80,7 +84,7 @@ Die rechtliche Position unterscheidet sich massgeblich nach dem aufenthaltsrecht
 | **Niederlassungsbewilligung (Ausweis C)** | [Art. 43 AIG](/kommentar/aig/art-043/) | Gesetzlicher Rechtsanspruch | Ehegatte, ledige Kinder < 18 Jahre |
 | **Aufenthaltsbewilligung (Ausweis B)** | Art. 44 AIG | Gesetzliches Ermessen (*kann*); Rechtsanspruch bei gefestigtem Anwesenheitsrecht via [Art. 8 EMRK](/kommentar/emrk/art-008/) | Ehegatte, ledige Kinder < 18 Jahre |
 | **Kurzaufenthaltsbewilligung (Ausweis L)** | Art. 45 AIG | Behördliches Ermessen | Ehegatte, ledige Kinder < 18 Jahre |
-| **Vorläufige Aufnahme (Ausweis F)** | Art. 85a AIG | Rechtsanspruch frühestens nach 3 Jahren Wartefrist | Ehegatte, ledige Kinder < 18 Jahre |
+| **Vorläufige Aufnahme (Ausweis F)** | Art. 85c AIG | Rechtsanspruch frühestens nach 3 Jahren Wartefrist | Ehegatte, ledige Kinder < 18 Jahre |
 
 ### Konventionsrechtlicher Anspruch bei Aufenthaltsbewilligung (B-Ausweis) {#gefestigtes-anwesenheitsrecht}
 
