@@ -7,6 +7,10 @@ description: "Praxisorientierter Kommentar zu Art. 248 ZPO: Anwendungsbereich de
 tags: ["ZPO", "Summarisches Verfahren", "klarer Fall", "vorsorgliche Massnahmen", "Aktenschluss", "Novenrecht", "Rechtsöffnung", "Mieterausweisung", "freiewillige Gerichtsbarkeit", "Besitzesschutz"]
 revisions:
   - date: 2026-11-25
+    by: "Antigravity"
+    model: "gemini-4-neon"
+    note: "PR #68 redaktionell geprüft: Art. 248 lit. c und Art. 260a f. ZPO via Fedlex, Botschaft BBl 2024 116 (S. 15, 28, 32, 37) und GE CJ ACJC/1374/2026 (E. 1.1) im Volltext verifiziert; Botschaftslink auf die deutsche Fassung (/de) präzisiert."
+  - date: 2026-11-25
     by: "Claude (claude.ai)"
     model: "claude-opus-5-5"
     note: "Korrektur zu lit. c (Überblick, Tabelle A.2, Abschnitt C, Verweise): Die Änderung vom 20. Juni 2025 unterstellt nur die gerichtliche Verfügung (Art. 260a f. ZPO) dem summarischen Verfahren, nicht den Besitzesschutz generell. Die Tabelle nannte Art. 258 statt Art. 260a f. ZPO. Belege: Wortlaut über Fedlex (Fassung 1. Juli 2026), Botschaft BBl 2024 116 im Volltext gelesen (S. 15, 28, 32, 37), GE CJ ACJC/1374/2026 mit fetch_document gelesen. Übrige Abschnitte nicht geprüft und unverändert."
@@ -118,7 +122,7 @@ Die Rechtslage muss eindeutig sein. Besteht keine eindeutige Gerichtspraxis oder
 
 ## C. Gerichtliches Verbot und gerichtliche Verfügung (lit. c)
 
-Lit. c unterstellt das gerichtliche Verbot (Art. 258–260 ZPO) und seit dem 1. Juli 2026 die gerichtliche Verfügung (Art. 260a f. ZPO) dem summarischen Verfahren. Mit der gerichtlichen Verfügung kann der Besitzer eines Grundstücks bei verbotener Eigenmacht gegenüber einem unbestimmten Personenkreis die Beseitigung der Störung oder die Rückgabe verlangen. Wie beim gerichtlichen Verbot soll auch für die gerichtliche Verfügung das summarische Verfahren gelten ([Botschaft vom 15. Dezember 2023 zur Änderung des Schweizerischen Zivilgesetzbuches (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), BBl 2024 116, S. 32](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+Lit. c unterstellt das gerichtliche Verbot (Art. 258–260 ZPO) und seit dem 1. Juli 2026 die gerichtliche Verfügung (Art. 260a f. ZPO) dem summarischen Verfahren. Mit der gerichtlichen Verfügung kann der Besitzer eines Grundstücks bei verbotener Eigenmacht gegenüber einem unbestimmten Personenkreis die Beseitigung der Störung oder die Rückgabe verlangen. Wie beim gerichtlichen Verbot soll auch für die gerichtliche Verfügung das summarische Verfahren gelten ([Botschaft vom 15. Dezember 2023 zur Änderung des Schweizerischen Zivilgesetzbuches (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), BBl 2024 116, S. 32](https://www.fedlex.admin.ch/eli/fga/2024/116/de)).
 
 Die Ergänzung von lit. c erfasst nur dieses neue Instrument, nicht den Besitzesschutz insgesamt. Die ZPO weist den Anspruch auf possessorischen Besitzesschutz (Art. 927 f. ZGB) weiterhin keiner besonderen Verfahrensart zu (Botschaft, S. 28). In der Vernehmlassung wurde vereinzelt gefordert, den Besitzesschutz generell dem summarischen Verfahren zu unterstellen. Der Bundesrat hielt daran fest, dass die Betroffenen ihre Besitzesschutzansprüche weiterhin in einer nach geltendem Recht anwendbaren Verfahrensart durchsetzen können, weil ein summarisches Verfahren je nach Komplexität der Umstände nicht immer vorteilhaft ist (Botschaft, S. 15). Gegen ausschliesslich namentlich bekannte Personen ist der Besitzesschutz in einem kontradiktorischen Verfahren durchzusetzen, etwa im Rechtsschutz in klaren Fällen (Art. 257 ZPO) oder im ordentlichen bzw. vereinfachten Verfahren. Parallel dazu kann der Besitzer ein gerichtliches Verbot oder eine gerichtliche Verfügung erwirken (Botschaft, S. 37).
 
