@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 61 AIG"
 weight: 99
 date: 2026-11-01
-lastmod: 2026-11-01
+lastmod: 2026-11-25
 description: "Übersicht der massgebenden Leitentscheide des Bundesgerichts und kantonaler Gerichtsentscheide zu Art. 61 AIG (Erlöschen von ausländerrechtlichen Bewilligungen mit Abmeldung, Kantonswechsel, Fristablauf, Landesverweisung und Auslandaufenthalt)."
 tags: ["Rechtsprechung", "AIG", "Erlöschen der Bewilligung", "Niederlassungsbewilligung", "Aufenthaltsbewilligung", "Auslandaufenthalt", "Aufrechterhaltung", "Landesverweisung"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Einarbeitung des kantonalen Leitentscheids des Waadtländer Kantonsgerichts (VD Tribunal cantonal PE.2025.0156 vom 11.09.2026) zu unverschuldeter Auslandshaft, Erlöschen ipso jure nach Art. 61 Abs. 2 AIG sowie den Konsequenzen auf Art. 8 EMRK und Art. 49 VZAE"
   - date: 2026-11-01
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash (Medium)"
@@ -72,6 +76,11 @@ revisions:
   [SG VG B 2022/155 vom 16. Januar 2023](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VG_001_B-2022-155_2023-01-16.pdf)  
   *Sachverhalt:* Ein in der Schweiz niedergelassener ausländischer Staatsangehöriger wurde bei einem Auslandaufenthalt im Herkunftsland festgenommen und verbüsste dort eine mehr als sechsmonatige Freiheitsstrafe. Nach seiner Haftentlassung kehrte er in die Schweiz zurück und berief sich darauf, dass er die Schweiz nicht freiwillig verlassen habe und infolge der Inhaftierung an der rechtzeitigen Rückkehr gehindert gewesen sei.  
   *Kernaussage:* Das St. Galler Verwaltungsgericht wies die Beschwerde ab. Art. 61 Abs. 2 AIG stellt aus Praktikabilitätsgründen ausschliesslich auf die tatsächliche physische Auslandabwesenheit ab. Subjektive Motive oder unfreiwillige Hinderungsgründe wie eine Inhaftierung im Ausland ändern nichts am zwingenden Erlöschen kraft Gesetzes, sofern nicht vor Ablauf der sechs Monate ein Gesuch um Aufrechterhaltung gestellt wurde.
+
+* **Unverschuldete Auslandshaft verhindert das Erlöschen der Niederlassungsbewilligung nach Art. 61 Abs. 2 AIG nicht; definitiver Verlust des Art. 8 EMRK-Schutzes und Hürden für die Wiedererteilung (Art. 49 VZAE)**  
+  [VD Tribunal cantonal PE.2025.0156 vom 11.09.2026](https://mcp.opencaselaw.ch/entscheid/vd_omni_PE.2025.0156)  
+  *Sachverhalt:* Ein ausländischer Staatsangehöriger mit Niederlassungsbewilligung (C) hielt sich länger als sechs Monate im Ausland auf, weil er dort inhaftiert war (unverschuldete Auslandshaft). Die Migrationsbehörde stellte das Erlöschen der C-Bewilligung nach Art. 61 Abs. 2 AIG fest und ordnete die Wegweisung an. Der Betroffene erhob Beschwerde, rügte eine Verletzung von Art. 8 EMRK und berief sich darauf, dass ihn an der Auslandabwesenheit kein Verschulden treffe.  
+  *Kernaussage:* Das Waadtländer Kantonsgericht wies die Beschwerde ab und bestätigte die bundesgerichtliche Leitpraxis (BGE 149 I 66 E. 4.3) auf kantonaler Ebene: Das Erlöschen der Bewilligung nach Art. 61 Abs. 2 AIG tritt formell-objektiv von Gesetzes wegen (*ipso jure*) nach Ablauf von sechs Monaten ein, unabhängig von den Gründen für die Abwesenheit. Auch eine unverschuldete Haft im Ausland verhindert das Erlöschen nicht. Mit dem gesetzlichen Erlöschen der Niederlassungsbewilligung verliert der Ausländer auch die aus Art. 8 EMRK abgeleitete Vermutung eines gefestigten Aufenthaltsrechts (Zehnjahresregel) unwiderruflich. Eine Wiedererteilung der Niederlassungsbewilligung scheitert regelmässig an Art. 49 VZAE, da nach dem Erlöschen ein neuer Aufenthalt begründet werden müsste und die Integrationskriterien vollumfänglich neu zu prüfen sind.
 
 * **Reflexwirkung des Erlöschens der Bewilligung des Stammberechtigten auf das Aufenthaltsrecht des nachgezogenen Ehegatten**  
   [ZH VG VB.2024.00446 vom 13. März 2025](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00446_2025-03-13.html)  

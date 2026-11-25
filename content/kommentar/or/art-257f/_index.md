@@ -2,10 +2,14 @@
 title: "Art. 257f — Sorgfalts- und Rücksichtnahmepflicht des Mieters"
 weight: 257
 date: 2026-05-22
-lastmod: 2026-10-15
+lastmod: 2026-11-25
 description: "Kommentar zu Art. 257f OR – Sorgfalts- und Rücksichtnahmepflicht, ausserordentliche Kündigung"
 tags: ["OR", "Mietrecht", "Sorgfaltspflicht", "ausserordentliche Kündigung"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Einarbeitung von BGer 4A_44/2026 vom 28.10.2026: Ausserordentliche Kündigung nach Art. 257f Abs. 3 OR bei beharrlicher Reparaturblockade / Duldungsverweigerung des Mieters als Sorgfaltspflichtverletzung und Unzumutbarkeit der Vertragsfortsetzung."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -33,14 +37,14 @@ Art. 257f OR regelt die Sorgfalts- und Rücksichtnahmepflicht des Mieters und di
 ### Voraussetzungen / Anwendungsbereich
 
 **Abs. 1 – Sorgfaltspflicht:**
-Der Mieter muss die Mietsache fachgerecht und schonend gebrauchen. Die Sorgfaltspflicht ist nicht bloss eine Obliegenheit, sondern eine vertragliche Hauptpflicht.
+Der Mieter muss die Mietsache fachgerecht und schonend gebrauchen. Die Sorgfaltspflicht ist nicht bloss eine Obliegenheit, sondern eine vertragliche Hauptpflicht. Sie umfasst in Verbindung mit der gesetzlichen Duldungspflicht (Art. 257h OR) auch die Mitwirkung bei notwendigen Sanierungs- und Reparaturarbeiten; die beharrliche Verweigerung des Zutritts («Reparaturblockade») stellt eine Verletzung der mietrechtlichen Pflichten dar ([BGer 4A_44/2026 vom 28.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_4A_44/2026)).
 
 **Abs. 2 – Rücksichtnahmepflicht:**
 Der Mieter einer unbeweglichen Sache (Wohnung, Geschäftsräumlichkeit) muss auf die Hausbewohner und Nachbarn Rücksicht nehmen. Die Rücksichtnahmepflicht geht über die blosse Sorgfaltspflicht hinaus und erfasst alle Formen der Belästigung ([BGE 136 III 186](https://www.bger.ch/ext/eurosp/index/loader.htm?pid=BGE_136_III_186)).
 
 **Abs. 3 – Ausserordentliche Kündigung (5 kumulative Bedingungen):**
 
-Nach der ständigen Rechtsprechung ([BGer 4A 347/2016](https://www.bger.ch/ext/eurosp/index/loader.htm?pid=4A_347_2016), bestätigt in [BGer 4A_561/2025](https://www.bger.ch/ext/eurosp/index/loader.htm?pid=4A_561_2025)) setzt die ausserordentliche Kündigung nach Abs. 3 fünf **kumulative** Bedingungen voraus:
+Nach der ständigen Rechtsprechung ([BGer 4A 347/2016](https://www.bger.ch/ext/eurosp/index/loader.htm?pid=4A_347_2016), bestätigt in [BGer 4A_561/2025](https://www.bger.ch/ext/eurosp/index/loader.htm?pid=4A_561_2025) sowie [BGer 4A_44/2026 vom 28.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_4A_44/2026)) setzt die ausserordentliche Kündigung nach Abs. 3 fünf **kumulative** Bedingungen voraus:
 
 | Nr. | Bedingung | Rechtsfolge bei Nichterfüllung |
 |-----|-----------|-------------------------------|
@@ -51,6 +55,8 @@ Nach der ständigen Rechtsprechung ([BGer 4A 347/2016](https://www.bger.ch/ext/e
 | **5** | **Frist/Termin: 30 Tage auf Monatsende (bei Wohn-/Geschäftsräumen)** | **Analoge Terminverschiebung nach Art. 266a Abs. 2 OR** |
 
 **Kernpräzisierung 2026 ([BGer 4A_561/2025](https://www.bger.ch/ext/eurosp/index/loader.htm?pid=4A_561_2025)):** Ein Fristmangel bei der 5. Bedingung führt **nicht zur Unwirksamkeit** der Kündigung, sondern zu analoger Terminverschiebung nach [Art. 266a Abs. 2 OR](https://www.fedlex.admin.ch/eli/cc/27/322_353_399/de#art_266a_a). Nur die materiellen Bedingungen (1–4) sind Wirksamkeitsvoraussetzungen; die Frist/Termin-Bedingung (5) ist eine blosse Ordnungsvorschrift.
+
+**Unzumutbarkeit bei Duldungsverweigerung ([BGer 4A_44/2026 vom 28.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_4A_44/2026)):** Dem Vermieter ist die Fortsetzung des Mietverhältnisses insbesondere dann unzumutbar (4. Bedingung), wenn der Mieter notwendige Instandhaltungs- und Sanierungsarbeiten beharrlich verweigert («Reparaturblockade») und dadurch das Mietobjekt fortschreitender Verschlechterung aussetzt, während er gleichzeitig wegen angeblicher Mängel Mietzinsreduktionen beansprucht und Mietzinse deponiert.
 
 **Abs. 4 – Fristlose Kündigung bei vorsätzlicher schwerer Sachbeschädigung:**
 Während Abs. 3 eine qualitative Unzumutbarkeitsprüfung und eine Mindestfrist von 30 Tagen verlangt, ermöglicht Abs. 4 die fristlose Kündigung ohne Mahnung und ohne Frist, wenn der Mieter **vorsätzlich** der Sache **schweren Schaden** zufügt.
@@ -73,6 +79,9 @@ Untervermietung ohne Zustimmung des Vermieters kann eine ausserordentliche Künd
 
 **Fristmangel = Terminverschiebung (BGer 4A 347/2016, bestätigt in 4A_561/2025):**
 Wird die 30-Tage-Frist auf Monatsende nicht eingehalten, ist die Kündigung nicht nichtig, sondern wird auf den nächstmöglichen Termin verschoben. Diese analogen Anwendung von Art. 266a Abs. 2 OR wurde 2026 erneut bestätigt.
+
+**Verweigerung von Instandhaltungsarbeiten / Reparaturblockade ([BGer 4A_44/2026 vom 28.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_4A_44/2026)):**
+Verweigert der Mieter beharrlich und trotz schriftlicher Abmahnung Handwerkern den Zutritt zur Wohnung zwecks Beseitigung von Mängeln (z.B. Schimmelsanierung, Inbetriebnahme einer Entlüftungsanlage oder Setzen von Messsonden), verletzt er seine Sorgfalts- und Duldungspflichten (Art. 257f Abs. 1 i.V.m. Art. 257h OR). Die Vertragsfortsetzung ist für den Vermieter unzumutbar, namentlich wenn der Mieter Mängel rügt und Mietzinse hinterlegt, aber die Behebung aktiv vereitelt und das Mietobjekt so der weiteren Verschlechterung preisgibt.
 
 ## Literatur
 

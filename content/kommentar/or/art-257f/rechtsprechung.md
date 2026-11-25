@@ -2,17 +2,21 @@
 title: "Rechtsprechung zu Art. 257f OR"
 weight: 99
 date: 2026-05-22
-lastmod: 2026-08-18
+lastmod: 2026-11-25
 description: "Übersicht der Entscheide zu Art. 257f OR – Sorgfalts- und Rücksichtnahmepflicht, ausserordentliche Kündigung"
 tags: ["Rechtsprechung", "OR", "Mietrecht", "ausserordentliche Kündigung"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Ergänzung von BGer 4A_44/2026 vom 28.10.2026 (veröffentlicht am 25.11.2026): Ausserordentliche Kündigung nach Art. 257f Abs. 3 OR bei beharrlicher Reparaturblockade / Duldungsverweigerung des Mieters als Sorgfaltspflichtverletzung und Unzumutbarkeit der Vertragsfortsetzung."
   - date: 2026-08-18
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
     note: "Audit gegen opencaselaw-MCP: Belegquote 47 % (Urteil C); 3 gestützt (+8 teilw.) von 15 beurteilten Paaren (15 Paare gesamt); Wortlaut: halluziniert_oder_veraltet; 0 nicht existente Referenzen, 0 fehlerhafte Pinpoints."
 ---
 
-## Leitentscheide (BGE)
+## I. Leitentscheide (BGE)
 
 ### BGE 136 III 186
 - **Thema**: Sorgfalts- und Rücksichtnahmepflicht; Unzumutbarkeit
@@ -56,7 +60,18 @@ revisions:
 
 ---
 
-## Weitere Bundesgerichtsentscheide
+## II. Weitere Bundesgerichtsentscheide
+
+### [BGer 4A_44/2026 vom 28.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=28.10.2026_4A_44/2026)
+- **Thema**: **Duldungsverweigerung und Reparaturblockade als Pflichtverletzung sowie Unzumutbarkeit bei Art. 257f Abs. 3 OR**
+- **Sachverhalt**: Die Mieterin einer 4-Zimmer-Duplexwohnung verweigerte Handwerkern über Monate hinweg beharrlich den Zutritt zur Durchführung notwendiger Instandhaltungs- und Sanierungsarbeiten (Zentralbelüftung/Assainissement gegen Schimmel und Feuchtigkeit, Hobeln von Türen, Fensterausbesserungen sowie Setzen von Messsonden), obschon sie zuvor selbst Mängel gerügt und Mietzinsreduktion verlangt hatte. Nach schriftlicher Mahnung unter Kündigungsandrohung kündigte die Vermieterin das Mietverhältnis gestützt auf Art. 257f Abs. 3 OR ausserordentlich.
+- **Kernaussage**:
+  1. Bestätigung der fünf kumulativen Voraussetzungen für eine Kündigung nach Art. 257f Abs. 3 OR (Sorgfalts-/Rücksichtspflichtverletzung, schriftliche Mahnung, Fortdauer trotz Mahnung, Unzumutbarkeit der Vertragsfortsetzung, Einhaltung der 30-tägigen Kündigungsfrist auf Monatsende).
+  2. Die beharrliche Weigerung des Mieters, erforderliche Instandhaltungs- und Sanierungsarbeiten zu dulden («Reparaturblockade»), stellt eine Verletzung der mietrechtlichen Pflichten (Sorgfaltspflicht i.S.v. Art. 257f Abs. 1 OR i.V.m. Art. 257h OR) dar.
+  3. Dem Vermieter ist die Fortsetzung des Mietverhältnisses nicht zumutbar, wenn der Mieter einerseits die Mietzinse wegen angeblicher Mängel deponiert und Mietzinsreduktion beansprucht, andererseits aber die Behebung eben dieser Mängel durch Verweigerung des Zutritts aktiv verhindert und dadurch das Mietobjekt der weiteren Verschlechterung preisgibt.
+- **Einschlägig für**: Art. 257f Abs. 1 und 3 OR; Art. 257h OR; Art. 259g OR
+
+---
 
 ### BGer 4A_561/2025 vom 27. April 2026
 - **Thema**: Fristmangel bei ausserordentlicher Kündigung; analoge Terminverschiebung; Kündigungssperrfrist
@@ -114,4 +129,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 24.05.2026*
+*Letzte Aktualisierung: 25.11.2026*

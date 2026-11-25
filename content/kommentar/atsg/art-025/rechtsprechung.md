@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 25 ATSG — Rückerstattung"
 weight: 99
 date: 2026-06-12
-lastmod: 2026-11-06
+lastmod: 2026-11-25
 description: "Übersicht der Rechtsprechung zu Art. 25 ATSG: Leitentscheide des Bundesgerichts (BGE) und kantonale Urteile zu Rückerstattungspflicht, Wiedererwägungsvorbehalt, Erlassvoraussetzungen (guter Glaube und Härte), Verwirkungsfristen, strafrechtlicher Verjährung und Beitragsrückerstattung."
 tags: ["Rechtsprechung", "ATSG", "Rückerstattung", "Verwirkung", "Erlass", "Guter Glaube", "Grosse Härte", "Praxisänderung", "Zweiter Anlass"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aufnahme von BGer 8C_51/2026 vom 27. Oktober 2026: Ausschluss des guten Glaubens (Art. 25 Abs. 1 Satz 2 ATSG) bei unterlassener Meldung von Einkommenssteigerungen (Art. 31 Abs. 1 ATSG i.V.m. Art. 25 Abs. 1 lit. c ELV); kein Vertrauensschutz durch behördliche retrospektive Abrechnungspraxis."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
@@ -183,4 +187,15 @@ Zurück zum Kommentar: [Art. 25 ATSG — Rückerstattung](./)
 
 ---
 
-*Letzte Aktualisierung: 6. November 2026*
+### [BGer 8C_51/2026 vom 27.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_8C_51/2026) — Guter Glaube bei schwankendem Einkommen und behördlicher EL-Nachberechnungspraxis
+
+- **Thema**: **Ausschluss des guten Glaubens bei unterlassener Meldung wesentlicher Einkommenssteigerungen; kein Vertrauensschutz durch retrospektive Abrechnungspraxis**
+- **Gericht / Instanz**: Bundesgericht, IV. öffentlich-rechtliche Abteilung
+- **Urteil**: [BGer 8C_51/2026 vom 27.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_8C_51/2026)
+- **Sachverhalt**: Ein Bezüger von Ergänzungsleistungen (EL) erzielte seit Jahren unregelmässige, schwankende Erwerbseinkünfte. Die kantonale EL-Stelle passte die Leistungen jeweils retrospektiv anhand der Vorjahresdaten an. Im Jahr 2019 erzielte der Bezüger ein signifikant höheres Erwerbseinkommen, meldete dies der Ausgleichskasse jedoch nicht zeitnah, sondern wartete die jährliche Revision im Folgejahr ab. Als die Behörde den entstandenen Überbezug zurückforderte, verlangte der Bezüger Erlass nach Art. 25 Abs. 1 Satz 2 ATSG und berief sich auf seinen guten Glauben, da er auf die behördliche Praxis der retrospektiven Nachberechnung vertraut habe. Die Vorinstanz hiess das Erlassgesuch gut; das Bundesgericht hob diesen Entscheid auf Beschwerde der EL-Stelle auf.
+- **Kernaussage**: Der gute Glaube nach Art. 25 Abs. 1 Satz 2 ATSG entfällt nicht nur bei vorsätzlichem Rechtsmissbrauch, sondern bereits bei grober Fahrlässigkeit (Verletzung der elementaren Sorgfaltspflicht). Wer Ergänzungsleistungen bezieht und weiss, dass der Leistungsanspruch eng an die tatsächliche Einkommenshöhe gekoppelt ist, unterliegt der gesetzlichen Meldepflicht (Art. 31 Abs. 1 ATSG i.V.m. Art. 25 Abs. 1 lit. c ELV) und muss wesentliche Einkommenssteigerungen unverzüglich mitteilen. Das blosse Abwarten der jährlichen Steuererklärung bzw. behördlichen Revision trotz spürbarer Mehreinnahmen schliesst den guten Glauben aus. Eine verwaltungsinterne Praxis, EL retrospektiv anzupassen, befreit den Bezüger nicht von der Meldepflicht und begründet keinen Vertrauensschutz gegen Rückforderungen bei unterlassener Anzeige.
+- **Einschlägig für**: Abs. 1 Satz 2 (Guter Glaube beim Erlass)
+
+---
+
+*Letzte Aktualisierung: 25. November 2026*

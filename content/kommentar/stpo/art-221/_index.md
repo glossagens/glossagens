@@ -2,10 +2,14 @@
 title: "Art. 221 StPO — Voraussetzungen der Untersuchungshaft und Sicherheitshaft"
 weight: 221
 date: 2026-08-30
-lastmod: 2026-11-19
+lastmod: 2026-11-25
 description: "Praxiskommentar zu Art. 221 StPO: Dringender Tatverdacht (Abs. 1), besondere Haftgründe der Flucht-, Kollusions- und Wiederholungsgefahr (Abs. 1 lit. a–c), qualifizierte Wiederholungsgefahr ohne Vortatenerfordernis (Abs. 1bis n.F.) und Ausführungsgefahr (Abs. 2) — mit ausführlicher zweiseitiger Grenzkasuistik (angewandt vs. verworfen), Kasuistiktabellen, kritischer Lehrmeinung, prozessualen Klippen und taktischen Merksätzen."
 tags: ["StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "dringender Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen", "Ersatzmassnahmen", "Kaution", "Überhaft", "Kritische Lehre"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Einarbeitung von BGer 7B_1432/2026 vom 12.11.2026: Verdichtung des dringenden Tatverdachts durch erstinstanzliches Sachurteil; Fluchtgefahr bei Anordnung einer stationären therapeutischen Massnahme (Art. 59 StGB) und fehlender Krankheitseinsicht bei Auslandsbezug; Massstab des Überhaftverbots (Art. 212 Abs. 3 StPO) bei schuldunfähigen Tätern nach voraussichtlicher Massnahmedauer (Art. 59 Abs. 4 StGB) statt Strafmass."
   - date: 2026-11-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -129,7 +133,7 @@ Das Haftprüfungsverfahren ist kein vorgezogenes Sachurteil. Das Zwangsmassnahme
 
 ([BGE 143 IV 316 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-316_2017.html); [BGE 143 IV 330 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-330_2017.html)).
 
-Der Massstab ist dynamisch: Zu Beginn der Untersuchung genügen greifbare Verdachtsmomente. Je länger das Verfahren andauert und je mehr Untersuchungshandlungen vorgenommen wurden, desto **höher steigen die Anforderungen**: Nach Durchführung der wesentlichen Ermittlungen muss eine Verurteilung als **wahrscheinlich** erscheinen ([BGE 143 IV 316 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-316_2017.html); [BGE 137 IV 122 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html)).
+Der Massstab ist dynamisch: Zu Beginn der Untersuchung genügen greifbare Verdachtsmomente. Je länger das Verfahren andauert und je mehr Untersuchungshandlungen vorgenommen wurden, desto **höher steigen die Anforderungen**: Nach Durchführung der wesentlichen Ermittlungen muss eine Verurteilung als **wahrscheinlich** erscheinen ([BGE 143 IV 316 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-143-IV-316_2017.html); [BGE 137 IV 122 E. 3.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-137-IV-122_2011.html)). Liegt bereits ein erstinstanzliches Sachurteil vor, verdichtet sich der dringende Tatverdacht regelmässig noch weiter; im Stadium nach dem erstinstanzlichen Urteil bedarf es gewichtiger gegenteiliger Anhaltspunkte, um den Tatverdacht im Haftprüfungsverfahren noch mit Erfolg in Zweifel zu ziehen ([BGer 7B_1432/2026 vom 12. November 2026 E. 3.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
 
 #### 2. Kasuistik: Altfall Biel nach 22 Jahren mit DNA-Mischspur auf Klebeband
 Wie weit die richterliche Zurückhaltung im Haftprüfungsverfahren reicht, illustriert der Überfallfall von Biel:
@@ -217,7 +221,18 @@ Das Bundesgericht bestätigte die Fortdauer der Untersuchungshaft wegen ausgepr�
 5. **Nachtatverhalten und Spurenverwischung als Fluchtindiz**: Das unvermittelte Zustechen an einem öffentlichen Ort und das anschliessende Verlassen des Tatorts ohne Hilfeleistung, verbunden mit dem Wegwerfen von Tatwaffe und Pullover auf der Heimfahrt, zeugen von ausgeprägter Impulsivität. Diese Reaktion war primär auf Spurenverwischung gerichtet. Das spätere Abwarten der Polizei am Domizil relativiert die Fluchtneigung nicht, wenn der Täter ohnehin bereits von mehreren Zeugen eindeutig identifiziert worden war ([E. 2.8](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.11.2026_7B_1403/2026)).
 6. **Untauglichkeit von Electronic Monitoring bei fehlender Verlässlichkeit**: Bei ausgeprägter Fluchtgefahr versagen Ersatzmassnahmen regelmässig (BGE 145 IV 305 E. 3.2 f.). Selbst ein lückenlos elektronisch überwachter Hausarrest (Fussfessel) vermag das rasche Überqueren der offenen Schengen-Grenzen nicht zu verhindern, da das System nur *ex post* alarmiert (BGE 145 IV 503 E. 3.3.2). Hinzu kommt, dass Ersatzmassnahmen minimale persönliche Verlässlichkeit und behördliche Kooperationsbereitschaft voraussetzen; ist der Beschuldigte in früheren Verfahren wiederholt Einvernahmen ferngeblieben, musste polizeilich vorgeführt werden oder wechselte er unbefugt den Wohnkanton, sind Ersatzmassnahmen von vornherein untauglich ([E. 3.3.2](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.11.2026_7B_1403/2026)).
 
-#### 6. Gegenüberstellungstabelle: Grenzziehung Fluchtgefahr
+#### 6. Fluchtgefahr bei Anordnung einer stationären therapeutischen Massnahme und fehlender Krankheitseinsicht (BGer 7B_1432/2026)
+
+Ein erheblicher Fluchtanreiz kann nicht nur von einer langjährigen Freiheitsstrafe oder einer Landesverweisung ausgehen, sondern ebenso von einer freiheitsentziehenden Massnahme des Strafgesetzbuches:
+
+In [BGer 7B_1432/2026 vom 12. November 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026) beging ein tschechischer Staatsangehöriger im Zustand der Schuldunfähigkeit versuchte schwere Körperverletzung und Brandstiftung. Das erstinstanzliche Gericht sah von einer Strafe ab und ordnete stattdessen eine stationäre therapeutische Massnahme nach Art. 59 StGB an. Für das anschliessende Berufungsverfahren ordnete die kantonale Instanz Sicherheitshaft an. Vor Bundesgericht machte der Beschuldigte geltend, mangels Strafe bestehe keine Fluchtgefahr, zumal er das bisherige Verfahren nicht sabotiert habe.
+
+Das Bundesgericht verwarf die Rüge und bestätigte die Fluchtgefahr ([E. 3.3–3.4](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)):
+1. **Massnahme als Fluchtanreiz**: Auch die Anordnung einer stationären Behandlung nach Art. 59 StGB ist mit einem empfindlichen, potenziell mehrjährigen Freiheitsentzug verbunden (Art. 59 Abs. 4 StGB: Grunddauer bis zu fünf Jahre, gerichtlich verlängerbar). Sie setzt einen ähnlich intensiven Fluchtanreiz wie eine Freiheitsstrafe.
+2. **Fehlende Krankheitseinsicht als Risikofaktor**: Weigert sich die betroffene Person, ihre psychische Störung anzuerkennen, oder fehlt ihr jegliche Einsicht in die Behandlungsbedürftigkeit, verstärkt dies den Drang, sich der Massnahme durch eine Flucht ins Heimatland (hier Tschechien) zu entziehen.
+3. **Fehlende Verankerung in der Schweiz**: Bei ausländischen Staatsangehörigen ohne familiäre oder berufliche Verwurzelung in der Schweiz wiegt der Fluchtanreiz umso schwerer, wenn im Heimatland Anlaufstellen und soziale Bezüge bestehen.
+
+#### 7. Gegenüberstellungstabelle: Grenzziehung Fluchtgefahr
 
 | Kriterium | [BGE 145 IV 503](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-145-IV-503_2019.html) — **Fluchtgefahr bejaht** | [BGer 1B_323/2023](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-323-2023_2023-07-04.html) — **Fluchtgefahr verneint (Haftentlassung)** | [BGer 7B_1311/2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-1311-2026_2026-10-15.html) — **Fluchtgefahr nicht ausgeprägt (Ersatzmassnahmen)** | [BGer 7B_1403/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.11.2026_7B_1403/2026) — **Ausgeprägte Fluchtgefahr bejaht (Flüchtlingsstatus irrelevant)** |
 |---|---|---|---|---|
@@ -228,7 +243,7 @@ Das Bundesgericht bestätigte die Fortdauer der Untersuchungshaft wegen ausgepr�
 | **Ersatzmassnahmen** | Hausarrest in grenznahem Versoix + Fussfessel: untauglich | Nicht erforderlich, da Fluchtgefahr von vornherein fehlt | Beantragte Massnahmen (Meldepflicht, Schriftensperre, Eingrenzung) grundsätzlich tauglich; Vorinstanz bestimmt Auswahl | Vollumfängliches Paket (Hausarrest mit 24h-EM, Schriftensperre, Meldepflicht) untauglich wegen Schengen-Grenzen und fehlender persönlicher Verlässlichkeit |
 | **Ergebnis** | Fortdauer der Sicherheitshaft geschützt | Sofortige Haftentlassung aus Untersuchungshaft angeordnet | Beschwerde teilweise gutgeheissen; Rückweisung zur Anordnung von Ersatzmassnahmen und Haftentlassung (Antrag auf sofortige Entlassung abgewiesen) | Beschwerde abgewiesen; Untersuchungshaft bestätigt (Ersatzmassnahmen verweigert) |
 
-#### 7. Kritik der Lehre: Das Phänomen der «Ausländerhaft» und strukturelle Ungleichbehandlung
+#### 8. Kritik der Lehre: Das Phänomen der «Ausländerhaft» und strukturelle Ungleichbehandlung
 
 In der rechtswissenschaftlichen und menschenrechtlichen Literatur wird die Gerichtspraxis zur Fluchtgefahr seit Jahren scharf problematisiert:
 
@@ -401,9 +416,16 @@ Die Diskrepanz zwischen dem Gesetzesauftrag und der Gerichtspraxis zu Ersatzmass
 
 Droht bei einem Vergehen eine Strafe von sechs Monaten und sitzt der Beschuldigte bereits fünf Monate in Untersuchungshaft, ist er wegen drohender Überhaft zwingend zu entlassen ([BGE 140 IV 19 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-140-IV-19_2014.html)).
 
+#### Überhaftprüfung bei stationären therapeutischen Massnahmen (Art. 59 StGB)
+
+Besondere Grundsätze gelten, wenn anstelle oder neben einer Strafe eine **stationäre therapeutische Massnahme** (Art. 59 StGB) angeordnet wurde oder im Raum steht:
+
+- **Massstab bei schuldunfähigen Tätern**: Bei schuldunfähigen Personen (Art. 19 Abs. 1 StGB), gegen die mangels Schuld keine schuldangemessene Freiheitsstrafe verhängt werden kann, bemisst sich die hypothetische Höchstdauer der Haft nicht an einer fiktiven Strafe, sondern an der **voraussichtlichen Dauer der Massnahme** ([BGer 7B_1432/2026 vom 12. November 2026 E. 4](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
+- **Fünfjährige Grunddauer und Verlängerbarkeit**: Gemäss Art. 59 Abs. 4 StGB beträgt der mit der stationären Behandlung verbundene Freiheitsentzug in der Regel höchstens fünf Jahre und kann gerichtlich jeweils um bis zu fünf Jahre verlängert werden. Eine vor dem Berufungsentscheid erstandene Haftdauer von beispielsweise 16 Monaten steht zu dieser potenziellen Massnahmedauer in keinem Missverhältnis; eine Verletzung des Überhaftverbots scheidet in solchen Konstellationen regelmässig aus ([BGer 7B_1432/2026 E. 4](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
+
 **Rückbindung.** Das Merkmal wirkt unabhängig von allen anderen: Selbst bei erdrückendem Tatverdacht und akuter Fluchtgefahr fällt die Haft, sobald die Grenze erreicht ist. Es ist damit der einzige Prüfpunkt, der mit blossem Zeitablauf zugunsten des Beschuldigten kippt — und deshalb in langen Verfahren periodisch neu zu erheben.
 
-> **Merksatz.** Rechnen Sie in jedem Haftverlängerungsverfahren die Prognose neu: bedingter Strafvollzug, Anrechnung nach Art. 51 StGB, Möglichkeit der bedingten Entlassung nach zwei Dritteln (Art. 86 StGB). Die Staatsanwaltschaft rechnet regelmässig mit der Höchststrafe — das Gericht muss mit der wahrscheinlichen rechnen.
+> **Merksatz.** Rechnen Sie in jedem Haftverlängerungsverfahren die Prognose neu: bedingter Strafvollzug, Anrechnung nach Art. 51 StGB, Möglichkeit der bedingten Entlassung nach zwei Dritteln (Art. 86 StGB). Die Staatsanwaltschaft rechnet regelmässig mit der Höchststrafe — das Gericht muss mit der wahrscheinlichen rechnen. Steht eine Massnahme nach Art. 59 StGB im Raum, schützt das Fehlen einer schuldangemessenen Strafe nicht vor Haft — der Zeithorizont richtet sich nach der Massnahmedauer.
 
 ---
 
@@ -438,15 +460,17 @@ In der Schwyzer Gerichtspraxis ([SZ KG BEK 2024 190 vom 22. Januar 2025](https:/
 
 - **Merkmal für Merkmal vorgehen.** Prüfen Sie zuerst die Deliktsqualifikation (Merkmal 1) — sie ist der einzige Punkt voller Kognition. Erst danach den Haftgrund, zuletzt die Verhältnismässigkeit.
 - **Tatverdacht rügen bringt selten etwas** (Merkmal 2): Vorbringen zur Glaubwürdigkeit von Belastungszeugen («Aussage gegen Aussage») prallen am Haftrichter regelmässig ab. Erfolg versprechen **liquide Alibis**, **Verjährung** und **fehlende Deliktsqualifikation**.
+- **Fluchtgefahr und Massnahmen (Merkmal 3a)**: Der Verweis auf das Fehlen einer Strafe bannt Fluchtgefahr nicht, wenn eine stationäre therapeutische Behandlung (Art. 59 StGB) angeordnet wurde; mangelnde Krankheitseinsicht indiziert bei ausländischen Bezügen eine erhöhte Fluchtneigung ([BGer 7B_1432/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
 - **Flüchtlingsstatus und Härtefall bei schwerer Tat (Merkmal 3a)**: Der Verweis auf eine anerkannte Flüchtlingseigenschaft entkräftet die Fluchtgefahr bei schweren Verbrechen nicht, da bei Verurteilung das Asylrecht erlischt und die Härtefallklausel (Art. 66a Abs. 2 StGB) im Haftverfahren nur bei offensichtlicher Erfüllung beachtet wird ([BGer 7B_1403/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.11.2026_7B_1403/2026)).
 - **Aussageverweigerung ist keine Kollusion** (Merkmal 3b): Das Schweigen des Beschuldigten ist verfassungsrechtlich geschützt und darf im Haftentscheid nicht als Kollusionsgefahr gewertet werden.
 - **Ersatzmassnahmen aktiv aufgleisen** (Merkmal 4) — und passend zum konkreten Haftgrund wählen; beachten Sie, dass behördliche Unzuverlässigkeit (Säumnis, Vorführungen) Ersatzmassnahmen von vornherein scheitern lässt.
-- **Überhaft periodisch neu rechnen** (Merkmal 5).
+- **Überhaft periodisch neu rechnen** (Merkmal 5): Bei schuldunfähigen Personen mit stationärer Massnahme nach Art. 59 StGB ist jedoch nicht die hypothetische Strafe massgebend, sondern die voraussichtliche Massnahmedauer von bis zu fünf Jahren ([BGer 7B_1432/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
 - **3-Tage-Frist wahren**: Verpassen Sie bei Haftbeschwerden niemals die Frist von Art. 396 Abs. 1 StPO.
 
 #### Für die Staatsanwaltschaft
 
 - **Fluchtgefahr bei Landesverweisung (Merkmal 3a)**: Die Kombination einer mehrjährigen Freiheitsstrafe mit einer obligatorischen Landesverweisung (Art. 66a Abs. 1 StGB) begründet einen besonders intensiven Fluchtanreiz; ein bestehender Flüchtlingsstatus hindert die Inhaftierung nicht, da das Asylrecht bei Verurteilung erlischt (Art. 64 Abs. 1 lit. e AsylG; [BGer 7B_1403/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=10.11.2026_7B_1403/2026)).
+- **Fluchtgefahr und Überhaft bei stationären Massnahmen (Merkmal 3a und 5)**: Auch eine stationäre therapeutische Massnahme (Art. 59 StGB) setzt bei fehlender Krankheitseinsicht einen erheblichen Fluchtanreiz; bei Schuldunfähigkeit bemisst sich die Schranke von Art. 212 Abs. 3 StPO an der fünfjährigen Grunddauer der Massnahme und nicht an einer fiktiven Strafe ([BGer 7B_1432/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
 - **Konkrete Verdunkelungshandlungen dokumentieren** (Merkmal 3b): Eine Haftverlängerung wegen Kollusionsgefahr hält vor Bundesgericht nicht stand, wenn sie nur mit der Schwere der Vorwürfe begründet wird. Dokumentieren Sie abgefangene Kassiber, verdächtige Löschungen oder Kontaktaufnahmen mit Zeugen.
 - **Wiederholungsgefahr bei Ersttätern** (Merkmal 3c): Stützen Sie Anträge bei Tätern ohne Vorstrafen seit 2024 präzise auf Art. 221 Abs. 1bis StPO und fordern Sie unverzüglich ein forensisch-psychiatrisches Vorabgutachten an.
 - **Bei Abs. 2 die angedrohte Tat qualifizieren** (Merkmal 1): Belegen Sie, dass ein **Verbrechen** angedroht wurde — nicht bloss Schläge.
