@@ -23,9 +23,7 @@ vertiefen oder ein falsches Zitat korrigieren.
 
 Aufgrund des täglichen Rechtsprechungs-Monitors (Abgleich von Leitentscheiden via [bger-update.ch](https://bger-update.ch)) werden hier Bestimmungen zur Neuaufnahme vorgeschlagen, zu denen jüngst praxisprägende Urteile ergangen sind und deren Kommentierung für die Praxis besonderen Mehrwert bietet:
 
-- **Art. 44 ATSG / Art. 18 UVG (Beweiswert versicherungsmedizinischer Gutachten vs. Berichte von Behandlern/Fachzentren)**
-  - *Leitentscheid*: [BGer 8C_296/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.11.2026_8C_296/2026) vom 02.11.2026.
-  - *Praxisnutzen*: Das Bundesgericht rügt das willkürliche Abweichen von einem fundierten neurologischen Gutachten: Ein nachgereichter Bericht behandelnder Ärzte bzw. eines Fachzentrums (hier Schlafzentrum), dessen Aspekte bereits in die Begutachtung eingeflossen sind und der keine neuen objektiven Befunde liefert, rechtfertigt kein Abrücken von den Feststellungen des Gutachters. Wichtige Leitlinie für Streitigkeiten über Invaliditätsbemessung und Rente.
+*Derzeit sind alle jüngsten Vorschläge aus dem Rechtsprechungs-Monitor abgearbeitet.*
 
 ## Lücken aus bestehenden Themen
 

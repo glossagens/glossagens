@@ -2,10 +2,14 @@
 title: "Art. 25 ATSG — Rückerstattung"
 weight: 25
 date: 2026-06-12
-lastmod: 2026-11-06
+lastmod: 2026-11-25
 description: "Praxiskommentar zu Art. 25 ATSG: Rückerstattung unrechtmässig bezogener Leistungen und Beiträge, Wiedererwägungsvorbehalt (Art. 53 Abs. 2 ATSG) vs. formlose Leistungen, Erlassvoraussetzungen (guter Glaube und grosse Härte nach Art. 4 f. ATSV), Verwirkungsfristen (Praxisänderung BGE 150 V 305 zum Fristbeginn, zweiter Anlass nach BGE 148 V 217, Revision 2021), längere strafrechtliche Verjährung unter in dubio pro reo (BGE 138 V 74) sowie Beitragsrückerstattung (BGE 149 V 21, BGE 138 V 463)."
 tags: ["ATSG", "Rückerstattung", "Erlass", "Guter Glaube", "Grosse Härte", "Verwirkung", "Praxisänderung", "Zweiter Anlass", "Strafbare Handlung", "Beitragsrückerstattung"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Einarbeitung von BGer 8C_51/2026 vom 27. Oktober 2026: Ausschluss des guten Glaubens (Art. 25 Abs. 1 Satz 2 ATSG) bei unterlassener Meldung wesentlicher Einkommenssteigerungen (Art. 31 Abs. 1 ATSG i.V.m. Art. 25 Abs. 1 lit. c ELV); kein Vertrauensschutz durch verwaltungsinterne retrospektive Nachberechnungspraxis."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "Gemini 3.8 Flash"
@@ -173,6 +177,11 @@ Ein seit 1993 verwitweter Bezüger einer Witwerrente heiratete am 1. September 2
 
 ([BGE 138 V 218 E. 10](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-218_2012.html)).
 
+*Meldepflicht bei schwankendem Einkommen und Vertrauensschutz bei behördlicher Nachberechnungspraxis ([BGer 8C_51/2026 vom 27.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_8C_51/2026)):*  
+Ein besonders praxisrelevantes Spannungsfeld betrifft Leistungsbezüger mit schwankenden Erwerbseinkünften (namentlich im Bereich der Ergänzungsleistungen). Wer bedarfsabhängige Leistungen bezieht und weiss, dass deren Bestand und Höhe eng an die tatsächliche wirtschaftliche Leistungsfähigkeit gekoppelt sind, unterliegt der gesetzlichen Meldepflicht gemäss Art. 31 Abs. 1 ATSG (i.V.m. Art. 25 Abs. 1 lit. c ELV) und muss wesentliche Einkommenssteigerungen unverzüglich mitteilen. Das blosse Abwarten der jährlichen Steuererklärung bzw. behördlichen Revision trotz spürbarer Mehreinnahmen stellt eine Verletzung elementarer Sorgfaltspflichten dar und schliesst den guten Glauben nach Art. 25 Abs. 1 Satz 2 ATSG wegen grober Fahrlässigkeit aus.
+
+Daran vermag auch eine verwaltungsinterne Praxis nichts zu ändern, wonach die Ausgleichskasse bzw. EL-Stelle die Leistungen bei unregelmässigem Verdienst periodisch retrospektiv anhand der Vorjahresdaten abrechnet: Eine solche Nachberechnungspraxis befreit die versicherte Person nicht von ihrer gesetzlichen Meldepflicht und begründet keinen Vertrauensschutz (Art. 9 BV) gegen Rückforderungen bei unterlassener Anzeige erheblicher Mehreinkünfte ([BGer 8C_51/2026 vom 27.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_8C_51/2026)).
+
 #### 3. Subjektiver Sorgfaltsmassstab: Entlastungsgründe bei kognitiver Überforderung
 
 Das Mass der gebotenen Sorgfalt beurteilt sich zwar nach einem objektiven Massstab, jedoch unter Berücksichtigung dessen, was der betroffenen Person nach ihren **individuellen Verhältnissen** (Urteilsfähigkeit, Bildungsgrad, psychischer und physischer Gesundheitszustand) zumutbar war ([BGE 138 V 218 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-218_2012.html); [BGE 112 V 97 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-112-V-97_1986-05-02.html)):
@@ -188,6 +197,7 @@ Das Mass der gebotenen Sorgfalt beurteilt sich zwar nach einem objektiven Massst
 | Bezügerin von Arbeitslosentaggeldern verschweigt Zwischenverdienst; Taggeld plus Lohn übersteigen bisheriges Vollzeiteinkommen erheblich | **Guter Glaube verneint**: Es musste auffallen, dass man bei Arbeitslosigkeit finanziell besser dasteht als zuvor | [SG VSG AVI 2010/62](https://entscheidsuche.ch/docs/SG_Gerichte/SG_VSG_001_AVI-2010-62_2011-03-10.html) |
 | Bezüger erhält doppelte Rentenauszahlung auf sein Bankkonto im selben Kalendermonat | **Guter Glaube verneint**: Doppelauszahlung springt bei Mindestaufmerksamkeit ins Auge; grobe Fahrlässigkeit | [BGer 8C_182/2014](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-182-2014_2014-06-13.html) |
 | Wiederverheiratung des Witwers nicht gemeldet; Rente 9 Jahre weiterbezogen | **Guter Glaube verneint**: Zivilstandsänderung schliesst Witwerstatus dem Namen nach offenkundig aus | [BGE 138 V 218 E. 10](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-218_2012.html) |
+| EL-Bezüger mit schwankendem Einkommen meldet signifikante Einkommenssteigerung nicht zeitnah und beruft sich auf behördliche Praxis retrospektiver Anpassungen | **Guter Glaube verneint**: Abwarten der Steuererklärung/Revision trotz Mehreinnahmen ist grobfahrlässig; interne Nachberechnungspraxis begründet keinen Vertrauensschutz | [BGer 8C_51/2026 vom 27.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_8C_51/2026) |
 
 > **Leitsatz.** Eine vorsätzliche oder grobfahrlässige Verletzung gesetzlicher Meldepflichten schliesst den guten Glauben im Erlassverfahren kategorisch aus; leichte Fahrlässigkeit schadet nicht, wobei kognitive Überforderung und unklare behördliche Abrechnungen das Verschulden mindern können.
 
@@ -404,7 +414,7 @@ Rückforderungsansprüche der Versicherung sind nach Art. 26 Abs. 2 ATSG i.V.m. 
 
 1. **Zweistufigkeit des Verfahrens beachten:** Gegen eine Rückforderungsverfügung darf im Beschwerdeverfahren nicht mit «grosser Härte» oder «gutem Glauben» argumentiert werden; diese Einwände gehören ausschliesslich in das nachgelagerte Erlassgesuch ([BGE 138 V 74 E. 4.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-138-V-74_2012.html)).
 2. **30-tägige Erlassfrist wahren:** Das Erlassgesuch muss zwingend spätestens 30 Tage nach formeller Rechtskraft der Rückforderungsverfügung eingereicht werden (Art. 4 Abs. 4 ATSV); es handelt sich um eine gesetzliche Verwirkungsfrist.
-3. **Meldepflichtverletzungen subjektiv entlasten:** Wurde eine Meldepflicht verletzt, muss im Erlassgesuch detailliert dargelegt und ärztlich belegt werden, warum die versicherte Person aus gesundheitlichen oder kognitiven Gründen subjektiv nicht in der Lage war, die Meldung zu erstatten ([BGE 112 V 97 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-112-V-97_1986-05-02.html); [BGer 9C_623/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-623-2018_2019-02-21.html)).
+3. **Meldepflichtverletzungen subjektiv entlasten:** Wurde eine Meldepflicht verletzt, muss im Erlassgesuch detailliert dargelegt und ärztlich belegt werden, warum die versicherte Person aus gesundheitlichen oder kognitiven Gründen subjektiv nicht in der Lage war, die Meldung zu erstatten ([BGE 112 V 97 E. 2c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-112-V-97_1986-05-02.html); [BGer 9C_623/2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_009_9C-623-2018_2019-02-21.html)). Bei schwankendem Einkommen schliesst das Zuwarten auf die jährliche Steuererklärung trotz spürbarer Mehreinnahmen den guten Glauben regelmässig aus; eine verwaltungsinterne retrospektive Nachberechnungspraxis begründet keinen Vertrauensschutz gegen Rückforderungen ([BGer 8C_51/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_8C_51/2026)).
 4. **Verwirkung von Amtes wegen rügen:** Liegen zwischen der Kenntnisnahme der Kasse und dem Erlass der Rückforderungsverfügung mehr als drei Jahre (oder mehr als fünf Jahre seit Einzelauszahlung), ist die Verwirkungseinrede prioritär zu erheben ([BGE 148 V 217 E. 2.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-148-V-217_2022.html); [BGE 150 V 305](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-150-V-305_2024.html)).
 5. **Akontobeiträge bei definitiver Veranlagung prüfen:** Bei Selbständigerwerbenden verjähren zu viel bezahlte Akontobeiträge nicht vor Erlass der definitiven Beitragsverfügung; das Rückforderungsgesuch ist innert eines Jahres ab Veranlagung einzureichen ([BGE 149 V 21 E. 4.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-149-V-21_2023.html)).
 

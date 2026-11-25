@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 221 StPO"
 weight: 99
 date: 2026-08-30
-lastmod: 2026-11-19
+lastmod: 2026-11-25
 description: "Übersicht der Rechtsprechung zu Art. 221 StPO – Dringender Tatverdacht, Fluchtgefahr, Kollusionsgefahr, einfache und qualifizierte Wiederholungsgefahr (Abs. 1bis n.F.), Ausführungsgefahr und Ersatzmassnahmen."
 tags: ["Rechtsprechung", "StPO", "Haft", "Untersuchungshaft", "Sicherheitshaft", "Tatverdacht", "Fluchtgefahr", "Kollusionsgefahr", "Wiederholungsgefahr", "Ausführungsgefahr", "Zwangsmassnahmen"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aufnahme von BGer 7B_1432/2026 vom 12.11.2026 unter II. Weitere Bundesgerichtsentscheide: Fluchtgefahr bei erstinstanzlicher Anordnung einer stationären therapeutischen Massnahme (Art. 59 StGB) und fehlender Krankheitseinsicht; Verdichtung des Tatverdachts nach erstinstanzlichem Sachurteil; Überhaftprüfung (Art. 212 Abs. 3 StPO) bei schuldunfähigen Tätern anhand der voraussichtlichen Massnahmedauer statt hypothetischer Strafe."
   - date: 2026-11-19
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -109,6 +113,16 @@ revisions:
 - **Ergebnis**: Abweisung der Beschwerde; Bestätigung der Untersuchungshaft wegen Fluchtgefahr.
 - **Einschlägig für**: Abs. 1 lit. a und Art. 237 StPO
 
+### [BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026) E. 3 f.
+- **Thema**: Fluchtgefahr bei drohender stationärer therapeutischer Massnahme (Art. 59 StGB), Tatverdachtsverdichtung nach erstinstanzlichem Sachurteil und Überhaftprüfung bei Schuldunfähigkeit
+- **Sachverhalt**: Ein tschechischer Staatsangehöriger beging im Zustand der Schuldunfähigkeit versuchte schwere Körperverletzung und Brandstiftung. Das erstinstanzliche Gericht sah von einer Strafe ab und ordnete stattdessen eine stationäre therapeutische Massnahme nach Art. 59 StGB an. Die kantonale Anklagekammer ordnete Sicherheitshaft für das Berufungsverfahren an. Vor Bundesgericht rügte der Beschuldigte das Fehlen von Fluchtgefahr sowie eine Verletzung des Verhältnismässigkeitsprinzips (drohende Überhaft nach rund 16 Monaten Haft).
+- **Kernaussage**:
+  1. *Verdichtung des Tatverdachts nach erstinstanzlichem Urteil*: Ein erstinstanzliches Sachurteil verdichtet den dringenden Tatverdacht (Art. 221 Abs. 1 StPO) regelmässig noch weiter; im Stadium nach erstinstanzlichem Urteil bedarf es gewichtiger gegenteiliger Anhaltspunkte, um den Tatverdacht im Haftprüfungsverfahren noch in Zweifel zu ziehen (E. 3.2).
+  2. *Fluchtgefahr bei stationärer Behandlung*: Die erstinstanzliche Anordnung einer stationären therapeutischen Massnahme nach Art. 59 StGB setzt einen erheblichen Fluchtanreiz, wenn der Betroffene keine Einsicht in die Behandlungsbedürftigkeit zeigt und ins Heimatland (hier Tschechien) fliehen könnte, um sich dem mehrjährigen Freiheitsentzug zu entziehen (E. 3.3–3.4).
+  3. *Überhaftverbot bei schuldunfähigen Tätern (Art. 212 Abs. 3 StPO)*: Bei schuldunfähigen Personen, gegen die eine stationäre Massnahme nach Art. 59 StGB ausgesprochen wurde, bemisst sich die hypothetische Höchstdauer nicht an einer schuldangemessenen Strafe, sondern an der voraussichtlichen Dauer der Massnahme (Art. 59 Abs. 4 StGB: bis zu fünf Jahre und verlängerbar). Eine bisherige Haftdauer von rund 16 Monaten steht dazu in keinem Missverhältnis; Überhaft scheidet aus (E. 4).
+- **Ergebnis**: Abweisung der Beschwerde; Bestätigung der Sicherheitshaft.
+- **Einschlägig für**: Abs. 1 Ingress, Abs. 1 lit. a und Art. 212 Abs. 3 StPO
+
 ### [BGer 7B_708/2026 vom 17.06.2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-708-2026_2026-06-17.html) E. 3–5
 - **Thema**: Qualifizierte Wiederholungsgefahr bei Sexualdelikten (Abs. 1bis) und Voraussetzungen für Ersatzmassnahmen
 - **Kernaussage**: Werden einem Beschuldigten Vergewaltigungen zum Nachteil zweier vormaliger Partnerinnen vorgeworfen und diagnostiziert die Psychiatrie dranghafte Sexualität sowie dissoziale Züge, entfällt die Wiederholungsgefahr nicht mit dem Einwand, die Partnerschaften seien beendet; die Risikofaktoren aktualisieren sich bei jeder neuen Bekanntschaft. Ersatzmassnahmen (wie Sexualitäts- und Deeskalations-Coachings) können Haft erst ersetzen, wenn sie bereits in Haft begonnen wurden und erste verlässliche Berichte über die Kooperationsbereitschaft vorliegen.
@@ -172,4 +186,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-11-19*
+*Letzte Aktualisierung: 2026-11-25*
