@@ -2,10 +2,14 @@
 title: "Art. 44 ATSG — Gutachten"
 weight: 44
 date: 2026-07-31
-lastmod: 2026-11-06
-description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022, Unzulässigkeit der Vorabbeschränkung des Gutachtenumfangs (BGer 8C_109/2025), Beweiswertkriterien und Verbot richterlicher Eigendiagnostik (BGer 8C_670/2025, 8C_166/2026)."
+lastmod: 2026-11-25
+description: "Praxiskommentar zu Art. 44 ATSG: Medizinische Begutachtung im Sozialversicherungsrecht, Abgrenzung zu versicherungsinternen Abklärungen (RAD, Suva-Kreisärzte) und Rehakliniken, Parteirechte, Gutachtenstypen, Judikatur zur Zwischenverfügungspflicht nach WEIV 2022, Unzulässigkeit der Vorabbeschränkung des Gutachtenumfangs (BGer 8C_109/2025), Beweiswertkriterien vs. Berichte behandelnder Fachärzte (BGer 8C_296/2026) und Verbot richterlicher Eigendiagnostik (BGer 8C_670/2025, 8C_166/2026)."
 tags: ["ATSG", "Begutachtung", "Gutachten", "MEDAS", "Zwischenverfügung", "Mitwirkungsrechte", "Beweiswert", "Gerichtsgutachterkosten", "RAD", "Kreisarzt", "Rehaklinik", "Tonaufnahme", "Sozialversicherungsrecht", "IVG", "UVG", "Eigendiagnostik"]
 revisions:
+  - date: 2026-11-25
+    by: "Antigravity Agent"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 8C_296/2026 vom 02.11.2026: Willkürliches Abweichen von einem fundierten versicherungsmedizinischen Gutachten zugunsten nachgereichter Berichte behandelnder Ärzte bzw. Fachzentren (Schlafzentrum) ohne neue objektive Befunde."
   - date: 2026-11-06
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -82,7 +86,7 @@ Die Prüfung und Durchführung einer Begutachtung nach Art. 44 ATSG folgt einem 
 **8** **3. Rehabilitationskliniken (Fall Rehaklinik Bellikon).** Medizinische Stellungnahmen von Rehabilitationskliniken, die im Rahmen eines Kur- oder Reha-Aufenthalts von der Suva verlangt werden, stellen keine Gutachten unabhängiger Sachverständiger im Sinne von Art. 44 ATSG dar ([BGE 136 V 117 E. 3.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-117_2010.html); [ZH SVG UV.2011.00198 vom 20.08.2012](https://entscheidsuche.ch/docs/ZH_Sozialversicherungsgericht/ZH_SVG_001_UV-2011-00198_2012-08-20.html)). Sie sind rechtlich als Parteivorbringen des Unfallversicherers zu behandeln.
 > **Verfassungsverletzung bei verdeckter Begutachtung:** Ordnet der Versicherer während eines medizinisch indizierten Reha-Aufenthalts hinter dem Rücken der versicherten Person eine vertiefte Abklärung der Kausalität oder Arbeitsfähigkeit an, verletzt dies das verfassungsrechtliche Selbstbestimmungsrecht (Art. 10 Abs. 2 BV) sowie das rechtliche Gehör (Art. 29 Abs. 2 BV). Dieser schwere Eingriff führt zur Unverwertbarkeit der gewonnenen Berichte ([BGE 136 V 117 E. 4.2.2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_007_BGE-136-V-117_2010.html)).
 
-**9** **4. Behandelnde Ärzte und Spitalberichte.** Berichte von Hausärzten, behandelnden Fachärzten und Spitälern beruhen auf der gesetzlichen Auskunftspflicht (Art. 43 ATSG). Sie stellen keine Begutachtung dar; Art. 44 ATSG ist nicht anwendbar ([BGE 125 V 351 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-V-351_1999.html)). Wegen des auftragsrechtlichen Vertrauensverhältnisses und der therapeutischen Ausrichtung kommt ihnen nicht der Beweiswert einer unabhängigen Expertise zu.
+**9** **4. Behandelnde Ärzte und Spitalberichte.** Berichte von Hausärzten, behandelnden Fachärzten und Spitälern beruhen auf der gesetzlichen Auskunftspflicht (Art. 43 ATSG). Sie stellen keine Begutachtung dar; Art. 44 ATSG ist nicht anwendbar ([BGE 125 V 351 E. 3a](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-125-V-351_1999.html)). Wegen des auftragsrechtlichen Vertrauensverhältnisses und der therapeutischen Ausrichtung kommt ihnen nicht der Beweiswert einer unabhängigen Expertise zu. Das Bundesgericht bekräftigt diesen Grundsatz und rügt das willkürliche Abweichen von einem fundierten versicherungsmedizinischen Gutachten zugunsten nachgereichter Berichte behandelnder Ärzte bzw. eines Fachzentrums (Schlafzentrum), wenn diese keine neuen objektiven Befunde enthalten, sondern lediglich bereits berücksichtigte Aspekte abweichend würdigen ([BGer 8C_296/2026 vom 02.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.11.2026_8C_296/2026)).
 
 **10** **5. Gutachten im Gerichtsverfahren.** Ordnet ein kantonales Versicherungsgericht oder das Bundesgericht im Beschwerdeverfahren ein medizinisches Gutachten an, richtet sich das Verfahren nicht nach Art. 44 ATSG, sondern nach kantonalem Verwaltungsverfahrensrecht bzw. Art. 61 lit. c ATSG und den Vorschriften des Bundesgesetzes über den Bundeszivilprozess (Art. 57 ff. BZP i.V.m. Art. 19 VwVG; [BGE 137 V 210 E. 4.4.1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-137-V-210_2011.html); [BGE 139 V 496 E. 4.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_008_BGE-139-V-496_2013.html)).
 
