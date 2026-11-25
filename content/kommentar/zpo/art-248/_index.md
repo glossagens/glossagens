@@ -7,6 +7,10 @@ description: "Praxisorientierter Kommentar zu Art. 248 ZPO: Anwendungsbereich de
 tags: ["ZPO", "Summarisches Verfahren", "klarer Fall", "vorsorgliche Massnahmen", "Aktenschluss", "Novenrecht", "Rechtsöffnung", "Mieterausweisung", "freiewillige Gerichtsbarkeit", "Besitzesschutz"]
 revisions:
   - date: 2026-11-25
+    by: "Antigravity"
+    model: "gemini-4-neon"
+    note: "PR #69 redaktionell geprüft: ZPO-Normen (Art. 145, 251, 254 f., 258, 261, 269, 311, 314, 321) via Fedlex sowie BGE 138 III 620 (E. 5.1.1), BGE 139 III 78 (E. 4.5, 5.4.1, 5.4.3), ZH OG RT190199 (E. 4.2.4 f.) und GR KG KSK 2018 78 (E. 2.2 f.) im Volltext inkl. HTML-Anker verifiziert; im Überblick «3. Titels» auf «5. Titels» berichtigt."
+  - date: 2026-11-25
     by: "Claude (claude.ai)"
     model: "claude-opus-5-5"
     note: "Zweite Korrektur, unabhängig von PR #68: Fristen in Überblick, F.2 und Praxishinweis 4 berichtigt (30 statt 20 Tage im ordentlichen Verfahren, Art. 311, 314, 321 ZPO, Gerichtsferien Art. 145 Abs. 2 lit. b ZPO). D: Arrest nicht nach Art. 261 ZPO (Art. 269 lit. a ZPO). F.1 und Prüfschema: kein allgemein herabgesetztes Beweismass, voller Beweis bei Art. 257 ZPO. G.3: Linktext und Aussagen an die verlinkten Entscheide angepasst. Wortlaut über Fedlex geprüft, BGE 138 III 620, BGE 139 III 78, ZH OG RT190199 und GR KG KSK 2018 78 mit fetch_document gelesen."
@@ -40,7 +44,7 @@ revisions:
 
 Art. 248 ZPO ist die Öffnungsnorm des summarischen Verfahrens. Er bestimmt, welche Streitigkeiten aus dem ordentlichen oder vereinfachten Verfahren herausgelöst und in einem beschleunigten, formreduzierten Verfahren erledigt werden können. Die Bestimmung ist keine eigenständige Anspruchsgrundlage, sondern eine Verweisungsnorm: Sie ordnet den Anwendungsbereich einer Verfahrensart zu, deren Einzelheiten in den Art. 249–270 ZPO geregelt sind.
 
-Die systematische Stellung am Beginn des 3. Titels (Art. 248–270 ZPO) ist programmatisch: Das summarische Verfahren bildet einen eigenständigen Verfahrenstypus mit eigenen Beweisregelungen (Art. 254 f. ZPO), einer eigenen Fristenordnung (Art. 314 Abs. 1 und Art. 321 Abs. 2 ZPO: zehn statt 30 Tage) und einem eigenen Aktenschlussregime (Art. 229 ZPO im summarischen Kontext, geprägt durch BGE 144 III 117 und BGE 146 III 237).
+Die systematische Stellung am Beginn des 5. Titels (Art. 248–270 ZPO) ist programmatisch: Das summarische Verfahren bildet einen eigenständigen Verfahrenstypus mit eigenen Beweisregelungen (Art. 254 f. ZPO), einer eigenen Fristenordnung (Art. 314 Abs. 1 und Art. 321 Abs. 2 ZPO: zehn statt 30 Tage) und einem eigenen Aktenschlussregime (Art. 229 ZPO im summarischen Kontext, geprägt durch BGE 144 III 117 und BGE 146 III 237).
 
 Die Revision per 1. Juli 2026 hat lit. c um den Besitzesschutz bei verbotener Eigenmacht an Grundstücken erweitert und damit die bisherige Lücke geschlossen, dass Besitzesschutzverfahren bei Grundstücken nicht ausdrücklich dem summarischen Verfahren unterstanden.
 
