@@ -2,10 +2,14 @@
 title: "Art. 248 ZPO — Grundsatz (Summarisches Verfahren)"
 weight: 248
 date: 2026-09-05
-lastmod: 2026-10-15
+lastmod: 2026-11-25
 description: "Praxisorientierter Kommentar zu Art. 248 ZPO: Anwendungsbereich des summarischen Verfahrens — gesetzliche Zuweisungen, Rechtsschutz in klaren Fällen, gerichtliches Verbot und Verfügung, vorsorgliche Massnahmen, freiwillige Gerichtsbarkeit. Kasuistik zu Aktenschluss, Novenrecht, klarer Fall und derogatorischer Kraft des Bundesrechts."
 tags: ["ZPO", "Summarisches Verfahren", "klarer Fall", "vorsorgliche Massnahmen", "Aktenschluss", "Novenrecht", "Rechtsöffnung", "Mieterausweisung", "freiewillige Gerichtsbarkeit", "Besitzesschutz"]
 revisions:
+  - date: 2026-11-25
+    by: "Claude (claude.ai)"
+    model: "claude-opus-5-5"
+    note: "Zweite Korrektur, unabhängig von PR #68: Fristen in Überblick, F.2 und Praxishinweis 4 berichtigt (30 statt 20 Tage im ordentlichen Verfahren, Art. 311, 314, 321 ZPO, Gerichtsferien Art. 145 Abs. 2 lit. b ZPO). D: Arrest nicht nach Art. 261 ZPO (Art. 269 lit. a ZPO). F.1 und Prüfschema: kein allgemein herabgesetztes Beweismass, voller Beweis bei Art. 257 ZPO. G.3: Linktext und Aussagen an die verlinkten Entscheide angepasst. Wortlaut über Fedlex geprüft, BGE 138 III 620, BGE 139 III 78, ZH OG RT190199 und GR KG KSK 2018 78 mit fetch_document gelesen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -36,7 +40,7 @@ revisions:
 
 Art. 248 ZPO ist die Öffnungsnorm des summarischen Verfahrens. Er bestimmt, welche Streitigkeiten aus dem ordentlichen oder vereinfachten Verfahren herausgelöst und in einem beschleunigten, formreduzierten Verfahren erledigt werden können. Die Bestimmung ist keine eigenständige Anspruchsgrundlage, sondern eine Verweisungsnorm: Sie ordnet den Anwendungsbereich einer Verfahrensart zu, deren Einzelheiten in den Art. 249–270 ZPO geregelt sind.
 
-Die systematische Stellung am Beginn des 3. Titels (Art. 248–270 ZPO) ist programmatisch: Das summarische Verfahren bildet einen eigenständigen Verfahrenstypus mit eigenen Beweisregelungen (Art. 253 f. ZPO), einer eigenen Fristenordnung (Art. 321 ZPO: 10 Tage statt 20) und einem eigenen Aktenschlussregime (Art. 229 ZPO im summarischen Kontext, geprägt durch BGE 144 III 117 und BGE 146 III 237).
+Die systematische Stellung am Beginn des 3. Titels (Art. 248–270 ZPO) ist programmatisch: Das summarische Verfahren bildet einen eigenständigen Verfahrenstypus mit eigenen Beweisregelungen (Art. 254 f. ZPO), einer eigenen Fristenordnung (Art. 314 Abs. 1 und Art. 321 Abs. 2 ZPO: zehn statt 30 Tage) und einem eigenen Aktenschlussregime (Art. 229 ZPO im summarischen Kontext, geprägt durch BGE 144 III 117 und BGE 146 III 237).
 
 Die Revision per 1. Juli 2026 hat lit. c um den Besitzesschutz bei verbotener Eigenmacht an Grundstücken erweitert und damit die bisherige Lücke geschlossen, dass Besitzesschutzverfahren bei Grundstücken nicht ausdrücklich dem summarischen Verfahren unterstanden.
 
@@ -45,7 +49,7 @@ Die Revision per 1. Juli 2026 hat lit. c um den Besitzesschutz bei verbotener Ei
 | Nr. | Merkmal | Beweislast / Beweismass | Abschnitt |
 |---|---|---|---|
 | 1 | Gesetzliche Zuweisung (lit. a) | Gesetzliche Auslegung; keine Beweislast | A |
-| 2 | Rechtsschutz in klaren Fällen (lit. b): Sachverhalt liquide oder unbestritten | Gesuchsteller; Glaubhaftmachung | B |
+| 2 | Rechtsschutz in klaren Fällen (lit. b): Sachverhalt liquide oder unbestritten | Gesuchsteller; voller Beweis mit sofort verfügbaren Beweismitteln | B |
 | 3 | Rechtsschutz in klaren Fällen (lit. b): Rechtslage klar | Gesuchsteller; Rechtliche Beurteilung | B |
 | 4 | Gerichtliches Verbot / gerichtliche Verfügung (lit. c) | Gesetzliche Zuweisung | C |
 | 5 | Vorsorgliche Massnahmen (lit. d): Anordnungsbedingungen | Gesuchsteller; Glaubhaftmachung (Art. 261 ZPO) | D |
@@ -120,7 +124,7 @@ Lit. c unterstellt das gerichtliche Verbot (Art. 258 ZPO) und — seit der Revis
 
 ## D. Vorsorgliche Massnahmen (lit. d)
 
-Lit. d unterstellt vorsorgliche Massnahmen dem summarischen Verfahren. Dazu gehören insbesondere superprovisorische Massnahmen (Art. 265 ZPO), Arreste (Art. 261 ZPO) und die vorläufige Eintragung eines Bauhandwerkerpfandrechts (Art. 6 Abs. 5 ZPO i.V.m. Art. 839 Abs. 2 ZGB).
+Lit. d unterstellt vorsorgliche Massnahmen dem summarischen Verfahren. Dazu gehören insbesondere superprovisorische Massnahmen (Art. 265 ZPO) und die vorläufige Eintragung eines Bauhandwerkerpfandrechts (Art. 6 Abs. 5 ZPO i.V.m. Art. 839 Abs. 2 ZGB). Nicht nach Art. 261 ff. ZPO richtet sich der Arrest: Für die sichernden Massnahmen bei der Vollstreckung von Geldforderungen behält Art. 269 lit. a ZPO das SchKG vor (Art. 271 ff. SchKG). Die Entscheide des Arrestgerichts unterstehen dem summarischen Verfahren über Art. 251 lit. a ZPO, also über lit. a.
 
 ### D.1 Handelsgerichtliche Zuständigkeit für vorsorgliche Massnahmen
 
@@ -168,11 +172,15 @@ Lit. e unterstellt die Angelegenheiten der freiwilligen Gerichtsbarkeit dem summ
 
 ### F.1 Beweisführung und Beweismass
 
-Im summarischen Verfahren gilt das herabgesetzte Beweismass der Glaubhaftmachung (Art. 253 ZPO). Als Beweismittel sind grundsätzlich nur Urkunden und Auskünfte Dritter zulässig (Art. 254 ZPO); das Gericht kann jedoch nach Art. 255 ZPO ein vereinfachtes Beweisverfahren durchführen. Im Bereich der vorsorglichen Massnahmen (lit. d) ist das Beweismass bei der vorläufigen Eintragung eines Bauhandwerkerpfandrechts gegenüber anderen Arten vorsorglicher Massnahmen besonders stark herabgesetzt (BGE 137 III 563 E. 3.3).
+Die Art. 248 ff. ZPO legen kein allgemein herabgesetztes Beweismass fest. Wo Glaubhaftmachen genügt, ergibt sich dies aus der jeweils anwendbaren Norm, etwa für vorsorgliche Massnahmen (Art. 261 Abs. 1 ZPO) oder für die Störung beim gerichtlichen Verbot (Art. 258 Abs. 2 ZPO). Für den Rechtsschutz in klaren Fällen genügt blosses Glaubhaftmachen nicht. Die klagende Partei hat den vollen Beweis der anspruchsbegründenden Tatsachen zu erbringen ([BGE 138 III 620 E. 5.1.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-138-III-620_2012.html#consideration_5.1.1)).
+
+Hauptbeweismittel ist die Urkunde (Art. 254 Abs. 1 ZPO). Andere Beweismittel sind nur unter den Voraussetzungen von Art. 254 Abs. 2 ZPO zulässig, namentlich wenn das Gericht den Sachverhalt von Amtes wegen festzustellen hat (Art. 255 ZPO). Im Bereich der vorsorglichen Massnahmen (lit. d) ist das Beweismass bei der vorläufigen Eintragung eines Bauhandwerkerpfandrechts gegenüber anderen Arten vorsorglicher Massnahmen besonders stark herabgesetzt (BGE 137 III 563 E. 3.3).
 
 ### F.2 Fristen
 
-Die Rechtsmittelfrist im summarischen Verfahren beträgt 10 Tage (Art. 321 Abs. 2 ZPO). Dies gilt für alle unter Art. 248 lit. a–e fallenden Verfahren. Die kürzere Frist gegenüber dem ordentlichen Verfahren (20 Tage, Art. 321 Abs. 1 ZPO) ist Ausdruck des Beschleunigungsgebots.
+Gegen Entscheide im summarischen Verfahren betragen die Fristen für die Berufung und die Berufungsantwort (Art. 314 Abs. 1 ZPO) sowie für die Beschwerde (Art. 321 Abs. 2 ZPO) je zehn Tage. Im ordentlichen und im vereinfachten Verfahren beträgt die Frist dagegen 30 Tage (Art. 311 Abs. 1 und Art. 321 Abs. 1 ZPO). In den familienrechtlichen Angelegenheiten nach Art. 271, 276, 302 und 305 ZPO beträgt die Berufungsfrist ausnahmsweise ebenfalls 30 Tage (Art. 314 Abs. 2 ZPO). Die kürzeren Fristen sind Ausdruck des Beschleunigungsgebots.
+
+Der Fristenstillstand während der Gerichtsferien gilt im summarischen Verfahren nicht (Art. 145 Abs. 2 lit. b ZPO), und zwar auch nicht für die Rechtsmittelfrist gegen einen im summarischen Verfahren ergangenen Entscheid ([BGE 139 III 78 E. 4.5](https://www.entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-78_2013.html#consideration_4.5)). Fehlt in der Rechtsmittelbelehrung der Hinweis auf diese Ausnahme (Art. 145 Abs. 3 ZPO), stehen die Fristen gleichwohl still. Die Hinweispflicht ist eine Gültigkeitsvorschrift. Sie gilt absolut, also auch dann, wenn die Partei den Mangel der Rechtsmittelbelehrung erkannte oder hätte erkennen können ([BGE 139 III 78 E. 5.4.3](https://www.entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-139-III-78_2013.html#consideration_5.4.3)). Der Gesetzeswortlaut unterscheidet dabei nicht, ob die Partei anwaltlich vertreten ist oder nicht (E. 5.4.1).
 
 ### F.3 Aktenschluss und Novenrecht
 
@@ -198,7 +206,7 @@ Die Kantone bestimmen das zuständige Gericht und das konkrete Verfahren innerha
 
 ### G.3 Aktenschluss-Praxis in der Rechtsöffnung
 
-In der Rechtsöffnungspraxis zeigen kantonale Gerichte eine zurückhaltende Handhabung des zweiten Schriftenwechsels. Das Obergericht Zürich betont, dass der zweite Schriftenwechsel die seltene Ausnahme bleiben muss ([ZH OG RT180027](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_RT190199_2020-04-30.pdf)), und hält sich an die Grundsätze von BGE 146 III 237. Das Kantonsgericht Graubünden wendet die gleiche Regel an und stellt klar, dass die Novenschranke nach dem ersten Schriftenwechsel gefällt ist, wenn kein zweiter Schriftenwechsel angeordnet wird ([GR KG KSK 2018 78](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_003_KSK-2018-78_2021-02-22.pdf)).
+In der Rechtsöffnungspraxis wenden die kantonalen Gerichte die bundesgerichtlichen Grundsätze zum Aktenschluss an. Das Obergericht Zürich hielt fest, dass im summarischen Verfahren grundsätzlich nach einmaliger Äusserung der Aktenschluss eintritt, ein zweiter Schriftenwechsel aber auch dort angeordnet werden kann. Wird er ausnahmsweise angeordnet, sind darin Noven in analoger Anwendung von Art. 229 ZPO unbeschränkt zulässig ([ZH OG RT190199 vom 30. April 2020, E. 4.2.4 f.](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_RT190199_2020-04-30.pdf)). Das Kantonsgericht Graubünden schützte die Anordnung eines zweiten Schriftenwechsels in einem Rechtsöffnungsverfahren, in dem die Schuldnerin bereits in ihrer ersten Stellungnahme eingewandt hatte, die Forderung hänge von einer nicht erbrachten Gegenleistung ab. Die Fristansetzung nach der Duplik wertete es nicht als dritten Schriftenwechsel, sondern als blosse Gewährung des Replikrechts. Nach dem zweiten Schriftenwechsel waren Noven nur noch unter den Voraussetzungen von Art. 229 Abs. 1 ZPO zulässig. Diese waren für die unechten Noven erfüllt, welche die Gläubigerin in ihrer Triplik als Reaktion auf neue Vorbringen in der Duplik vorgebracht hatte ([GR KG KSK 2018 78 vom 22. Februar 2021, E. 2.2 f.](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_003_KSK-2018-78_2021-02-22.pdf)).
 
 ---
 
@@ -212,7 +220,7 @@ In der Rechtsöffnungspraxis zeigen kantonale Gerichte eine zurückhaltende Hand
 
 3. Wird ein zweiter Schriftenwechsel angeordnet, unbeschränkt Noven einbringen — diese Gelegenheit besteht nur in diesem engen Fenster ([BGE 146 III 237 E. 3.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-146-III-237_2020.html#consideration_3.1)).
 
-4. Die Rechtsmittelfrist im summarischen Verfahren beträgt 10 Tage ab Zustellung des begründeten Entscheids (Art. 321 Abs. 2 ZPO) — nicht 20 Tage wie im ordentlichen Verfahren.
+4. Die Rechtsmittelfrist im summarischen Verfahren beträgt zehn Tage ab Zustellung des begründeten Entscheids (Art. 314 Abs. 1 und Art. 321 Abs. 2 ZPO) — nicht 30 Tage wie im ordentlichen Verfahren. Die Gerichtsferien gelten nicht (Art. 145 Abs. 2 lit. b ZPO).
 
 **Für die gesuchsgegnerische Partei:**
 
