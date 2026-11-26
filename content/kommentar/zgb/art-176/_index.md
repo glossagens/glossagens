@@ -2,10 +2,14 @@
 title: "Art. 176 ZGB — Organisation des Getrenntlebens"
 weight: 176
 date: 2026-09-01
-lastmod: 2026-11-17
+lastmod: 2026-11-26
 description: "Praxiskommentar zu Art. 176 ZGB entlang der Tatbestandsmerkmale: Voraussetzungen der Haushaltsaufhebung und Unmöglichkeit des Zusammenlebens (Abs. 1 und 2), Unterhaltsbemessung nach der zweistufigen Methode mit Überschussverteilung (hypothetisches Einkommen, Schulstufenmodell, Erwerbsobliegenheit, gebührender Unterhalt, Konkubinat, Mankotragung, Sparquote), Zuteilung von Wohnung und Hausrat (inkl. Begriff der Familienwohnung), Anordnung der Gütertrennung und die Kinderbelange des Abs. 3 (Obhut, alternierende Obhut, Betreuungsanteile) — mit den Sachverhalten der publizierten Praxis und den Praxishinweisen."
 tags: ["ZGB", "Familienrecht", "Eheschutz", "Getrenntleben", "Unterhalt", "hypothetisches Einkommen", "Schulstufenmodell", "Überschussverteilung", "Mankotragung", "Konkubinat", "Wohnungszuteilung", "Familienwohnung", "Hausrat", "Gütertrennung", "Obhut", "alternierende Obhut", "Kindeswohl", "Offizialmaxime", "Art. 98 BGG"]
 revisions:
+  - date: 2026-11-26
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    note: "Neuer Unterabschnitt zu C.1: Volljährige und nicht gemeinsame Kinder in der Unterhaltsrechnung, gestützt auf BGer 5A_615/2025 vom 9.9.2026 (zur Publikation vorgesehen) und BGE 147 III 265 E. 7.3. Bestehender Text des Abschnitts «Gebührender Unterhalt und Lebenshaltung» unverändert. Beide Entscheide über entscheidsuche im Volltext gelesen, Trägersätze wörtlich kopiert."
   - date: 2026-11-17
     by: "Antigravity (Commentary Editor)"
     model: "antigravity"
@@ -132,6 +136,14 @@ Das Gesetz schreibt keine Berechnungsmethode vor. In der Praxis hat sich die **z
 ### Gebührender Unterhalt und Lebenshaltung
 
 Der Unterhalt knüpft an den in der Ehe zuletzt gelebten Standard an, auf dessen Fortführung bei genügenden Mitteln beide Ehegatten Anspruch haben. Ausgangspunkt ist der gebührende Unterhalt; der berechtigte Ehegatte muss sich anrechnen lassen, was er mit eigenen Einkünften zu decken in der Lage ist. Verbleibt eine Differenz, wird der Beitrag nach Massgabe der Leistungsfähigkeit des Pflichtigen festgesetzt ([BGE 140 III 485 E. 3.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)). Hat sich der gelebte Standard vom Leistungsvermögen entfernt, ist bei guten Verhältnissen die **einstufig-konkrete Methode** (konkrete Bedarfsermittlung) sachgerecht; wird stattdessen die Methode des — um einzelne Positionen erweiterten — Existenzminimums mit Überschussverteilung angewandt, kann dies die Bemessung verzerren ([BGE 140 III 485 E. 3.4–3.5.1](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-485_2014.html)).
+
+### Volljährige und nicht gemeinsame Kinder in der Unterhaltsrechnung
+
+Der Ehegattenunterhalt geht dem Unterhalt volljähriger Kinder (Art. 277 Abs. 2 ZGB) nur bis zur Deckung des familienrechtlichen Existenzminimums vor. Ist dieses gedeckt, «haben die Eltern aus verbleibenden Mitteln den Volljährigenunterhalt zu bestreiten»; erst danach kann ein zu verteilender Überschuss entstehen ([BGE 147 III 265 E. 7.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-265_2021.html#consideration_7.3)). Beiträge an gemeinsame volljährige Kinder dürfen deshalb vor der Überschussteilung vom verfügbaren Einkommen des Pflichtigen abgezogen werden. Für ein Kind nur eines Ehegatten gilt das nicht: Der andere Ehegatte ist ihm nicht unterhaltspflichtig, sondern schuldet dem Elternteil allenfalls Beistand (Art. 278 Abs. 2 ZGB; bei ausserehelich geborenen Kindern Art. 159 Abs. 3 ZGB). Diese Pflicht ist subsidiär zur Unterhaltspflicht der leiblichen Eltern und weiter beschränkt (dazu [Art. 159 ZGB](../art-159) und [Art. 163 ZGB](../art-163)). Sind ihre Voraussetzungen erfüllt, wird der Beitrag an das Kind erst bei der Überschussverteilung berücksichtigt, indem dem unterhaltspflichtigen Elternteil nach Ermessen ein grösserer Anteil am Überschuss zugewiesen werden kann.
+
+In [BGer 5A_615/2025 vom 9. September 2026](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-615-2025_2026-09-09.html) (zur Publikation vorgesehen) hatten die Ehegatten drei gemeinsame, volljährige Töchter; eine weitere Tochter des Ehemannes aus einer ausserehelichen Beziehung war 2005 zur Welt gekommen. Im Verfahren auf Abänderung vorsorglicher Massnahmen zog das Kantonsgericht Freiburg die Beiträge des Ehemannes an zwei gemeinsame Töchter (Fr. 634 und Fr. 600) und an die nicht gemeinsame Tochter (Fr. 900) gleichermassen von seinem verfügbaren Einkommen ab und teilte erst den Rest. Das Bundesgericht bestätigte das Vorgehen für die gemeinsamen Töchter (E. 4.3.1). Für die nicht gemeinsame Tochter hielt es die Gleichbehandlung für willkürlich, weil das Kantonsgericht die Voraussetzungen der Beistandspflicht, namentlich die Ausschöpfung der Erwerbskraft beider leiblicher Eltern, nicht geprüft hatte; es wies die Sache zurück und gab vor, dass der Beitrag bei bestehender Beistandspflicht erst bei der Teilung des Überschusses zu berücksichtigen und nicht vorab abzuziehen ist (E. 4.3.2).
+
+> **Leitsatz.** Beiträge an gemeinsame volljährige Kinder werden vor der Überschussteilung abgezogen; Beiträge an ein Kind nur eines Ehegatten werden, soweit der andere Ehegatte Beistand schuldet, erst bei der Überschussverteilung berücksichtigt ([BGer 5A_615/2025](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-615-2025_2026-09-09.html) E. 4.3.1–4.3.2).
 
 ### Kasuistik: angewandt vs. verworfen
 
