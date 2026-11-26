@@ -2,10 +2,14 @@
 title: "Art. 163 — Ehegattenunterhalt / Familienunterhalt"
 weight: 163
 date: "2026-06-28"
-lastmod: 2026-10-15
+lastmod: 2026-11-26
 description: "Kommentar zu Art. 163 ZGB – Unterhaltspflicht der Ehegatten: Familienunterhalt, Beitragsarten, Bemessungsgrundsätze, Existenzminimum, hypothetisches Einkommen"
 tags: ["ZGB", "Ehegattenunterhalt", "Familienunterhalt", "Eherecht", "Unterhaltspflicht", "Existenzminimum"]
 revisions:
+  - date: 2026-11-26
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    note: "Abschnitt VII nach BGer 5A_615/2025 (9.9.2026, zur Publ. vorgesehen) und BGE 147 III 265 E. 7.3 neu gefasst: Vorrang des Ehegatten- vor dem Volljährigenunterhalt nur bis zum familienrechtlichen Existenzminimum; neue Rz. 19a zu Kindern nur eines Ehegatten. Alte Rz. 19 (genereller Vorrang des Ehegatten- vor dem Kindesunterhalt) widersprach Art. 276a Abs. 1 ZGB und wurde ersetzt. Entscheide via entscheidsuche im Volltext gelesen."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -82,9 +86,13 @@ revisions:
 
 ### VII. Rangfolge der Unterhaltsansprüche
 
-**18** Die Unterhaltspflicht gegenüber dem Ehegatten geht derjenigen gegenüber dem mündigen Kind **vor**. Die Unterhaltskosten für das mündige Kind dürfen folglich nicht in das (erweiterte) Existenzminimum des unterhaltspflichtigen Ehegatten eingeschlossen werden, wenn der Ehegattenunterhalt nach Art. 163 ZGB festzusetzen ist ([BGE 132 III 209](https://mcp.opencaselaw.ch/entscheid/bge_BGE_132_III_209)). Diese Rangfolge gilt auch bei vorsorglichen Massnahmen im Scheidungsverfahren.
+**18** **Minderjährige Kinder.** Die Unterhaltspflicht gegenüber dem minderjährigen Kind geht den anderen familienrechtlichen Unterhaltspflichten vor (Art. 276a Abs. 1 ZGB). Bei der zweistufigen Methode ist dem Unterhaltsverpflichteten vorab das eigene betreibungsrechtliche Existenzminimum zu belassen; aus den weiteren Mitteln sind der Barunterhalt der minderjährigen Kinder, danach der Betreuungsunterhalt und erst dann der eheliche oder nacheheliche Unterhalt zu decken, zunächst auf der Basis des betreibungsrechtlichen und sodann in derselben Reihenfolge bis zum familienrechtlichen Existenzminimum ([BGE 147 III 265 E. 7.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-265_2021.html#consideration_7.3)).
 
-**19** **Rangfolge im Unterhaltskonflikt.** Bei ungenügendem Einkommen des Unterhaltspflichtigen zur Deckung mehrerer Unterhaltsansprüche (Ehegatte und Kinder) hat der Ehegattenunterhalt Vorrang vor dem Kindesunterhalt. Dies gilt auch bei der Bemessung nach Art. 285 ZGB. Die Prozessmaximen haben dabei Auswirkungen auf die Bemessung des Ehegattenunterhalts ([BGE 147 III 301](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_III_301)).
+**19** **Volljährige Kinder.** Der Unterhalt des Ehegatten geht dem Volljährigenunterhalt (Art. 277 Abs. 2 ZGB) vor, aber nur bis zur Deckung des familienrechtlichen Existenzminimums. Der Volljährigenunterhalt steht hinter dem familienrechtlichen Existenzminimum der übrigen Familienmitglieder zurück; ist dieses gedeckt, «haben die Eltern aus verbleibenden Mitteln den Volljährigenunterhalt zu bestreiten», und ein zu verteilender Überschuss kann erst entstehen, wenn diese Verpflichtung erfüllt ist. Die frühere Praxis, die dem Pflichtigen beim Volljährigenunterhalt einen um 20 % erweiterten Notbedarf beliess, hat das Bundesgericht dahin präzisiert, dass den unterhaltspflichtigen Eltern das familienrechtliche Existenzminimum zu belassen ist ([BGE 147 III 265 E. 7.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-265_2021.html#consideration_7.3)).
+
+Daran knüpft das zur Publikation vorgesehene Urteil [BGer 5A_615/2025 vom 9. September 2026](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-615-2025_2026-09-09.html) an: Die Kosten des volljährigen Kindes gehören nicht in das erweiterte Existenzminimum des Pflichtigen; der absolute Vorrang des Ehegattenunterhalts gilt aber nur bis zur Deckung von dessen familienrechtlichem Existenzminimum (E. 4.1.1). Das Kantonsgericht Freiburg hatte im Verfahren auf Abänderung vorsorglicher Massnahmen im Scheidungsprozess die Beiträge des Ehemannes an zwei gemeinsame volljährige Töchter (Fr. 634 und Fr. 600) von dessen verfügbarem Einkommen abgezogen, bevor es den Rest zwischen den Ehegatten teilte. Das Bundesgericht hielt dies nicht für willkürlich (E. 4.3.1).
+
+**19a** **Kinder nur eines Ehegatten.** Anders verhält es sich beim Unterhalt für ein Kind, das nur einer der Ehegatten hat. Der andere Ehegatte ist ihm nicht unterhaltspflichtig, schuldet aber seinem Ehegatten Beistand: bei vorehelichen Kindern nach Art. 278 Abs. 2 ZGB, bei ausserehelich geborenen Kindern gestützt auf Art. 159 Abs. 3 ZGB ([Art. 159 ZGB](../art-159)). Diese Pflicht ist subsidiär zur Unterhaltspflicht der leiblichen Eltern, setzt voraus, dass das Existenzminimum des Beistandspflichtigen und seiner Kinder gedeckt ist – beim volljährigen Kind das familienrechtliche –, und darf nicht dazu führen, dass der Beitrag an das Kind höher ausfällt, als wenn der Elternteil nicht verheiratet wäre ([BGer 5A_615/2025](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-615-2025_2026-09-09.html) E. 4.1.2.2). Der Beitrag an ein solches Kind darf deshalb nicht wie jener an gemeinsame Kinder vorweg abgezogen werden. Sind die Voraussetzungen der Beistandspflicht erfüllt, wird er erst bei der Überschussverteilung berücksichtigt, indem dem unterhaltspflichtigen Elternteil nach Ermessen ein grösserer Anteil am Überschuss zugewiesen werden kann (E. 4.1.2.3, 4.3.2). Im genannten Fall hatte das Kantonsgericht den Beitrag von Fr. 900 an die ausserehelich geborene, volljährige Tochter des Ehemannes gleich behandelt wie jene an die gemeinsamen Töchter, ohne die Voraussetzungen der Beistandspflicht zu prüfen, namentlich ob die Erwerbskraft der leiblichen Eltern ausgeschöpft war; das Bundesgericht wertete dies als willkürlich und wies die Sache zurück (E. 4.3.2). Nicht ausdrücklich behandelt das Urteil, wie sich diese Lösung zur Regel von BGE 147 III 265 E. 7.3 verhält, wonach ein Überschuss erst nach Erfüllung des Volljährigenunterhalts entsteht, wenn die Beistandspflicht verneint wird und der Vater den Beitrag aus seinem eigenen Überschussanteil zu bestreiten hat.
 
 ### VIII. Konkubinat und ausserrechtliche Einflüsse
 
