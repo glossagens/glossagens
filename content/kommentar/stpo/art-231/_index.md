@@ -2,10 +2,14 @@
 title: "Art. 231 — Sicherheitshaft nach erstinstanzlichem Urteil"
 weight: 231
 date: 2026-07-11
-lastmod: 2026-10-15
+lastmod: 2026-11-26
 description: "Kommentar zu Art. 231 StPO – Sicherheitshaft nach erstinstanzlichem Urteil"
 tags: ["StPO", "Sicherheitshaft", "Zwangsmassnahmen", "Haftrecht", "Berufungsverfahren"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Einarbeitung von BGer 7B_1432/2026 vom 12.11.2026: Zuständigkeit des Sachgerichts gemäss Art. 231 Abs. 1 lit. a StPO i.V.m. Art. 221 StPO bei stationären Massnahmen, Verdichtung des dringenden Tatverdachts durch erstinstanzliches Sachurteil, Fluchtgefahr bei Art. 59 StGB infolge fehlender Behandlungseinsicht sowie Überhaftprüfung (Art. 212 Abs. 3 StPO) bei Schuldunfähigkeit anhand der mutmasslichen Massnahmedauer."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -30,21 +34,23 @@ Die Vorschrift differenziert zwischen drei Konstellationen: der Verurteilung mit
 
 ### II. Verurteilte Person: Haftentscheid mit dem Urteil (Abs. 1)
 
-**Zuständigkeit:** Das erstinstanzliche Gericht entscheidet *mit* dem Urteil — also in derselben Verfügung — über die Sicherheitshaft. Dies unterscheidet Art. 231 Abs. 1 StPO von der vorherigen Phase, in der das Zwangsmassnahmengericht zuständig war (Art. 229 StPO). Der Entscheid ist Teil des Urteils und unterliegt denselben Rechtsmitteln wie das Urteil ([BGE 139 IV 179](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_179), E. 2.1).
+**Zuständigkeit:** Das erstinstanzliche Gericht entscheidet *mit* dem Urteil — also in derselben Verfügung — über die Sicherheitshaft. Dies unterscheidet Art. 231 Abs. 1 StPO von der vorherigen Phase, in der das Zwangsmassnahmengericht zuständig war (Art. 229 StPO). Das Sachgericht entscheidet mit dem Sachurteil namentlich darüber, ob eine zu einer Massnahme verurteilte Person in Sicherheitshaft versetzt oder darin belassen wird (Art. 231 Abs. 1 lit. a StPO; [BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026), E. 3). Der Entscheid ist Teil des Urteils und unterliegt denselben Rechtsmitteln wie das Urteil ([BGE 139 IV 179](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_179), E. 2.1).
 
 **Zwei Haftzwecke (lit. a und lit. b):**
 
-- **lit. a — Sicherung des Straf- oder Massnahmenvollzuges:** Die Sicherheitshaft dient hier der Gewährleistung, dass die verurteilte Person dem Vollzug der Strafe oder Massnahme zugeführt werden kann. Haftgrund ist in der Regel die Fluchtgefahr (Art. 221 Abs. 1 lit. a StPO) oder die Ausführungsgefahr (Art. 221 Abs. 2 StPO). Die Landesverweisung nach Art. 66a Abs. 1 lit. b StGB ist eine strafrechtliche Massnahme, so dass Art. 231 Abs. 1 lit. a StPO zusammen mit Art. 220 Abs. 2 StPO eine hinreichende gesetzliche Grundlage für die Sicherheitshaft zur Gewährleistung einer Landesverweisung darstellt ([BGE 143 IV 168](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_168), E. 5.2). Die Sicherheitshaft verhältnismässig ist, wenn die Anordnung der Landesverweisung als wahrscheinlich erscheint und mildere Massnahmen nicht genügen.
+- **lit. a — Sicherung des Straf- oder Massnahmenvollzuges:** Die Sicherheitshaft dient hier der Gewährleistung, dass die verurteilte Person dem Vollzug der Strafe oder Massnahme zugeführt werden kann. Die materiellen Haftgründe richten sich auch bei der Anordnung oder Weiterführung der Sicherheitshaft zur Sicherung des Massnahmenvollzugs nach Art. 221 StPO ([BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026), E. 3). Haftgrund ist in der Regel die Fluchtgefahr (Art. 221 Abs. 1 lit. a StPO) oder die Ausführungsgefahr (Art. 221 Abs. 2 StPO). Eine ausgeprägte Fluchtgefahr liegt namentlich dann vor, wenn eine stationäre therapeutische Massnahme nach Art. 59 StGB droht und die betroffene Person keine Einsicht in die Notwendigkeit einer Behandlung zeigt; die Aussicht auf einen mehrjährigen stationären Freiheitsentzug erzeugt zusammen mit engen Auslandsbeziehungen (z. B. Staatsangehörigkeit und soziale Kontakte im Herkunftsland) einen erheblichen Fluchtanreiz ([BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026), E. 5.1–5.3). Die Landesverweisung nach Art. 66a Abs. 1 lit. b StGB ist ebenfalls eine strafrechtliche Massnahme, so dass Art. 231 Abs. 1 lit. a StPO zusammen mit Art. 220 Abs. 2 StPO eine hinreichende gesetzliche Grundlage für die Sicherheitshaft zur Gewährleistung einer Landesverweisung darstellt ([BGE 143 IV 168](https://mcp.opencaselaw.ch/entscheid/bge_BGE_143_IV_168), E. 5.2). Die Sicherheitshaft ist verhältnismässig, wenn die Anordnung der Landesverweisung als wahrscheinlich erscheint und mildere Massnahmen nicht genügen.
 
 - **lit. b — Hinblick auf das Berufungsverfahren:** Die Sicherheitshaft sichert das anhängige oder drohende Berufungsverfahren. Auch hier sind die allgemeinen Haftgründe nach Art. 221 StPO kumulativ erforderlich. Die bloss rechtliche Möglichkeit einer Berufung genügt nicht; es müssen konkrete Anhaltspunkte für Flucht- oder Kollusionsgefahr vorliegen.
 
-**Voraussetzungen:** Die allgemeinen Voraussetzungen für Sicherheitshaft (Art. 220 Abs. 2 StPO) müssen erfüllt sein: ein Haftgrund nach Art. 221 StPO, Verhältnismässigkeit (Art. 3 Abs. 1 StPO) und die Subsidiarität gegenüber milderen Massnahmen (Art. 237 StPO). Liegt die verurteilte Person bereits in Untersuchungshaft, so wird diese mit dem Urteil in Sicherheitshaft umgewandelt; einer separaten Anordnung bedarf es nur, wenn sich die Haftgrundlage ändert ([BGE 146 IV 279](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_279), E. 2).
+**Voraussetzungen und Verdichtung des Tatverdachts:** Die allgemeinen Voraussetzungen für Sicherheitshaft (Art. 220 Abs. 2 StPO) müssen erfüllt sein: ein Haftgrund nach Art. 221 StPO, Verhältnismässigkeit (Art. 3 Abs. 1, Art. 212 Abs. 3 StPO) und die Subsidiarität gegenüber milderen Massnahmen (Art. 237 StPO). Liegt die verurteilte Person bereits in Untersuchungshaft, so wird diese mit dem Urteil in Sicherheitshaft umgewandelt; einer separaten Anordnung bedarf es nur, wenn sich die Haftgrundlage ändert ([BGE 146 IV 279](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_279), E. 2). Ein erstinstanzliches Sachurteil führt zu einer massgeblichen Verdichtung des dringenden Tatverdachts: Das Sachgericht hat sich nach durchgeführtem Beweisverfahren von der Tatbegehung überzeugt. Im nachfolgenden Haftprüfungsverfahren können Einwände gegen den Tatverdacht daher nur noch durchdringen, wenn besonders gewichtige gegenteilige Anhaltspunkte vorliegen ([BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026), E. 4.1–4.2).
 
 ### III. Dauer der Sicherheitshaft nach dem Urteil
 
 Die Begrenzung der Haftdauer gilt auch für die Sicherheitshaft nach dem Urteil. Die massgebliche Praxis grenzt die zulässige Dauer auf **längstens 3 Monate** (Regel) bzw. **längstens 6 Monate** (Ausnahme) ein, analog zu Art. 227 Abs. 7 StPO ([BGE 139 IV 94](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_94), E. 2.3.1). Nach Ablauf der Frist hat das Gericht die Haftvoraussetzungen von Amtes wegen neu zu prüfen und die Haft gegebenenfalls für eine bestimmte Dauer zu verlängern.
 
 Die 3-Monats-Regel ist die Regel, die 6-Monats-Frist die Ausnahme. Die 6-Monats-Frist ist nur bei besonderen Gründen anwendbar, insbesondere wenn das erstinstanzliche Gericht aufgrund der Umstände und mit Blick auf das besondere Beschleunigungsgebot in Haftsachen in der Lage sein müsste, die Hauptverhandlung innert 3 Monaten anzusetzen ([BGE 146 IV 279](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_IV_279), E. 3).
+
+**Überhaftprüfung bei stationären Massnahmen (Art. 212 Abs. 3 StPO):** Nach Art. 212 Abs. 3 StPO darf die Haft nicht länger dauern als die zu erwartende Freiheitsstrafe. Wird die beschuldigte Person jedoch infolge Schuldunfähigkeit von einer Strafe befreit und ordnet das Sachgericht ausschliesslich eine stationäre Massnahme nach Art. 59 StGB an, bemisst sich die zulässige Haftdauer nicht nach einer hypothetischen Freiheitsstrafe, sondern nach der mutmasslichen Dauer der Massnahme. Da Art. 59 Abs. 4 StGB für die stationäre therapeutische Massnahme einen mit Freiheitsentzug verbundenen Aufenthalt von in der Regel fünf Jahren vorsieht, bildet diese Regelfrist den massgeblichen zeitlichen Rahmen für die Verhältnismässigkeitsprüfung; eine bisherige Haftdauer von rund 16 Monaten stellt unter diesen Umständen keine unzulässige Überhaft dar ([BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026), E. 6.1–6.2).
 
 ### IV. Begründungsanforderungen des Haftverlängerungsentscheids
 
@@ -78,8 +84,9 @@ Wird eine Berufung zurückgezogen, so entscheidet das erstinstanzliche Gericht �
 
 ### IX. Verhältnis zu anderen Bestimmungen
 
+- **Art. 212 Abs. 3 StPO**: Verbot der Überhaft. Wurde wegen Schuldunfähigkeit von einer Strafe abgesehen und ausschliesslich eine stationäre Massnahme nach Art. 59 StGB angeordnet, richtet sich die zulässige Höchstdauer der Sicherheitshaft nach der mutmasslichen Dauer der Massnahme (fünfjährige Regelfrist nach Art. 59 Abs. 4 StGB) und nicht nach einer hypothetischen Freiheitsstrafe ([BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026), E. 6.1).
 - **Art. 220 StPO**: Definiert Untersuchungshaft (Abs. 1) und Sicherheitshaft (Abs. 2) als eigenständige Haftformen. Art. 231 StPO konkretisiert die Sicherheitshaft für die Phase nach dem Urteil.
-- **Art. 221 StPO**: Die allgemeinen Haftgründe (Fluchtgefahr, Kollusionsgefahr, Ausführungsgefahr) müssen auch bei Art. 231 StPO kumulativ vorliegen.
+- **Art. 221 StPO**: Die allgemeinen Haftgründe (Fluchtgefahr, Kollusionsgefahr, Wiederholungs- und Ausführungsgefahr) müssen auch bei Art. 231 StPO kumulativ vorliegen. Bei drohender Massnahme nach Art. 59 StGB begründen fehlende Behandlungseinsicht und drohender mehrjähriger Freiheitsentzug regelmässig erhebliche Fluchtgefahr ([BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026), E. 3, 5.1).
 - **Art. 224 StPO**: Haftverfahren vor der Staatsanwaltschaft — sinngemäss anwendbar im erstinstanzlichen Verfahren nach Anklageerhebung.
 - **Art. 227 StPO**: Verfahren bei Untersuchungshaft — die periodische Überprüfung (Abs. 7) gilt *nicht* für die Sicherheitshaft im Berufungsverfahren gemäss Art. 231 Abs. 2 StPO.
 - **Art. 229 StPO**: Anordnung der Sicherheitshaft durch das Zwangsmassnahmengericht vor dem Urteil — Art. 231 StPO überführt die Kompetenz auf das erstinstanzliche Gericht.

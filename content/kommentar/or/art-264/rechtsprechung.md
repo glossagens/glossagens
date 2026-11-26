@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 264 OR"
 weight: 99
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-11-26
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 264 OR (vorzeitige Rückgabe der Mietsache, Ersatzmietergestellung und Schadenminderungspflicht)."
 tags: ["Rechtsprechung", "OR", "Mietrecht", "Vorzeitige Rückgabe", "Ersatzmieter", "Schadenminderung"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Entscheid des Mietgerichts Zürich MH260002-L vom 16.11.2026 (ZMP 2026 Nr. 18) zur systematischen Abgrenzung von Art. 264 OR zu Art. 257d OR (Schadenersatz statt Mietzinsanspruch, Schadensminderung und Substantiierungslast des Vermieters) aufgenommen."
   - date: 2026-09-11
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -127,6 +131,15 @@ revisions:
 
 ---
 
+### [Mietgericht Zürich, MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L) (16. November 2026, ZMP 2026 Nr. 18)
+- **Kanton**: Zürich
+- **Thema**: Systematische Abgrenzung von Art. 264 OR zu Art. 257d OR; Schadenersatz statt Mietzinsanspruch; Schadenminderungsobliegenheit und Substantiierungslast des Vermieters
+- **Sachverhalt**: Die Vermieterin kündigte ein Geschäftsraummietverhältnis wegen Zahlungsrückstands ausserordentlich nach Art. 257d OR per 31. März 2024. Die Mieterin verliess das Mietobjekt erst am 30. April 2024 unter dem Eindruck eines Ausweisungsverfahrens, ohne sich um eine Ersatzmieterschaft zu kümmern. Die Vermieterin forderte neben den offenen Mietzinsen bis zur Rückgabe auch Schadenersatz für den Mietzinsausfall von Mai bis August 2024 (Ablauf der festen Vertragsdauer). Als Beleg für ihre Weitervermietungsbemühungen legte die Vermieterin lediglich eine Liste mit zehn Interessenten vor, ohne Inserate, Schaltungsdaten, Konditionen, Besichtigungsprotokolle oder Absagen einzureichen; zudem widersprachen sich ihre Parteivorbringen zum tatsächlichen Wiedervermietungszeitpunkt.
+- **Kernaussage**: Im Unterschied zur vorzeitigen Rückgabe der Mietsache nach Art. 264 OR, bei welcher das Mietverhältnis fortbesteht und die vertragliche Mietzinsverpflichtung des Mieters bis zum ordentlichen Beendigungstermin aufrecht bleibt, führt die Zahlungsverzugskündigung nach Art. 257d OR zur Beendigung des Mietverhältnisses. Der Vermieter kann für den nach Beendigung eingetretenen Ausfall keinen Mietzins, sondern nur echten Schadenersatz nach Art. 97 OR verlangen. Die Vermieterin kann sich bei Art. 257d OR nicht darauf berufen, dass die Mieterin keinen Ersatzmieter gestellt habe. Vielmehr obliegen die Verantwortung für die unverzügliche Weitervermietung (Schadenminderungsobliegenheit nach Art. 44 OR) sowie der volle Beweis des Schadens ausschliesslich der Vermieterin. Die Weitervermietungsbemühungen und der Schaden müssen substantiiert dargelegt und bewiesen werden; eine blosse Interessentenliste ohne nähere Belege genügt nicht und führt zur Abweisung der Schadenersatzklage.
+- **Einschlägig für**: Art. 264 Abs. 1 und 2 OR i.V.m. Art. 257d OR (Systematische Abgrenzung, Schadenersatz vs. Mietzinsanspruch, Schadenminderungsobliegenheit)
+
+---
+
 ### [Kantonsgericht Graubünden, ZK2 2012 9](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_007_ZK2-2012-9_2013-01-07.pdf) (7. Januar 2013)
 - **Kanton**: Graubünden
 - **Thema**: Gesetzliche Genüge eines einzigen tauglichen Ersatzmieters; Ablehnung der «Drei-Mieter-Regel»
@@ -135,4 +148,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 11. September 2026*
+*Letzte Aktualisierung: 26. November 2026*

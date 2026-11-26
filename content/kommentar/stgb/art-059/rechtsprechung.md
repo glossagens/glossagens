@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 59 StGB"
 weight: 99
 date: 2026-09-05
-lastmod: 2026-11-04
-description: "Übersicht der Rechtsprechung zu Art. 59 StGB — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung, Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung (BGer 7B_1244/2025)."
-tags: ["Rechtsprechung", "StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Verwahrung", "Allgemeiner Teil"]
+lastmod: 2026-11-26
+description: "Übersicht der Rechtsprechung zu Art. 59 StGB — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung, Aufhebung wegen Aussichtslosigkeit, Umwandlung in Verwahrung (BGer 7B_1244/2025) sowie Sicherungshaft und Überhaft (BGer 7B_1432/2026)."
+tags: ["Rechtsprechung", "StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Verwahrung", "Allgemeiner Teil", "Sicherheitshaft"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aufnahme von BGer 7B_1432/2026 vom 12.11.2026: Sicherheitshaft zur Sicherung des Massnahmenvollzugs (Art. 231 StPO), Fluchtgefahr bei fehlender Einsicht und Überhaftprüfung bei stationärer Massnahme ohne Strafe (Art. 212 Abs. 3 StPO i.V.m. Art. 59 Abs. 4 StGB)."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -127,6 +131,26 @@ revisions:
 
 ---
 
+### [BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026) E. 5.1–5.3, 6.1–6.2 — Sicherheitshaft zur Sicherung des Massnahmenvollzugs; Fluchtgefahr bei fehlender Einsicht und Massstab des Überhaftverbots
+
+- **Thema**: Sicherheitshaft im Rechtsmittelverfahren zur Sicherung der stationären Massnahme (Art. 231 Abs. 1 StPO); Fluchtgefahr (Art. 221 Abs. 1 lit. a StPO) bei fehlender Krankheitseinsicht und drohendem Freiheitsentzug; Verhältnismässigkeit und Überhaftverbot (Art. 212 Abs. 3 StPO) bei schuldunfähigem Täter nach Massgabe der mutmasslichen Massnahmedauer (Art. 59 Abs. 4 StGB).
+- **Sachverhalt**: A. wurde beschuldigt, Mitbewohner mit dem Tod und einem Bombenanschlag bedroht, eine «Mordliste» geführt, eine Zimmertür mit einem Morgenstern traktiert sowie Vorbereitungshandlungen zu einem Amoklauf getroffen zu haben (Hausdurchsuchung förderte u.a. Samuraischwerter, ein Beil, einen Morgenstern, Wurfmesser, Munition für das Sturmgewehr 90 und Feuerwerkskörper zutage). Das erstinstanzliche Gericht (Kreisgericht Rorschach) stellte fest, dass A. die Tatbestände der Drohung und der strafbaren Vorbereitungshandlungen zu mehrfachem Mord und Brandstiftung erfüllt hatte, sprach ihn jedoch wegen schuldunfähigkeitsbegründender schizoaffektiver Störung von Strafe frei und ordnete eine stationäre therapeutische Massnahme nach Art. 59 StGB an. Zugleich behielt es ihn bis zum Massnahmenantritt in Sicherheitshaft. A. erhob Berufung und verlangte Haftentlassung. Die Anklagekammer des Kantons St. Gallen und das Bundesgericht wiesen seine Haftbeschwerde ab.
+- **Kernaussage**:
+  1. *Sicherung des Massnahmenvollzugs*: Im Rechtsmittelstadium nach erstinstanzlicher Anordnung einer Massnahme nach Art. 59 StGB dient die Sicherheitshaft nach Art. 231 Abs. 1 StPO der Sicherung des bevorstehenden Massnahmenvollzugs.
+  2. *Fluchtgefahr*: Fehlende Einsicht des Betroffenen in seine psychische Störung und die Behandlungsbedürftigkeit («es sei nicht sein Problem, sondern von den Leuten ausgelöst worden; sonst gehe er nach Deutschland») gepaart mit der Aussicht auf einen mehrjährigen Freiheitsentzug im Rahmen von Art. 59 StGB begründen bei vorhandenem Auslandsbezug eine konkrete Fluchtgefahr (Art. 221 Abs. 1 lit. a StPO), da die drohende Massnahme einen erheblichen Fluchtanreiz setzt.
+  3. *Überhaftprüfung bei Massnahmen*: Droht der Vollzug einer freiheitsentziehenden Massnahme, ist die strafprozessuale Haft verhältnismässig, wenn ernsthaft mit einer Massnahme zu rechnen ist, deren Gesamtvollzug deutlich länger dauern könnte als die bisher erstandene Haft (BGE 126 I 172). Wurde der Täter wegen Schuldunfähigkeit von Strafe freigesprochen, beurteilt sich das Überhaftverbot (Art. 212 Abs. 3 StPO) nicht nach einer hypothetischen Freiheitsstrafe, sondern nach der voraussichtlichen Dauer der stationären Behandlung gemäss Art. 59 Abs. 4 StGB (Regelhöchstdauer von fünf Jahren).
+- **Einschlägig für**: Art. 59 Abs. 1 und Abs. 4 StGB, Art. 212 Abs. 3 StPO, Art. 221 Abs. 1 lit. a StPO, Art. 231 Abs. 1 StPO.
+
+---
+
+### [BGer 7B_208/2026 vom 04.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=04.09.2026_7B_208/2026) — Verlängerung nach Art. 59 Abs. 4 StGB und Begründungspflicht bei Abweichung vom Gutachten
+
+- **Thema**: Gesetzliche Anforderungen an die gerichtliche Verlängerung der stationären Massnahme; Bindung an das psychiatrische Sachverständigengutachten und Willkürverbot (Art. 9 BV).
+- **Kernaussage**: Teilweise Gutheissung. Das Bundesgericht hebt die Verlängerung einer stationären therapeutischen Massnahme auf, weil die Vorinstanz das Rückfallrisiko und die Therapiefähigkeit willkürlich beurteilte. Es schärft ein: Will das Gericht bei der Beurteilung der Legalprognose und der Fortführungsbedürftigkeit von den Feststellungen des forensisch-psychiatrischen Sachverständigen abweichen, bedarf dies einer ausdrücklichen und stichhaltigen sachlichen Rechtfertigung. Eine unbegründete Verschärfung der Risikoeinschätzung durch das Gericht verletzt Bundesrecht.
+- **Einschlägig für**: Art. 59 Abs. 4 StGB, Art. 56 Abs. 3 StGB, Art. 9 BV.
+
+---
+
 ## III. Kantonale Entscheide
 
 ### [ZH VG VB.2015.00466 vom 2. März 2016](https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2015-00466_2016-03-02.html) — Aufhebung wegen Aussichtslosigkeit nach langjährigem Vollzug
@@ -206,11 +230,3 @@ revisions:
 - **Thema**: Anordnung einer stationären therapeutischen Massnahme nach Art. 59 StGB bei schuldunfähigem Täter.
 - **Kernaussage**: Bei schuldunfähigen Personen kann eine stationäre Massnahme nach Art. 59 StGB angeordnet werden, wenn die Voraussetzungen von Art. 59 Abs. 1 StGB erfüllt sind.
 - **Einschlägig für**: Art. 59 Abs. 1, Art. 19 Abs. 1 und 3 StGB.
-
----
-
-### [BGer 7B_208/2026 vom 04.09.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=04.09.2026_7B_208/2026) — Verlängerung nach Art. 59 Abs. 4 StGB und Begründungspflicht bei Abweichung vom Gutachten
-
-- **Thema**: Gesetzliche Anforderungen an die gerichtliche Verlängerung der stationären Massnahme; Bindung an das psychiatrische Sachverständigengutachten und Willkürverbot (Art. 9 BV).
-- **Kernaussage**: Teilweise Gutheissung. Das Bundesgericht hebt die Verlängerung einer stationären therapeutischen Massnahme auf, weil die Vorinstanz das Rückfallrisiko und die Therapiefähigkeit willkürlich beurteilte. Es schärft ein: Will das Gericht bei der Beurteilung der Legalprognose und der Fortführungsbedürftigkeit von den Feststellungen des forensisch-psychiatrischen Sachverständigen abweichen, bedarf dies einer ausdrücklichen und stichhaltigen sachlichen Rechtfertigung. Eine unbegründete Verschärfung der Risikoeinschätzung durch das Gericht verletzt Bundesrecht.
-- **Einschlägig für**: Art. 59 Abs. 4 StGB, Art. 56 Abs. 3 StGB, Art. 9 BV.

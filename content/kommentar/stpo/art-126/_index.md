@@ -5,6 +5,11 @@ date: 2026-07-11
 description: "Kommentar zu Art. 126 StPO – Entscheid über die Zivilklage"
 tags: ["StPO", "Zivilklage", "Zivilanspruch", "Adhäsionsverfahren", "Privatklägerschaft", "Verweisung Zivilweg"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Leitentscheid BGer 4A_291/2026 vom 02.10.2026 (zur Publikation vorgesehen, Fünferbesetzung) eingearbeitet: Dispositivauslegung bei Vormerknahme der Abtretung an den Staat nach Art. 73 Abs. 2 StGB, definitiver Rechtsöffnungstitel gemäss Art. 80 SchKG und Gutglaubenswirkung nach Art. 167 OR; Querverweise und Fussnoten ergänzt."
+  - date: 2026-10-15
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -17,7 +22,7 @@ revisions:
     by: "Hermes Agent"
     model: "glm-5.1"
     note: "Voll-Audit Schritt 1-6: Gesetzestext mit Fedlex (SR 312.0) verifiziert, alle OCL-Links geprueft (HTTP 200), Frontmatter aktualisiert."
-lastmod: 2026-10-15
+lastmod: 2026-11-26
 ---
 
 ## Gesetzeswortlaut
@@ -53,6 +58,15 @@ In [BGE 146 IV 211, E. 4.2.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_146_I
 #### 4. Massgeblicher Schuldspruch und Strafbefehl
 
 Kommt es zu einer Verurteilung der beschuldigten Person durch Strafbefehl, so obsiegt die Privatklägerschaft als Strafklägerin. Dies hat das Bundesgericht in [BGE 139 IV 102](https://mcp.opencaselaw.ch/entscheid/bge_BGE_139_IV_102) E. 4.3 entschieden. Die Privatklägerschaft ist deshalb für die ihr im Zusammenhang mit der Strafklage erwachsenen Kosten der privaten Verteidigung zu entschädigen (Art. 433 Abs. 1 lit. a StPO). Die Verweisung der Zivilklage auf den Zivilweg führt nicht dazu, dass die Privatklägerschaft in ihrer Funktion als Zivilklägerin als obsiegend oder unterliegend gilt — ausschliesslich mit der Zivilklage zusammenhängende Anwaltskosten sind im Strafverfahren nicht zu entschädigen (E. 4.4).^8
+
+#### 5. Urteilsformel, Rechtsöffnung und Abtretung an den Staat (Art. 73 Abs. 2 StGB)
+
+Entscheidet das Strafgericht nach Art. 126 Abs. 1 lit. a StPO über die Zivilforderung materiell, so bildet das rechtskräftige Strafurteil für die geschützte Forderung einen definitiven Rechtsöffnungstitel nach Art. 80 SchKG. Besondere Bedeutung kommt der Formulierung des Urteilsdispositivs zu, wenn die geschädigte Person Entschädigungs- oder Genugtuungsleistungen des Staates beansprucht oder erhalten hat und ihre Zivilansprüche gemäss Art. 73 Abs. 2 StGB (bzw. nach Opferhilferecht) an das Gemeinwesen abtritt.
+
+In [BGer 4A_291/2026 vom 2. Oktober 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026) (zur Publikation vorgesehen, Fünferbesetzung der I. zivilrechtlichen Abteilung) präzisierte das Bundesgericht die Rechtswirkungen und die Auslegung des Urteilsdispositivs in dieser Konstellation:
+- **Auslegung nach Treu und Glauben**: Verurteilt das Strafgericht den Beschuldigten zur Zahlung an die Privatklägerin und nimmt es im Dispositiv zugleich davon «Vormerk, dass die Privatklägerin ihre Forderung im entsprechenden Umfang an den Staat abgetreten hat», so beurkundet diese Urteilsformel bei objektiver Auslegung nach Treu und Glauben den bereits vollzogenen Übergang der Forderung auf das Gemeinwesen. Es handelt sich nicht um eine unverbindliche Absichtserklärung; der Nachweis eines separaten Zessionsvertrags ausserhalb des Urteils ist entbehrlich (E. 3).
+- **Definitiver Rechtsöffnungstitel für den Staat**: Durch den im Urteil beurkundeten Rechtsübergang wird das Gemeinwesen materieller Gläubiger der zugesprochenen Forderung. Das Strafurteil bildet für den Staat einen definitiven Rechtsöffnungstitel nach Art. 80 SchKG (E. 4).
+- **Keine Befreiungswirkung von Direktzahlungen (Art. 167 OR)**: Zahlt der Verurteilte nach Eintritt der Rechtskraft dennoch direkt an die Privatklägerin, so wird er dadurch gegenüber dem Staat nicht befreit. Da ihm der Forderungsübergang durch das Urteilsdispositiv eröffnet und bekannt war, greift der Gutglaubensschutz von Art. 167 OR nicht (E. 4).^23
 
 ### III. Entscheid bei Freispruch mit spruchreifem Sachverhalt (Abs. 1 lit. b)
 
@@ -137,10 +151,13 @@ Die StPO-Reform vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) hat Art. 126 St
 - Art. 329 StPO — Einstellung des Verfahrens (nicht als Link vorhanden)
 - **[Art. 350 StPO](../art-350)** — Bindung an die Anklage; Grundlage des Urteils
 - Art. 433 StPO — Parteientschädigung (nicht als Link vorhanden)
-- Art. 8 SchKG — Rechtsöffnung (nicht als Link vorhanden)
+- Art. 73 Abs. 2 StGB — Verwendung zugunsten des Geschädigten (nicht als Link vorhanden)
+- Art. 80 SchKG — Definitive Rechtsöffnung (nicht als Link vorhanden)
 - Art. 41 OR — Haftung für Schaden (nicht als Link vorhanden)
 - Art. 42 Abs. 1 OR — Beweislast für Schaden (nicht als Link vorhanden)
 - Art. 50 Abs. 3 OR — Genugtuung (nicht als Link vorhanden)
+- Art. 164 ff. OR — Abtretung von Forderungen (nicht als Link vorhanden)
+- Art. 167 OR — Zahlungen in gutem Glauben (nicht als Link vorhanden)
 - Art. 305^bis Ziff. 2 StGB — Geldwäscherei (nicht als Link vorhanden)
 
 ### IX. Literatur
@@ -177,3 +194,4 @@ Die StPO-Reform vom 17. Juni 2022 (in Kraft seit 1. Januar 2024) hat Art. 126 St
 ^20 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 4.2.3.
 ^21 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 4.2.3.
 ^22 [BGer 6B_28/2018 vom 7. August 2018](https://mcp.opencaselaw.ch/entscheid/bger_6B_28_2018) E. 4.2.3.
+^23 [BGer 4A_291/2026 vom 2. Oktober 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026) E. 3 f. (zur Publikation vorgesehen).

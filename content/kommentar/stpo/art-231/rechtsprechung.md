@@ -2,9 +2,14 @@
 title: "Rechtsprechung zu Art. 231 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-07-11
+lastmod: 2026-11-26
 description: "Übersicht der Entscheide zu Art. 231 StPO – Sicherheitshaft nach dem erstinstanzlichen Urteil"
 tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Haftrecht"]
+revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aufnahme von BGer 7B_1432/2026 vom 12.11.2026: Sicherheitshaft zur Sicherung des Massnahmenvollzugs nach Art. 59 StGB, Verdichtung des Tatverdachts durch Sachurteil, Fluchtgefahr bei Behandlungsuneinsichtigkeit und Überhaftprüfung bei Schuldunfähigkeit anhand der Massnahmedauer."
 ---
 
 ## Leitentscheide (BGE)
@@ -50,6 +55,16 @@ tags: ["Rechtsprechung", "StPO", "Sicherheitshaft", "Haftrecht"]
 - **Einschlägig für**: Art. 5 Ziff. 1 lit. f und Ziff. 3 EMRK; Art. 31 Abs. 3 BV; Art. 212 Abs. 3 StPO; Art. 220 Abs. 2 StPO; Art. 231 Abs. 1 lit. a StPO; Art. 66a Abs. 1 lit. b StGB; Art. 76 Abs. 1 AuG; Landesverweisung; Verhältnismässigkeit
 
 ## Weitere BGer-Entscheide
+
+#### [BGer 7B_1432/2026 vom 12. November 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)
+- **Thema**: Sicherheitshaft zur Sicherung des Massnahmenvollzugs (Art. 59 StGB); Verdichtung des Tatverdachts durch erstinstanzliches Sachurteil; Fluchtgefahr; Überhaftprüfung bei Schuldunfähigkeit
+- **Sachverhalt**: Ein tschechischer Staatsangehöriger befand sich seit rund 16 Monaten in Haft. Das erstinstanzliche Gericht sah wegen vollständiger Schuldunfähigkeit von einer Bestrafung ab, ordnete jedoch eine stationäre therapeutische Massnahme nach Art. 59 StGB an und versetzte ihn gestützt auf Art. 231 Abs. 1 lit. a StPO zur Sicherung des Massnahmenvollzugs in Sicherheitshaft. Dagegen erhob der Betroffene Beschwerde und machte unter anderem fehlenden Tatverdacht, fehlende Fluchtgefahr sowie Überhaft geltend.
+- **Kernaussage**:
+  - *Zuständigkeit und Haftgründe (E. 3)*: Das Sachgericht entscheidet mit dem Sachurteil, ob eine zu einer Massnahme verurteilte Person in Sicherheitshaft versetzt oder darin belassen wird (Art. 231 Abs. 1 lit. a StPO). Die materiellen Haftgründe richten sich nach den allgemeinen Voraussetzungen von Art. 221 StPO.
+  - *Verdichtung des dringenden Tatverdachts (E. 4.1–4.2)*: Das erstinstanzliche Sachurteil verdichtet den Tatverdacht im nachfolgenden Haftprüfungsverfahren so stark, dass er nur noch bei Vorliegen besonders gewichtiger gegenteiliger Anhaltspunkte infrage gestellt werden kann.
+  - *Fluchtgefahr bei stationärer Massnahme (E. 5.1–5.3)*: Fehlende Krankheitseinsicht bzw. Uneinsichtigkeit in die Behandlungsbedürftigkeit sowie die drohende mehrjährige Freiheitsentziehung im Rahmen einer stationären therapeutischen Massnahme (Art. 59 StGB) begründen einen erheblichen Fluchtanreiz, namentlich wenn enge Beziehungen ins Ausland bestehen.
+  - *Überhaftprüfung bei Schuldunfähigkeit (E. 6.1–6.2)*: Wurde wegen Schuldunfähigkeit keine Strafe ausgesprochen, sondern ausschliesslich eine stationäre Massnahme nach Art. 59 StGB angeordnet, bemisst sich die verhältnismässige Haftdauer (Art. 212 Abs. 3 StPO) nicht nach einer hypothetischen Freiheitsstrafe, sondern nach der mutmasslichen Dauer der Massnahme (fünfjährige Regelfrist gemäss Art. 59 Abs. 4 StGB). Bei rund 16 Monaten Haft liegt keine Überhaft vor.
+- **Einschlägig für**: Art. 231 Abs. 1 lit. a StPO; Art. 221 Abs. 1 lit. a StPO; Art. 212 Abs. 3 StPO; Art. 59 StGB; Sicherheitshaft; Massnahmenvollzug; Tatverdacht; Fluchtgefahr; Überhaftprüfung
 
 #### [BGer 1B 106/2021 vom 19. März 2021](https://mcp.opencaselaw.ch/entscheid/bger_1B_106_2021)
 - **Thema**: Sicherheitshaft

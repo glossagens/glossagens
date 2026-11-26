@@ -2,10 +2,14 @@
 title: "Art. 59 — Stationäre Behandlung von psychischen Störungen"
 weight: 59
 date: 2026-09-05
-lastmod: 2026-11-04
-description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung (Begründungspflicht bei Gutachtenabweichung BGer 7B_208/2026), Aufhebung wegen Aussichtslosigkeit und nachträgliche Verwahrung (Extramurales Risiko BGer 7B_1244/2025)."
-tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil", "Gutachten", "Massnahmenverlängerung", "Aussichtslosigkeit"]
+lastmod: 2026-11-26
+description: "Praxisorientierter Kommentar zu Art. 59 StGB: Stationäre therapeutische Massnahme bei psychischen Störungen — Anordnungsvoraussetzungen, Erfolgsprognose, Vollzugsregime, Dauer und Verlängerung (Begründungspflicht bei Gutachtenabweichung BGer 7B_208/2026), Aufhebung wegen Aussichtslosigkeit, nachträgliche Verwahrung (Extramurales Risiko BGer 7B_1244/2025) sowie Sicherheitshaft und Überhaftprüfung (BGer 7B_1432/2026)."
+tags: ["StGB", "Stationäre Massnahme", "Therapeutische Massnahme", "Massnahmenvollzug", "Psychische Störung", "Verwahrung", "Allgemeiner Teil", "Gutachten", "Massnahmenverlängerung", "Aussichtslosigkeit", "Sicherheitshaft"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aufnahme von BGer 7B_1432/2026 vom 12.11.2026: Sicherung des Massnahmenvollzugs durch Sicherheitshaft (Art. 231 StPO), Fluchtgefahr bei fehlender Krankheitseinsicht und Massstab des Überhaftverbots (Art. 212 Abs. 3 StPO) bei stationärer Massnahme ohne Strafe (Regelhöchstdauer gemäss Art. 59 Abs. 4 StGB)."
   - date: 2026-11-04
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -250,6 +254,13 @@ Ein veraltetes oder unvollständiges Gutachten genügt nicht; es muss sich zu de
 
 **31** Der vorzeitige Massnahmeantritt ([Art. 58 Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_58)) stellt für das Sachgericht eine wertvolle Entscheidungshilfe dar. Die im vorzeitigen Vollzug gesammelten Erfahrungen über die Therapiewilligkeit und Behandlungsansprechbarkeit dürfen bei der Prognose berücksichtigt werden. Der vorzeitige Antritt ermöglicht es, die Zeit der Untersuchungshaft sinnvoll zu nutzen, und verhindert, dass die Therapiebereitschaft durch eine längere Haft zerstört wird ([BGE 136 IV 70 E. 2](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-136-IV-70_2010.html)).
 
+### 2bis. Sicherung des Massnahmenvollzugs durch Sicherheitshaft und Überhaftprüfung
+
+**31bis** **Sicherungshaft und Überhaft bei stationärer Massnahme ([BGer 7B_1432/2026 vom 12.11.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)):**
+Wird erstinstanzlich eine stationäre therapeutische Massnahme angeordnet, dient die Anordnung oder Fortführung von Sicherheitshaft im Rechtsmittelverfahren nach Art. 231 Abs. 1 StPO der Sicherung des bevorstehenden Massnahmenvollzugs. Dabei stellen sich im Zusammenspiel mit Art. 59 StGB spezifische prozessuale Fragen:
+- **Fluchtgefahr bei fehlender Krankheitseinsicht (E. 5.1–5.3):** Fehlende Einsicht in die psychische Störung und die Behandlungsnotwendigkeit («es sei nicht sein Problem [...]; sonst gehe er nach Deutschland») begründen zusammen mit der Aussicht auf einen mehrjährigen stationären Freiheitsentzug eine konkrete Fluchtgefahr gemäss Art. 221 Abs. 1 lit. a StPO. Die drohende Massnahme nach Art. 59 StGB setzt namentlich bei Personen mit Auslandsbezug einen starken Fluchtanreiz, der die Fluchtgefahr im Laufe des Verfahrens nicht mindert, sondern noch verstärken kann.
+- **Massstab des Überhaftverbots bei Schuldunfähigkeit (E. 6.1–6.2):** Das Überhaftverbot gemäss Art. 212 Abs. 3 StPO gilt auch für freiheitsentziehende Massnahmen. Wurde der Täter wegen Schuldunfähigkeit von Strafe freigesprochen und ausschliesslich eine Massnahme nach Art. 59 StGB angeordnet, beurteilt sich die Verhältnismässigkeit der strafprozessualen Haft nicht nach einer hypothetischen Freiheitsstrafe, sondern nach der mutmasslichen Dauer der stationären Massnahme. Massgebend ist die gesetzliche Regelhöchstdauer von fünf Jahren (Art. 59 Abs. 4 StGB); solange die bisher erstandene Haft nicht in grosse zeitliche Nähe dieser fünf Jahre rückt und das Gutachten eine länger dauernde Behandlungsbedürftigkeit prognostiziert, liegt keine Überhaft vor.
+
 ### 3. Zuständigkeit bei Aufhebung und nachträglicher Verwahrung
 
 **32** Die Kompetenzen sind zweigeteilt: Die Vollzugsbehörde entscheidet über die Aufhebung wegen Aussichtslosigkeit ([Art. 62c Abs. 1 lit. a StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_62c)); das Sachgericht entscheidet über die Rechtsfolgen nach rechtskräftiger Aufhebung, einschliesslich der nachträglichen Verwahrung ([Art. 62c Abs. 4 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_62c); [BGE 141 IV 49 E. 2.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-49_2015.html)). Das Sachgericht ist dabei nicht an den Antrag oder die Empfehlung der Vollzugsbehörde gebunden.
@@ -287,6 +298,7 @@ Ein veraltetes oder unvollständiges Gutachten genügt nicht; es muss sich zu de
 - Fordern Sie ein aktuelles, umfassendes psychiatrisches Sachverständigengutachten, das sich zu allen drei Fragen nach [Art. 56 Abs. 3 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_56) äussert (Notwendigkeit, Erfolgsaussichten, Vollzugsmöglichkeiten). Ein unvollständiges Gutachten ist keine Entscheidungsgrundlage.
 - Äussern Sie sich in den Urteilserwägungen zur Notwendigkeit eines geschlossenen Vollzugs, ohne ihn im Dispositiv anzuordnen.
 - Bei der Verlängerung nach Abs. 4 prüfen Sie die Verhältnismässigkeit auch in Bezug auf die Dauer — nicht mechanisch fünf Jahre.
+- Zur Sicherung des Massnahmenvollzugs im Rechtsmittelstadium kann Sicherheitshaft angeordnet werden (Art. 231 StPO). Bei schuldunfähigen Tätern ohne Strafe beurteilt sich das Überhaftverbot (Art. 212 Abs. 3 StPO) nach der voraussichtlichen Behandlungsdauer unter Berücksichtigung der fünfjährigen Regelhöchstdauer gemäss Art. 59 Abs. 4 StGB ([BGer 7B_1432/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
 
 **Für Vollzugsbehörden:**
 - Prüfen Sie jährlich von Amtes wegen, ob die Voraussetzungen für eine bedingte Entlassung gegeben sind ([Art. 62d Abs. 1 StGB](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_62d)).
@@ -298,6 +310,7 @@ Ein veraltetes oder unvollständiges Gutachten genügt nicht; es muss sich zu de
 - Bestehen Sie auf einem aktuellen, umfassenden Gutachten, das die Behandlungsfähigkeit und die Erfolgsprognose konkret beurteilt — nicht nur die Diagnose.
 - Die Massstäbe der Vorinstanzen für die Erfolgsprognose sind oft zu streng: Es genügt die hinreichende Wahrscheinlichkeit der deutlichen Gefahrreduktion, nicht die hinreichende Wahrscheinlichkeit der bedingten Entlassung nach fünf Jahren.
 - Verlangen Sie bei der Verlängerung die konkrete Darlegung, warum die Therapie weiterhin Aussicht auf Erfolg bietet und warum die weitere Dauer verhältnismässig ist.
+- Bei Haftentlassungsgesuchen im Rechtsmittelverfahren nach erstinstanzlich angeordneter Massnahme nach Art. 59 StGB richtet sich die Überhaftprüfung (Art. 212 Abs. 3 StPO) nach der Fünfjahresfrist von Art. 59 Abs. 4 StGB, nicht nach einer fiktiven Strafdauer. Beachten Sie, dass Behandlungsunwilligkeit und mangelnde Krankheitseinsicht vor einer drohenden Massnahme von den Gerichten als erhebliche fluchtbegünstigende Faktoren gewertet werden ([BGer 7B_1432/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_7B_1432/2026)).
 
 ---
 

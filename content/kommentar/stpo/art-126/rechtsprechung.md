@@ -2,10 +2,15 @@
 title: "Rechtsprechung zu Art. 126 StPO"
 weight: 99
 date: 2026-07-11
-lastmod: 2026-08-21
+lastmod: 2026-11-26
 description: "Übersicht der Entscheide zu Art. 126 StPO – Entscheid (Zivilklage)"
 tags: ["Rechtsprechung", "StPO", "Zivilklage", "Adhäsionsverfahren", "Verweisung Zivilweg"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Leitentscheid BGer 4A_291/2026 vom 02.10.2026 (zur Publikation vorgesehen, Fünferbesetzung) unter Leitentscheide aufgenommen: Auslegung des Adhäsionsdispositivs bei Vormerknahme der Abtretung an den Staat nach Art. 73 Abs. 2 StGB, definitiver Rechtsöffnungstitel (Art. 80 SchKG) für das Gemeinwesen und fehlende Befreiungswirkung von Direktzahlungen (Art. 167 OR)."
+  - date: 2026-08-21
   - date: 2026-08-21
     by: "Claude Code"
     model: "claude-opus-5"
@@ -17,6 +22,16 @@ revisions:
 ---
 
 ## Leitentscheide (BGE)
+
+### BGer 4A_291/2026 vom 2. Oktober 2026 (zur Publikation vorgesehen), E. 3 f.
+- **Thema**: Auslegung des Adhäsionsdispositivs bei Vormerknahme der Forderungsabtretung an den Staat (Art. 73 Abs. 2 StGB); definitiver Rechtsöffnungstitel (Art. 80 SchKG); keine befreiende Wirkung von Direktzahlungen (Art. 167 OR)
+- **Sachverhalt**: Das Strafgericht verurteilte den Beschuldigten wegen Straftaten zum Nachteil der Privatklägerin zur Zahlung von Schadenersatz. Im Urteilsdispositiv nahm das Strafgericht davon «Vormerk, dass die Privatklägerin ihre Forderung im entsprechenden Umfang an den Staat abgetreten hat» (im Kontext von Opferhilfeleistungen bzw. Art. 73 Abs. 2 StGB). In der Folge betrieb der Kanton Zürich den Verurteilten für diese Forderung und verlangte definitive Rechtsöffnung. Der Schuldner wandte ein, das Strafurteil laute im Leistungsdispositiv auf die Privatklägerin, weshalb der Staat keinen Rechtsöffnungstitel besitze; zudem habe er zwischenzeitlich Zahlungen direkt an die Privatklägerin geleistet.
+- **Kernaussage**:
+  1. *Auslegung des Adhäsionsdispositivs*: Verurteilt das Strafgericht den Beschuldigten zur Leistung an die Privatklägerin und nimmt es im Dispositiv zugleich davon Vormerk, dass die Privatklägerin ihre Forderung an den Staat abgetreten hat, so beurkundet das Dispositiv nach Treu und Glauben den vollzogenen Rechtsübergang auf das Gemeinwesen. Es liegt keine blosse Absichtserklärung vor; ein separater aussergerichtlicher Zessionsvertrag ist für den Nachweis der Gläubigerstellung des Staates entbehrlich (E. 3).
+  2. *Definitiver Rechtsöffnungstitel für das Gemeinwesen*: Das Strafurteil nach Art. 126 StPO begründet für den Staat als Zessionar und materiellen Gläubiger einen definitiven Rechtsöffnungstitel im Sinne von Art. 80 SchKG (E. 4).
+  3. *Keine befreiende Wirkung von Direktzahlungen (Art. 167 OR)*: Zahlt der Schuldner nach rechtskräftigem Urteil direkt an die geschädigte Privatklägerin, befreit ihn dies gegenüber dem Staat nicht, wenn ihm der Forderungsübergang durch das Urteilsdispositiv bekannt war (E. 4).
+- **Einschlägig für**: Art. 126 Abs. 1 lit. a StPO; Art. 73 Abs. 2 StGB; Art. 80 SchKG; Art. 164 ff., Art. 167 OR
+- **Link**: [BGer 4A_291/2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.10.2026_4A_291/2026)
 
 ### BGE 139 IV 102, E. 4.3 und 4.4
 - **Thema**: Parteientschädigung der Privatklägerschaft bei Strafbefehl und Verweisung der Zivilforderungen auf den Zivilweg

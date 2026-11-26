@@ -2,10 +2,14 @@
 title: "Art. 257d OR — Zahlungsrückstand des Mieters"
 weight: 257
 date: 2026-10-08
-lastmod: 2026-11-17
-description: "Praxiskommentar zu Art. 257d OR: Zahlungsrückstand des Mieters — Zahlungsfrist und Kündigungsandrohung, Kündigung, relative Empfangstheorie, Abwendungsgründe (Zahlung, Verrechnung, Hinterlegung), Grenzkasuistik und Ausweisung im Rechtsschutz in klaren Fällen (Art. 257 ZPO)."
-tags: ["OR", "Mietrecht", "Zahlungsrückstand", "Zahlungsfrist", "Kündigungsandrohung", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung", "Mietzinshinterlegung", "Familienwohnung"]
+lastmod: 2026-11-26
+description: "Praxiskommentar zu Art. 257d OR: Zahlungsrückstand des Mieters — Zahlungsfrist und Kündigungsandrohung, Kündigung, relative Empfangstheorie, Abwendungsgründe (Zahlung, Verrechnung, Hinterlegung), Grenzkasuistik, Schadenersatz und Ausweisung im Rechtsschutz in klaren Fällen (Art. 257 ZPO)."
+tags: ["OR", "Mietrecht", "Zahlungsrückstand", "Zahlungsfrist", "Kündigungsandrohung", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung", "Mietzinshinterlegung", "Familienwohnung", "Schadenersatz"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Aktualisierung mit ZH Mietgericht MH260002-L vom 16.11.2026 (ZMP 2026 Nr. 18): Schadenersatz nach Zahlungsverzugskündigung (Art. 257d Abs. 2 i.V.m. Art. 97 OR), dogmatische Abgrenzung zur primären Erfüllungspflicht bei vorzeitiger Rückgabe (Art. 264 OR) und strenge Substantiierungs- und Beweislast des Vermieters für Schadenminderungsbemühungen (Art. 44 Abs. 1 OR)."
   - date: 2026-11-17
     by: "Antigravity (Commentary Editor)"
     model: "antigravity"
@@ -59,6 +63,7 @@ Das Bundesgericht betont das Erfordernis zweier getrennter Willenserklärungen:
 **Rz. 3** Eine Kündigung nach Art. 257d Abs. 2 OR ist eine **ausserordentliche Kündigung aus wichtigem Grund**. Sie hat weitreichende Rechtsfolgen:
 - **Ausschluss der Erstreckung**: Eine Erstreckung des Mietverhältnisses ist von Gesetzes wegen zwingend ausgeschlossen ([Art. 272a Abs. 1 lit. a OR](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-119-II-147_1993-04-06.html); [BGE 119 II 147 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-119-II-147_1993-04-06.html#consideration_4)).
 - **Keine Kündigungssperrfristen**: Die dreijährige Kündigungssperre nach Schlichtungs- oder Gerichtsverfahren gemäss Art. 271a Abs. 1 lit. d und e OR greift bei Zahlungsverzugskündigungen nicht ([Art. 271a Abs. 3 lit. b OR](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-119-II-147_1993-04-06.html); [BGE 140 III 591 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-591_2014.html#consideration_4)).
+- **Schadenersatz des Vermieters**: Der Vermieter kann den durch die vorzeitige Vertragsauflösung entstandenen Mietzinsausfall bis zum nächsten ordentlichen Kündigungstermin als Schadenersatz wegen Nichterfüllung (Art. 97 Abs. 1 OR) fordern, unterliegt dabei jedoch einer strengen Schadenminderungs- und Substantiierungsobliegenheit ([BGE 127 III 548 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-548_2001-03-27.html#consideration_5); [ZH Mietgericht MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)).
 - **Prozessuale Durchsetzung**: Nach Ablauf der Kündigungsfrist kann der Vermieter die Räumung direkt im summarischen Verfahren um Rechtsschutz in klaren Fällen gemäss [Art. 257 ZPO](../zpo/art-257/) erwirken — ohne vorgängigen Schlichtungsversuch ([BGE 132 III 747 Regeste](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-132-III-747_2006.html)).
 
 ### Prüfschema: die Merkmale in ihrer Prüfungsreihenfolge
@@ -73,7 +78,7 @@ Die Kommentierung folgt der logischen Prüfungsreihenfolge der gesetzlichen Tatb
 | 4 | **Form und Inhalt der Mahnung mit Kündigungsandrohung (Abs. 1)** | Schriftform (Art. 12 ff. OR); bezifferter oder bestimmbarer Ausstand; Mindestfrist von 30 bzw. 10 Tagen; ausdrückliche Kündigungsandrohung; bei Familienwohnungen separate Zustellung an beide Ehegatten (Art. 266n OR) | Vermieter; strenger Urkundenbeweis | [D](#d-form-und-inhalt-der-zahlungsaufforderung-mit-kündigungsandrohung-abs-1) |
 | 5 | **Zugang und Fristenlauf der Zahlungsfrist** | Wann ging die Aufforderung zu? (Relative Empfangstheorie bei Einschreiben: tatsächliche Entgegennahme bzw. 7. Tag der Abholfrist; Fristbeginn am Folgetag gemäss Art. 77 Abs. 1 Ziff. 1 OR) | Vermieter für Zeitpunkt des Zugangs (Sendungsverfolgung) | [E](#e-zugang-und-fristenlauf-der-zahlungsfrist-relative-empfangstheorie) |
 | 6 | **Unbenützter Ablauf der Zahlungsfrist und Abwendungsgründe** | Wurde innert Frist bezahlt (Schalterzahlung genügt, BGE 124 III 145); rechtsgültig verrechnet (Zugehen der Erklärung innert Frist, BGer 4A_239/2025); oder gutgläubig hinterlegt (Art. 259g OR, BGE 125 III 120)? | Mieter für Tilgung, Verrechnung oder Hinterlegung | [F](#f-unbenützter-fristablauf-und-abwendungsgründe) |
-| 7 | **Ausserordentliche Kündigung (Abs. 2)** | Einhaltung der Kündigungsfrist (mind. 30 Tage auf Monatsende bzw. fristlos); amtliches Formular (Art. 266l Abs. 2 OR, Nichtigkeit bei Fehlen gemäss Art. 266o OR); separate Zustellung an Ehegatten (Art. 266n OR); Verwirkung bei überlangem Zuwarten; Schicksal verfrühter Kündigungen | Vermieter für Gültigkeit der Kündigung; Mieter für Verwirkung/Rechtsmissbrauch | [G](#g-die-ausserordentliche-kündigung-abs-2) |
+| 7 | **Ausserordentliche Kündigung (Abs. 2)** | Einhaltung der Kündigungsfrist (mind. 30 Tage auf Monatsende bzw. fristlos); amtliches Formular (Art. 266l Abs. 2 OR, Nichtigkeit bei Fehlen gemäss Art. 266o OR); separate Zustellung an Ehegatten (Art. 266n OR); Verwirkung bei überlangem Zuwarten; Schicksal verfrühter Kündigungen; Schadenersatz wegen Nichterfüllung (Art. 97 OR) und Abgrenzung zu Art. 264 OR | Vermieter für Gültigkeit der Kündigung, Schaden und Schadenminderungsbemühungen; Mieter für Verwirkung/Rechtsmissbrauch | [G](#g-die-ausserordentliche-kündigung-abs-2) |
 | 8 | **Prozessuale Durchsetzung und Rechtsschutz in klaren Fällen (Art. 257 ZPO)** | Ausweisung im summarischen Verfahren ohne Schlichtung (BGE 132 III 747); liquide tatsächliche und rechtliche Verhältnisse; Geltendmachung der Unwirksamkeit ohne Fristbindung von Art. 273 OR (BGE 121 III 156); Schranken bei Einwand der Treuwidrigkeit nach Art. 271 OR (BGer 4A_239/2025); Streitwert (BGE 144 III 346) | Vermieter für klare Verhältnisse; Mieter muss Einwendungen sofort liquide substanziieren | [H](#h-prozessuale-durchsetzung-und-ausweisung-im-rechtsschutz-in-klaren-fällen-art-257-zpo) |
 
 ---
@@ -297,7 +302,35 @@ Art. 257d Abs. 2 OR setzt dem Vermieter keine starre Frist, innert welcher er k�
 - **Zulässiges Überlegen**: Ein Zuwarten von zwei bis drei Wochen nach Fristablauf ist zulässig und entspricht der gebotenen Bedenkzeit ([BGer 4C.395/2006 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4C-395-2006_2007-01-23.html); [GR KG ZK2 2020 46 E. 6.2](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_007_ZK2-2020-46_2021-02-19.pdf)).
 - **Verwirkung bei monatelangem Stillschweigen**: Wartet der Vermieter nach unbenütztem Ablauf der Zahlungsfrist mehrere Monate zu, ohne zu kündigen, und nimmt er weiterhin vorbehaltlos Mietzinse entgegen, verwirkt sein Kündigungsrecht aus jener Mahnung; er muss eine neue Frist nach Abs. 1 ansetzen.
 
-> **Leitsatz.** Eine Zahlungsverzugskündigung nach Art. 257d Abs. 2 OR ist grundsätzlich unwirksam, wenn sie dem Mieter vor Ablauf der Zahlungsfrist zugeht; geht sie ihm erst nach Fristablauf zu, ist die Berufung auf eine vorzeitige Absendung rechtsmissbräuchlich. Selbst bei einer Zustellung vor Fristablauf handelt der Mieter jedoch offenkundig rechtsmissbräuchlich (Art. 2 Abs. 2 ZGB), wenn er weder gezahlt hat noch durch die verfrühte Kündigung abgehalten wurde und ihm von vornherein objektiviert jeder Zahlungswille fehlte. Überlanges monatelanges Zuwarten nach Fristablauf führt zur Verwirkung des Kündigungsrechts.
+#### 4. Rechtsfolgen der Kündigung: Schadenersatz des Vermieters und dogmatische Abgrenzung zu Art. 264 OR
+Kündigt der Vermieter infolge Zahlungsverzugs nach Art. 257d Abs. 2 OR, löst die Kündigungserklärung das Mietverhältnis mit Ablauf der 30-tägigen Kündigungsfrist auf. Die Beendigung befreit den Mieter von der primären Pflicht zur künftigen Entrichtung des vertraglichen Mietzinses, begründet aber eine vertragliche Schadenersatzpflicht des Mieters wegen Nichterfüllung:
+
+- **Schadenersatzanspruch nach Art. 257d Abs. 2 i.V.m. Art. 97 OR**:  
+  Der Vermieter hat Anspruch auf das positive Vertragsinteresse (Schadenersatz wegen Nichterfüllung gemäss Art. 97 Abs. 1 OR). Der Schaden besteht regelmässig im Mietzinsausfall zwischen der Wirksamkeit der ausserordentlichen Kündigung und dem Zeitpunkt, auf den das Mietverhältnis bei ordentlicher Kündigung frühestens hätte beendet werden können ([BGE 127 III 548 E. 5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-127-III-548_2001-03-27.html#consideration_5); [ZH Mietgericht, MH260002-L vom 16. November 2026, ZMP 2026 Nr. 18](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)).
+
+- **Dogmatische Abgrenzung zu Art. 264 OR (Erfüllungsanspruch vs. echter Schadenersatz)**:  
+  In der mietrechtlichen Praxis wird der Anspruch auf Mietzinsausfall nach Art. 257d OR häufig fälschlicherweise mit der Haftung des Mieters bei vorzeitiger Rückgabe der Mietsache ([Art. 264 OR](../art-264/)) gleichgesetzt. Das Mietgericht Zürich stellte hierzu die fundamentale dogmatische Differenz klar ([ZH Mietgericht MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)):
+  - Bei der **vorzeitigen Rückgabe der Mietsache (Art. 264 OR)** bleibt das Mietverhältnis formell unberührt und dauert fort. Der Mieter bleibt von seiner primären vertraglichen Erfüllungspflicht (Zahlung des Mietzinses) nur befreit, wenn er einen zumutbaren und zahlungsfähigen Ersatzmieter stellt oder bis der Vertrag ordentlich endet bzw. der Vermieter die Sache anderweitig vermietet. Es handelt sich mithin um die Fortdauer der ursprünglichen vertraglichen Erfüllungspflicht (*Erfüllungsanspruch*).
+  - Bei der **Kündigung wegen Zahlungsrückstands (Art. 257d Abs. 2 OR)** hingegen beendet die ausserordentliche Kündigung das Mietverhältnis definitiv. Die primäre Pflicht zur Mietzinszahlung erlischt. Der Ausfallschaden bis zum nächsten ordentlichen Termin bildet daher keinen Erfüllungsanspruch, sondern einen sekundären *Schadenersatzanspruch nach Art. 97 OR* infolge schuldhafter Vertragsauflösung.
+
+- **Strenge Substantiierungslast des Vermieters für Schaden und Schadenminderung (Art. 44 Abs. 1 OR)**:  
+  Aus der Rechtsnatur als Schadenersatzanspruch nach Art. 97 OR folgt, dass der Vermieter die volle Behauptungs- und Beweislast für den eingetretenen Schaden und die Kausalität trägt. Zudem unterliegt er der gesetzlichen Pflicht zur Schadenminderung gemäss Art. 44 Abs. 1 OR: Er muss unverzüglich zumutbare Anstrengungen ergreifen, um das Mietobjekt möglichst rasch wieder zu vermieten.
+  
+  Dabei gelten strenge Substantiierungsanforderungen: Der Vermieter muss seine Wiedervermietungsbemühungen im Bestreitungsfall konkret, detailliert und belegt darlegen (z. B. Nachweis geschalteter Online- und Printinserate mit Datum, Protokolle und Daten von Wohnungsbesichtigungen, Dokumentation konkreter Vertragsverhandlungen mit Interessenten). Die blosse Vorlage einer unkommentierten Liste von Interessentennamen ohne Nachweis konkreter Vermietungsaktivitäten und Begründung des Nichtzustandekommens von Verträgen genügt den Anforderungen an die Schadenminderungspflicht nicht und führt zur vollständigen Abweisung des Schadenersatzbegehrens ([ZH Mietgericht MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)).
+
+#### Sachverhalt: Schadenersatzklage des Vermieters nach Zahlungsverzugskündigung (ZH Mietgericht MH260002-L)
+Nachdem die Mieterin den Mietzins trotz Zahlungsaufforderung mit Kündigungsandrohung nicht bezahlte, kündigte die Vermieterin gestützt auf Art. 257d Abs. 2 OR ausserordentlich. Nach Auszug der Mieterin forderte die Vermieterin den Mietzinsausfall bis zum nächsten ordentlichen Kündigungstermin als Schadenersatz ein. Zur Begründung ihrer Schadenminderungsbemühungen reichte sie eine tabellarische Liste angeblicher Interessenten ein, legte jedoch weder Inserate noch Korrespondenz oder Besichtigungsprotokolle vor. Das Mietgericht Zürich wies die Klage ab: Da die primäre Mietzinspflicht mit der Kündigung erloschen war, handelte es sich um echten Schadenersatz nach Art. 97 OR. Die Vermieterin hätte ihre Wiedervermietungsbemühungen nach Art. 44 Abs. 1 OR substantiiert behaupten und belegen müssen; die unkommentierte Liste reichte nicht aus ([ZH Mietgericht MH260002-L vom 16. November 2026](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)).
+
+#### Vergleichstabelle: Dogmatik des Mietzinsausfalls — Art. 257d Abs. 2 i.V.m. Art. 97 OR vs. Art. 264 OR
+
+| Kriterium | Zahlungsverzugskündigung (Art. 257d Abs. 2 OR) | Vorzeitige Rückgabe (Art. 264 OR) |
+|---|---|---|
+| **Vertragsstatus** | Vertrag durch Kündigung definitiv aufgelöst | Vertrag bleibt bis zum Kündigungstermin formell bestehen |
+| **Anspruchsgrundlage** | Schadenersatz wegen Nichterfüllung (Art. 97 Abs. 1 OR) | Vertragliche Erfüllungspflicht (Art. 257 Abs. 1 OR) |
+| **Befreiungsmöglichkeit** | Keine Befreiung durch Nachmieterstellung (Vertrag beendet); nur Schadenminderung des Vermieters | Befreiung durch Stellung eines zumutbaren, zahlungsfähigen Ersatzmieters (Art. 264 Abs. 1 OR) |
+| **Substantiierungslast des Vermieters** | Vermieter muss Schaden und Wiedervermietungsbemühungen substantiiert beweisen (Art. 44 Abs. 1 OR; [ZH Mietgericht MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)) | Vermieter muss sich nur anrechnen lassen, was er erspart oder absichtlich zu erwerben unterlassen hat (Art. 264 Abs. 3 OR) |
+
+> **Leitsatz.** Eine Zahlungsverzugskündigung nach Art. 257d Abs. 2 OR ist grundsätzlich unwirksam, wenn sie dem Mieter vor Ablauf der Zahlungsfrist zugeht; geht sie ihm erst nach Fristablauf zu, ist die Berufung auf eine vorzeitige Absendung rechtsmissbräuchlich. Bei objektiviertem fehlendem Zahlungswillen von vornherein ist die Berufung auf eine vorzeitige Zustellung offenkundig rechtsmissbräuchlich (Art. 2 Abs. 2 ZGB). Nach wirksamer Kündigung schuldet der Mieter dem Vermieter Schadenersatz nach Art. 97 OR für den Mietzinsausfall bis zum nächsten ordentlichen Kündigungstermin; der Vermieter trägt jedoch die strenge Substantiierungs- und Beweislast für seine Wiedervermietungsbemühungen (Art. 44 Abs. 1 OR). Überlanges monatelanges Zuwarten nach Fristablauf führt zur Verwirkung des Kündigungsrechts.
 
 ---
 
@@ -384,6 +417,7 @@ Ein Zuwarten von zwei bis drei Wochen ist als Bedenkzeit zulässig ([BGer 4C.395
 4. **Familienwohnungen ausnahmslos doppelt bedienen**: Zahlungsaufforderung und Kündigung stets in zwei separaten Umschlägen an beide Ehegatten oder eingetragenen Partner versenden ([Art. 266n OR](../art-266n/); [BGE 118 II 42](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-118-II-42_1992-01-22.html)).
 5. **Kündigungsrecht zeitnah ausüben**: Nach unbenütztem Ablauf der 30 Tage innert zwei bis drei Wochen kündigen; langes Zuwarten gefährdet die Wirksamkeit wegen Verwirkung ([BGer 4C.395/2006 E. 3.2](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4C-395-2006_2007-01-23.html); [GR KG ZK2 2020 46](https://entscheidsuche.ch/docs/GR_Gerichte/GR_KG_007_ZK2-2020-46_2021-02-19.pdf)).
 6. **Zustellnachweise lückenlos sichern**: Für das Ausweisungsverfahren nach Art. 257 ZPO die Sendungsverfolgungsprotokolle (Track & Trace) der Post für Mahnung und Kündigung vollständig aufbewahren und dem Gesuch beilegen ([SG KG BE.2024.31-EZO3](https://entscheidsuche.ch/docs/SG_Gerichte/SG_KG_002_BE-2024-31-EZO3_2024-10-31.pdf)).
+7. **Wiedervermietungsbemühungen minutiös dokumentieren**: Will der Vermieter nach Art. 257d Abs. 2 OR den Mietzinsausfall bis zum nächsten ordentlichen Kündigungstermin als Schadenersatz (Art. 97 Abs. 1 OR) fordern, muss er seine Schadenminderung (Art. 44 Abs. 1 OR) von Beginn an lückenlos dokumentieren (Schaltung von Inseraten mit Datum, Besichtigungstermine, Interessentenabsagen). Pauschale Namenslisten ohne Nachweis aktiver Bemühungen genügen den gerichtlichen Anforderungen nicht ([ZH Mietgericht MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)).
 
 ### Für die mietende Partei:
 
@@ -392,6 +426,7 @@ Ein Zuwarten von zwei bis drei Wochen ist als Bedenkzeit zulässig ([BGer 4C.395
 3. **Mietzins bei Mängeln formell hinterlegen**: Bei Mängeln der Mietsache den Mietzins nicht eigenmächtig zurückbehalten, sondern nach schriftlicher Fristansetzung bei der amtlichen Stelle hinterlegen ([Art. 259g OR](../art-259g/); [BGE 125 III 120](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-125-III-120_1999-01-19.html)).
 4. **Formmängel im Ausweisungsverfahren rügen**: Eine verfrühte Kündigung, eine zu kurz bemessene Zahlungsfrist oder das Fehlen separater Zustellungen bei der Familienwohnung können jederzeit im Ausweisungsverfahren geltend gemacht werden; die 30-tägige Frist von Art. 273 OR gilt hierfür nicht ([BGE 121 III 156 E. 1c](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-121-III-156_1995-05-02.html#consideration_1c)).
 5. **Keine Erstreckungsanträge stellen**: Bei rechtsgültiger Zahlungsverzugskündigung ist die Erstreckung gesetzlich ausgeschlossen ([Art. 272a Abs. 1 lit. a OR](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-119-II-147_1993-04-06.html); [BGE 119 II 147 E. 4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_004_BGE-119-II-147_1993-04-06.html#consideration_4)). Die Verteidigung muss sich auf die Ungültigkeit oder Unwirksamkeit der Kündigung konzentrieren.
+6. **Schadenminderungspflicht bei Schadenersatzforderungen rügen**: Fordert der Vermieter nach der Kündigung Schadenersatz wegen Mietzinsausfalls bis zum nächsten ordentlichen Termin, handelt es sich um echten Schadenersatz nach Art. 97 OR (und nicht um Mietzins nach Art. 264 OR). Der Mieter kann und sollte bestreiten, dass der Vermieter ausreichende Wiedervermietungsbemühungen unternommen hat, woraufhin dieser den vollen, detaillierten Nachweis erbringen muss ([ZH Mietgericht MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L)).
 
 ### Für Schlichtungsbehörden und Gerichte:
 
@@ -409,6 +444,7 @@ Ein Zuwarten von zwei bis drei Wochen ist als Bedenkzeit zulässig ([BGer 4C.395
 - [Art. 257e OR — Sicherheiten durch den Mieter](../art-257e/)
 - [Art. 257 ZPO — Rechtsschutz in klaren Fällen (Ausweisung)](../zpo/art-257/)
 - [Art. 259g OR — Hinterlegung des Mietzinses](../art-259g/)
+- [Art. 264 OR — Vorzeitige Rückgabe der Sache](../art-264/)
 - [Art. 266l OR — Form der Kündigung](../art-266l/)
 - [Art. 266n OR — Kündigung bei Familienwohnung](../art-266n/)
 - [Art. 266o OR — Nichtigkeit der Kündigung](../art-266o/)

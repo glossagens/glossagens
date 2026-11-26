@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 257d OR — Zahlungsrückstand des Mieters"
 weight: 99
 date: 2026-10-08
-lastmod: 2026-11-17
-description: "Systematische Übersicht der Rechtsprechung zu Art. 257d OR: Zahlungsrückstand des Mieters — Bundesgerichtliche Leitentscheide (BGE) und kantonale Gerichtspraxis zu Zahlungsansetzung, relativer Empfangstheorie, Verrechnung, Hinterlegung, verfrühter Kündigung und Mieterausweisung (Art. 257 ZPO)."
-tags: ["Rechtsprechung", "OR", "Mietrecht", "Zahlungsrückstand", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung"]
+lastmod: 2026-11-26
+description: "Systematische Übersicht der Rechtsprechung zu Art. 257d OR: Zahlungsrückstand des Mieters — Bundesgerichtliche Leitentscheide (BGE) und kantonale Gerichtspraxis zu Zahlungsansetzung, relativer Empfangstheorie, Verrechnung, Hinterlegung, verfrühter Kündigung, Schadenersatz und Mieterausweisung (Art. 257 ZPO)."
+tags: ["Rechtsprechung", "OR", "Mietrecht", "Zahlungsrückstand", "Kündigung", "Mieterausweisung", "Art. 257 ZPO", "Empfangstheorie", "Verrechnung", "Schadenersatz"]
 revisions:
+  - date: 2026-11-26
+    by: "Antigravity (Commentary Editor)"
+    model: "inherit"
+    note: "Ergänzung des Entscheids des Mietgerichts Zürich MH260002-L vom 16.11.2026 (ZMP 2026 Nr. 18): Schadenersatz bei Zahlungsverzugskündigung (Art. 257d Abs. 2 i.V.m. Art. 97 OR), dogmatische Abgrenzung zur primären Erfüllungspflicht bei vorzeitiger Rückgabe (Art. 264 OR) und strenge Substantiierungs- und Beweislast des Vermieters für Schadenminderungsbemühungen (Art. 44 Abs. 1 OR)."
   - date: 2026-11-17
     by: "Antigravity (Commentary Editor)"
     model: "antigravity"
@@ -258,3 +262,15 @@ Systematische Übersicht der bundesgerichtlichen Leitentscheide (BGE) sowie weit
   2. Wartet der Vermieter demgegenüber monatelang zu und verhält er sich passiv, verwirkt sein Kündigungsrecht aus jener Mahnung infolge Rechtsverzichts.
 - **Kanton**: Graubünden (GR)
 - **Einschlägig für**: Art. 257d Abs. 2 OR
+
+---
+
+### [ZH Mietgericht, MH260002-L](https://mcp.opencaselaw.ch/entscheid/zh_mietgericht_MH260002-L) (16. November 2026; ZMP 2026 Nr. 18)
+- **Thema**: Schadenersatz nach Zahlungsverzugskündigung (Art. 257d Abs. 2 i.V.m. Art. 97 OR); dogmatische Abgrenzung zu Art. 264 OR; Substantiierungs- und Beweislast für Schadenminderung (Art. 44 Abs. 1 OR)
+- **Kernaussage**:
+  1. Kündigt der Vermieter wegen Zahlungsrückstands nach Art. 257d Abs. 2 OR, hat er Anspruch auf Schadenersatz wegen Nichterfüllung (positives Vertragsinteresse nach Art. 97 Abs. 1 OR) für den entgangenen Mietzins zwischen dem wirksamen Kündigungstermin und dem nächsten ordentlichen Kündigungstermin.
+  2. Dogmatische Abgrenzung zu Art. 264 OR: Anders als bei der vorzeitigen Rückgabe der Mietsache gemäss Art. 264 OR, bei welcher das Mietverhältnis fortbesteht und die primäre vertragliche Erfüllungspflicht (Mietzinspflicht) erst mit Stellung eines zumutbaren Ersatzmieters oder Ablauf der ordentlichen Kündigungsfrist erlischt, beendet die ausserordentliche Kündigung nach Art. 257d Abs. 2 OR das Vertragsverhältnis definitiv. Beim Anspruch auf Ersatz des Mietzinsausfalls handelt es sich somit nicht um einen fortbestehenden primären Erfüllungsanspruch, sondern um echten Schadenersatz nach Art. 97 OR infolge Vertragsauflösung.
+  3. Strenge Substantiierungslast des Vermieters für Schaden und Schadenminderung (Art. 44 Abs. 1 OR): Der Vermieter trägt die volle Behauptungs- und Beweislast für den eingetretenen Schaden und dessen Kausalität. Er muss zudem seine Wiedervermietungsbemühungen substantiiert behaupten und belegen (konkrete Inserate, Daten von Wohnungsbesichtigungen, konkrete Vertragsverhandlungen). Die blosse Vorlage einer unkommentierten Liste pauschaler Interessenten ohne Nachweis tatsächlicher Vermietungsbemühungen genügt den Anforderungen an die Schadenminderungspflicht nicht und führt zur vollständigen Abweisung des geltend gemachten Mietzinsausfallschadens.
+- **Konkreter Sachverhalt**: Die Vermieterin kündigte das Mietverhältnis nach unbenütztem Ablauf der 30-tägigen Zahlungsfrist gestützt auf Art. 257d Abs. 2 OR ausserordentlich. Nach dem Auszug des Mieters forderte sie den Mietzinsausfall bis zum nächsten ordentlichen Kündigungstermin als Schadenersatz ein. Zum Nachweis ihrer Schadenminderung reichte sie lediglich eine tabellarische Namensliste angeblicher Interessenten ein, ohne Inserate, Besichtigungstermine oder Gründe für das Nichtzustandekommen neuer Mietverträge substantiiert darzulegen. Das Mietgericht wies den Schadenersatzanspruch wegen Verletzung der Substantiierungs- und Schadenminderungspflicht ab.
+- **Kanton**: Zürich (ZH)
+- **Einschlägig für**: Art. 257d Abs. 2 OR; Art. 97 Abs. 1 OR; Art. 44 Abs. 1 OR; Art. 264 OR
