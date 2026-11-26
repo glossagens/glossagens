@@ -1,7 +1,7 @@
 ---
 title: "Eherecht, Trennung und Scheidung: Regelung des Getrenntlebens und Verfahren"
 date: 2026-10-26
-lastmod: 2026-10-26
+lastmod: 2026-11-26
 description: "Systematischer Überblick über das schweizerische Eherecht (ZGB): Allgemeine Wirkungen der Ehe, Güterrecht, Regelung des Getrenntlebens (Eheschutz), Scheidungsvoraussetzungen, Scheidungsfolgen (Unterhalt, Vorsorgeausgleich, Güterrecht, Kinderbelange) sowie Eheschutz- und Scheidungsverfahren nach der ZPO."
 tags: ["Eherecht", "Familienrecht", "Eheschutz", "Trennung", "Scheidung", "Unterhalt", "Vorsorgeausgleich", "Güterrecht", "Familienwohnung", "ZPO", "Kindeswohl"]
 typ: grundlage
@@ -26,6 +26,10 @@ normen:
   - { gesetz: zpo, art: art-296 }
 stichworte: ["Ehe", "Ehewirkungen", "Eheschutz", "Getrenntleben", "Scheidung", "Scheidungsklage", "nachehelicher Unterhalt", "Betreuungsunterhalt", "Barunterhalt", "zweistufige Methode", "Schulstufenmodell", "clean break", "Vorsorgeausgleich", "Errungenschaftsbeteiligung", "Familienwohnung", "elterliche Sorge", "alternierende Obhut", "Offizialmaxime", "Untersuchungsmaxime"]
 revisions:
+  - date: 2026-11-26
+    by: "Claude Code"
+    model: "claude-opus-5-5"
+    note: "Abschnitt zur zweistufigen Methode ergänzt um die Stellung des Volljährigenunterhalts (BGE 147 III 265 E. 7.3) und um Kinder nur eines Ehegatten (BGer 5A_615/2025 vom 9.9.2026, zur Publikation vorgesehen; Anlass: Editorial bger-update.ch vom 26.11.2026). Bestehender Text unverändert. Beide Entscheide über entscheidsuche im Volltext gelesen, Trägersätze wörtlich kopiert."
   - date: 2026-10-26
     by: "Antigravity"
     model: "gemini-3.8-flash"
@@ -198,6 +202,10 @@ Die Berechnung erfolgt in zwei Schritten:
 
 1. **Stufe 1 (Bedarfsermittlung)**: Ermittlung der Gesamteinkommen beider Parteien und Gegenüberstellung mit dem jeweiligen betreibungsrechtlichen Existenzminimum nach Art. 93 SchKG (Grundbetrag, Wohnkosten, Krankenkasse, unumgängliche Berufsauslagen). Reichen die Mittel aus, wird das Existenzminimum um den *familienrechtlichen Erweiterungsbedarf* (Steuern, Kommunikationspauschalen, angemessene Versicherungen und Mobilität) zum gebührenden Unterhalt erweitert.
 2. **Stufe 2 (Überschussverteilung)**: Ein nach Deckung aller erweiterten Bedarfe verbleibender Überschuss wird nach Ermessen, in der Regel nach *grossen und kleinen Köpfen* (z. B. je 2 Teile pro Elternteil, 1 Teil pro Kind), verteilt ([BGE 147 III 265 E. 7.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-265_2021.html#consideration_7.3)), es sei denn, es wurde während intakter Ehe nachweislich eine Sparquote gebildet.
+
+**Volljährige Kinder.** Der Unterhalt volljähriger Kinder in Ausbildung (Art. 277 Abs. 2 ZGB) steht hinter dem Ehegattenunterhalt zurück, aber nur bis zur Deckung des familienrechtlichen Existenzminimums der übrigen Familienmitglieder. Danach «haben die Eltern aus verbleibenden Mitteln den Volljährigenunterhalt zu bestreiten»; ein Überschuss entsteht erst, wenn diese Verpflichtung erfüllt ist ([BGE 147 III 265 E. 7.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-265_2021.html#consideration_7.3)). Beiträge an gemeinsame volljährige Kinder werden deshalb vor der Überschussteilung abgezogen.
+
+**Kinder nur eines Ehegatten.** Gegenüber einem Kind, das nur einer der Ehegatten hat, ist der andere nicht unterhaltspflichtig. Er schuldet seinem Ehegatten aber Beistand, bei vorehelichen Kindern nach Art. 278 Abs. 2 ZGB, bei ausserehelich geborenen nach der allgemeinen Beistandspflicht von [Art. 159 Abs. 3 ZGB](/kommentar/zgb/art-159/). Diese Pflicht ist subsidiär zur Unterhaltspflicht beider leiblicher Eltern, setzt die Deckung des eigenen (beim volljährigen Kind familienrechtlichen) Existenzminimums voraus und darf das Kind nicht besser stellen, als wenn der Elternteil unverheiratet wäre. Sind ihre Voraussetzungen erfüllt, wird der Beitrag an das Kind nicht vorab abgezogen, sondern erst bei der Überschussverteilung berücksichtigt, indem dem unterhaltspflichtigen Elternteil nach Ermessen ein grösserer Anteil am Überschuss zugewiesen werden kann ([BGer 5A_615/2025 vom 9. September 2026](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-615-2025_2026-09-09.html) E. 4.1.2.2–4.1.2.3, 4.3.2; zur Publikation vorgesehen). Wie sich diese Lösung zur Reihenfolge nach BGE 147 III 265 E. 7.3 verhält, wenn die Beistandspflicht verneint wird, behandelt das Urteil nicht ausdrücklich.
 
 #### 3. Das Schulstufenmodell zur Erwerbsobliegenheit {#schulstufenmodell}
 
