@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 101 StPO"
 weight: 99
 date: 2026-06-29
-lastmod: 2026-08-22
+lastmod: 2026-11-27
 description: "Übersicht der Entscheide zu Art. 101 StPO – Akteneinsicht bei hängigem Verfahren: Leitentscheide zu Parteieinsicht, Auskunftspersonen, Mandatsführung der Verteidigung und Dritteinsicht."
 tags: ["Rechtsprechung", "StPO", "Akteneinsicht", "Parteien", "Dritte", "Verteidigung"]
 revisions:
+  - date: 2026-11-27
+    by: "Antigravity Agent"
+    model: "gemini-2.5-pro"
+    note: "Aufnahme von BGer 7B_731/2024 vom 28. Oktober 2026 (Dritteinsicht von Medienschaffenden in Einstellungsverfügungen, Wächterfunktion der Presse und Interessenabwägung bei Selbstpublikation des Dispositivs) unter II. Weitere Entscheide."
   - date: 2026-08-22
     by: "Antigravity Agent"
     model: "gemini-2.5-flash"
@@ -63,6 +67,12 @@ revisions:
 - **Kernaussage**: Bei einer Verweigerung der Akteneinsicht im Strafverfahren ist die Voraussetzung des nicht wieder gutzumachenden Nachteils nach Art. 93 Abs. 1 lit. a BGG dann erfüllt, wenn die beschuldigte Person im gegebenen Verfahrensstadium grundsätzlich über ein Recht auf Akteneinsicht verfügt.
 - **Einschlägig für**: Rechtsschutz
 
+### [BGer 7B_731/2024 E. 2.3, 2.5](https://mcp.opencaselaw.ch/entscheid/bger_7B_731_2024) (28. Oktober 2026)
+- **Thema**: Dritteinsicht von Medienschaffenden in Einstellungsverfügungen
+- **Sachverhalt**: Gegen einen Beschuldigten wurde eine Strafuntersuchung geführt und mit Verfügung vom 28. Dezember 2023 wegen Verjährung eingestellt; ihm wurden jedoch die anteilsmässigen Verfahrenskosten des ursprünglichen Verfahrens auferlegt. Nachdem der Beschuldigte das vollständige Einstellungsdispositiv öffentlich bekannt gemacht hatte, verlangte ein Journalist gestützt auf das Justizöffentlichkeitsprinzip (Art. 30 Abs. 3 BV, Art. 101 Abs. 3 StPO) Einsicht in die Erwägungen der Verfügung. Die kantonalen Vorinstanzen bewilligten die anonymisierte Herausgabe. Das Bundesgericht weist die Beschwerde des Beschuldigten ab.
+- **Kernaussage**: Aus dem Prinzip der Justizöffentlichkeit (Art. 30 Abs. 3 BV, Art. 6 Ziff. 1 EMRK) und der Wächterfunktion der Presse (Art. 16 Abs. 3, Art. 17 BV) folgt grundsätzlich ein schützenswertes Informationsinteresse an der Nachvollziehbarkeit von strafprozessualen Entscheiden, die das Verfahren ohne Straffolgen beenden (Einstellungsverfügungen). Bei der Interessenabwägung nach Art. 101 Abs. 3 StPO schwächt die eigenmächtige öffentliche Kommunikation des Dispositivs durch den Beschuldigten dessen Geheimhaltungsinteresse an der Entscheidbegründung erheblich; Medien müssen sich nicht mit dem Dispositiv begnügen, sondern dürfen die Tragweite anhand der Erwägungen (inklusive Kosten und Entschädigung) überprüfen. Die anonymisierte Herausgabe wahrt die Verhältnismässigkeit und verletzt weder die Unschuldsvermutung noch die Privatsphäre (Art. 13 BV, Art. 28 ZGB).
+- **Einschlägig für**: Abs. 3; Justizöffentlichkeit, Medienschaffende, Einstellungsverfügungen
+
 ### [BStGer SN.2024.3 vom 11. März 2024](https://mcp.opencaselaw.ch/entscheid/bstger_SN.2024.3)
 - **Thema**: Dritteinsicht nach Art. 101 Abs. 3 StPO
 - **Kernaussage**: Ein schützenswertes Interesse von nicht am Verfahren beteiligten Dritten im Sinne von Art. 101 Abs. 3 StPO ist nach der bundesgerichtlichen und bundesstrafgerichtlichen Praxis nur in begründeten Ausnahmefällen anzuerkennen.
@@ -88,4 +98,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 22. August 2026*
+*Letzte Aktualisierung: 27. November 2026*

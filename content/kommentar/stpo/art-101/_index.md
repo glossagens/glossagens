@@ -2,10 +2,14 @@
 title: "Art. 101 — Akteneinsicht bei hängigem Verfahren"
 weight: 101
 date: 2026-06-29
-lastmod: 2026-10-15
+lastmod: 2026-11-27
 description: "Kommentar zu Art. 101 StPO – Akteneinsicht bei hängigem Verfahren: Parteieinsicht und Zeitpunkt (Abs. 1), Behördeneinsicht (Abs. 2), Dritteinsicht (Abs. 3) und Rechtsschutz."
 tags: ["StPO", "Akteneinsicht", "Parteien", "Auskunftspersonen", "Dritte", "Behörden", "Verfahrensrechte", "Rechtliches Gehör"]
 revisions:
+  - date: 2026-11-27
+    by: "Antigravity Agent"
+    model: "gemini-2.5-pro"
+    note: "Einarbeitung von BGer 7B_731/2024 vom 28. Oktober 2026 in Abschnitt IV (Dritteinsicht durch Medienschaffende, Wächterfunktion der Presse, Justizöffentlichkeit bei Einstellungsverfügungen und Interessenabwägung bei Selbstpublikation des Dispositivs) sowie Neunummerierung der Randziffern."
   - date: 2026-10-15
     by: "Claude Code"
     model: "claude-opus-5-5"
@@ -52,15 +56,19 @@ revisions:
 
 ### IV. Abs. 3: Einsicht durch Dritte
 
-**Rz. 10** Nicht am Verfahren beteiligte Dritte (einschliesslich Medienschaffender oder Forscher) haben nur ausnahmsweise Anspruch auf Akteneinsicht, wenn sie ein wissenschaftliches oder ein anderes schützenswertes Interesse geltend machen und der Einsichtnahme keine überwiegenden Interessen entgegenstehen. Ein schützenswertes Interesse von Dritten ist nach ständiger Praxis restriktiv zu handhaben und nur in begründeten Ausnahmefällen anzuerkennen ([BStGer SN.2024.3 E. 1](https://mcp.opencaselaw.ch/entscheid/bstger_SN.2024.3)).
+**Rz. 10** Nicht am Verfahren beteiligte Dritte (einschliesslich Medienschaffender oder Forscher) haben nur ausnahmsweise Anspruch auf Akteneinsicht, wenn sie ein wissenschaftliches oder ein anderes schützenswertes Interesse geltend machen und der Einsichtnahme keine überwiegenden Interessen entgegenstehen. Ein schützenswertes Interesse von Dritten ist nach ständiger Praxis restriktiv zu handhaben und nur in begründeten Ausnahmefällen anzuerkennen ([BStGer SN.2024.3 E. 1](https://mcp.opencaselaw.ch/entscheid/bstger_SN.2024.3)). Solange das Strafverfahren nicht rechtskräftig abgeschlossen ist, richtet sich das Einsichtsgesuch verfahrensfremder Dritter nach Art. 101 Abs. 3 StPO; erst nach rechtskräftigem Verfahrensabschluss greift das kantonale bzw. eidgenössische Datenschutz- und Informationsrecht (Art. 99 Abs. 1 StPO; [BGer 7B_731/2024 E. 1.2, 2.3.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_731_2024#e-1-2); [BGE 147 I 463 E. 3.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_463#e-3-3)).
+
+**Rz. 11** Besondere Bedeutung hat die Dritteinsicht durch Medienschaffende im Licht des Justizöffentlichkeitsprinzips (Art. 30 Abs. 3 BV, Art. 6 Ziff. 1 EMRK) und der Medienfreiheit (Art. 16 Abs. 3, Art. 17 BV, Art. 10 EMRK). Medienschaffenden kommt als Gerichtsberichterstattern eine wesentliche «Wächterrolle» (*public watchdog*) und Brückenfunktion zu, weil die demokratische Kontrolle der Justiz durch die Öffentlichkeit regelmässig erst durch deren vermittelnde Tätigkeit verwirklicht wird ([BGer 7B_731/2024 E. 2.3.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_731_2024#e-2-3-1); [BGE 147 IV 145 E. 1.3](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_IV_145#e-1-3)). Aus dem Grundsatz der Justizöffentlichkeit kann in begründeten Fällen auch ein schützenswertes Interesse an der Einsichtnahme in strafprozessuale Entscheide folgen, die eine Verfahrenserledigung ohne Straffolgen bewirken — namentlich in Einstellungsverfügungen ([BGer 7B_731/2024 E. 2.3.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_731_2024#e-2-3-1); [BGE 147 I 463 E. 3.1.2](https://mcp.opencaselaw.ch/entscheid/bge_BGE_147_I_463#e-3-1-2)). Die demokratische Kontrolle verlangt, dass die Öffentlichkeit nachvollziehen kann, wie Strafbehörden das Recht verwalten und warum ein Verfahren ohne Straffolgen erledigt wurde, namentlich auch im Hinblick auf Kosten- und Entschädigungsfolgen ([BGer 7B_731/2024 E. 2.5.1](https://mcp.opencaselaw.ch/entscheid/bger_7B_731_2024#e-2-5-1)).
+
+**Rz. 12** Bei der nach Art. 101 Abs. 3 StPO gebotenen Abwägung zwischen dem Informationsinteresse der Öffentlichkeit und den Geheimhaltungs- sowie Persönlichkeitsinteressen der Betroffenen (Art. 13 BV, Art. 8 EMRK, Art. 28 ZGB) fällt ins Gewicht, ob und wie der Fall bereits öffentlich bekannt ist. Hat die beschuldigte Person das Dispositiv der Einstellungsverfügung selbst öffentlich bekannt gemacht (etwa zur medialen Entlastung), schwächt dies ihr Geheimhaltungsinteresse an den Entscheidgründen erheblich: Medienschaffende müssen sich nicht mit der blossen behördlichen oder privaten Bekanntgabe des Dispositivs begnügen, sondern dürfen und sollen den Verfahrensausgang anhand der Erwägungen überprüfen und einordnen ([BGer 7B_731/2024 E. 2.5.2](https://mcp.opencaselaw.ch/entscheid/bger_7B_731_2024#e-2-5-2)). Das Verhältnismässigkeitsprinzip (Art. 36 Abs. 3 BV) wird gewahrt, indem die Einstellungsverfügung in anonymisierter Form herausgegeben wird und Medienschaffende bei ihrer Berichterstattung an die journalistischen Sorgfaltspflichten und den Persönlichkeitsschutz gebunden bleiben ([BGer 7B_731/2024 E. 2.5.3 f.](https://mcp.opencaselaw.ch/entscheid/bger_7B_731_2024#e-2-5-3)).
 
 ### V. Praxisfragen und kantonale Rechtsprechung
 
 #### 1. Dritteinsicht nach Unternehmensfusion / Rechtsnachfolge
-**Rz. 11** Der Rechtsnachfolgerin einer juristischen Person, welche eine Strafanzeige erstattet hat, kommt nach einer Fusion keine Parteistellung im laufenden Strafverfahren zu; ihr Akteneinsichtsbegehren ist nach Art. 101 Abs. 3 StPO als Drittgesuch zu prüfen und scheitert, wenn kein unabweisbares schützenswertes Interesse dargelegt wird ([Kantonsgericht SG AK.2022.146-AK vom 14. Juli 2022](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_AK.2022.146-AK)).
+**Rz. 13** Der Rechtsnachfolgerin einer juristischen Person, welche eine Strafanzeige erstattet hat, kommt nach einer Fusion keine Parteistellung im laufenden Strafverfahren zu; ihr Akteneinsichtsbegehren ist nach Art. 101 Abs. 3 StPO als Drittgesuch zu prüfen und scheitert, wenn kein unabweisbares schützenswertes Interesse dargelegt wird ([Kantonsgericht SG AK.2022.146-AK vom 14. Juli 2022](https://mcp.opencaselaw.ch/entscheid/sg_gerichte_AK.2022.146-AK)).
 
 #### 2. Schutz vor sachverhaltsfremden Aktenstücken
-**Rz. 12** Zu den Untersuchungsakten gehören grundsätzlich nur jene Informationen, die mit dem möglichen Schuldbefund und der Strafzumessung in direktem Zusammenhang stehen. Zum Schutz der Persönlichkeit dürfen sachverhaltsfremde Aktenstücke anderer Personen oder konnexer Verfahren nicht ohne Weiteres in das Dossier integriert und den Gegenparteien offengelegt werden ([Kantonsgericht LU 2N 14 98 vom 23. September 2014](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_2N_14_98)).
+**Rz. 14** Zu den Untersuchungsakten gehören grundsätzlich nur jene Informationen, die mit dem möglichen Schuldbefund und der Strafzumessung in direktem Zusammenhang stehen. Zum Schutz der Persönlichkeit dürfen sachverhaltsfremde Aktenstücke anderer Personen oder konnexer Verfahren nicht ohne Weiteres in das Dossier integriert und den Gegenparteien offengelegt werden ([Kantonsgericht LU 2N 14 98 vom 23. September 2014](https://mcp.opencaselaw.ch/entscheid/lu_gerichte_2N_14_98)).
 
 ## Querverweise
 

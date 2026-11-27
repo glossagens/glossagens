@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 323 StPO"
 weight: 99
 date: "2026-08-30"
-lastmod: "2026-08-30"
+lastmod: "2026-11-27"
 description: "Übersicht der Rechtsprechung zu Art. 323 StPO – Wiederaufnahme des durch Einstellungsverfügung oder Nichtanhandnahme rechtskräftig beendeten Verfahrens."
 tags: ["Rechtsprechung", "StPO", "Wiederaufnahme", "Einstellungsverfügung", "Nichtanhandnahme", "neue Beweismittel", "neue Tatsachen", "Ne bis in idem"]
 revisions:
+  - date: "2026-11-27"
+    by: "Antigravity Agent"
+    model: "gemini-3.7-flash"
+    note: "Einarbeitung des Entscheids BGer 7B_1197/2026 vom 27.10.2026 (Rechtsmissbrauchsverbot beim Zurückhalten bekannter Beweismittel im Wiederaufnahmegesuch)."
   - date: "2026-08-30"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -36,7 +40,12 @@ revisions:
 
 ---
 
-## II. Entscheide des Bundesstrafgerichts und Bundesgerichts
+## II. Weitere Entscheide (Bundesgericht und Bundesstrafgericht)
+
+### [BGer 7B_1197/2026 vom 27.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_7B_1197/2026) E. 4.1, 4.3, 4.4
+- **Thema**: Schranke des Rechtsmissbrauchs bei Wiederaufnahmegesuchen; Zurückhalten bekannter Beweismittel
+- **Sachverhalt**: Die Staatsanwaltschaft erliess am 28. Juni 2024 eine Nichtanhandnahmeverfügung (Art. 310 StPO). Rund ein Jahr später reichte der Privatkläger unter Berufung auf Art. 323 Abs. 1 lit. b StPO ein Gesuch um Wiederaufnahme des Verfahrens ein und legte Bankbelege sowie Reisedaten vor. Die kantonale Vorinstanz trat wegen Rechtsmissbrauchs (Art. 3 Abs. 2 lit. a StPO i.V.m. Art. 2 Abs. 2 ZGB) nicht auf das Gesuch ein bzw. wies es ab, da der Gesuchsteller diese Unterlagen bereits vor Erlass der Nichtanhandnahmeverfügung kannte und ohne Weiteres hätte vorlegen können. Das Bundesgericht wies die dagegen erhobene Beschwerde ab.
+- **Kernaussage**: Das Rechtsinstitut der Wiederaufnahme (Art. 323 StPO) untersteht dem Grundsatz von Treu und Glauben und dem Rechtsmissbrauchsverbot (Art. 3 Abs. 2 lit. a StPO, Art. 2 Abs. 2 ZGB; E. 4.1). Eine Partei handelt rechtsmissbräuchlich, wenn sie Beweismittel, die ihr bereits während des vorangegangenen Verfahrens bekannt waren und ohne Schwierigkeiten hätten beigebracht werden können, fahrlässig oder taktisch zurückhält, um sie erst nachträglich im Rahmen eines Wiederaufnahmegesuchs nach Art. 323 StPO nachzuschieben (E. 4.3). Die Schutzbehauptung, sich wegen häufiger Auslandreisen nicht an massgebliche Aufenthalte oder Dokumente erinnert zu haben, entkräftet den Rechtsmissbrauchsvorwurf nicht (E. 4.4).
 
 ### [TPF 2016 1 (BB.2015.22 vom 29.01.2016)](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2016-1_2016.pdf)
 - **Thema**: Internationale Tragweite von Einstellungsverfügungen und Wiederaufnahme
@@ -110,4 +119,4 @@ revisions:
 
 ---
 
-*Letzte Aktualisierung: 2026-08-30*
+*Letzte Aktualisierung: 2026-11-27*

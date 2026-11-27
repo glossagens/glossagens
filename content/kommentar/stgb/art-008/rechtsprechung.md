@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 8 StGB"
 weight: 99
 date: 2026-07-31
-lastmod: 2026-08-23
+lastmod: 2026-11-27
 description: "Übersicht der Rechtsprechung zu Art. 8 StGB — Begehungsort, Handlungs- und Erfolgsort, Ubiquitätsprinzip, Versuch und Internetdelikte."
 tags: ["Rechtsprechung", "StGB", "Begehungsort", "Handlungsort", "Erfolgsort", "Ubiquitätsprinzip", "Allgemeiner Teil"]
 revisions:
+  - date: 2026-11-27
+    by: "Antigravity"
+    model: "gemini-4-neon"
+    note: "Aufnahme von BGer 7B_1067/2024 vom 27.10.2026 unter «II. Weitere Entscheide»: Erfolgsort beim Betrug als kupiertem Erfolgsdelikt (Dispositionsort der getäuschten Person) sowie Ausschluss von Serverstandort und Holdingsitz als Begehungsorte nach Art. 8 StGB."
   - date: 2026-08-23
     by: "Antigravity"
     model: "gemini-3.7-flash"
@@ -83,3 +87,11 @@ revisions:
 - **Thema**: Schweizerische Strafhoheit bei ungetreuer Geschäftsbesorgung (Art. 158 StGB).
 - **Kernaussage**: Das Ubiquitätsprinzip nach Art. 8 Abs. 1 StGB erweitert die schweizerische Strafhoheit auf im Ausland vorgenommene Tathandlungen, wenn der vermögensrechtliche Erfolg bzw. Schaden im Inland eingetreten ist.
 - **Einschlägig für**: Art. 8 Abs. 1 StGB, Art. 158 StGB.
+
+---
+
+### [BGer 7B_1067/2024 vom 27. Oktober 2026](https://mcp.opencaselaw.ch/entscheid/bger_7B_1067_2024) E. 3.2, 3.5 — Erfolgsort beim Betrug und Serverstandort in der Schweiz
+- **Thema**: Erfolgsort beim Betrug (kupiertes Erfolgsdelikt); Ausschluss von Serverstandort und statutarischem Holdingsitz als Begehungsorte nach Art. 8 StGB.
+- **Sachverhalt**: Der Beschwerdeführer erstattete Strafanzeige wegen Betrugs (Art. 146 StGB) gegen seine Ehefrau, die ihm über Jahre hinweg fingierte Krankheitskosten in Millionenhöhe für angebliche Behandlungen in Südafrika abverlangt und eine Erbschaft einer wohlhabenden Schweizer Familie vorgespiegelt hatte. Zur Begründung der schweizerischen Gerichtsbarkeit berief sich der Anzeiger auf Schweizer E-Mail-Hoster, den Schweizer Sitz einer Holdinggesellschaft der Familie sowie behauptete Überweisungen aus der Schweiz. Die Genfer Behörden erliessen eine Nichtanhandnahmeverfügung mangels schweizerischer Gerichtsbarkeit.
+- **Kernaussage**: Beim Betrug (Art. 146 StGB) als materiellem Delikt mit doppeltem Erfolg (kupiertes Erfolgsdelikt) ist der Erfolgsort nach Art. 8 Abs. 1 StGB sowohl am Ort des Schadenseintritts (Vermögensminderung beim Opfer) als auch am Ort des erstrebten Bereicherungserfolgs gegeben. Massgeblich ist namentlich der Handlungs- bzw. Dispositionsort der getäuschten Person, an welchem diese im Zeitpunkt der schädigenden Vermögensverfügung physisch anwesend ist. Weder der blosse Standort eines Web- oder E-Mail-Servers in der Schweiz noch der statutarische Sitz einer beteiligten Holdinggesellschaft begründen einen Begehungsort nach Art. 8 StGB. Mangels Begehungshandlung oder Erfolgseintritts in der Schweiz fehlt die schweizerische Strafhoheit (Art. 3 i.V.m. Art. 8 StGB), was ein Verfahrenshindernis begründet und die Nichtanhandnahme rechtfertigt (Art. 310 Abs. 1 lit. b StPO).
+- **Einschlägig für**: Art. 3 StGB, Art. 8 Abs. 1 StGB, Art. 146 StGB, Art. 310 Abs. 1 lit. b StPO.

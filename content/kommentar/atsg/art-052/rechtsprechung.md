@@ -2,10 +2,14 @@
 title: "Rechtsprechung zu Art. 52 ATSG"
 weight: 99
 date: 2026-10-20
-lastmod: 2026-10-20
+lastmod: 2026-11-27
 description: "Übersicht der Leitentscheide und kantonalen Rechtsprechung zu Art. 52 ATSG: Einspracheverfahren, Nachfristgrenzen bei Vertretung, Rechtsmissbrauchsverbot und Parteientschädigung."
 tags: ["Rechtsprechung", "ATSG", "Einsprache", "Nachfrist", "Rechtsmissbrauch"]
 revisions:
+  - date: 2026-11-27
+    by: "Commentary Editor"
+    model: "gemini-3.8-flash"
+    note: "Aufnahme von BGer 8C_100/2026 vom 12.11.2026 unter «II. Weitere Entscheide»: Taktische Blanko-Einsprache am ersten Tag der Frist, Rechtsmissbrauch und Verwirkung des Vertrauensschutzes bei gesetzwidriger Fristerstreckung."
   - date: 2026-10-20
     by: "Antigravity Agent"
     model: "gemini-3.8-flash"
@@ -53,6 +57,12 @@ revisions:
 ---
 
 ## II. Weitere Entscheide
+
+### Rechtsmissbrauch bei Blanko-Einsprache am ersten Tag der Frist und Ausschluss des Vertrauensschutzes bei gesetzwidriger Fristerstreckung
+[BGer 8C_100/2026 vom 12. November 2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=12.11.2026_8C_100/2026)  
+*Art. 52 Abs. 1 ATSG, Art. 40 Abs. 1 ATSG, Art. 10 Abs. 1 und 5 ATSV, Art. 2 Abs. 2 ZGB, Art. 9 BV*  
+**Sachverhalt:** Die Suva stellte mit Verfügung vom 2. April 2025 die Taggelder eines Versicherten ein. Dieser war anwaltlich vertreten. Bereits am ersten Tag der 30-tägigen Frist reichte der Anwalt eine vorsorgliche, völlig unbegründete Einsprache («Blanko-Einsprache») ein und ersuchte um Fristansetzung zur Begründung. Die Suva gewährte ihm am 27. Mai 2025 fälschlicherweise eine Fristerstreckung bis zum 31. Juli 2025. Nach einer weiteren unbegründeten Eingabe vom 22. Mai 2025 reichte der Anwalt die Begründung am 31. Juli 2025 ein. Die Suva trat wegen Fristversäumnisses nicht auf die Einsprache ein. Das kantonale Versicherungsgericht hiess die Beschwerde des Versicherten mit Blick auf den Vertrauensschutz (Art. 9 BV) in die behördliche Fristansetzung gut.  
+**Kernaussage:** Das Bundesgericht hiess die Beschwerde der Suva gut und bestätigte das Nichteintreten. Nach Art. 52 Abs. 1 ATSG i.V.m. Art. 40 Abs. 1 ATSG ist die Einsprachefrist gesetzlich und nicht erstreckbar; gemäss Art. 10 Abs. 1 ATSV hat die Einsprache zwingend ein Rechtsbegehren und eine Begründung zu enthalten (E. 4.2). Eine Nachfrist nach Art. 10 Abs. 5 ATSV ist bei rechtskundiger Vertretung nur geboten, wenn diese kurz vor Fristablauf in gutem Glauben mandatiert wurde und das Dossier nicht kannte (E. 4.3). Reicht eine rechtskundige Vertretung bereits am ersten Fristtag bewusst eine unbegründete Blanko-Einsprache ein, um eine Nachfrist zu erzwingen, liegt ein offenbarer Rechtsmissbrauch (Art. 2 Abs. 2 ZGB) vor; auf die Nachfristansetzung ist zu verzichten (E. 5.1 f.). Zudem kann sich der Anwalt nicht auf Vertrauensschutz (Art. 9 BV) berufen: Als qualifiziertem Rechtsvertreter musste ihm die gesetzliche Unerstreckbarkeit der Frist und der Rechtsmissbrauch seines Vorgehens bewusst sein; eine fehlerhafte Fristgewährung der Kasse vermag kein schutzwürdiges Vertrauen zu begründen (E. 5.3 f.).
 
 ### Unzureichende Pauschalkritik an Vertrauensarztbeurteilungen bei Vollmandat
 [BGer 8C_681/2025 vom 15. Mai 2026](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_008_8C-681-2025_2026-05-15.html)  
