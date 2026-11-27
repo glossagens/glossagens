@@ -4,8 +4,12 @@ weight: 99
 date: "2026-08-30"
 lastmod: "2026-11-27"
 description: "Übersicht der Rechtsprechung zu Art. 323 StPO – Wiederaufnahme des durch Einstellungsverfügung oder Nichtanhandnahme rechtskräftig beendeten Verfahrens."
-tags: ["Rechtsprechung", "StPO", "Wiederaufnahme", "Einstellungsverfügung", "Nichtanhandnahme", "neue Beweismittel", "neue Tatsachen", "Ne bis in idem"]
+tags: ["Rechtsprechung", "StPO", "Wiederaufnahme", "Einstellungsverfügung", "Nichtanhandnahme", "neue Beweismittel", "neue Tatsachen", "Ne bis in idem", "Rechtsmissbrauch"]
 revisions:
+  - date: "2026-11-27"
+    by: "Antigravity Agent"
+    model: "gemini-4-neon"
+    note: "Vollständige Bereinigung und Aktualisierung der Rechtsprechungsübersicht: sämtliche 17 Einträge (5 BGE, 8 BGer, 1 BStGer, 3 kantonale Entscheide) im Volltext über entscheidsuche.ch bzw. opencaselaw (7B_1197/2026) verifiziert; fehlerhafte oder nicht belegte Einträge der Erstfassung (2026-08-30) entfernt."
   - date: "2026-11-27"
     by: "Antigravity Agent"
     model: "gemini-3.7-flash"
@@ -16,107 +20,93 @@ revisions:
     note: "Initialerstellung der Rechtsprechungsübersicht zu Art. 323 StPO mit 20 verifizierten Entscheiden (BGE, BGer, TPF, Zürcher Obergericht)."
 ---
 
-## I. Leitentscheide (BGE)
+## I. Leitentscheide
 
-### [BGE 141 IV 194](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-194_2015.html) E. 2.3
-- **Thema**: Begriff der neuen Tatsachen und Beweismittel; Wiederaufnahme nach Nichtanhandnahme
-- **Kernaussage**: Tatsachen und Beweismittel sind neu, wenn sie der Staatsanwaltschaft im Zeitpunkt des Erlasses der Einstellungs- oder Nichtanhandnahmeverfügung nicht bekannt waren. An die Wiederaufnahme nach einer Nichtanhandnahme (Art. 310 Abs. 2 StPO) sind geringere Anforderungen zu stellen als an jene nach einer förmlichen Einstellung (Art. 319 StPO).
-- **Einschlägig für**: Abs. 1 lit. a und b
+### Begriff der neuen Beweismittel und geringere Anforderungen nach Nichtanhandnahme
+[BGE 141 IV 194 E. 2.3–2.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-194_2015.html#consideration_2.3)
+* **Sachverhalt:** Die Regionale Staatsanwaltschaft Oberland (BE) verfügte am 6. Februar 2014 mangels konkreter Beweise die Nichtanhandnahme wegen eines versuchten Einbruchdiebstahls, obwohl aktenkundig ein am Tatort sichergestellter Fugenkratzer dem Kriminaltechnischen Dienst übergeben worden war. Zwanzig Tage später ging ein DNA-Treffer des Beschuldigten auf dem Werkzeug ein, worauf die Staatsanwaltschaft das Verfahren gleichentags wieder aufnahm. Das Obergericht Bern hob die Wiederaufnahme auf; das Bundesgericht schützte sie.
+* **Kernaussage:** Beweismittel sind neu im Sinne von Art. 323 Abs. 1 StPO, wenn sie im Zeitpunkt der Einstellung oder Nichtanhandnahme unbekannt waren und sich nicht aus den früheren Akten ergeben; die blosse theoretische Möglichkeit eines künftigen Spurenfundes schliesst die Neuheit nicht aus. An die Wiederaufnahme nach einer Nichtanhandnahme (Art. 310 Abs. 2 StPO) sind geringere Anforderungen zu stellen als an jene nach einer Einstellung.
 
-### [BGE 144 IV 97](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-97_2018.html) E. 2.1
-- **Thema**: Abgrenzung von Wiederaufnahme (Art. 323 StPO) und gerichtlicher Revision (Art. 410 StPO)
-- **Kernaussage**: Art. 323 StPO regelt ausschliesslich die Wiederaufnahme staatsanwaltlich eingestellter Verfahren; ist das Verfahren durch gerichtliches Sachurteil beendet worden, ist die Wiederaufnahme ausgeschlossen und ausschliesslich das Rechtsinstitut der Revision anwendbar.
-- **Einschlägig für**: Abs. 1
+### Keine Wiederaufnahme bei rückwirkender Gesetzesänderung (Unverjährbarkeit)
+[BGE 141 IV 93 E. 2.3](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-93_2015.html#consideration_2.3)
+* **Sachverhalt:** Die Staatsanwaltschaft Basel-Stadt stellte am 10. August 2010 ein Strafverfahren gegen einen Vater wegen sexueller Übergriffe auf seine Tochter (1993–1995) infolge Verjährung unangefochten ein. Nach Inkrafttreten von Art. 101 Abs. 1 lit. e und Abs. 3 StGB am 1. Januar 2013 verfügte sie die Wiederaufnahme. Das Appellationsgericht hob diese auf; das Bundesgericht wies die Beschwerde der Tochter ab.
+* **Kernaussage:** Die Wirkungen von unter kantonalem Recht ergangenen Einstellungsverfügungen richten sich seit dem 1. Januar 2011 nach Art. 320 Abs. 4 und Art. 323 StPO. Eine nachträgliche, selbst rückwirkende Änderung der Verjährungsfristen betrifft nicht den Sachverhalt, sondern dessen rechtliche Beurteilung, und stellt keine neue Tatsache im Sinne von Art. 323 Abs. 1 StPO dar.
 
-### [BGE 144 IV 362](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-362_2018.html) E. 1.3
-- **Thema**: Verbot der doppelten Strafverfolgung (*ne bis in idem*) und Durchbrechung durch Art. 323 StPO
-- **Kernaussage**: Eine rechtskräftige Einstellungsverfügung steht einer erneuten Verfolgung wegen derselben Tat entgegen (Art. 320 Abs. 4 StPO), ausser die gesetzlichen Wiederaufnahmegründe von Art. 323 StPO sind erfüllt.
-- **Einschlägig für**: Abs. 1
+### Unanfechtbarkeit der Wiederaufnahme nach Nichtanhandnahmeverfügung
+[BGE 144 IV 81 E. 2.3.2–2.3.5](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-81_2018.html#consideration_2.3.2)
+* **Sachverhalt:** Nach einer Nichtanhandnahmeverfügung der Genfer Staatsanwaltschaft wegen einer Investition von USD 1'000'000 in eine panamaische Minengesellschaft legte die Geschädigte ein späteres Einvernahmeprotokoll aus einem Parallelverfahren vor. Die Staatsanwaltschaft verfügte die Wiederaufnahme; die Genfer Beschwerdekammer hob diese auf Beschwerde des Beschuldigten auf. Das Bundesgericht hob den kantonalen Entscheid auf.
+* **Kernaussage:** Kommt die Staatsanwaltschaft gemäss Art. 323 Abs. 1 i.V.m. Art. 310 Abs. 2 StPO auf eine Nichtanhandnahmeverfügung zurück, entspricht diese Verfügung der Eröffnung einer Untersuchung nach Art. 309 StPO. Art. 309 Abs. 3 Satz 3 StPO (Unanfechtbarkeit der Eröffnung) gilt analog, weshalb die Beschwerde der beschuldigten Person gegen die Wiederaufnahme nach Nichtanhandnahme unzulässig ist.
 
-### [BGE 141 IV 349](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-141-IV-349_2015.html) E. 2.2
-- **Thema**: Materielle Rechtskraft und Schutz des Beschuldigten
-- **Kernaussage**: Die Wiederaufnahme darf nicht dazu dienen, frühere Ermittlungsfehler oder eine unvollständige Beweiswürdigung der Staatsanwaltschaft bei unveränderter Beweislage nachträglich zu korrigieren.
-- **Einschlägig für**: Abs. 1 lit. b
+### Sperrwirkung einer rechtskräftigen Teileinstellungsverfügung (*ne bis in idem*)
+[BGE 144 IV 362 E. 1.3.1 und 1.4](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-144-IV-362_2018.html#consideration_1.3.1)
+* **Sachverhalt:** Die Staatsanwaltschaft stellte ein Verfahren teilweise hinsichtlich einer bestimmten rechtlichen Qualifikation desselben Lebensvorgangs ein und erliess im Übrigen einen Strafbefehl. Die Teileinstellung erwuchs unangefochten in Rechtskraft.
+* **Kernaussage:** Eine Teileinstellung kommt grundsätzlich nur bei selbständig erledigbaren Lebensvorgängen in Betracht, nicht bei einer bloss anderen rechtlichen Würdigung desselben Sachverhalts. Erwächst eine fehlerhafte Teileinstellung dennoch in Rechtskraft, steht deren Sperrwirkung (Art. 320 Abs. 4 i.V.m. Art. 11 Abs. 1 StPO) einer Verurteilung wegen desselben Lebenssachverhalts entgegen.
 
----
-
-## II. Weitere Entscheide (Bundesgericht und Bundesstrafgericht)
-
-### [BGer 7B_1197/2026 vom 27.10.2026](http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2026_7B_1197/2026) E. 4.1, 4.3, 4.4
-- **Thema**: Schranke des Rechtsmissbrauchs bei Wiederaufnahmegesuchen; Zurückhalten bekannter Beweismittel
-- **Sachverhalt**: Die Staatsanwaltschaft erliess am 28. Juni 2024 eine Nichtanhandnahmeverfügung (Art. 310 StPO). Rund ein Jahr später reichte der Privatkläger unter Berufung auf Art. 323 Abs. 1 lit. b StPO ein Gesuch um Wiederaufnahme des Verfahrens ein und legte Bankbelege sowie Reisedaten vor. Die kantonale Vorinstanz trat wegen Rechtsmissbrauchs (Art. 3 Abs. 2 lit. a StPO i.V.m. Art. 2 Abs. 2 ZGB) nicht auf das Gesuch ein bzw. wies es ab, da der Gesuchsteller diese Unterlagen bereits vor Erlass der Nichtanhandnahmeverfügung kannte und ohne Weiteres hätte vorlegen können. Das Bundesgericht wies die dagegen erhobene Beschwerde ab.
-- **Kernaussage**: Das Rechtsinstitut der Wiederaufnahme (Art. 323 StPO) untersteht dem Grundsatz von Treu und Glauben und dem Rechtsmissbrauchsverbot (Art. 3 Abs. 2 lit. a StPO, Art. 2 Abs. 2 ZGB; E. 4.1). Eine Partei handelt rechtsmissbräuchlich, wenn sie Beweismittel, die ihr bereits während des vorangegangenen Verfahrens bekannt waren und ohne Schwierigkeiten hätten beigebracht werden können, fahrlässig oder taktisch zurückhält, um sie erst nachträglich im Rahmen eines Wiederaufnahmegesuchs nach Art. 323 StPO nachzuschieben (E. 4.3). Die Schutzbehauptung, sich wegen häufiger Auslandreisen nicht an massgebliche Aufenthalte oder Dokumente erinnert zu haben, entkräftet den Rechtsmissbrauchsvorwurf nicht (E. 4.4).
-
-### [TPF 2016 1 (BB.2015.22 vom 29.01.2016)](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2016-1_2016.pdf)
-- **Thema**: Internationale Tragweite von Einstellungsverfügungen und Wiederaufnahme
-- **Kernaussage**: Eine durch schweizerische Strafbehörden verfügte Einstellung entfaltet Sperrwirkung (*ne bis in idem*), solange keine rechtsgültige Wiederaufnahmeverfügung nach Art. 323 StPO ergangen ist.
-
-### [TPF 2015 44 (BB.2014.168 vom 08.04.2015)](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_TPF-2015-44_2015.pdf)
-- **Thema**: Form der Wiederaufnahme und Beschwerdefähigkeit
-- **Kernaussage**: Die Wiederaufnahme hat durch förmliche, begründete Verfügung der Staatsanwaltschaft zu erfolgen; diese ist mit Beschwerde nach Art. 393 ff. StPO anfechtbar.
-
-### [TPF BB.2014.180 vom 06.05.2015](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2014-180_2015-05-06.pdf)
-- **Thema**: Wiederaufnahme nach Teileinstellung
-- **Kernaussage**: Wurde ein Verfahren nur bezüglich einzelner Deliktsvorwürfe eingestellt, erfordert die Wiederaufnahme hinsichtlich dieser Teilaspekte den Nachweis neuer Tatsachen nach Art. 323 Abs. 1 StPO.
-
-### [TPF BB.2022.146 vom 08.09.2025](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2022-146_2025-09-08.pdf)
-- **Thema**: Prüfungspflicht bei Wiederaufnahmegesuchen der Privatklägerschaft
-- **Kernaussage**: Reicht die geschädigte Person neue Beweismittel ein, hat die Staatsanwaltschaft die Voraussetzungen von Art. 323 StPO förmlich zu prüfen und bei Verneinung eine beschwerdefähige Ablehnungsverfügung zu erlassen.
-
-### [TPF BB.2021.74 vom 05.04.2022](https://entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2021-74_2022-04-05.pdf)
-- **Thema**: Ablehnung der Wiederaufnahme und unentgeltliche Rechtspflege
-- **Kernaussage**: Ein Gesuch um Wiederaufnahme ist aussichtslos, wenn die vorgebrachten Beweismittel bereits in den Akten lagen oder den Tatverdacht nicht substanziell verstärken.
-
-### [BGer 6B_77/2021 vom 17.06.2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-77-2021_2021-06-17.html) E. 2.1
-- **Thema**: Beweismittel, die sich nicht aus früheren Akten ergeben (Abs. 1 lit. b)
-- **Kernaussage**: Eine Wiederaufnahme ist unzulässig, wenn das Beweismittel zwar formell neu eingereicht wird, sich sein wesentlicher Inhalt jedoch bereits aus den früheren Verfahrensakten ergab.
-
-### [BGer 6B_1052/2019 vom 25.03.2020](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-1052-2019_2020-03-25.html) E. 2.2
-- **Thema**: Eignung der neuen Beweismittel zur Begründung strafrechtlicher Verantwortlichkeit
-- **Kernaussage**: Die neuen Tatsachen müssen von solchem Gewicht sein, dass sie bei einer Gesamtwürdigung voraussichtlich zu einer Anklageerhebung oder einem Strafbefehl führen würden.
-
-### [BGer 6B_825/2019 vom 06.05.2021](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-825-2019_2021-05-06.html) E. 1.3
-- **Thema**: Eintritt der Verfolgungsverjährung als Wiederaufnahmehindernis
-- **Kernaussage**: Ist die strafrechtliche Verfolgungsverjährung nach der Einstellung eingetreten, ist eine Wiederaufnahme von Amtes wegen ausgeschlossen.
-
-### [BGer 6B_446/2018 vom 18.10.2018](https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-446-2018_2018-10-18.html) E. 2.4
-- **Thema**: Mitteilungspflichten nach Abs. 2
-- **Kernaussage**: Die Verfügung über die Wiederaufnahme ist allen Parteien und Behörden zuzustellen, denen die frühere Einstellung eröffnet worden war.
+### Präzisierung der Sperrwirkung bei deklarierter Teileinstellung erschwerender Tatumstände
+[BGE 148 IV 124 E. 2.6.5–2.6.6](https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_006_BGE-148-IV-124_2022.html#consideration_2.6.6)
+* **Sachverhalt:** Im Verfahren stritten die Parteien über die Zulässigkeit einer Anklageergänzung und die Sperrwirkung einer Teileinstellung in Bezug auf einzelne, nicht angeklagte erschwerende Tatumstände.
+* **Kernaussage:** In Präzisierung von BGE 144 IV 362 löst eine explizite Teileinstellungsverfügung, die auf die gleichzeitig erhobene Anklage oder den Strafbefehl Bezug nimmt und klar erkennen lässt, dass das Verfahren lediglich bezüglich einzelner erschwerender Tatumstände eingestellt wird, keine *ne bis in idem*-Sperrwirkung gegenüber den gleichzeitig angeklagten Vorwürfen aus.
 
 ---
 
-## III. Kantonale Entscheide und Praxisfragen
+## II. Weitere Entscheide
 
-### [ZH Obergericht UH140381 vom 26.03.2015](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UH140381_2015-03-26.pdf)
-- **Kanton**: Zürich
-- **Thema**: Abgrenzung echter und unechter Noven im Einstellungsverfahren
-- **Kernaussage**: Als neu im Sinne von Art. 323 Abs. 1 StPO gelten sowohl Tatsachen, die sich erst nach der Einstellung zugetragen haben (echte Noven), als auch solche, die zwar vor der Einstellung existierten, den Strafbehörden aber unverschuldet unbekannt geblieben sind (unechte Noven).
+### Rechtsmissbrauch durch unterlassene Abklärung bekannter Beweismittel innert Beschwerdefrist
+[BGer 7B_1197/2026 vom 27. Oktober 2026, E. 4.1–4.4](https://mcp.opencaselaw.ch/entscheid/bger_7B_1197_2026)
+* **Sachverhalt:** Die Genfer Staatsanwaltschaft nahm eine Betrugsanzeige über USD 1'957'000 und GBP 59'500 am 28. Juni 2024 mangels Schweiz-Bezugs nicht an die Hand. Rund ein Jahr später ersuchte der Privatkläger um Wiederaufnahme nach Art. 323 StPO und reichte Waadtländer Aufenthalts- und Überweisungsbelege aus dem Jahr 2021 ein, die er erst nachträglich in seinen digitalen Archiven gefunden haben wollte.
+* **Kernaussage:** Das Rechtsinstitut der Wiederaufnahme untersteht dem Grundsatz von Treu und Glauben und dem Rechtsmissbrauchsverbot (Art. 3 Abs. 2 lit. a und b StPO, Art. 2 Abs. 2 ZGB). Wer angesichts der klaren Begründung einer Nichtanhandnahme (fehlender Schweiz-Bezug) ihm zugängliche Unterlagen nicht innert der zehntägigen Beschwerdefrist beibringt und keinen legitimen Entschuldigungsgrund darlegt, handelt rechtsmissbräuchlich, wenn er sie später im Rahmen von Art. 323 StPO nachschiebt.
 
-### [ZH Obergericht UH150341 vom 08.07.2016](https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_002_UH150341_2016-07-08.pdf)
-- **Kanton**: Zürich
-- **Thema**: Wiederaufnahme aufgrund neuer DNA-Gutachten oder digitaler Spuren
-- **Kernaussage**: Die nachträgliche Zuordnung von DNA-Profilen oder neu entschlüsselten Chatprotokollen stellt ein klassisches neues Beweismittel dar, das die Wiederaufnahme nach Art. 323 StPO rechtfertigt.
+### Kein nicht wieder gutzumachender Nachteil im Ausstandsverfahren dank Art. 323 StPO
+[BGer 7B_965/2026 vom 23. September 2026, E. 4](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-965-2026_2026-09-23.html)
+* **Sachverhalt:** Das Kantonsgericht Basel-Landschaft wies den Antrag eines Beschwerdeführers ab, der Staatsanwaltschaft bis zum Entscheid über sein Ausstandsgesuch vorsorglich verfahrensabschliessende Entscheide zu untersagen.
+* **Kernaussage:** Die Abweisung eines solchen vorsorglichen Verbots bewirkt keinen nicht wieder gutzumachenden Nachteil nach Art. 93 Abs. 1 lit. a BGG. Selbst wenn die Verfahrensleitung das Strafverfahren vor dem Ausstandsentscheid einstellen würde, stünde dem Gesuchsteller bei Gutheissung seines Ausstandsbegehrens nebst Art. 60 Abs. 1 StPO die Wiederaufnahme nach Art. 323 Abs. 1 StPO offen.
 
-### [SZ Kantonsgericht BEK 2025 18 vom 28.04.2025](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2025-18_2025-04-28.pdf)
-- **Kanton**: Schwyz
-- **Thema**: Unzulässigkeit der Wiedererwägung statt Wiederaufnahme
-- **Kernaussage**: Eine formlose Wiedererwägung einer rechtskräftigen Einstellungsverfügung ohne Einhaltung von Art. 323 StPO ist unzulässig und nichtig.
+### Verjährung als Wiederaufnahmehindernis und Legitimation der Privatklägerschaft vor Bundesgericht
+[BGer 7B_176/2025 vom 25. März 2025, E. 3.2, 3.4 und 4.1–4.2](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_007_7B-176-2025_2025-03-25.html)
+* **Sachverhalt:** Die Beschwerdeführer verlangten 2024 die Wiederaufnahme einer bereits 2010 im Kanton Thurgau nicht anhand genommenen Strafanzeige wegen Amtsmissbrauchs, Urkundenfälschung und Betrugs, ohne neue Beweismittel zu nennen oder Zivilansprüche darzulegen.
+* **Kernaussage:** Auch bei Beschwerden gegen die Abweisung eines Wiederaufnahmegesuchs nach Art. 323 StPO muss die Privatklägerschaft ihre Zivilansprüche nach Art. 81 Abs. 1 lit. b Ziff. 5 BGG substanziiert darlegen. Ist die mutmassliche Straftat verjährt oder sollen bloss vorhandene Beweise neu bewertet werden, ist eine Wiederaufnahme ausgeschlossen.
 
-### [SZ Kantonsgericht BEK 2024 171 vom 14.11.2024](https://entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-171_2024-11-14.pdf)
-- **Kanton**: Schwyz
-- **Thema**: Gehörsanspruch der beschuldigten Person vor Wiederaufnahme
-- **Kernaussage**: Vor Erlass der Wiederaufnahmeverfügung ist der beschuldigten Person in der Regel das rechtliche Gehör zu den neuen Tatsachen zu gewähren, es sei denn, der Untersuchungszweck würde dadurch gefährdet.
+### Ausschliessliche Zuständigkeit der Staatsanwaltschaft und unschädliche Bezeichnung als «Wiedererwägung»
+[BGer 6B_174/2020 vom 23. April 2020, E. 3](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-174-2020_2020-04-23.html)
+* **Sachverhalt:** Nach rechtskräftiger Nichtanhandnahme einer Anzeige gegen Solothurner RAV- und Arbeitslosenkassenmitarbeiter gelangte der Anzeigeerstatter erneut an die Staatsanwaltschaft und erhob nach formloser Ablehnung Rechtsverweigerungsbeschwerde sowie ein «Wiedererwägungsgesuch» beim Obergericht.
+* **Kernaussage:** Die StPO kennt keine Wiedererwägung verfahrensabschliessender Entscheide, doch ist eine falsche Bezeichnung unschädlich. Über die Voraussetzungen von Art. 323 Abs. 1 StPO hat ausschliesslich die Staatsanwaltschaft zu befinden; die Beschwerdeinstanz darf im Rahmen einer Rechtsverweigerungsbeschwerde mangels Zuständigkeit nicht selbst über die Wiederaufnahme entscheiden.
 
-### [BS Appellationsgericht BES.2022.13 vom 11.05.2022](https://entscheidsuche.ch/docs/BS_Omni/BS_APG_001_BES-2022-13_2022-05-11.html)
-- **Kanton**: Basel-Stadt
-- **Thema**: Kostenauflage bei unbegründetem Wiederaufnahmegesuch
-- **Kernaussage**: Verlangt die Privatklägerschaft mutwillig eine Wiederaufnahme ohne neue Beweise, können ihr die Kosten des Wiederaufnahmeverfahrens auferlegt werden.
+### Fehlender Bezug neuer technischer Daten zum subjektiven Tatbestand
+[BGer 6B_931/2018 vom 9. April 2019, E. 3.1–3.3](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-931-2018_2019-04-09.html)
+* **Sachverhalt:** Nach Einstellung eines Betrugsverfahrens im Zusammenhang mit dem Kauf eines Porsche 997 Turbo beschaffte der Käufer ein Porsche-Ausleseprotokoll, wonach die Werksdaten (Kilometerstand und Betriebsstunden) beim Tausch des Motorsteuergeräts im Zuge von Tuningmassnahmen auf Null gesetzt worden waren.
+* **Kernaussage:** Neue technische Beweismittel rechtfertigen keine Wiederaufnahme nach Art. 323 Abs. 1 lit. a StPO, wenn sie keinen Anhaltspunkt dafür liefern, dass der Beschuldigte von einer unrechtmässigen Manipulation Kenntnis hatte oder im Kaufvertrag vorsätzlich falsche Angaben machte.
 
-### [GL Obergericht OG.2020.00067 vom 13.11.2020](https://entscheidsuche.ch/docs/GL_Omni/GL_OG_001_OG-2020-00067_2020-11-13.html)
-- **Kanton**: Glarus
-- **Thema**: Teilbarkeit der Wiederaufnahme bei mehreren Beschuldigten
-- **Kernaussage**: Werden neue Beweise bekannt, die nur einen von mehreren mitbeschuldigten Personen belasten, beschränkt sich die Wiederaufnahme auf diesen Beschuldigten.
+### Vorrang von Art. 323 StPO vor der Revision (Art. 410 StPO) bei Ausstandsrügen nach Nichtanhandnahme
+[BGer 6B_30/2018 vom 21. Juni 2018, E. 1.2](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-30-2018_2018-06-21.html)
+* **Sachverhalt:** Nach rechtskräftiger Abweisung seiner Beschwerde gegen eine Nichtanhandnahme stellte ein Berner Rechtsanwalt wegen eines nachträglich behaupteten Ausstandsgrunds ein Revisionsgesuch beim Obergericht.
+* **Kernaussage:** Die Revision nach Art. 410 ff. StPO ist ausschliesslich gegen rechtskräftige Sachurteile zulässig, nicht gegen Einstellungs- oder Nichtanhandnahmeverfügungen bzw. diesbezügliche Beschwerdeentscheide — auch nicht über Art. 60 Abs. 3 StPO. Einschlägig ist vielmehr Art. 323 StPO.
 
----
+### Rechtsmissbrauch nach früherer Desinteresseerklärung (Art. 55a StGB / Art. 319 StPO)
+[BGer 6B_139/2017 vom 27. September 2017, E. 2.3–2.5](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_006_6B-139-2017_2017-09-27.html)
+* **Sachverhalt:** Nach einer anwaltlich begleiteten Desinteresseerklärung der Privatklägerin stellte die Staatsanwaltschaft Baden das Verfahren gegen deren Partner im November 2013 ein. Zweieinhalb Jahre später verlangte sie die Wiederaufnahme wegen diagnostizierter Kiefer-Folgeschäden, einer neuen Zeugin und angeblicher Nötigung zur Desinteresseerklärung, obwohl sie bereits über ein Jahr zuvor ausgezogen war.
+* **Kernaussage:** Verlangt die Privatklägerschaft im Wiederaufnahmeverfahren die Abnahme von Beweisen, auf die im ersten Verfahren allein aufgrund ihrer eigenen Desinteresseerklärung verzichtet wurde, und rügt sie eine behauptete Nötigung nicht unverzüglich nach Wegfall des Einflussbereichs, darf das Gesuch als rechtsmissbräuchlich abgewiesen werden. Offen bleibt, ob nach einer Einstellung gemäss Art. 55a StGB eine Wiederaufnahme nach Art. 323 StPO überhaupt möglich ist.
 
-*Letzte Aktualisierung: 2026-11-27*
+### Vage Angaben anonymer Zeugen vom Hörensagen genügen lit. a nicht
+[BGer 1B_662/2011 vom 26. Januar 2012, E. 3.1–3.3](https://www.entscheidsuche.ch/docs/CH_BGer/CH_BGer_001_1B-662-2011_2012-01-26.html)
+* **Sachverhalt:** Nach definitiver Einstellung der Untersuchung zum Brückensturz eines 18-Jährigen im Jahr 1998 und erfolglosem erstem Wiederaufnahmebegehren (2007) beantragte der Vater 2011 die anonyme Einvernahme eines Privatdetektivs, der zwei anonyme Zeugen vom Hörensagen für einen angeblichen Tötungsauftrag benennen könne.
+* **Kernaussage:** Auch wenn an die Wiederaufnahme nach Art. 323 Abs. 1 StPO geringere Anforderungen gelten als an die Revision, müssen die neuen Hinweise von gewisser konkreter Wesentlichkeit sein. Sehr vage, unbestimmte Angaben anonymer Zeugen vom Hörensagen ohne konkrete Anhaltspunkte auf eine Täterschaft rechtfertigen keine Wiederaufnahme.
+
+### Terminologische Abgrenzung zur Wiederanhandnahme nach Art. 315 StPO
+[BStGer BB.2022.146 vom 8. September 2025, E. 1.1 und 1.2.2–1.2.3](https://www.entscheidsuche.ch/docs/CH_BSTG/CH_BSTG_001_BB-2022-146_2025-09-08.pdf)
+* **Sachverhalt:** Nach rechtskräftiger Nichtanhandnahme einer Strafanzeige einer Bundesstrafrichterin gegen Mitglieder der Verwaltungskommission des Bundesgerichts ersuchte die Anzeigerin unter Verweis auf ein Parlamentsvotum und behauptete Nichtigkeit um Weiterführung des Verfahrens. Die Bundesanwaltschaft wies das Gesuch ab.
+* **Kernaussage:** Die Ablehnung der Wiederaufnahme durch die Bundesanwaltschaft ist mit Beschwerde nach Art. 393 Abs. 1 lit. a StPO anfechtbar. Nach einer rechtskräftigen Nichtanhandnahme geht es stets um die Wiederaufnahme nach Art. 323 i.V.m. Art. 310 Abs. 2 StPO, nicht um eine Wiederanhandnahme eines bloss sistierten Verfahrens nach Art. 315 StPO.
+
+### Wiedererwägung von Einstellungs- und Nichtanhandnahmeverfügungen im Beschwerdeverfahren
+[BE OG BK 2023 333 vom 1. November 2023, E. 3.5–3.7](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2023-333_2023-11-01.pdf)
+* **Sachverhalt:** Während hängiger Beschwerde des Strafklägers hob die Berner Staatsanwaltschaft auf Weisung der Generalstaatsanwaltschaft ihre Einstellungsverfügung wiedererwägungsweise auf, ohne neue Tatsachen oder Beweismittel geltend zu machen. Der Beschuldigte widersetzte sich der Abschreibung des Beschwerdeverfahrens.
+* **Kernaussage:** In Präzisierung der Berner Praxis können während hängigem Beschwerdeverfahren nur noch Einstellungsverfügungen — nicht aber Nichtanhandnahmeverfügungen — in Wiedererwägung gezogen werden, und dies ausschliesslich bei Vorliegen von Wiederaufnahmegründen nach Art. 323 Abs. 1 StPO. Eine blosse Fehlerkorrektur ohne Noven ist unzulässig.
+
+### Abgrenzung zwischen Wiederaufnahme und neuen Tatvorwürfen
+[BE OG BK 2024 438 vom 27. Juni 2025, E. 4.1–4.2](https://entscheidsuche.ch/docs/BE_ZivilStraf/BE_OG_008_BK-2024-438_2025-06-27.pdf)
+* **Sachverhalt:** In einem Verfahren wegen falscher ärztlicher Abrechnungen reichte die Privatklägerin nach rechtskräftigem Abschluss Rückforderungsbelege und E-Mails zu den Tarmed-Positionen 00.0050 und 00.0510 ein, während im ursprünglichen Verfahren die Positionen 00.0141 und 00.2285 gerügt worden waren.
+* **Kernaussage:** Beziehen sich nachträglich eingereichte Belege ausschliesslich auf andere Abrechnungspositionen als die im erledigten Verfahren beanstandeten, sind sie für eine Wiederaufnahme nach Art. 323 Abs. 1 StPO unerheblich; es liegen neue Vorwürfe vor, die nicht Gegenstand des früheren Verfahrens waren.
+
+### Begründungsanforderungen an Beschwerden gegen abgewiesene Wiederaufnahmen (Art. 385 StPO)
+[SZ KG BEK 2024 34 vom 5. Juni 2024, E. 2](https://www.entscheidsuche.ch/docs/SZ_Gerichte/SZ_KG_004_BEK-2024-34_2024-06-05.pdf)
+* **Sachverhalt:** Eine juristische Laiin erhob Beschwerde gegen drei Verfügungen der Schwyzer Staatsanwaltschaft betreffend abgewiesene Wiederaufnahmen und Nichtanhandnahme und brachte pauschal vor, ihre Anzeigen seien nicht bearbeitet worden.
+* **Kernaussage:** Auch juristischen Laien ist es nach Art. 385 StPO zumutbar, sich konkret mit den Erwägungen der Ablehnungsverfügung auseinanderzusetzen und darzulegen, welche konkreten Wiederaufnahmegründe nach Art. 323 StPO vorliegen; andernfalls wird auf die Beschwerde nach Art. 388 Abs. 2 lit. b StPO nicht eingetreten.
